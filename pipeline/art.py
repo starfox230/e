@@ -220,19 +220,27 @@ class Scene:
         ww = max(2, int(pitch_x * 0.55))
         wh = max(3, int(pitch_y * 0.5))
         lit_p = 0.30 - depth * 0.10
-        for i in range(cols):
-            for j in range(rows):
-                wx = x + 8 + i * pitch_x
-                wy = top + 10 + j * pitch_y
-                if r.random() < lit_p:
-                    c = warm if r.random() < 0.82 else cool
-                    a = int(r.integers(120, 245))
-                    d.rectangle([wx, wy, wx + ww, wy + wh], fill=rgb(c) + (a,))
-                    if r.random() < 0.30:
-                        ds.rectangle([wx - 1, wy - 1, wx + ww + 1, wy + wh + 1], fill=rgb(c))
-                elif r.random() < 0.5:
-                    d.rectangle([wx, wy, wx + ww, wy + wh],
-                                fill=rgb(lerp(self.pal[0], self.pal[1], 0.75)) + (150,))
+        for j in range(rows):
+            wy = top + 10 + j * pitch_y
+            floor_lit = r.random() < 0.82          # some floors are dark all the way across
+            floor_tint = warm if r.random() < 0.85 else cool
+            i = 0
+            while i < cols:
+                run = int(r.integers(1, 5))        # lit windows come in runs, not confetti
+                lit = floor_lit and r.random() < lit_p * 2.4
+                for k in range(run):
+                    if i + k >= cols:
+                        break
+                    wx = x + 8 + (i + k) * pitch_x
+                    if lit:
+                        a = int(r.integers(140, 250))
+                        d.rectangle([wx, wy, wx + ww, wy + wh], fill=rgb(floor_tint) + (a,))
+                        if r.random() < 0.22:
+                            ds.rectangle([wx - 1, wy - 1, wx + ww + 1, wy + wh + 1], fill=rgb(floor_tint))
+                    else:
+                        d.rectangle([wx, wy, wx + ww, wy + wh],
+                                    fill=rgb(lerp(self.pal[0], self.pal[1], 0.78)) + (165,))
+                i += run
         layer = layer.filter(ImageFilter.GaussianBlur(0.7))
         self.img = Image.alpha_composite(self.img.convert('RGBA'), layer).convert('RGB')
         self.img = ImageChops.add(self.img, Image.eval(spill.filter(ImageFilter.GaussianBlur(9)), lambda v: int(v * 0.45)))
@@ -974,12 +982,21 @@ class Scene:
 
         # ---- default: atmospheric establishing shot
         self.sky()
-        self.skyline(int(H * 0.68), depth=0.7, tall=False)
-        self.horizon_haze(int(H * 0.68))
-        self.fog(int(H * 0.72), 0.35)
-        if self.has('figure', 'man', 'woman', 'standing', 'walking'):
-            self.figure(int(W * 0.5), int(H * 0.96), int(H * 0.38))
-        self.dust(160)
+        self.skyline(int(H * 0.60), depth=0.85, tall=True)
+        self.horizon_haze(int(H * 0.62))
+        self.skyline(int(H * 0.74), depth=0.45, tall=False)
+        self.fog(int(H * 0.70), 0.38)
+        self.skyline(int(H * 0.88), depth=0.06, tall=False)
+        gy = int(H * 0.88)
+        self.rect([0, gy, W, H], lerp(self.pal[0], self.pal[1], 0.18))
+        self.wet_ground(gy, int(H * 0.26))
+        if self.has('rain'):
+            self.rain(900)
+        if self.has('figure', 'man', 'woman', 'standing', 'walking', 'alone'):
+            self.figure(int(W * r.choice([0.3, 0.68])), int(H * 0.97), int(H * 0.40))
+        self.dust(140)
+        self.texture(0.05)
+        self.foreground_frame(1.0)
         self.grade()
         return self.img
 
