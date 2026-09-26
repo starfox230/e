@@ -1,58 +1,5 @@
 # 49 | Peer or Plague
 
-[music] m_sad -10
-[amb] amb_wind -12
-[img] an old stone house on a green hillside above the sea in winter, smoke from a chimney, one car in the lane, cinematic
-[loc] County Clare, Ireland — 2073
-N: Catherine Adeyemi refused the therapy in twenty forty-nine, and again in fifty-four, and again in sixty-one, and the last time they discussed it she was seventy-three and she put her hand on his arm, which she had never done in twenty-two years, and said: Albert, I would like to be finished.
-N: She retired in twenty sixty-two, at seventy-four, after thirty-five years as chief financial officer. She was the last of them. Dana Whitfield had died in twenty forty-four. Tomás Reyes had taken the therapy and then, in twenty fifty-eight, at sixty, had stopped taking it, quietly, without telling anyone, and had lived four more years and died in a house on the Brandywine with the sound off.
-N: She bought a house in County Clare, on a hillside above the Atlantic, four hundred miles from the nearest Umbrella facility, and she read, and she walked, and for the first time in her adult life she was bored, and she found that she liked it.
-[pause 2.0]
-[img] {CATHERINE} very old, white-haired, sitting in an armchair by a window looking at the sea, a blanket over her knees, cinematic
-N: He came every year. Not on a schedule; she would not have tolerated a schedule. He would simply be there, in the lane, in a long black coat, on some afternoon in the autumn, and she would put the kettle on and complain about the drive, and they would sit by the window and argue for four hours about something that no longer mattered.
-N: In twenty seventy-three she was eighty-five and dying of an ordinary thing that could have been fixed in an afternoon by a medicine her own company made.
-[pause 1.5]
-[img] {WESKER} sitting in a small chair beside an old woman's bed in a room full of afternoon light, looking out of place and entirely still, cinematic
-CATHERINE: Don't say it.
-WESKER: I haven't said anything.
-CATHERINE: You're about to. You're going to tell me there's an infusion, and that it would take an hour, and that I'd have another forty years.
-WESKER: Sixty.
-CATHERINE: (soft) Sixty. God.
-[pause 2.0]
-N: She was quiet for a while. The light moved on the wall.
-CATHERINE: Do you know why not?
-WESKER: Tell me. I've had forty years to guess and I've never been sure.
-[pause 1.5]
-CATHERINE: Because everyone who takes it belongs to you. Not because you make them. Because they know who made it, and because they'd have died without it, and after a while that gets into the floor of a person and they stop being able to tell where you end and they begin.
-CATHERINE: I've watched it happen to eleven billion people. I watched it happen to Owen Carrick, who spent sixteen years trying to put you in prison and took it in twenty forty-one like everyone else.
-[pause 1.0]
-CATHERINE: I'm the last person alive who remembers what you looked like when you were small enough to be stopped. I'd like to take that with me.
-[pause 2.5]
-N: He did not argue. That was the thing she noticed, and thought about that night when she could not sleep, and never got to ask him about.
-N: In twenty twenty-eight, in a glass office in Manhattan, he would have argued. He would have found the four sentences that turned her, because he could always find them, and she would have taken the infusion and been grateful.
-N: He sat in a small chair in a small room in Ireland and let an eighty-five-year-old woman tell him that she was dying in order to not belong to him, and he did not say one word to stop her.
-[pause 2.0]
-CATHERINE: (soft) Can I ask you something? The real one. The one I've never asked.
-WESKER: Yes.
-CATHERINE: In twenty twenty-eight you told me there was a facility under the old building. You told me it was legal the way the Manhattan Project was legal. I asked you if anyone was being hurt and you said no, and it was true, and I've thought about that answer for forty-five years.
-[pause 1.0]
-CATHERINE: If I had asked you the same question in twenty thirty-six — after Pale Horse — what would you have said?
-[pause 2.5]
-N: He looked out of the window at the sea for a long time.
-WESKER: I'd have said no.
-CATHERINE: (whisper) And it would have been a lie.
-WESKER: Yes.
-[pause 1.5]
-CATHERINE: Thank you.
-[pause 2.0]
-N: She died four days later, in the afternoon, in the chair by the window, with a book she had read four times.
-N: She had eleven billion dollars, and no children, and a will of four pages that left almost all of it to an endowment for the audit of public institutions, in perpetuity, with a clause — drafted by her, and by the finest legal minds money could buy, and upheld in every jurisdiction it was ever tested in — that no entity controlled by or affiliated with Umbrella Life Sciences, or its successors, could ever sit on its board, receive its funds, or see its accounts.
-N: It is still operating. It has audited the Directorate nineteen times. It has never once been permitted to finish.
-[pause 2.5]
-[img] a plain headstone on a windy Irish hillside above the sea, fresh flowers, grey sky, cinematic
-N: He came to the funeral. There were fourteen people. Nobody there had any idea who he was, which he had arranged, and which was the last favour he ever did for her.
-[pause 3.0]
-
 [music] m_alien -8
 [amb] amb_space -8
 [img] a colossal alien delegation vessel of polished black stone approaching a human orbital station, formal and enormous, cinematic
@@ -73,6 +20,30 @@ SETHRA: (slow) It ended my ascent. It also ended the argument. There are nine th
 SETHRA: You did not humiliate me, Director. You made me the only witness. I have spent forty-five years being unable to decide whether that was mercy or the most complete defeat in our history.
 WESKER: (soft) It was both. It usually is.
 [pause 2.5]
+
+[music] m_alien -10
+[amb] amb_ship_hum -10
+[img] a human delegation in dark uniforms standing in an immense alien hall of black stone, alien castes watching from tiers, cinematic
+[loc] Veth Hegemony, the Ninth Seat — 2138
+N: The embassy went out in twenty one hundred and thirty-eight, and it is the strangest document in human history, because it is the only time the Umbrella Directorate ever agreed to be watched.
+N: The accord required an exchange. Forty Veth of the observing caste took residence on Arklay Free Territory, with the freedom of the city, and stayed for nineteen years. Forty humans went to the Ninth Seat of the Hegemony, and were housed in a hall built for them in four months, and were permitted to go anywhere, and to ask anything.
+N: Both sides expected espionage. Both sides got it. What neither side expected was what the observers wrote home about.
+[pause 1.5]
+[img] an alien observer standing at a window of an ocean city apartment watching human children play on a terrace below, cinematic
+N: The Veth reports from Arklay ran to four million words over nineteen years, and they are the finest account of the Directorate that exists, because they were written by people with no stake in it and no vocabulary for it.
+N: They described a city of a hundred and sixty thousand with no police to speak of, no poverty, no crime worth recording, and no argument. They described children who were kind to each other without being taught to be. They described an entire population that could give a reason for everything it did, and that gave the same reason.
+N: And in the ninth year, an observer of the fourth caste — whose name renders as Oreth-Vanu, and who had been on Arklay longer than anyone — wrote four sentences that the Hegemony has never been able to decide how to file.
+[pause 1.5]
+VETH: I have been nine years in this city and I am no longer certain what I am observing. It is not a tyranny. I have seen tyrannies; they smell of fear and this place has none. It is a hundred and sixty thousand people who have each, separately and freely, decided to stop deciding. I do not know what our word for that is and I do not think they have one either.
+[pause 2.5]
+
+[music] m_horror -10
+[img] {WESKER} reading a translated alien report alone in a dark room, the pages glowing, his face unreadable, cinematic
+N: The Directorate translated every word of those reports, and published them in full, on every world, as the accord required, and the Director read all four million words himself over nineteen years.
+N: He made one annotation, in the archive, beside Oreth-Vanu's four sentences. It is still there. It is three words long.
+[pause 1.5]
+WESKER: (soft) Nor do I.
+[pause 3.0]
 
 [music] m_horror -10
 [img] a formal signing between a human delegation and a Veth delegation, two very different species at one table, stars through a vast window, cinematic

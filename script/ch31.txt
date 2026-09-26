@@ -4,6 +4,7 @@
 [amb] amb_office_hum
 [img] {CATHERINE} at a boardroom table during a meeting, staring across the table at a younger-looking general with dark hair who is smiling too long, her pen frozen over her notes, cinematic
 [loc] Umbrella board meeting — May 2033
+N: To see how the company came apart from the inside, we have to go back — to a year before Hong Kong, and a boardroom on the twelfth floor.
 N: Catherine Adeyemi worked it out at a board meeting, in May of twenty thirty-three, by watching a man smile.
 N: General Thomas Wyatt had joined Umbrella's board when the Aegis deal closed. He sat across the table from her, in the boardroom on the twelfth floor, and he listened to her present the quarterly accounts, and he smiled at her the whole time. He smiled at every number. He smiled at the slide about tax. He smiled until she looked away, and then, when she looked back, he was still smiling.
 N: She had known him slightly for a year. She had sat across from him in the Pentagon, when he was dying and hiding it and angry at everyone, and she had liked him — a proud, prickly, honest old soldier who did not trust anyone in the room. The man across the table was twenty pounds lighter, with dark hair, and a grip that had made her hand ache for an hour. He agreed with everything the Director said. He had not asked a single question in four meetings.

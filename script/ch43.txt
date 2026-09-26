@@ -4,6 +4,7 @@
 [amb] amb_space -10
 [img] Earth seen from orbit at night with the terminator line, city lights below, and a long white structure being assembled in the dark above, cinematic
 [loc] Low Earth orbit — 2049
+N: While the Directorate learned to govern a planet, its Director was looking in the other direction.
 N: The BEYOND tab had four items in it on the first night. He could afford none of them.
 N: Eighty-four billion Points had bought a world. The cheapest thing behind the seventh tab cost nine hundred billion.
 N: That was, he understood immediately, the answer to a question he had been carrying for twenty-one years — why the System had ever bothered with a dying laboratory in Delaware. It had not been building a businessman. It had been raising the capital.
