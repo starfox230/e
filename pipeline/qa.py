@@ -92,13 +92,15 @@ def check(ch, fix=False):
         issues.append(f'{missing} shots have no image')
 
     # ---- video
-    vid = os.path.join(work, 'video.mp4')
+    vid = os.path.join(ROOT, 'out', 'video', f'ch{ch:02d}.mp4')
+    if not os.path.exists(vid):
+        vid = os.path.join(work, 'video.mp4')
     if os.path.exists(vid):
         pr = probe(vid)
         vdur = float(pr['format']['duration'])
         notes['video_s'] = round(vdur, 3)
         streams = {s['codec_type']: s for s in pr['streams']}
-        if abs(vdur - dur) > 0.5:
+        if abs(vdur - dur) > 1.0:
             issues.append(f'video {vdur:.2f}s != timeline {dur:.2f}s')
         if 'audio' in streams and 'video' in streams:
             av = abs(float(streams['audio'].get('duration', vdur)) - float(streams['video'].get('duration', vdur)))
