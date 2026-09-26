@@ -1,0 +1,789 @@
+1
+00:00:07,799 --> 00:00:10,980
+The second company he ate was the
+one he needed.
+
+2
+00:00:11,550 --> 00:00:16,977
+Aegis Dynamics built things that flew. Drones,
+mostly — reconnaissance drones for the
+
+3
+00:00:16,997 --> 00:00:22,616
+Army, strike drones for the Air Force, long-endurance
+maritime drones for the Navy, and,
+
+4
+00:00:22,636 --> 00:00:28,384
+since the war in Ukraine had taught every general on
+Earth what small cheap machines could
+
+5
+00:00:28,404 --> 00:00:34,023
+do, swarms of tiny ones that could be carried in a
+backpack and launched by the hundred.
+
+6
+00:00:34,043 --> 00:00:39,470
+It employed sixty thousand people, it earned most
+of its money from the Pentagon, and
+
+7
+00:00:39,490 --> 00:00:41,777
+it was worth eighty billion dollars.
+
+8
+00:00:42,347 --> 00:00:48,292
+It was also the only company in America with a
+delivery system good enough for what the
+
+9
+00:00:48,312 --> 00:00:52,268
+Department of Defense had quietly
+asked Umbrella to build.
+
+10
+00:00:53,838 --> 00:00:59,537
+Martin Sloane's second contract had arrived in the
+spring. It was an extension of the
+
+11
+00:00:59,557 --> 00:01:05,256
+first. A vaccine that could be made in eight days
+was useful, the Pentagon's planners
+
+12
+00:01:05,276 --> 00:01:11,379
+had noted, only if it could be delivered in eight
+hours — to a city, to a base, to a fleet,
+
+13
+00:01:11,399 --> 00:01:17,098
+before a pathogen had time to spread. They wanted a
+way to vaccinate a million people
+
+14
+00:01:17,118 --> 00:01:19,721
+at once, from the air, without needles.
+
+15
+00:01:20,292 --> 00:01:26,228
+Umbrella could make the vaccine. Aegis could build
+the drones. The Pentagon wanted them
+
+16
+00:01:26,248 --> 00:01:28,282
+to work together. So they did.
+
+17
+00:01:30,352 --> 00:01:36,425
+Aegis Dynamics was run by General Thomas Wyatt,
+United States Army, retired.
+
+18
+00:01:36,995 --> 00:01:43,061
+He had commanded a division in Iraq and a corps in
+Afghanistan, and had retired with four
+
+19
+00:01:43,081 --> 00:01:49,147
+stars, and gone into industry because the Army's
+pension did not pay for three children's
+
+20
+00:01:49,167 --> 00:01:55,371
+college and a house in McLean. He was sixty-six. He
+was a patriot of the old, uncomplicated
+
+21
+00:01:55,391 --> 00:02:01,525
+kind — the kind that stands up for the anthem at ball
+games and means it — and he disliked
+
+22
+00:02:01,545 --> 00:02:04,193
+Albert Wesker from the moment they met.
+
+23
+00:02:04,763 --> 00:02:10,457
+He could not have said why. He had shaken the man's
+hand at the Pentagon, in a conference
+
+24
+00:02:10,477 --> 00:02:16,043
+room full of colonels, and felt — he told his wife
+that night — as though he had shaken
+
+25
+00:02:16,063 --> 00:02:21,243
+hands with a very good salesman who was selling
+something he did not want to buy.
+
+26
+00:02:21,933 --> 00:02:26,409
+I'll be straight with you, Doctor. I don't like
+working with people I can't read. I've
+
+27
+00:02:26,429 --> 00:02:29,650
+spent forty years reading men across
+tables. I can't read you.
+
+28
+00:02:30,170 --> 00:02:35,712
+That's a compliment, General. Most people find me
+very easy to read. They just read the
+
+29
+00:02:35,732 --> 00:02:36,542
+wrong things.
+
+30
+00:02:37,062 --> 00:02:38,909
+That's what worries me.
+
+31
+00:02:40,930 --> 00:02:46,978
+They worked together anyway, for nine months,
+because the Pentagon told them to. And in
+
+32
+00:02:46,998 --> 00:02:53,255
+those nine months, Umbrella's engineers learned
+everything about Aegis Dynamics that there
+
+33
+00:02:53,275 --> 00:02:59,183
+was to learn: its factories, its supply chains, its
+contracts, its people, its debts,
+
+34
+00:02:59,203 --> 00:03:01,067
+and its one great weakness.
+
+35
+00:03:01,637 --> 00:03:06,661
+Its one great weakness was Thomas Wyatt.
+Because Thomas Wyatt was dying.
+
+36
+00:03:08,730 --> 00:03:14,294
+He had told no one except his wife and his
+oncologist. Pancreatic cancer, stage four,
+
+37
+00:03:14,314 --> 00:03:20,075
+discovered in the spring of twenty thirty-two during
+a routine check-up. Six months, the
+
+38
+00:03:20,095 --> 00:03:25,856
+oncologist had said. Perhaps nine, with treatment. He
+had not started treatment, because
+
+39
+00:03:25,876 --> 00:03:31,440
+it would have meant telling his board, and telling
+his board would have meant telling
+
+40
+00:03:31,460 --> 00:03:37,023
+the market, and telling the market would have meant
+watching the company he had spent
+
+41
+00:03:37,043 --> 00:03:42,081
+eight years rebuilding sold off in pieces while
+he was still alive to see it.
+
+42
+00:03:42,651 --> 00:03:48,318
+The Director knew by the second meeting. The
+Cold-Read did not need a scan. It had seen
+
+43
+00:03:48,338 --> 00:03:53,939
+the faint yellow at the edge of the general's eyes,
+and the way he held his coffee cup
+
+44
+00:03:53,959 --> 00:03:59,560
+with his right hand pressed flat against his
+stomach, and the flicker of pain he hid a
+
+45
+00:03:59,580 --> 00:04:01,063
+dozen times in an hour.
+
+46
+00:04:03,133 --> 00:04:05,512
+It was Evelyn Marsh who proposed it.
+
+47
+00:04:06,082 --> 00:04:11,400
+She had been waiting for two years. The Progenitor
+Initiative had learned a great deal
+
+48
+00:04:11,420 --> 00:04:16,676
+from the five enhanced macaques, and from the grey
+sleeper in the cold room, and from
+
+49
+00:04:16,696 --> 00:04:21,952
+the blood of the man who had built it all. It had
+learned how to make a derivative of
+
+50
+00:04:21,972 --> 00:04:27,413
+the Prototype that a human body might tolerate — not
+the full virus, not what was in the
+
+51
+00:04:27,433 --> 00:04:32,875
+Director's blood, but a gentler strain, a shadow of
+it, that would rewrite damaged cells
+
+52
+00:04:32,895 --> 00:04:34,986
+and leave most healthy ones alone.
+
+53
+00:04:35,555 --> 00:04:36,334
+Most.
+
+54
+00:04:37,023 --> 00:04:42,030
+It will cure him. I'm almost certain it will cure
+him. The tumour is exactly the kind
+
+55
+00:04:42,050 --> 00:04:44,574
+of damaged tissue the strain
+targets first.
+
+56
+00:04:45,095 --> 00:04:46,078
+Almost certain.
+
+57
+00:04:46,596 --> 00:04:51,944
+Eighty percent. Perhaps eighty-five. And he's dying
+anyway, Albert. He has five months.
+
+58
+00:04:51,964 --> 00:04:53,548
+What does he have to lose?
+
+59
+00:04:54,069 --> 00:04:55,308
+And what else will it do?
+
+60
+00:04:56,827 --> 00:04:59,036
+We don't know. That's why we need him.
+
+61
+00:05:01,055 --> 00:05:06,468
+The Director looked at her for a long time. She was
+thirty-three now. She had not left
+
+62
+00:05:06,488 --> 00:05:12,026
+the Arklay sublevel for more than a day at a time in
+four years. Her skin had the pallor
+
+63
+00:05:12,046 --> 00:05:17,521
+of someone who lived under artificial light, and her
+eyes had the brightness of someone
+
+64
+00:05:17,541 --> 00:05:22,132
+who did not need to see the sun, because she
+had seen something brighter.
+
+65
+00:05:22,704 --> 00:05:28,803
+The Cold-Read showed him her face, and he read it, and
+what he read there was not ambition,
+
+66
+00:05:28,823 --> 00:05:34,653
+or even curiosity. It was love. A pure, total,
+terrible love — not for him, anymore, or
+
+67
+00:05:34,673 --> 00:05:38,754
+not only for him. For the work. For
+what the work could make.
+
+68
+00:05:39,444 --> 00:05:41,430
+She is magnificent.
+
+69
+00:05:41,949 --> 00:05:44,042
+She's becoming something I didn't plan.
+
+70
+00:05:44,562 --> 00:05:46,910
+The best ones always do.
+
+71
+00:05:48,930 --> 00:05:52,003
+Ask him yourself, Evelyn. If he
+says yes, it's yes.
+
+72
+00:05:54,523 --> 00:05:59,664
+She met him on a bench by the Potomac, at night,
+because he would not come to Delaware.
+
+73
+00:06:00,233 --> 00:06:05,804
+She did not lie to him. That was her gift, and her
+horror: she never lied to anyone about
+
+74
+00:06:05,824 --> 00:06:11,395
+the work. She told him what the strain was, and what
+it had done to twenty-four macaques,
+
+75
+00:06:11,415 --> 00:06:16,797
+and what it might do to him. She told him eighty
+percent. She told him that nobody had
+
+76
+00:06:16,817 --> 00:06:22,765
+ever received it. She told him that he would have to
+come to a facility that did not officially
+
+77
+00:06:22,785 --> 00:06:28,293
+exist, and stay for twelve weeks, and that when he
+came out he would be alive, and well,
+
+78
+00:06:28,313 --> 00:06:32,313
+and that he might be — she chose the word
+carefully — different.
+
+79
+00:06:33,004 --> 00:06:34,105
+Different how?
+
+80
+00:06:34,625 --> 00:06:40,813
+We don't know. The animals that survived were calmer.
+More focused. Stronger. More — cooperative.
+
+81
+00:06:41,333 --> 00:06:43,194
+Cooperative with who?
+
+82
+00:06:45,213 --> 00:06:46,699
+With the people who treated them.
+
+83
+00:06:49,218 --> 00:06:54,784
+Thomas Wyatt sat on the bench by the river for a long
+time, looking at the lights of the
+
+84
+00:06:54,804 --> 00:06:59,353
+Pentagon on the far bank, where he had spent
+the best years of his life.
+
+85
+00:06:59,923 --> 00:07:05,211
+He thought about his wife, Eleanor, whom he had
+married in nineteen ninety. He thought
+
+86
+00:07:05,231 --> 00:07:10,643
+about his three children, and the grandchild due in
+March. He thought about five months,
+
+87
+00:07:10,663 --> 00:07:13,605
+and what the last three of them
+would look like.
+
+88
+00:07:14,175 --> 00:07:20,376
+He was a brave man. He had been brave in Fallujah and
+in Kandahar. But courage is a thing
+
+89
+00:07:20,396 --> 00:07:26,597
+you use against an enemy, and there was no enemy on
+the bench by the river — only a quiet
+
+90
+00:07:26,617 --> 00:07:30,442
+young woman with a folder, offering
+him his grandchild.
+
+91
+00:07:31,132 --> 00:07:32,185
+All right.
+
+92
+00:07:34,704 --> 00:07:40,861
+General Thomas Wyatt took medical leave from Aegis
+Dynamics on the first of October, twenty
+
+93
+00:07:40,881 --> 00:07:46,834
+thirty-two. The company's announcement said he was
+recovering from a minor procedure and
+
+94
+00:07:46,854 --> 00:07:53,350
+would return early in the new year. His wife was told he
+was at a private clinic in Switzerland.
+
+95
+00:07:53,370 --> 00:07:59,188
+He was not in Switzerland. He was a hundred feet
+beneath a brick building on the south
+
+96
+00:07:59,208 --> 00:08:05,025
+bank of the Christina River, in a white room at the
+end of a white corridor, next door
+
+97
+00:08:05,045 --> 00:08:08,147
+to a cold room where something
+enormous slept.
+
+98
+00:08:08,718 --> 00:08:13,681
+The tumour was gone in nineteen days. Evelyn
+cried when she saw the scan.
+
+99
+00:08:14,252 --> 00:08:19,550
+The other changes took longer. His hair, which had
+been silver for fifteen years, began
+
+100
+00:08:19,570 --> 00:08:25,052
+at the roots to grow back dark. His skin tightened.
+The arthritis in his hands, from forty
+
+101
+00:08:25,072 --> 00:08:30,492
+years of cold mornings, disappeared. His heart rate
+fell to forty beats a minute at rest,
+
+102
+00:08:30,512 --> 00:08:35,749
+and stayed there. By the eighth week he could lift
+twice what he had lifted at thirty.
+
+103
+00:08:35,769 --> 00:08:41,006
+By the tenth, he had stopped sleeping more than two
+hours a night, and did not seem to
+
+104
+00:08:41,026 --> 00:08:41,495
+need to.
+
+105
+00:08:42,066 --> 00:08:47,199
+And by the twelfth week, when the Director came
+down to see him, he stood up when the
+
+106
+00:08:47,219 --> 00:08:48,776
+Director entered the room.
+
+107
+00:08:49,346 --> 00:08:55,508
+Not the way a man stands for a guest. The way a
+soldier stands for a commanding officer
+
+108
+00:08:55,528 --> 00:09:01,761
+— instantly, completely, without deciding to. His
+back straight, his hands at his sides,
+
+109
+00:09:01,781 --> 00:09:02,970
+his eyes forward.
+
+110
+00:09:03,659 --> 00:09:04,612
+Director.
+
+111
+00:09:06,633 --> 00:09:12,269
+The Director looked at him for a long time. Viral
+Dominion, the new sense, the sound at
+
+112
+00:09:12,289 --> 00:09:17,860
+the edge of hearing — it was humming. It could feel
+the strain in the general's blood,
+
+113
+00:09:17,880 --> 00:09:23,841
+the way it could feel the sleeper in the cold room. A
+thread. A thin, bright thread, running
+
+114
+00:09:23,861 --> 00:09:25,922
+from the old soldier to himself.
+
+115
+00:09:26,611 --> 00:09:28,020
+How do you feel, General?
+
+116
+00:09:28,541 --> 00:09:32,041
+Very well, Director. Thank you. I'm
+ready to go back to work.
+
+117
+00:09:32,561 --> 00:09:34,269
+And what will you do when you get there?
+
+118
+00:09:34,788 --> 00:09:36,748
+Whatever you think is best.
+
+119
+00:09:39,267 --> 00:09:44,132
+A general who obeys. Do you understand
+what she has given you?
+
+120
+00:09:44,653 --> 00:09:45,331
+Yes.
+
+121
+00:09:45,850 --> 00:09:51,713
+In my whole life I never had one. Not one. They all
+thought they knew better. They all
+
+122
+00:09:51,733 --> 00:09:58,213
+waited for me to fail. They tried to kill me in my own
+headquarters with a bomb in a briefcase.
+
+123
+00:09:58,233 --> 00:10:03,345
+And she has made one, in twelve weeks, in a
+white room, out of a dying man.
+
+124
+00:10:05,365 --> 00:10:11,243
+Wesker did not answer. He was looking at the general's
+eyes. They were a little too bright.
+
+125
+00:10:11,263 --> 00:10:16,883
+They caught the light the way the macaques' eyes had
+caught it, in the glass enclosure,
+
+126
+00:10:16,903 --> 00:10:18,827
+when Owen Carrick walked past.
+
+127
+00:10:19,397 --> 00:10:20,958
+And they did not blink.
+
+128
+00:10:23,528 --> 00:10:29,556
+General Thomas Wyatt returned to Aegis Dynamics in
+the second week of January. His board,
+
+129
+00:10:29,576 --> 00:10:35,468
+which had been preparing quietly to replace him,
+found him in the boardroom at seven in
+
+130
+00:10:35,488 --> 00:10:41,244
+the morning, twenty pounds lighter, with dark hair,
+and a grip that made the chairman
+
+131
+00:10:41,264 --> 00:10:41,652
+wince.
+
+132
+00:10:42,221 --> 00:10:48,454
+In February, Umbrella Life Sciences made an offer to
+acquire Aegis Dynamics for ninety-four
+
+133
+00:10:48,474 --> 00:10:54,500
+billion dollars in cash. The board — expecting their
+chief executive to fight it the way
+
+134
+00:10:54,520 --> 00:11:00,409
+he had fought everything in his career — called a
+special meeting of the shareholders.
+
+135
+00:11:00,980 --> 00:11:06,091
+General Wyatt stood at the podium, and smiled,
+and recommended that they accept.
+
+136
+00:11:06,660 --> 00:11:12,528
+He smiled a great deal that day. That was what people
+remembered afterwards. He had never
+
+137
+00:11:12,548 --> 00:11:18,216
+been a man who smiled much. Now he smiled at
+everyone — at the board, at the analysts,
+
+138
+00:11:18,236 --> 00:11:23,839
+at the shareholders who asked hostile questions —
+and he held each smile a little too
+
+139
+00:11:23,859 --> 00:11:27,345
+long, until the person he was
+smiling at looked away.
+
+140
+00:11:27,914 --> 00:11:34,748
+The shareholders accepted. The Pentagon, advised by a
+very small office that Martin Sloane
+
+141
+00:11:34,768 --> 00:11:41,296
+had spoken to, raised no objection. The Committee on
+Foreign Investment had nothing to
+
+142
+00:11:41,316 --> 00:11:47,007
+review, because Umbrella was an American
+company. The deal closed in April.
+
+143
+00:11:49,827 --> 00:11:58,460
+Corporate conquest. Aegis Dynamics. Personnel
+conversion, Progenitor, human, one.
+
+144
+00:12:00,049 --> 00:12:03,198
+Personnel conversion.
+Progenitor. Human. One.
+
+145
+00:12:03,769 --> 00:12:09,258
+The Director read that line three times. It was a
+very small number. He knew, reading
+
+146
+00:12:09,278 --> 00:12:11,397
+it, that it would not stay small.
+
+147
+00:12:13,967 --> 00:12:17,903
+Eleanor Wyatt had been married to
+Thomas for forty-two years.
+
+148
+00:12:18,474 --> 00:12:23,706
+She had nursed him through two wars and a divorce
+that almost happened and a heart scare
+
+149
+00:12:23,726 --> 00:12:28,839
+in twenty-nineteen. She had sat with him in the
+oncologist's office in the spring, and
+
+150
+00:12:28,859 --> 00:12:34,032
+held his hand, and watched him decide not to tell
+anyone. And in January she had opened
+
+151
+00:12:34,052 --> 00:12:39,105
+her front door to a man with her husband's face and
+her husband's voice and dark hair
+
+152
+00:12:39,125 --> 00:12:44,358
+and a grip that did not hurt her only because he was
+careful, and he had kissed her, and
+
+153
+00:12:44,378 --> 00:12:46,507
+smiled, and held the smile too long.
+
+154
+00:12:47,076 --> 00:12:53,322
+He was kind to her. He was attentive. He remembered
+every anniversary and every grandchild's
+
+155
+00:12:53,342 --> 00:12:59,180
+birthday. He no longer drank, or swore, or shouted
+at the Commanders on television. He
+
+156
+00:12:59,200 --> 00:13:05,105
+did not sleep. At three in the morning she would
+find him standing at the window of the
+
+157
+00:13:05,125 --> 00:13:08,442
+dark living room, perfectly
+still, looking north.
+
+158
+00:13:09,133 --> 00:13:10,628
+Tom? What are you looking at?
+
+159
+00:13:11,148 --> 00:13:13,447
+Nothing, Ellie. Go back to bed.
+
+160
+00:13:15,966 --> 00:13:21,698
+She did not go back to bed. She sat in the dark and
+watched him, and understood — the
+
+161
+00:13:21,718 --> 00:13:27,584
+way wives of forty-two years understand things,
+without evidence, completely — that the
+
+162
+00:13:27,604 --> 00:13:31,440
+cancer had been cured, and her
+husband had not come home.
+
+163
+00:13:32,010 --> 00:13:38,049
+In April, she found a business card on a nightstand
+in a hotel in Washington, where she
+
+164
+00:13:38,069 --> 00:13:44,107
+had gone for a fundraiser. It was not hers. Someone
+had left it for her. It had an Oslo
+
+165
+00:13:44,127 --> 00:13:46,544
+telephone number on it, and a name.
+
+166
+00:13:47,115 --> 00:13:48,616
+Ingrid Halvorsen.
