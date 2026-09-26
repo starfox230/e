@@ -1,0 +1,157 @@
+# 8 | Verdant Axis
+
+[music] m_tension -8
+[amb] amb_office_hum
+[img] a legal complaint document with a court seal of the Delaware Court of Chancery on a desk, stamped FILED, harsh office light, cinematic
+[loc] December 2026
+N: Graham Tolliver struck back in the first week of December, and he struck the way frightened rich men always strike: with lawyers, with money, and with gossip, all at once.
+N: The lawyers came first. A complaint filed in the Delaware Court of Chancery, forty-one pages long, alleging that Doctor Albert Wesker had induced Verdant Axis to sign the archive licence through fraudulent oral representations of exclusivity. It was a weak case. Everyone who read it knew it was a weak case. It was not meant to win. It was meant to cost.
+[img] a crisp job offer letter on expensive letterhead with a large salary figure highlighted, lying on a lab bench beside a pipette, cinematic macro
+N: The money came second. On the same Tuesday, two members of Umbrella's staff received job offers from Verdant Axis. Tomás Reyes was offered a senior technician's role at nearly twice his salary. Evelyn Marsh was offered a position as associate director of research, with her own lab, her own budget, and a signing bonus larger than everything she had earned in the previous three years combined.
+[img] {EVELYN} at her desk calmly forwarding an email with a single word typed in the reply box, NO, cinematic
+N: Evelyn forwarded hers to the Director within four minutes of receiving it. She added one word above it.
+N: No.
+[pause 0.8]
+N: Tomás did not forward his.
+[pause 1.0]
+[img] {TOMAS} sitting alone in his parked car in a lot at night, staring at a phone showing a job offer and a student loan balance, conflicted, cinematic
+N: He sat in his car in the parking lot that evening for forty minutes, looking at the offer, and at the banking app that told him he still owed a hundred and six thousand dollars for a degree in biology he had been told would change his life. He liked Umbrella. He liked the Director, in the way you like a thunderstorm. But a hundred and six thousand dollars is a very specific number, and it does not care what you like.
+[sfx] sfx_door_knock g-6
+N: At nine o'clock there was a knock on his car window. He jumped so hard he hit his head on the roof.
+[img] {WESKER} standing beside a car window at night in the rain, sunglasses on, holding a folded sheet of paper, {TOMAS} inside looking up startled, cinematic
+N: The Director was standing in the rain, beside the car, holding a folded sheet of paper. He had no umbrella. He did not seem to be getting wet in any way that bothered him.
+WESKER: Roll the window down, Tomás.
+TOMAS: I — Doc, I was going to tell you, I swear —
+WESKER: I know. Read this.
+[img] a folded letter with a job title HEAD OF DIGITAL and a loan repayment clause, raindrops on the paper, macro, cinematic
+N: It was a letter. It gave Tomás Reyes a new title, head of digital, which did not yet mean anything. It gave him a salary exactly one dollar higher than Verdant's. And it contained a clause, drafted by Pell, under which Umbrella would pay off the full balance of his student loans over three years, provided he was still employed at the end of each one.
+TOMAS: This is — Doc. This is more than —
+WESKER: Verdant is offering you a job. I'm offering you a job that doesn't exist yet. There's a difference. One of them has a ceiling.
+[pause 0.8]
+N: Tomás signed it on the steering wheel, in the dome light, with a pen the Director handed him. The ink ran a little in the rain.
+N: It was, the Director would later calculate, the cheapest loyalty he ever bought with money. Every other kind he bought with something worse.
+[pause 1.2]
+
+[music] m_scheme -8
+[img] an online financial forum and social media feed filled with rumors about a Chinese-linked biotech, anonymous posts, thumbnails, cinematic
+N: The gossip came third, and it was the cleverest. Someone at Verdant had noticed the Shenzhen licence, and by the middle of December, a certain kind of website had begun to ask a certain kind of question: who was this Albert Wesker, with no American history, who had appeared from nowhere, and sold American biological samples to a company in China?
+ADOLF: That is good work. He is making you foreign. It is the oldest trick there is.
+WESKER: You'd know.
+ADOLF: (cold) I would. And I know how it ends when you do nothing about it.
+WESKER: I'm not going to do nothing. I'm going to let someone else do something.
+[pause 1.5]
+
+[music] m_tension -6
+[amb] amb_office_hum
+[img] {HANNAH} in a newsroom at dawn, a front page on her screen with a bold headline about a biotech trial and a CEO's family ties, coffee in hand, triumphant and exhausted, cinematic
+[loc] Thursday, 17 December, 6:00 a.m.
+N: Hannah Price's story ran on the seventeenth of December.
+N: It was the best piece of journalism the Wilmington Ledger had published in a decade, and she had checked every line of it three times, because she knew who had pointed her at it, and she was determined that nothing in it would be his.
+N: Nothing in it was. Every fact was her own. The three trial sites with impossibly low dropout rates. The Maryland clinic network that ran them. The limited partnership that owned the network. And the general partner of the limited partnership: Curtis Vane, brother-in-law of Graham Tolliver, who had been paid four point two million dollars in trial fees over two years, and who had, according to three former nurses Hannah had found in two weeks of phone calls, quietly removed patients from the study who were not responding to the drug.
+[img] a stock trading screen with a biotech ticker plunging in a steep red line, minus sixty percent, alarms, cinematic
+[sfx] sfx_phone_ring g-8
+N: By noon, the story had been picked up by two national wire services. By one, the Food and Drug Administration had announced that it was, quote, reviewing the data. By the close of trading, Verdant Axis Therapeutics had lost sixty-one percent of its value.
+[img] {TOLLIVER} in a glass corner office staring at a wall of screens showing his stock collapsing, one hand over his mouth, dusk light, cinematic
+N: Graham Tolliver watched it happen from his corner office, on four screens, with his hand over his mouth. At four o'clock his general counsel came in and closed the door. At four-fifteen, his wife called to ask why her brother was not answering his phone.
+[pause 1.0]
+[img] {WESKER} standing calmly at a third-floor window of an old brick building looking across a grey river at a distant glass tower, hands behind his back, dusk, cinematic
+N: Across the river, in a corner office with a water stain shaped like Florida on the ceiling, Albert Wesker watched the same line fall on a nine-year-old monitor, and did not smile.
+N: Smiling was for amateurs. He was doing arithmetic.
+[pause 1.5]
+
+[music] m_scheme -6
+[img] a sleek hedge fund office high above Manhattan at night, a woman analyst alone at a desk surrounded by screens, city lights, cinematic
+[amb] amb_night_city
+N: The arithmetic was simple, and it was impossible. At the close on the seventeenth, the whole of Verdant Axis — its glass building, its hundred and forty employees, its laboratories, its drug pipeline, and ninety million dollars in cash — could be bought on the open market for about a hundred and seventy million dollars.
+N: Umbrella had two million.
+N: He was still considering the problem at ten o'clock that night when his phone rang, from a number in Manhattan he did not know.
+[sfx] sfx_phone_ring
+CATHERINE: (phone) Doctor Wesker. My name is Catherine Adeyemi. I'm a partner at Keel Harbour Capital. We specialise in distressed life sciences. I won't keep you long. I only have one question.
+WESKER: Go on.
+CATHERINE: (phone) You wrote that article, didn't you?
+[pause 1.2]
+[img] {CATHERINE} at a glass desk in a dark Manhattan office holding a phone to her ear, a printout of a newspaper article in front of her, sharp and amused, cinematic
+N: He did not answer immediately. It was the first time in three months that a question had arrived before he expected it.
+WESKER: Hannah Price wrote that article. It's very good.
+CATHERINE: (phone) Hannah Price wrote it. You aimed it. Your company signs a licence with Verdant in September. Verdant tries to take your building in October. Tolliver's lawyers sue you in December. And three weeks later, a local reporter nobody's heard of finds a four-million-dollar family scheme buried in a clinic network in Maryland. I've been doing this for fifteen years, Doctor Wesker. Nothing in this business happens three weeks later by accident.
+WESKER: And if I did?
+CATHERINE: (phone) Then I'd like to buy you a very expensive dinner and discuss how you intend to pay for the rest of the company you've just broken.
+[pause 1.5]
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] {CATHERINE} walking into a shabby research building lobby in a sharp charcoal suit and long coat, looking around with raised eyebrows, {HALE} at the security desk, cinematic
+[loc] Monday, 21 December
+N: She came to Wilmington herself, on the Monday, on the eight o'clock train.
+N: Catherine Adeyemi was thirty-eight, born in Lagos, raised in South London, educated at Cambridge and on the trading floors of the City, and she had left a very senior job at a very old bank after she had reported one of its partners to the regulator, and discovered what happens to people who do that. She had been at Keel Harbour for four years. She was very good at it. She was also, though she did not tell people this, very bored.
+[img] {CATHERINE} and {WESKER} facing each other across a small shabby office desk, coffee in paper cups, winter light, cinematic
+N: She looked around the lobby, and at the water stain, and at the nine-year-old monitors, and at the man in black who rose to meet her, and she said:
+CATHERINE: Well. This is either the worst investment I've ever seen, or the best one.
+WESKER: Which do you think?
+CATHERINE: I think I'll know after lunch.
+[pause 1.0]
+N: They talked for three hours. It was not the kind of meeting he was used to.
+N: The Command Presence did not work on her — or not properly. He felt it reach for her, the way a hand reaches for a railing in the dark, and he felt it slide off. The Cold-Read worked, but what it showed him was a woman reading him back with nearly the same precision: amusement, calculation, and something else, flickering in and out, that took him a long time to identify, because he had so rarely seen it aimed at himself.
+N: It was respect. And, beneath it, a small bright thread of alarm, that she was choosing — consciously, deliberately — to ignore.
+[pause 0.8]
+[img] a whiteboard covered in neat financial calculations, a share structure diagram, arrows to a glass building labelled VA, a hand holding a marker, cinematic
+CATHERINE: Here's the structure. Keel Harbour lends Umbrella sixty million on a bridge, secured against your archive licences and the building, at a rate I'll describe to my partners as punitive and you'll describe to your staff as generous. You buy just under five percent of Verdant on the open market this week, quietly, below the reporting line. Then you cross it, file, and in January you launch a tender for control at a premium to a price that's still on the floor. The board will be desperate. Half of them will be facing shareholder suits over the trial data. You offer them a clean exit. They take it.
+WESKER: And Tolliver?
+CATHERINE: Tolliver is a man whose brother-in-law is about to be indicted. Tolliver is not your problem. Tolliver is his own problem.
+[pause 0.8]
+WESKER: And what do you want?
+CATHERINE: Three things. If it closes, I want to be your chief financial officer. I want equity. And I want to know, at all times, where the money actually goes.
+[pause 1.0]
+N: He looked at her for a long moment.
+N: The Adolf half of him did not like her at all. She was clever, and she was not afraid, and the old voice noticed — with the reflexes of the poison it had once preached — that she was not the kind of person it had ever allowed at its table. Wesker noticed it noticing, and found it contemptible. Not as a matter of morality, which interested him very little. As a matter of intelligence. And the Wesker half understood what he was being offered — a first-rate financial mind who could not be summoned, could not be ordered, and could therefore do the one thing none of his loyal purchases ever could.
+N: She could tell him when he was wrong.
+WESKER: Done.
+CATHERINE: Just like that?
+WESKER: I don't negotiate with people I've already decided to hire.
+[pause 1.0]
+N: She laughed — a short, surprised laugh — and shook his hand. His grip was very cool. She noticed that, too, and filed it with the other things she was deciding not to think about.
+N: He had agreed to all three of her conditions. He would honour two of them.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_basement
+[amb+] amb_cryo -6
+[img] two middle-aged men in dark jackets with flashlights and a camera forcing a basement fire door of an old brick building at night, cinematic
+[loc] Tuesday, 22 December, 2:40 a.m.
+N: Graham Tolliver's last move was the stupidest one, and he made it the night after Catherine Adeyemi's visit.
+N: He had heard, from Dale Kuchar, a rambling story about a machine in a basement that had not been there before. He had decided — in the way that desperate men decide things at two in the morning — that if he could prove Umbrella was running an unlicensed biological facility, he could take the whole thing to the state and bury it. So he paid two retired police officers who did private work, and they went to the building, and they forced the basement fire door with a pry bar at two-forty in the morning.
+[img] a dark basement corridor lit by two flashlight beams sweeping across rows of old freezers toward a huge grey machine in the corner, dust, cinematic
+[sfx] sfx_footsteps g-10
+N: They had flashlights and a camera. They found the freezers. They found the grey unit in the corner, breathing.
+N: One of them lifted the camera.
+[pause 1.0]
+[sfx] sfx_whoosh g-8
+[img] {HALE} and {GUS} standing silently in the dark directly in front of two startled men with flashlights, faces half-lit, utterly calm, uncanny, cinematic
+N: Hale was standing in front of him.
+N: Neither man had heard him arrive. Neither man had heard Gus, either, who was standing two feet to Hale's left, holding a mop, with an expression of mild professional interest. Neither of them blinked.
+HALE: Good morning, gentlemen.
+[pause 1.2]
+N: What happened in the next four minutes, the two men never told anyone. Nobody was hurt. The Director had been very clear about that, and Hale did not do things he had not been told to do. There was no violence. There were only four minutes in a dark basement with two men who did not blink, and a machine that breathed, and — one of the men would say, years later, drunk, to a bartender in Arizona who did not believe him — a small frosted window in the side of the machine, through which, for a moment, something had looked back.
+[sfx] sfx_tyrant_growl g-18
+[pause 1.0]
+N: They left without the camera. Both of them resigned from private work the next morning. One moved to Arizona. The other joined a church.
+N: Neither of them ever called Graham Tolliver again.
+[pause 1.5]
+
+[music] m_scheme -6
+[amb] amb_office_hum
+[img] {WESKER} standing in front of a Christmas-lit window in a dark office on a phone, the city beyond, calm, cinematic
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Rival exposed — Verdant Axis: 2,500
+Enemy incursion repelled: 1,000
+Personnel retained under pressure: 600
+Strategic ally acquired — Catherine Adeyemi: 1,500
+Total: 5,600
+Points: 7,800
+[say] Assessment. Five thousand six hundred Points.
+[/system]
+N: On Christmas Eve, Umbrella filed with the Securities and Exchange Commission that it had acquired five point two percent of Verdant Axis Therapeutics, and intended to seek control.
+N: On Christmas Day, Graham Tolliver read the filing at his dining table, in front of his wife, and his children, and his brother-in-law's empty chair, and understood, at last, who he had been fighting.
+[pause 3.0]
+[music] stop

@@ -1,0 +1,198 @@
+# 7 | Sermon in a Break Room
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] {TOMAS} sitting on a break-room counter holding a phone up to {WESKER}, showing a vertical video feed, both lit by the screen, playful vs serious, cinematic
+[loc] November 2026
+N: In November, Tomás Reyes taught Albert Wesker the internet.
+N: It began by accident. The Director had come into the break room at lunchtime for coffee, and found Tomás scrolling, and asked him — in the tone of a man asking about a rash — what he was looking at.
+TOMAS: It's just — it's a guy who restores old knives. He finds them in rivers. Like, rusty. And then he fixes them.
+WESKER: How many people are watching him fix them?
+TOMAS: This one? Uh. Four million.
+[pause 0.6]
+[img] a phone screen showing a rusty knife restoration video with a view counter reading 4.1M and a stream of comments, macro, cinematic
+WESKER: Four million people. Watching a stranger clean a knife.
+TOMAS: I mean, it's really satisfying.
+N: The Director sat down.
+N: He did not do that. In two months, nobody had seen him sit in the break room. He sat down across from Tomás, and took off his sunglasses, and said:
+WESKER: Show me everything.
+[pause 1.0]
+[img] montage of glowing phone screens in a dark room, short videos, comment sections, trending hashtags, like counters, a sea of faces, cinematic
+N: So Tomás showed him.
+N: Short videos, ninety seconds long, served by a machine that learned what you wanted before you did. Feeds that never ended. Comment sections where strangers who would never meet decided, in their thousands, who was a hero and who was a villain before lunch. Men who had become famous for being angry. Women who had become famous for being calm. Children who had become famous for nothing at all. Numbers everywhere — views and likes and followers and shares — ticking upward like the odometer of a car driven by the whole human race at once.
+[pause 0.8]
+ADOLF: (slow) Oh.
+N: It was a very small word. Wesker had never heard that voice make it before.
+ADOLF: They have built it. They have built the machine. A rally that never ends. A crowd in every pocket. And no one is in charge of it.
+WESKER: Someone's always in charge of it. They just don't stand on a balcony.
+ADOLF: I spent a year of my life writing speeches for a radio set in every kitchen. This — this is a radio set in every hand, that listens back.
+[pause 1.0]
+TOMAS: You okay, Doc? You've gone kind of still.
+WESKER: How does it decide what to show them?
+TOMAS: Honestly? Whatever makes them feel something. Angry works best. Then scared. Then, like, awe. Anything with awe does numbers.
+[pause 0.6]
+N: The Director put his sunglasses back on.
+[pause 0.4]
+TOMAS: You know you do that thing, right?
+WESKER: What thing?
+TOMAS: The — okay, don't be mad. On the internet it's called aura farming. When somebody does something so effortlessly cool that everyone watching kind of loses their mind a little. Like, the way you just sat down and took the glasses off and said show me everything. That's aura. You're farming it. Constantly. It's actually kind of insane to watch.
+[img] {WESKER} in sunglasses in a shabby break room, a faint dry smile at one corner of his mouth, {TOMAS} grinning nervously, cinematic
+WESKER: And aura can be farmed.
+TOMAS: I mean — it's a joke. Kind of.
+ADOLF: It is called charisma. We had it before the telephone.
+WESKER: (soft) They've turned it into a number. How very efficient of them.
+[pause 1.5]
+
+[music] m_system -8
+[amb] amb_office_hum
+[img] a glowing crimson holographic blueprint of a small handheld diagnostic device with a cartridge and swab, floating in a dark office, cinematic
+N: The Shop had a blueprint that week that he had been watching since October.
+[system] BLUEPRINT
+Rapid Pathogen Assay
+Point-of-care. Nasal swab. Twelve minutes.
+Identifies forty respiratory and bloodborne pathogens.
+Manufacturable with commercially available reagents.
+Cost: 3,000 Points
+[say] Blueprint. Rapid pathogen assay.
+[/system]
+N: It was not a weapon. It was not a power. It was a small plastic cartridge and a reader the size of a paperback, that could tell a nurse in a rural clinic what was making a child sick in the time it took to make tea — and it did not exist anywhere on Earth.
+ADOLF: A medical device. You are buying a thermometer.
+WESKER: I'm buying a face. Every empire needs one. Yours had a uniform. Mine will have a hospital.
+[sfx] sfx_mouse_click
+[system] PURCHASE CONFIRMED
+Blueprint: Rapid Pathogen Assay
+Documentation: delivered
+Points: 1,200
+[say] Purchase confirmed.
+[/system]
+[img] a computer screen in a dark office filling with folders of technical documents, schematics and protocols appearing one after another, blue glow, cinematic
+N: The documentation arrived the way Pell had arrived — as if it had always been there. A folder on the division's server, dated across eighteen months, containing the complete design history of a device that nobody in the building had designed. Protocols. Reagent lists. Failure analyses. Two rejected prototypes. Lab notebooks, scanned, in handwriting that matched, with unnerving precision, the handwriting of Evelyn Marsh.
+[pause 1.5]
+
+[music] m_rain_piano -8
+[amb] amb_lab
+[img] {EVELYN} at her lab bench late in the evening looking up as {WESKER} approaches holding a thick binder, surprise, lamp light, cinematic
+N: He gave it to her that evening.
+N: She was at her bench, at seven, alone, running the same sequencing job she had been running for three weeks. He put a binder down beside her keyboard, and when she opened it, and saw her own handwriting on page one, she went very pale.
+EVELYN: This is — I didn't write this.
+WESKER: No.
+EVELYN: It's my hand. It's my notation. I use that little arrow for rate-limiting steps. Nobody else does that. I didn't write this.
+WESKER: I know. It's still yours. If you want it.
+[pause 1.0]
+[img] {EVELYN} turning pages of a technical binder with trembling hands, schematics of a handheld device, her face lit with awe and fear, cinematic
+N: She read for a while without speaking. She was a good enough scientist to understand what she was reading, and to understand that it worked, and to understand that nothing in her education could explain how it had come to be sitting on her bench.
+N: She could have asked. A more careful person would have. Nadia Okafor would have asked forty questions and then called a lawyer.
+N: Evelyn Marsh closed the binder, and put both hands flat on the cover, and looked up at him.
+EVELYN: You said not yet.
+WESKER: I did.
+EVELYN: Is it now?
+[pause 0.8]
+WESKER: It's now.
+[pause 1.2]
+N: It is worth recording what she felt, because it mattered later. It was not gratitude. Gratitude is something you feel toward an equal. It was not quite love, though it looked like it from the outside. It was the thing people feel in cathedrals — the dizzy, total surrender of a person who has spent her whole life believing she was alone in the dark, and has suddenly been shown that someone was watching, and that the someone had a plan.
+N: It was, in other words, the beginning of a faith.
+[pause 1.5]
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] a shabby break room on a Friday afternoon, nine people seated and standing, harsh fluorescent light, an old piano in the corner, everyone looking toward the front, cinematic
+[loc] Friday, 4:45 p.m.
+N: The speech happened on a Friday.
+N: It was not planned as a speech. He had called everyone into the break room at a quarter to five to tell them about the assay — all of them, the six who had been there before him and the three who had arrived since. Dana, Lessing, Evelyn, Tomás, Nadia, Walter, who had come in early for it. Pell, standing perfectly still by the fridge. Gus, by the door. Hale, by the other door.
+N: He had meant to talk for two minutes. He talked for five. He did not use notes. Afterwards, none of them could remember exactly what he had said, only how it had felt, and when they tried to explain it to their families, they sounded, even to themselves, a little mad.
+[music] m_sermon -6
+[img] {WESKER} standing at the front of a small break room, no sunglasses, speaking quietly, one hand resting on the back of a chair, faces turned up to him, dramatic side light, cinematic
+WESKER: Two months ago, you were told something about yourselves. You were told it by a letter from London, and by a frozen bank account, and by every empty chair in this building. You were told that you were what was left over.
+[pause 0.4]
+WESKER: The leftovers of a dead company. In a building nobody visits. In a town nobody writes songs about. Doing work that nobody reads.
+N: He let that sit.
+[img] close-up faces in a break room listening: {DANA} with wet eyes, {TOMAS} leaning forward, {WALTER} with arms folded, cinematic
+WESKER: I'd like you to remember that feeling. Not because it was true. Because every great thing that has ever happened in this world began in a room exactly like this one. A room nobody was watching. With a few people nobody had counted.
+[pause 0.5]
+WESKER: The men in glass buildings across that river don't believe that. That's why they're going to lose to us.
+[pause 0.8]
+N: His voice had not risen. That was the uncanny thing. It had not risen at all. But something in the rhythm of it had changed — a cadence, a pulse, a way of stepping from one sentence to the next that made each one feel like a stair. And behind his eyes, in the quiet of the skull, the other half of him had leaned forward, the way an old musician leans toward an instrument he has not touched in eighty years.
+[img] {WESKER} speaking, his shadow cast huge on the break room wall behind him by a low lamp, faces in silhouette, dramatic, cinematic
+WESKER: In twelve months, there will be a device in hospitals that tells a doctor what is killing a child in twelve minutes. It will have our name on it. Not Verdant's. Not London's. Ours. Umbrella. And every nurse who uses it will know that it came from here — from this building, from this room, from you.
+[pause 0.4]
+WESKER: That is the first thing. It is not the last thing. I will not tell you tonight what the last thing is, because you would not believe me. But I will tell you this. I did not buy this company to keep it alive.
+[pause 0.8]
+WESKER: I bought it to make it inevitable.
+[pause 1.5]
+[music] m_sermon -2
+[img] a small group of lab workers in a shabby break room rising to their feet and clapping, faces lit with emotion, fluorescent light, cinematic
+[sfx] sfx_applause g-4
+N: Tomás was the first on his feet. Then Dana. Then, to his own surprise, Walter Pruitt, who had sworn in nineteen seventy-nine never to stand up for an officer again.
+N: Evelyn did not clap. She was crying, without seeming to notice, her hands pressed together in front of her mouth.
+N: Pell, Gus, and Hale clapped in perfect unison, exactly the same number of times, and stopped at exactly the same moment. Nobody noticed. They were all too busy.
+[pause 1.0]
+[img] {NADIA} standing at the back of the room with her arms folded, not clapping, watching the room with unease, cinematic
+[music] m_sermon -10
+N: Nadia Okafor did not clap.
+N: She stood at the back with her arms folded, and she watched the room. Not the man at the front — the room. The faces. The way the applause had come not from agreement, but from something underneath agreement. She had seen that look before, once, a long time ago, at a church revival her grandmother had taken her to in Lagos, when a preacher had made a whole tent full of sensible people fall to their knees.
+N: It had frightened her then. It frightened her more now, because this time there was no God in the room. Only a man in a black shirt, standing very still, with his hand on the back of a plastic chair.
+[pause 1.5]
+
+[music] m_system -4
+[sfx] sfx_system_open
+[img] a burst of crimson and gold holographic light filling a dark office, multiple panels cascading, cinematic, awe
+[system] ASSESSMENT
+Personnel morale — fervent: 4,000
+Personnel conversion — belief: 2 of 6
+[say] Assessment. Personnel morale, fervent. Four thousand Points.
+[/system]
+[sfx] sfx_level_up
+[system] LEVEL UP
+Level: 5
+Stat Points available: 5
+Points: 5,700
+[say] Level up. Level five.
+[/system]
+N: Four thousand. For five minutes of talking in a break room. More than the System had paid him for the building, or the landlord, or the traitor. More than everything else he had done in two months put together.
+N: The Wesker half of the mind noted the number, and filed it, the way an investor files a return. The Adolf half did not note it at all. It was elsewhere. It was remembering beer halls, and stadiums, and the roar of a crowd coming back at it like surf — and it was, for the first time in this new life, completely happy.
+[pause 0.8]
+ADOLF: (soft) Two of six.
+WESKER: Which two?
+ADOLF: You know which two.
+[pause 1.0]
+[system] PURCHASE AVAILABLE
+Command Presence I
+Weaker wills in your vicinity will be inclined to defer to you.
+Cost: 3,500
+[say] Command presence.
+[/system]
+[sfx] sfx_mouse_click
+N: He bought it before he left the building.
+[system] PURCHASE CONFIRMED
+Command Presence I
+Points: 2,200
+[say] Purchase confirmed.
+[/system]
+[pause 1.5]
+
+[music] m_corporate -10
+[amb] amb_night_city
+[img] {TOMAS} in a dark bedroom lit by a phone screen, eyes wide, a video view counter climbing into tens of thousands, cinematic
+[loc] Saturday, 7:20 a.m.
+N: At seven twenty the next morning, Tomás Reyes called the Director's cell phone for the first time in his life.
+TOMAS: (phone) Okay, so, please don't kill me. I kind of filmed a bit of it. Yesterday. Just, like, twenty seconds. The bit about the room nobody was watching. And I put it on my page, which has, like, four hundred people, and I went to bed, and — Doc, it's got forty thousand views. It's got forty thousand views and people are asking who you are.
+[pause 1.0]
+[img] a phone screen showing a short shaky video of a man in black speaking in a break room, subtitles, comments pouring in asking who he is, macro, cinematic
+N: The Director did not answer immediately.
+ADOLF: (soft) Forty thousand. In one night. From a break room.
+WESKER: Take it down, Tomás.
+TOMAS: (phone) Yeah. Yeah, totally. I'm sorry, I'm — taking it down now. I'm sorry.
+WESKER: Don't be sorry. It was good work. It was just early.
+[pause 0.6]
+TOMAS: (phone) Early?
+WESKER: Keep the file. We'll need it.
+[pause 1.2]
+N: Tomás took it down. By then it had been downloaded two hundred times, and three of those copies would still be circulating on the internet eleven years later, in a very different world, under titles like The First Speech, and Where It Started, and Watch His Hands.
+[pause 1.0]
+[img] {EVELYN} alone in a lab at 2 a.m. assembling a small plastic device under a magnifier lamp, humming, an old piano visible through the door behind her, cinematic
+[music] m_rain_piano -10
+N: In lab two, at two in the morning, Evelyn Marsh was building the first prototype of the assay with her own hands, from a set of instructions in her own handwriting that she had never written.
+N: She was humming as she worked. Four notes. Falling, and falling, and falling, and landing somewhere unresolved.
+N: She did not know she was doing it.
+[pause 3.0]
+[music] stop

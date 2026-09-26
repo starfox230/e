@@ -1,0 +1,180 @@
+# 6 | The Leak
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] {LESSING} at a home desk late at night typing on an old laptop, a manuscript draft on screen, a glass of whiskey, a blue USB drive plugged in, cinematic
+[loc] Sunday night — Lessing's house, Brandywine Hundred
+N: Howard Lessing wrote the paper in four nights.
+N: He wrote it at his kitchen table after his wife had gone to bed, with a glass of Scotch he did not drink and the blue drive plugged into the side of his laptop, and he wrote it better than anything he had written in twenty years. It was eleven pages long. It had four figures. Its title was A Novel Replication-Competent Viral Signature Associated With Extreme Proliferative Repair in Human Peripheral Blood.
+N: It did not mention whose blood.
+[img] a laptop screen showing an email draft with a subject line about confidential data of extraordinary commercial interest, dim kitchen light, cinematic
+N: He also wrote an email. It was shorter. It was addressed to a vice-president of research at Verdant Axis Therapeutics, a man named Simon Ferris who had once tried to hire him, and it said that Doctor Lessing had come into possession of data of extraordinary scientific and commercial interest, and would welcome a confidential conversation about his future.
+N: He told himself these were two separate things. The paper was for science, and for history, and for the prize that had been promised to him at a conference in nineteen ninety-four. The email was for his pension.
+N: He saved them both as drafts. He would send them on Tuesday night, from the lab, after the preprint server's weekly update.
+[pause 1.2]
+
+[music] m_scheme -8
+[img] a staff meeting around a break-room table on a Monday morning, {LESSING} sitting stiffly with a coffee, {WESKER} at the head of the table in sunglasses, cinematic
+[loc] Monday, 9:00 a.m.
+N: On Monday morning, the Director held his weekly meeting in the break room, and Howard Lessing sat at the far end of the table and tried to look like a man who had spent the weekend gardening.
+N: It did not work. It would not have worked on anyone paying attention. It certainly did not work on a man who could now read the human face the way other people read subtitles.
+[img] extreme close-up of {LESSING}'s face under fluorescent light, a tiny muscle tensing beside his eye, faint analytical overlay lines, cinematic
+N: Guilt, in the crease beside his eye. Fear, in the way he held his cup with both hands. And under them both, a thing the Cold-Read had no single word for — a kind of trembling exultation, like a man standing on the edge of a high diving board, about to jump, and sure the water would catch him.
+N: The Director said nothing. He talked about the solvent store, and the Shenzhen licence, and the new coffee. He did not look at Lessing once.
+[pause 1.0]
+[img] {HALE} in a dark server closet standing before a monitor showing scrolling email logs, expressionless, blue light, cinematic
+N: At noon, Hale came to his office and closed the door.
+HALE: Doctor Lessing has two drafts saved to the building's mail server, Director. One is addressed to a preprint service. One to a Simon Ferris, at Verdant Axis. He's also copied fourteen gigabytes from analyzer three to a removable drive. I have the logs.
+WESKER: Of course you do.
+HALE: Shall I take the drive?
+WESKER: No. Let him bring it.
+[pause 1.2]
+
+[music] m_horror -12
+[img] {WESKER} in a car at night on a highway, dashboard light, face in shadow, sunglasses reflecting streetlights, cinematic
+[amb] amb_night_city
+N: The argument happened on the drive home that night. It was the first real one.
+ADOLF: He is a traitor.
+WESKER: He's a disappointed old man with a thumb drive.
+ADOLF: He stole from you. He is going to sell you to your enemy. In my time a man like that was not dismissed. He was made an example. So that the next man would not try.
+WESKER: In your time you had a secret police and a country that didn't ask questions. Here, if Howard Lessing disappears, his wife calls the Wilmington police on Wednesday morning, and the Wilmington police call his colleagues, and one of his colleagues is Nadia Okafor, who is already measuring me for a coffin.
+ADOLF: Then do it so that nobody calls.
+WESKER: (cold) Listen to me very carefully. We are not doing that. Not now. Not for this.
+[pause 0.8]
+[img] a dark highway at night seen through a windshield, headlights, a green highway sign, rain beginning, cinematic
+N: For a while there was only the road.
+ADOLF: Then what?
+WESKER: A dead man is a problem. A frightened man is an asset. I don't want Howard Lessing gone. I want him mine.
+ADOLF: A man who is afraid of you is not yours. He is only afraid.
+WESKER: That's what you never understood. For most men, it's the same thing.
+[pause 1.5]
+
+[music] stop
+[amb] amb_lab
+[img] an empty dark laboratory at night, only one desk lamp on, a single figure hunched at a computer at the far end, long shadows, cinematic
+[loc] Tuesday, 11:52 p.m.
+N: On Tuesday night, at eight minutes to midnight, Howard Lessing sat alone in lab two with the blue drive plugged in and both drafts open on the screen.
+N: The building was empty. He had checked. Tomás had left at six, Evelyn at ten — early, for her. Walter was off. The new security man, Hale, was supposedly doing rounds, but Lessing had not seen him since eight, and had decided that the new man was lazy.
+[img] close-up of {LESSING}'s finger hovering over a laptop trackpad above a glowing SEND button, sweat on his temple, cinematic
+[sfx] sfx_heartbeat g-8
+N: His finger was on the trackpad. The cursor was on the button. He had imagined this moment for thirty years, and in all thirty years it had looked like a stage in Stockholm, and not like a dim lab in an industrial park with a flickering tube and the smell of old bleach.
+N: He took a breath.
+[pause 1.0]
+WESKER: (soft) It's a good paper, Howard.
+[sfx] sfx_whoosh g-6
+[img] {WESKER} suddenly standing right behind a seated {LESSING} in a dark lab, having appeared from nowhere, one hand resting on the back of the chair, sunglasses on, terrifying calm, cinematic
+[music] m_horror -6
+N: Lessing made a sound that was not quite a word, and spun the chair around.
+N: The Director was standing directly behind him. Close enough to touch. Lessing had been facing the lab door, which was the only door, which was forty feet away across an empty room, and which had not opened. He knew it had not opened. He had been watching it.
+LESSING: How — I didn't — how long have you —
+WESKER: The figures are excellent. Figure three especially. The division curve. You've found something nobody has ever found, and you've described it clearly, and you've drawn exactly the right conclusion. It's a very good paper.
+[pause 0.6]
+WESKER: It's also my blood.
+[pause 1.5]
+[img] {LESSING} frozen in a desk chair, face drained of color, staring up at {WESKER} standing over him in darkness, desk lamp light, cinematic
+N: Lessing did not understand him at first. Then he did.
+N: Control Seven. The calibration sample. The tube the Director had handed Tomás with his own hand.
+LESSING: That's — no. That's not possible. Those cells — nothing human does that. Nothing —
+N: The Director took off his sunglasses.
+[sfx] sfx_impact g-10
+[img] extreme close-up of {WESKER}'s face in darkness, sunglasses removed, eyes glowing amber-red with vertical slit pupils, faint light on cheekbones, terrifying, cinematic
+[pause 1.0]
+N: His eyes were red.
+N: Not bloodshot. Red, the way a coal is red. And the pupils were not round. They were narrow and vertical, like a cat's, like a snake's, and they widened, very slightly, as they found Howard Lessing's face in the lamplight.
+N: Lessing had been a scientist for thirty-four years. He did not believe in monsters. And in that moment, looking up into those eyes from a cheap office chair, some part of his mind older than science — older than language — understood exactly what it was looking at, and screamed at him to run.
+N: He did not run. He could not make his legs work.
+[pause 1.5]
+WESKER: Nothing human does that. You're right.
+[pause 1.0]
+WESKER: So let me tell you what happens next, Howard, and then you're going to choose.
+[img] {WESKER} pulling a chair around and sitting down facing {LESSING} knee to knee in a dark lab, calm, conversational, eyes glowing faintly, cinematic
+N: He pulled a second chair around, and sat down facing Lessing, knee to knee, the way a doctor sits when he has news.
+WESKER: If you press that button, the preprint goes live tomorrow at nine. It will be the most-read paper in the world for about eleven days. Then someone will ask for the sample. And there won't be one. The analyzer's memory was wiped this afternoon — a firmware update, very routine, Gus has the ticket. Tomás remembers running a calibration that failed because the reagents were bad. He's told Dana so, in writing. There's no Control Seven. There's no data. There's a fifty-eight-year-old scientist who was passed over his whole career, who stole files from his employer, emailed a competitor for a job the same night, and fabricated the most extraordinary result in the history of biology.
+[pause 0.8]
+WESKER: Simon Ferris will forward your email to Verdant's lawyers inside an hour. Your pension goes. Your name goes. And every obituary they eventually write about you will mention it in the second paragraph.
+[pause 1.0]
+LESSING: (whisper) And — the other choice?
+[pause 0.6]
+WESKER: You delete them. Both. Yourself, now, while I watch. You give me the drive. And you stay. You keep your job, and your salary goes up in January, and one day — not soon, but one day — you get to see what that blood becomes. You get to be in the room.
+[pause 1.2]
+[amb+] amb_cryo -6
+[sfx] sfx_cryo_hiss g-12
+N: Somewhere below them, very faint through the floor, a compressor cycled. A long, slow breath.
+N: Lessing did not know what was in the basement. He would not know for years. But he heard the sound, and he saw the Director glance down toward it, just once, with something that looked almost like affection — and for the rest of his life, when he could not sleep, Howard Lessing would hear that breath.
+[pause 1.5]
+N: He turned back to the laptop.
+[sfx] sfx_mouse_click
+[img] a laptop screen showing a dialog asking to permanently delete a draft, the cursor clicking yes, dim lab light, cinematic macro
+N: He deleted the paper. He deleted the email. He emptied the trash folder without being asked, and then he opened the mail server's drafts folder and deleted it from there as well, because he was a thorough man, and because he wanted — he did not know why — for the thing in front of him to see that he was being thorough.
+N: Then he pulled the blue drive out of the laptop and held it out. His hand was shaking so badly that the drive rattled against his wedding ring.
+[img] a small blue USB drive being crushed flat between two gloved fingers, plastic splintering, macro, cinematic
+[sfx] sfx_bone_snap g-6
+N: The Director took it between his thumb and forefinger, and squeezed. The casing split. The chip inside folded like foil.
+WESKER: Thank you, Howard. Go home. Kiss your wife. Come in at nine tomorrow. Don't be late.
+[pause 1.5]
+
+[music] m_rain_piano -12
+[amb] amb_night_city
+[img] {LESSING} leaning against his old sedan in a dark empty parking lot, bent over, one hand on the car roof, sodium streetlight, cinematic
+N: Howard Lessing walked out to the parking lot, and put one hand on the roof of his car, and was sick on the tarmac.
+N: Then he drove home, very carefully, under the speed limit the whole way, and got into bed beside his wife, and lay on his back in the dark until the sky went grey.
+N: He came in at nine. He was not late. He was never late again.
+[pause 1.0]
+N: He was never loyal, either. That is important, and it is the thing the Director misjudged. Howard Lessing would never love Umbrella, or believe in it, or want it to win. He would only be afraid of it. And fear, in a man with nothing left to lose, has a half-life. It decays. Slowly. Like everything.
+[pause 1.5]
+
+[music] m_system -10
+[amb] amb_night_city
+[img] {WESKER} driving at night, face lit by a glowing crimson holographic panel above the dashboard, calm, cinematic
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Traitor contained: 1,200
+Superior action — evidence neutralised: 600
+Total: 1,800
+[say] Assessment. Traitor contained.
+[/system]
+[sfx] sfx_level_up
+[system] LEVEL UP
+Level: 4
+Stat Points available: 5
+Points: 4,200
+[say] Level up. Level four.
+[/system]
+N: Three into Intelligence. Two into Defence.
+ADOLF: You have made a man who hates you.
+WESKER: I've made a man who obeys me. Hate's a hobby. It doesn't show up to work.
+ADOLF: In my experience, hate shows up to everything eventually.
+WESKER: In your experience, you were surrounded by men who hated you and you had them shot. And then you still lost.
+[pause 1.0]
+ADOLF: (slow) We shall see who is right about Howard Lessing.
+N: They would. It would take three years.
+[pause 1.5]
+
+[music] m_scheme -10
+[amb] amb_lab
+[img] {EVELYN} at a lab bench glancing across the room at {LESSING}, who is working mechanically with hollow eyes, morning light, cinematic
+[loc] Wednesday, 9:40 a.m.
+N: Evelyn Marsh noticed the next morning.
+N: She noticed because she noticed everything about the building now — she had started to think of it, privately, as hers. Howard Lessing had come in at nine exactly. He had said good morning to everyone, including Tomás, whom he had not said good morning to since two thousand twenty-two. He was working on a routine assay with the concentration of a man defusing a bomb, and every few minutes, without seeming to know he was doing it, he looked at the floor.
+[img] {EVELYN} standing in the doorway of a corner office speaking to {WESKER}, who is reading papers at his desk, curious expression, cinematic
+EVELYN: Is Howard all right?
+WESKER: Howard's had a revelation.
+EVELYN: What kind of revelation?
+WESKER: The religious kind.
+[pause 0.8]
+N: She looked at him for a long moment. He looked back, perfectly pleasant, sunglasses on, and did not elaborate.
+N: A more cautious person might have been frightened by that answer. Evelyn Marsh was not a cautious person. She went back to her bench feeling something she would not have been able to name, but which was, if she had been honest, very close to envy.
+[pause 1.5]
+
+[music] m_tension -10
+[img] {HANNAH} in a cramped newsroom at night pinning printouts to a corkboard, clinic names connected with red string to a photo of {TOLLIVER}, cinematic
+[amb] amb_office_hum
+N: Across town, in the eleven-person newsroom of the Wilmington Ledger, Hannah Price had found the name of the man who ran Verdant Axis's three good trial sites.
+N: It was a private clinic network in Maryland. Its registered owner was a limited partnership. The limited partnership's general partner was a man named Curtis Vane.
+N: Curtis Vane was Graham Tolliver's brother-in-law.
+[img] a corkboard covered in documents and red string converging on a single photograph of a smiling tanned CEO, desk lamp, noir, cinematic
+N: She sat back in her chair and looked at the board for a long time. Then she picked up her phone, and scrolled to a number she had saved as Umbrella, and did not call it.
+N: She was not a fool. She knew she was being used. She had known it in the diner. The question she could not stop asking herself — the question that would drive the next two years of her life — was not whether Albert Wesker was using her.
+N: It was how he had known.
+[pause 3.0]
+[music] stop
