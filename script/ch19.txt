@@ -96,7 +96,7 @@ N: And then it recorded something else.
 [pause 1.5]
 [img] a grainy dashcam frame at night showing a long dark smear stretched horizontally across a parking lot, like a shadow torn across the image, a running man at the end of it, uncanny, cinematic
 [sfx] sfx_whoosh
-N: Frame one thousand one hundred and ten: the man, running, forty metres from the loading dock door. Frame one thousand one hundred and nine: a shape at the loading dock door. Frame one thousand one hundred and twelve: a dark smear, long and horizontal, stretched across a third of the parking lot, like a shadow that had been torn. Frame one thousand one hundred and thirteen: the smear, longer. Frame one thousand one hundred and fourteen —
+N: Frame one thousand one hundred and ten: the man, running, forty metres from the loading dock door. Frame one thousand one hundred and eleven: a shape at the loading dock door. Frame one thousand one hundred and twelve: a dark smear, long and horizontal, stretched across a third of the parking lot, like a shadow that had been torn. Frame one thousand one hundred and thirteen: the smear, longer. Frame one thousand one hundred and fourteen —
 [pause 1.0]
 N: Frame one thousand one hundred and fourteen showed a tall figure in a long black coat, standing perfectly still beside the running man, with one hand on the back of his neck.
 [sfx] sfx_body_fall
