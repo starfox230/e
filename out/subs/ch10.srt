@@ -587,213 +587,213 @@ believed she had as well. That was
 the beauty of it.
 
 125
-00:10:22,144 --> 00:10:28,434
+00:10:22,144 --> 00:10:28,413
 In May she found a line in the consolidated capital
 budget that she did not recognise.
 
 126
-00:10:28,454 --> 00:10:34,669
-Arklay: cold archive infrastructure. Eleven million
-dollars, capitalised, depreciated
+00:10:28,433 --> 00:10:34,775
+Arklay: cold archive infrastructure. Six million
+dollars, capitalised, depreciated over
 
 127
-00:10:34,689 --> 00:10:40,024
-over twenty years, booked through a Nevada
+00:10:34,795 --> 00:10:39,747
+twenty years, booked through a Nevada
 subsidiary she had not set up.
 
 128
-00:10:40,595 --> 00:10:42,324
+00:10:40,317 --> 00:10:42,047
 She went to the Director with it.
 
 129
-00:10:43,514 --> 00:10:44,689
+00:10:43,236 --> 00:10:44,412
 What's Arklay?
 
 130
-00:10:45,208 --> 00:10:50,743
+00:10:44,931 --> 00:10:50,465
 The sample vault. The archive — the thing that paid
 for all of this. It needs better cold
 
 131
-00:10:50,763 --> 00:10:56,423
+00:10:50,485 --> 00:10:56,145
 storage than a basement full of freezers from the
 nineteen-nineties. Pell set it up through
 
 132
-00:10:56,443 --> 00:11:00,355
+00:10:56,165 --> 00:11:00,078
 Nevada for the tax treatment. You can
 see it any time you like.
 
 133
-00:11:00,875 --> 00:11:02,326
+00:11:00,597 --> 00:11:02,049
 I'd like to see it now.
 
 134
-00:11:03,447 --> 00:11:08,776
+00:11:03,169 --> 00:11:08,499
 He took her down in the freight elevator — to the
 basement, and not one button further.
 
 135
-00:11:08,796 --> 00:11:14,372
+00:11:08,519 --> 00:11:14,095
 He showed her the old freezers, and six new ones, and
 a gleaming cold vault Pell had bought
 
 136
-00:11:14,392 --> 00:11:19,906
+00:11:14,115 --> 00:11:19,629
 from the Shop for eighteen hundred Points that very
 morning, specifically so that it would
 
 137
-00:11:19,926 --> 00:11:25,441
+00:11:19,649 --> 00:11:25,164
 be there to show her. He showed her the invoices. He
 showed her the depreciation schedule.
 
 138
-00:11:25,461 --> 00:11:28,023
+00:11:25,184 --> 00:11:27,746
 Every single thing he showed her was real.
 
 139
-00:11:28,595 --> 00:11:34,401
+00:11:28,317 --> 00:11:34,123
 The grey machine was gone from the corner. There was
 only a clean patch of concrete, and
 
 140
-00:11:34,421 --> 00:11:37,249
+00:11:34,143 --> 00:11:36,971
 four bolt holes, and a faint
 smell of cold.
 
 141
-00:11:37,937 --> 00:11:38,913
+00:11:37,660 --> 00:11:38,636
 All right.
 
 142
-00:11:39,433 --> 00:11:40,202
+00:11:39,157 --> 00:11:39,926
 All right?
 
 143
-00:11:40,724 --> 00:11:43,666
+00:11:40,446 --> 00:11:43,388
 All right. Thank you. I don't
 enjoy asking twice.
 
 144
-00:11:44,186 --> 00:11:45,361
+00:11:43,908 --> 00:11:45,084
 You'll never have to.
 
 145
-00:11:47,081 --> 00:11:53,111
+00:11:46,802 --> 00:11:52,833
 It was the first lie he told her. It would not be
 the last. But it was, in its way, the
 
 146
-00:11:53,131 --> 00:11:59,023
+00:11:52,853 --> 00:11:58,745
 best one — because it was made entirely of true
 things, arranged in an order that did
 
 147
-00:11:59,043 --> 00:12:00,693
+00:11:58,765 --> 00:12:00,415
 not add up to the truth.
 
 148
-00:12:01,383 --> 00:12:03,099
+00:12:01,105 --> 00:12:02,821
 You enjoyed that.
 
 149
-00:12:03,619 --> 00:12:09,295
+00:12:03,341 --> 00:12:09,017
 I enjoy craftsmanship. She's the only person in the
 building worth lying to properly.
 
 150
-00:12:11,315 --> 00:12:13,545
+00:12:11,037 --> 00:12:13,267
 There were other promotions that spring.
 
 151
-00:12:14,115 --> 00:12:20,208
+00:12:13,837 --> 00:12:19,931
 Evelyn Marsh became head of the assay programme, with
 twelve of Verdant's scientists reporting
 
 152
-00:12:20,228 --> 00:12:25,931
+00:12:19,951 --> 00:12:25,654
 to her, and moved into a lab on the ninth floor of
 the tower, and was seen there, by the
 
 153
-00:12:25,951 --> 00:12:28,858
+00:12:25,674 --> 00:12:28,581
 cleaners, at every hour of the
 day and night.
 
 154
-00:12:29,427 --> 00:12:35,255
+00:12:29,149 --> 00:12:34,977
 Tomás Reyes became head of digital, and was given a
 budget, and did not yet know what
 
 155
-00:12:35,275 --> 00:12:36,288
+00:12:34,997 --> 00:12:36,009
 to spend it on.
 
 156
-00:12:36,856 --> 00:12:43,577
+00:12:36,580 --> 00:12:43,300
 And Doctor Nadia Okafor was made director of virology —
 the best-equipped virology laboratory
 
 157
-00:12:43,597 --> 00:12:49,593
+00:12:43,320 --> 00:12:49,317
 she had ever worked in, with a staff of twenty,
 and a salary she had to read twice.
 
 158
-00:12:50,164 --> 00:12:54,240
+00:12:49,886 --> 00:12:53,962
 She took it. She would think about that
 decision for the rest of her life.
 
 159
-00:12:54,811 --> 00:13:00,646
+00:12:54,533 --> 00:13:00,368
 She took it because the work was real, and good, and
 she was the best person in the building
 
 160
-00:13:00,666 --> 00:13:06,120
+00:13:00,388 --> 00:13:05,842
 to do it. She took it because she had a mother in
 Lagos who needed an operation, and a
 
 161
-00:13:06,140 --> 00:13:11,594
+00:13:05,862 --> 00:13:11,316
 niece at university in Manchester. And she took it
 because some part of her — the part
 
 162
-00:13:11,614 --> 00:13:16,305
+00:13:11,336 --> 00:13:16,027
 that had not clapped in the break room —
 wanted to be close enough to see.
 
 163
-00:13:17,874 --> 00:13:23,163
+00:13:17,596 --> 00:13:22,886
 From her new office on the eighth floor, if she
 stood at the window, she could see the
 
 164
-00:13:23,183 --> 00:13:28,473
+00:13:22,906 --> 00:13:28,196
 old brick building across the river. At night, she
 noticed, the lights in its basement
 
 165
-00:13:28,493 --> 00:13:29,399
+00:13:28,216 --> 00:13:29,122
 never went out.
 
 166
-00:13:29,970 --> 00:13:33,653
+00:13:29,692 --> 00:13:33,376
 She did not know yet that there was
 anything beneath the basement.
 
 167
-00:13:34,224 --> 00:13:39,465
+00:13:33,946 --> 00:13:39,187
 But she was a virologist. Her whole career had been
 spent looking for things that were
 
 168
-00:13:39,485 --> 00:13:44,788
+00:13:39,207 --> 00:13:44,510
 invisible, and she had learned, long ago, to trust
 the feeling of something being there
 
 169
-00:13:44,808 --> 00:13:46,257
+00:13:44,530 --> 00:13:45,979
 before she could see it.

@@ -738,43 +738,43 @@ Early?
 Keep the file. We'll need it.
 
 160
-00:12:08,363 --> 00:12:14,103
+00:12:08,363 --> 00:12:14,075
 Tomás took it down. By then it had been downloaded
 two hundred times, and three of those
 
 161
-00:12:14,123 --> 00:12:19,930
+00:12:14,095 --> 00:12:19,808
 copies would still be circulating on the internet
-eleven years later, in a very different
+seven years later, in a very different
 
 162
-00:12:19,950 --> 00:12:25,495
+00:12:19,828 --> 00:12:25,346
 world, under titles like The First Speech, and
 Where It Started, and Watch His Hands.
 
 163
-00:12:27,065 --> 00:12:32,782
+00:12:26,916 --> 00:12:32,633
 In lab two, at two in the morning, Evelyn Marsh was
 building the first prototype of the
 
 164
-00:12:32,802 --> 00:12:38,585
+00:12:32,653 --> 00:12:38,436
 assay with her own hands, from a set of instructions
 in her own handwriting that she had
 
 165
-00:12:38,605 --> 00:12:39,509
+00:12:38,456 --> 00:12:39,360
 never written.
 
 166
-00:12:40,080 --> 00:12:45,928
+00:12:39,929 --> 00:12:45,778
 She was humming as she worked. Four notes. Falling,
 and falling, and falling, and landing
 
 167
-00:12:45,948 --> 00:12:47,312
+00:12:45,798 --> 00:12:47,162
 somewhere unresolved.
 
 168
-00:12:47,883 --> 00:12:49,893
+00:12:47,734 --> 00:12:49,744
 She did not know she was doing it.
