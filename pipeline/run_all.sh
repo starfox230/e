@@ -13,8 +13,8 @@ if [ "$MIXES" -lt 50 ]; then
   echo "[$(date +%H:%M:%S)] after retry: $MIXES/50"
 fi
 
-echo "[$(date +%H:%M:%S)] waiting for image pass"
-while pgrep -f build_images.py > /dev/null; do sleep 30; done
+echo "[$(date +%H:%M:%S)] waiting for image passes"
+while pgrep -f build_images.py > /dev/null || pgrep -f chain_images.sh > /dev/null; do sleep 30; done
 echo "[$(date +%H:%M:%S)] images: $(ls work/images/*.png work/images/*.jpg 2>/dev/null | wc -l)"
 
 echo "[$(date +%H:%M:%S)] packing art to jpeg"
