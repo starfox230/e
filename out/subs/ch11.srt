@@ -1,0 +1,785 @@
+1
+00:00:07,799 --> 00:00:11,993
+The Shop, it turned out, had been waiting for
+him to own the first piece.
+
+2
+00:00:12,563 --> 00:00:18,501
+The day after the ten-pull, a new line had appeared
+in the blueprint catalogue, greyed
+
+3
+00:00:18,521 --> 00:00:24,599
+out and unpriced. Cellular Renewal Compound —
+fragment two of three. A week later it had
+
+4
+00:00:24,619 --> 00:00:30,488
+a price. A week after that, fragment three appeared
+beside it. Twelve thousand Points
+
+5
+00:00:30,508 --> 00:00:30,835
+each.
+
+6
+00:00:31,525 --> 00:00:33,190
+It is baiting you.
+
+7
+00:00:33,710 --> 00:00:38,652
+It's teaching me. There's a difference. It wants me
+to learn that the best things come
+
+8
+00:00:38,672 --> 00:00:41,882
+in pieces, and that you pay for the
+last piece the most.
+
+9
+00:00:43,033 --> 00:00:47,314
+Blueprint complete. Cellular
+renewal compound.
+
+10
+00:00:49,453 --> 00:00:53,055
+What arrived, when the three pieces
+joined, was a medicine.
+
+11
+00:00:53,625 --> 00:00:59,372
+It was not the Prototype. It was not anything like
+the Prototype. The Wesker half of the
+
+12
+00:00:59,392 --> 00:01:05,334
+mind read it three times to be sure, because the
+Wesker half had spent a lifetime designing
+
+13
+00:01:05,354 --> 00:01:09,266
+things that killed people, and he was
+looking for the trick.
+
+14
+00:01:09,837 --> 00:01:15,714
+There was no trick. The compound was a small, stable
+molecule that could be made in any
+
+15
+00:01:15,734 --> 00:01:22,017
+competent chemical plant on Earth. It found cells in
+the human body that had stopped dividing
+
+16
+00:01:22,037 --> 00:01:28,118
+but refused to die — the old, stubborn, inflamed cells
+that accumulate with age and poison
+
+17
+00:01:28,138 --> 00:01:34,083
+everything around them — and it told them, gently, to
+finish dying. And then it told the
+
+18
+00:01:34,103 --> 00:01:35,981
+cells around them to repair.
+
+19
+00:01:36,551 --> 00:01:42,739
+In mice, according to the documentation, it extended
+healthy lifespan by forty percent.
+
+20
+00:01:42,759 --> 00:01:49,018
+In the elderly, it would reverse most of the
+measurable signs of physical decline within
+
+21
+00:01:49,038 --> 00:01:49,518
+a year.
+
+22
+00:01:51,207 --> 00:01:53,641
+You are going to make old men young.
+
+23
+00:01:54,162 --> 00:02:00,253
+I'm going to make old men grateful. And very rich
+old men very, very grateful. Do you
+
+24
+00:02:00,273 --> 00:02:05,358
+know who runs every country on this planet,
+Adolf? Men over sixty-five.
+
+25
+00:02:07,376 --> 00:02:13,909
+They called it Aeterna. Tomás suggested the name.
+Catherine hated it. The Director approved
+
+26
+00:02:13,929 --> 00:02:20,462
+it in four seconds, because the Adolf half of the mind
+had heard it and said, very quietly,
+
+27
+00:02:20,482 --> 00:02:20,750
+yes.
+
+28
+00:02:21,320 --> 00:02:27,420
+The first human trial began in September of twenty
+twenty-seven. Sixty volunteers, all
+
+29
+00:02:27,440 --> 00:02:33,682
+over seventy, all suffering from the slow, grinding
+frailty that doctors call sarcopenia
+
+30
+00:02:33,702 --> 00:02:40,157
+and everyone else calls getting old. It was a narrow,
+careful, entirely conventional study,
+
+31
+00:02:40,177 --> 00:02:46,348
+designed by Nadia Okafor's team and approved by an
+independent ethics board, and nobody
+
+32
+00:02:46,368 --> 00:02:52,040
+involved in it except the man at the top had any
+idea what it was going to show.
+
+33
+00:02:52,610 --> 00:02:58,434
+By December, a seventy-eight-year-old retired
+steelworker named Arthur Kowalczyk, who
+
+34
+00:02:58,454 --> 00:03:04,622
+had arrived at the trial in a wheelchair, walked out
+of it. He walked to his car. He drove
+
+35
+00:03:04,642 --> 00:03:10,053
+home. He called his daughter in Ohio and cried
+on the phone for twenty minutes.
+
+36
+00:03:10,623 --> 00:03:16,508
+By January, the grip strength of the treatment group
+had increased by thirty-one percent.
+
+37
+00:03:16,528 --> 00:03:22,213
+Their walking speed by twenty-six. Their
+inflammatory markers had fallen to levels you
+
+38
+00:03:22,233 --> 00:03:27,918
+would expect in people twenty years younger. Two of
+them had had cataracts clear. One,
+
+39
+00:03:27,938 --> 00:03:33,557
+a woman of eighty-one, had begun — very slightly —
+to regrow hair that had been white
+
+40
+00:03:33,577 --> 00:03:36,012
+for a decade, in its original colour.
+
+41
+00:03:37,581 --> 00:03:43,523
+Nadia Okafor read the interim data at eleven
+o'clock at night, alone in her office on
+
+42
+00:03:43,543 --> 00:03:49,485
+the eighth floor. She read it twice. Then she took
+off her glasses and sat for a long
+
+43
+00:03:49,505 --> 00:03:51,168
+time looking at nothing.
+
+44
+00:03:51,740 --> 00:03:57,381
+She was a good scientist. She knew what she was
+looking at. It was the most important
+
+45
+00:03:57,401 --> 00:03:59,378
+medical result in fifty years.
+
+46
+00:03:59,948 --> 00:04:05,937
+And it had come from a compound whose design history
+she had tried to trace three times,
+
+47
+00:04:05,957 --> 00:04:12,084
+and which led, every time, to a folder of documents
+that had simply appeared on the server
+
+48
+00:04:12,104 --> 00:04:15,977
+one morning, fully formed, with no
+author she could find.
+
+49
+00:04:18,048 --> 00:04:22,201
+The data went public in February. The
+world lost its mind.
+
+50
+00:04:22,769 --> 00:04:28,632
+Umbrella's share price went from eighteen dollars to
+a hundred and four in nine trading
+
+51
+00:04:28,652 --> 00:04:34,380
+days. The Food and Drug Administration, under an
+administration that had spent a year
+
+52
+00:04:34,400 --> 00:04:40,128
+promising to cut red tape for American medicine,
+granted Aeterna breakthrough therapy
+
+53
+00:04:40,148 --> 00:04:46,281
+designation in a record thirty-one days. Every health
+desk on Earth ran the story of Arthur
+
+54
+00:04:46,301 --> 00:04:48,242
+Kowalczyk walking to his car.
+
+55
+00:04:48,814 --> 00:04:53,615
+And every television producer on Earth wanted
+the man in the sunglasses.
+
+56
+00:04:55,305 --> 00:05:00,458
+No television. We're a clinical-stage biotech with
+one trial and sixty patients. Every
+
+57
+00:05:00,478 --> 00:05:05,692
+word he says on camera is a word the SEC can read
+back to us. We do a press release, we
+
+58
+00:05:05,712 --> 00:05:08,338
+do an investor call, and we do
+nothing else.
+
+59
+00:05:08,858 --> 00:05:13,402
+With respect, Catherine, that's how you do it if
+you want to be a biotech. He doesn't
+
+60
+00:05:13,422 --> 00:05:14,530
+want to be a biotech.
+
+61
+00:05:15,050 --> 00:05:16,481
+What does he want to be?
+
+62
+00:05:17,000 --> 00:05:21,554
+I don't know yet. But I know what the internet wants
+him to be. There are three hundred
+
+63
+00:05:21,574 --> 00:05:25,655
+thousand people in a subreddit right now arguing
+about whether he's a vampire.
+
+64
+00:05:26,975 --> 00:05:27,905
+One interview.
+
+65
+00:05:28,425 --> 00:05:29,257
+Albert —
+
+66
+00:05:29,776 --> 00:05:35,548
+One. Live. Your conditions on what I can say.
+Tomás's conditions on everything else.
+
+67
+00:05:37,569 --> 00:05:43,128
+The interview was on a Wednesday morning, on the
+flagship programme of a business network
+
+68
+00:05:43,148 --> 00:05:46,200
+that forty million people watched
+over breakfast.
+
+69
+00:05:46,769 --> 00:05:52,455
+The anchor was a woman named Miriam Castell, who
+had interviewed three presidents and
+
+70
+00:05:52,475 --> 00:05:58,228
+most of the world's billionaires, and who had a
+reputation for making powerful men say
+
+71
+00:05:58,248 --> 00:06:03,062
+one sentence too many. She had prepared for
+four days. She had a folder.
+
+72
+00:06:03,632 --> 00:06:09,580
+He arrived four minutes before air, which gave the
+makeup department time to do nothing,
+
+73
+00:06:09,600 --> 00:06:14,259
+and sat down across from her in a black
+suit, with his sunglasses on.
+
+74
+00:06:14,949 --> 00:06:17,199
+The glasses. Would you mind? For
+the audience.
+
+75
+00:06:17,720 --> 00:06:19,087
+The lights are very bright.
+
+76
+00:06:19,605 --> 00:06:21,028
+I'm afraid it looks a little —
+
+77
+00:06:21,548 --> 00:06:22,745
+I know how it looks.
+
+78
+00:06:24,064 --> 00:06:29,578
+She let it go. She would say afterwards that it was
+the first time in twenty years she
+
+79
+00:06:29,598 --> 00:06:33,890
+had let anything go before air, and she
+never quite worked out why.
+
+80
+00:06:35,461 --> 00:06:36,907
+The red light came on.
+
+81
+00:06:37,475 --> 00:06:43,482
+The first eight minutes were ordinary. She asked about
+the trial, and he answered, briefly
+
+82
+00:06:43,502 --> 00:06:49,174
+and precisely, in sentences Catherine had approved.
+She asked about Verdant Axis, and
+
+83
+00:06:49,194 --> 00:06:55,334
+he said that the company's scientists had done
+excellent work under difficult circumstances.
+
+84
+00:06:55,354 --> 00:07:01,361
+She asked about the Shenzhen licence, and he said that
+science did not have a nationality,
+
+85
+00:07:01,381 --> 00:07:07,655
+and that he was an American company's chief executive,
+and that he paid his taxes in Delaware,
+
+86
+00:07:07,675 --> 00:07:11,003
+which was more than some of his
+critics could say.
+
+87
+00:07:11,574 --> 00:07:17,303
+And then, at eight minutes and ten seconds, Miriam
+Castell leaned forward and asked the
+
+88
+00:07:17,323 --> 00:07:20,673
+question she had built the entire
+interview around.
+
+89
+00:07:21,963 --> 00:07:26,514
+Doctor Wesker, people are calling Aeterna a fountain
+of youth. They're saying you've found
+
+90
+00:07:26,534 --> 00:07:30,120
+a way to stop ageing. I have to ask you
+directly. Is that what this is?
+
+91
+00:07:31,639 --> 00:07:33,040
+He did not answer.
+
+92
+00:07:36,108 --> 00:07:42,596
+He did not look away. He did not smile. He simply sat,
+perfectly still, with the red light
+
+93
+00:07:42,615 --> 00:07:47,656
+of the camera in the lenses of his glasses,
+and let the silence go on.
+
+94
+00:07:50,726 --> 00:07:55,947
+In the control room, the director began to count
+under his breath. Four. Five. Six. In
+
+95
+00:07:55,967 --> 00:08:01,126
+a live broadcast, three seconds of silence is an
+accident. Six is a crisis. At eight,
+
+96
+00:08:01,146 --> 00:08:06,610
+a producer reached for the button that would cut to a
+commercial, and the director slapped
+
+97
+00:08:06,630 --> 00:08:11,972
+her hand away, because he had been in television for
+twenty-six years, and he knew — the
+
+98
+00:08:11,992 --> 00:08:17,394
+way you know a storm is coming — that he was watching
+something he would never see again.
+
+99
+00:08:19,964 --> 00:08:21,783
+Nine. Ten. Seventeen.
+
+100
+00:08:23,673 --> 00:08:29,151
+No, Miss Castell. It isn't a fountain of youth. A
+fountain is something you stumble on
+
+101
+00:08:29,171 --> 00:08:31,069
+in the forest. This was built.
+
+102
+00:08:32,589 --> 00:08:38,356
+That was all. Seventeen words, after eleven seconds
+of nothing. Miriam Castell, who had
+
+103
+00:08:38,376 --> 00:08:44,011
+made three presidents say one sentence too many,
+found she had nothing to follow them
+
+104
+00:08:44,031 --> 00:08:48,135
+with. She thanked him. He thanked her.
+The red light went off.
+
+105
+00:08:50,206 --> 00:08:55,668
+The clip was online in four minutes. By noon it
+had been watched ten million times.
+
+106
+00:08:56,238 --> 00:09:01,877
+By the evening, it had a name. Somebody on the
+internet had called him the Sunglasses
+
+107
+00:09:01,897 --> 00:09:07,603
+CEO, and the name had stuck the way names stick
+online — instantly, and forever. There
+
+108
+00:09:07,623 --> 00:09:13,663
+were edits of the eleven seconds set to orchestral
+music. There were edits set to heartbeat
+
+109
+00:09:13,683 --> 00:09:19,522
+sounds. There was an edit in which someone had slowed
+the silence down to a full minute,
+
+110
+00:09:19,542 --> 00:09:25,381
+and it had been watched four million times on its
+own. There were people who counted the
+
+111
+00:09:25,401 --> 00:09:31,108
+seconds out loud in their videos, in the style of a
+rocket launch. There were T-shirts
+
+112
+00:09:31,128 --> 00:09:31,774
+by Friday.
+
+113
+00:09:32,344 --> 00:09:37,839
+Tomás watched it happen from a room on the tenth
+floor with six screens and a budget,
+
+114
+00:09:37,859 --> 00:09:40,046
+and he did not sleep for two days.
+
+115
+00:09:40,615 --> 00:09:46,319
+It was Tomás who found the break room clip — the
+twenty seconds from November, the room
+
+116
+00:09:46,339 --> 00:09:52,175
+nobody was watching — and released it, the following
+Tuesday, with a single line of text:
+
+117
+00:09:52,195 --> 00:09:58,032
+where it started. It was Tomás who made sure that
+every edit of the eleven seconds linked
+
+118
+00:09:58,052 --> 00:10:03,691
+back to the Aeterna trial page. It was Tomás who
+understood, before anyone else in the
+
+119
+00:10:03,711 --> 00:10:07,705
+company, that the Director was not a
+chief executive anymore.
+
+120
+00:10:08,275 --> 00:10:13,920
+He was a story. And stories, on the internet of
+twenty twenty-eight, were worth more than
+
+121
+00:10:13,940 --> 00:10:14,557
+companies.
+
+122
+00:10:16,626 --> 00:10:22,727
+He watched it himself only once, in the back of the
+car on the way to the airport, on
+
+123
+00:10:22,747 --> 00:10:24,095
+Tomás's insistence.
+
+124
+00:10:24,666 --> 00:10:30,837
+The Wesker half of the mind watched the eleven seconds
+the way a surgeon watches a recording
+
+125
+00:10:30,857 --> 00:10:36,826
+of his own operation: clinically, noting the timing,
+the light, the angle. It had worked.
+
+126
+00:10:36,846 --> 00:10:39,990
+He had known it would work. The
+rest was noise.
+
+127
+00:10:40,559 --> 00:10:45,927
+The other half was not watching the eleven seconds
+at all. It was watching the numbers
+
+128
+00:10:45,947 --> 00:10:46,929
+underneath them.
+
+129
+00:10:48,620 --> 00:10:50,200
+Fifteen million.
+
+130
+00:10:50,720 --> 00:10:56,032
+Twenty million views. Not eight million people.
+Some of them watched it twenty times.
+
+131
+00:10:56,552 --> 00:11:02,867
+I spoke to three hundred thousand people in a
+stadium in Nuremberg. It was the largest
+
+132
+00:11:02,887 --> 00:11:08,393
+crowd of my life. It took a year of planning
+and a special train timetable.
+
+133
+00:11:09,594 --> 00:11:15,326
+This morning you sat in a chair and said nothing,
+and sixteen million people came.
+
+134
+00:11:17,346 --> 00:11:23,213
+Wesker did not answer. For a long time there was only
+the hum of the tyres and the lights
+
+135
+00:11:23,233 --> 00:11:25,859
+of the highway sliding across the glass.
+
+136
+00:11:26,428 --> 00:11:32,054
+Then the old voice spoke again, very quietly, and
+there was something in it that Wesker
+
+137
+00:11:32,074 --> 00:11:34,715
+had never heard before, and did not like.
+
+138
+00:11:35,404 --> 00:11:41,677
+I have misjudged this world. I thought it was
+soft. It is not soft. It is waiting.
+
+139
+00:11:43,697 --> 00:11:49,525
+In March, Umbrella Life Sciences rang the opening
+bell at the NASDAQ in Times Square,
+
+140
+00:11:49,545 --> 00:11:55,580
+on the morning of a secondary share offering that
+raised three point two billion dollars
+
+141
+00:11:55,600 --> 00:11:56,680
+in a single day.
+
+142
+00:11:57,250 --> 00:12:03,144
+He rang it with Catherine on one side of him and
+Evelyn on the other, and Dana, and Tomás,
+
+143
+00:12:03,164 --> 00:12:08,729
+and even Walter, who had been talked into a suit.
+On the giant screens outside, seven
+
+144
+00:12:08,749 --> 00:12:14,577
+storeys high above the traffic, the red-and-white
+emblem turned slowly over Times Square,
+
+145
+00:12:14,597 --> 00:12:20,228
+and a crowd on the pavement — who had come because
+they had seen the eleven seconds on
+
+146
+00:12:20,248 --> 00:12:23,514
+their phones — held up their
+phones and filmed it.
+
+147
+00:12:24,083 --> 00:12:29,253
+One of them had printed a T-shirt with a pair of
+black sunglasses on it, and the number
+
+148
+00:12:29,273 --> 00:12:29,789
+thirteen.
+
+149
+00:12:32,110 --> 00:12:35,653
+Assessment. Thirty-seven thousand Points.
+
+150
+00:12:42,085 --> 00:12:44,360
+Level up. Level twelve.
+
+151
+00:12:46,524 --> 00:12:51,404
+Public fascination. The System had never
+paid him for strangers before.
+
+152
+00:12:51,975 --> 00:12:57,557
+The Adolf half of the mind read that line, and read
+it again, and understood something
+
+153
+00:12:57,577 --> 00:13:03,094
+that it would take the Wesker half another three
+years to accept. The crowds had come
+
+154
+00:13:03,114 --> 00:13:05,961
+back. They had simply moved
+into the phones.
+
+155
+00:13:08,029 --> 00:13:13,597
+In a one-bedroom apartment in Wilmington, Hannah
+Price watched the eleven seconds for
+
+156
+00:13:13,617 --> 00:13:16,884
+the forty-first time, with a
+notebook on her knee.
+
+157
+00:13:17,455 --> 00:13:22,914
+She was not watching his face. Everybody else was
+watching his face. She was watching
+
+158
+00:13:22,934 --> 00:13:28,716
+Miriam Castell's — the anchor's — as the silence went
+on, and she was watching the precise
+
+159
+00:13:28,736 --> 00:13:34,261
+moment, at about the seventh second, when the most
+experienced interviewer in American
+
+160
+00:13:34,281 --> 00:13:39,870
+television had stopped being in control of her own
+programme, and had not even noticed.
+
+161
+00:13:40,440 --> 00:13:43,513
+She wrote two words in the notebook,
+and circled them.
+
+162
+00:13:44,082 --> 00:13:45,419
+Eleven seconds.
+
+163
+00:13:45,990 --> 00:13:52,046
+Then, underneath, she wrote the first line of a pitch
+to a national magazine, for a long
+
+164
+00:13:52,066 --> 00:13:55,084
+profile of a man nobody knew
+anything about.

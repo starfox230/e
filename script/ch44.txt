@@ -1,0 +1,113 @@
+# 44 | The Hegemony
+
+[music] m_alien -10
+[amb] amb_space -8
+[img] an immense alien war fleet of hundreds of ships in rigid formation crossing interstellar space, geometric and cold, stars behind them, cinematic
+[loc] 2091 — seventeen years later
+N: The Veth Hegemony arrived in the spring of twenty ninety-one, and it did not send a message first.
+N: It had been informed of humanity's existence in nineteen thirty-six, by a radio broadcast of the Berlin Olympic Games, which had crossed nine hundred light years and been catalogued, in the Hegemony's registry of emergent systems, as a low-priority assessment target.
+N: The Adolf half of the mind would have found that exquisitely funny. There was no Adolf half of the mind anymore. There was a man who noted the fact, and filed it in a room on the fourth floor of an imaginary brick building, and did not laugh.
+[pause 1.5]
+[img] a formal alien registry display showing a system entry with archaic notation and a status change from ASSESS to ADMINISTER, cinematic
+N: They came with four hundred and eleven vessels, which was a routine allocation for a system of humanity's assessed development, and which represented approximately one two-thousandth of the Hegemony's standing force.
+N: The Veth were not cruel. That is the thing every human account gets wrong, and it is important. They were an empire of nine thousand years and four hundred worlds, organised into a caste structure of such antiquity that no living Veth could remember its origin, and they had a doctrine for emergent species that was entirely rational and had worked four hundred times. They arrived. They assessed. What was useful, they administered. What was not, they cleared.
+N: They did not hate anyone. They had not hated anything in nine thousand years. That was what made them what they were.
+[pause 2.0]
+
+[music] m_horror -8
+[img] a vast alien command deck with a towering armoured figure on a raised platform surrounded by caste-marked subordinates, cold blue light, cinematic
+N: The Veth admiral's name and caste-title together ran to forty-one syllables. Human records call her Sethra-Vel, which was the first four.
+N: She had administered nine emergent systems. She had cleared two. She had held her command for four hundred and six years, which was possible because the Hegemony's upper castes lived that long, and which was why the Hegemony's doctrine had not changed in nine thousand years.
+N: She took her fleet to the edge of the human system on the fourth of April, and she opened her registry, and she read the assessment that had been compiled from a century and a half of intercepted radio.
+[img] an alien admiral studying floating displays of grainy archival human footage: parades, wars, cities, crowds, cinematic
+N: What she read was a species that had achieved powered flight, nuclear fission, and orbital capability within a single lifetime; that had fought two global wars of extraordinary savagery; that had fragmented into a hundred and ninety-three competing polities; and that had, in the last four decades, gone unaccountably quiet in a manner the registry flagged as consolidation, probable.
+N: She ordered a standard approach. Four hundred vessels, in formation, into the system, to the third planet, to assess.
+[pause 2.0]
+
+[music] m_action -10
+[amb] amb_ship_hum -10
+[img] a line of enormous dark human wedge-ships hanging motionless in deep space in perfect formation, no lights, no markings, ominous, cinematic
+[loc] The outer system
+N: There were ninety-one void-cutters by twenty ninety-one. They were waiting at the heliopause, in a plane, at rest, with their drives cold.
+N: The first thing that went wrong for the Hegemony was that they could not see them.
+N: It is not that the void-cutters were invisible. The Veth had sensors that could count the moons of a gas giant from four light years. It is that the ships did not radiate. They did not run beacons, or transponders, or navigation lights, or communications. They did not talk to each other; they had been positioned, days before, and given their orders, and they sat in the dark with everything off, waiting.
+N: No navy in nine thousand years had done that, because no navy in nine thousand years had been crewed by people who could be relied upon to sit in the dark for four days without asking a question.
+[img] the interior of a human warship bridge in near-total darkness, rows of crew at stations sitting perfectly still, no one speaking, cinematic
+N: The Wilmington's bridge crew was ninety-one people. Eighty-one of them had come from the Shop. They sat at their stations for four days in the dark and did not speak, did not fidget, did not eat, and did not once look at the door.
+N: The ten who were human found it, they all said afterwards, the worst four days of their lives.
+[pause 2.0]
+
+[music] m_horror -6
+[img] an alien fleet in tight formation advancing through the outer system, and around them, silently, dozens of dark shapes becoming visible as they light their drives, cinematic
+[sfx] sfx_ship_pass g-8
+N: The second thing that went wrong for the Hegemony was that the Directorate did not attack the fleet.
+N: Sethra-Vel's formation crossed the heliopause on the ninth of April and proceeded inward for four days, and nothing happened. On the fourth day her sensor officers reported ninety-one objects that had appeared behind her — objects that had been there all along, and had simply begun to exist by lighting their drives, in formation, across her line of retreat.
+N: She did what four hundred years of doctrine told her to do, which was to hold her formation and open communications, because an emergent species that reveals a fleet is a species that wants to negotiate.
+N: The Directorate did not answer. The ninety-one ships held station behind her, in perfect silence, and matched her velocity, and did nothing.
+[pause 1.5]
+[img] an alien admiral on a command deck studying a tactical display showing her fleet with dark shapes trailing behind it, her posture rigid, cinematic
+N: She held course for four more days. The ninety-one followed.
+N: Her officers requested permission to engage. She refused, four times, because doctrine was clear and because in four hundred and six years she had never once been in a situation in which the other party had failed to say anything at all.
+N: On the eighth day, at a range of nine million kilometres from the third planet, she ordered her fleet to decelerate and hold.
+N: And the moment her formation went to rest, the ninety-one opened fire.
+[pause 2.0]
+[music] m_action -2
+[sfx] sfx_laser
+[sfx] sfx_explosion_distant +0.8
+[img] silent brilliant flashes among a formation of alien ships in deep space, debris expanding in perfect spheres, no sound, cinematic
+[sfx] sfx_laser +1.6
+[sfx] sfx_explosion_distant +2.2
+N: The engagement lasted nine minutes.
+N: The narrator is not going to describe the weapons. They were bought from a tab in a shop that only one man could see, and their operating principles are not something this story is going to explain, and by the twenty-second century their effects were well enough known that there is no need.
+N: A hundred and eleven Veth vessels were destroyed in the first ninety seconds. Sethra-Vel's fleet returned fire with everything it had, and the ninety-one void-cutters took damage — real damage; four of them were lost with all hands, and two of the four had human crews aboard, and their names are on a wall on Arklay.
+N: And then the Veth formation broke, which in nine thousand years it had done four times, and the ninety-one did not pursue.
+[pause 2.0]
+
+[music] m_horror -8
+[img] an alien admiral standing alone on a damaged command deck lit by emergency light, staring at a tactical display of her broken fleet, cinematic
+N: Here is the part that mattered, and it is not the battle.
+N: Sethra-Vel withdrew to the outer system with two hundred and ninety-one vessels and waited to be pursued, and was not. She waited nine days. Then she transmitted a formal request for terms, which is a thing the Hegemony had done twice in nine thousand years.
+N: The Directorate's answer came in forty seconds, in fluent High Veth, in a grammatical register that her caste used for addressing equals.
+WESKER: You may withdraw. Your wounded may withdraw with you. You will leave your registry beacon in this system so that the next fleet knows what happened here.
+[pause 1.0]
+WESKER: Report the following to your Hegemony. This system is administered. It is not available for assessment. We have no interest in your four hundred worlds and no intention of visiting them. If you come again, we will not stop at your fleet.
+[pause 2.0]
+N: She read it four times.
+N: In four hundred and six years she had never received a communication from an emergent species that did not contain either a plea or a threat. This contained neither. It contained a boundary, and a consequence, and the courtesy of her own caste-register, and a sentence — we have no interest in your four hundred worlds — that she understood, immediately and completely, to be a lie.
+[pause 1.5]
+[img] a close-up of an armoured alien face with multiple eyes, unreadable, lit by the glow of a display, cinematic
+N: She wrote in her report — and the Hegemony's registry is one of the few alien documents that human historians have in full, because a beacon was left in the system exactly as instructed — the four sentences for which she is remembered:
+[pause 1.0]
+VETH: They do not broadcast. They do not boast. They sat in the dark for four days and did not speak, and I do not believe their crews were afraid, and I do not believe their crews were brave. Their ships feel wrong.
+[pause 2.5]
+
+[music] m_alien -6
+[amb] amb_space -6
+[img] the alien fleet withdrawing from the solar system leaving a single small beacon behind, stars, silence, cinematic
+N: The Veth withdrew on the fourth of May, twenty ninety-one, and left the beacon, and the beacon is still there, and it is a listed monument.
+N: The Hegemony did not come again for nineteen years. When it did, it came differently, and by then so had the Directorate, and that is a later part of the story.
+[pause 1.5]
+
+[music] m_horror -8
+[amb] amb_ship_hum -8
+[img] {WESKER} standing on a dark bridge looking at a display of the withdrawing alien fleet, alone, no crew speaking behind him, cinematic
+N: On the Wilmington's bridge, the ten human officers celebrated.
+N: They had been awake for four days in the dark with eighty-one people who did not blink, and their species had just fought the first battle of its interstellar history and won it, and they cheered, and hugged each other, and two of them cried.
+N: The eighty-one returned to their stations and waited for the next order.
+N: The Director watched the Veth formation withdraw and did not join in. He had already moved on, four thousand subjective hours ahead, in nine parallel threads, to the thing that had been sitting in the front of his mind since a four-metre creature with no face had said the words nine hundred light years.
+[pause 1.5]
+N: He waited, for about a second, for something to say to him.
+[pause 1.0]
+N: Nothing. There was no second voice. There had not been for forty-four years.
+N: But he had noticed something during the nine minutes of the engagement, and he examined it afterwards in the privacy of a mind that nobody else could enter, and he was honest with himself about it, because he had always been honest with himself and it was the only virtue he had left.
+N: When the Veth formation broke, he had felt something he had not felt since a basement in Wilmington in twenty thirty, and a desert in Nevada in twenty thirty.
+N: He had wanted to pursue.
+[pause 2.0]
+N: He had given the order to hold, and the order had been correct — pursuit into an unknown fleet's retreat is how empires die — and every one of his nine threads had agreed on it.
+N: And underneath the nine threads, in the place where a voice had lived for twenty-one years and had wept on a balcony in Geneva, something had wanted very badly to chase four hundred fleeing ships across a solar system and kill every one of them.
+[pause 1.5]
+[img] extreme close-up of {WESKER}'s face in the dark reflected in a bridge window, his eyes glowing faint amber-red, expression unreadable, cinematic
+N: He stood on the bridge with the stars going past and thought about that for a long time.
+N: Then he filed it, on the fourth floor, in a room with no name on the door, and went back to work.
+[pause 3.0]
+[music] stop

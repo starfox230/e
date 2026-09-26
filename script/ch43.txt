@@ -1,0 +1,129 @@
+# 43 | The Tollhouse
+
+[music] m_alien -8
+[amb] amb_space -8
+[img] a vast dark wedge-shaped human warship coasting through deep space far from any star, stars unmoving, utter silence, cinematic
+[loc] 2074 — 41 astronomical units from the Sun
+N: The thing that had been working out there came into the solar system in the autumn of twenty seventy-four, and it did not come quietly, and it did not come alone.
+N: There were nine of them. They crossed the heliopause at a velocity that the Directorate's astronomers spent four days refusing to publish, because publishing it would have meant admitting that the objects had decelerated from a substantial fraction of light speed without radiating the energy that such a deceleration requires.
+N: They took up a formation at forty-one astronomical units, beyond the orbit of Neptune, and they stopped, and they waited.
+[pause 1.5]
+[img] nine strange geometric vessels in formation against the stars, each one different, none symmetrical, dark and intricate, cinematic
+N: And then, eleven days later, they transmitted. In four hundred and six human languages, including nineteen that had been extinct for a century, and one that had been extinct for four thousand years and was known to about thirty scholars on Earth.
+N: The message was four sentences long. It has been reprinted more times than any text in human history except one.
+[pause 1.5]
+[img] a dark screen displaying an alien message translated into plain text, four short lines, watched by silent controllers in a dim room, cinematic
+BROKER: We have listened for one hundred and forty of your years. We are the Tollhouse Compact. We buy, we sell, and we do not make war upon markets. Name one who may speak for your world, and we will come to the third planet and open an account.
+[pause 2.5]
+
+[music] m_horror -10
+[img] a crowded emergency session of the Accord Council, delegates from every nation, screens showing the nine objects, uproar, cinematic
+[loc] Geneva — the Accord Council, emergency session
+N: The species had four weeks to decide who spoke for it. It spent nineteen days arguing, which the Director considered, privately, a triumph of self-control.
+N: There were four positions. The United Nations argued that the Secretary-General should speak, as the only officeholder elected by the whole of the species, in the sense that a hundred and ninety-three governments had voted for him. The largest states argued for a council of the largest states. A coalition of forty smaller nations argued for a lottery. And a very great many people, in every country on Earth, said the obvious thing out loud on the internet within about four hours of the message being published.
+N: Name one who may speak for your world.
+[img] a montage of ordinary people in many countries watching screens in kitchens and cafés, all seeing the same broadcast, cinematic
+N: It was not even a debate in the end. It was a fact that had been true since Geneva in twenty forty-seven and had simply never been stated in a single sentence.
+N: On the fourth of November, twenty seventy-four, the Accord Council voted by a hundred and thirty-one to ten to designate the Director of Umbrella Life Sciences as the sole representative of the human species for the purposes of contact.
+N: Ten votes against. He remembered all ten. Not with anger — with something closer to fondness. Somebody had to.
+[pause 2.0]
+
+[music] m_alien -6
+[amb] amb_ship_hum -10
+[img] an enormous alien vessel in orbit above Earth, intricate and asymmetrical, kilometres long, with a small dark human ship approaching it, cinematic
+[loc] Earth orbit — 19 December 2074
+N: One of the nine came in to Earth orbit, and it was eleven kilometres long, and it took station four hundred kilometres above the Pacific, and it did nothing threatening at all, and every seismograph on the planet recorded the day it arrived because four billion people moved at once.
+N: He went up to it in the Wilmington, which was by then one of four void-cutters, and which he had ordered to stand off at nine thousand kilometres with its weapons cold, because he had spent forty-eight years learning that the first move of a negotiation is the only one you get to make twice.
+N: He went across in a shuttle, with nine people. Four of them were human.
+[pause 2.0]
+[img] a vast alien chamber with curved organic architecture and shifting light, many species of alien figures observing from tiers, a small human group at the centre, cinematic
+N: The chamber they were received in was designed, he understood immediately, to be overwhelming. It was four hundred metres across and it held representatives of eleven species, and the light in it moved, and the air smelled of something between cinnamon and ozone, and the gravity was not quite Earth's and not quite constant.
+N: Every single element of it was a negotiating position. He recognised the technique perfectly. He had once made a landlord walk through a basement.
+[pause 1.5]
+[img] a tall slender alien figure with elongated limbs and a smooth featureless head, draped in layered fabric, standing on a raised dais, cinematic
+N: The being that spoke for the Tollhouse Compact was called — as near as the translation ever got — the Broker. It was four metres tall and very thin, and it had no face that a human being could read, and it spoke English with the warmth of a good doctor.
+BROKER: Director. Welcome. You are the two hundred and eleventh species we have opened an account with. May I tell you how this proceeds?
+WESKER: Please.
+BROKER: We buy. Your world produces four things of interest to the Compact, three of which you do not presently value. We will pay well. In exchange we sell: medicine beyond your medicine, power beyond your power, and passage. Within forty of your years you will be a wealthy species. Within four hundred you will be a member in good standing. We ask nothing but the account.
+[pause 1.5]
+WESKER: And the terms?
+BROKER: Standard. Exclusivity of trade. Non-development of certain technologies, which are listed. Non-expansion beyond your system for one hundred years, after which the boundary is reviewed. And the customary surety.
+WESKER: Which is?
+[pause 1.0]
+BROKER: A registered claim over the system itself. It is a formality. It has never once been exercised in nine thousand years.
+[pause 2.0]
+
+[music] m_horror -8
+[img] {WESKER} standing alone in a vast alien chamber in a black coat, eleven alien species watching from tiers above, small and utterly still, cinematic
+N: He did not answer for a while.
+N: He had, by then, spent forty-eight years reading rooms full of people who wanted something from him, and it turned out that the skill transferred, because the Broker's body had a posture and its posture had a grammar, and the grammar said: this has worked two hundred and ten times.
+N: In the Thought Acceleration — which was, by twenty seventy-four, running at four thousand to one, in nine parallel threads — he took a subjective afternoon to think about it.
+N: He thought about a licence agreement with the word non-exclusive on page three, and a landlord who had not read section nine, and a board of directors who had not read page eleven. He thought about how you take a thing from people who believe they are the ones doing the taking, and he recognised, in every line of the Broker's offer, the exact shape of his own work.
+N: Then he came back, and it had been a fifth of a second, and he said:
+[pause 1.5]
+WESKER: No.
+[pause 2.5]
+BROKER: I do not think you understand the offer.
+WESKER: I understand it perfectly. You've made it two hundred and ten times. Let me tell you what it is.
+[pause 1.0]
+[img] {WESKER} speaking calmly to a towering alien figure, the alien's posture subtly changing, tiers of watchers leaning in, cinematic
+WESKER: You will pay us handsomely for four things, three of which we do not know the value of, which means you will pay us a fraction of what they are worth and we will be delighted, because we have nothing to compare it to. You will sell us medicine and power, and in forty years we will be unable to manufacture either for ourselves, because why would we, when you sell it so cheaply. The non-development list is not a safety measure; it is a list of every technology by which a client stops being a client. And the surety over our system is a formality that has never been exercised because it has never needed to be — because by the time exercising it would be worth your while, no species has ever been in a condition to object.
+[pause 1.5]
+WESKER: You are not offering us an account. You are offering us dependency, on a schedule, with a lien on our home as collateral.
+[pause 2.0]
+N: The chamber did something. It was not a sound. The light in it changed, slightly, in a way that eleven species understood and four humans did not.
+BROKER: (slow) That is an unusually complete reading.
+WESKER: I've made the same offer myself. Forty years ago, to a landlord in Delaware, for a building. It worked beautifully.
+[pause 2.0]
+
+[music] m_alien -4
+[img] the alien Broker leaning forward slightly, its featureless head tilted, an unmistakable new attention in its posture, cinematic
+BROKER: Then you will understand that refusal has a cost. The Compact does not make war on markets. But a world that declines the account is not a market. It is a curiosity. And curiosities are visited by others.
+WESKER: Who?
+BROKER: The Veth Hegemony is nine hundred light years from your star and has been informed of your existence since your first radio. They do not buy. They do not sell. They arrive, and they assess, and what they find useful they administer, and what they find useless they clear. We are, Director, the only wall between your species and that. That is what you are actually being offered, and that is why two hundred and ten species have taken it.
+[pause 2.0]
+N: And that — the Directorate's analysts would conclude, over the following nine years, reading the transcript four thousand times — was the only genuinely honest sentence the Broker spoke all day.
+[pause 1.5]
+[img] {WESKER} without sunglasses in an alien chamber, his eyes visible, pale and cold, facing a four-metre alien without flinching, cinematic
+N: He took off his sunglasses. He had thought about it in the shuttle, and had decided it was probably meaningless to a species with no faces, and did it anyway, because it was not for the Broker.
+WESKER: Then let me make a counter-offer, and let me be as honest as you have just been.
+WESKER: We will not take your account. We will buy from you, at market, in cash, and we will sell to you, at market, and we will reverse-engineer every single thing you sell us, which you know we will do, and which your non-development list exists to prevent. We will do it anyway. We will be the two hundred and eleventh species to say no, and probably the first, and you will find it very interesting.
+[pause 1.0]
+WESKER: And when the Veth come, we will deal with the Veth.
+[pause 2.0]
+BROKER: You have four ships.
+WESKER: I have had four of something before.
+[pause 2.5]
+
+[music] m_space -8
+[amb] amb_space -8
+[img] the nine alien vessels turning and departing the solar system, small against the stars, Earth a blue point behind them, cinematic
+N: The nine vessels left the solar system in January of twenty seventy-five. They did not threaten. They did not retaliate. The Compact had not made war on a market in nine thousand years, and a species that had declined the account was not a market, and they had a great deal else to do.
+N: Before they went, the Broker sent one final private transmission, addressed to the Director personally, in a language that the Farside Array took four years to confirm was one of the Compact's internal trade dialects and not, as had initially been assumed, an error.
+N: It was eleven words long. The Directorate has never published it. It is, however, carved — in the original characters, untranslated — above the door of a room on Arklay Free Territory that the public is not admitted to.
+[pause 1.5]
+BROKER: (slow) We have met your kind before. We did not like them either.
+[pause 3.0]
+
+[music] m_horror -8
+[amb] amb_ship_hum -8
+[img] {WESKER} standing on the bridge of a dark human warship looking out at the stars where the alien ships have gone, alone, cinematic
+N: He stood on the bridge of the Wilmington and watched them go.
+N: For forty-eight years he had been the most dangerous thing in every room he had ever entered. He had woken in a chair in the rain with a virus in his blood and a machine in the air and had never, in half a century, met anything that could not be out-thought, out-waited, or out-bought.
+N: And a four-metre creature with no face had just told him, courteously, that there was something nine hundred light years away that arrived, and assessed, and cleared — and that the only reason it had not arrived already was that a trading company had found his species more profitable as a customer than as a clearance.
+[pause 1.5]
+N: He found, standing on the bridge, that he was not afraid.
+N: He examined that carefully, because it was strange, and because forty-eight years of being right had taught him to be suspicious of his own calm. He was not afraid. He was something else, and it took him a subjective hour in the Thought Acceleration to find the word, and when he found it he did not like it.
+[pause 1.5]
+N: He was relieved.
+N: For twenty-seven years he had owned a species. There had been nothing left to take. He had built the thing he had spent two lifetimes wanting, and it had been finished for a decade, and the ruling of it was administration — councils, and quotas, and a hundred and forty-one governments that never said no.
+N: And somewhere nine hundred light years away there was an empire that had never heard of him.
+[pause 2.0]
+[img] a star chart in a dark room with a single distant star circled in crimson, nine hundred light years marked, cinematic
+WESKER: (soft) There you are.
+[pause 1.5]
+N: There was nobody in his head to answer. He had stopped noticing that a long time ago.
+N: But if the old voice had still been there — if the thing that had argued with him in a thousand cars, and wept on a balcony, and admitted once, on a terrace above the Atlantic, that it had been wrong about everything except the goal — if it had been there to hear him say it, it would have recognised the tone immediately.
+N: It was the tone of a man who has just been told that the war is not over after all.
+[pause 3.0]
+[music] stop

@@ -1,0 +1,114 @@
+# 42 | Dock One
+@movement VI | The Sky
+
+[music] m_space -8
+[amb] amb_space -10
+[img] Earth seen from orbit at night with the terminator line, city lights below, and a long white structure being assembled in the dark above, cinematic
+[loc] Low Earth orbit — 2049
+N: The BEYOND tab had four items in it on the first night. He could afford none of them.
+N: Eighty-four billion Points had bought a world. The cheapest thing behind the seventh tab cost nine hundred billion.
+N: That was, he understood immediately, the answer to a question he had been carrying for twenty-one years — why the System had ever bothered with a dying laboratory in Delaware. It had not been building a businessman. It had been raising the capital.
+[pause 1.5]
+[img] a glowing crimson holographic list of four impossible items with vast prices, floating in a dark room, cinematic
+[system] BEYOND
+Orbital Dock — 900,000,000,000
+Void-Cutter hull pattern — 4,000,000,000,000
+Immunity: vacuum, short duration — 1,200,000,000,000
+Immunity: radiation, broad spectrum — 1,400,000,000,000
+[say] Beyond.
+[/system]
+N: And beneath them, greyed out, without prices, eleven more lines that he could not read at all.
+[pause 2.0]
+
+[music] m_corporate -10
+[img] a vast industrial complex under construction on a desert plain with launch gantries and enormous fabrication halls, cranes and rail lines, cinematic
+[loc] 2047 – 2053
+N: What followed was the largest industrial mobilisation in the history of the species, and it was not done with Points.
+N: He had, in twenty forty-seven, four hundred and eighty thousand employees, a hundred and ninety million people in territories of association, the executing authority of a hundred and forty-one governments, and the accumulated manufacturing capacity of four of the six largest industrial groups on Earth. He also had, from the moment the Accord was signed, the thing that no private enterprise had ever had before: the ability to decide what the human race would build next, and to make that decision stick for thirty years.
+N: He decided on space.
+[img] enormous rocket first stages standing in rows at a spaceport, hundreds of them, workers dwarfed beneath, dawn, cinematic
+N: The public reason was true, and good, and had been worked out by Tomás's department over four months so that every word of it would survive a century of quotation: that a species with one planet is a species with one point of failure, and that the Accord's entire purpose was the removal of points of failure.
+N: The private reason was that he had seen eleven greyed-out lines that he could not read.
+[pause 1.5]
+N: The Directorate built launch capacity the way the nineteen-forties had built ships. Not one vehicle at a time — an assembly line, in the Atacama, and another in Queensland, and a third at Kourou, turning out a reusable heavy-lift stage every nine days. By twenty fifty-one, Umbrella was putting more mass into orbit every month than the human race had put up in its entire previous history.
+[pause 1.5]
+[img] a colossal white structure in orbit, kilometres long, with ships docked along its spine and Earth turning below, cinematic wide shot
+N: Dock One was assembled between twenty fifty-one and twenty fifty-six, in a four-hundred-kilometre orbit, from four hundred thousand tonnes of material that had been lifted from Earth and thirty-one million tonnes that had not.
+N: The second number is the one that mattered, and it is the reason the Belt came before the Moon. Umbrella did not go to space to plant flags. It went to eat.
+[pause 2.0]
+
+[music] m_space -6
+[img] a mining vessel with enormous grapples clamped onto a dark asteroid, refinery flares, stars and blackness around it, cinematic
+[loc] The Belt — 2054
+N: The first asteroid Umbrella captured was called 1993 UB, and it was six hundred metres across, and it contained more nickel and iron than the human race had mined since the Bronze Age.
+N: By twenty fifty-nine there were four hundred and eleven Umbrella vessels working the Belt, and the price of structural metal on Earth had fallen by ninety-one percent, and eleven national economies that had depended on mining had been absorbed into association agreements, which was not an accident, and which Catherine Adeyemi had modelled in twenty forty-eight and put in a memo that was read and answered courteously and in full.
+[pause 1.5]
+[img] a Martian settlement of white domes and buried habitats on red rock under a dusty pink sky, a red and white emblem on a landing pad, cinematic
+N: Mars was settled in twenty sixty-one, because by then it was cheap, and because a hundred and ninety million people in the territories of association had been told for a decade that they were building a future off-world, and the Directorate required that this be true.
+N: Nineteen thousand people went in the first wave. Four hundred thousand had volunteered. The selection criteria were published in full, and were scrupulously fair, and one of the eleven criteria was loyalty, and it was listed fourth, and nobody objected, because by twenty sixty-one nobody objected to anything.
+[pause 2.0]
+
+[music] m_horror -10
+[amb] amb_lab -8
+[img] a white laboratory in orbit with a woman in a lab coat floating beside a tank of pale fluid, Earth visible through a window behind her, cinematic
+N: Evelyn Marsh moved her laboratory to orbit in twenty fifty-eight. She was sixty-two years old and looked perhaps thirty-five.
+N: The Progenitor Initiative had eleven hundred staff by then, and the great majority of them had never been human in the way that word is usually meant. Its work had three branches. The first was the quiet ones, and there were now four hundred of them, in positions across the Directorate, and none of them had ever disobeyed anything.
+N: The second was the Tyrant line, which had moved on considerably from a grey giant in a cradle. There were nine variants by twenty fifty-eight. Four of them were not humanoid.
+N: The third branch had no name in any document, and its purpose was to answer a question that Evelyn Marsh had first asked in twenty twenty-eight, standing in front of a frosted window with her palm flat against the glass: what happens to a human being who is given all of it, and does not die?
+[pause 2.0]
+[img] {EVELYN} looking at her own reflection in a dark laboratory window with Earth turning behind it, her eyes faintly bright, cinematic
+N: She was the third branch. She had been for nineteen years. She reported it to him every time, in memos of four lines, exactly as she had promised in a white corridor in twenty thirty-six.
+N: He read every one. He never once told her to stop.
+[pause 2.0]
+
+[music] m_space -8
+[amb] amb_ship_hum -8
+[img] a vast dark ship hull under construction in orbit, angular and wrong-looking, no windows, no markings, dwarfing the workers, cinematic
+[loc] Dock One — 2066
+N: He bought the hull pattern in twenty sixty-six. Four trillion Points, accumulated over nineteen years from the dependency of a species.
+N: The first void-cutter was two point eight kilometres long, and it was not shaped like anything human beings had built before. Every ship the species had ever made had been an argument with physics that ended in a compromise: fuel here, crew there, radiators, symmetry. The pattern from the seventh tab did not compromise. It was a long dark wedge with no windows and no markings and no visible drive, and the engineers who assembled it — the human ones — found that they could follow the instructions perfectly well and could not, afterwards, explain what most of it did.
+[img] a colossal dark wedge-shaped vessel hanging in orbit with Earth reflected dully on its surface, no lights, ominous, cinematic
+N: It was called the Wilmington.
+N: Tomás's department had prepared a list of four hundred names, drawn from a public competition that eleven million people had entered. The Director read the list, and did not use it, and named the first ship of the human race's first fleet after an industrial park on the south bank of a river in Delaware where six people had once been unable to make the payroll.
+N: Nobody understood. It became, over the following century, the most sacred word in the language.
+[pause 2.0]
+
+[music] m_alien -8
+[amb] amb_space -6
+[img] a radio telescope array on the far side of the Moon at night, dishes angled at a black sky full of stars, cinematic
+[loc] Farside Array, the Moon — 11 March 2071, 04:00 UTC
+N: The signal arrived on the eleventh of March, twenty seventy-one, at four in the morning, and it was not a message.
+N: That was the first thing the Directorate's astronomers established, and it took them nine days, and it was the only thing about it that was ever comforting. It had no structure of the kind a message has. It did not repeat. It was not aimed at Earth.
+N: It was a carrier — a continuous, extremely narrow, extraordinarily powerful transmission at a frequency nobody had ever bothered to watch, passing through the solar system on its way somewhere else, the way a searchlight passes across a field without stopping.
+[img] a waveform display of an unnatural signal on a dark screen, perfectly smooth and impossible, scientists frozen watching it, cinematic
+N: They traced its origin in four months. It came from a direction thirty-one degrees off the plane of the ecliptic, and from very far away, and from something that was moving.
+N: And in the ninth month, having listened to it continuously, the Farside Array established the thing that ended the human race's childhood.
+N: The carrier was modulated. Not with information — with load. It flickered, very slightly, in a pattern that the array's engineers recognised immediately because they had seen it a thousand times in their own systems.
+N: It was the signature of something drawing power. Enormous amounts of it, in bursts, irregularly.
+N: Whatever was out there was not broadcasting. It was working.
+[pause 3.0]
+
+[music] m_horror -6
+[img] {WESKER} standing alone in a darkened orbital observation deck looking out at the stars, Earth's limb glowing below, tiny against the void, cinematic
+N: He read the report alone, in an observation deck on Dock One, with the Earth going past underneath.
+N: He was eighty years old and looked thirty-five. He had ruled the human species for twenty-four years, and had, in that time, done a very great deal of good, which the narrator will not take away from him, and which does not cancel anything.
+N: And he stood at the window and looked out at a sky that had, four hours earlier, stopped being empty.
+[pause 2.0]
+N: There was nobody to say it to. That was the thing.
+N: For twenty-one years there had been another voice in that skull, and it would have had something to say about this — something historical, and contemptuous, and probably wrong. It had been silent for twenty-four years. He had stopped expecting it. He had stopped, mostly, remembering that it had ever been there, in the way you stop hearing a clock.
+N: But standing at that window, looking at a sky with something working in it, Albert Wesker found that he wanted, very much, to turn to somebody and say: do you see?
+[pause 2.0]
+N: And he did turn. Physically. In an empty observation deck, at four in the morning, three hundred kilometres above the Earth, an eighty-year-old man in a black coat turned his head to speak to somebody who had not been there for twenty-four years.
+N: Nobody answered.
+[pause 2.5]
+[sfx] sfx_system_chime
+[system] BEYOND
+Access: expanded
+Eleven entries unlocked
+[say] Beyond. Access expanded.
+[/system]
+[pause 1.5]
+N: The greyed-out lines resolved.
+N: He read them, standing at the window, with the Earth turning below and the stars going past. And for the first time since a washroom in the rain in September twenty twenty-six, Albert Wesker had absolutely no idea what he was looking at.
+[pause 3.0]
+[music] stop

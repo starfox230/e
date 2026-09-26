@@ -1,0 +1,712 @@
+1
+00:00:07,799 --> 00:00:13,705
+In the spring of twenty twenty-eight, Umbrella Life
+Sciences had three point two billion
+
+2
+00:00:13,725 --> 00:00:19,631
+dollars in the bank, a drug the whole world wanted,
+and a problem that money alone could
+
+3
+00:00:19,651 --> 00:00:20,304
+not solve.
+
+4
+00:00:20,875 --> 00:00:24,342
+It did not have enough people who were
+better than everyone else.
+
+5
+00:00:24,911 --> 00:00:27,062
+So Albert Wesker went and got them.
+
+6
+00:00:28,431 --> 00:00:34,653
+He had a list. Pell had built it — forty names, drawn
+from every university and laboratory
+
+7
+00:00:34,673 --> 00:00:40,964
+on Earth that did the kinds of work Umbrella would
+need over the next ten years. Structural
+
+8
+00:00:40,984 --> 00:00:47,066
+biology. Medicinal chemistry. Protein design.
+Immunology. Neuroscience. Forty people who
+
+9
+00:00:47,086 --> 00:00:52,059
+were, by the measure of their peers, the best
+in the world at one thing.
+
+10
+00:00:52,630 --> 00:00:58,801
+He met twenty-six of them himself. He recruited
+twenty-two. He did it in fourteen weeks,
+
+11
+00:00:58,821 --> 00:01:05,414
+on four continents, and he used, depending on the
+person, one of three tools. Money. Flattery.
+
+12
+00:01:05,434 --> 00:01:06,681
+And the third one.
+
+13
+00:01:08,751 --> 00:01:10,585
+At Oxford, it was flattery.
+
+14
+00:01:11,155 --> 00:01:17,050
+Professor Imogen Carter had spent thirty years
+mapping the shapes of proteins, and had
+
+15
+00:01:17,070 --> 00:01:23,171
+been passed over twice for the prize she deserved,
+both times in favour of men. He walked
+
+16
+00:01:23,191 --> 00:01:29,361
+with her around a fifteenth-century cloister for an
+hour, and did not once mention salary.
+
+17
+00:01:29,381 --> 00:01:35,276
+He talked about her second paper — not her famous
+one, the second — and about an error
+
+18
+00:01:35,296 --> 00:01:41,810
+in its fourth figure that nobody else had ever noticed,
+including the reviewers, and including,
+
+19
+00:01:41,830 --> 00:01:44,286
+until that afternoon, Imogen Carter.
+
+20
+00:01:44,977 --> 00:01:49,074
+You came here to tell me I made a mistake
+in nineteen ninety-six?
+
+21
+00:01:49,594 --> 00:01:54,976
+I came here to tell you that I've read everything
+you've ever written closely enough to
+
+22
+00:01:54,996 --> 00:01:59,571
+find it. Nobody else ever has. Not the
+committee. Not your department. Me.
+
+23
+00:02:00,891 --> 00:02:06,312
+She came to Wilmington in September. She never did
+work out whether he had meant it as
+
+24
+00:02:06,332 --> 00:02:07,135
+a compliment.
+
+25
+00:02:08,905 --> 00:02:10,596
+In Basel, it was money.
+
+26
+00:02:11,165 --> 00:02:17,056
+Doctor Lukas Ammann was thirty-four, brilliant,
+arrogant, and deeply in debt from a divorce
+
+27
+00:02:17,076 --> 00:02:22,578
+and a start-up that had failed. He negotiated for
+two days. He was good at it. On the
+
+28
+00:02:22,598 --> 00:02:28,294
+third morning, Wesker slid a single sheet of paper
+across the table with a number on it,
+
+29
+00:02:28,314 --> 00:02:34,010
+and Lukas Ammann stopped negotiating, and looked at
+the number for a long time, and then
+
+30
+00:02:34,030 --> 00:02:37,062
+laughed — a short, helpless
+laugh — and signed.
+
+31
+00:02:38,832 --> 00:02:45,137
+In Singapore, it was curiosity, which is a kind of
+flattery. Doctor Tan Wei Lin, twenty-nine,
+
+32
+00:02:45,157 --> 00:02:50,985
+had designed a synthetic bacterium that could build
+a molecule nobody else could make,
+
+33
+00:02:51,005 --> 00:02:56,901
+and had been told by her institute that it had no
+commercial application. He showed her
+
+34
+00:02:56,921 --> 00:03:02,817
+one page of the Arklay budget. She asked three
+questions. He answered one. She followed
+
+35
+00:03:02,837 --> 00:03:05,129
+him to Delaware for the other two.
+
+36
+00:03:06,899 --> 00:03:09,451
+And in Scotland, it was the third tool.
+
+37
+00:03:10,022 --> 00:03:15,886
+Sir Martin Ellery was seventy-one years old, a Nobel
+laureate in medicine, a member of
+
+38
+00:03:15,906 --> 00:03:21,906
+every learned society worth belonging to, and the
+most famous immunologist alive. He had
+
+39
+00:03:21,926 --> 00:03:27,995
+been approached by every biotech company on Earth. He
+had turned them all down. In March,
+
+40
+00:03:28,015 --> 00:03:33,878
+a week after the bell in Times Square, he received
+Albert Wesker in the library of his
+
+41
+00:03:33,898 --> 00:03:39,077
+house in Perthshire, gave him a cup of tea and
+fifteen minutes, and said no.
+
+42
+00:03:39,647 --> 00:03:45,128
+He said no very politely. He said he was too old,
+and too tired, and too comfortable.
+
+43
+00:03:45,148 --> 00:03:50,822
+He said that he had had a long career and a good one,
+and that he intended to spend what
+
+44
+00:03:50,842 --> 00:03:54,252
+remained of it walking his dogs and
+reading Trollope.
+
+45
+00:03:54,822 --> 00:03:57,848
+The Director thanked him, and
+finished his tea, and left.
+
+46
+00:03:58,419 --> 00:04:03,943
+But on the way to the door, he had watched Sir Martin
+reach for his cup, and watched his
+
+47
+00:04:03,963 --> 00:04:09,362
+right hand — the Cold-Read noting it with total
+precision — hesitate, and correct, and
+
+48
+00:04:09,382 --> 00:04:14,780
+hesitate again. A tremor too fine for anyone else to
+see. A tiny weakness in the grip.
+
+49
+00:04:14,800 --> 00:04:17,930
+A faint thickening in the speech,
+on the letter L.
+
+50
+00:04:19,500 --> 00:04:25,252
+He did not say anything. He went back to his car and
+made a telephone call to a private
+
+51
+00:04:25,272 --> 00:04:30,957
+neurologist in Edinburgh, and arranged, through a
+foundation Pell had established that
+
+52
+00:04:30,977 --> 00:04:36,595
+morning, for Sir Martin Ellery to be offered a
+routine check-up as part of a study of
+
+53
+00:04:36,615 --> 00:04:38,254
+distinguished scientists.
+
+54
+00:04:38,824 --> 00:04:45,338
+In April, the neurologist gave Sir Martin his
+diagnosis. Motor neurone disease. Eighteen
+
+55
+00:04:45,358 --> 00:04:47,269
+months, perhaps two years.
+
+56
+00:04:47,838 --> 00:04:50,167
+In May, Sir Martin called Wilmington.
+
+57
+00:04:51,857 --> 00:04:55,341
+Doctor Wesker. I believe I may
+have been hasty.
+
+58
+00:04:55,860 --> 00:04:59,062
+I don't believe you were ever hasty in
+your life, Sir Martin.
+
+59
+00:04:59,583 --> 00:05:05,655
+No. I suppose I've simply become frightened. Is it
+true — the things they say about your
+
+60
+00:05:05,675 --> 00:05:06,279
+compound?
+
+61
+00:05:06,798 --> 00:05:09,081
+Come to Delaware. I'll show you
+what's true.
+
+62
+00:05:11,101 --> 00:05:16,944
+It is important to be precise about what happened
+here, because Albert Wesker was always
+
+63
+00:05:16,964 --> 00:05:22,607
+precise about it himself. He did not give Sir
+Martin Ellery a disease. He did not lie
+
+64
+00:05:22,627 --> 00:05:28,336
+to him. He simply noticed it first, and arranged for
+the man to find out at the moment
+
+65
+00:05:28,356 --> 00:05:33,999
+most useful to Umbrella, and then offered him the
+one thing no other company on Earth
+
+66
+00:05:34,019 --> 00:05:34,398
+could.
+
+67
+00:05:34,970 --> 00:05:35,731
+Time.
+
+68
+00:05:36,420 --> 00:05:38,297
+That was well done.
+
+69
+00:05:38,817 --> 00:05:39,946
+It was a kindness.
+
+70
+00:05:40,466 --> 00:05:43,204
+Yes. That is what made it well done.
+
+71
+00:05:45,225 --> 00:05:50,295
+The twenty-two humans came from outside. The
+twelve others came from the System.
+
+72
+00:05:51,615 --> 00:05:54,874
+Purchase confirmed. Research cohort.
+
+73
+00:05:58,889 --> 00:06:04,877
+They arrived on the same Monday, in the same way
+that Pell had arrived, and Hale, and
+
+74
+00:06:04,897 --> 00:06:11,027
+Gus — already hired, already credentialed, with
+degrees from real universities that had
+
+75
+00:06:11,047 --> 00:06:17,317
+real records of them, and publication histories in
+real journals that nobody in the field
+
+76
+00:06:17,337 --> 00:06:19,508
+had ever quite managed to read.
+
+77
+00:06:20,077 --> 00:06:25,577
+They were very good. They were better than good. They
+were, as far as anyone could tell,
+
+78
+00:06:25,597 --> 00:06:30,909
+exactly as good as the best person on Earth at
+whatever they had been assigned to do,
+
+79
+00:06:30,929 --> 00:06:35,237
+and they could do it for twenty hours a day
+without making a mistake.
+
+80
+00:06:35,809 --> 00:06:39,867
+They did not go home. That was the first
+thing the humans noticed.
+
+81
+00:06:40,435 --> 00:06:45,931
+Tan Wei Lin noticed it in her second week, when she
+came in at five in the morning to
+
+82
+00:06:45,951 --> 00:06:51,446
+check a culture and found three of them at the same
+benches they had been at when she
+
+83
+00:06:51,466 --> 00:06:55,989
+left at midnight, in the same positions, as
+though they had not moved.
+
+84
+00:06:56,560 --> 00:07:01,788
+The second thing the humans noticed was that none of
+them had ever been to a conference.
+
+85
+00:07:02,478 --> 00:07:06,728
+Where did your team train, Evelyn? I've looked them
+up. They have papers, but I can't
+
+86
+00:07:06,748 --> 00:07:11,049
+find anyone who's ever met them. Not one talk. Not
+one poster. Not one person who went
+
+87
+00:07:11,069 --> 00:07:12,054
+to school with them.
+
+88
+00:07:12,574 --> 00:07:13,723
+They're private sector.
+
+89
+00:07:14,242 --> 00:07:16,495
+Private sector people go to conferences.
+
+90
+00:07:17,014 --> 00:07:18,477
+These ones don't need to.
+
+91
+00:07:19,997 --> 00:07:25,942
+Tan Wei Lin let it go. She had been given a
+laboratory, a budget with no ceiling, and
+
+92
+00:07:25,962 --> 00:07:31,908
+a problem that nobody else on Earth was working on.
+She was twenty-nine, and she told
+
+93
+00:07:31,928 --> 00:07:37,523
+herself it did not matter who her colleagues
+were, as long as the work was real.
+
+94
+00:07:38,093 --> 00:07:40,010
+This is also how it happens.
+
+95
+00:07:42,199 --> 00:07:46,538
+They are perfect. A civil service that
+cannot be corrupted.
+
+96
+00:07:47,057 --> 00:07:52,410
+They're the first employees in history who can't be
+poached. That's all I need them to
+
+97
+00:07:52,430 --> 00:07:52,598
+be.
+
+98
+00:07:53,119 --> 00:07:55,275
+You understate everything.
+
+99
+00:07:55,795 --> 00:07:59,398
+You overstate everything. Between us,
+we're roughly accurate.
+
+100
+00:08:01,416 --> 00:08:05,075
+He did the draw on the jet, over the
+Atlantic, at night.
+
+101
+00:08:05,646 --> 00:08:11,595
+The jet was Catherine's doing. She had bought it in
+April, arguing that a chief executive
+
+102
+00:08:11,615 --> 00:08:17,630
+who spent a third of his life in airports was a poor
+use of a three-billion-dollar balance
+
+103
+00:08:17,650 --> 00:08:18,033
+sheet.
+
+104
+00:08:19,353 --> 00:08:20,407
+Ten draws.
+
+105
+00:08:27,218 --> 00:08:28,315
+Results.
+
+106
+00:08:38,273 --> 00:08:39,105
+Jet lag.
+
+107
+00:08:39,625 --> 00:08:41,504
+Fate is mocking you.
+
+108
+00:08:42,024 --> 00:08:47,815
+Fate has just made me the only chief executive in
+the world who can land in Singapore
+
+109
+00:08:47,835 --> 00:08:52,463
+and hold a board meeting. It isn't mocking
+me. It's being practical.
+
+110
+00:08:55,714 --> 00:08:57,583
+Epic. Thought acceleration.
+
+111
+00:09:03,813 --> 00:09:07,828
+He tried it immediately. It would have been
+out of character not to.
+
+112
+00:09:08,399 --> 00:09:13,977
+There was a raindrop on the window of the jet. It
+had been running backward along the
+
+113
+00:09:13,997 --> 00:09:17,665
+glass, driven by the wind at five
+hundred miles an hour.
+
+114
+00:09:18,235 --> 00:09:19,255
+It stopped.
+
+115
+00:09:19,826 --> 00:09:25,158
+Not really, of course. It was still moving. But
+inside his skull, a single second had
+
+116
+00:09:25,178 --> 00:09:30,825
+been stretched out into a minute, and the raindrop was
+crawling across the glass so slowly
+
+117
+00:09:30,845 --> 00:09:36,241
+that he could see the light of the moon inside it,
+bending, and the tiny tremor in its
+
+118
+00:09:36,261 --> 00:09:41,593
+surface where the air was tearing at it, and the
+path it was going to take across the
+
+119
+00:09:41,613 --> 00:09:44,552
+window before it reached the
+edge and vanished.
+
+120
+00:09:45,123 --> 00:09:50,474
+He watched it for what felt like a minute. He
+thought about the recruitment list, and
+
+121
+00:09:50,494 --> 00:09:56,034
+the Arklay budget, and a woman in Manhattan who knew
+he was lying and did not know which
+
+122
+00:09:56,054 --> 00:10:01,531
+part. He thought about a sealed black card that said
+not yet. He thought, very clearly,
+
+123
+00:10:01,551 --> 00:10:05,892
+through six separate ways the next two
+years could go, and chose one.
+
+124
+00:10:06,461 --> 00:10:07,682
+Then he let go.
+
+125
+00:10:09,052 --> 00:10:14,522
+The raindrop streaked across the glass and was gone.
+On the other side of the cabin, his
+
+126
+00:10:14,542 --> 00:10:19,949
+new executive assistant — who had appeared in the
+rear seat of the jet at the moment of
+
+127
+00:10:19,969 --> 00:10:25,376
+the draw, already dressed, already holding a tablet
+with his schedule on it — looked up
+
+128
+00:10:25,396 --> 00:10:27,934
+and asked whether he would like a coffee.
+
+129
+00:10:28,504 --> 00:10:32,652
+He said yes. It had been,
+subjectively, a very long second.
+
+130
+00:10:34,841 --> 00:10:37,477
+Do you understand what this is?
+
+131
+00:10:37,998 --> 00:10:39,109
+A useful tool.
+
+132
+00:10:39,629 --> 00:10:45,707
+It is time. It is the only thing I never had enough
+of. In the last year I needed a day
+
+133
+00:10:45,727 --> 00:10:51,805
+for every hour, and I had nothing. And you have been
+given the one thing that every man
+
+134
+00:10:51,825 --> 00:10:54,820
+who ever ruled anything has
+begged God for.
+
+135
+00:10:55,339 --> 00:10:59,365
+You didn't lose for lack of time. You
+lost for lack of judgment.
+
+136
+00:10:59,884 --> 00:11:02,168
+And now we have both.
+
+137
+00:11:04,188 --> 00:11:10,158
+Sir Martin Ellery arrived in Wilmington in June,
+with his dogs, and a cane he did not
+
+138
+00:11:10,178 --> 00:11:15,161
+want, and a tremor in his right hand that
+was no longer quite so small.
+
+139
+00:11:15,731 --> 00:11:18,571
+On his third day, the Director
+took him down.
+
+140
+00:11:19,140 --> 00:11:24,588
+He walked the white corridor slowly, on the cane,
+looking into every laboratory the way
+
+141
+00:11:24,608 --> 00:11:30,055
+a man looks into the windows of a house he used to
+live in. He did not speak until they
+
+142
+00:11:30,075 --> 00:11:35,585
+reached the cold room. And then he stood in front of
+the viewing window for a long time,
+
+143
+00:11:35,605 --> 00:11:41,429
+looking at the thing that slept inside, and his old
+face went through a number of expressions
+
+144
+00:11:41,449 --> 00:11:44,572
+that the Cold-Read had to work
+quite hard to name.
+
+145
+00:11:46,261 --> 00:11:47,574
+Dear God.
+
+146
+00:11:48,095 --> 00:11:49,866
+That was the first thing he said.
+
+147
+00:11:51,936 --> 00:11:57,876
+He looked at it for another minute. He looked at the
+four research associates in the laboratory
+
+148
+00:11:57,896 --> 00:12:03,334
+behind him, who did not look up. He looked at Evelyn
+Marsh, standing at the edge of the
+
+149
+00:12:03,354 --> 00:12:08,729
+room with her hands clasped in front of her like a
+girl at a recital. And he looked at
+
+150
+00:12:08,749 --> 00:12:12,745
+the man in the black coat beside him, who
+was offering him time.
+
+151
+00:12:14,434 --> 00:12:16,031
+When do I start?

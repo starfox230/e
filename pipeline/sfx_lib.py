@@ -957,6 +957,25 @@ def sfx_car_crash():
     return normalize(mixp(x, g * 0.6, m * 0.5))
 
 
+@sfx
+def sfx_news_sting():
+    """Short broadcast-news sting: a brass-ish stab and a rising synth figure."""
+    sec = 2.4
+    notes = [(392.0, 0.0), (523.25, 0.18), (659.25, 0.36), (783.99, 0.54)]
+    buf = np.zeros(int(sec * SR), np.float32)
+    for f, at in notes:
+        tone = (np.sin(2 * np.pi * f * t(1.6)) + 0.4 * np.sin(4 * np.pi * f * t(1.6))
+                + 0.2 * np.sin(6 * np.pi * f * t(1.6)))
+        tone = tone * adsr(len(tone), 0.01, 0.12, 0.45, 1.2) * 0.35
+        i = int(at * SR)
+        buf[i:i + len(tone)] += tone[:len(buf) - i]
+    sub = thump(90, 0.6, 0.14, 55) * 0.8
+    buf[:len(sub)] += sub
+    hit = noise_burst(0.05, 0.012, lo=2000, hi=9000, seed=71) * 0.3
+    buf[:len(hit)] += hit
+    return normalize(reverb(buf, 0.6, 0.28, 0.9), -3)
+
+
 def build(names=None, force=False):
     os.makedirs(OUT, exist_ok=True)
     names = names or list(REG)
