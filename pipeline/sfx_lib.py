@@ -976,6 +976,104 @@ def sfx_news_sting():
     return normalize(reverb(buf, 0.6, 0.28, 0.9), -3)
 
 
+@sfx
+def sfx_alien_choir():
+    """The Choir singing on an open channel: many detuned voices over a slow harmonic."""
+    sec = 9.0
+    tt = t(sec)
+    r = rng(80)
+    base = [174.6, 220.0, 261.6, 329.6, 392.0]
+    x = np.zeros(len(tt), np.float32)
+    for f in base:
+        for k in range(4):
+            det = f * (1 + r.uniform(-0.006, 0.006))
+            vib = 1 + 0.004 * np.sin(2 * np.pi * r.uniform(3.5, 5.5) * tt + r.uniform(0, 6))
+            ph = 2 * np.pi * np.cumsum(det * vib) / SR
+            x += (np.sin(ph) + 0.3 * np.sin(2 * ph) + 0.12 * np.sin(3 * ph)) * 0.05
+    x *= adsr(len(tt), 2.0, 1.5, 0.85, 3.5)
+    x = bp(x, 120, 4200)
+    y = fx(x.astype(np.float32), Chorus(rate_hz=0.25, depth=0.5, mix=0.45))
+    return normalize(reverb(y, 0.97, 0.52, 0.55, damp=0.25), -3)
+
+
+@sfx
+def sfx_hive_swarm():
+    """The Myriad: a mass of small wet clicks under a pressure drone, no rhythm anywhere."""
+    sec = 7.0
+    r = rng(81)
+    drone = lp(brown(sec, r), 180) * 0.7 + np.sin(2 * np.pi * 31 * t(sec)) * 0.25
+    buf = stereo(drone.astype(np.float32), 0.7, 22)
+    for _ in range(2600):
+        i = int(r.uniform(0, sec - 0.02) * SR)
+        c = noise_burst(0.012, 0.002, lo=1800, hi=9000, seed=int(r.integers(1e6)))
+        ch = r.integers(2)
+        buf[ch, i:i + len(c)] += c * r.uniform(0.04, 0.22)
+    buf *= adsr(buf.shape[1], 1.0, 1.0, 0.85, 2.0)
+    return normalize(reverb(buf, 0.85, 0.35, 0.8), -2)
+
+
+@sfx
+def sfx_reactor_hum():
+    sec = 30.0
+    tt = t(sec)
+    part = sum(np.sin(2 * np.pi * f * tt + p) * a
+               for f, p, a in [(24, 0, 0.6), (48.2, 1.1, 0.3), (96.4, 2.2, 0.14), (144, 0.4, 0.07)])
+    puls = 0.85 + 0.15 * np.sin(2 * np.pi * 0.12 * tt)
+    air = lp(pink(sec, rng(82)), 900) * 0.3
+    x = stereo((part * puls * 0.4 + air).astype(np.float32), 0.6, 26)
+    return make_loop(x * 10 ** ((-23 - rms_db(x)) / 20), 3)
+
+
+@sfx
+def sfx_hull_stress():
+    """Metal under load: the sound a very large ship makes when something hits it."""
+    sec = 5.0
+    r = rng(83)
+    x = np.zeros(int(sec * SR), np.float32)
+    for _ in range(9):
+        f0 = r.uniform(60, 260)
+        at = r.uniform(0, sec - 1.5)
+        dur = r.uniform(0.6, 1.6)
+        seg = sine_sweep(dur, f0, f0 * r.uniform(0.75, 1.3)) * expdecay(dur, dur * 0.4)
+        i = int(at * SR)
+        x[i:i + len(seg)] += seg * r.uniform(0.2, 0.6)
+    groan = lp(brown(sec, r), 320) * adsr(int(sec * SR), 0.4, 0.6, 0.7, 2.0) * 0.5
+    return normalize(reverb(mixp(x, groan), 0.9, 0.4, 0.8), -2)
+
+
+@sfx
+def sfx_ship_alarm():
+    sec = 6.0
+    tt = t(sec)
+    gate = ((tt % 1.2) < 0.55).astype(np.float32)
+    tone = (np.sin(2 * np.pi * 420 * tt) + 0.5 * np.sin(2 * np.pi * 630 * tt)) * gate
+    x = lp(tone, 3000) * adsr(len(tt), 0.1, 0.3, 0.9, 1.2) * 0.5
+    return normalize(reverb(x, 0.8, 0.35, 0.7), -5)
+
+
+@sfx
+def sfx_docking_clamp():
+    x = mixp(thump(52, 0.7, 0.14, 34) * 1.2,
+             noise_burst(0.3, 0.05, lo=200, hi=3000, seed=84) * 0.5,
+             sfx_metal_clang()[0] * 0.5)
+    return normalize(reverb(x, 0.85, 0.4, 0.8, tail=1.5))
+
+
+@sfx
+def sfx_crowd_silence():
+    """Room tone of a very large crowd holding still: breath, cloth, almost nothing."""
+    sec = 20.0
+    r = rng(85)
+    bed = lp(pink(sec, r), 900) * 0.10
+    buf = stereo(bed.astype(np.float32), 0.8, 30)
+    for _ in range(90):
+        i = int(r.uniform(0, sec - 0.4) * SR)
+        c = bp(pink(0.35, r), 400, 2600) * adsr(int(0.35 * SR), 0.08, 0.1, 0.4, 0.15)
+        ch = r.integers(2)
+        buf[ch, i:i + len(c)] += c * r.uniform(0.02, 0.09)
+    return make_loop(reverb(buf, 0.95, 0.4, 0.7)[:, :int(sec * SR)] * 10 ** ((-30 - rms_db(buf)) / 20), 3)
+
+
 def build(names=None, force=False):
     os.makedirs(OUT, exist_ok=True)
     names = names or list(REG)

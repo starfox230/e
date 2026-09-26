@@ -241,574 +241,574 @@ Hale was waiting in the lobby when
 the building opened.
 
 53
-00:03:54,216 --> 00:03:59,960
+00:03:54,216 --> 00:03:59,975
 He was tall and broad through the shoulders, with a
 shaved head and a black suit cut to
 
 54
-00:03:59,980 --> 00:04:05,593
+00:03:59,995 --> 00:04:05,622
 hide the fact that he was built like a door. He had
 a folder of credentials that said
 
 55
-00:04:05,613 --> 00:04:11,424
-he had spent eleven years in the Army and six in
+00:04:05,642 --> 00:04:11,668
+he had spent seventeen years in the Army and six in
 private security, all of it verifiable,
 
 56
-00:04:11,444 --> 00:04:16,062
+00:04:11,688 --> 00:04:16,319
 all of it perfect. He had a firm handshake
 and a pleasant enough face.
 
 57
-00:04:16,632 --> 00:04:20,163
+00:04:16,887 --> 00:04:20,418
 It was just that nobody could
 remember seeing him blink.
 
 58
-00:04:20,853 --> 00:04:23,831
+00:04:21,108 --> 00:04:24,086
 Mister — Hale, is it? Welcome. I'll
 get you a badge.
 
 59
-00:04:24,350 --> 00:04:27,090
+00:04:24,607 --> 00:04:27,346
 I have one, Mrs. Whitfield. Thank you.
 
 60
-00:04:27,610 --> 00:04:32,790
+00:04:27,865 --> 00:04:33,046
 He did. It was clipped to his breast pocket. She had
 not made it. It had her signature
 
 61
-00:04:32,810 --> 00:04:33,516
+00:04:33,066 --> 00:04:33,771
 on the back.
 
 62
-00:04:34,086 --> 00:04:39,784
+00:04:34,341 --> 00:04:40,040
 From that day on, Dana Whitfield called him Mister
 Hale. She called Pell by his name,
 
 63
-00:04:39,804 --> 00:04:45,638
+00:04:40,060 --> 00:04:45,894
 and Gus by his first name, and she had called Doctor
 Lessing Howard for nineteen years.
 
 64
-00:04:45,658 --> 00:04:51,290
+00:04:45,914 --> 00:04:51,545
 But the man in the black suit was always, without
 her ever deciding it, Mister Hale.
 
 65
-00:04:52,860 --> 00:04:55,157
+00:04:53,115 --> 00:04:55,413
 Walter Pruitt met him at shift change.
 
 66
-00:04:55,726 --> 00:05:01,486
+00:04:55,983 --> 00:05:01,742
 The two of them stood in the security booth for a
 few minutes, going over the rota and
 
 67
-00:05:01,506 --> 00:05:07,400
+00:05:01,762 --> 00:05:07,656
 the cameras, two soldiers of very different vintage.
 Walter was polite. Hale was polite.
 
 68
-00:05:07,420 --> 00:05:13,180
+00:05:07,676 --> 00:05:13,436
 And the whole time, Walter watched the younger man's
 eyes, the way he had once watched
 
 69
-00:05:13,200 --> 00:05:14,927
+00:05:13,456 --> 00:05:15,183
 the eyes of men on patrol.
 
 70
-00:05:15,499 --> 00:05:21,650
+00:05:15,754 --> 00:05:21,906
 He had known a lot of soldiers. Good ones and bad
 ones, brave ones and broken ones. Every
 
 71
-00:05:21,670 --> 00:05:27,544
+00:05:21,926 --> 00:05:27,800
 one of them, sooner or later, had looked at the
 door. Checked the exit. Wondered, for
 
 72
-00:05:27,564 --> 00:05:29,417
+00:05:27,820 --> 00:05:29,673
 a second, about going home.
 
 73
-00:05:29,987 --> 00:05:31,972
+00:05:30,242 --> 00:05:32,228
 Hale never looked at the door.
 
 74
-00:05:32,661 --> 00:05:34,564
+00:05:32,918 --> 00:05:34,821
 Where'd you serve, son?
 
 75
-00:05:35,084 --> 00:05:36,792
+00:05:35,339 --> 00:05:37,048
 Wherever I was sent.
 
 76
-00:05:37,911 --> 00:05:43,805
+00:05:38,168 --> 00:05:44,061
 Walter nodded slowly. Then he went home, and sat in
 his kitchen with a cup of coffee he
 
 77
-00:05:43,825 --> 00:05:49,787
+00:05:44,081 --> 00:05:50,043
 didn't drink, and thought, not for the first time
 that month, that there was nobody home
 
 78
-00:05:49,807 --> 00:05:52,233
+00:05:50,063 --> 00:05:52,490
 behind those eyes except the orders.
 
 79
-00:05:54,303 --> 00:05:56,199
+00:05:54,560 --> 00:05:56,456
 The inspector came on Friday.
 
 80
-00:05:56,769 --> 00:06:02,462
+00:05:57,026 --> 00:06:02,718
 Kuchar, before he had sold the building, had made
 one phone call out of spite — to the
 
 81
-00:06:02,482 --> 00:06:08,441
+00:06:02,738 --> 00:06:08,697
 state environmental office, to report what he
 described as, quote, unauthorised industrial
 
 82
-00:06:08,461 --> 00:06:14,419
+00:06:08,717 --> 00:06:14,675
 equipment and possible chemical hazards. It was the
 most effective thing he had ever done,
 
 83
-00:06:14,439 --> 00:06:20,397
+00:06:14,695 --> 00:06:20,653
 and he did not live to find that out, because he died
 of a heart attack in a Florida condo
 
 84
-00:06:20,417 --> 00:06:24,781
+00:06:20,673 --> 00:06:25,038
 nine years later, never having thought
 about Division Seven again.
 
 85
-00:06:25,351 --> 00:06:31,444
+00:06:25,608 --> 00:06:31,700
 The inspector's name was Ray Delgado. He was
 forty-seven, and he had spent nineteen years
 
 86
-00:06:31,464 --> 00:06:37,694
+00:06:31,720 --> 00:06:37,951
 walking around buildings that did not want him there,
 being lied to by men in better shoes.
 
 87
-00:06:38,264 --> 00:06:40,689
+00:06:38,521 --> 00:06:40,946
 Albert Wesker did not lie to him.
 
 88
-00:06:41,261 --> 00:06:47,112
+00:06:41,516 --> 00:06:47,368
 That was the thing Delgado would remember
 afterwards. The director met him at the door,
 
 89
-00:06:47,132 --> 00:06:53,118
+00:06:47,388 --> 00:06:53,374
 walked him through every room himself, opened every
 cabinet before he was asked, and took
 
 90
-00:06:53,138 --> 00:06:54,873
+00:06:53,394 --> 00:06:55,129
 him to the basement first.
 
 91
-00:06:55,562 --> 00:06:57,644
+00:06:55,819 --> 00:06:57,901
 That the unit? The one in the complaint?
 
 92
-00:06:58,163 --> 00:07:04,504
+00:06:58,420 --> 00:07:04,760
 That's the unit. Arcturus. Industrial air handling for
 the cold archive. Gus has the maintenance
 
 93
-00:07:04,524 --> 00:07:06,757
+00:07:04,780 --> 00:07:07,013
 log. You're welcome to the manual.
 
 94
-00:07:07,276 --> 00:07:12,615
+00:07:07,533 --> 00:07:12,871
 Delgado looked at the log. He looked at the anchor
 bolts, and the service plate, and the
 
 95
-00:07:12,635 --> 00:07:17,912
+00:07:12,891 --> 00:07:18,168
 permits on the wall, which were all there, and all
 in order, and all — though he had no
 
 96
-00:07:17,932 --> 00:07:20,713
+00:07:18,188 --> 00:07:20,969
 way of knowing this — less than
 two weeks old.
 
 97
-00:07:22,002 --> 00:07:26,377
+00:07:22,259 --> 00:07:26,634
 But you should see the solvent store on the
 second floor. It's a disgrace.
 
 98
-00:07:27,298 --> 00:07:28,153
+00:07:27,553 --> 00:07:28,408
 I'm sorry?
 
 99
-00:07:28,673 --> 00:07:34,645
+00:07:28,928 --> 00:07:34,901
 The flammables cabinet in room two-oh-four is from the
 nineteen-nineties. It isn't vented.
 
 100
-00:07:34,665 --> 00:07:40,371
+00:07:34,921 --> 00:07:40,627
 The spill kit's expired. My predecessor ignored it
 for years, because nobody ever made
 
 101
-00:07:40,391 --> 00:07:44,034
+00:07:40,647 --> 00:07:44,290
 him fix it. I'd like you to make me
 fix it. In writing.
 
 102
-00:07:45,353 --> 00:07:46,843
+00:07:45,610 --> 00:07:47,100
 Delgado stared at him.
 
 103
-00:07:47,413 --> 00:07:51,533
+00:07:47,670 --> 00:07:51,789
 In nineteen years, nobody had ever asked
 him to write them up.
 
 104
-00:07:52,103 --> 00:07:58,118
+00:07:52,358 --> 00:07:58,374
 The Cold-Read gave the Director the rest of the man
 in a single glance: a decent public
 
 105
-00:07:58,138 --> 00:08:04,223
+00:07:58,394 --> 00:08:04,479
 servant, underpaid and overworked, who had given his
 career to a job most people treated
 
 106
-00:08:04,243 --> 00:08:10,397
+00:08:04,499 --> 00:08:10,653
 as a nuisance, and who wanted — more than money, more
 than promotion — simply to be taken
 
 107
-00:08:10,417 --> 00:08:11,091
+00:08:10,673 --> 00:08:11,346
 seriously.
 
 108
-00:08:11,661 --> 00:08:16,375
+00:08:11,916 --> 00:08:16,630
 So Albert Wesker took him seriously. It
 cost nothing. It never does.
 
 109
-00:08:17,944 --> 00:08:24,626
+00:08:18,201 --> 00:08:24,882
 Delgado's report was filed the following Wednesday.
 It noted one deficiency — the solvent
 
 110
-00:08:24,646 --> 00:08:31,478
+00:08:24,902 --> 00:08:31,734
 store, corrected within forty-eight hours — and
 described the facility as, quote, exemplary
 
 111
-00:08:31,498 --> 00:08:38,029
+00:08:31,754 --> 00:08:38,285
 in its cooperation. The complaint about unauthorised
 industrial equipment was closed as
 
 112
-00:08:38,049 --> 00:08:38,782
+00:08:38,305 --> 00:08:39,038
 unfounded.
 
 113
-00:08:39,351 --> 00:08:45,285
+00:08:39,607 --> 00:08:45,541
 It would sit in a state database for three and a
 half years, until someone from the FBI
 
 114
-00:08:45,305 --> 00:08:51,238
+00:08:45,561 --> 00:08:51,494
 found it, and read it, and began to wonder why a
 small research lab had gone out of its
 
 115
-00:08:51,258 --> 00:08:52,607
+00:08:51,514 --> 00:08:52,863
 way to be inspected.
 
 116
-00:08:54,677 --> 00:08:57,588
+00:08:54,932 --> 00:08:57,844
 Hannah Price found him through the
 property records.
 
 117
-00:08:58,158 --> 00:09:04,024
+00:08:58,413 --> 00:09:04,343
 She was thirty-one, a reporter at the Wilmington
 Ledger, which had once had a newsroom
 
 118
-00:09:04,044 --> 00:09:10,185
-of ninety and now had eleven. She covered business,
+00:09:04,363 --> 00:09:10,361
+of ninety and now had ten. She covered business,
 courts, the city council, and anything
 
 119
-00:09:10,205 --> 00:09:16,277
+00:09:10,381 --> 00:09:16,518
 else that happened when the other ten were busy. She
 had been writing a short piece about
 
 120
-00:09:16,297 --> 00:09:22,232
+00:09:16,538 --> 00:09:22,536
 the collapse of a British company called Umbrella
 Holdings — local angle, jobs at risk,
 
 121
-00:09:22,252 --> 00:09:28,392
+00:09:22,556 --> 00:09:28,762
 the usual — when she noticed that a building on the
 south bank had just sold for two point
 
 122
-00:09:28,412 --> 00:09:32,088
+00:09:28,782 --> 00:09:32,497
 nine million dollars to an LLC that
 was nine days old.
 
 123
-00:09:32,658 --> 00:09:39,359
+00:09:33,067 --> 00:09:39,768
 Then she noticed that the same LLC had just signed a
 licence with a Chinese contract research
 
 124
-00:09:39,379 --> 00:09:45,500
+00:09:39,788 --> 00:09:45,909
 company. Then she noticed that Verdant Axis — the
 biggest biotech in the county — had
 
 125
-00:09:45,520 --> 00:09:51,642
+00:09:45,929 --> 00:09:52,051
 quietly booked a one-point-two-million-dollar
 charge in its latest filing for, quote,
 
 126
-00:09:51,662 --> 00:09:52,798
+00:09:52,071 --> 00:09:53,207
 research access.
 
 127
-00:09:53,369 --> 00:09:58,638
+00:09:53,778 --> 00:09:59,047
 Then she called the number on the LLC's
 registration, and a woman named Dana said the
 
 128
-00:09:58,658 --> 00:10:01,066
+00:09:59,067 --> 00:10:01,475
 Director would be happy to have coffee.
 
 129
-00:10:02,836 --> 00:10:08,246
+00:10:03,245 --> 00:10:08,654
 They met at the same diner. He took the same booth.
 He had, she noticed, already ordered
 
 130
-00:10:08,266 --> 00:10:13,304
+00:10:08,674 --> 00:10:13,712
 for both of them, and what he had ordered for her
 was what she would have ordered.
 
 131
-00:10:13,995 --> 00:10:15,522
+00:10:14,403 --> 00:10:15,930
 You've read my stuff.
 
 132
-00:10:16,042 --> 00:10:21,188
+00:10:16,451 --> 00:10:21,597
 All of it. Your piece on the port authority
 contracts was very good. They should have
 
 133
-00:10:21,208 --> 00:10:22,891
+00:10:21,617 --> 00:10:23,300
 let you run the second half.
 
 134
-00:10:23,412 --> 00:10:25,488
+00:10:23,820 --> 00:10:25,896
 How do you know there was a second half?
 
 135
-00:10:26,008 --> 00:10:31,022
+00:10:26,416 --> 00:10:31,430
 Because the first half ended on a question, and you
 don't strike me as someone who asks
 
 136
-00:10:31,042 --> 00:10:32,643
+00:10:31,450 --> 00:10:33,051
 a question you can't answer.
 
 137
-00:10:33,961 --> 00:10:38,630
+00:10:34,370 --> 00:10:39,039
 She smiled despite herself. She would think
 about that later, and be annoyed.
 
 138
-00:10:39,201 --> 00:10:44,675
+00:10:39,609 --> 00:10:45,098
 The Cold-Read gave him Hannah Price in pieces.
 Intelligence, first, bright and quick.
 
 139
-00:10:44,695 --> 00:10:50,428
+00:10:45,118 --> 00:10:50,932
 Hunger — not for money, for the story that would get
-her out of an eleven-person newsroom
+her out of an fifteen-person newsroom
 
 140
-00:10:50,448 --> 00:10:56,052
+00:10:50,952 --> 00:10:56,571
 before it became a six-person one. Suspicion, which
 he liked. And something rarer, that
 
 141
-00:10:56,072 --> 00:11:01,546
+00:10:56,591 --> 00:11:02,081
 took him a moment to name, because he had so seldom
 seen it in his old world: she was
 
 142
-00:11:01,566 --> 00:11:02,710
+00:11:02,101 --> 00:11:03,247
 not afraid of him.
 
 143
-00:11:03,279 --> 00:11:04,293
+00:11:03,817 --> 00:11:04,831
 Not yet.
 
 144
-00:11:04,984 --> 00:11:10,156
+00:11:05,522 --> 00:11:10,694
 So. Who are you, Doctor Wesker? Nine days ago, a dead
 British company's lab in an industrial
 
 145
-00:11:10,176 --> 00:11:15,179
+00:11:10,714 --> 00:11:15,717
 park. Today, a building, a licence in China, and
 Verdant Axis's money. That's a very good
 
 146
-00:11:15,199 --> 00:11:15,744
+00:11:15,737 --> 00:11:16,282
 nine days.
 
 147
-00:11:16,264 --> 00:11:19,679
+00:11:16,802 --> 00:11:20,217
 It's a very good story. It's not the
 best one in this town.
 
 148
-00:11:20,798 --> 00:11:21,966
+00:11:21,336 --> 00:11:22,504
 I'm listening.
 
 149
-00:11:22,986 --> 00:11:28,357
+00:11:23,524 --> 00:11:28,895
 Verdant Axis published the results of a Phase Two
 trial in April. Their lead compound.
 
 150
-00:11:28,377 --> 00:11:33,684
+00:11:28,915 --> 00:11:34,222
 The one that doubled their stock price. Look at the
 dropout rate by trial site. Three
 
 151
-00:11:33,704 --> 00:11:39,137
+00:11:34,242 --> 00:11:39,675
 of their nine sites lost almost no patients. The
 other six lost a third of theirs. Then
 
 152
-00:11:39,157 --> 00:11:41,456
+00:11:39,695 --> 00:11:41,994
 look at who ran the three good sites.
 
 153
-00:11:41,975 --> 00:11:43,272
+00:11:42,514 --> 00:11:43,810
 And who ran them?
 
 154
-00:11:43,792 --> 00:11:47,418
+00:11:44,330 --> 00:11:47,956
 That's your job, Miss Price. I'm just a
 man with a spreadsheet.
 
 155
-00:11:48,937 --> 00:11:50,642
+00:11:49,475 --> 00:11:51,180
 Why are you giving me this?
 
 156
-00:11:51,162 --> 00:11:55,958
+00:11:51,700 --> 00:11:56,496
 Because Graham Tolliver tried to take my
 building. I'd like him to be busy.
 
 157
-00:11:57,278 --> 00:12:02,982
+00:11:57,816 --> 00:12:03,520
 She had expected him to lie. Everyone lied at this
 stage — everyone had a noble reason,
 
 158
-00:12:03,002 --> 00:12:08,706
+00:12:03,540 --> 00:12:09,244
 a public interest, a concern for the patients. He
 simply told her the truth. It was the
 
 159
-00:12:08,726 --> 00:12:14,365
+00:12:09,264 --> 00:12:14,903
 most disarming thing he could possibly have done,
 and he knew it, and she knew he knew
 
 160
-00:12:14,385 --> 00:12:16,010
+00:12:14,923 --> 00:12:16,548
 it, and it worked anyway.
 
 161
-00:12:16,701 --> 00:12:18,921
+00:12:17,238 --> 00:12:19,458
 You know I'm going to look at you too.
 
 162
-00:12:19,440 --> 00:12:21,276
+00:12:19,977 --> 00:12:21,813
 I'd be disappointed if you didn't.
 
 163
-00:12:22,995 --> 00:12:28,651
+00:12:23,533 --> 00:12:29,189
 She left first. On the sidewalk she stopped, and
 took out her notebook, and wrote three
 
 164
-00:12:28,671 --> 00:12:32,696
+00:12:29,209 --> 00:12:33,234
 words under the name Umbrella. Then she
 underlined them twice.
 
 165
-00:12:33,265 --> 00:12:34,313
+00:12:33,803 --> 00:12:34,851
 Who is he.
 
 166
-00:12:35,484 --> 00:12:41,574
+00:12:36,022 --> 00:12:42,112
 Across the street, in the shadow of a closed tyre
 shop, a tall man in a black suit stood
 
 167
-00:12:41,594 --> 00:12:47,546
+00:12:42,132 --> 00:12:48,084
 with his hands clasped in front of him, watching the
 diner door. He had been there for
 
 168
-00:12:47,566 --> 00:12:51,435
+00:12:48,104 --> 00:12:51,973
 an hour. He had not moved. Hannah
 Price did not see him.
 
 169
-00:12:52,004 --> 00:12:56,890
+00:12:52,543 --> 00:12:57,428
 It would be two years before she learned his name. By
 then she would have learned a great
 
 170
-00:12:56,910 --> 00:12:59,480
+00:12:57,448 --> 00:13:00,019
 many things, and would have
 wished she had not.
 
 171
-00:13:02,301 --> 00:13:05,822
+00:13:02,839 --> 00:13:06,360
 Assessment. One thousand one
 hundred Points.
 
 172
-00:13:09,441 --> 00:13:13,054
+00:13:09,979 --> 00:13:13,592
 The Director watched her go from a
 window on the third floor.
 
 173
-00:13:13,744 --> 00:13:15,251
+00:13:14,282 --> 00:13:15,789
 She will be a problem.
 
 174
-00:13:15,770 --> 00:13:21,254
+00:13:16,308 --> 00:13:21,793
 She'll be a weapon. Problems and weapons are the same
 thing, pointed in different directions.

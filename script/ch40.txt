@@ -27,6 +27,7 @@ WEN: Thank you.
 
 [music] m_tension -10
 [img] {WEN} and {WESKER} across a round table, both still, tea being poured by an unseen hand, tense equilibrium, cinematic
+[sfx] sfx_paper g-12
 N: What followed was the most consequential conversation of the twenty-first century, and the least dramatic.
 N: There was no threat. Both sides had worked out, years before, exactly what threats were available and exactly why none of them worked. China could not embargo Umbrella; a fifth of its own pharmaceutical supply and most of its vaccine capacity ran through the joint venture in Singapore. Umbrella could not coerce China; China made forty percent of everything Umbrella's factories assembled, and had done for a generation, and had spent fifteen years quietly ensuring that this remained true.
 N: They were not enemies. They were the only two structures left on Earth of comparable weight, and they both knew it, and the entire evening was about establishing, precisely, where the line ran.
@@ -155,6 +156,7 @@ N: Somewhere in an organisation of four hundred and eighty thousand people, some
 [music] m_rain_piano -10
 [amb] amb_night_city
 [img] {WESKER} walking alone at night through an empty Beijing street with red lanterns, hands in coat pockets, no security, cinematic
+[sfx] sfx_footsteps g-12
 N: He walked back to the guest house. It was three kilometres, and it was cold, and he had no security, and nobody in Beijing looked at him twice.
 [pause 1.0]
 ADOLF: She named us.

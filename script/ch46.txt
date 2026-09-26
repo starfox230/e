@@ -21,6 +21,7 @@ N: She had administered nine emergent systems. She had cleared two. She had held
 N: She took her fleet to the edge of the human system on the fourth of April, and she opened her registry, and she read the assessment that had been compiled from a century and a half of intercepted radio.
 [img] an alien admiral studying floating displays of grainy archival human footage: parades, wars, cities, crowds, cinematic
 N: What she read was a species that had achieved powered flight, nuclear fission, and orbital capability within a single lifetime; that had fought two global wars of extraordinary savagery; that had fragmented into a hundred and ninety-three competing polities; and that had, in the last four decades, gone unaccountably quiet in a manner the registry flagged as consolidation, probable.
+[sfx] sfx_ship_alarm g-10
 N: She ordered a standard approach. Four hundred vessels, in formation, into the system, to the third planet, to assess.
 [pause 2.0]
 
@@ -47,6 +48,7 @@ N: The Directorate did not answer. The ninety-one ships held station behind her,
 [pause 1.5]
 [img] an alien admiral on a command deck studying a tactical display showing her fleet with dark shapes trailing behind it, her posture rigid, cinematic
 N: She held course for four more days. The ninety-one followed.
+[sfx] sfx_hull_stress g-10
 N: Her officers requested permission to engage. She refused, four times, because doctrine was clear and because in four hundred and six years she had never once been in a situation in which the other party had failed to say anything at all.
 N: On the eighth day, at a range of nine million kilometres from the third planet, she ordered her fleet to decelerate and hold.
 N: And the moment her formation went to rest, the ninety-one opened fire.

@@ -15,6 +15,7 @@ N: The conclusion was on the first page, in one sentence: the United States does
 
 [music] m_scheme -8
 [img] {CARRICK} in his late fifties in a plain suit sitting in a White House waiting room, a worn folder on his knees, tense, cinematic
+[sfx] sfx_footsteps g-12
 N: Owen Carrick was fifty-eight when he finally got into the building.
 N: It had taken him sixteen years. He had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest, and then to a Norwegian heiress, and then to a task force that had been dismantled around him. And in February of twenty forty-six, a deputy national security adviser who had read every Lantern report and had a daughter on Aeterna asked him to come in on a Tuesday morning and tell the President of the United States what he thought was true.
 N: He had forty minutes. He had prepared for eleven days. He did not bring the jam jar; they would not let him through the gate with it.
@@ -43,6 +44,7 @@ N: The machinery knew. It had known for years. It simply could not move.
 [music] m_horror -8
 [img] a long black car pulling up to a White House entrance in winter, a tall figure in a black coat getting out, no entourage, Secret Service watching, cinematic
 [loc] The same week
+[sfx] sfx_car_door g-10
 N: The Director came to Washington eleven days later, at the President's invitation, and he came alone.
 N: That was a decision, and it was the whole meeting. He had a security force of nineteen thousand, a private air fleet, and a personal risk profile that four intelligence services had assessed as the highest of any individual alive. He arrived in one car, with a driver, and walked through the North Portico with his hands in his coat pockets, and let the Secret Service search him, and stood there while they did it.
 [img] {WESKER} seated across from a woman president in the Oval Office, two chairs by the fireplace, no aides, winter light, cinematic
@@ -91,6 +93,7 @@ N: For sixteen years he had believed that he was the only thing standing between
 N: He was not the only thing standing anymore. He was not standing at all. Nobody was.
 [pause 2.0]
 [img] {CARRICK} at dawn packing a small bag, the jam jar sitting on a shelf, morning light through a window, calm, cinematic
+[sfx] sfx_engine_start g-12
 N: On the third morning he got up, and showered, and packed a bag, and drove to Portland, Oregon, and knocked on his daughter's door on a Saturday morning without calling ahead.
 N: She let him in. It took eleven months before she stopped being angry with him and four years before they could talk about anything that mattered, and he had both. Aeterna had given him thirty more years, and he had started taking it in twenty forty-one, like everyone else, because everyone else did.
 N: That is how Owen Carrick's war ended. Not in a courtroom, or a desert, or a corridor under a brick building. In a kitchen in Portland, with a daughter who did not want to talk to him, and a jam jar left on a shelf in Pennsylvania.

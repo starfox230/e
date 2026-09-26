@@ -9,6 +9,7 @@ N: A material. A power storage medium. A navigational reference. And a medical s
 N: The Directorate bought nine of each. It paid in the four things the Compact wanted from Earth, three of which humanity had not known were valuable, and one of which was a species of deep-sea sponge from a trench off the Marianas that turned out, for reasons no human has ever fully understood, to be worth roughly its weight in finished starship.
 [pause 1.5]
 [img] an alien device partially disassembled in a clean room, its internals glowing, four scientists staring at it in exhausted frustration, cinematic
+[sfx] sfx_cryo_hiss g-10
 N: And then Umbrella took all thirty-six of them apart.
 N: It took nineteen years. That is the part the popular histories leave out, because nineteen years of failure does not film well. The Compact's non-development list existed precisely because two hundred and ten prior species had tried exactly this, and the list was not a prohibition; it was a prediction, and it had been accurate two hundred and ten times.
 N: The power storage medium defeated four generations of Umbrella's physicists. Sixty years later, it still defeats them; the Directorate manufactures it, in quantity, by a process that works reliably and that nobody has ever been able to explain.
@@ -32,6 +33,7 @@ N: It is the single most effective educational programme in human history. It is
 [music] m_corporate -10
 [img] an enormous shipyard in orbit with dozens of dark wedge-hulls under construction simultaneously, swarms of drones, Earth below, cinematic
 [loc] The buildup — 2076 to 2090
+[sfx] sfx_docking_clamp g-8
 N: He built ships for fifteen years.
 N: The Wilmington had been one, in twenty sixty-six, and had cost four trillion Points. By twenty seventy-six the pattern had been analysed, adapted, and — in the four specific subsystems that human engineering could improve — improved, and the Directorate could build one in a yard, out of asteroid metal, for money.
 N: Nine in twenty seventy-eight. Twenty-nine by eighty-two. Ninety-one by twenty ninety.
@@ -65,6 +67,7 @@ N: They knew what it would do. It was in section four of the consent form, in pl
 N: Four hundred thousand people signed it. There were nine million applicants.
 [pause 2.0]
 [img] rows of young crew in dark uniforms standing at attention in an enormous hangar, calm and identical in posture, cinematic
+[sfx] sfx_reactor_hum g-14
 N: They were not summoned personnel. That distinction mattered enormously to the Directorate's lawyers and mattered not at all to anyone who met them. They had families, and childhoods, and opinions about music. They laughed at jokes. They wrote home.
 N: And they sat in the dark for four days at the heliopause without speaking, and when a fleet four hundred vessels strong crossed into their system, not one of them felt anything that a Veth sensor could read as fear, because fear about an order had been engineered out of them in a white room by a woman who had done the arithmetic.
 [pause 2.5]

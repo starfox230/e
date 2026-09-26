@@ -9,6 +9,7 @@ N: Aegis Dynamics built things that flew. Drones, mostly — reconnaissance dron
 N: It was also the only company in America with a delivery system good enough for what the Department of Defense had quietly asked Umbrella to build.
 [pause 1.0]
 [img] a classified briefing slide on a screen showing a drone releasing a fine mist over a map of a city, labeled RAPID COUNTERMEASURE DEPLOYMENT, a dim Pentagon conference room, cinematic
+[sfx] sfx_paper g-8
 N: Martin Sloane's second contract had arrived in the spring. It was an extension of the first. A vaccine that could be made in eight days was useful, the Pentagon's planners had noted, only if it could be delivered in eight hours — to a city, to a base, to a fleet, before a pathogen had time to spread. They wanted a way to vaccinate a million people at once, from the air, without needles.
 N: Umbrella could make the vaccine. Aegis could build the drones. The Pentagon wanted them to work together. So they did.
 [pause 1.5]
@@ -57,6 +58,7 @@ WESKER: Ask him yourself, Evelyn. If he says yes, it's yes.
 [amb] amb_night_city
 [img] {WYATT} sitting alone at night on a bench by the Potomac River, city lights across the water, a slim folder in his lap, {EVELYN} standing beside him in a dark coat, cinematic
 [loc] The Potomac — September 2032
+[sfx] sfx_car_pass g-14
 N: She met him on a bench by the Potomac, at night, because he would not come to Delaware.
 N: She did not lie to him. That was her gift, and her horror: she never lied to anyone about the work. She told him what the strain was, and what it had done to twenty-four macaques, and what it might do to him. She told him eighty percent. She told him that nobody had ever received it. She told him that he would have to come to a facility that did not officially exist, and stay for twelve weeks, and that when he came out he would be alive, and well, and that he might be — she chose the word carefully — different.
 WYATT: Different how?
@@ -78,6 +80,7 @@ WYATT: (soft) All right.
 [loc] Arklay — October to December 2032
 N: General Thomas Wyatt took medical leave from Aegis Dynamics on the first of October, twenty thirty-two. The company's announcement said he was recovering from a minor procedure and would return early in the new year. His wife was told he was at a private clinic in Switzerland. He was not in Switzerland. He was a hundred feet beneath a brick building on the south bank of the Christina River, in a white room at the end of a white corridor, next door to a cold room where something enormous slept.
 [img] a medical monitor showing a tumour shrinking across a sequence of scans over weeks, dates in the corner, green improvement lines, cinematic macro
+[sfx] sfx_heart_monitor g-8
 N: The tumour was gone in nineteen days. Evelyn cried when she saw the scan.
 N: The other changes took longer. His hair, which had been silver for fifteen years, began at the roots to grow back dark. His skin tightened. The arthritis in his hands, from forty years of cold mornings, disappeared. His heart rate fell to forty beats a minute at rest, and stayed there. By the eighth week he could lift twice what he had lifted at thirty. By the tenth, he had stopped sleeping more than two hours a night, and did not seem to need to.
 [img] {WYATT} younger-looking with darker hair standing perfectly straight in a white room, staring ahead, unblinking, a faint amber glint in his eyes, uncanny, cinematic
@@ -103,6 +106,7 @@ N: And they did not blink.
 [amb] amb_office_hum
 [img] a large corporate shareholder meeting in a hotel ballroom, a younger-looking general with dark hair at a podium smiling broadly, the audience of investors murmuring in surprise, cinematic
 [loc] Aegis Dynamics special meeting — February 2033
+[sfx] sfx_applause g-14
 N: General Thomas Wyatt returned to Aegis Dynamics in the second week of January. His board, which had been preparing quietly to replace him, found him in the boardroom at seven in the morning, twenty pounds lighter, with dark hair, and a grip that made the chairman wince.
 N: In February, Umbrella Life Sciences made an offer to acquire Aegis Dynamics for ninety-four billion dollars in cash. The board — expecting their chief executive to fight it the way he had fought everything in his career — called a special meeting of the shareholders.
 N: General Wyatt stood at the podium, and smiled, and recommended that they accept.

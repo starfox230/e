@@ -44,6 +44,7 @@ N: For the first time since Albert Wesker had arrived in the world, somebody had
 [amb] amb_wind -10
 [img] a small white clapboard church in rural Pennsylvania on a bright day, a man in his sixties in a cardigan standing outside the door with a Bible, wary expression, {HANNAH} approaching, cinematic
 [loc] Lancaster County, Pennsylvania
+[sfx] sfx_car_pass g-14
 N: She found the second thread herself.
 N: It had taken her four months, working backward from a line in a court filing that nobody else had read — a bill from a private investigation firm, submitted by Graham Tolliver's lawyers in the Chancery case and then quietly withdrawn. Two retired Wilmington police officers. One was now in Arizona, and hung up the moment he heard the word Umbrella. The other was a deacon at a small church in Lancaster County, and he did not hang up, because he was a Christian, and he did not believe in being rude to women on his doorstep.
 [img] close-up of an older man's weathered face, eyes haunted, looking past the camera, the shadow of a church steeple behind him, cinematic
@@ -69,6 +70,7 @@ N: The Director's invitation came through Tomás, in October.
 N: Full access. That was the offer. Six weeks. Any floor of the tower, any meeting she wanted to sit in on, any employee she wanted to interview, and six hours of the Director's time in person, spread across the six weeks, on the record.
 N: She knew exactly what it was. It was the clean face — every floor he wanted her to see, every person he wanted her to meet. She knew that the access was the cage. She took it anyway, because access is also a door, and she intended to walk through it and keep walking.
 [img] {HANNAH} walking with {TOMAS} through a bright modern laboratory floor, scientists at benches, a sign for the ASSAY PROGRAMME on the wall, cinematic
+[sfx] sfx_elevator_ding g-12
 N: She saw everything they showed her. She saw the assay programme on the ninth floor, where the second-generation device — smaller, faster, forty-six pathogens now instead of forty — was being prepared for launch. She saw the Aeterna trial ward, and met Arthur Kowalczyk, eighty years old now, who shook her hand with a grip that hurt and told her he was learning to ride a motorcycle.
 N: She saw Evelyn Marsh, who gave her forty minutes and said nothing at all, beautifully.
 N: She saw Catherine Adeyemi, who gave her an hour and said a great deal, all of it on the record, all of it true, all of it about money.

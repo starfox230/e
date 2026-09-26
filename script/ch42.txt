@@ -10,6 +10,7 @@ N: The stories all stop at the balcony. The crowd chants, the banner goes up, th
 N: That is what the first years of the Umbrella Directorate actually were. Water. Grain. Antibiotics. Power grids in four hundred cities that had been deferred for forty years by governments that would not be in office when the bill came due.
 [pause 1.5]
 [img] {WESKER} at a plain desk reading a thick technical report, a wall of screens behind him showing infrastructure data, no ceremony, cinematic
+[sfx] sfx_keyboard g-10
 N: He was good at it. That is the part the narrator has to say plainly, because it is the reason none of it was ever undone.
 N: In the first decade of the Directorate, global childhood mortality fell by seventy-one percent. Four hundred million people were connected to a reliable electricity supply for the first time. The Sahel water programme, which nineteen international bodies had been unable to fund for thirty years, was built in six, because one entity decided to build it and no committee was permitted to slow it down.
 N: He did not do it out of compassion. He had said so from a balcony, in front of six billion people, and nobody had listened. He did it because a badly-run world offended him, and because a population that is fed, watered, and healthy produces more, resists less, and — the System was very clear on this point, in panels he read every morning — pays better.
@@ -37,6 +38,7 @@ N: The book was called The Thing In The Basement. It was four hundred pages long
 N: Nine publishers read it. Four of them said it was the most important manuscript they had ever been sent. None of them published it. Two said so honestly, over a drink, off the record, in words that amounted to the same thing: we would not survive it, and neither would you.
 [pause 1.5]
 [img] {NADIA} at an open window at night looking out over a huge city of lights, the manuscript on the desk behind her, cinematic
+[sfx] sfx_mouse_click g-8
 N: She published it herself, in twenty fifty-one, as a file, for nothing, from a server in a country that no longer exists.
 N: It was downloaded four million times in the first month. It was never taken down — the Directorate did not take things down; Tomás's successors had understood for a generation that suppression is what makes a document holy. It was simply surrounded, within nine days, by four hundred thoughtful articles explaining its context, and by a documentary, and by the recollections of eleven of her former colleagues, all of whom spoke about her with enormous warmth and visible sadness.
 N: By twenty fifty-four, if you searched her name, the fourth result was a serious, sympathetic, scrupulously sourced account of a brilliant scientist whose career had been destroyed by an obsession.
@@ -82,6 +84,7 @@ N: There was opposition. It is important to record what happened to it, because 
 N: In twenty fifty-five a coalition of eleven national parliaments — the last eleven in which a genuine opposition still sat — proposed the Sovereignty Restoration Compact, which would have withdrawn its signatories from Article Nine and rebuilt independent manufacturing capacity over thirty years.
 N: It was a serious proposal, written by serious people, and the Directorate's response was the most sophisticated thing it ever did.
 [img] a government minister at a press conference standing in front of a detailed cost projection chart, looking uncomfortable, cinematic
+[sfx] sfx_paper g-8
 N: It published the numbers.
 N: Every one of them. The complete cost of rebuilding parallel pharmaceutical capacity in eleven countries — honestly costed, by the only organisation on Earth that actually knew, with no exaggeration whatsoever, because exaggeration would have been catastrophic if caught. The projected interruption in supply. The projected excess mortality during transition, by country, by age band, with the methodology attached in full for any expert to check.
 N: The number for the eleven countries, over thirty years, was four hundred thousand additional deaths. It was accurate. Four independent academies checked it, including two that loathed Umbrella, and all four confirmed it within nine percent.
@@ -96,6 +99,7 @@ N: He had not thought that. It had simply arrived, in his own voice, in a room o
 [music] m_horror -10
 [img] a classroom of teenagers on an ocean city, bright and engaged, a teacher at a board, a red and white emblem small in the corner, cinematic
 [loc] The first generation — 2061
+[sfx] sfx_creed_crowd g-18
 N: In twenty sixty-one, the first human beings who had been born after the Accord turned fourteen.
 N: They had never lived in a world with more than one answer in it. They had never seen an election that decided anything, or a shortage, or a war, or a pandemic, or a border that mattered. They were healthier, taller, better educated, and by every instrument anyone could devise, happier than any generation in the history of the species.
 N: The Directorate's own longitudinal study — four hundred thousand subjects, run honestly, published in full — found one statistically significant anomaly in that cohort, and the Director read the paper himself, four times, on the night it was published.

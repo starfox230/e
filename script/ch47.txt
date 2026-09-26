@@ -12,6 +12,7 @@ N: Their first vessel took station at the edge of the system and listened for fo
 N: What they heard is a matter of record, because when the Choir finally spoke, it published everything, to everyone, on every frequency, in all four hundred languages of its own dominion and in nine hundred of the Compact's, as its doctrine required.
 [pause 2.0]
 [img] a vast assembly of robed alien hierarchs in a cathedral chamber, a single figure at a lectern of light delivering a judgement, cinematic
+[sfx] sfx_alien_choir g-8
 CHOIR: We have listened to the third system of this star for four years. We find a species of eleven billion, ordered under a single will, without dissent. We find its industry without waste, its worlds without disorder, and its ships without song.
 [pause 1.0]
 CHOIR: We have listened for four years and we have not heard one voice out of place.
@@ -40,7 +41,9 @@ WESKER: (soft) Well. That's the war, then.
 [amb] amb_ship_hum -10
 [img] enormous white cathedral-ships and dark human wedge-ships engaging across a debris field, flashes silent in the void, cinematic
 [loc] The Choir War — 2104 to 2119
+[sfx] sfx_ship_pass g-6
 N: It lasted fifteen years, across nine systems, and it was the only war in human history in which the enemy broadcast its position continuously, because the Choir considered concealment a form of lying.
+[sfx] sfx_alien_choir g-10
 N: They were not stupid. Their ships were superb, their doctrine was four thousand years old, and their crews went into battle singing on open channels because it was required of them. That singing is preserved in the Directorate's archives. It is very beautiful. There are people on nine worlds who cannot listen to it.
 [pause 1.5]
 [img] an alien hierarch in white robes on a command deck, serene, as her ship takes damage around her, still singing, cinematic
@@ -50,6 +53,7 @@ N: Every one of those was a genuine moral achievement, arrived at over four thou
 [pause 2.0]
 [img] a tactical display showing human ships positioned precisely where an enemy has declared it will not fire, cold and clinical, cinematic
 N: What followed was not a series of battles. It was nine years of a fleet that never declared itself fighting a fleet that always did.
+[sfx] sfx_laser +0.4
 N: The Directorate lost four ships in the first year. The Choir lost ninety-one.
 [pause 2.0]
 
@@ -58,9 +62,11 @@ N: The Directorate lost four ships in the first year. The Choir lost ninety-one.
 [loc] The Sethis Passage — 2111
 N: The war's worst hour has a name, and the Directorate has never disputed the account, because the account came from its own crews.
 N: At the Sethis Passage in twenty one hundred and eleven, a Choir formation of forty-one vessels was manoeuvred — over nine days, by a deception that the Directorate's tacticians still teach — into a position from which its own doctrine forbade it to withdraw, because withdrawal would have exposed a populated world it had declared it would defend.
+[sfx] sfx_alien_choir g-6
 N: They declared themselves. They named their targets aloud, on an open channel, as their doctrine required. And then they held station for nineteen hours, singing, while a fleet they could not see destroyed them from a range at which they could not reply.
 [pause 1.5]
 [img] the bridge of a human warship, crew at stations, many with hands over their ears or eyes closed, the officer at the command chair rigid, cinematic
+[sfx] sfx_radio_static g-10
 N: The Directorate's crews had the Choir's channel open the whole time. They were not required to. Four commanders ordered it closed; their crews, who by then could not experience doubt regarding an order, complied instantly and completely, and the recordings show that in three of those four ships somebody wept at their station while complying.
 N: That is the only documented instance, in four hundred years, of a Progenitor-lineage crew doing something their conditioning did not allow for. It has been studied continuously ever since. Nobody has ever explained it.
 [pause 1.5]
@@ -72,6 +78,7 @@ N: What is known is that after Sethis the consent documents changed. Section fou
 [music] m_horror -8
 [img] a dead alien world seen from orbit, its cities intact but dark, no lights, no movement, cinematic
 [loc] The clearances — 2115 to 2119
+[sfx] sfx_explosion_distant g-4
 N: In the last four years, the Directorate cleared nine of the Choir's four hundred systems.
 N: The narrator is going to use the Veth's word, which the Directorate adopted, and is not going to soften it, and is not going to describe the method.
 N: The nine were chosen with great care. They were the nine that produced the Choir's naval materiel. They were not its most populous worlds, and they were not its holy ones — which the Directorate could have taken, and did not, for a reason the Director gave once, to a fleet commander who asked, in a sentence that has been argued about for three hundred years.
@@ -116,6 +123,7 @@ N: The Director read every one of their names into the record himself, over four
 N: He did not editorialise. He read the names, and the ships they had died on, in the order of their dying, with no rank and no decoration and no distinction between the four hundred thousand who had volunteered and the ones who had been bought from a shop that only he could see.
 [pause 1.5]
 [img] an enormous silent crowd on the terraces of an ocean city listening as names are read, four days of it, dawn light, cinematic
+[sfx] sfx_crowd_silence g-6
 N: Nine billion people listened to all four days. The Directorate's own figures put the sustained audience at six point four billion, which is to say that most of the species stopped what it was doing for ninety-six hours to hear a list.
 N: On the fourth day, at the end, he said one sentence that was not a name.
 [pause 1.5]

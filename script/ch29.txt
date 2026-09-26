@@ -27,6 +27,7 @@ N: And Crane — being Crane — did not feel afraid. He felt envy.
 
 [music] m_tension -8
 [img] {CRANE} at a whiteboard covered in equations about reward functions and agents, his team of young engineers watching, feverish energy, 3 a.m., cinematic
+[sfx] sfx_keyboard g-10
 N: He tried to build one.
 N: It was the most expensive secret project in the history of his company. Four hundred engineers, a data centre in Oregon, and a single goal: to build, for Sebastian Crane, what Oracle believed Albert Wesker had. An artificial optimiser that would watch Crane's every decision, reward the good ones, and — somehow, from the sum of all human knowledge in Lumen's servers — hand him capabilities that nobody else had.
 N: It did not work. It could not work. It produced very good advice, and several patents, and a great deal of analysis. But it did not produce a single orphan idea — a single thing that had not been, somewhere, in the data it had learned from. Everything it gave him had parents.
@@ -81,6 +82,7 @@ N: He did it deliberately. Every time he acted, he acted in a way that fit the p
 N: And in December, Oracle made its biggest prediction of all. It said, with ninety-seven percent confidence, that Umbrella was about to launch a bid for the world's largest manufacturer of the specialised chips used to train artificial intelligence — a company in Taiwan that Lumen depended on for everything. The pattern was unmistakable. Every move the Director had made for six months pointed at it.
 [img] {CRANE} in a boardroom in Seattle slamming his hand on the table, pointing at a screen, his board members nodding, a massive investment figure on the screen, cinematic
 N: So Crane moved first.
+[sfx] sfx_bell_stock g-12
 N: On the ninth of January, twenty thirty-four, Lumen announced a two-hundred-and-forty-billion-dollar offer for the Taiwanese chip manufacturer. It was the largest technology deal in history. It committed every dollar Lumen had and a great many it did not. It was designed — as Crane told his board, with shining eyes — to get there before Umbrella did.
 N: Umbrella never bid.
 [pause 2.0]

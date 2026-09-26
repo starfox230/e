@@ -50,6 +50,7 @@ N: Four hundred thousand people applied to live there in the first month. Umbrel
 [music] m_corporate -8
 [img] a UN Security Council chamber mid-session, delegates at the horseshoe table, a screen showing an image of the ocean city, tense argument, cinematic
 [loc] United Nations, New York — September 2038
+[sfx] sfx_paper g-9
 N: The legal question took four years and was never really answered.
 N: Arklay was not a state. Umbrella never claimed it was. It had no flag at the United Nations, no army, no currency of its own, and no citizens — only residents, who kept whatever passports they had arrived with. It was, in the careful language of Umbrella's forty-page submission to the International Maritime Organization, a privately owned floating structure operating in international waters under the flag of a small Pacific nation that had been very glad of the registration fees.
 N: In practice it was a country. It had a hundred thousand people, a police force, a court, a hospital system, a school system, and a border. It issued residency, and residency was the most valuable document on Earth. And it answered to precisely one man, who had never been elected, and never would be.
@@ -64,6 +65,7 @@ N: The study reported in twenty forty-two. By then, Arklay had a hundred and for
 [loc] The question of the boats — 2040
 N: There was one problem on Arklay that could not be solved by design, and it arrived in the second year, in a fishing boat.
 N: Four hundred kilometres of open Atlantic is not a barrier to people who have decided to leave somewhere. By twenty forty, boats had begun to come — from West Africa, from the Canaries, from wherever the storms and the economics were worst — because the most beautiful city in the world was sitting in international waters and there was a persistent, entirely false rumour that anyone who reached it could stay.
+[sfx] sfx_ship_pass g-14
 N: The first boat had nineteen people on it. The Umbrella Security Service took them aboard, fed them, treated four for dehydration, and held them in a facility on the fourth ring that was clean and well-run and was, unmistakably, a facility.
 [pause 1.5]
 [img] {HALE} standing before a group of exhausted rescued people wrapped in blankets in a bright clean hall, expressionless, cinematic
@@ -140,6 +142,7 @@ N: And there was one more thing on Arklay, which was not in any of the brochures
 N: The Umbrella Security Service had existed since twenty thirty. For most of its life it had been what it said it was: corporate security, twelve thousand guards at four hundred sites, most of them retired police officers in blazers.
 N: On Arklay it became something else, because on Arklay there was no other police force, and no other coastguard, and no other port authority. By twenty thirty-nine the U.S.S. had nineteen thousand personnel, its own vessels, its own aircraft, and a rank structure that had quietly stopped using civilian titles.
 [img] {HALE} in a black uniform inspecting a rank of motionless security personnel on a parade ground at dawn, nobody blinking, cinematic
+[sfx] sfx_footsteps g-12
 N: Hale commanded it. He had been a security specialist bought from the Shop for two thousand Points in a basement in twenty twenty-six, and he had never once been promoted, because he had never once needed to be. He simply had more people under him every year.
 N: Four thousand of the nineteen thousand had come from the Shop. They stood in the front ranks at inspection, and they did not blink, and the human officers had long ago stopped mentioning it, because the ones who mentioned it did not get promoted.
 [pause 1.5]

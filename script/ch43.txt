@@ -33,6 +33,7 @@ N: The private reason was that he had seen eleven greyed-out lines that he could
 N: The Directorate built launch capacity the way the nineteen-forties had built ships. Not one vehicle at a time — an assembly line, in the Atacama, and another in Queensland, and a third at Kourou, turning out a reusable heavy-lift stage every nine days. By twenty fifty-one, Umbrella was putting more mass into orbit every month than the human race had put up in its entire previous history.
 [pause 1.5]
 [img] a colossal white structure in orbit, kilometres long, with ships docked along its spine and Earth turning below, cinematic wide shot
+[sfx] sfx_docking_clamp g-9
 N: Dock One was assembled between twenty fifty-one and twenty fifty-six, in a four-hundred-kilometre orbit, from four hundred thousand tonnes of material that had been lifted from Earth and thirty-one million tonnes that had not.
 N: The second number is the one that mattered, and it is the reason the Belt came before the Moon. Umbrella did not go to space to plant flags. It went to eat.
 [pause 2.0]
@@ -45,6 +46,7 @@ N: There is a thing about the space programme that the Directorate's own histori
 N: He made it public. All of it.
 N: Every launch was broadcast. Every failure was broadcast — and in the first four years there were nine, and four of them killed people, and every single one was carried live, with the names released within the day, over the objections of four separate bodies of the Directorate who pointed out, correctly, that no state space programme in history had ever done this.
 [img] a grim control room after a launch failure, engineers with their heads in their hands, a screen showing a debris trail, cinematic
+[sfx] sfx_explosion_distant g-6
 N: The first was the Coronado in twenty fifty-two, which broke up at forty kilometres with four crew aboard. The broadcast did not cut away. The Directorate's public feed carried the telemetry, and the silence in the control room, and then, nine minutes later, the flight director — a woman of thirty-four named Priya Ramanathan, who had not slept in two days — reading the four names into an open microphone because nobody had told her not to.
 N: Four billion people watched it. It is the single most-viewed piece of Directorate footage that does not involve the Director himself.
 [pause 1.5]
@@ -86,6 +88,7 @@ N: He read every one. He never once told her to stop.
 [img] a vast dark ship hull under construction in orbit, angular and wrong-looking, no windows, no markings, dwarfing the workers, cinematic
 [loc] Dock One — 2066
 N: He bought the hull pattern in twenty sixty-six. Four trillion Points, accumulated over nineteen years from the dependency of a species.
+[sfx] sfx_reactor_hum g-14
 N: The first void-cutter was two point eight kilometres long, and it was not shaped like anything human beings had built before. Every ship the species had ever made had been an argument with physics that ended in a compromise: fuel here, crew there, radiators, symmetry. The pattern from the seventh tab did not compromise. It was a long dark wedge with no windows and no markings and no visible drive, and the engineers who assembled it — the human ones — found that they could follow the instructions perfectly well and could not, afterwards, explain what most of it did.
 [img] a colossal dark wedge-shaped vessel hanging in orbit with Earth reflected dully on its surface, no lights, ominous, cinematic
 N: It was called the Wilmington.
@@ -101,6 +104,7 @@ N: The signal arrived on the eleventh of March, twenty seventy-one, at four in t
 N: That was the first thing the Directorate's astronomers established, and it took them nine days, and it was the only thing about it that was ever comforting. It had no structure of the kind a message has. It did not repeat. It was not aimed at Earth.
 N: It was a carrier — a continuous, extremely narrow, extraordinarily powerful transmission at a frequency nobody had ever bothered to watch, passing through the solar system on its way somewhere else, the way a searchlight passes across a field without stopping.
 [img] a waveform display of an unnatural signal on a dark screen, perfectly smooth and impossible, scientists frozen watching it, cinematic
+[sfx] sfx_radio_static g-8
 N: They traced its origin in four months. It came from a direction thirty-one degrees off the plane of the ecliptic, and from very far away, and from something that was moving.
 N: And in the ninth month, having listened to it continuously, the Farside Array established the thing that ended the human race's childhood.
 N: The carrier was modulated. Not with information — with load. It flickered, very slightly, in a pattern that the array's engineers recognised immediately because they had seen it a thousand times in their own systems.

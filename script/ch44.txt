@@ -75,6 +75,7 @@ BROKER: We have listened for one hundred and forty of your years. We are the Tol
 [music] m_horror -10
 [img] a crowded emergency session of the Accord Council, delegates from every nation, screens showing the nine objects, uproar, cinematic
 [loc] Geneva — the Accord Council, emergency session
+[sfx] sfx_news_sting g-12
 N: The species had four weeks to decide who spoke for it. It spent nineteen days arguing, which the Director considered, privately, a triumph of self-control.
 N: There were four positions. The United Nations argued that the Secretary-General should speak, as the only officeholder elected by the whole of the species, in the sense that a hundred and ninety-three governments had voted for him. The largest states argued for a council of the largest states. A coalition of forty smaller nations argued for a lottery. And a very great many people, in every country on Earth, said the obvious thing out loud on the internet within about four hours of the message being published.
 N: Name one who may speak for your world.
@@ -88,11 +89,13 @@ N: Ten votes against. He remembered all ten. Not with anger — with something c
 [amb] amb_ship_hum -10
 [img] an enormous alien vessel in orbit above Earth, intricate and asymmetrical, kilometres long, with a small dark human ship approaching it, cinematic
 [loc] Earth orbit — 19 December 2074
+[sfx] sfx_ship_pass g-6
 N: One of the nine came in to Earth orbit, and it was eleven kilometres long, and it took station four hundred kilometres above the Pacific, and it did nothing threatening at all, and every seismograph on the planet recorded the day it arrived because four billion people moved at once.
 N: He went up to it in the Wilmington, which was by then one of four void-cutters, and which he had ordered to stand off at nine thousand kilometres with its weapons cold, because he had spent forty-eight years learning that the first move of a negotiation is the only one you get to make twice.
 N: He went across in a shuttle, with nine people. Four of them were human.
 [pause 2.0]
 [img] a vast alien chamber with curved organic architecture and shifting light, many species of alien figures observing from tiers, a small human group at the centre, cinematic
+[sfx] sfx_alien_call g-8
 N: The chamber they were received in was designed, he understood immediately, to be overwhelming. It was four hundred metres across and it held representatives of eleven species, and the light in it moved, and the air smelled of something between cinnamon and ozone, and the gravity was not quite Earth's and not quite constant.
 N: Every single element of it was a negotiating position. He recognised the technique perfectly. He had once made a landlord walk through a basement.
 [pause 1.5]
@@ -154,6 +157,7 @@ WESKER: I have had four of something before.
 [music] m_space -8
 [amb] amb_space -8
 [img] the nine alien vessels turning and departing the solar system, small against the stars, Earth a blue point behind them, cinematic
+[sfx] sfx_ship_pass g-8
 N: The nine vessels left the solar system in January of twenty seventy-five. They did not threaten. They did not retaliate. The Compact had not made war on a market in nine thousand years, and a species that had declined the account was not a market, and they had a great deal else to do.
 N: Before they went, the Broker sent one final private transmission, addressed to the Director personally, in a language that the Farside Array took four years to confirm was one of the Compact's internal trade dialects and not, as had initially been assumed, an error.
 N: It was eleven words long. The Directorate has never published it. It is, however, carved — in the original characters, untranslated — above the door of a room on Arklay Free Territory that the public is not admitted to.

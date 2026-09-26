@@ -17,6 +17,7 @@ LESSING: (phone) I know you would. That's why I called.
 [music] m_scheme -10
 [img] a roadside diner booth off a highway at dawn, an FBI agent in a dark jacket across from a gaunt older man clutching a coffee mug with both hands, fluorescent light, cinematic
 [loc] A diner outside Havre de Grace, Maryland — 6:10 a.m.
+[sfx] sfx_door_open g-12
 N: They met at dawn, in a diner forty miles from Wilmington, because Howard Lessing did not trust any place closer.
 N: He had lost weight since Carrick had glimpsed him on the mezzanine. He held his coffee with both hands, the way he had held it at a staff meeting three years before, and he talked for two hours without eating, and Carrick — who had interviewed murderers, and the parents of murdered children, and a man who had tried to buy ricin in Scranton — listened to him with the growing, sick sensation of a man who realises halfway through a story that he is going to believe it.
 [img] close-up of {LESSING}'s haunted face in a diner booth, speaking intensely, one trembling finger tapping the table, cinematic
@@ -41,6 +42,7 @@ LESSING: I want to be the one who was right.
 [music] m_corporate -10
 [amb] amb_office_hum
 [img] an FBI office at night, a form on a monitor titled CONFIDENTIAL HUMAN SOURCE, a codename field reading CALIBRATOR, an agent typing, cinematic
+[sfx] sfx_keyboard g-8
 N: He opened Howard Lessing as a confidential human source on the twenty-sixth of September. The paperwork took nine days to clear. The codename, which Carrick chose because it amused him for about thirty seconds and then never again, was Calibrator.
 [img] {CARRICK} standing in a supervisor's glass office facing a stern middle-aged woman behind a desk, blinds half drawn, tense conversation, cinematic
 N: His supervisor, an assistant special agent in charge named Janet Kowal, signed the authorisation on the ninth day. Then she closed her office door and asked him to sit down.
@@ -59,6 +61,7 @@ CARRICK: Nothing. I'll be careful.
 N: The law came next, in its own careful time, and the law was Umbrella's.
 N: The company's outside counsel filed a motion to quash the grand jury's second subpoena on the grounds that it was overbroad, and won. They filed a request for a protective order over the Aeterna trial data on the grounds that it was a trade secret worth billions, and won that too. They produced, when the court ordered them to produce anything, so much of it, so fast, so perfectly indexed, that the United States Attorney's office in Wilmington — which had four lawyers assigned to the whole of its white-collar docket — began to refer to the Umbrella boxes simply as the wall.
 [img] a narrow FBI office room literally walled in by towering stacks of document boxes with red and white umbrella labels, a single agent at a desk in the middle, cinematic
+[sfx] sfx_paper g-6
 N: Carrick had the wall in his office. By November it reached the ceiling on two sides.
 N: He did not miss the interview board. He went, in his best suit, to Washington, and he answered every question well, and when they asked him about his current caseload he mentioned hazmat drills, and a man in Scranton, and did not mention Umbrella at all.
 N: He did not get the job. It went to an agent from Chicago. He would never know — because nobody ever told him, and because it did not happen in any way that could be written down — that one of the three people on the board had received, the week before, an unsolicited and very generous offer to join a biosecurity advisory council funded by the Umbrella Foundation, and had been thinking, during Owen Carrick's interview, about the stipend.
@@ -110,6 +113,7 @@ N: For three months, it worked exactly as he had said it would.
 N: On Mondays, Howard Lessing overheard things. A remark from Catherine about a new data centre in Nevada, which was real, and which held nothing but servers. A shipment of liquid nitrogen that turned out, when Carrick traced it, to be for the Basel vault. A late-night conversation between two of the research cohort about a primate study, which led Carrick to a licensed facility in Maryland, where he found forty perfectly healthy rhesus macaques, and an inspector who was very annoyed to be asked about them.
 [img] {CARRICK} at a desk surrounded by document boxes, crossing another line off a long list on a legal pad, rubbing his eyes, 2 a.m., cinematic
 N: Every lead was real. Every lead went nowhere. And every Monday night, on a pay phone somewhere different, Howard Lessing sounded a little less certain, and Owen Carrick sounded a little more tired.
+[sfx] sfx_camera_shutter g-6
 N: Lessing tried, once, in November, to photograph the freight elevator panel at night. He waited until the building was empty. He went down to the basement with his phone. He took nineteen pictures of the panel from every angle.
 [img] a phone photo of an old freight elevator panel showing only two buttons and a blank steel plate below them, flash glare, cinematic macro
 N: There were two buttons in every picture. Loading dock. Basement. And a smooth steel plate beneath them, with four screws.

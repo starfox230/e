@@ -64,10 +64,12 @@ WESKER: I find that the people I respect should be told the truth. It's the only
 [amb] amb_office_hum
 [img] a formal letter on thick paper with an Umbrella letterhead addressed to the Board of Directors of Halvorsen Pike, a large premium figure visible, laid on a boardroom table, cinematic
 [loc] 3 February 2032
+[sfx] sfx_paper g-5
 N: The letter went out on the third of February.
 N: It was addressed to the board of directors of Halvorsen Pike, and it was released to the press at the same moment it was delivered — which is what bankers call a bear hug, because it is an embrace that you cannot get out of. It offered Halvorsen Pike's shareholders one share of Umbrella for every two and a half of theirs: a premium of forty-one percent, worth four hundred and twenty billion dollars, the largest corporate acquisition ever proposed.
 [img] a busy trading floor with dozens of screens showing HALVORSEN PIKE stock surging, traders on phones, chaos and excitement, cinematic
 [sfx] sfx_phone_ring g-10
+[sfx] sfx_bell_stock g-10
 N: Halvorsen Pike's shares rose thirty-two percent before lunch. The board rejected the offer by five in the afternoon. By Friday, it had adopted a shareholder rights plan — a poison pill, which would flood the market with new shares if any single buyer crossed fifteen percent, and make any hostile takeover ruinously expensive.
 N: Catherine Adeyemi read the rights plan at her desk on the eleventh floor, and laughed, once, and said to her team: good. Now it's interesting.
 [pause 1.5]
@@ -91,6 +93,7 @@ N: The Director's contribution to the war was smaller, and uglier, and it came i
 N: Halvorsen Pike's shareholders had been leaning toward Ingrid Halvorsen. She was admired. The company was old and trusted. And the index funds, which owned a third of it, were reluctant to hand the second-largest pharmaceutical company on Earth to a man whose most famous public appearance was eleven seconds of silence and whose second most famous was a smear on a dashcam.
 N: So Tomás arranged for the prosecutors' files in New Jersey — the ones about Simon Ferris, and the consultants, and the four men with rifles — to be read by a reporter at the largest financial newspaper in the world, three weeks before the vote.
 [img] {HALVORSEN} standing alone in a dark office holding a newspaper, her reflection in the rain-streaked window over the Rhine at night, grim, cinematic
+[sfx] sfx_news_sting g-10
 N: The story ran on a Monday. Its headline did not accuse Ingrid Halvorsen of anything. It did not need to. It simply put her company's name in the same sentence as the words armed intruders and dead scientist, and let the pension funds do the rest.
 N: Halvorsen Pike's stock fell nine percent. Two of the three largest index funds announced that they would, quote, support board refreshment.
 [pause 1.5]

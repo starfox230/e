@@ -50,6 +50,7 @@ N: Both successor governments signed the annex within a month.
 [img] a shuttered pharmacy in a small town with a handwritten sign on the door, an elderly couple standing outside in the rain, cinematic
 [loc] The nine weeks — autumn 2044
 N: The narrator has described the quiet war from above, because that is where it was fought. It is necessary to say what it looked like from underneath, because eleven billion people lived through it and almost none of them ever knew there had been a war at all.
+[sfx] sfx_door_open g-14
 N: In a town in Ohio, a pharmacist named Denise Okoro spent nine weeks telling people that she did not know. She did not know whether the next shipment was coming. She did not know whether the review would end. She had four hundred regular patients on Aeterna and she had, at the worst of it, eleven days of stock, and she was forty-six years old and she cried in the back room twice a day for nine weeks and then went out and told the next person in the queue, calmly, that she did not know.
 [img] a pharmacist behind a counter speaking gently to an anxious elderly customer, a half-empty shelf behind her, cinematic
 N: Nobody died. That is the crucial fact, and the Directorate's defenders have leaned on it for two centuries, and it is true. Supply was never actually interrupted anywhere. Not one dose was withheld from one patient.
@@ -66,6 +67,7 @@ N: That happened four hundred million times. That is the whole mechanism. It has
 [img] a dark cyber operations room with walls of code and network maps, uniformed analysts at stations, red alerts flashing, cinematic
 [loc] The thirteen days — April 2045
 N: There was fighting. It is largely forgotten, because it happened in places that do not photograph well.
+[sfx] sfx_alarm g-14
 N: In April of twenty forty-five, over thirteen days, the networks of Umbrella Life Sciences were attacked more comprehensively than any private organisation in history. Four state actors were involved, at least two of them working together, and the attacks were extremely good.
 N: They failed. Not because Umbrella's defences were better — though they were — but because Sebastian Crane had spent a decade building something that no state had: a security system that modelled its attackers the way Oracle had once modelled companies, and that had, on the second day, begun to predict where they would go next.
 [img] {CRANE} in a dim operations room watching attack patterns resolve into predictions on a huge screen, younger-looking than his years, absorbed and delighted, cinematic
@@ -83,6 +85,7 @@ N: Not countries, at first. Cities, and then regions, and then two small states 
 N: It began in a country where it should not have begun: a middle-income nation of seven million people, with a functioning democracy, a health system under strain, and a coastal province that had been devastated by a storm in twenty forty-three and never rebuilt.
 N: Umbrella's foundation had been in that province for nine years. It ran forty-one clinics there. After the storm it had rebuilt the hospital in the provincial capital in twenty-two weeks, which was nine years faster than the national government had rebuilt anything, and it had then rebuilt the schools, and the water system, and eventually, because someone had to, the roads.
 [img] a modern clinic with a red and white emblem in a rebuilt coastal town, children going to school past it, palm trees, hopeful, cinematic
+[sfx] sfx_crowd_cheer g-16
 N: By twenty forty-five the province's governor had been to Arklay four times. Her provincial assembly passed, in September of that year, a resolution requesting that the national government negotiate a framework of association with Umbrella Life Sciences, covering health, education, infrastructure, and water.
 N: The national government refused. The province held a referendum anyway, which was unconstitutional, and which passed with eighty-one percent.
 N: There was a constitutional crisis, and a general strike, and nineteen days in which soldiers were deployed to the provincial capital and did nothing, because the soldiers were from that province and their own children went to those schools.

@@ -3,6 +3,7 @@
 [music] m_horror -8
 [img] a hive-like alien structure of interlocking organic tunnels extending for hundreds of kilometres through an asteroid field, swarming with motion, cinematic
 [loc] The Myriad — 2121
+[sfx] sfx_hive_swarm g-6
 N: The Myriad was not a species. It was an outcome.
 N: Somewhere in its past — the Directorate's analysts eventually placed it at forty thousand years — something had happened to a biological civilisation that had removed from it the capacity to be an individual. What remained was nine trillion organisms across four hundred systems, operating as a single distributed process, with no leadership, no doctrine, no communication that a human could recognise, and no fear.
 N: It did not negotiate, because there was nothing in it to negotiate with. It did not surrender, because surrender requires a self to be preserved. It did not break under bombardment, because it had no morale.
@@ -11,6 +12,7 @@ N: It had eaten nineteen civilisations that anyone knew of. The Choir had held a
 N: When the Choir broke at last, the frontier it had held for four thousand years broke with it. And in twenty one hundred and twenty-one, the Myriad came into the space the Choir had held, and found, on the other side of it, the Umbrella Directorate.
 [pause 2.0]
 [img] an endless swarm of organic alien vessels filling space, no formation, no symmetry, simply mass, cinematic
+[sfx] sfx_hive_swarm g-9
 N: It was the only enemy the Director ever faced that was, on any measure he considered meaningful, stronger than he was.
 N: Nine trillion units. No command structure to decapitate. No fear to exploit. No leadership to humiliate in a boardroom. No crowd to turn. Every single instrument he had spent a century perfecting — charisma, terror, dependency, patience, the arranged truth — was useless against a thing with no self to aim them at.
 N: It took four years and the loss of two systems before he stopped trying to fight it, and did the thing he had been circling since twenty thirty-one.
@@ -38,6 +40,7 @@ N: It was also correct.
 [img] a captured fragment of Myriad biology in a containment tank, writhing slowly, scientists observing from behind glass, cinematic
 [loc] The Keel — 2124
 N: What he did instead was the thing he had done in a basement in twenty twenty-six, with a mug of cold coffee and a dying company: he looked for the asset nobody had valued.
+[sfx] sfx_cryo_hiss g-8
 N: The Directorate had captured Myriad biology four hundred times over three years. Every sample had died within hours, because a unit removed from the distributed process has no process to belong to, and stops.
 N: Except that four of the four hundred had not stopped. They had lasted eleven days, and then nineteen, and one of them was still alive after four months in a tank in the Keel, and nobody could say why, and nobody had thought it worth a memo.
 [img] {EVELYN} in a white coat standing very close to a containment tank, her hand flat against the glass, something inside moving toward the hand, cinematic
@@ -107,6 +110,7 @@ EVELYN: (soft) That's the nicest thing anyone's ever said to me.
 [pause 1.0]
 EVELYN: It's all right, you know. I did the arithmetic. I always do the arithmetic.
 [pause 2.0]
+[sfx] sfx_docking_clamp g-4
 N: The door sealed.
 [pause 3.0]
 
@@ -114,6 +118,7 @@ N: The door sealed.
 [amb] amb_space -6
 [img] a vast swarm of alien organic vessels in deep space, and running through it, spreading like light through water, a wave of something changing, cinematic
 [loc] The Crossing — 2129 to 2134
+[sfx] sfx_hive_swarm g-4
 N: What came back across the bridge is not called Evelyn Marsh in any Directorate document. It is called the Matriarch, and it is classified, and it is the single most restricted subject in a hundred and ninety years of human archives.
 N: It took five years. At the end of it, one hundred and forty billion units of the Myriad — a fraction of one percent, and more organisms than every human being who has ever lived — had stopped belonging to the Myriad and started belonging to something else.
 N: They did not become human. They did not become loyal in any sense a person would recognise. They became, in the words of the only public sentence the Directorate ever issued on the subject, subject to direction.

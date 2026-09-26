@@ -32,6 +32,7 @@ HADDAD: (cold) You're walking into a building where somebody wrote Select accord
 N: Carrick did not answer. He looked at the road. And somewhere at the back of his mind — the part that had once been a prosecutor, before it had become a careerist — a small light came on.
 [pause 1.5]
 [img] a huge stack of legal document boxes delivered to an FBI office, dozens of cartons labeled with a red and white umbrella logo, an agent staring at them, cinematic
+[sfx] sfx_paper g-5
 N: The records had arrived two weeks before. Forty-one thousand pages, in forty-three boxes, delivered to the field office by a courier van on the exact day the subpoena required, indexed, cross-referenced, and bound. Shipping logs. Animal care records. Facility permits. Power bills. Catherine Adeyemi's team had produced everything that had been asked for, and a great deal that had not, and they had produced it perfectly.
 N: It was, Carrick's supervisor said, the most cooperative subpoena response he had seen in thirty years.
 N: It was also, Carrick thought — looking at the forty-three boxes stacked against his cubicle wall — exactly what a company would do if it wanted to bury an investigation in paper.
@@ -54,6 +55,7 @@ N: That was the point. Hospitality is a weapon. It is the only weapon that the p
 
 [music] m_scheme -10
 [img] {WESKER} leading {CARRICK} and {HADDAD} through a gleaming lab floor, scientists working, bright and open, glass walls, cinematic
+[sfx] sfx_elevator_ding g-10
 N: He gave them everything.
 N: He gave them six hours, and every floor of the tower, and every door they asked to open, and several they had not thought to ask about. He took them through the assay programme, and the Aeterna trial ward, where Arthur Kowalczyk — who happened to be in for his monthly check-up that morning — told Samira Haddad at some length about his motorcycle. He took them to the loading dock, and introduced them to Deshawn. He showed them the power bills.
 [img] a sleek glass-cased museum display in a corporate lobby containing a nine-foot grey humanoid sculpture in a frosted cylinder, a small plaque reading THE SENTINEL, visitors looking, cinematic
@@ -101,6 +103,7 @@ N: He had said the name of the inspector. Carrick wrote it down. He did not know
 [music] m_tension -8
 [amb] amb_office_hum
 [img] {CARRICK} standing in a tower lobby at the end of the day, staring intently at {HALE} who stands motionless by the elevators in a black suit, cinematic
+[sfx] sfx_footsteps g-12
 N: It was at the very end of the day, in the lobby, that Owen Carrick noticed the thing he would think about for the next seventeen years.
 N: He was waiting for Haddad, who had gone to the restroom. The Director had excused himself to take a call. And the tall man in the black suit — the one who had ridden down in the elevator with them without being introduced — was standing by the lifts, twenty feet away, with his hands folded in front of him, looking at nothing.
 N: Carrick watched him. He did not know why. It was a cop's habit, from long before he had become a careerist — you watch the person in the room who isn't doing anything.
@@ -136,6 +139,7 @@ Total: 35,000
 [music] m_rain_piano -10
 [amb] amb_night_city
 [img] {CARRICK} and {HADDAD} in a car on a highway at night, both silent, dashboard light on their faces, rain beginning, cinematic
+[sfx] sfx_car_pass g-10
 N: They drove north on the interstate in silence for twenty minutes.
 HADDAD: Well. That was the cleanest facility I have ever inspected.
 CARRICK: Yeah.

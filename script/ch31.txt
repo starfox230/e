@@ -10,6 +10,7 @@ N: General Thomas Wyatt had joined Umbrella's board when the Aegis deal closed. 
 N: She had known him slightly for a year. She had sat across from him in the Pentagon, when he was dying and hiding it and angry at everyone, and she had liked him — a proud, prickly, honest old soldier who did not trust anyone in the room. The man across the table was twenty pounds lighter, with dark hair, and a grip that had made her hand ache for an hour. He agreed with everything the Director said. He had not asked a single question in four meetings.
 [pause 1.5]
 [img] {CATHERINE} and {EVELYN} facing each other in a white corridor in the underground lab, Evelyn calm and serene in a lab coat, Catherine pale and rigid, cinematic
+[sfx] sfx_elevator_descend g-12
 N: She went to Evelyn. Not the Director. She had learned, over six years, that the Director told her one third of the truth, and that Evelyn Marsh — whatever else she was — did not lie about the work.
 CATHERINE: What did you do to Tom Wyatt?
 EVELYN: We cured him.
@@ -64,6 +65,7 @@ N: He did not want to lose her.
 [amb] amb_office_hum
 [img] a gigantic digital stock market display in Times Square showing UMBRELLA with a market value of 2.5 trillion dollars, crowds looking up, confetti, night, cinematic
 [loc] 2034
+[sfx] sfx_bell_stock g-12
 N: In the spring of twenty thirty-four, Umbrella Life Sciences became the most valuable company in the history of the world.
 N: Two and a half trillion dollars. Four hundred and twenty thousand employees. Aeterna in the medicine cabinets of sixty million people. The assay in every hospital in the developed world. Halvorsen Pike's century of medicines. Aegis Dynamics' drones. Lumen's drug-discovery servers. A research partnership with China. A classified contract with the Pentagon. And a foundation that ran clinics in forty-one countries, and was — by some measures — a larger provider of rural healthcare in Africa than the World Health Organization.
 [img] a clean modern company town with identical white houses, a school with a red and white emblem on its gate, children playing, Umbrella employees jogging, pristine and slightly unsettling, cinematic
@@ -110,6 +112,7 @@ N: It found, to its own surprise, that it did not mind.
 N: Walter's son gave Dana a box, afterwards. A few things from his father's house that he thought she might want. Walter's old security badge from Division Seven. A photograph of the staff from twenty twenty-five, the year before everything, in front of the old faded blue sign. A coffee mug.
 N: And a small spiral notebook, very worn, the kind that fits in a breast pocket, with nearly every page filled in Walter's blocky capitals.
 [img] close-up of a worn spiral notebook page with blocky handwritten capitals: CAMERA DOESN'T SEE HIM, and below: THEY'RE SAYING IT LIKE SOLDIERS, dates beside each line, cinematic macro
+[sfx] sfx_paper g-8
 N: Dana read it at her kitchen table that night, from beginning to end.
 N: Camera doesn't see him. Nobody home but the orders. Gus says the unit was here since oh-nine. It wasn't. Lights in the basement never go off. Evelyn went down at nine, not up till six. New guard doesn't blink. None of the new ones blink. They're saying it like soldiers.
 N: And on the first page, inside the cover, in the same blocky capitals, dated the week the Silent Ones arrived:

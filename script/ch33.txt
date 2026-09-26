@@ -28,6 +28,7 @@ N: The Umbrella Foundation was given the Nobel Peace Prize the following year. T
 [amb] amb_lab
 [img] {WESKER} standing motionless in a white underground corridor holding a single printed page, his face unreadable, cold light, cinematic
 [loc] Arklay — 14 October 2036
+[sfx] sfx_paper g-8
 N: He found out in October, five months after it ended, and he found out by accident.
 N: It was a shipping record. Not even a real one — an internal reconciliation, one of the thousands that Pell's systems generated every week and that nobody read. It showed that in the autumn of twenty thirty-five, four months before the first case in Frankfurt, a sealed container had gone from the Arklay sublevel to the Basel vault, and from Basel to three laboratories that Umbrella had acquired with Halvorsen Pike, in three countries.
 N: The three countries were not random. He looked at them for a long time. Then he went down.
@@ -99,6 +100,7 @@ N: She meant it. That was the tragedy of Evelyn Marsh, and it took another eight
 [amb] amb_office_hum
 [img] {HADDAD} in a WHO office in Geneva at night surrounded by screens showing global outbreak maps and timelines, exhausted, determined, cinematic
 [loc] World Health Organization, Geneva — 2037
+[sfx] sfx_keyboard g-10
 N: Samira Haddad had been at the World Health Organization for four years by then. She had left the CDC after her suspension, and spent two years in the field in three countries, and been hired in Geneva by a Norwegian assistant director-general who had read her buried report from twenty thirty and never forgotten it.
 N: She ran the outbreak-origins unit. It was her job to find out where Pale Horse had come from, and she gave it everything she had for three years.
 [img] a wall-sized map in a Geneva office with seventeen red pins in ten countries connected by string to a timeline of dates, a woman standing before it with folded arms, cinematic

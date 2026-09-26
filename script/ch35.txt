@@ -13,6 +13,7 @@ N: She had grown up in a suburb where her mother cleaned offices at night. She h
 N: Her class had nineteen children from seven countries. The school had a swimming pool, a telescope, and a rule that no class could have more than twenty children in it. She was paid four times what she would have earned in Lyon. Her mother had a residency permit and an apartment on the same ring, and had not cleaned an office in three years.
 [pause 1.0]
 [img] a class of small children reciting in unison with hands on their hearts, morning light through a classroom window, earnest little faces, cinematic
+[sfx] sfx_creed_crowd g-16
 N: At eight o'clock every morning, Mireille's class said the Creed. She had not been told to do it. She had started it herself, in her first week, because the class next door did it and the children had asked.
 N: We are the shelter. We do not wait for the storm.
 N: If you had asked Mireille Achebe whether she worshipped Albert Wesker, she would have laughed at you. She had seen him twice, both times at a distance. She thought he was a strange, cold, brilliant man who had built a city where her mother did not have to clean offices. She did not think about him much at all.
@@ -21,6 +22,7 @@ N: If you had asked her whether she would leave Arklay, she would have looked at
 
 [music] m_corporate -10
 [img] a security officer in a black uniform walking a night patrol along a deserted promenade of an ocean city, lit windows above, calm sea, cinematic
+[sfx] sfx_footsteps g-14
 N: His name was Danilo Ferreira. He was thirty-four, from São Paulo, and he was a sergeant in the Umbrella Security Service.
 N: He had been a military policeman at home, in a city where that job meant something complicated, and he had left it because of a thing he had been ordered to do and had done. Arklay was a fresh start. On Arklay there was no violent crime to speak of; his job was lost children, drunk engineers, and the occasional journalist trying to get in on a fishing boat.
 N: Four of the six officers in his section had come from the Shop. He did not know that. He knew that four of the six were very good at the job, never complained, never drank, never asked for leave, and never quite looked at him when he made a joke.
@@ -37,6 +39,7 @@ N: He was thirty-nine. He ran a department of four thousand people in nine count
 N: He had done it well. Pale Horse had been his greatest work: nineteen days from sequence to vaccine, and eighteen weeks in which he had taken the most frightened planet in living memory and given it, gently, patiently, a red-and-white umbrella to look at. People had cried at his advertisements. He had won awards he had not attended.
 [pause 1.5]
 [img] {TOMAS} in a glass office at 3 a.m. watching an old grainy phone video of a young man in a break room, his reflection over it in the dark glass, cinematic
+[sfx] sfx_mouse_click g-10
 N: At three in the morning, when the building was empty, he sometimes played the break-room clip.
 N: Twenty seconds, shot on a phone in November twenty twenty-six, by a twenty-four-year-old lab technician who thought he was being funny. Six frightened people. A man in a black shirt saying: every great thing that has ever happened in this world began in a room exactly like this one.
 N: He had four hundred million views on that file. He had made it the founding document of a civilisation. And he sat in the dark and watched it, over and over, trying to remember what it had felt like the first time, when he had been a kid with a hundred and six thousand dollars of student debt and no idea what he was standing in the middle of.

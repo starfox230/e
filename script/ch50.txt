@@ -39,6 +39,7 @@ N: It had said that for a hundred and ninety years.
 [img] an enormous alien structure in deep space of impossible geometry, far larger than any fleet, dark and unlit, cinematic
 [loc] The Quiet Thing — 2411
 N: They found it four hundred light years beyond the Serat Reach, in a system with no star.
+[sfx] sfx_ship_pass g-10
 N: It was a structure. It was nine hundred thousand kilometres across, which is to say that it would have contained the orbit of Earth's moon, and it was made of something that the Directorate's instruments could describe but not explain, and it was dark, and it was not doing anything.
 N: The Veth had a record of it. Their oldest registry, transcribed from a predecessor civilisation that had died before the Hegemony was founded, referred to it in a phrase that the Hegemony's own linguists could only partially render, and which comes across, in the four human translations, as: the one that finished.
 [pause 2.0]
@@ -48,6 +49,7 @@ N: The structure admitted his ship through an aperture that opened for it and cl
 N: He walked for nine hours. He was a hundred and fifty thousand years too late to meet whatever had built it, and he knew that within the first hour, and he kept walking.
 [pause 2.0]
 [img] a colossal empty chamber inside an alien megastructure, geometric and perfect, with a single small dark shape at the centre, cinematic
+[sfx] sfx_reactor_hum g-16
 N: At the centre there was a chamber, and in the chamber there was a panel of cold white glass, edged in crimson, hanging in the air.
 [pause 2.5]
 [sfx] sfx_system_open

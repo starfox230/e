@@ -5,6 +5,7 @@
 [img] a colossal alien delegation vessel of polished black stone approaching a human orbital station, formal and enormous, cinematic
 [loc] Dock Four, Jovian orbit — 2136
 N: The Veth came back in twenty one hundred and thirty-six, forty-five years after the first fleet, and they did not come to assess.
+[sfx] sfx_ship_pass g-8
 N: They came with four ships, one of which was a delegation vessel of a kind the Hegemony had commissioned nine times in nine thousand years, and which its protocols reserved for a very specific circumstance: the opening of relations with a power of comparable standing.
 N: The Hegemony had watched the Choir War. It had watched nine of the Choir's four hundred systems cleared. It had watched something reach into the Myriad — which had eaten the Hegemony's own frontier twice in four thousand years — and take a hundred and forty billion units out of it, and watched the Myriad withdraw.
 N: Their registry entry for the human system was amended in twenty one hundred and thirty-five. It is the only amendment of its kind in the Hegemony's history. The status field was changed from EMERGENT to PEER.
@@ -25,6 +26,7 @@ WESKER: (soft) It was both. It usually is.
 [amb] amb_ship_hum -10
 [img] a human delegation in dark uniforms standing in an immense alien hall of black stone, alien castes watching from tiers, cinematic
 [loc] Veth Hegemony, the Ninth Seat — 2138
+[sfx] sfx_docking_clamp g-10
 N: The embassy went out in twenty one hundred and thirty-eight, and it is the strangest document in human history, because it is the only time the Umbrella Directorate ever agreed to be watched.
 N: The accord required an exchange. Forty Veth of the observing caste took residence on Arklay Free Territory, with the freedom of the city, and stayed for nineteen years. Forty humans went to the Ninth Seat of the Hegemony, and were housed in a hall built for them in four months, and were permitted to go anywhere, and to ask anything.
 N: Both sides expected espionage. Both sides got it. What neither side expected was what the observers wrote home about.
