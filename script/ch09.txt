@@ -7,7 +7,7 @@
 N: The tender offer went out on the fourth of January, at four dollars and ten cents a share — thirty-four percent above the price Verdant Axis had closed at on the last trading day of the year, and fifty percent below where it had been before Hannah Price's story.
 N: It was, the financial press agreed, an opportunistic offer. It was also, the financial press agreed, very probably going to work.
 [img] a man in handcuffs being led out of a suburban clinic building by federal agents in navy windbreakers, winter, news-camera style, cinematic
-N: On the ninth of January, Curtis Vane was indicted in federal court in Baltimore on eleven counts of healthcare fraud. On the tenth, three of Verdant's nine directors received letters from shareholder lawyers. On the twelfth, the company's auditors announced that they would be, quote, unable to sign the annual accounts pending review.
+N: On the ninth of January, Curtis Vane was indicted in federal court in Baltimore on fourteen counts of healthcare fraud. On the tenth, three of Verdant's nine directors received letters from shareholder lawyers. On the twelfth, the company's auditors announced that they would be, quote, unable to sign the annual accounts pending review.
 N: By the fifteenth, holders of thirty-eight percent of the company had tendered their shares to Umbrella. The board called a special meeting for the nineteenth, to decide whether to recommend the offer to everyone else.
 [img] {CATHERINE} walking fast down a Manhattan street in a long coat with a phone to her ear and a folder under her arm, breath fogging in the cold, cinematic
 N: Catherine Adeyemi spent the week before the meeting on the phone. She spoke to all nine directors, separately. She did not threaten any of them. She simply explained, to each one, in the calm voice of a woman who had already done the maths on their behalf, what the next two years of their lives would look like if the offer failed — the depositions, the insurance claims, the headlines — and what they would look like if it succeeded, which was: quiet.
@@ -41,11 +41,11 @@ N: One of the lawyers had very slowly put down his pen. Two of the directors wer
 [img] {WESKER} entering a glass boardroom through the doors in a long black coat and sunglasses, unhurried, every head turning, dramatic backlight, cinematic
 N: The door opened.
 N: Albert Wesker walked in. He wore a black coat, and black gloves, and his sunglasses, and he did not apologise for being late, and he did not take a seat. He walked the length of the room, without hurrying, while nine people watched him, and stopped at the end of the table directly opposite Graham Tolliver.
-N: He had been standing outside the glass door for eleven minutes. He had heard everything.
+N: He had been standing outside the glass door for twelve minutes. He had heard everything.
 [pause 1.5]
 [img] {WESKER} standing at the end of a long boardroom table facing {TOLLIVER}, silence, the whole board watching, tension, cinematic
 N: He did not speak for a while. The silence came back, heavier than before. Tolliver opened his mouth, and closed it again.
-N: Then Wesker said eleven words.
+N: Then Wesker said nine words.
 [pause 0.8]
 WESKER: You'll resign today, Graham. The only question is how you're remembered.
 [pause 1.2]

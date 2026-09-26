@@ -1,0 +1,102 @@
+# 38 | The Quiet War
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] a world map in a dark operations room with dozens of countries glowing in different colours, supply lines drawn between them, a red and white emblem at the centre, cinematic
+[loc] 2044 – 2045
+N: The war that decided the twenty-first century had no front line, no declaration, and — for the first twenty-two months — no casualties at all.
+N: It began on the eleventh of July, twenty forty-four, five weeks after the desert, when Umbrella Life Sciences announced a review of its global supply commitments.
+N: That was the entire announcement. Four hundred and nineteen words, issued by the corporate communications office at seven in the morning, saying that in light of recent events the company was reviewing the security and viability of its supply arrangements in certain jurisdictions, and would update the market in due course.
+[pause 1.5]
+[img] a stock exchange floor and health ministry offices in chaos at the same time, screens showing a short corporate statement, officials on phones, cinematic
+[sfx] sfx_phone_ring g-10
+N: Eighteen medicines. That was what everyone understood by nine o'clock.
+N: Aeterna, on which sixty million people depended, and without which most of them would begin to age again within seventeen weeks. The two Pale Horse boosters, which the World Health Organization recommended annually and which every developed country had built its public health policy around. And eight others, unglamorous and essential — a cardiac drug, two antibiotics of last resort, an anticoagulant, the immunosuppressant used in almost every organ transplant on Earth.
+N: Umbrella had not stopped supplying any of them. It had said it was reviewing.
+[pause 1.5]
+ADOLF: You have not threatened them.
+WESKER: I have used the word reviewing.
+ADOLF: It is the most violent thing I have ever heard.
+[pause 2.0]
+
+[music] m_horror -10
+[img] a health minister at a podium surrounded by microphones looking pale and exhausted, journalists shouting questions, cinematic
+N: What followed was not negotiation. It was arithmetic done in public, by frightened people, very fast.
+N: The health minister of a large European country calculated that his transplant programme had ten weeks of immunosuppressant in the national stockpile. The Japanese health ministry calculated that four hundred thousand of its citizens over eighty were on Aeterna and that the political consequence of interruption was not survivable. The British National Health Service calculated that it could not, under any circumstances, explain to the public why it had run out.
+N: Nobody had to be told what to do. That was the whole art of it, and the Director had learned it from a deputy assistant secretary at the Department of Health and Human Services who had sat on a report for fifteen months in twenty thirty because nobody had told him to.
+[img] a montage of government buildings in different capitals at night with lights on in every window, officials working, cinematic
+N: Within nine days, four of the six governments that had founded Joint Task Force Lantern had privately communicated to Umbrella that they considered the matters raised by the Mojave incident to be closed.
+N: Within six weeks, three of them had signed long-term supply agreements which included, in an annex, a mutual undertaking regarding regulatory stability, which meant that any future action against Umbrella by any agency of that government would first be reviewed by a joint committee.
+N: Umbrella resumed normal supply on the twenty-ninth of August. It had never actually stopped.
+[pause 2.0]
+
+[music] m_scheme -8
+[amb] amb_night_city
+[img] a crowd of ordinary people outside a parliament building holding signs, angry, some in red and white scarves, evening, cinematic
+N: Two of the six did not fold. That is where the quiet war became a real one.
+N: The United States and Japan both refused the regulatory stability annex, and both made the same calculation: that Umbrella could not politically afford to interrupt supply to sixty million voters, and that the threat was a bluff.
+N: They were right that it was a bluff. They were wrong about who would be blamed.
+[img] {TOMAS} in a dark control room watching twenty screens of social media feeds in different languages, directing a team with quiet precision, cinematic
+N: Tomás Reyes had been planning for this since the day after the desert. He had eight thousand people, in nine countries, and a budget that was not written down anywhere.
+N: He did not run advertisements. He did not put out statements. What he did — over nine months, in four languages, on every platform there was — was to make sure that every single person in two countries who was worried about their medicine knew exactly which government office to be angry at, and had the address, and had been shown, gently and repeatedly, a video of eleven unarmed men lying on a desert road.
+[img] an elderly woman being interviewed on television, crying, holding an empty prescription box, sincere and devastating, cinematic
+N: It was not disinformation. That was the thing that made it unanswerable. Every fact in it was true. There were eleven unarmed men. There was a raid. There was a review of supply commitments, and it had been triggered by that raid, and anyone who wanted to know why their grandmother's prescription was under review could read the statement themselves.
+N: By March of twenty forty-five, the approval rating of the American administration on healthcare was nineteen percent. In Japan, a prime minister who had been in office for four years resigned after losing a vote on an unrelated budget measure that sixteen of his own party's members had used to send a message.
+N: Both successor governments signed the annex within a month.
+[pause 2.0]
+
+[music] m_action -10
+[img] a dark cyber operations room with walls of code and network maps, uniformed analysts at stations, red alerts flashing, cinematic
+[loc] The thirteen days — April 2045
+N: There was fighting. It is largely forgotten, because it happened in places that do not photograph well.
+N: In April of twenty forty-five, over thirteen days, the networks of Umbrella Life Sciences were attacked more comprehensively than any private organisation in history. Four state actors were involved, at least two of them working together, and the attacks were extremely good.
+N: They failed. Not because Umbrella's defences were better — though they were — but because Sebastian Crane had spent a decade building something that no state had: a security system that modelled its attackers the way Oracle had once modelled companies, and that had, on the second day, begun to predict where they would go next.
+[img] {CRANE} in a dim operations room watching attack patterns resolve into predictions on a huge screen, younger-looking than his years, absorbed and delighted, cinematic
+N: Crane was fifty-one. He had taken the longevity therapy at forty-four, and the other thing at forty-eight. He worked eighteen hours a day in a windowless room on the second ring of Arklay, and he had not been off the Territory in three years, and he was, by every account of everyone who knew him, happier than he had ever been in his life.
+N: On the ninth day, he found the attackers' own command network and did not destroy it. He watched it for thirty-one hours, and mapped it, and then sent the map — anonymously, through four intermediaries — to the intelligence service of a country that was not involved, and let them do the rest.
+N: Two of the four state actors spent the following year fighting each other.
+[pause 2.0]
+
+[music] m_horror -8
+[amb] amb_wind -10
+[img] a small nation's parliament building at dawn with a crowd outside waving both national flags and red and white umbrella flags, cinematic
+[loc] The first accession — 2045
+N: And then cities began to choose.
+N: Not countries, at first. Cities, and then regions, and then two small states whose names are now taught to schoolchildren on nine worlds.
+N: It began in a country where it should not have begun: a middle-income nation of seven million people, with a functioning democracy, a health system under strain, and a coastal province that had been devastated by a storm in twenty forty-three and never rebuilt.
+N: Umbrella's foundation had been in that province for nine years. It ran forty-one clinics there. After the storm it had rebuilt the hospital in the provincial capital in twenty-two weeks, which was nine years faster than the national government had rebuilt anything, and it had then rebuilt the schools, and the water system, and eventually, because someone had to, the roads.
+[img] a modern clinic with a red and white emblem in a rebuilt coastal town, children going to school past it, palm trees, hopeful, cinematic
+N: By twenty forty-five the province's governor had been to Arklay four times. Her provincial assembly passed, in September of that year, a resolution requesting that the national government negotiate a framework of association with Umbrella Life Sciences, covering health, education, infrastructure, and water.
+N: The national government refused. The province held a referendum anyway, which was unconstitutional, and which passed with eighty-one percent.
+N: There was a constitutional crisis, and a general strike, and nineteen days in which soldiers were deployed to the provincial capital and did nothing, because the soldiers were from that province and their own children went to those schools.
+N: The framework of association was signed in January of twenty forty-six. It did not change the province's flag, or its passports, or its membership of the United Nations, which it did not have. It changed who built the hospitals.
+[pause 2.0]
+[sfx] sfx_system_chime
+[system] TERRITORY — ACCESSION
+Framework of Association: first
+Population: 4,100,000
+Fanaticism: rising
+Reward: 900,000,000 Points
+[say] Territory. Accession.
+[/system]
+N: Four million people. The System counted them all.
+[pause 1.5]
+ADOLF: (soft) Not one soldier.
+WESKER: Not one.
+ADOLF: I took the Rhineland with three battalions and I could not sleep for a week. You have taken a province with a water system.
+WESKER: I've taken the first one with a water system. The others will be cheaper.
+[pause 2.0]
+
+[music] m_sad -8
+[amb] amb_office_hum
+[img] {CATHERINE} at a boardroom table looking down at a printed page with a list of countries, her face grey, colleagues talking animatedly around her, cinematic
+N: There were eighteen more frameworks of association in the following four years. Two of them were entire countries.
+N: Catherine Adeyemi signed the financial annex to every one of them. She was fifty-five, and then fifty-six, and then fifty-seven. She had stopped sending reports to Julian Ashcombe in twenty forty-four — not because she had been told to, but because he had stopped answering, and because she had come to understand that there was no longer anywhere to send them that mattered.
+N: She did her job extremely well. Umbrella's accounts, in a world where almost nothing was audited anymore, remained the most honest set of books on the planet, because she insisted, and because she was the only person alive who could insist.
+[img] {CATHERINE} alone in an office at night, an old framed photograph on her desk of a small brick building with a faded blue sign, cinematic
+N: She kept a photograph on her desk. It was not of her family. It was a picture that Dana Whitfield had given her, years before, of a four-storey brick building on the south bank of the Christina River, with a faded blue sign above the door, taken in twenty twenty-five.
+N: People assumed it was sentiment about the company's origins. Tomás's department used it once in a film.
+N: It was not sentiment. It was a control. She looked at it, every morning, to remind herself what the thing she worked for had looked like when it was small enough to be understood — so that she would notice, when she had stopped being able to understand it.
+N: She had noticed some years before. She looked at the photograph anyway.
+[pause 3.0]
+[music] stop

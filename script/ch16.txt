@@ -13,7 +13,7 @@ N: The first was England. It was, officially, a matter of talent — Cambridge h
 FENWICK: (phone) Do you know, Doctor Wesker, you're the only man who's ever bought anything from this estate twice?
 WESKER: I'm sentimental, Mister Fenwick.
 [pause 0.8]
-N: Peter Fenwick laughed. It was the last time anyone at Harrow and Lisle thought about Umbrella for eleven years.
+N: Peter Fenwick laughed. It was the last time anyone at Harrow and Lisle thought about Umbrella for sixteen years.
 [pause 1.2]
 
 [img] an immaculate Swiss vault facility carved into a mountainside above Basel, steel doors, snow, the Rhine valley below, cinematic
@@ -80,7 +80,7 @@ Points: 237,300
 [img] {WESKER} in the back of a car at night, streetlights sliding over his sunglasses, tense stillness, cinematic
 ADOLF: Now.
 WESKER: Now what?
-ADOLF: Now you have two thousand people in four countries. You have a name that eleven million people have watched. You have a factory for four hundred million of anything. Now you give them something to believe in.
+ADOLF: Now you have two thousand people in four countries. You have a name that thirteen million people have watched. You have a factory for four hundred million of anything. Now you give them something to believe in.
 WESKER: They believe in their salaries.
 ADOLF: No one ever died for a salary.
 WESKER: That's rather the point. I don't want anyone to die for me. Dead people are a terrible investment.

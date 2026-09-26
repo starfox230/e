@@ -68,6 +68,8 @@ VOICES = {
     'LAWYER':    ('am_eric*0.4+am_adam*0.6', 1.0, 'dialog', 0.0),
     'ELEANOR':   ('af_aoede*0.5+af_sarah*0.5', 0.94, 'dialog', 0.0),
     'ORACLE':    ('af_sky*0.5+am_echo*0.5', 1.0, 'broadcast', 0.0),
+    'MIREILLE':  ('af_nicole*0.5+ff_siwis*0.5', 0.98, 'dialog', 0.0),
+    'DANILO':    ('am_liam*0.4+pm_alex*0.6', 0.97, 'dialog', 0.0),
 }
 
 HINT_SPEED = {'phone': 1.0, 'slow': 0.9, 'fast': 1.08, 'soft': 0.95, 'whisper': 0.93, 'shout': 1.04, 'cold': 0.95}

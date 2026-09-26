@@ -55,6 +55,8 @@ def parse(path):
                 sys_block = None
             elif s.startswith('[say]'):
                 sys_block.say = s[5:].strip()
+            elif s.startswith('[') and s.endswith(']'):
+                raise ValueError(f'{path}:{i}: stray cue inside [system] block: {s}')
             elif s:
                 sys_block.lines.append(s)
             continue

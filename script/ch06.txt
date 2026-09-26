@@ -5,7 +5,7 @@
 [img] {LESSING} at a home desk late at night typing on an old laptop, a manuscript draft on screen, a glass of whiskey, a blue USB drive plugged in, cinematic
 [loc] Sunday night — Lessing's house, Brandywine Hundred
 N: Howard Lessing wrote the paper in four nights.
-N: He wrote it at his kitchen table after his wife had gone to bed, with a glass of Scotch he did not drink and the blue drive plugged into the side of his laptop, and he wrote it better than anything he had written in twenty years. It was eleven pages long. It had four figures. Its title was A Novel Replication-Competent Viral Signature Associated With Extreme Proliferative Repair in Human Peripheral Blood.
+N: He wrote it at his kitchen table after his wife had gone to bed, with a glass of Scotch he did not drink and the blue drive plugged into the side of his laptop, and he wrote it better than anything he had written in twenty years. It was twenty-two pages long. It had four figures. Its title was A Novel Replication-Competent Viral Signature Associated With Extreme Proliferative Repair in Human Peripheral Blood.
 N: It did not mention whose blood.
 [img] a laptop screen showing an email draft with a subject line about confidential data of extraordinary commercial interest, dim kitchen light, cinematic
 N: He also wrote an email. It was shorter. It was addressed to a vice-president of research at Verdant Axis Therapeutics, a man named Simon Ferris who had once tried to hire him, and it said that Doctor Lessing had come into possession of data of extraordinary scientific and commercial interest, and would welcome a confidential conversation about his future.
@@ -89,7 +89,7 @@ WESKER: Nothing human does that. You're right.
 WESKER: So let me tell you what happens next, Howard, and then you're going to choose.
 [img] {WESKER} pulling a chair around and sitting down facing {LESSING} knee to knee in a dark lab, calm, conversational, eyes glowing faintly, cinematic
 N: He pulled a second chair around, and sat down facing Lessing, knee to knee, the way a doctor sits when he has news.
-WESKER: If you press that button, the preprint goes live tomorrow at nine. It will be the most-read paper in the world for about eleven days. Then someone will ask for the sample. And there won't be one. The analyzer's memory was wiped this afternoon — a firmware update, very routine, Gus has the ticket. Tomás remembers running a calibration that failed because the reagents were bad. He's told Dana so, in writing. There's no Control Seven. There's no data. There's a fifty-eight-year-old scientist who was passed over his whole career, who stole files from his employer, emailed a competitor for a job the same night, and fabricated the most extraordinary result in the history of biology.
+WESKER: If you press that button, the preprint goes live tomorrow at nine. It will be the most-read paper in the world for about nineteen days. Then someone will ask for the sample. And there won't be one. The analyzer's memory was wiped this afternoon — a firmware update, very routine, Gus has the ticket. Tomás remembers running a calibration that failed because the reagents were bad. He's told Dana so, in writing. There's no Control Seven. There's no data. There's a fifty-eight-year-old scientist who was passed over his whole career, who stole files from his employer, emailed a competitor for a job the same night, and fabricated the most extraordinary result in the history of biology.
 [pause 0.8]
 WESKER: Simon Ferris will forward your email to Verdant's lawyers inside an hour. Your pension goes. Your name goes. And every obituary they eventually write about you will mention it in the second paragraph.
 [pause 1.0]
@@ -169,7 +169,7 @@ N: A more cautious person might have been frightened by that answer. Evelyn Mars
 [music] m_tension -10
 [img] {HANNAH} in a cramped newsroom at night pinning printouts to a corkboard, clinic names connected with red string to a photo of {TOLLIVER}, cinematic
 [amb] amb_office_hum
-N: Across town, in the eleven-person newsroom of the Wilmington Ledger, Hannah Price had found the name of the man who ran Verdant Axis's three good trial sites.
+N: Across town, in the eighteen-person newsroom of the Wilmington Ledger, Hannah Price had found the name of the man who ran Verdant Axis's three good trial sites.
 N: It was a private clinic network in Maryland. Its registered owner was a limited partnership. The limited partnership's general partner was a man named Curtis Vane.
 N: Curtis Vane was Graham Tolliver's brother-in-law.
 [img] a corkboard covered in documents and red string converging on a single photograph of a smiling tanned CEO, desk lamp, noir, cinematic

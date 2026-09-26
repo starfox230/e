@@ -35,7 +35,7 @@ EVELYN: What's it for?
 [amb+] amb_cryo -2
 [img] a cold room at the end of a white corridor, a huge frosted cryogenic cradle bolted to the floor, pipes and cables, a large viewing window, blue-white light, cinematic
 N: He showed her the cold room first.
-N: The grey machine had been stripped of its disguise when it came down. Gus had removed the ducting and the false panels and the service plate that said Arcturus Climate Systems, and what was left was what it had always been: a cryogenic cradle, eleven feet tall, frosted white, with a viewing window the size of a door.
+N: The grey machine had been stripped of its disguise when it came down. Gus had removed the ducting and the false panels and the service plate that said Arcturus Climate Systems, and what was left was what it had always been: a cryogenic cradle, nine feet tall, frosted white, with a viewing window the size of a door.
 N: He touched a panel. The frost on the window cleared, from the centre outwards, like breath fading from a mirror.
 [sfx] sfx_cryo_hiss g-6
 [img] {EVELYN} standing close to a huge cryogenic viewing window, inside it a towering hairless grey-skinned humanoid giant asleep in pale mist, her hand raised toward the glass, awestruck, cinematic
@@ -64,7 +64,7 @@ WESKER: That depends on what we decide the world is for.
 N: Then he showed her the blood.
 N: He drew it himself, at a bench in the second laboratory, without a tourniquet, because his veins did not need one. He put a drop under a microscope that cost more than her parents' house, and put the image up on a screen the size of a door, and let her watch.
 [img] microscope image on a large screen of crimson glowing cells weaving tendrils, repairing and rewriting other cells, alien and beautiful, cinematic macro
-N: She watched for eleven minutes without speaking. She had spent her twenties studying viruses, and she knew within the first minute that she was looking at something no human laboratory had made. By the fifth minute she understood that it was not an infection — that the cells it moved through were not sick, but improved. By the tenth, she had worked out, with the terrible quickness that was the whole of her talent, where the blood had come from.
+N: She watched for seven minutes without speaking. She had spent her twenties studying viruses, and she knew within the first minute that she was looking at something no human laboratory had made. By the fifth minute she understood that it was not an infection — that the cells it moved through were not sick, but improved. By the tenth, she had worked out, with the terrible quickness that was the whole of her talent, where the blood had come from.
 EVELYN: This is Control Seven.
 WESKER: Yes.
 EVELYN: Howard's calibration sample. The one that broke the analyzer.
@@ -136,7 +136,7 @@ N: She did not know why. She told herself she would ask about it. She never did.
 [music] m_scheme -8
 [img] {CATHERINE} at a glass desk late at night with three screens showing tangled corporate structure charts, arrows between Ireland, Singapore and Nevada, a highlighted total, cinematic
 N: Catherine Adeyemi found the money in June.
-N: She found it the way good auditors find things — not by looking for fraud, but by looking for symmetry, and noticing where it was missing. The Arklay vault had cost eleven million dollars. She had seen it. She had stood in it. But in the spring, Umbrella's Irish subsidiary had licensed intellectual property to Ashford Pacific in Singapore for a fee, and Ashford Pacific had paid a Nevada company for facility services, and the Nevada company had spent, over fourteen months, a hundred and forty million dollars on something that had generated no construction invoices, no building permits, no property taxes, and no depreciation.
+N: She found it the way good auditors find things — not by looking for fraud, but by looking for symmetry, and noticing where it was missing. The Arklay vault had cost twenty-two million dollars. She had seen it. She had stood in it. But in the spring, Umbrella's Irish subsidiary had licensed intellectual property to Ashford Pacific in Singapore for a fee, and Ashford Pacific had paid a Nevada company for facility services, and the Nevada company had spent, over fourteen months, a hundred and forty million dollars on something that had generated no construction invoices, no building permits, no property taxes, and no depreciation.
 N: A hundred and forty million dollars had gone into the ground, and nothing had come out.
 [pause 1.0]
 [img] {CATHERINE} walking fast down a dim corridor at night toward a lit glass corner office, jaw set, a folder in her hand, cinematic
@@ -145,7 +145,7 @@ N: She went to his office at ten o'clock at night. He was there. He was always t
 [img] {CATHERINE} standing across a desk from {WESKER} in a glass office at night, city lights behind, a folder open between them, confrontational, cinematic
 CATHERINE: I asked you for one thing that mattered. I asked you to tell me where the money goes. You looked me in the eye and you took me down to a freezer.
 WESKER: The freezer is real.
-CATHERINE: The freezer cost eleven million. You've spent a hundred and forty. Through three countries. On nothing. I want to know what the nothing is, Albert, and I want to know it now, or I'm walking out of that door and taking my equity with me and I'm going to be very, very interesting to the Securities and Exchange Commission.
+CATHERINE: The freezer cost nineteen million. You've spent a hundred and forty. Through three countries. On nothing. I want to know what the nothing is, Albert, and I want to know it now, or I'm walking out of that door and taking my equity with me and I'm going to be very, very interesting to the Securities and Exchange Commission.
 [pause 1.2]
 N: He looked at her for a long time.
 N: The Cold-Read showed him everything, and it was not what he had expected. She was angry, and she was frightened — but beneath the anger, beneath the fear, there was something else. It was not a desire to leave. It was a desire to be told a reason to stay.

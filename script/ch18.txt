@@ -110,7 +110,7 @@ N: For three months, it worked exactly as he had said it would.
 N: On Mondays, Howard Lessing overheard things. A remark from Catherine about a new data centre in Nevada, which was real, and which held nothing but servers. A shipment of liquid nitrogen that turned out, when Carrick traced it, to be for the Basel vault. A late-night conversation between two of the research cohort about a primate study, which led Carrick to a licensed facility in Maryland, where he found forty perfectly healthy rhesus macaques, and an inspector who was very annoyed to be asked about them.
 [img] {CARRICK} at a desk surrounded by document boxes, crossing another line off a long list on a legal pad, rubbing his eyes, 2 a.m., cinematic
 N: Every lead was real. Every lead went nowhere. And every Monday night, on a pay phone somewhere different, Howard Lessing sounded a little less certain, and Owen Carrick sounded a little more tired.
-N: Lessing tried, once, in November, to photograph the freight elevator panel at night. He waited until the building was empty. He went down to the basement with his phone. He took eleven pictures of the panel from every angle.
+N: Lessing tried, once, in November, to photograph the freight elevator panel at night. He waited until the building was empty. He went down to the basement with his phone. He took nineteen pictures of the panel from every angle.
 [img] a phone photo of an old freight elevator panel showing only two buttons and a blank steel plate below them, flash glare, cinematic macro
 N: There were two buttons in every picture. Loading dock. Basement. And a smooth steel plate beneath them, with four screws.
 N: He had seen Evelyn Marsh go down past that plate with his own eyes. He knew it was there. And he stood in the empty freight elevator at midnight, staring at the pictures on his phone, and for the first time in three years, Howard Lessing began to wonder whether he was going mad.
@@ -129,7 +129,7 @@ FERRIS: (phone) I'm at Halvorsen Pike now. Head of external innovation. I was go
 [img] extreme close-up of {LESSING}'s face at a kitchen table at night, phone to his ear, eyes widening slowly with a terrible idea, cinematic
 N: Lessing did not say anything.
 N: He was thinking — with the slow, dreadful clarity of a man who has run out of other options — about the Federal Bureau of Investigation, which had spent three months chasing shipments of liquid nitrogen. About a freight elevator with a button that did not photograph. About a man in a lab in the middle of the night whose eyes had turned red. About a machine that breathed.
-N: And about the fact that Halvorsen Pike, the second largest pharmaceutical company on Earth, was losing eleven billion dollars a year to Aeterna, and would do — he suspected — almost anything to find out how it was made.
+N: And about the fact that Halvorsen Pike, the second largest pharmaceutical company on Earth, was losing eighteen billion dollars a year to Aeterna, and would do — he suspected — almost anything to find out how it was made.
 FERRIS: (phone) Howard? Are you still there?
 [pause 1.5]
 LESSING: (phone) I'm here, Simon. I think we should talk.

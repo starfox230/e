@@ -81,7 +81,7 @@ WESKER: Money is the only army that works in peacetime. And I've just hired its 
 [img] {PELL} standing perfectly still at a reception desk at 8 a.m. sharp, briefcase in hand, morning light, cinematic
 [loc] Monday, 8:00 a.m.
 N: On Monday morning, at eight o'clock exactly, a man named Mister Pell walked into Division Seven and asked for his desk.
-N: He was thin and pale, somewhere in his fifties, in a grey suit so neat it looked ironed onto him. He carried a leather briefcase and a paper bag containing, it would turn out, the same lunch he would eat every day for the next eleven years: a cheese sandwich on white bread, an apple, and a bottle of still water.
+N: He was thin and pale, somewhere in his fifties, in a grey suit so neat it looked ironed onto him. He carried a leather briefcase and a paper bag containing, it would turn out, the same lunch he would eat every day for the next thirteen years: a cheese sandwich on white bread, an apple, and a bottle of still water.
 [img] {DANA} at her desk looking at a computer screen with confused surprise, an HR file open showing a new employee record, cinematic
 N: Dana looked him up in the payroll system, because she had never heard of him.
 N: He was there. Hired in March. Chartered accountant, certified in three states, with a clean background check, a signed contract, a parking space with his name painted on it that she could have sworn had been blank on Friday, and a performance review from June that she did not remember writing, but that was unmistakably in her own words.
@@ -94,7 +94,7 @@ N: She told herself it was nothing. She would tell herself that for a long time.
 [pause 1.0]
 [img] {PELL} alone in a small windowless office surrounded by neat stacks of ledgers and three monitors of spreadsheets, working in perfect stillness, cinematic
 N: Pell went to work.
-N: By lunchtime on Monday he had found a claim that Division Seven held against its own dead parent company — eleven years of unpaid intercompany charges, two hundred and ninety thousand dollars that Umbrella Holdings in London had owed to Umbrella Delaware and never paid, now filed as a creditor claim with Harrow and Lisle, ahead of half the other creditors.
+N: By lunchtime on Monday he had found a claim that Division Seven held against its own dead parent company — six years of unpaid intercompany charges, two hundred and ninety thousand dollars that Umbrella Holdings in London had owed to Umbrella Delaware and never paid, now filed as a creditor claim with Harrow and Lisle, ahead of half the other creditors.
 N: By Tuesday he had found a research tax credit the division had been entitled to since two thousand nineteen and had never claimed, because nobody had known how.
 N: By Wednesday he had renegotiated the electricity contract, the waste-disposal contract, the equipment leases, and the coffee.
 [sfx] sfx_keyboard g-6

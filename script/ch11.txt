@@ -43,7 +43,7 @@ N: And it had come from a compound whose design history she had tried to trace t
 [img] a financial newspaper front page with a headline about a longevity drug breakthrough, stock chart soaring, coffee cup on a desk, morning, cinematic
 [loc] February 2028
 N: The data went public in February. The world lost its mind.
-N: Umbrella's share price went from eleven dollars to a hundred and four in nine trading days. The Food and Drug Administration, under an administration that had spent a year promising to cut red tape for American medicine, granted Aeterna breakthrough therapy designation in a record thirty-one days. Every health desk on Earth ran the story of Arthur Kowalczyk walking to his car.
+N: Umbrella's share price went from eighteen dollars to a hundred and four in nine trading days. The Food and Drug Administration, under an administration that had spent a year promising to cut red tape for American medicine, granted Aeterna breakthrough therapy designation in a record thirty-one days. Every health desk on Earth ran the story of Arthur Kowalczyk walking to his car.
 N: And every television producer on Earth wanted the man in the sunglasses.
 [pause 1.0]
 [img] {TOMAS} and {CATHERINE} arguing in a glass office full of screens showing media requests, Tomás excited, Catherine exasperated, cinematic
@@ -91,7 +91,7 @@ N: He did not look away. He did not smile. He simply sat, perfectly still, with 
 [pause 2.5]
 N: In the control room, the director began to count under his breath. Four. Five. Six. In a live broadcast, three seconds of silence is an accident. Six is a crisis. At eight, a producer reached for the button that would cut to a commercial, and the director slapped her hand away, because he had been in television for twenty-six years, and he knew — the way you know a storm is coming — that he was watching something he would never see again.
 [pause 2.0]
-N: Nine. Ten. Eleven.
+N: Nine. Ten. Seventeen.
 [pause 1.2]
 [music] m_sermon -14
 [img] {WESKER} at a studio desk slowly leaning forward toward the anchor, the faintest smile, studio lights haloing him, cinematic
@@ -103,7 +103,7 @@ N: That was all. Seventeen words, after eleven seconds of nothing. Miriam Castel
 [music] m_corporate -6
 [amb] amb_office_hum
 [img] a phone screen showing a viral video clip of a man in sunglasses in a TV studio, a view counter spinning into millions, comments exploding, cinematic
-N: The clip was online in four minutes. By noon it had been watched eleven million times.
+N: The clip was online in four minutes. By noon it had been watched ten million times.
 N: By the evening, it had a name. Somebody on the internet had called him the Sunglasses CEO, and the name had stuck the way names stick online — instantly, and forever. There were edits of the eleven seconds set to orchestral music. There were edits set to heartbeat sounds. There was an edit in which someone had slowed the silence down to a full minute, and it had been watched four million times on its own. There were people who counted the seconds out loud in their videos, in the style of a rocket launch. There were T-shirts by Friday.
 [img] {TOMAS} in a dark room full of monitors showing analytics dashboards and trending topics, face lit by the screens, grinning wildly, cinematic
 N: Tomás watched it happen from a room on the tenth floor with six screens and a budget, and he did not sleep for two days.
@@ -117,11 +117,11 @@ N: He watched it himself only once, in the back of the car on the way to the air
 N: The Wesker half of the mind watched the eleven seconds the way a surgeon watches a recording of his own operation: clinically, noting the timing, the light, the angle. It had worked. He had known it would work. The rest was noise.
 N: The other half was not watching the eleven seconds at all. It was watching the numbers underneath them.
 [pause 1.0]
-ADOLF: (soft) Eleven million.
-WESKER: Eleven million views. Not eleven million people. Some of them watched it twenty times.
+ADOLF: (soft) Fifteen million.
+WESKER: Twenty million views. Not eight million people. Some of them watched it twenty times.
 ADOLF: I spoke to three hundred thousand people in a stadium in Nuremberg. It was the largest crowd of my life. It took a year of planning and a special train timetable.
 [pause 0.8]
-ADOLF: This morning you sat in a chair and said nothing, and eleven million people came.
+ADOLF: This morning you sat in a chair and said nothing, and sixteen million people came.
 [pause 1.5]
 N: Wesker did not answer. For a long time there was only the hum of the tyres and the lights of the highway sliding across the glass.
 N: Then the old voice spoke again, very quietly, and there was something in it that Wesker had never heard before, and did not like.
@@ -136,7 +136,7 @@ N: In March, Umbrella Life Sciences rang the opening bell at the NASDAQ in Times
 N: He rang it with Catherine on one side of him and Evelyn on the other, and Dana, and Tomás, and even Walter, who had been talked into a suit. On the giant screens outside, seven storeys high above the traffic, the red-and-white emblem turned slowly over Times Square, and a crowd on the pavement — who had come because they had seen the eleven seconds on their phones — held up their phones and filmed it.
 [img] a huge crowd in Times Square at dawn looking up at a seven-storey digital billboard showing a red and white umbrella emblem, phones raised, cinematic
 [sfx] sfx_applause g-8
-N: One of them had printed a T-shirt with a pair of black sunglasses on it, and the number eleven.
+N: One of them had printed a T-shirt with a pair of black sunglasses on it, and the number thirteen.
 [pause 1.0]
 [sfx] sfx_system_open
 [system] ASSESSMENT

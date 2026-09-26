@@ -8,7 +8,7 @@
 N: Special Agent Owen Carrick was, at forty-two, exactly the kind of man the Federal Bureau of Investigation was designed to produce: competent, careful, and one promotion away from Washington.
 N: He had joined the Bureau at twenty-nine, after four years as a prosecutor in Harrisburg. He had worked public corruption, and then counter-terrorism, and then — because it looked good on a file, and because nobody else in the field office wanted it — he had become the Weapons of Mass Destruction coordinator for eastern Pennsylvania and Delaware. It was a job that mostly involved hazmat drills, and lectures to university chemistry departments, and anthrax hoaxes, and one man in Scranton who kept trying to buy ricin on the internet.
 [img] a suburban house in Media Pennsylvania at dusk, a basketball hoop on the driveway, a minivan, warm lights in the windows, cinematic
-N: He lived in Media, Pennsylvania, with his wife Laura, who taught eighth-grade science, and two daughters, eleven and eight. He had applied that summer for a unit chief position at the Weapons of Mass Destruction Directorate at headquarters, and the interview board was in November, and he thought he had a good chance, and he had not told anyone but Laura.
+N: He lived in Media, Pennsylvania, with his wife Laura, who taught eighth-grade science, and two daughters, seventeen and eight. He had applied that summer for a unit chief position at the Weapons of Mass Destruction Directorate at headquarters, and the interview board was in November, and he thought he had a good chance, and he had not told anyone but Laura.
 N: He had not asked for the Umbrella case. It had come to him the way cases come to men in his position — as a referral from another agency, forwarded by a supervisor with a one-line note. CDC plus FDA. Possible select agent issue. Probably nothing. Take a look.
 [pause 1.0]
 N: Probably nothing. That was what Owen Carrick believed, on the fourteenth of August, twenty twenty-nine, when he drove to Wilmington to serve a grand jury subpoena on a biotech company whose chief executive had been on the cover of a magazine.
@@ -63,14 +63,14 @@ N: The Sentinel. A commission by a young sculptor from Rhode Island, for Umbrell
 HADDAD: (cold) You're telling me that's what's in the photograph.
 WESKER: I'm telling you that's what Doctor Okafor photographed. Doctor Marsh's team used a picture of it on a slide about public perception. The label on the page is a working title. T-zero-zero. The zero-zero is because the sculptor hadn't signed it yet.
 [pause 0.6]
-N: Pell had commissioned the sculpture in April, from a real artist, who had been paid real money and would go on to have a real career. It had taken her eleven weeks. The invoice was in box twenty-seven.
+N: Pell had commissioned the sculpture in April, from a real artist, who had been paid real money and would go on to have a real career. It had taken her ten weeks. The invoice was in box twenty-seven.
 [pause 1.5]
 
 [music] m_tension -10
 [amb] amb_lab
 [img] {EVELYN} in a white coat presenting a folder of documents to {HADDAD} at a conference table, calm and precise, {WESKER} standing by the window, cinematic
 N: The macaques were Evelyn's.
-N: She met them in a conference room on the ninth floor, in a crisp white coat, with a folder, and she explained — clearly, patiently, in the tone of a scientist explaining something slightly embarrassing to a colleague — that the twenty-four rhesus macaques from Singapore had been part of a standard toxicology study for Aeterna, conducted under contract by a licensed research organisation in Maryland. The contract was in box eleven. The Maryland facility's inspection reports were in box twelve.
+N: She met them in a conference room on the ninth floor, in a crisp white coat, with a folder, and she explained — clearly, patiently, in the tone of a scientist explaining something slightly embarrassing to a colleague — that the twenty-four rhesus macaques from Singapore had been part of a standard toxicology study for Aeterna, conducted under contract by a licensed research organisation in Maryland. The contract was in box fifteen. The Maryland facility's inspection reports were in box twelve.
 EVELYN: In a toxicology study the animals are humanely euthanised at the end of the dosing period so that their tissues can be examined. That's what deceased means in the table. Nineteen at the scheduled end-point. The five marked enhanced were an enhanced-monitoring cohort — animals kept for a longer observation window. They're still alive. You're welcome to visit them.
 HADDAD: And the note in the margin? Select accordingly?
 EVELYN: Group housing. Macaques are social, and it's better for their welfare if we house them together, but animals with high baseline aggression don't tolerate co-housing well. So we select the calmer ones for the group enclosures. It's in our animal welfare plan. Section six.
@@ -89,7 +89,7 @@ N: So they went down in the freight elevator — the Director, the two investiga
 N: The elevator panel had two buttons. Loading dock. Basement. Carrick looked at it for a long moment. There was no third button. There was a smooth, blank steel plate below the basement button, with four screws in it, and a very faint rectangular mark in the paint, as though something had been removed.
 [sfx] sfx_elevator_descend g-6
 [img] a clean modern cold-storage vault in a basement with steel racks of frozen sample boxes, the FBI agent and the CDC officer looking around, frost, cinematic
-N: The basement had the eleven old freezers, and six new ones, and the vault that Pell had bought for eighteen hundred Points to show Catherine eighteen months before. It was clean, and cold, and it used, the Director explained, a great deal of power, because it was holding thirty years of biological samples at minus one hundred and fifty degrees, and because the old building's electrical system was, frankly, a disgrace.
+N: The basement had the twenty old freezers, and six new ones, and the vault that Pell had bought for eighteen hundred Points to show Catherine eighteen months before. It was clean, and cold, and it used, the Director explained, a great deal of power, because it was holding thirty years of biological samples at minus one hundred and fifty degrees, and because the old building's electrical system was, frankly, a disgrace.
 N: The corner where the grey machine had stood was bare concrete, freshly painted.
 [pause 1.2]
 HADDAD: What was here before?
@@ -153,7 +153,7 @@ HADDAD: That's — people can do that.
 CARRICK: No. They can't.
 [pause 1.5]
 N: He drove on in silence. The rain began, and he turned on the wipers, and watched them for a while.
-N: He did not close the file. He did not decide not to close it, either. He simply did not close it that night, or the next, and the file sat in the tray on his desk, under a stack of hazmat drill reports, for eleven days.
+N: He did not close the file. He did not decide not to close it, either. He simply did not close it that night, or the next, and the file sat in the tray on his desk, under a stack of hazmat drill reports, for eight days.
 N: On the twelfth day, a man called the Philadelphia field office from a pay phone at a highway rest stop, and asked for Special Agent Carrick by name, and would not give his own.
 [pause 3.0]
 [music] stop

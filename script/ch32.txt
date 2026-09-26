@@ -5,12 +5,12 @@
 [img] {TOMAS} in a vast production office surrounded by storyboards, screens and stage models of a stadium, a team of designers around him, feverish energy, cinematic
 [loc] 2035
 N: The Umbrella Congress was Tomás's idea. Everything big that year was Tomás's idea, or looked like it.
-N: He was thirty-three now, and his title was no longer head of digital. It was chief narrative officer — a title he had invented, and that three other companies had copied within a year. He ran a department of eleven hundred people across four continents whose job was to decide what the world felt about Umbrella, and then to make the world feel it. He had a corner office on the tenth floor and a house on the Brandywine and his student loans had been paid off for eight years.
+N: He was thirty-three now, and his title was no longer head of digital. It was chief narrative officer — a title he had invented, and that three other companies had copied within a year. He ran a department of fourteen hundred people across four continents whose job was to decide what the world felt about Umbrella, and then to make the world feel it. He had a corner office on the tenth floor and a house on the Brandywine and his student loans had been paid off for eight years.
 N: He had also not slept properly since the ghost video. He did not tell anyone that.
 [pause 1.5]
 [img] an architectural render of a football stadium transformed into a vast stage with a giant red and white umbrella emblem, LED walls, and a swarm of drones in the sky, cinematic
 N: The idea was simple. Once a year, Umbrella would bring its people together — not the executives, not the board, not the investors, but the people. The chemists and the drivers and the nurses from the foundation clinics and the security officers and the families. From every country Umbrella worked in. In one place, on one night, to hear the Director.
-N: Tomás booked the football stadium in South Philadelphia for the eleventh of September, twenty thirty-five. Sixty-eight thousand seats. Umbrella flew in eleven thousand employees from abroad, and chartered buses for thirty thousand from the eastern seaboard, and gave free tickets to every family member who wanted one.
+N: Tomás booked the football stadium in South Philadelphia for the eleventh of September, twenty thirty-five. Sixty-eight thousand seats. Umbrella flew in twelve thousand employees from abroad, and chartered buses for thirty thousand from the eastern seaboard, and gave free tickets to every family member who wanted one.
 N: They filled it.
 [pause 1.5]
 
@@ -61,7 +61,7 @@ WESKER: Good evening.
 [pause 1.5]
 [sfx] sfx_crowd_cheer g-4
 N: The roar went on for forty seconds. He let it. He stood perfectly still at the microphone with his hands at his sides, and let it wash over him and break and die away, and he waited, until the silence came back, and then he waited a little longer.
-N: Eleven seconds. Somebody in the crowd counted it out loud. Then others did. By the ninth second, the whole stadium was counting, laughing, and at eleven they cheered again, because they had all seen the video, and they were all in on the joke.
+N: Eleven seconds. Somebody in the crowd counted it out loud. Then others did. By the ninth second, the whole stadium was counting, laughing, and at nine they cheered again, because they had all seen the video, and they were all in on the joke.
 N: He smiled. He did not usually. The screens showed it, forty feet high.
 [pause 1.5]
 

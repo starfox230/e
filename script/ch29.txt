@@ -5,7 +5,7 @@
 [img] a futuristic tech campus in Seattle at night with glowing glass buildings and a vast data centre humming, a large white corporate logo of a stylized lightbulb, cinematic
 [loc] Seattle — 2033
 N: Sebastian Crane had never lost at anything that could be measured.
-N: He had built his first company at nineteen, sold it at twenty-three, and founded Lumen at twenty-five, in a rented house in Seattle with four friends and a line of credit. Fifteen years later, Lumen ran a third of the world's cloud computing, and trained the largest artificial intelligence systems on Earth, and was worth two trillion dollars. Crane owned eleven percent of it. He wore black T-shirts and a watch that tracked his sleep, and he did not believe in anything that could not be modelled.
+N: He had built his first company at nineteen, sold it at twenty-three, and founded Lumen at twenty-five, in a rented house in Seattle with four friends and a line of credit. Fifteen years later, Lumen ran a third of the world's cloud computing, and trained the largest artificial intelligence systems on Earth, and was worth two trillion dollars. Crane owned ten percent of it. He wore black T-shirts and a watch that tracked his sleep, and he did not believe in anything that could not be modelled.
 [img] {CRANE} standing in a dark glass office surrounded by holographic data visualizations and flowing graphs, intense stare, black t-shirt, cinematic
 N: In the spring of twenty thirty-three, he became obsessed with Albert Wesker. It was not personal. Crane did not really do personal. It was the numbers.
 N: Umbrella had gone from nothing to the most valuable company on Earth in six and a half years. Nothing had ever done that. Not Lumen, not Apple, not Standard Oil. And when Crane had asked his own systems why — when he had fed them every public record Umbrella had ever produced, every patent, every filing, every trade, every speech, every second of every video — his systems had come back with an answer that he did not understand, and could not stop thinking about.
@@ -13,7 +13,7 @@ N: Umbrella had gone from nothing to the most valuable company on Earth in six a
 
 [music] m_system -8
 [img] a vast glowing neural network visualization in a dark server hall, streams of data converging on a single pulsing node labeled ANOMALY, cinematic
-N: The system was called Oracle. It was the most powerful model Lumen had ever built, and Crane had spent eleven billion dollars teaching it to predict how companies would behave. It was very, very good at it. It could predict, with uncanny accuracy, what a chief executive would do next — because chief executives, Oracle had learned, were human, and humans are patterns.
+N: The system was called Oracle. It was the most powerful model Lumen had ever built, and Crane had spent fifteen billion dollars teaching it to predict how companies would behave. It was very, very good at it. It could predict, with uncanny accuracy, what a chief executive would do next — because chief executives, Oracle had learned, were human, and humans are patterns.
 N: It could not predict Albert Wesker.
 [img] a screen in a dark office showing a chart of predicted versus actual corporate decisions, the actual line wildly diverging from the predicted one, a red label reading UNMODELED OPTIMIZER, cinematic
 ORACLE: Subject decisions are not consistent with a human utility function. Subject decisions are consistent with optimisation against an external reward signal that is not observable in public data. Timing of subject actions correlates with reward events at a probability exceeding chance by a factor of ten to the eleventh. Sixty-three patent filings exhibit discontinuous capability gain with no antecedents. Conclusion: subject has access to an optimiser. Nature of optimiser: unknown.
@@ -86,7 +86,7 @@ N: Umbrella never bid.
 [pause 2.0]
 [img] a stock chart of LUMEN plunging steeply, a news ticker reading REGULATORS BLOCK LUMEN CHIP DEAL, stunned faces in a glass office, cinematic
 N: Umbrella had never been going to bid. Umbrella had spent six months making every public move that a company about to bid would make, and had not made a single private one. And in the week after Lumen's announcement, when the governments of Taiwan and the United States and China all realised at the same moment that the company that ran a third of the world's cloud was about to own the chips that ran the rest, the deal became the most politically radioactive transaction on Earth.
-N: It was blocked in March. Lumen had spent eleven billion dollars on advisors, committed its balance sheet, and lost the confidence of every regulator on three continents. Its stock fell forty-four percent. Its board removed Sebastian Crane as chief executive on the second of April.
+N: It was blocked in March. Lumen had spent twenty billion dollars on advisors, committed its balance sheet, and lost the confidence of every regulator on three continents. Its stock fell forty-four percent. Its board removed Sebastian Crane as chief executive on the second of April.
 N: And in the same week, Umbrella quietly bought Lumen's life-sciences cloud division — the servers that ran half the world's drug discovery — for a price Crane's successor accepted without negotiating, because Lumen needed the money.
 [pause 1.5]
 [sfx] sfx_system_chime

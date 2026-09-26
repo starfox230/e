@@ -16,7 +16,7 @@ N: The second ground was a sworn affidavit, forty pages long, from a former spec
 
 [music] m_scheme -10
 [img] a middle-aged woman judge in a black robe on the bench reading an affidavit with a sceptical frown, reading glasses low on her nose, cinematic
-N: The Chancellor of the Court was a woman named Margaret Oduya, who had been a corporate litigator for twenty years and a judge for eleven, and who had seen, in that time, every trick that clever lawyers could play with a corporate charter. She had read Exhibit Nineteen twice the night before, in her kitchen, with a glass of wine. She had not finished the wine.
+N: The Chancellor of the Court was a woman named Margaret Oduya, who had been a corporate litigator for twenty years and a judge for eight, and who had seen, in that time, every trick that clever lawyers could play with a corporate charter. She had read Exhibit Nineteen twice the night before, in her kitchen, with a glass of wine. She had not finished the wine.
 N: She began the hearing by saying, very mildly, that she had read the affidavit, and that she wished to hear from counsel for Halvorsen Pike as to its relevance to the fiduciary questions before the Court, and that she would be grateful if counsel could be brief.
 N: Counsel for Halvorsen Pike was not brief. He had been told, by Ingrid Halvorsen herself, that this was the whole case.
 [pause 1.5]

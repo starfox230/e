@@ -53,7 +53,7 @@ N: And at the end of the corridor, in front of a steel door six inches thick, wi
 [img] {WESKER} standing calmly in front of a massive steel containment door with a red and white emblem, sunglasses on, hands folded behind his back, waiting, cold white light, cinematic
 WESKER: Hello, Owen. I thought it was time you saw it.
 [pause 1.0]
-N: He opened the steel door with a touch. Behind it, in a cold room, stood a cryogenic cradle eleven feet tall. The produce truck had made its long journey in reverse in February, from the desert back to Delaware, and the grey figure had been home for two months.
+N: He opened the steel door with a touch. Behind it, in a cold room, stood a cryogenic cradle nineteen feet tall. The produce truck had made its long journey in reverse in February, from the desert back to Delaware, and the grey figure had been home for two months.
 [sfx] sfx_cryo_hiss g-4
 [img] {CARRICK} standing frozen before a huge cryogenic viewing window, inside it a colossal grey humanoid giant asleep in mist, his reflection in the glass, cinematic
 N: The frost cleared from the window, from the centre outward. And Owen Carrick saw what Rick Dorsey had seen, and Howard Lessing had heard, and twelve Russian soldiers had met in the dark in Nevada.

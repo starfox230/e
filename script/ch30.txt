@@ -38,9 +38,9 @@ WESKER: Then I'll learn something about Chinese intelligence. And she'll learn s
 [img] a hotel service corridor at night, fluorescent lights, a figure in a black coat walking alone, shadows of several men converging at both ends, cinematic
 [loc] 2:10 a.m.
 N: They tried on the second night.
-N: It was very well done. The Director would say so afterwards, with real professional admiration. A power failure in the hotel's east tower, at ten past two in the morning — not complete, just enough to put the security cameras on backup and the lifts on emergency power. A fire alarm on his floor, which sent the two Silent Ones outside his door to check the stairwells, as their protocol required. And eleven men and women from the Ministry's special operations bureau, in the uniforms of hotel maintenance staff and fire marshals, waiting for him in the service corridor behind his suite, with a stretcher, and a sedative that could have put down a horse, and a van in the loading bay.
+N: It was very well done. The Director would say so afterwards, with real professional admiration. A power failure in the hotel's east tower, at ten past two in the morning — not complete, just enough to put the security cameras on backup and the lifts on emergency power. A fire alarm on his floor, which sent the two Silent Ones outside his door to check the stairwells, as their protocol required. And seven men and women from the Ministry's special operations bureau, in the uniforms of hotel maintenance staff and fire marshals, waiting for him in the service corridor behind his suite, with a stretcher, and a sedative that could have put down a horse, and a van in the loading bay.
 [sfx] sfx_alarm g-4
-[img] eleven people in hotel staff and firefighter uniforms blocking a dim service corridor, one holding a syringe, others with batons and a stretcher, tense, cinematic
+[img] twenty-two people in hotel staff and firefighter uniforms blocking a dim service corridor, one holding a syringe, others with batons and a stretcher, tense, cinematic
 N: He walked into the corridor on purpose. He had watched them take their positions, in the Thought Acceleration, from the other side of the door. Three trains of thought, at six hundred to one. In one of them, he had already counted their weapons. In another, he had worked out which of them was in charge. In the third, he was thinking about something else entirely — about a woman in Beijing, and what she would do when this failed.
 [pause 1.0]
 [sfx] sfx_whoosh
@@ -48,10 +48,10 @@ N: He walked into the corridor on purpose. He had watched them take their positi
 [sfx] sfx_body_fall +0.5
 [img] time frozen in a hotel corridor, a syringe suspended in mid-air after being knocked from a hand, figures caught mid-fall, a black coat streaking between them, cinematic
 N: It took eleven seconds. He did not kill anyone.
-N: That was the decision, and it had been made in the third room of the Memory Palace, before he opened the door. Dead Chinese agents in a Hong Kong hotel would be a diplomatic incident, and an incident was a story, and a story was something he could not control. Eleven unconscious Chinese agents in a Hong Kong hotel, found by the real fire marshals twenty minutes later, zip-tied to a service railing with their own restraints, with the syringe of horse sedative carefully capped and placed on the chest of the woman in charge — that was not a story. That was a message.
+N: That was the decision, and it had been made in the third room of the Memory Palace, before he opened the door. Dead Chinese agents in a Hong Kong hotel would be a diplomatic incident, and an incident was a story, and a story was something he could not control. Nineteen unconscious Chinese agents in a Hong Kong hotel, found by the real fire marshals twenty minutes later, zip-tied to a service railing with their own restraints, with the syringe of horse sedative carefully capped and placed on the chest of the woman in charge — that was not a story. That was a message.
 [sfx] sfx_bone_snap g-12
 [pause 1.0]
-[img] eleven people in uniforms zip-tied unconscious to a railing in a hotel service corridor under emergency lighting, a capped syringe resting on one woman's chest, cinematic
+[img] eighteen people in uniforms zip-tied unconscious to a railing in a hotel service corridor under emergency lighting, a capped syringe resting on one woman's chest, cinematic
 N: Hong Kong's police found them at two thirty-one. The Ministry of State Security never acknowledged that they existed. Neither did the Director. The hotel attributed the power failure to a faulty transformer, and apologised to its guests, and gave everyone on the east tower a complimentary breakfast.
 [pause 2.0]
 
@@ -68,7 +68,7 @@ WESKER: No.
 WEN: May I ask why?
 WESKER: Because you'd have had to avenge them. And I'd rather you didn't have to do anything you didn't want to.
 [pause 1.5]
-N: She smiled, very slightly. It was the first smile anyone at the Ministry of State Security had seen from her in eleven years.
+N: She smiled, very slightly. It was the first smile anyone at the Ministry of State Security had seen from her in seventeen years.
 WEN: That is either a kindness or a threat.
 WESKER: In my experience, the most useful things usually are both.
 [pause 1.5]

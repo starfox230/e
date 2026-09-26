@@ -6,7 +6,7 @@
 [loc] Wilmington — Sunday, 13 January 2030, 12:50 a.m.
 N: There were four of them, and they were very good.
 N: They had been soldiers once — two of them in the same special operations unit, two in the British Army — and then they had become the kind of men that large companies hire when they need something done that nobody will ever write down. They worked for a private security firm in Virginia that had been retained, through three layers of consultants, by the competitive intelligence department of Halvorsen Pike. They had been told that the job was simple: enter a research facility in Wilmington with the help of an insider, copy the contents of a single air-gapped server, photograph anything unusual in the basement, and leave.
-N: They had been told it would take eleven minutes. They had been told nobody would be hurt.
+N: They had been told it would take twelve minutes. They had been told nobody would be hurt.
 N: Both of these things were believed, sincerely, by the people who had told them.
 [pause 1.5]
 [img] {LESSING} in a dark parking lot swiping an ID badge at a side door of an old brick building, four armed men in black stacked behind him, his face pale and sweating, cinematic
@@ -96,7 +96,7 @@ N: And then it recorded something else.
 [pause 1.5]
 [img] a grainy dashcam frame at night showing a long dark smear stretched horizontally across a parking lot, like a shadow torn across the image, a running man at the end of it, uncanny, cinematic
 [sfx] sfx_whoosh
-N: Frame one thousand one hundred and ten: the man, running, forty metres from the loading dock door. Frame one thousand one hundred and eleven: a shape at the loading dock door. Frame one thousand one hundred and twelve: a dark smear, long and horizontal, stretched across a third of the parking lot, like a shadow that had been torn. Frame one thousand one hundred and thirteen: the smear, longer. Frame one thousand one hundred and fourteen —
+N: Frame one thousand one hundred and ten: the man, running, forty metres from the loading dock door. Frame one thousand one hundred and nine: a shape at the loading dock door. Frame one thousand one hundred and twelve: a dark smear, long and horizontal, stretched across a third of the parking lot, like a shadow that had been torn. Frame one thousand one hundred and thirteen: the smear, longer. Frame one thousand one hundred and fourteen —
 [pause 1.0]
 N: Frame one thousand one hundred and fourteen showed a tall figure in a long black coat, standing perfectly still beside the running man, with one hand on the back of his neck.
 [sfx] sfx_body_fall
@@ -127,7 +127,7 @@ N: He called the police himself.
 [sfx] sfx_police_sirens g-4
 [img] police cars with flashing red and blue lights filling a parking lot at night in front of an old brick building, crime scene tape, officers, a tall man in a black coat standing calmly in the lit lobby doorway, cinematic
 [loc] 2:40 a.m.
-N: By two-forty in the morning there were eleven police vehicles in the parking lot, two ambulances, a coroner's van, and a Delaware State Police helicopter circling overhead with a searchlight.
+N: By two-forty in the morning there were seven police vehicles in the parking lot, two ambulances, a coroner's van, and a Delaware State Police helicopter circling overhead with a searchlight.
 N: The Director was waiting for them in the lobby of the old building, in his black coat, with his sunglasses on. There was no blood on him. There was not a hair out of place.
 N: He had told the dispatcher, calmly and in full sentences, exactly what had happened. Armed intruders. A senior scientist shot dead. Four intruders dead. He had not mentioned speed. He had not needed to. Four men with rifles, and one unarmed chief executive who was fit, and trained, and very lucky, and had defended himself and his staff in the dark.
 N: That was the story. It would be the story for several days.
@@ -173,7 +173,7 @@ N: She had. She posted it on Monday night, with the caption: wtf did my dashcam 
 N: The internet called it the ghost video. And in a dark office in Philadelphia, at ten past five on Tuesday morning, Owen Carrick sat with a cold cup of coffee and watched frame one thousand one hundred and fourteen for the two hundredth time.
 [img] extreme close-up of a grainy dashcam frame on a monitor, a dark smeared figure in a coat, the frame counter reading 1114, an agent's tired reflection in the screen, cinematic
 N: A figure in a long black coat. Standing perfectly still. Forty metres from the door it had been standing at, four frames — a hundred and thirty-three milliseconds — before.
-N: Forty metres in a hundred and thirty-three milliseconds. He had done the arithmetic on a legal pad eleven times. It came to three hundred metres a second. Just under the speed of sound.
+N: Forty metres in a hundred and thirty-three milliseconds. He had done the arithmetic on a legal pad twenty-two times. It came to three hundred metres a second. Just under the speed of sound.
 [pause 1.5]
 N: Owen Carrick had spent seventeen years building a career on the principle that there is always a rational explanation. He had built it carefully, one promotion at a time, and he had just been passed over for the job he wanted, and his informant was dead on a basement floor, and he was looking at a frame of video that no rational explanation could survive.
 N: He did not close the file. He never would. That morning, at ten past five, in the dark, Special Agent Owen Carrick stopped being a careerist.

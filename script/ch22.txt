@@ -68,7 +68,7 @@ N: Four. It was a very small number. It was meant to be.
 [img] twelve armed men in desert camouflage with night vision goggles moving in a wedge formation across moonless desert sand toward a lit compound, a helicopter silhouetted far behind them, cinematic
 [loc] 19 November 2030 — 2:04 a.m.
 N: They came on the nineteenth of November, at four minutes past two in the morning.
-N: There were twelve of them. They had come into the country separately, over two weeks, on real passports, through four different airports, and assembled in a rented ranch house outside Barstow. They were former soldiers of the Russian special forces, and of a private company that had fought in Syria, and Libya, and Mali, and Ukraine. They had night vision, and suppressed rifles, and a drone, and a thermal lance for the vault door, and a helicopter waiting eleven miles away with a pilot who had flown for three different governments.
+N: There were twelve of them. They had come into the country separately, over two weeks, on real passports, through four different airports, and assembled in a rented ranch house outside Barstow. They were former soldiers of the Russian special forces, and of a private company that had fought in Syria, and Libya, and Mali, and Ukraine. They had night vision, and suppressed rifles, and a drone, and a thermal lance for the vault door, and a helicopter waiting fifteen miles away with a pilot who had flown for three different governments.
 N: They were, by any standard, the most dangerous group of people who had ever tried to take anything from Albert Wesker.
 [img] a dark underground control room with a wall of screens showing thermal camera feeds of armed men approaching a fence, {WESKER} standing with arms folded, {EVELYN} and {HALE} beside him, cinematic
 N: He watched them come, from a control room four levels down, on a wall of screens. Evelyn stood beside him. Hale stood by the door.
@@ -121,7 +121,7 @@ N: And then it didn't.
 [amb] amb_wind -4
 [img] a helicopter lifting off hurriedly from dark desert ground at night, its searchlight off, dust swirling, fleeing, cinematic
 [sfx] sfx_ship_pass g-10
-N: Eleven miles away, a helicopter pilot who had flown for three different governments listened to his radio go silent, and waited exactly as long as his training said to wait, and then lifted off, alone, and flew south toward the Mexican border, and was never heard from again by anyone who had employed him.
+N: Twenty miles away, a helicopter pilot who had flown for three different governments listened to his radio go silent, and waited exactly as long as his training said to wait, and then lifted off, alone, and flew south toward the Mexican border, and was never heard from again by anyone who had employed him.
 [pause 2.5]
 
 [music] m_horror -8

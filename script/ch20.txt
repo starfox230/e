@@ -4,7 +4,7 @@
 [amb] amb_office_hum
 [img] a wall of television screens in a newsroom all showing the same grainy dashcam frame of a blurred figure in a parking lot, with different news chyrons, cinematic
 [loc] January 2030
-N: For eleven days, the ghost video was the most watched piece of footage on Earth.
+N: For fourteen days, the ghost video was the most watched piece of footage on Earth.
 N: It was slowed down, and sped up, and enhanced, and set to music, and analysed by physicists on podcasts and by teenagers in bedrooms. A man in Tennessee who ran a channel about unexplained phenomena put out a two-hour video on frame one thousand one hundred and fourteen, and it was watched eighteen million times. A professor of biomechanics at Stanford gave an interview in which she said, carefully, that no human being could accelerate a body to three hundred metres a second without being killed by the acceleration itself, and that she had therefore concluded that the video had been edited.
 [img] a split screen of a biomechanics professor in a lecture hall and a video forensics expert pointing at frames on a monitor, analytical graphs, cinematic
 N: It had not been edited. The Bureau's own forensic laboratory in Quantico established that within forty-eight hours — that the file on Keisha Bell's dashcam memory card was original, unaltered, and continuous.

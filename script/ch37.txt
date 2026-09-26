@@ -1,0 +1,128 @@
+# 37 | Lantern
+
+[music] m_tension -8
+[amb] amb_office_hum
+[img] a secure conference room deep in a government building, a long table with delegations from many nations, flags small on the table, tense faces, no windows, cinematic
+[loc] Brussels — November 2042
+N: The Basel bomb did what Julian Ashcombe had said it would do. It made Albert Wesker do something in public that he had not chosen.
+N: It did not do what he had hoped.
+N: Seventeen billion people had watched a man stand up out of the smoke and ask whether everyone was all right. Most of them had loved him for it. But in ten capitals, a much smaller number of people had watched the same four seconds and noticed something else entirely: that a device of that size, at that distance, should have killed him, and that he had brushed his shoulder.
+[pause 1.5]
+[img] a formal document cover page reading JOINT TASK FORCE LANTERN with the seals of several nations, on a dark table, cinematic
+N: Joint Task Force Lantern was formed in November of twenty forty-two, eight months after Basel. Its founding members were the United States, the United Kingdom, France, Germany, Japan, and Canada. Its remit, in the classified annex that mattered, was to determine the nature and capabilities of the individual known as Albert Wesker, and to develop options.
+N: It had, from the first week, a serious problem. Nine of the fourteen intelligence services that contributed to it were in countries where Umbrella was among the largest employers, and all fourteen were in countries whose populations had been vaccinated by Umbrella twice.
+[img] {CARRICK} in his fifties in a plain suit sitting at the end of a long conference table, weathered and calm, a jam jar visible in an evidence bag in front of him, cinematic
+N: Its senior investigator was a fifty-four-year-old American civilian contractor named Owen Carrick, who had been dismissed from the FBI fifteen years before for breaking into an Umbrella facility, and whose personnel file the French had insisted on reading in full before agreeing to his appointment, and who had brought with him, into the most secure conference room in Brussels, a jam jar containing fifteen flattened bullets.
+N: He put it on the table at the first meeting, and did not explain it, and did not have to.
+[pause 1.5]
+[img] {HADDAD} presenting to a room of intelligence officials, a screen behind her showing twenty red dots on a world map, grave, cinematic
+N: Samira Haddad joined in the second month, on secondment from the World Health Organization, which believed she was writing a review of pandemic preparedness governance.
+N: Ingrid Halvorsen, seventy-four, funded four of the task force's outside investigators through a Norwegian foundation, and never attended a meeting, and read every report.
+N: And Julian Ashcombe, who had killed four people in a Swiss square and would not have another peaceful night as long as he lived, was not invited, and sent them everything he had anyway.
+[pause 2.0]
+
+[music] m_scheme -10
+[img] a wall of screens in a task force operations room showing satellite images, financial flows, and a photograph of a white ocean city, analysts working, cinematic
+N: Lantern spent two years doing what such organisations do. It mapped. It watched. It compiled.
+N: It established that Umbrella Life Sciences had, by twenty forty-four: four hundred and eighty thousand direct employees; a market value larger than the combined stock markets of Germany and Japan; the sole manufacturing capacity for eight medicines without which the health systems of forty countries would fail within a month; a private security force of nineteen thousand with its own naval and air assets; a sovereign-in-practice territory in the Atlantic with a hundred and sixty thousand residents; controlling influence over the regulatory regime of the world's pharmaceutical capital; classified contracts with the defence establishments of nine nations; and a joint research venture with the People's Republic of China.
+N: It established that there were, somewhere, laboratories that did not appear in any filing. It could not establish where.
+N: And it established, from four separate sources over two years, that Umbrella possessed at least one and possibly several biological assets of a kind that had no precedent, and which two of the sources described, independently, using the same word.
+[img] a classified report page with a single word visible in the summary: TYRANT, cinematic macro
+N: Tyrant.
+[pause 2.0]
+
+[music] m_horror -8
+[amb] amb_wind -8
+[img] the Nevada desert at dawn from the air, a low concrete data centre compound with a fence, empty desert in all directions, cinematic
+[loc] The Mojave Desert — 3 June 2044
+N: The raid was authorised by three governments and executed by none of them.
+N: It was, on paper, a warrant. A federal magistrate in Nevada, presented with two years of Lantern's work by a Justice Department that had been fighting internally about it for sixteen months, signed a search warrant for the Ashford Pacific data centre at four in the morning on the third of June, twenty forty-four.
+N: It was served by two hundred and forty people: an FBI Hostage Rescue Team, a Department of Energy nuclear emergency support team, a CDC containment unit, and — under an arrangement that thirteen lawyers had spent four months constructing — sixty soldiers from a United States Army unit that does not appear in the budget.
+N: They came at dawn. They came with helicopters, and armoured vehicles, and drones, and they came, unlike twelve Russians fourteen years before, entirely in the open, with a warrant, on live television.
+[img] a long convoy of black vehicles and helicopters approaching a desert compound at dawn, dust rising, news helicopters filming from a distance, cinematic
+N: That was Carrick's insistence, and it was the single smartest thing anyone in Lantern ever did. He had told them: he can beat you in the dark. He has done it to me. He cannot beat four hundred cameras.
+N: Umbrella did not resist. The gates were opened for them. Hale was waiting in the lobby with a hand on his chest, in a black uniform, and said good morning, and offered them coffee.
+[pause 1.5]
+[img] federal agents in tactical gear descending a concrete stairwell into an underground facility, flashlights, dust, empty rooms, cinematic
+N: They went down four levels. They found servers, and cooling plants, and empty concrete rooms. They found a fourth level with bolt holes in the floor in a rectangle six feet by six, and a faint smell of cold.
+N: They found nothing else at all.
+N: Umbrella had known about the warrant for nine days, because a deputy assistant attorney general had told a lobbyist, who had told a man on Umbrella's advisory board, who had told Pell.
+[pause 2.0]
+
+[music] m_action -6
+[amb] amb_wind -6
+[img] a distant view of a desert compound at dawn with a convoy outside, and beyond it on the horizon a long low dust plume approaching, cinematic
+[loc] 6:11 a.m.
+N: What happened at fourteen minutes past six has been the subject of four national inquiries and one international one, and none of them has ever established, to anyone's satisfaction, who fired first.
+N: There were two hundred and forty federal personnel on the site. There were, at the perimeter, nineteen Umbrella Security Service officers who had been instructed by Hale, in writing, to render every assistance and to remain unarmed.
+N: And on the access road, arriving twelve minutes after the raid began, was a convoy of four Umbrella vehicles that no one at Lantern had known about, carrying an asset that had been moved out of the desert complex six days before and was being brought back, because the Director had decided that the world was ready to see one.
+[pause 1.5]
+[sfx] sfx_gunfire_burst g-8
+[sfx] sfx_alarm g-10
+[img] chaotic body-camera footage style image of desert dawn, muzzle flashes, men shouting, a huge grey shape rising in the dust behind a vehicle, cinematic
+N: The firing lasted nineteen seconds. Two federal agents were wounded, one seriously. Eleven Umbrella officers were killed, all of them from the Shop, all of them standing exactly where they had been told to stand, none of them armed.
+N: And then the door of the second vehicle opened.
+[pause 2.0]
+[music] stop
+[sfx] sfx_tyrant_footstep
+[pause 1.5]
+[img] a colossal grey nine-foot humanoid figure stepping down from an armoured transport into desert dawn light, dust swirling, federal agents frozen in shock, news helicopter view, cinematic
+[sfx] sfx_tyrant_growl g-6
+N: The footage from the news helicopter is four minutes and eleven seconds long, and it is the most-watched video in the history of the human species.
+N: It shows a nine-foot grey figure stepping down out of an armoured transport in the Mojave Desert at dawn, in front of two hundred and forty federal officers, on live television, in colour.
+N: It does not attack. That is the thing that every commentator for the next twenty years would come back to. It steps down, and it stands, and it looks at them — two hundred and forty people with rifles — and it does nothing at all.
+[pause 2.0]
+[img] {WESKER} walking calmly out of the dust past a colossal grey figure toward a line of federal agents, hands visible and empty, cinematic
+N: And then a man in a black coat walks out of the dust behind it, past its right hand, toward the federal line, with his hands open and visible, and stops, and says — to a Hostage Rescue Team commander who has aimed at a great many things in his career and has never in his life been so frightened:
+[music] m_sermon -8
+WESKER: Lower your weapons. Nobody else needs to die in a car park today.
+[pause 1.5]
+WESKER: My name is Albert Wesker. This is a biological containment asset, developed under contract to the Department of Defense. I have the contract numbers. I have the clearance. And eleven of my unarmed officers are dead on that road.
+[pause 1.0]
+WESKER: Now. Shall we continue the inspection?
+[pause 3.0]
+
+[music] m_horror -8
+[amb] amb_office_hum
+[img] a world map of television screens all showing the same image of a giant grey humanoid in the desert, panels of experts arguing, breaking news chyrons in many languages, cinematic
+N: The world did not sleep for a week.
+N: The thing in the Mojave had a name within nine hours, because Umbrella gave it one. Not Tyrant. Umbrella's statement — released at nine that morning, before any government had said anything at all — described it as a Class Four Biological Containment Asset, developed under classified contract for the United States Department of Defense, designed to operate in environments lethal to human responders.
+N: The Pentagon confirmed the contract that afternoon, because the contract was real, and because Martin Sloane, now sixty-eight and three years from retirement, had spent seven hours on the telephone making sure that it would.
+[img] a congressional hearing room packed with cameras, a Pentagon official being sworn in, senators grim, cinematic
+N: What followed was not a scandal about Umbrella. It was a scandal about the government.
+N: For six weeks, the story was that the Department of Defense had secretly funded the development of engineered biological soldiers, had lied to Congress about it, and had then sent two hundred and forty federal officers to raid the facility of the contractor it had itself commissioned, killing eleven unarmed men. Two committee chairs demanded the Secretary's resignation. The Justice Department opened an investigation into the leak that had given Umbrella nine days' warning, and found the lobbyist, and the deputy assistant attorney general, and the story became, for another three weeks, about that.
+N: Joint Task Force Lantern was not disbanded. It was worse than disbanded. Two of its six member states withdrew. The remaining four were instructed, by their own governments, to restrict their work to legal and regulatory measures.
+[pause 2.0]
+[img] {CARRICK} standing alone in an empty Brussels conference room after everyone has left, papers on the table, the jam jar in front of him, cinematic
+N: Owen Carrick sat alone in the conference room in Brussels after the meeting at which he was told, and looked at the jam jar for a long time.
+N: He had been right for fourteen years. He had finally got four hundred cameras onto it, and the whole world had seen the thing with its own eyes, in colour, at dawn.
+N: And the world had watched a nine-foot grey giant step down out of a truck in front of two hundred and forty armed men and stand there doing nothing while an unarmed man in a coat asked them to lower their weapons — and had concluded, by a margin of about four to one in every poll taken in every country that summer, that the dangerous people in that video were the ones with the rifles.
+[pause 2.0]
+[sfx] sfx_system_open
+[system] ASSESSMENT
+Coalition — fractured: Joint Task Force Lantern
+Public disclosure — controlled: biological asset
+Governments — leverage: 171 of 193
+Reward: 400,000,000 Points
+[say] Assessment. Coalition fractured.
+[/system]
+[pause 1.5]
+
+[music] m_sad -8
+[amb] amb_wind -10
+[img] twenty-two flag-draped coffins in a row on a desert airfield at dawn, an honour guard of black-uniformed security officers, a tall figure in black standing alone at the end of the row, cinematic
+[loc] Arklay Free Territory — 11 June 2044
+N: The eleven dead officers were brought to Arklay and buried at sea with full honours, in front of forty thousand people.
+N: The Director spoke for two minutes. It was the shortest and best speech of his life, and Tomás Reyes, watching from the production booth, understood while it was happening that it would be studied for a thousand years.
+N: He did not mention the government. He did not mention the raid. He named the eleven men, one at a time, and said what each of them had done at their posts that morning, which was: exactly what they had been told, and nothing else.
+N: Then he said the only sentence anyone remembers:
+[pause 1.5]
+WESKER: They stood in the open, unarmed, because I asked them to. I will not ask it again.
+[pause 3.0]
+[img] forty thousand people standing in silence on the terraces of an ocean city, hands on hearts, eleven coffins going into the sea, grey ocean, cinematic
+N: Nineteen governments issued statements of condolence. Four hundred thousand people applied to join the Umbrella Security Service in the following month.
+N: And in a room on the fourth floor of an imaginary brick building, behind a door with no name, the old voice said nothing at all — because for the first time in eighteen years, it did not need to explain anything to the other one.
+N: They had both understood the same sentence at the same moment, in the same way.
+N: I will not ask it again.
+[pause 3.0]
+[music] stop

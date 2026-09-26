@@ -109,7 +109,7 @@ N: Catherine Adeyemi had asked for three things. She got two.
 N: She became chief financial officer on the first of April. She received her equity, on terms Pell drafted and she tore up and redrafted twice, and which were, in the end, extraordinarily generous. She took an office on the eleventh floor of the tower with a view of the river, and hired a team of eight from Verdant's old finance department, and within a month she had rebuilt the public accounts of Umbrella Life Sciences into something she could have shown to a regulator in London with a straight face.
 N: The third thing — where the money actually went — she believed she had as well. That was the beauty of it.
 [img] a financial spreadsheet on a monitor with a highlighted line reading ARKLAY COLD ARCHIVE INFRASTRUCTURE and a large figure, cinematic macro
-N: In May she found a line in the consolidated capital budget that she did not recognise. Arklay: cold archive infrastructure. Eleven million dollars, capitalised, depreciated over twenty years, booked through a Nevada subsidiary she had not set up.
+N: In May she found a line in the consolidated capital budget that she did not recognise. Arklay: cold archive infrastructure. Six million dollars, capitalised, depreciated over twenty years, booked through a Nevada subsidiary she had not set up.
 N: She went to the Director with it.
 [pause 0.5]
 [img] {CATHERINE} placing a printout on {WESKER}'s desk in a corner office, both looking at each other, direct, cinematic

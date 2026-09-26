@@ -168,7 +168,7 @@ WESKER: The company, Walter, is in administration in London, and the people who 
 [pause 1.0]
 N: Walter looked at him for a long moment. There was something in the old guard's face — not fear, exactly. Recognition. The expression of a man who had served under officers his whole life and had learned to tell, instantly, the difference between the ones who were playing at it and the ones who were not.
 WALTER: Yes, sir.
-N: He had not called anyone sir in eleven years.
+N: He had not called anyone sir in seven years.
 [sfx] sfx_footsteps
 N: He went. And halfway down the corridor, alone with the rain, he said quietly to nobody at all:
 WALTER: (soft) Different animal.

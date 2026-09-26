@@ -55,7 +55,7 @@ WESKER: No. It doesn't. Tell me about the freezers, Doctor Okafor.
 [amb] amb_lab
 [img] a basement room full of old minus-eighty freezers with frost on the doors, handwritten labels, flickering fluorescent tubes, cinematic
 N: The freezers were in the basement.
-N: There were eleven of them, humming in two rows under flickering tubes, and inside them was the only thing of value the dying company had left: thirty years of cell lines, tissue samples, and viral isolates, collected by Umbrella's British parent from places most people could not find on a map, and catalogued in handwriting that only three living people could read.
+N: There were fourteen of them, humming in two rows under flickering tubes, and inside them was the only thing of value the dying company had left: thirty years of cell lines, tissue samples, and viral isolates, collected by Umbrella's British parent from places most people could not find on a map, and catalogued in handwriting that only three living people could read.
 [sfx] sfx_cryo_hiss g-8
 [img] frosted plastic sample boxes and vials in a freezer rack, vapor spilling out, a gloved hand, macro, cinematic
 NADIA: Most of it's junk. Some of it isn't. There are isolates in here nobody else in the world has, because the places they came from don't exist anymore. Verdant Axis has been sniffing around it for a year. And a contract research company in Shenzhen sent us an email in August asking what we'd take for the lot.
@@ -80,7 +80,7 @@ FENWICK: (phone) Doctor Wesker, I'm afraid there isn't a great deal to discuss. 
 WESKER: The sample archive is worth nothing without the people who can read it.
 [pause 0.4]
 FENWICK: (phone) I'm sorry?
-WESKER: Eleven freezers. Four thousand boxes. The labels are handwritten, in abbreviations that were never written down, by scientists who are retired or dead. The three people alive who can read them work for me. On Friday, they won't. And your buyer will own four thousand boxes of anonymous ice.
+WESKER: Twelve freezers. Four thousand boxes. The labels are handwritten, in abbreviations that were never written down, by scientists who are retired or dead. The three people alive who can read them work for me. On Friday, they won't. And your buyer will own four thousand boxes of anonymous ice.
 [img] a tired British executive in a London office at dusk, loosened tie, phone to his ear, rain on the window, Thames lights outside, cinematic
 N: It was not entirely true. It was true enough. And it had the great virtue, in Fenwick's ears, of being a problem that would take a long time to disprove.
 FENWICK: (phone) What are you proposing?
@@ -140,7 +140,7 @@ N: It moved the way money moves when nobody is quite sure it should: slowly at f
 [img] a bank transfer confirmation on a laptop screen in a dark office, green checkmark, glowing numbers, cinematic
 N: One point two million dollars from Verdant Axis Therapeutics, into escrow. Four hundred thousand from escrow to Harrow and Lisle, in London, where Peter Fenwick signed a transfer of assets at five in the morning his time and went back to bed. And the rest — eight hundred thousand dollars — into the account of a company that had not existed on Monday.
 [sfx] sfx_mouse_click
-N: At eleven fifty-eight, Dana Whitfield pressed a button, and the payroll of Division Seven went out on time.
+N: At nine fifty-eight, Dana Whitfield pressed a button, and the payroll of Division Seven went out on time.
 [pause 1.0]
 [img] {DANA} alone in a dark office lit by a monitor, hand over her mouth, eyes wet, cinematic
 N: She did not cry. She wanted that noted, later, when she told the story. She went out to the parking lot and sat in her car for a while with the engine off, and she did not cry at all.

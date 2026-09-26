@@ -23,7 +23,7 @@ WESKER: For once, Adolf, we agree.
 [music] m_scheme -8
 [img] {HALVORSEN} a tall silver-haired woman in a white suit standing at a floor-to-ceiling window in a Basel office overlooking the Rhine, arms folded, formidable, cinematic
 N: Halvorsen Pike was run by a woman named Ingrid Halvorsen, and the company carried her great-grandfather's name.
-N: She was sixty-four. She had been born in Bergen, trained as a heart surgeon in Oslo and at Johns Hopkins, and had operated for eleven years before she moved into the family business, because her brother had died and there was no one else. She had run Halvorsen Pike for sixteen years. She was brilliant, and cold, and completely fearless, and she had faced down governments, activist investors, and the European Commission, and she had never once lost.
+N: She was sixty-four. She had been born in Bergen, trained as a heart surgeon in Oslo and at Johns Hopkins, and had operated for sixteen years before she moved into the family business, because her brother had died and there was no one else. She had run Halvorsen Pike for sixteen years. She was brilliant, and cold, and completely fearless, and she had faced down governments, activist investors, and the European Commission, and she had never once lost.
 N: She had not known about the break-in. That was the truth, and the Director knew it. Simon Ferris had gone through a budget she never saw, to a consultant she had never heard of, and she had learned about Nevada and Wilmington only when a young man from Umbrella's digital department had arranged — anonymously — for a national newspaper to learn about it first.
 N: It did not matter. She was the chief executive. It was her company. The debt was hers.
 [pause 1.5]
@@ -35,7 +35,7 @@ N: It did not matter. She was the chief executive. It was her company. The debt 
 N: They met in Davos, in January, because everyone meets in Davos.
 N: It was the week of the World Economic Forum, when the chief executives of the thousand largest companies on Earth, and a few dozen heads of government, and a great many people who wanted to stand near them, gather in a small ski town in the Swiss Alps to discuss, in panels and at dinners and in private chalets, how the world should be run. The Director had been invited for the first time. He had declined to speak on any panel. He had accepted every private meeting.
 [img] an elegant private wooden chalet interior with a roaring fire and snowy windows, {HALVORSEN} seated in an armchair, {WESKER} standing by the fire, cinematic
-N: Ingrid Halvorsen received him in a private chalet above the town, at eleven at night, by a fire. She did not offer him a drink. She did not stand up.
+N: Ingrid Halvorsen received him in a private chalet above the town, at thirteen at night, by a fire. She did not offer him a drink. She did not stand up.
 HALVORSEN: Let me save us both some time, Doctor Wesker. I know why you're here. You're going to tell me that Umbrella would like to acquire my company. You're going to call it a merger of equals, and we both know there is no such thing. And I'm going to tell you no.
 WESKER: That's very efficient.
 HALVORSEN: I was a surgeon. We don't talk while the patient bleeds.
@@ -74,7 +74,7 @@ N: Catherine Adeyemi read the rights plan at her desk on the eleventh floor, and
 
 [music] m_corporate -8
 [img] {CATHERINE} at a whiteboard in a glass war room covered in diagrams of shareholder percentages, proxy votes and board seats, a team of analysts around her, energized, cinematic
-N: The war that followed lasted eleven weeks, and it was fought, as all such wars are now fought, almost entirely in documents.
+N: The war that followed lasted six weeks, and it was fought, as all such wars are now fought, almost entirely in documents.
 N: Catherine ran it from a glass war room on the eleventh floor, with thirty analysts, four investment banks, three law firms, and the particular brilliance of a woman who had spent her whole career watching men like Ingrid Halvorsen defend companies like Halvorsen Pike, and knew every move before it was made. If the poison pill stopped Umbrella buying shares, then Umbrella would not buy shares. It would buy votes. Halvorsen Pike's annual meeting was in May. At it, four of the company's twelve directors were up for election. Umbrella would nominate four of its own, and persuade the shareholders — the pension funds, the index funds, the sovereign wealth funds that owned most of the company — to elect them. And once Umbrella's directors were in the room, they would make the case, from the inside, for removing the pill.
 N: It was called a proxy fight. It was the oldest weapon in corporate America. And Catherine had never enjoyed anything so much in her life.
 [pause 1.0]
@@ -111,16 +111,16 @@ CARRICK: (phone) I know who you are.
 HALVORSEN: (phone) I've read everything that was ever written about you. The dismissal. The bank account. The bullets. I've read it all, and I've read it the way a surgeon reads a chart. And I have concluded, Mister Carrick, that you were not having a breakdown.
 [pause 1.5]
 N: Owen Carrick sat down very slowly on the edge of his bed.
-N: In eleven months, he had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest. Every one of them had been kind. Not one of them had said what she had just said.
+N: In fourteen months, he had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest. Every one of them had been kind. Not one of them had said what she had just said.
 CARRICK: (phone) (soft) Why are you calling me?
 HALVORSEN: (phone) Because I am going to lose this vote. And when I lose it, he will own the second-largest pharmaceutical company on Earth, and a hundred and eighty thousand people, and forty years of research that my family has spent a century building. And I have decided that I would rather spend what I have left of it finding out what he is.
 [pause 1.5]
-HALVORSEN: (phone) You said once — I read it in a deposition — that someone would have to stop him who wasn't you. I'm not you, Mister Carrick. I have eleven billion dollars in cash, and lawyers in forty countries, and friends in the European Commission. And I would like to hire you.
+HALVORSEN: (phone) You said once — I read it in a deposition — that someone would have to stop him who wasn't you. I'm not you, Mister Carrick. I have twelve billion dollars in cash, and lawyers in forty countries, and friends in the European Commission. And I would like to hire you.
 [pause 2.0]
 [img] {CARRICK} sitting on the edge of a bed in the dark holding a phone, looking at a jam jar of flattened bullets glinting in streetlight on the windowsill, cinematic
 N: Carrick looked at the jam jar on the windowsill, where fifteen pieces of flattened lead caught the orange light from the street.
 N: He had told Hannah Price, six months before, that they would need to find someone who was not them. He had not imagined it would be a Norwegian heart surgeon with a pharmaceutical company.
-N: He had not imagined, either, that the voice at the back of his mind — the careerist, the one that had wanted to go to Washington, the one he had thought was dead — would stir at the sound of eleven billion dollars, and sit up, and pay attention.
+N: He had not imagined, either, that the voice at the back of his mind — the careerist, the one that had wanted to go to Washington, the one he had thought was dead — would stir at the sound of nine billion dollars, and sit up, and pay attention.
 CARRICK: (phone) When do I start?
 [pause 3.0]
 [music] stop

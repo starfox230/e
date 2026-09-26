@@ -73,7 +73,7 @@ Points: 900
 [img] {HALE} standing motionless in the lobby of an old research building at dawn, hands clasped in front, facing the door, cinematic
 [loc] Thursday, 6:00 a.m.
 N: Hale was waiting in the lobby when the building opened.
-N: He was tall and broad through the shoulders, with a shaved head and a black suit cut to hide the fact that he was built like a door. He had a folder of credentials that said he had spent eleven years in the Army and six in private security, all of it verifiable, all of it perfect. He had a firm handshake and a pleasant enough face.
+N: He was tall and broad through the shoulders, with a shaved head and a black suit cut to hide the fact that he was built like a door. He had a folder of credentials that said he had spent seventeen years in the Army and six in private security, all of it verifiable, all of it perfect. He had a firm handshake and a pleasant enough face.
 N: It was just that nobody could remember seeing him blink.
 [img] {DANA} shaking hands with {HALE} in a lobby, her polite smile slightly frozen, his face expressionless, cinematic
 DANA: Mister — Hale, is it? Welcome. I'll get you a badge.
@@ -126,7 +126,7 @@ N: It would sit in a state database for three and a half years, until someone fr
 [amb] amb_night_city
 [img] a small crowded local newsroom at night, stacks of papers, a young woman journalist at a desk with two monitors showing property records, cinematic
 N: Hannah Price found him through the property records.
-N: She was thirty-one, a reporter at the Wilmington Ledger, which had once had a newsroom of ninety and now had eleven. She covered business, courts, the city council, and anything else that happened when the other ten were busy. She had been writing a short piece about the collapse of a British company called Umbrella Holdings — local angle, jobs at risk, the usual — when she noticed that a building on the south bank had just sold for two point nine million dollars to an LLC that was nine days old.
+N: She was thirty-one, a reporter at the Wilmington Ledger, which had once had a newsroom of ninety and now had ten. She covered business, courts, the city council, and anything else that happened when the other ten were busy. She had been writing a short piece about the collapse of a British company called Umbrella Holdings — local angle, jobs at risk, the usual — when she noticed that a building on the south bank had just sold for two point nine million dollars to an LLC that was nine days old.
 [img] {HANNAH} studying a printout of a real estate transaction under a desk lamp, pen in her teeth, focused, cinematic
 N: Then she noticed that the same LLC had just signed a licence with a Chinese contract research company. Then she noticed that Verdant Axis — the biggest biotech in the county — had quietly booked a one-point-two-million-dollar charge in its latest filing for, quote, research access.
 N: Then she called the number on the LLC's registration, and a woman named Dana said the Director would be happy to have coffee.
@@ -144,7 +144,7 @@ WESKER: Because the first half ended on a question, and you don't strike me as s
 [pause 0.8]
 [img] close-up of {HANNAH}'s face, sharp eyes, half-smile of reluctant respect, neon light, cinematic
 N: She smiled despite herself. She would think about that later, and be annoyed.
-N: The Cold-Read gave him Hannah Price in pieces. Intelligence, first, bright and quick. Hunger — not for money, for the story that would get her out of an eleven-person newsroom before it became a six-person one. Suspicion, which he liked. And something rarer, that took him a moment to name, because he had so seldom seen it in his old world: she was not afraid of him.
+N: The Cold-Read gave him Hannah Price in pieces. Intelligence, first, bright and quick. Hunger — not for money, for the story that would get her out of an fifteen-person newsroom before it became a six-person one. Suspicion, which he liked. And something rarer, that took him a moment to name, because he had so seldom seen it in his old world: she was not afraid of him.
 N: Not yet.
 HANNAH: So. Who are you, Doctor Wesker? Nine days ago, a dead British company's lab in an industrial park. Today, a building, a licence in China, and Verdant Axis's money. That's a very good nine days.
 WESKER: It's a very good story. It's not the best one in this town.

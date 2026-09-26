@@ -1,0 +1,135 @@
+# 34 | Arklay Free Territory
+
+[music] m_system -6
+[amb] amb_office_hum
+[img] a glowing holographic model of a vast circular floating city on the ocean, concentric rings of white towers, rotating slowly in a dark room, cinematic
+[loc] 2038
+[system] FACILITY AVAILABLE
+Oceanic Arcology
+Displacement: 41,000,000 tonnes
+Capacity: 180,000 residents
+Self-sustaining: power, water, food, manufacture
+Cost: 90,000,000
+[say] Facility available. Oceanic arcology.
+[/system]
+N: It had been in the Shop for two years. He had looked at it the way a man looks at a house he cannot yet afford, walking past it on the way to work.
+N: In the spring of twenty thirty-eight, he could afford it.
+[sfx] sfx_mouse_click
+[system] PURCHASE CONFIRMED
+Oceanic Arcology
+Designation: assigned by Host
+Location: assigned by Host
+[say] Purchase confirmed.
+[/system]
+N: The System asked him for two things. A place, and a name.
+N: The place took eleven seconds. Two hundred and forty nautical miles west of the Azores, in international waters, on a shallow seamount that no nation had ever claimed, at the intersection of three of the busiest shipping lanes on Earth.
+N: The name took longer.
+ADOLF: Name it for yourself.
+WESKER: No.
+ADOLF: Every founder in history has named the capital for himself. Alexandria. Constantinople. Saint Petersburg.
+WESKER: And every one of them told the world exactly what to hate. Name a city for a man and you have given his enemies a target with a face.
+[pause 1.0]
+WESKER: Besides. There's only one name it can have.
+[pause 1.5]
+[img] an enormous engraved steel plate on a sea wall reading ARKLAY FREE TERRITORY with a red and white umbrella emblem beneath it, ocean spray, dawn light, cinematic
+N: Arklay Free Territory.
+N: It appeared over sixteen months — which is impossible, and which the world's newspapers wrote a great deal about, and for which Umbrella's engineering division provided a complete and entirely convincing explanation involving modular construction, thirteen shipyards in four countries, and a new class of deep-sea concrete. Every element of the explanation was real. Every shipyard existed. Every contract was public.
+N: The arcology itself had simply arrived, in the way that everything from the Shop arrived, and the shipyards had been building the parts that were photographed.
+[pause 1.5]
+
+[music] m_dawn -8
+[amb] amb_wind -8
+[img] an enormous white floating city on the open ocean seen from a helicopter at dawn, concentric rings, towers, green terraces, harbours full of ships, breathtaking, cinematic wide shot
+N: It was, and remains, the most beautiful thing Albert Wesker ever built.
+N: Three concentric rings, four kilometres across, rising out of the Atlantic like something grown rather than made. White terraces stepped down to the water. Farms under glass on the outer ring, feeding a hundred and eighty thousand people. A harbour that could take the largest container ships afloat. Desalination, geothermal boreholes into the seamount, and a fusion-adjacent reactor whose design did not exist anywhere else on Earth, and which the International Atomic Energy Agency was invited to inspect four times and pronounced, each time, safe and unprecedented.
+N: There were no cars. There were gardens on every level, and a hospital that took anyone who reached it, and schools, and a concert hall, and six kilometres of beach made of sand dredged from the seamount. The apartments were given to employees by lottery. They were free.
+[img] families walking along a seafront promenade in a gleaming white city on the ocean, children running, sunset over water, hopeful and beautiful, cinematic
+N: Four hundred thousand people applied to live there in the first month. Umbrella took fourteen thousand, and then twenty thousand more, and by the end of twenty thirty-nine the population was ninety-one thousand, and the waiting list was two and a half million names long.
+[pause 2.0]
+
+[music] m_corporate -8
+[img] a UN Security Council chamber mid-session, delegates at the horseshoe table, a screen showing an image of the ocean city, tense argument, cinematic
+[loc] United Nations, New York — September 2038
+N: The legal question took four years and was never really answered.
+N: Arklay was not a state. Umbrella never claimed it was. It had no flag at the United Nations, no army, no currency of its own, and no citizens — only residents, who kept whatever passports they had arrived with. It was, in the careful language of Umbrella's forty-page submission to the International Maritime Organization, a privately owned floating structure operating in international waters under the flag of a small Pacific nation that had been very glad of the registration fees.
+N: In practice it was a country. It had a hundred thousand people, a police force, a court, a hospital system, a school system, and a border. It issued residency, and residency was the most valuable document on Earth. And it answered to precisely one man, who had never been elected, and never would be.
+[img] a stern diplomat speaking at a UN podium with a translation earpiece, delegates listening, flags behind, cinematic
+N: The Security Council debated it in September. Three of the five permanent members needed Umbrella's vaccines. One needed Umbrella's investment. The fifth was China, and the Chinese ambassador, on instructions that had been drafted personally by a deputy minister of state security named Wen Shulan, gave a speech of exquisite length about the freedom of the seas, and proposed a study.
+N: The study reported in twenty forty-two. By then, Arklay had a hundred and forty thousand residents and its own orchestra.
+[pause 2.0]
+
+[music] m_rain_piano -8
+[amb] amb_wind -10
+[img] {CATHERINE} walking alone along a white promenade of an ocean city at dusk, other people strolling past her smiling, her expression troubled, cinematic
+[loc] Arklay Free Territory — June 2039
+N: Catherine Adeyemi came out for the opening of the concert hall, and stayed for a week, and it was the week that broke her.
+N: It was not the arcology. The arcology was extraordinary, and she said so publicly, and meant it. It was not the schools, which were the best she had ever seen, or the hospital, which took anyone. It was the fourth morning, on the promenade, at about seven, when she went out for a run.
+[img] hundreds of people of all ages jogging together along a seafront at dawn in loose formation, all in matching white and red, moving in step, unsettling, cinematic
+N: There were perhaps four hundred people out running. That was not strange; it was a beautiful morning. What was strange was that they were running in step.
+N: Nobody had organised it. There was no instructor, no music, no app. Four hundred people of different ages and different countries, out for a private run at seven in the morning, had fallen into the same stride, the way soldiers do, and were going around the ring of the city together in a long loose column, and none of them appeared to have noticed.
+N: She stopped running. She stood at the rail with her hands on her knees and watched them go past. And she looked at their faces.
+[img] extreme close-up of a jogger's face, pleasant and relaxed, eyes bright and slightly too still, passing the camera, uncanny, cinematic
+N: They were happy. That was the worst of it. They were perfectly, genuinely happy — the loose, uncomplicated happiness of people who have a good job and a free apartment and a school for their children and no rent and no fear, in the most beautiful city on Earth.
+N: And their eyes were a little too bright, and they did not blink quite enough, and there were a hundred and forty thousand of them.
+[pause 2.0]
+[img] {CATHERINE} sitting alone on a hotel balcony at night above a glittering ocean city, a burner phone in her hand, the sea black beyond, cinematic
+[amb] amb_ship_hum -14
+N: She called Ashcombe that night, from the balcony, on a phone she had bought in Lisbon.
+CATHERINE: (phone) Julian, I've been sending you numbers for six years. Money, subsidiaries, transfers, all of it. You've built a picture out of money.
+ASHCOMBE: (phone) A rather good picture.
+CATHERINE: (phone) It's the wrong picture. The money is the least of it. The money is the part he lets me see.
+[pause 1.0]
+ASHCOMBE: (phone) Then what should I be looking at?
+[pause 1.5]
+CATHERINE: (phone) (soft) Look at the people, Julian. There are a hundred and forty thousand people on this rock in the middle of the Atlantic, and this morning four hundred of them went for a run in step, and not one of them noticed. There's a school here where the children say the Creed before the pledge to whatever country their parents came from. Half the residents have taken the longevity therapy, and it's free here, and it isn't free anywhere else, and do you understand what that means? It means nobody ever leaves. It means in forty years there will be a hundred and forty thousand people in the middle of the ocean who owe him their lives, literally, in the most exact possible sense, and who have never voted for anything.
+[pause 1.5]
+ASHCOMBE: (phone) Catherine. Are you safe?
+[pause 2.0]
+CATHERINE: (phone) I genuinely don't know anymore.
+[pause 2.5]
+
+[music] m_horror -10
+[amb] amb_office_hum
+[img] {WESKER} standing at a high window of a white tower looking down over a vast ocean city at night, lights in a hundred thousand windows below, cinematic
+N: He felt her decide, from four hundred metres above.
+N: That was what Banner-Sense did. It had been three years, and he had learned to read it the way a sailor reads water. A hundred and forty thousand people below him in the dark, each one a small steady light — and one of them, in a hotel on the second ring, was flickering.
+N: He could have stopped it. It would have taken a telephone call.
+[pause 1.5]
+ADOLF: End it tonight.
+WESKER: No.
+ADOLF: She is going to destroy you. Not for money. Not for a rival. For conscience. That is the only kind that cannot be bought back.
+WESKER: I know exactly what she's going to do. She's going to tell Julian Ashcombe that the money is the wrong picture, and Julian Ashcombe is going to start looking at the people, and in about four years he is going to arrive at the truth, and then he is going to try to kill me.
+ADOLF: (cold) And you will allow this.
+WESKER: I'm going to allow it because I want to know what they do when they finally understand. I've spent thirteen years being the only person who knows what happens next. I'd like to be surprised once more before I stop being surprised for ever.
+[pause 1.5]
+ADOLF: (slow) That is not a reason. That is boredom.
+[pause 1.0]
+WESKER: (soft) Yes.
+[pause 2.0]
+N: It was the most honest thing he had said in nine years, and it frightened both of them.
+[pause 2.0]
+
+[music] m_march -10
+[amb] amb_crowd_murmur -8
+[img] a vast parade ground on an ocean city at dawn with ten thousand uniformed security personnel standing in formation, ranks of black uniforms with red and white emblems, cinematic
+[loc] Arklay — the U.S.S.
+N: And there was one more thing on Arklay, which was not in any of the brochures.
+N: The Umbrella Security Service had existed since twenty thirty. For most of its life it had been what it said it was: corporate security, twelve thousand guards at four hundred sites, most of them retired police officers in blazers.
+N: On Arklay it became something else, because on Arklay there was no other police force, and no other coastguard, and no other port authority. By twenty thirty-nine the U.S.S. had nineteen thousand personnel, its own vessels, its own aircraft, and a rank structure that had quietly stopped using civilian titles.
+[img] {HALE} in a black uniform inspecting a rank of motionless security personnel on a parade ground at dawn, nobody blinking, cinematic
+N: Hale commanded it. He had been a security specialist bought from the Shop for two thousand Points in a basement in twenty twenty-six, and he had never once been promoted, because he had never once needed to be. He simply had more people under him every year.
+N: Four thousand of the nineteen thousand had come from the Shop. They stood in the front ranks at inspection, and they did not blink, and the human officers had long ago stopped mentioning it, because the ones who mentioned it did not get promoted.
+[pause 1.5]
+[sfx] sfx_system_open
+[system] ASSESSMENT
+Territory — sovereign in practice: Arklay Free Territory
+Population — fanaticism: 140,000
+Armed force — established: Umbrella Security Service
+Reward: 120,000,000 Points
+[say] Assessment. Territory. Sovereign in practice.
+[/system]
+N: Territory. Not facility. Not asset. Territory.
+N: It was the first time the System had used that word since a diner in Wilmington, in twenty twenty-six, when a landlord had signed away a four-storey brick building for two point nine million dollars.
+N: The Adolf half of the mind had waited thirteen years to see it again.
+[pause 3.0]
+[music] stop

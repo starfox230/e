@@ -1,0 +1,136 @@
+# 33 | Pale Horse
+@movement V | The Visible King
+
+[music] m_horror -10
+[amb] amb_night_city
+[img] a hospital corridor at night seen from a distance through glass doors, blue emergency lighting, silhouettes of staff in protective gear moving quickly, cinematic
+[loc] March 2036
+N: The narrator is not going to describe the disease.
+N: You have lived through one. You remember what it was to watch a number climb on a screen, and to learn the words for things you had never needed words for, and to stand at a window and see a street with nothing in it. You do not need me to build you another. It is enough to say that in the spring of twenty thirty-six a new illness appeared in nine countries in the same week, and that the world's doctors took one look at the pattern of it and understood that it had not come from anywhere in nature.
+N: They called it Pale Horse. A journalist chose the name, from Revelation, in a Sunday newspaper, and by the following weekend it was the only name anybody used.
+[pause 1.5]
+[img] an empty city street at dusk with shuttered shops and one bus going past with almost no passengers, long shadows, desolate, cinematic
+N: What matters, for this story, is what it did to people. Schools closed in forty countries. Borders shut. Two hundred and sixty thousand people died in seven weeks, most of them in the first six, most of them before anyone had agreed on what to call it.
+N: And on the eleventh day, Umbrella announced that it had a vaccine.
+[pause 2.0]
+
+[music] m_tension -8
+[img] a live press briefing with the red and white umbrella emblem behind a podium, journalists standing, cameras, a woman in a lab coat at the microphone, cinematic
+N: Twenty-two days. From the publication of the first genetic sequence to a finished, tested, manufacturable vaccine.
+N: The rapid-response platform had been built for the Pentagon, under Martin Sloane's first contract, and paid for by the American taxpayer, and it had promised nine days and delivered eight in a test. This was the first time it had been used on something real.
+N: Umbrella gave it away. That was Catherine's idea, and Tomás's, and it was the correct one, and it was also — as Catherine said in the meeting where it was decided, in a voice that made three people look at the table — the single most profitable decision in corporate history. Not one dollar for the vaccine. Cost price, to every government on Earth, with the Umbrella Foundation covering the cost for the forty poorest countries. Four hundred million doses from the plant in Singapore in the first month, which was exactly the capacity that a man had built in twenty twenty-nine and been asked about by his own chief financial officer, and had said: I believe in being prepared.
+[img] a long queue of ordinary people of all ages waiting patiently outside a clinic in the rain, a red and white emblem above the door, a nurse checking a list, hopeful, cinematic
+N: By June it was over. By August the schools were open. By the autumn of twenty thirty-six, in every country on Earth, Umbrella's emblem had stopped meaning a pharmaceutical company and started meaning something closer to what it looked like: a red-and-white umbrella, held over you, in a storm.
+N: The Umbrella Foundation was given the Nobel Peace Prize the following year. The Director did not attend. He sent Evelyn Marsh, who did not speak, and stood at the back of the photographs, and looked, in every one of them, as if she were somewhere else.
+[pause 2.0]
+
+[music] m_horror -8
+[amb] amb_lab
+[img] {WESKER} standing motionless in a white underground corridor holding a single printed page, his face unreadable, cold light, cinematic
+[loc] Arklay — 14 October 2036
+N: He found out in October, five months after it ended, and he found out by accident.
+N: It was a shipping record. Not even a real one — an internal reconciliation, one of the thousands that Pell's systems generated every week and that nobody read. It showed that in the autumn of twenty thirty-five, four months before the first case in Frankfurt, a sealed container had gone from the Arklay sublevel to the Basel vault, and from Basel to three laboratories that Umbrella had acquired with Halvorsen Pike, in three countries.
+N: The three countries were not random. He looked at them for a long time. Then he went down.
+[pause 1.5]
+[img] {EVELYN} alone at a bench in a white laboratory, not looking up, a notebook open in front of her, {WESKER} standing in the doorway behind her, cinematic
+N: She did not pretend. That was the thing he would remember. He put the page down on the bench beside her, and she looked at it, and then she looked up at him, and her face was perfectly calm.
+EVELYN: You weren't supposed to find that for another year.
+[pause 1.5]
+WESKER: Tell me.
+EVELYN: You'll want to sit down.
+WESKER: Tell me, Evelyn.
+[pause 2.0]
+[img] extreme close-up of {EVELYN}'s face, calm, pale, utterly certain, the reflection of a screen in her glasses, cinematic
+EVELYN: You built a machine that could make a cure for anything in eight days, and you sold it to the Pentagon, and it sat in a building in Maryland doing nothing for four years. You built a factory for four hundred million doses and you told Catherine you believed in being prepared. You built clinics in forty-one countries. You built all of it, and you were waiting.
+EVELYN: I didn't want to wait.
+[pause 1.5]
+WESKER: (cold) Two hundred and sixty thousand people.
+EVELYN: Yes.
+WESKER: Say the number.
+EVELYN: Two hundred and sixty thousand.
+[pause 1.0]
+EVELYN: And forty million a year from frailty and age, before Aeterna. And nine million a year from the diseases we're going to take next, now that every government on Earth will sign anything we put in front of them. I did the arithmetic, Albert. I did it for nineteen months before I did anything else. I am not a monster. I am the only person in this building who has actually counted.
+[pause 2.0]
+N: The Cold-Read gave him her face, and it was the worst thing it had ever given him. No guilt. No fear. No doubt. Only the terrible, luminous calm of a person who has worked something out to the last decimal place and found that it comes out right.
+N: He had made her. That was the part he could not put down. He had found a young woman in a dying laboratory who had never once been seen by anybody, and he had seen her, and shown her a sleeping giant behind glass, and given her a programme with a name, and reported to nobody, and told her — over nine years, in a hundred small ways — that the ordinary rules were for the people upstairs.
+N: She had listened to every word. She had simply gone further than he had, because she was younger, and because she had never had a bunker to remember.
+[pause 2.0]
+
+[music] m_horror -4
+[img] {WESKER} standing very close to {EVELYN} in a white lab, one gloved hand gripping the edge of a steel bench which is visibly bending under his fingers, cinematic
+[sfx] sfx_metal_clang g-10
+N: The edge of the steel bench bent under his hand. He did not notice until afterwards.
+WESKER: You did this without orders.
+EVELYN: Yes.
+WESKER: Do you understand what that means? Not morally. I don't care about that. Do you understand what it means operationally?
+[pause 1.0]
+WESKER: It means I did not know. For five months, the most important thing happening on this planet was happening inside my own company, and I did not know. Every government on Earth is looking for who made that, Evelyn. They will look for years. They are better at it than you think, and one of them is Wen Shulan, and she is not going to stop.
+EVELYN: (soft) They'll never find it.
+WESKER: They found the Russians in Nevada. They found the money in Ireland. They found a smear on a dashcam. They find everything eventually. The only thing that has ever protected us is that when they find it, I have already decided what they will see.
+[pause 1.5]
+WESKER: You have made a fact about me that I did not choose.
+[pause 2.0]
+
+[music] m_horror -10
+ADOLF: (soft) Let her alone.
+WESKER: (cold) Not now.
+ADOLF: Listen to me. You are angry because she moved without you. That is the only reason. Not the dead. You have never once cared about the dead.
+WESKER: I care about the variables.
+ADOLF: (slow) She has just handed you the world. Every border on this planet opened for your aircraft this year. Every health ministry signs what your lawyers write. The Foundation is in forty-one countries and the people in them cheer when your trucks arrive. In one year she has done what your contracts would not have done in twenty.
+WESKER: At a cost I did not authorise.
+ADOLF: (soft) Do you know what I would have given for one officer like her? One. Someone who understood the objective so completely that they did not need to be told. I had a continent full of men who waited to be told.
+[pause 1.5]
+ADOLF: She is the most dangerous person in your empire. She is also the only one who has ever surprised you. Do not waste her.
+[pause 2.0]
+N: Wesker stood in the white laboratory for a long time with his hand on a bent steel bench.
+N: And the thing that frightened him — the thing he would take out and look at, alone, in the Memory Palace, for years afterwards — was not what she had done. It was that when the old voice finished speaking, he had found that he agreed with it.
+[pause 2.0]
+[img] {WESKER} turning away from {EVELYN} in a white corridor, walking toward the elevator, her standing very still watching him go, cinematic
+WESKER: You will never do anything like this again without telling me first.
+EVELYN: (soft) Is that an order?
+WESKER: It's the only one I will ever give you that matters.
+[pause 1.5]
+EVELYN: Then I'll tell you first.
+[pause 1.0]
+N: She meant it. That was the tragedy of Evelyn Marsh, and it took another eighteen years to finish. She never lied to him, and she never disobeyed a direct order, and she never once needed to.
+[pause 2.0]
+
+[music] m_tension -8
+[amb] amb_office_hum
+[img] {HADDAD} in a WHO office in Geneva at night surrounded by screens showing global outbreak maps and timelines, exhausted, determined, cinematic
+[loc] World Health Organization, Geneva — 2037
+N: Samira Haddad had been at the World Health Organization for four years by then. She had left the CDC after her suspension, and spent two years in the field in three countries, and been hired in Geneva by a Norwegian assistant director-general who had read her buried report from twenty thirty and never forgotten it.
+N: She ran the outbreak-origins unit. It was her job to find out where Pale Horse had come from, and she gave it everything she had for three years.
+[img] a wall-sized map in a Geneva office with seventeen red pins in ten countries connected by string to a timeline of dates, a woman standing before it with folded arms, cinematic
+N: She never proved it. She got close enough that she stopped sleeping. Fifteen simultaneous introductions in twenty countries is not how nature behaves; nature starts in one place. She mapped the eight. She found that all sixteen were within forty kilometres of a facility that Umbrella had acquired with Halvorsen Pike, and she wrote that down, and then she sat and looked at what she had written for a long time, because she also knew that Umbrella had facilities within forty kilometres of almost everywhere.
+N: She sent it up anyway. It went to the Director-General, and then to the Emergency Committee, and then into a process, and the process took thirteen months, and at the end of it the World Health Organization published a report which concluded that the origin of Pale Horse could not be determined with available evidence, and recommended further study.
+N: Umbrella funded the further study. Nobody found that strange. Umbrella funded everything by then.
+[pause 1.5]
+[img] {HADDAD} and {CARRICK} sitting on a bench outside a Geneva building in winter, two cups of coffee, both older, both tired, snow on the ground, cinematic
+[amb] amb_wind -10
+N: Owen Carrick came to Geneva that winter. He was fifty now, and he worked for a Norwegian foundation that existed, as far as its filings showed, to fund investigative journalism in the public interest.
+N: They sat on a bench outside the building in the snow.
+HADDAD: I can't prove it, Owen. I've got six dots and a company that's within forty kilometres of every dot on Earth.
+CARRICK: I know.
+HADDAD: And even if I could — who do I give it to? The Security Council is four governments that need his vaccines and one that needs his money. The press won't touch it without a document. And the public —
+[pause 1.0]
+HADDAD: (soft) Owen, half the people I work with have a photograph of their grandmother on a motorcycle. Taken last year. She's ninety-one.
+[pause 1.5]
+CARRICK: (soft) So we wait.
+HADDAD: For what?
+CARRICK: For him to do something he can't explain. He's never done one yet. But he's getting bigger, Samira, and the bigger a thing gets, the harder it is to stand behind.
+[pause 2.0]
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Global dependency — pharmaceutical: total
+Populations — gratitude: rising
+Governments — leverage: 148 of 193
+Reward: 40,000,000 Points
+[say] Assessment. Global dependency. Total.
+[/system]
+N: A hundred and forty-eight governments out of a hundred and ninety-three.
+N: He read that line in a dark office, alone, in the autumn of twenty thirty-six, and did not feel triumph. He felt what a man feels when he comes home and finds that someone has tidied his house, and moved everything, and that it is all in better places than he had it, and that he no longer knows where anything is.
+N: For nine years he had been the only person in the world who knew what the next move was.
+N: He was not anymore.
+[pause 3.0]
+[music] stop

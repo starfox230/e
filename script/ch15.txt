@@ -8,7 +8,7 @@ N: Nadia Okafor did not decide to become a whistleblower. Nobody ever does. She 
 [pause 1.0]
 [img] a loading dock at night, a young clerk in a hi-vis vest sharing a laugh with a woman in a lab coat, pallets and liquid nitrogen dewars behind them, cinematic
 N: The manifest had been the first thing. There were others.
-N: There was Deshawn at the loading dock, who liked her because she remembered his daughter's birthday, and who mentioned, one evening, that the old building across the river took a delivery of liquid nitrogen every nine days. Enough, Nadia calculated in her head as he said it, to keep about four hundred litres of material at cryogenic temperature — or to run a cold room the size of a garage. The old building's basement had eleven freezers from the nineteen-nineties and a vault Pell had built in the spring. None of it used liquid nitrogen.
+N: There was Deshawn at the loading dock, who liked her because she remembered his daughter's birthday, and who mentioned, one evening, that the old building across the river took a delivery of liquid nitrogen every nine days. Enough, Nadia calculated in her head as he said it, to keep about four hundred litres of material at cryogenic temperature — or to run a cold room the size of a garage. The old building's basement had six freezers from the nineteen-nineties and a vault Pell had built in the spring. None of it used liquid nitrogen.
 [img] a power usage chart on a laptop screen showing an old brick building's electricity consumption spiking far beyond a normal lab, highlighted in red, cinematic
 N: There was the electricity. Umbrella's facilities team published a sustainability report, because Catherine had insisted on one, and the report listed the power use of each building. The old building on the south bank — four floors, a basement, a few dozen people — drew more power than the entire twelve-storey tower.
 [img] {EVELYN} stepping into an old freight elevator late at night carrying a sealed sample case, glancing back over her shoulder, dim basement light, cinematic
@@ -44,7 +44,7 @@ N: Tolerance correlates with baseline aggression. Select accordingly.
 [sfx] sfx_camera_shutter g-4
 [img] {NADIA} with trembling hands photographing pages of a binder with her phone in a dark lab, a glance toward the door, cinematic
 N: She photographed six pages. Her hands were shaking so badly that she had to take two of them twice. Then she closed the binder, and squared it exactly where it had been on the bench, and walked to the lifts, and pressed the button, and stood very still, and did not breathe until the doors had closed.
-N: Evelyn came back eleven minutes later, and picked up the binder, and did not notice anything at all.
+N: Evelyn came back fourteen minutes later, and picked up the binder, and did not notice anything at all.
 [pause 1.5]
 
 [music] m_tension -10
@@ -123,7 +123,7 @@ N: She took her phone with her. He did not ask for it. She walked out of the off
 [amb] amb_rain_heavy
 [img] {DANA} hugging {NADIA} tightly in the tower lobby by the living wall, both women with wet eyes, rain visible through glass doors behind them, cinematic
 N: Dana Whitfield caught her in the lobby.
-N: Nobody had told Dana. Nobody needed to. She had worked with Nadia Okafor for eleven years, and she saw her face, and the box of things from her desk, and she came out from behind the reception desk and hugged her, hard, in front of the living wall.
+N: Nobody had told Dana. Nobody needed to. She had worked with Nadia Okafor for twelve years, and she saw her face, and the box of things from her desk, and she came out from behind the reception desk and hugged her, hard, in front of the living wall.
 DANA: (whisper) Be careful.
 NADIA: (whisper) You too.
 [pause 1.0]

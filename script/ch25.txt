@@ -105,7 +105,7 @@ N: The first contract was real. Sloane had kept his word.
 N: In September, the Director was given a security clearance that most cabinet secretaries do not hold, and was driven, in a car with no markings, through the gates of a military installation in Frederick, Maryland, where the United States government had been studying the diseases it most feared for eighty years.
 N: He was shown everything. Every programme. Every laboratory. Every sample in every freezer. Every study the government had ever run on what might happen to America if the worst thing in the world got loose. Every weakness. Every gap.
 [img] {WESKER} reading a classified binder in a sterile government room under cold light, a stamp reading TOP SECRET on the pages, his face unreadable, cinematic
-N: They wanted him to fix the gaps. That was the contract. An Umbrella rapid-response vaccine platform, for the Department of Defense — something that could take a new pathogen and produce a countermeasure in eleven days, instead of eleven months.
+N: They wanted him to fix the gaps. That was the contract. An Umbrella rapid-response vaccine platform, for the Department of Defense — something that could take a new pathogen and produce a countermeasure in seven days, instead of twenty-two months.
 N: He promised them nine.
 N: And as he walked back out through the gates that evening, in the unmarked car, with the Memory Palace quietly filing every page he had read into a new corridor beneath the basement of an imaginary brick building, the Adolf half of the mind said, very softly:
 ADOLF: They have shown you where they are weak.

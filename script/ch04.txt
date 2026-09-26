@@ -110,7 +110,7 @@ WESKER: I said that's enough.
 ADOLF: You have thirteen hundred Points and a clerk and a janitor and a party trick. One more. And then I will not ask again tonight.
 [pause 1.5]
 N: Later — years later — when people asked Albert Wesker whether he believed in destiny, he would smile and say that he believed in statistics. It was a good line. It was also a lie, because he could remember the exact moment he had stopped believing only in statistics.
-N: It was a red light on Market Street, in the rain, at eleven minutes past eleven, when he pressed the draw one more time.
+N: It was a red light on Market Street, in the rain, at twenty minutes past eight, when he pressed the draw one more time.
 [sfx] sfx_gacha_spin
 [pause 3.0]
 [music] m_horror -2
@@ -160,7 +160,7 @@ N: He thought about it for a long time. Then, being the kind of man he was, he d
 N: The Tyrant was in the basement.
 N: That is to say — the thing it slept in was in the basement, and the thing it slept in looked, to anyone who did not know better, exactly like an industrial air-handling unit.
 [img] close-up of a metal service tag riveted to an industrial unit reading ARCTURUS CLIMATE SYSTEMS MODEL TX-00, frost, dim light, cinematic
-N: It stood in the corner beyond the freezers, eleven feet tall and painted a dull, municipal grey, with ducting that ran up into the ceiling and a riveted service plate that read Arcturus Climate Systems, Model T X zero zero. It was bolted to the floor with anchors that looked twenty years old. It had a maintenance log in a plastic sleeve on its side, and the log was filled in, in Gus's handwriting, going back to two thousand and nine.
+N: It stood in the corner beyond the freezers, sixteen feet tall and painted a dull, municipal grey, with ducting that ran up into the ceiling and a riveted service plate that read Arcturus Climate Systems, Model T X zero zero. It was bolted to the floor with anchors that looked twenty years old. It had a maintenance log in a plastic sleeve on its side, and the log was filled in, in Gus's handwriting, going back to two thousand and nine.
 N: And it breathed.
 [sfx] sfx_cryo_hiss g-6
 N: Every six seconds, somewhere deep inside it, a compressor cycled. A long, slow draw. A pause. A long, slow release. To anyone who walked past, it was machinery. To the man standing in front of it that Saturday morning, it was the sound of something enormous, asleep.

@@ -187,7 +187,7 @@ WESKER: Don't be sorry. It was good work. It was just early.
 TOMAS: (phone) Early?
 WESKER: Keep the file. We'll need it.
 [pause 1.2]
-N: Tomás took it down. By then it had been downloaded two hundred times, and three of those copies would still be circulating on the internet eleven years later, in a very different world, under titles like The First Speech, and Where It Started, and Watch His Hands.
+N: Tomás took it down. By then it had been downloaded two hundred times, and three of those copies would still be circulating on the internet seven years later, in a very different world, under titles like The First Speech, and Where It Started, and Watch His Hands.
 [pause 1.0]
 [img] {EVELYN} alone in a lab at 2 a.m. assembling a small plastic device under a magnifier lamp, humming, an old piano visible through the door behind her, cinematic
 [music] m_rain_piano -10
