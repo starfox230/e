@@ -1,0 +1,736 @@
+1
+00:00:07,799 --> 00:00:12,678
+While the Directorate learned to govern a planet,
+its Director was looking in the other
+
+2
+00:00:12,698 --> 00:00:13,242
+direction.
+
+3
+00:00:13,811 --> 00:00:19,100
+The BEYOND tab had four items in it on the first
+night. He could afford none of them.
+
+4
+00:00:19,670 --> 00:00:25,489
+Eighty-four billion Points had bought a world. The
+cheapest thing behind the seventh tab
+
+5
+00:00:25,509 --> 00:00:27,213
+cost nine hundred billion.
+
+6
+00:00:27,783 --> 00:00:33,381
+That was, he understood immediately, the answer to a
+question he had been carrying for
+
+7
+00:00:33,401 --> 00:00:39,129
+twenty-one years — why the System had ever bothered
+with a dying laboratory in Delaware.
+
+8
+00:00:39,149 --> 00:00:43,832
+It had not been building a businessman. It
+had been raising the capital.
+
+9
+00:00:46,652 --> 00:00:47,768
+Beyond.
+
+10
+00:00:56,987 --> 00:01:02,815
+And beneath them, greyed out, without prices, eleven
+more lines that he could not read
+
+11
+00:01:02,835 --> 00:01:03,291
+at all.
+
+12
+00:01:05,861 --> 00:01:11,829
+What followed was the largest industrial mobilisation
+in the history of the species, and
+
+13
+00:01:11,849 --> 00:01:13,734
+it was not done with Points.
+
+14
+00:01:14,305 --> 00:01:20,675
+He had, in twenty forty-seven, four hundred and
+eighty thousand employees, a hundred and
+
+15
+00:01:20,695 --> 00:01:27,136
+ninety million people in territories of association,
+the executing authority of a hundred
+
+16
+00:01:27,156 --> 00:01:33,526
+and forty-one governments, and the accumulated
+manufacturing capacity of four of the six
+
+17
+00:01:33,546 --> 00:01:39,842
+largest industrial groups on Earth. He also had,
+from the moment the Accord was signed,
+
+18
+00:01:39,862 --> 00:01:46,231
+the thing that no private enterprise had ever had
+before: the ability to decide what the
+
+19
+00:01:46,251 --> 00:01:51,895
+human race would build next, and to make that
+decision stick for thirty years.
+
+20
+00:01:52,463 --> 00:01:54,115
+He decided on space.
+
+21
+00:01:54,685 --> 00:02:00,812
+The public reason was true, and good, and had been
+worked out by Tomás's department over
+
+22
+00:02:00,832 --> 00:02:07,029
+four months so that every word of it would survive a
+century of quotation: that a species
+
+23
+00:02:07,049 --> 00:02:13,456
+with one planet is a species with one point of failure,
+and that the Accord's entire purpose
+
+24
+00:02:13,476 --> 00:02:16,040
+was the removal of points of failure.
+
+25
+00:02:16,610 --> 00:02:21,873
+The private reason was that he had seen eleven
+greyed-out lines that he could not read.
+
+26
+00:02:23,944 --> 00:02:29,954
+The Directorate built launch capacity the way the
+nineteen-forties had built ships. Not
+
+27
+00:02:29,974 --> 00:02:36,053
+one vehicle at a time — an assembly line, in the
+Atacama, and another in Queensland, and
+
+28
+00:02:36,073 --> 00:02:41,944
+a third at Kourou, turning out a reusable
+heavy-lift stage every nine days. By twenty
+
+29
+00:02:41,964 --> 00:02:48,043
+fifty-one, Umbrella was putting more mass into orbit
+every month than the human race had
+
+30
+00:02:48,063 --> 00:02:50,676
+put up in its entire previous history.
+
+31
+00:02:52,746 --> 00:02:59,386
+Dock One was assembled between twenty fifty-one and
+twenty fifty-six, in a four-hundred-kilometre
+
+32
+00:02:59,406 --> 00:03:05,428
+orbit, from four hundred thousand tonnes of material
+that had been lifted from Earth and
+
+33
+00:03:05,448 --> 00:03:08,106
+thirty-one million tonnes that had not.
+
+34
+00:03:08,676 --> 00:03:14,336
+The second number is the one that mattered, and it
+is the reason the Belt came before
+
+35
+00:03:14,356 --> 00:03:19,013
+the Moon. Umbrella did not go to space to
+plant flags. It went to eat.
+
+36
+00:03:21,584 --> 00:03:27,021
+There is a thing about the space programme that the
+Directorate's own historians tend
+
+37
+00:03:27,041 --> 00:03:32,734
+to bury in an annex, and it deserves better, because
+it is the closest Albert Wesker ever
+
+38
+00:03:32,754 --> 00:03:37,549
+came to doing something for a reason he could
+not justify on a spreadsheet.
+
+39
+00:03:38,120 --> 00:03:39,927
+He made it public. All of it.
+
+40
+00:03:40,497 --> 00:03:46,068
+Every launch was broadcast. Every failure was
+broadcast — and in the first four years
+
+41
+00:03:46,088 --> 00:03:51,791
+there were nine, and four of them killed people, and
+every single one was carried live,
+
+42
+00:03:51,811 --> 00:03:57,448
+with the names released within the day, over the
+objections of four separate bodies of
+
+43
+00:03:57,468 --> 00:04:03,236
+the Directorate who pointed out, correctly, that no
+state space programme in history had
+
+44
+00:04:03,256 --> 00:04:04,222
+ever done this.
+
+45
+00:04:04,793 --> 00:04:10,553
+The first was the Coronado in twenty fifty-two,
+which broke up at forty kilometres with
+
+46
+00:04:10,573 --> 00:04:16,334
+four crew aboard. The broadcast did not cut away.
+The Directorate's public feed carried
+
+47
+00:04:16,354 --> 00:04:21,982
+the telemetry, and the silence in the control room,
+and then, nine minutes later, the
+
+48
+00:04:22,002 --> 00:04:27,630
+flight director — a woman of thirty-four named
+Priya Ramanathan, who had not slept in
+
+49
+00:04:27,650 --> 00:04:33,277
+two days — reading the four names into an open
+microphone because nobody had told her
+
+50
+00:04:33,297 --> 00:04:33,742
+not to.
+
+51
+00:04:34,312 --> 00:04:40,420
+Four billion people watched it. It is the single
+most-viewed piece of Directorate footage
+
+52
+00:04:40,440 --> 00:04:43,380
+that does not involve the
+Director himself.
+
+53
+00:04:45,451 --> 00:04:51,379
+He was asked about it once, years later, by an
+engineer who had been in that control room,
+
+54
+00:04:51,399 --> 00:04:53,560
+and who had the nerve to ask why.
+
+55
+00:04:54,250 --> 00:04:59,206
+Because in four hundred years there will be nine
+billion human beings living off this
+
+56
+00:04:59,226 --> 00:05:04,534
+planet, and every one of them will be there because
+somebody's grandmother watched a rocket
+
+57
+00:05:04,554 --> 00:05:09,686
+fall apart on a screen in twenty fifty-two and put
+her hand over her mouth and then, the
+
+58
+00:05:09,706 --> 00:05:12,555
+following week, applied for the
+programme anyway.
+
+59
+00:05:13,954 --> 00:05:19,342
+You cannot build that with a press release. You can
+only build it by letting them watch
+
+60
+00:05:19,362 --> 00:05:22,822
+the real thing, including the parts
+that are unbearable.
+
+61
+00:05:24,843 --> 00:05:30,585
+The engineer, who had spent nineteen years assuming
+the policy was a calculation, said
+
+62
+00:05:30,605 --> 00:05:34,605
+that he had always wondered whether it
+was for the families.
+
+63
+00:05:35,175 --> 00:05:40,919
+The Director looked at him for a moment and said: it
+was a calculation. And then he walked
+
+64
+00:05:40,939 --> 00:05:46,492
+away, which the engineer recorded in his memoirs,
+and which he said, forty years later,
+
+65
+00:05:46,512 --> 00:05:48,798
+he had never been able to interpret.
+
+66
+00:05:51,867 --> 00:05:58,541
+The first asteroid Umbrella captured was called 1993
+UB, and it was six hundred metres
+
+67
+00:05:58,561 --> 00:06:05,156
+across, and it contained more nickel and iron than
+the human race had mined since the
+
+68
+00:06:05,176 --> 00:06:06,013
+Bronze Age.
+
+69
+00:06:06,583 --> 00:06:12,353
+By twenty fifty-nine there were four hundred and
+eleven Umbrella vessels working the Belt,
+
+70
+00:06:12,373 --> 00:06:17,950
+and the price of structural metal on Earth had
+fallen by ninety-one percent, and eleven
+
+71
+00:06:17,970 --> 00:06:23,933
+national economies that had depended on mining had been
+absorbed into association agreements,
+
+72
+00:06:23,953 --> 00:06:29,659
+which was not an accident, and which Catherine
+Adeyemi had modelled in twenty forty-eight
+
+73
+00:06:29,679 --> 00:06:34,098
+and put in a memo that was read and
+answered courteously and in full.
+
+74
+00:06:36,168 --> 00:06:42,105
+Mars was settled in twenty sixty-one, because by then
+it was cheap, and because a hundred
+
+75
+00:06:42,125 --> 00:06:47,862
+and ninety million people in the territories of
+association had been told for a decade
+
+76
+00:06:47,882 --> 00:06:53,551
+that they were building a future off-world, and the
+Directorate required that this be
+
+77
+00:06:53,571 --> 00:06:53,886
+true.
+
+78
+00:06:54,456 --> 00:07:00,632
+Nineteen thousand people went in the first wave.
+Four hundred thousand had volunteered.
+
+79
+00:07:00,652 --> 00:07:06,687
+The selection criteria were published in full, and
+were scrupulously fair, and one of
+
+80
+00:07:06,707 --> 00:07:12,884
+the eleven criteria was loyalty, and it was listed
+fourth, and nobody objected, because
+
+81
+00:07:12,904 --> 00:07:16,303
+by twenty sixty-one nobody
+objected to anything.
+
+82
+00:07:18,872 --> 00:07:24,701
+Evelyn Marsh moved her laboratory to orbit in twenty
+fifty-eight. She was sixty-two years
+
+83
+00:07:24,721 --> 00:07:27,002
+old and looked perhaps thirty-five.
+
+84
+00:07:27,572 --> 00:07:33,216
+The Progenitor Initiative had eleven hundred staff
+by then, and the great majority of
+
+85
+00:07:33,236 --> 00:07:39,414
+them had never been human in the way that word is
+usually meant. Its work had three branches.
+
+86
+00:07:39,434 --> 00:07:45,412
+The first was the quiet ones, and there were now four
+hundred of them, in positions across
+
+87
+00:07:45,432 --> 00:07:49,545
+the Directorate, and none of them had
+ever disobeyed anything.
+
+88
+00:07:50,115 --> 00:07:55,863
+The second was the Tyrant line, which had moved on
+considerably from a grey giant in a
+
+89
+00:07:55,883 --> 00:08:01,699
+cradle. There were nine variants by twenty
+fifty-eight. Four of them were not humanoid.
+
+90
+00:08:02,269 --> 00:08:07,887
+The third branch had no name in any document, and
+its purpose was to answer a question
+
+91
+00:08:07,907 --> 00:08:13,655
+that Evelyn Marsh had first asked in twenty
+twenty-eight, standing in front of a frosted
+
+92
+00:08:13,675 --> 00:08:19,358
+window with her palm flat against the glass: what
+happens to a human being who is given
+
+93
+00:08:19,378 --> 00:08:21,194
+all of it, and does not die?
+
+94
+00:08:23,764 --> 00:08:29,763
+She was the third branch. She had been for nineteen
+years. She reported it to him every
+
+95
+00:08:29,783 --> 00:08:35,782
+time, in memos of four lines, exactly as she had
+promised in a white corridor in twenty
+
+96
+00:08:35,802 --> 00:08:36,544
+thirty-six.
+
+97
+00:08:37,114 --> 00:08:40,361
+He read every one. He never once
+told her to stop.
+
+98
+00:08:42,931 --> 00:08:49,148
+He bought the hull pattern in twenty sixty-six. Four
+trillion Points, accumulated over
+
+99
+00:08:49,168 --> 00:08:52,630
+nineteen years from the
+dependency of a species.
+
+100
+00:08:53,200 --> 00:08:59,159
+The first void-cutter was two point eight
+kilometres long, and it was not shaped like
+
+101
+00:08:59,179 --> 00:09:05,138
+anything human beings had built before. Every ship
+the species had ever made had been
+
+102
+00:09:05,158 --> 00:09:11,187
+an argument with physics that ended in a compromise:
+fuel here, crew there, radiators,
+
+103
+00:09:11,207 --> 00:09:17,307
+symmetry. The pattern from the seventh tab did not
+compromise. It was a long dark wedge
+
+104
+00:09:17,327 --> 00:09:23,286
+with no windows and no markings and no visible
+drive, and the engineers who assembled
+
+105
+00:09:23,306 --> 00:09:29,336
+it — the human ones — found that they could follow
+the instructions perfectly well and
+
+106
+00:09:29,356 --> 00:09:32,923
+could not, afterwards, explain
+what most of it did.
+
+107
+00:09:33,494 --> 00:09:35,147
+It was called the Wilmington.
+
+108
+00:09:35,716 --> 00:09:41,863
+Tomás's department had prepared a list of four hundred
+names, drawn from a public competition
+
+109
+00:09:41,883 --> 00:09:47,632
+that eleven million people had entered. The Director
+read the list, and did not use it,
+
+110
+00:09:47,652 --> 00:09:53,467
+and named the first ship of the human race's first
+fleet after an industrial park on the
+
+111
+00:09:53,487 --> 00:09:59,568
+south bank of a river in Delaware where six people had
+once been unable to make the payroll.
+
+112
+00:10:00,138 --> 00:10:06,143
+Nobody understood. It became, over the following
+century, the most sacred word in the
+
+113
+00:10:06,163 --> 00:10:06,781
+language.
+
+114
+00:10:09,351 --> 00:10:15,213
+The signal arrived on the eleventh of March, twenty
+seventy-one, at four in the morning,
+
+115
+00:10:15,233 --> 00:10:16,884
+and it was not a message.
+
+116
+00:10:17,453 --> 00:10:23,330
+That was the first thing the Directorate's
+astronomers established, and it took them nine
+
+117
+00:10:23,350 --> 00:10:29,028
+days, and it was the only thing about it that was
+ever comforting. It had no structure
+
+118
+00:10:29,048 --> 00:10:33,798
+of the kind a message has. It did not repeat.
+It was not aimed at Earth.
+
+119
+00:10:34,369 --> 00:10:40,570
+It was a carrier — a continuous, extremely narrow,
+extraordinarily powerful transmission
+
+120
+00:10:40,590 --> 00:10:46,579
+at a frequency nobody had ever bothered to watch,
+passing through the solar system on
+
+121
+00:10:46,599 --> 00:10:52,587
+its way somewhere else, the way a searchlight
+passes across a field without stopping.
+
+122
+00:10:53,158 --> 00:10:58,839
+They traced its origin in four months. It came from
+a direction thirty-one degrees off
+
+123
+00:10:58,859 --> 00:11:04,541
+the plane of the ecliptic, and from very far away,
+and from something that was moving.
+
+124
+00:11:05,111 --> 00:11:10,877
+And in the ninth month, having listened to it
+continuously, the Farside Array established
+
+125
+00:11:10,897 --> 00:11:13,998
+the thing that ended the human
+race's childhood.
+
+126
+00:11:14,567 --> 00:11:20,811
+The carrier was modulated. Not with information —
+with load. It flickered, very slightly,
+
+127
+00:11:20,831 --> 00:11:26,934
+in a pattern that the array's engineers recognised
+immediately because they had seen it
+
+128
+00:11:26,954 --> 00:11:29,609
+a thousand times in their own systems.
+
+129
+00:11:30,178 --> 00:11:36,670
+It was the signature of something drawing power. Enormous
+amounts of it, in bursts, irregularly.
+
+130
+00:11:37,240 --> 00:11:41,116
+Whatever was out there was not
+broadcasting. It was working.
+
+131
+00:11:44,686 --> 00:11:50,869
+He read the report alone, in an observation deck on
+Dock One, with the Earth going past
+
+132
+00:11:50,889 --> 00:11:51,654
+underneath.
+
+133
+00:11:52,224 --> 00:11:58,458
+He was eighty years old and looked thirty-five. He had
+ruled the human species for twenty-four
+
+134
+00:11:58,478 --> 00:12:04,113
+years, and had, in that time, done a very great
+deal of good, which the narrator will
+
+135
+00:12:04,133 --> 00:12:08,038
+not take away from him, and which does
+not cancel anything.
+
+136
+00:12:08,609 --> 00:12:14,135
+And he stood at the window and looked out at a sky
+that had, four hours earlier, stopped
+
+137
+00:12:14,155 --> 00:12:14,892
+being empty.
+
+138
+00:12:17,461 --> 00:12:20,659
+There was nobody to say it to.
+That was the thing.
+
+139
+00:12:21,230 --> 00:12:26,398
+For twenty-one years there had been another voice in
+that skull, and it would have had
+
+140
+00:12:26,418 --> 00:12:31,767
+something to say about this — something historical,
+and contemptuous, and probably wrong.
+
+141
+00:12:31,787 --> 00:12:36,955
+It had been silent for twenty-four years. He had
+stopped expecting it. He had stopped,
+
+142
+00:12:36,975 --> 00:12:42,083
+mostly, remembering that it had ever been there, in
+the way you stop hearing a clock.
+
+143
+00:12:42,653 --> 00:12:48,474
+But standing at that window, looking at a sky with
+something working in it, Albert Wesker
+
+144
+00:12:48,494 --> 00:12:53,264
+found that he wanted, very much, to turn to
+somebody and say: do you see?
+
+145
+00:12:55,835 --> 00:13:01,726
+And he did turn. Physically. In an empty observation
+deck, at four in the morning, three
+
+146
+00:13:01,746 --> 00:13:07,436
+hundred kilometres above the Earth, an
+eighty-year-old man in a black coat turned his
+
+147
+00:13:07,456 --> 00:13:12,206
+head to speak to somebody who had not been
+there for twenty-four years.
+
+148
+00:13:12,775 --> 00:13:14,097
+Nobody answered.
+
+149
+00:13:17,918 --> 00:13:20,726
+Beyond. Access expanded.
+
+150
+00:13:23,816 --> 00:13:25,718
+The greyed-out lines resolved.
+
+151
+00:13:26,288 --> 00:13:32,085
+He read them, standing at the window, with the Earth
+turning below and the stars going
+
+152
+00:13:32,105 --> 00:13:38,104
+past. And for the first time since a washroom in the
+rain in September twenty twenty-six,
+
+153
+00:13:38,124 --> 00:13:42,162
+Albert Wesker had absolutely no idea
+what he was looking at.
