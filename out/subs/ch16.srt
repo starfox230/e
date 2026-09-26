@@ -1,0 +1,677 @@
+1
+00:00:07,799 --> 00:00:13,252
+In the spring of twenty twenty-nine, while a
+virologist's complaint made its slow way
+
+2
+00:00:13,272 --> 00:00:18,532
+through the inboxes of the federal government,
+Umbrella Life Sciences went abroad.
+
+3
+00:00:19,102 --> 00:00:24,665
+It went in three directions at once, and each
+direction had a reason, and only one of
+
+4
+00:00:24,685 --> 00:00:26,899
+the reasons was ever written down.
+
+5
+00:00:28,469 --> 00:00:34,672
+The first was England. It was, officially, a matter
+of talent — Cambridge had more good
+
+6
+00:00:34,692 --> 00:00:40,895
+biologists per square mile than anywhere on Earth.
+It was also a matter of history. The
+
+7
+00:00:40,915 --> 00:00:47,619
+last remaining asset of the dead parent company,
+Umbrella Holdings, was a shuttered laboratory
+
+8
+00:00:47,639 --> 00:00:53,843
+on the edge of Cambridge that Harrow and Lisle had
+never managed to sell. Peter Fenwick
+
+9
+00:00:53,863 --> 00:00:59,995
+sold it to the Director over the phone, for less
+than its value in scrap, and said, as
+
+10
+00:01:00,015 --> 00:01:03,213
+the call ended, in a tone of
+mild bafflement:
+
+11
+00:01:03,902 --> 00:01:08,467
+Do you know, Doctor Wesker, you're the only man who's
+ever bought anything from this estate
+
+12
+00:01:08,487 --> 00:01:08,770
+twice?
+
+13
+00:01:09,290 --> 00:01:11,063
+I'm sentimental, Mister Fenwick.
+
+14
+00:01:12,382 --> 00:01:18,702
+Peter Fenwick laughed. It was the last time anyone at
+Harrow and Lisle thought about Umbrella
+
+15
+00:01:18,722 --> 00:01:19,929
+for sixteen years.
+
+16
+00:01:21,700 --> 00:01:27,608
+The second was Switzerland. Officially, a sample
+repository — a cold vault in the rock
+
+17
+00:01:27,628 --> 00:01:33,744
+above Basel, where Umbrella could store biological
+material under the protection of Swiss
+
+18
+00:01:33,764 --> 00:01:40,018
+law and Swiss discretion. It was also, though nobody
+but Pell knew this, the first property
+
+19
+00:01:40,038 --> 00:01:46,360
+Umbrella had ever bought in a city that the Adolf half
+of the mind had marked, years before,
+
+20
+00:01:46,380 --> 00:01:48,153
+on a map inside the skull.
+
+21
+00:01:48,722 --> 00:01:55,054
+Basel. The pharmaceutical capital of the world. Home
+of the giants. A city where a single
+
+22
+00:01:55,074 --> 00:02:01,549
+industry paid for everything, and where a single
+company could, in the right circumstances,
+
+23
+00:02:01,569 --> 00:02:04,404
+become indistinguishable from the state.
+
+24
+00:02:05,093 --> 00:02:06,170
+One day.
+
+25
+00:02:06,689 --> 00:02:08,049
+One day. Not this year.
+
+26
+00:02:09,770 --> 00:02:15,859
+And the third was Singapore, where Ashford Pacific
+had quietly become one of the larger
+
+27
+00:02:15,879 --> 00:02:21,829
+logistics firms in Southeast Asia, and where
+Umbrella now built — with its own money,
+
+28
+00:02:21,849 --> 00:02:28,220
+in the open, with every permit in order — a
+manufacturing plant that could produce Aeterna,
+
+29
+00:02:28,240 --> 00:02:34,330
+and the assay, and anything else the future
+required, at a rate of four hundred million
+
+30
+00:02:34,350 --> 00:02:35,242
+doses a year.
+
+31
+00:02:35,813 --> 00:02:41,699
+Four hundred million. Catherine asked, in the
+capital planning meeting, why a company
+
+32
+00:02:41,719 --> 00:02:47,675
+with a drug still in phase three trials needed
+capacity for four hundred million doses
+
+33
+00:02:47,695 --> 00:02:48,508
+of anything.
+
+34
+00:02:49,078 --> 00:02:53,793
+The Director said that he believed in being
+prepared. She wrote that down.
+
+35
+00:02:56,614 --> 00:03:01,650
+Assessment. Expansion. Three
+hundred thousand Points.
+
+36
+00:03:06,498 --> 00:03:08,851
+Level up. Level twenty.
+
+37
+00:03:10,984 --> 00:03:16,839
+Twenty. He felt this one differently. Not like doors
+opening, this time. Like the floor
+
+38
+00:03:16,859 --> 00:03:21,837
+of a building dropping away beneath him, and
+finding that he did not fall.
+
+39
+00:03:23,157 --> 00:03:24,228
+Status.
+
+40
+00:03:29,396 --> 00:03:35,324
+Speed fifty. He tested it that night, on an empty
+service road behind the plant, at two
+
+41
+00:03:35,344 --> 00:03:41,409
+in the morning. He did not run. He simply decided to
+be at the far end of the road, three
+
+42
+00:03:41,429 --> 00:03:47,220
+hundred metres away, and was — with a sound behind
+him like a sheet being torn, and a
+
+43
+00:03:47,240 --> 00:03:50,296
+swirl of dust that took a
+second to catch up.
+
+44
+00:03:52,417 --> 00:03:55,754
+Purchase confirmed. Boardroom gravity.
+
+45
+00:04:02,002 --> 00:04:02,835
+Now.
+
+46
+00:04:03,355 --> 00:04:04,136
+Now what?
+
+47
+00:04:04,657 --> 00:04:10,259
+Now you have two thousand people in four countries.
+You have a name that thirteen million
+
+48
+00:04:10,279 --> 00:04:15,629
+people have watched. You have a factory for four
+hundred million of anything. Now you
+
+49
+00:04:15,649 --> 00:04:17,778
+give them something to believe in.
+
+50
+00:04:18,298 --> 00:04:19,800
+They believe in their salaries.
+
+51
+00:04:20,321 --> 00:04:23,146
+No one ever died for a salary.
+
+52
+00:04:23,665 --> 00:04:29,028
+That's rather the point. I don't want anyone to die
+for me. Dead people are a terrible
+
+53
+00:04:29,048 --> 00:04:29,717
+investment.
+
+54
+00:04:30,237 --> 00:04:36,303
+You felt what the break room paid. Four thousand
+Points, for six frightened people, in
+
+55
+00:04:36,323 --> 00:04:42,461
+five minutes. Imagine what two thousand pay. Imagine
+what twenty thousand pay. You want
+
+56
+00:04:42,481 --> 00:04:46,708
+the System's money. The System wants
+belief. Give it belief.
+
+57
+00:04:48,427 --> 00:04:50,669
+Wesker said nothing for a long time.
+
+58
+00:04:51,238 --> 00:04:57,223
+He was, underneath everything, an investor. And the
+Adolf half had just made — he admitted
+
+59
+00:04:57,243 --> 00:05:02,893
+to himself, in the back of the car, with the
+streetlights sliding over the glass — an
+
+60
+00:05:02,913 --> 00:05:04,961
+extremely good investment case.
+
+61
+00:05:05,651 --> 00:05:06,543
+Not a movement.
+
+62
+00:05:07,064 --> 00:05:08,218
+A movement.
+
+63
+00:05:08,737 --> 00:05:14,529
+A culture. Every great company has one. Apple had
+one. Google had one. The Jesuits had
+
+64
+00:05:14,549 --> 00:05:20,543
+one, and they ran half the schools in Europe for four
+hundred years. Nobody ever arrested
+
+65
+00:05:20,563 --> 00:05:23,245
+a Jesuit for having a mission statement.
+
+66
+00:05:23,766 --> 00:05:27,138
+Call it what you like. I shall write it.
+
+67
+00:05:29,158 --> 00:05:32,777
+They wrote it together, over three
+nights, in the corner office.
+
+68
+00:05:33,346 --> 00:05:38,789
+The Adolf half wrote the rhythm. It knew exactly how
+long a line had to be for a thousand
+
+69
+00:05:38,809 --> 00:05:44,007
+people to say it at once without stumbling, and
+where the breath should go, and which
+
+70
+00:05:44,026 --> 00:05:49,408
+word should land at the end so that the room would
+feel it in the chest. The Wesker half
+
+71
+00:05:49,428 --> 00:05:54,687
+removed every word that a journalist could ever
+quote in a headline. What was left was
+
+72
+00:05:54,706 --> 00:06:00,026
+eighty-one words long, and it sounded — on the page
+— like the mission statement of any
+
+73
+00:06:00,046 --> 00:06:01,806
+ambitious company in America.
+
+74
+00:06:02,377 --> 00:06:06,660
+It only sounded like something else when you
+heard it said by a crowd.
+
+75
+00:06:08,350 --> 00:06:09,846
+It's a cult, Albert.
+
+76
+00:06:10,365 --> 00:06:11,390
+It's a culture.
+
+77
+00:06:11,911 --> 00:06:16,754
+You've written an oath. You're having new hires
+recite it. In unison. At orientation.
+
+78
+00:06:17,274 --> 00:06:18,396
+The Army does that.
+
+79
+00:06:18,915 --> 00:06:20,324
+We are not the Army.
+
+80
+00:06:20,846 --> 00:06:21,605
+Not yet.
+
+81
+00:06:22,925 --> 00:06:28,884
+She looked at him sharply. He smiled, as if it were
+a joke. It was, the way he said it,
+
+82
+00:06:28,904 --> 00:06:30,189
+very nearly a joke.
+
+83
+00:06:32,259 --> 00:06:38,478
+The first time it was said aloud was in Singapore, in
+June, in an auditorium full of four
+
+84
+00:06:38,498 --> 00:06:41,633
+hundred new employees on their
+first morning.
+
+85
+00:06:42,202 --> 00:06:47,971
+They had been told it was a tradition. They had been
+given the words on a card. They stood,
+
+86
+00:06:47,991 --> 00:06:53,441
+because the person on the stage asked them to, and
+they put their right hands on their
+
+87
+00:06:53,461 --> 00:06:58,848
+chests, because the person on the stage did, and
+they read the card aloud together, a
+
+88
+00:06:58,868 --> 00:07:04,191
+little awkwardly at first, the way people read
+anything together for the first time.
+
+89
+00:07:05,762 --> 00:07:10,837
+By the second line they had found the rhythm. By
+the fourth, they were not reading it
+
+90
+00:07:10,857 --> 00:07:11,317
+anymore.
+
+91
+00:07:12,007 --> 00:07:13,266
+We are the shelter.
+
+92
+00:07:13,786 --> 00:07:16,096
+And four hundred voices said it back.
+
+93
+00:07:16,666 --> 00:07:22,566
+We are the shelter. We do not wait for the storm. We
+make the world safe for those who
+
+94
+00:07:22,586 --> 00:07:28,416
+cannot make it safe for themselves. What we learn,
+we keep. What we begin, we finish.
+
+95
+00:07:28,436 --> 00:07:34,474
+Where we stand, the rain does not fall. We are not
+many. We are enough. We are Umbrella.
+
+96
+00:07:36,543 --> 00:07:42,490
+The silence afterwards lasted three seconds. It was
+the kind of silence that happens in
+
+97
+00:07:42,510 --> 00:07:47,223
+churches, when a hymn ends, and nobody
+wants to be the first to move.
+
+98
+00:07:47,793 --> 00:07:52,708
+Then they applauded — themselves, and each other,
+and the man on the stage — and some
+
+99
+00:07:52,728 --> 00:07:56,309
+of them were crying, and none of them
+could have told you why.
+
+100
+00:07:58,629 --> 00:08:02,759
+Personnel morale, fervent.
+Belief, spreading.
+
+101
+00:08:04,348 --> 00:08:10,554
+Ninety thousand. For eighty-one words, said by four
+hundred people, on a Monday morning
+
+102
+00:08:10,574 --> 00:08:11,485
+in Singapore.
+
+103
+00:08:12,175 --> 00:08:13,889
+Belief, spreading.
+
+104
+00:08:14,408 --> 00:08:15,733
+It's a word on a panel.
+
+105
+00:08:16,252 --> 00:08:22,147
+It is the word. I spent my whole life trying to
+make that word true. You made it true
+
+106
+00:08:22,167 --> 00:08:23,677
+with a laminated card.
+
+107
+00:08:25,697 --> 00:08:31,850
+By July, they said it in Wilmington, and in Cambridge,
+and in Basel. They said it at every
+
+108
+00:08:31,870 --> 00:08:37,749
+orientation and at the start of every quarterly
+meeting. It was printed on the wall of
+
+109
+00:08:37,769 --> 00:08:43,647
+every lobby, beneath the emblem, in small, elegant
+letters that a visitor might easily
+
+110
+00:08:43,667 --> 00:08:46,254
+have mistaken for a mission statement.
+
+111
+00:08:46,823 --> 00:08:52,320
+Walter Pruitt heard it for the first time at the back
+of the Wilmington auditorium, where
+
+112
+00:08:52,340 --> 00:08:57,712
+he had been posted for the day because he was
+retiring in September and Dana had wanted
+
+113
+00:08:57,732 --> 00:08:58,579
+him to see it.
+
+114
+00:08:59,149 --> 00:09:04,967
+He stood with his arms folded while three hundred
+people said it together. He had said
+
+115
+00:09:04,987 --> 00:09:11,144
+an oath like that once, in nineteen eighty, in a
+gymnasium at Fort Jackson, South Carolina,
+
+116
+00:09:11,164 --> 00:09:16,099
+with his hand on his chest, and it had sent
+him, eventually, to a desert.
+
+117
+00:09:16,668 --> 00:09:22,502
+He did not say anything to anyone. That evening he
+took out the little spiral notebook,
+
+118
+00:09:22,522 --> 00:09:26,539
+which was almost full now, and wrote
+the date, and one line.
+
+119
+00:09:27,110 --> 00:09:29,048
+They're saying it like soldiers.
+
+120
+00:09:31,116 --> 00:09:33,673
+Evelyn Marsh said it with her eyes closed.
+
+121
+00:09:34,243 --> 00:09:39,871
+Catherine Adeyemi, at the far end of the front row,
+moved her lips and did not make a
+
+122
+00:09:39,891 --> 00:09:40,270
+sound.
+
+123
+00:09:40,840 --> 00:09:47,070
+And the four research associates from the Arklay
+sublevel, and the six Silent Ones, and
+
+124
+00:09:47,090 --> 00:09:53,320
+Pell, and Gus, and Hale — who had never been told to
+attend, and attended anyway — said
+
+125
+00:09:53,340 --> 00:09:59,929
+it in perfect unison, with no emphasis on any word,
+like a recording, and stopped at exactly
+
+126
+00:09:59,949 --> 00:10:01,151
+the same instant.
+
+127
+00:10:01,721 --> 00:10:05,141
+Nobody noticed. Everyone was too
+busy believing.
+
+128
+00:10:07,211 --> 00:10:10,180
+The subpoena arrived on a
+Tuesday in August.
+
+129
+00:10:10,750 --> 00:10:16,578
+It was served in person, at twelve minutes past nine,
+on Dana Whitfield, chief of staff,
+
+130
+00:10:16,598 --> 00:10:22,293
+at the front desk of the tower, by a tall man in a
+dark suit with a badge on his belt.
+
+131
+00:10:22,313 --> 00:10:28,141
+He was polite. He apologised for the inconvenience.
+He said the company would be hearing
+
+132
+00:10:28,161 --> 00:10:34,321
+from the United States Attorney's office shortly, and
+that he hoped everyone would cooperate,
+
+133
+00:10:34,341 --> 00:10:35,983
+and he gave her his card.
+
+134
+00:10:36,552 --> 00:10:41,915
+She carried both up to the corner office herself, in
+the lift, holding them in front of
+
+135
+00:10:41,935 --> 00:10:44,328
+her with both hands like something hot.
+
+136
+00:10:45,899 --> 00:10:52,190
+The Director read the subpoena once. It was a demand
+for records — shipping, animal care,
+
+137
+00:10:52,210 --> 00:10:58,289
+facilities, power consumption — from a federal grand
+jury in the District of Delaware,
+
+138
+00:10:58,309 --> 00:11:04,388
+investigating possible violations of laws he had not
+heard of before that morning, and
+
+139
+00:11:04,408 --> 00:11:06,870
+would know by heart by the evening.
+
+140
+00:11:07,441 --> 00:11:08,867
+Then he read the card.
+
+141
+00:11:09,437 --> 00:11:16,268
+Special Agent Owen Carrick. Federal Bureau of
+Investigation. Philadelphia Field Office.
+
+142
+00:11:16,288 --> 00:11:19,418
+Weapons of Mass Destruction Coordinator.
+
+143
+00:11:21,607 --> 00:11:22,904
+Albert? Is it bad?
+
+144
+00:11:24,424 --> 00:11:30,056
+He looked up at her. He was smiling. It was not a
+nice smile. It was the smile of a man
+
+145
+00:11:30,076 --> 00:11:35,317
+who has been handed a pistol in a room full of
+people who don't know it's loaded.
+
+146
+00:11:36,008 --> 00:11:37,736
+It's exactly what I asked for.
