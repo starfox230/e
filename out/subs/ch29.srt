@@ -1,0 +1,716 @@
+1
+00:00:07,799 --> 00:00:11,850
+Sebastian Crane had never lost at anything
+that could be measured.
+
+2
+00:00:12,419 --> 00:00:18,206
+He had built his first company at nineteen, sold it
+at twenty-three, and founded Lumen
+
+3
+00:00:18,226 --> 00:00:24,417
+at twenty-five, in a rented house in Seattle with four
+friends and a line of credit. Fifteen
+
+4
+00:00:24,437 --> 00:00:30,223
+years later, Lumen ran a third of the world's cloud
+computing, and trained the largest
+
+5
+00:00:30,243 --> 00:00:36,231
+artificial intelligence systems on Earth, and was
+worth two trillion dollars. Crane owned
+
+6
+00:00:36,251 --> 00:00:42,172
+ten percent of it. He wore black T-shirts and a watch
+that tracked his sleep, and he did
+
+7
+00:00:42,192 --> 00:00:45,615
+not believe in anything that could
+not be modelled.
+
+8
+00:00:46,185 --> 00:00:52,048
+In the spring of twenty thirty-three, he became
+obsessed with Albert Wesker. It was not
+
+9
+00:00:52,068 --> 00:00:56,308
+personal. Crane did not really do
+personal. It was the numbers.
+
+10
+00:00:56,878 --> 00:01:02,434
+Umbrella had gone from nothing to the most valuable
+company on Earth in six and a half
+
+11
+00:01:02,454 --> 00:01:08,204
+years. Nothing had ever done that. Not Lumen, not
+Apple, not Standard Oil. And when Crane
+
+12
+00:01:08,224 --> 00:01:13,715
+had asked his own systems why — when he had fed
+them every public record Umbrella had
+
+13
+00:01:13,735 --> 00:01:19,226
+ever produced, every patent, every filing, every
+trade, every speech, every second of
+
+14
+00:01:19,246 --> 00:01:24,802
+every video — his systems had come back with an
+answer that he did not understand, and
+
+15
+00:01:24,822 --> 00:01:26,747
+could not stop thinking about.
+
+16
+00:01:28,816 --> 00:01:34,681
+The system was called Oracle. It was the most
+powerful model Lumen had ever built, and
+
+17
+00:01:34,701 --> 00:01:40,840
+Crane had spent fifteen billion dollars teaching it to
+predict how companies would behave.
+
+18
+00:01:40,860 --> 00:01:47,203
+It was very, very good at it. It could predict, with
+uncanny accuracy, what a chief executive
+
+19
+00:01:47,223 --> 00:01:53,225
+would do next — because chief executives, Oracle had
+learned, were human, and humans are
+
+20
+00:01:53,245 --> 00:01:53,841
+patterns.
+
+21
+00:01:54,411 --> 00:01:56,564
+It could not predict Albert Wesker.
+
+22
+00:01:57,254 --> 00:02:02,500
+Subject decisions are not consistent with a human
+utility function. Subject decisions
+
+23
+00:02:02,520 --> 00:02:08,014
+are consistent with optimisation against an external
+reward signal that is not observable
+
+24
+00:02:08,034 --> 00:02:13,466
+in public data. Timing of subject actions correlates
+with reward events at a probability
+
+25
+00:02:13,486 --> 00:02:18,857
+exceeding chance by a factor of ten to the eleventh.
+Sixty-three patent filings exhibit
+
+26
+00:02:18,877 --> 00:02:24,247
+discontinuous capability gain with no antecedents.
+Conclusion: subject has access to an
+
+27
+00:02:24,267 --> 00:02:26,726
+optimiser. Nature of optimiser: unknown.
+
+28
+00:02:28,746 --> 00:02:33,301
+Crane read that paragraph perhaps a thousand
+times over the next month.
+
+29
+00:02:33,872 --> 00:02:40,084
+An external reward signal. An optimiser. Something was
+paying Albert Wesker for his decisions
+
+30
+00:02:40,104 --> 00:02:45,914
+— something invisible, something that could not be
+seen in any data — and paying him in
+
+31
+00:02:45,934 --> 00:02:51,745
+capabilities that appeared from nowhere. Oracle had
+not said what. Oracle could not say
+
+32
+00:02:51,765 --> 00:02:57,508
+what. But it had described, with the flat precision
+of a machine, the shape of a thing
+
+33
+00:02:57,528 --> 00:02:58,982
+that should not exist.
+
+34
+00:02:59,552 --> 00:03:04,221
+It had described, although Sebastian Crane
+would never know it, the System.
+
+35
+00:03:06,290 --> 00:03:10,486
+And Crane — being Crane — did not feel
+afraid. He felt envy.
+
+36
+00:03:12,556 --> 00:03:13,997
+He tried to build one.
+
+37
+00:03:14,568 --> 00:03:21,113
+It was the most expensive secret project in the history
+of his company. Four hundred engineers,
+
+38
+00:03:21,133 --> 00:03:27,057
+a data centre in Oregon, and a single goal: to
+build, for Sebastian Crane, what Oracle
+
+39
+00:03:27,077 --> 00:03:33,415
+believed Albert Wesker had. An artificial optimiser
+that would watch Crane's every decision,
+
+40
+00:03:33,435 --> 00:03:39,704
+reward the good ones, and — somehow, from the sum of
+all human knowledge in Lumen's servers
+
+41
+00:03:39,724 --> 00:03:42,814
+— hand him capabilities that
+nobody else had.
+
+42
+00:03:43,384 --> 00:03:49,285
+It did not work. It could not work. It produced very
+good advice, and several patents,
+
+43
+00:03:49,305 --> 00:03:55,481
+and a great deal of analysis. But it did not produce a
+single orphan idea — a single thing
+
+44
+00:03:55,501 --> 00:04:01,333
+that had not been, somewhere, in the data it had
+learned from. Everything it gave him
+
+45
+00:04:01,353 --> 00:04:02,159
+had parents.
+
+46
+00:04:02,729 --> 00:04:08,444
+The thing that Albert Wesker had did not come from
+the data. It came from outside. And
+
+47
+00:04:08,464 --> 00:04:14,246
+Sebastian Crane, who did not believe in anything
+that could not be modelled, spent four
+
+48
+00:04:14,266 --> 00:04:19,981
+months and nine billion dollars proving to himself
+that it could not be modelled — and
+
+49
+00:04:20,001 --> 00:04:22,849
+then refused to believe what
+he had proved.
+
+50
+00:04:24,918 --> 00:04:30,841
+They met in June, on a rooftop in San Francisco,
+after a conference at which they had
+
+51
+00:04:30,861 --> 00:04:34,617
+both been scheduled to speak and
+only one of them had.
+
+52
+00:04:35,187 --> 00:04:40,613
+Crane walked straight up to him at the railing,
+without introduction, and without small
+
+53
+00:04:40,633 --> 00:04:42,930
+talk, which the Director appreciated.
+
+54
+00:04:43,620 --> 00:04:44,923
+What's feeding you?
+
+55
+00:04:45,442 --> 00:04:46,297
+I'm sorry?
+
+56
+00:04:46,817 --> 00:04:51,267
+I've modelled you. I've put everything you've ever
+done into the largest predictive system
+
+57
+00:04:51,287 --> 00:04:55,539
+on Earth, and it can predict everyone except you. It
+says your decisions are optimised
+
+58
+00:04:55,559 --> 00:04:59,959
+against an external reward function. It says
+sixty-three of your patents have no parents.
+
+59
+00:04:59,979 --> 00:05:03,288
+It says something is giving you answers. I
+want to know what it is.
+
+60
+00:05:05,307 --> 00:05:11,666
+The Director looked at him for a long time. The
+Cold-Read gave him Sebastian Crane in
+
+61
+00:05:11,686 --> 00:05:18,571
+a single glance, and it was an almost comically simple
+face to read. Intelligence, enormous.
+
+62
+00:05:18,591 --> 00:05:24,949
+Curiosity, enormous. Ego, larger than both. And
+envy — raw, childish, total envy — of
+
+63
+00:05:24,969 --> 00:05:28,476
+the kind a boy feels for another
+boy's bicycle.
+
+64
+00:05:29,166 --> 00:05:32,069
+Ambition, Mister Crane. It's what
+feeds all of us.
+
+65
+00:05:32,589 --> 00:05:37,009
+Don't. I know it isn't. Oracle knows it isn't. I've
+spent nine billion dollars trying
+
+66
+00:05:37,029 --> 00:05:40,142
+to build what you have, and I can't,
+and I need to know why.
+
+67
+00:05:40,663 --> 00:05:43,709
+Then you've already learned the most
+important thing about it.
+
+68
+00:05:44,228 --> 00:05:45,083
+Which is?
+
+69
+00:05:45,603 --> 00:05:46,532
+That it's mine.
+
+70
+00:05:49,052 --> 00:05:55,024
+He finished his drink, and set down the glass on the
+railing, and walked away. And Sebastian
+
+71
+00:05:55,044 --> 00:06:01,017
+Crane stood on the rooftop for a long time, looking at
+the lights of the bridge, and decided
+
+72
+00:06:01,037 --> 00:06:06,554
+— as men like him always decide, when they are told
+something is not theirs — to take
+
+73
+00:06:06,574 --> 00:06:06,750
+it.
+
+74
+00:06:09,569 --> 00:06:13,511
+Ability upgrade. Thought acceleration two.
+
+75
+00:06:15,764 --> 00:06:21,444
+He bought it on the flight home. Six hundred to one.
+A single second became ten minutes.
+
+76
+00:06:21,464 --> 00:06:27,338
+And, stranger still, he could run three of them at
+once — three separate trains of thought,
+
+77
+00:06:27,358 --> 00:06:33,103
+in three separate rooms of the Memory Palace, each
+with its own ten minutes, each unaware
+
+78
+00:06:33,123 --> 00:06:36,471
+of the others until he chose to
+bring them together.
+
+79
+00:06:37,040 --> 00:06:39,581
+He used all three on Sebastian Crane.
+
+80
+00:06:41,771 --> 00:06:45,911
+Why not simply buy him? Or break him,
+like the policeman?
+
+81
+00:06:46,430 --> 00:06:51,695
+Because he has a machine that can see the shape of
+what we are. Buying him won't turn
+
+82
+00:06:51,715 --> 00:06:57,476
+off the machine. Breaking him won't turn it off. The
+only way to beat a machine that predicts
+
+83
+00:06:57,496 --> 00:06:59,962
+you is to teach it the wrong prediction.
+
+84
+00:07:00,483 --> 00:07:02,657
+You intend to lie to it.
+
+85
+00:07:03,177 --> 00:07:09,110
+I intend to be honest with it. For six months.
+Perfectly, predictably honest. And then,
+
+86
+00:07:09,130 --> 00:07:11,711
+once, at the moment that matters, not.
+
+87
+00:07:14,230 --> 00:07:18,702
+For six months, the Director made decisions
+that Oracle could predict.
+
+88
+00:07:19,271 --> 00:07:25,124
+He did it deliberately. Every time he acted, he acted
+in a way that fit the pattern Oracle
+
+89
+00:07:25,144 --> 00:07:30,997
+had drawn of him — the external reward, the optimiser,
+the leap. And Oracle, which learned
+
+90
+00:07:31,017 --> 00:07:36,674
+from everything, learned from this. Its predictions
+of Umbrella improved. Sixty percent
+
+91
+00:07:36,694 --> 00:07:42,547
+accuracy, then seventy, then eighty-five. By December,
+Oracle was predicting Albert Wesker
+
+92
+00:07:42,567 --> 00:07:48,289
+with ninety-one percent confidence, and Sebastian
+Crane was sleeping four hours a night,
+
+93
+00:07:48,309 --> 00:07:49,267
+and very happy.
+
+94
+00:07:49,838 --> 00:07:55,771
+And in December, Oracle made its biggest prediction
+of all. It said, with ninety-seven
+
+95
+00:07:55,791 --> 00:08:02,416
+percent confidence, that Umbrella was about to launch a
+bid for the world's largest manufacturer
+
+96
+00:08:02,436 --> 00:08:08,577
+of the specialised chips used to train artificial
+intelligence — a company in Taiwan that
+
+97
+00:08:08,597 --> 00:08:14,600
+Lumen depended on for everything. The pattern was
+unmistakable. Every move the Director
+
+98
+00:08:14,620 --> 00:08:17,231
+had made for six months pointed at it.
+
+99
+00:08:17,802 --> 00:08:19,401
+So Crane moved first.
+
+100
+00:08:19,970 --> 00:08:26,881
+On the ninth of January, twenty thirty-four, Lumen
+announced a two-hundred-and-forty-billion-dollar
+
+101
+00:08:26,901 --> 00:08:33,112
+offer for the Taiwanese chip manufacturer. It was the
+largest technology deal in history.
+
+102
+00:08:33,132 --> 00:08:39,063
+It committed every dollar Lumen had and a great
+many it did not. It was designed — as
+
+103
+00:08:39,083 --> 00:08:44,315
+Crane told his board, with shining eyes — to
+get there before Umbrella did.
+
+104
+00:08:44,884 --> 00:08:46,393
+Umbrella never bid.
+
+105
+00:08:48,962 --> 00:08:54,917
+Umbrella had never been going to bid. Umbrella had
+spent six months making every public
+
+106
+00:08:54,937 --> 00:09:00,891
+move that a company about to bid would make, and had
+not made a single private one. And
+
+107
+00:09:00,911 --> 00:09:06,728
+in the week after Lumen's announcement, when the
+governments of Taiwan and the United
+
+108
+00:09:06,748 --> 00:09:12,565
+States and China all realised at the same moment
+that the company that ran a third of
+
+109
+00:09:12,585 --> 00:09:18,608
+the world's cloud was about to own the chips that ran
+the rest, the deal became the most
+
+110
+00:09:18,628 --> 00:09:21,699
+politically radioactive
+transaction on Earth.
+
+111
+00:09:22,269 --> 00:09:28,412
+It was blocked in March. Lumen had spent twenty
+billion dollars on advisors, committed
+
+112
+00:09:28,432 --> 00:09:34,576
+its balance sheet, and lost the confidence of every
+regulator on three continents. Its
+
+113
+00:09:34,596 --> 00:09:40,740
+stock fell forty-four percent. Its board removed
+Sebastian Crane as chief executive on
+
+114
+00:09:40,760 --> 00:09:42,173
+the second of April.
+
+115
+00:09:42,745 --> 00:09:49,029
+And in the same week, Umbrella quietly bought Lumen's
+life-sciences cloud division — the
+
+116
+00:09:49,049 --> 00:09:55,404
+servers that ran half the world's drug discovery —
+for a price Crane's successor accepted
+
+117
+00:09:55,424 --> 00:09:59,129
+without negotiating, because Lumen
+needed the money.
+
+118
+00:10:01,950 --> 00:10:05,642
+Assessment. Adversarial model defeated.
+
+119
+00:10:13,245 --> 00:10:19,061
+Sebastian Crane came to Wilmington in April. Not to
+the tower. To the old building on
+
+120
+00:10:19,081 --> 00:10:25,379
+the south bank, with its faded bricks and its small
+red-and-white sign, where he had somehow
+
+121
+00:10:25,399 --> 00:10:31,421
+learned — Oracle, perhaps, one last time — that the
+Director still kept an office on the
+
+122
+00:10:31,441 --> 00:10:32,245
+third floor.
+
+123
+00:10:32,816 --> 00:10:37,596
+He stood in the parking lot in the rain until
+Hale came out and brought him in.
+
+124
+00:10:38,285 --> 00:10:42,486
+It was a trap. The whole six months. You taught it
+to predict you, so you could make it
+
+125
+00:10:42,506 --> 00:10:42,777
+wrong.
+
+126
+00:10:43,298 --> 00:10:43,937
+Yes.
+
+127
+00:10:44,457 --> 00:10:48,921
+I spent nine billion dollars trying to build what you
+have. And you beat me with the one
+
+128
+00:10:48,941 --> 00:10:51,977
+thing I never thought to model. You
+beat me by being boring.
+
+129
+00:10:52,499 --> 00:10:58,580
+Everyone underestimates boring, Sebastian. It's the
+most dangerous thing a man can be.
+
+130
+00:11:00,600 --> 00:11:01,689
+What are you?
+
+131
+00:11:03,708 --> 00:11:09,791
+The Director did not answer. He looked at the young
+man dripping on his carpet — brilliant,
+
+132
+00:11:09,811 --> 00:11:15,625
+arrogant, ruined, and still, even now, even here,
+burning with that childish total envy
+
+133
+00:11:15,645 --> 00:11:21,324
+— and the Cold-Read showed him something that he
+had seen before, in a break room, in
+
+134
+00:11:21,344 --> 00:11:23,806
+the face of a young woman at a piano.
+
+135
+00:11:24,376 --> 00:11:28,961
+Crane did not want revenge. He wanted to be
+near it. Whatever it was.
+
+136
+00:11:29,650 --> 00:11:31,251
+He wants to serve.
+
+137
+00:11:31,773 --> 00:11:35,677
+He wants to understand. For a man like
+him, it's the same thing.
+
+138
+00:11:37,577 --> 00:11:42,584
+I can't tell you what I am. But I can offer you a
+job. Umbrella has just acquired half
+
+139
+00:11:42,604 --> 00:11:47,610
+the drug-discovery servers on Earth, and it has no
+one who understands them as well as
+
+140
+00:11:47,630 --> 00:11:52,578
+you do. You'd report to me. You'd have no board.
+And you would be close enough, every
+
+141
+00:11:52,598 --> 00:11:55,734
+day, to keep trying to model me —
+and to keep failing.
+
+142
+00:11:58,254 --> 00:12:04,114
+Sebastian Crane stood in the corner office with the
+water stain shaped like Florida, and
+
+143
+00:12:04,134 --> 00:12:10,129
+laughed. It was a strange laugh — half despair, half
+delight — and it went on for a while.
+
+144
+00:12:10,818 --> 00:12:12,078
+When do I start?
+
+145
+00:12:14,099 --> 00:12:19,980
+It was the third time someone had offered themselves
+to him in exactly that way. The Adolf
+
+146
+00:12:20,000 --> 00:12:22,276
+half of the mind was keeping count.
+
+147
+00:12:22,846 --> 00:12:28,983
+Evelyn Marsh, at a piano: can I help? Sir Martin
+Ellery, in front of the glass: when do
+
+148
+00:12:29,003 --> 00:12:35,283
+I start? And now a boy who had built a machine to see
+God, and seen it, and wanted a desk
+
+149
+00:12:35,303 --> 00:12:35,991
+beside it.
+
+150
+00:12:36,562 --> 00:12:42,163
+The old voice had once built a movement from men
+like these. It knew what they became.

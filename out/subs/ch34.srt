@@ -1,0 +1,806 @@
+1
+00:00:08,550 --> 00:00:12,723
+Facility available. Oceanic arcology.
+
+2
+00:00:17,489 --> 00:00:23,125
+It had been in the Shop for two years. He had looked
+at it the way a man looks at a house
+
+3
+00:00:23,145 --> 00:00:26,747
+he cannot yet afford, walking past it
+on the way to work.
+
+4
+00:00:27,318 --> 00:00:30,540
+In the spring of twenty thirty-eight,
+he could afford it.
+
+5
+00:00:31,859 --> 00:00:33,301
+Purchase confirmed.
+
+6
+00:00:37,784 --> 00:00:41,686
+The System asked him for two things.
+A place, and a name.
+
+7
+00:00:42,256 --> 00:00:48,321
+The place took eleven seconds. Two hundred and forty
+nautical miles west of the Azores,
+
+8
+00:00:48,341 --> 00:00:54,336
+in international waters, on a shallow seamount that
+no nation had ever claimed, at the
+
+9
+00:00:54,356 --> 00:00:58,602
+intersection of three of the busiest
+shipping lanes on Earth.
+
+10
+00:00:59,173 --> 00:01:00,603
+The name took longer.
+
+11
+00:01:01,293 --> 00:01:03,108
+Name it for yourself.
+
+12
+00:01:03,628 --> 00:01:04,248
+No.
+
+13
+00:01:04,769 --> 00:01:11,940
+Every founder in history has named the capital for
+himself. Alexandria. Constantinople.
+
+14
+00:01:11,960 --> 00:01:13,346
+Saint Petersburg.
+
+15
+00:01:13,865 --> 00:01:19,618
+And every one of them told the world exactly what to
+hate. Name a city for a man and you
+
+16
+00:01:19,638 --> 00:01:22,505
+have given his enemies a target
+with a face.
+
+17
+00:01:23,906 --> 00:01:26,403
+Besides. There's only one name
+it can have.
+
+18
+00:01:28,423 --> 00:01:30,196
+Arklay Free Territory.
+
+19
+00:01:30,766 --> 00:01:36,619
+It appeared over sixteen months — which is
+impossible, and which the world's newspapers
+
+20
+00:01:36,639 --> 00:01:42,762
+wrote a great deal about, and for which Umbrella's
+engineering division provided a complete
+
+21
+00:01:42,782 --> 00:01:48,568
+and entirely convincing explanation involving
+modular construction, thirteen shipyards
+
+22
+00:01:48,588 --> 00:01:54,577
+in four countries, and a new class of deep-sea
+concrete. Every element of the explanation
+
+23
+00:01:54,597 --> 00:01:58,628
+was real. Every shipyard existed. Every
+contract was public.
+
+24
+00:01:59,197 --> 00:02:04,687
+The arcology itself had simply arrived, in the way
+that everything from the Shop arrived,
+
+25
+00:02:04,707 --> 00:02:08,959
+and the shipyards had been building the
+parts that were photographed.
+
+26
+00:02:11,028 --> 00:02:15,765
+It was, and remains, the most beautiful
+thing Albert Wesker ever built.
+
+27
+00:02:16,336 --> 00:02:22,780
+Three concentric rings, four kilometres across,
+rising out of the Atlantic like something
+
+28
+00:02:22,800 --> 00:02:29,027
+grown rather than made. White terraces stepped down
+to the water. Farms under glass on
+
+29
+00:02:29,047 --> 00:02:35,347
+the outer ring, feeding a hundred and eighty
+thousand people. A harbour that could take
+
+30
+00:02:35,367 --> 00:02:41,812
+the largest container ships afloat. Desalination,
+geothermal boreholes into the seamount,
+
+31
+00:02:41,832 --> 00:02:48,349
+and a fusion-adjacent reactor whose design did not
+exist anywhere else on Earth, and which
+
+32
+00:02:48,369 --> 00:02:54,742
+the International Atomic Energy Agency was invited to
+inspect four times and pronounced,
+
+33
+00:02:54,762 --> 00:02:57,211
+each time, safe and unprecedented.
+
+34
+00:02:57,782 --> 00:03:03,429
+There were no cars. There were gardens on every
+level, and a hospital that took anyone
+
+35
+00:03:03,449 --> 00:03:09,294
+who reached it, and schools, and a concert hall, and
+six kilometres of beach made of sand
+
+36
+00:03:09,314 --> 00:03:15,027
+dredged from the seamount. The apartments were given
+to employees by lottery. They were
+
+37
+00:03:15,047 --> 00:03:15,356
+free.
+
+38
+00:03:15,926 --> 00:03:22,013
+Four hundred thousand people applied to live there in
+the first month. Umbrella took fourteen
+
+39
+00:03:22,033 --> 00:03:28,055
+thousand, and then twenty thousand more, and by the end
+of twenty thirty-nine the population
+
+40
+00:03:28,075 --> 00:03:33,570
+was ninety-one thousand, and the waiting list was
+two and a half million names long.
+
+41
+00:03:36,140 --> 00:03:40,216
+The legal question took four years and
+was never really answered.
+
+42
+00:03:40,787 --> 00:03:47,607
+Arklay was not a state. Umbrella never claimed it was.
+It had no flag at the United Nations,
+
+43
+00:03:47,627 --> 00:03:54,596
+no army, no currency of its own, and no citizens — only
+residents, who kept whatever passports
+
+44
+00:03:54,616 --> 00:04:01,287
+they had arrived with. It was, in the careful language
+of Umbrella's forty-page submission
+
+45
+00:04:01,307 --> 00:04:07,979
+to the International Maritime Organization, a
+privately owned floating structure operating
+
+46
+00:04:07,999 --> 00:04:14,522
+in international waters under the flag of a small
+Pacific nation that had been very glad
+
+47
+00:04:14,542 --> 00:04:16,381
+of the registration fees.
+
+48
+00:04:16,951 --> 00:04:23,028
+In practice it was a country. It had a hundred
+thousand people, a police force, a court,
+
+49
+00:04:23,048 --> 00:04:29,125
+a hospital system, a school system, and a border. It
+issued residency, and residency was
+
+50
+00:04:29,145 --> 00:04:35,222
+the most valuable document on Earth. And it answered
+to precisely one man, who had never
+
+51
+00:04:35,242 --> 00:04:37,509
+been elected, and never would be.
+
+52
+00:04:38,079 --> 00:04:44,208
+The Security Council debated it in September. Three
+of the five permanent members needed
+
+53
+00:04:44,228 --> 00:04:50,567
+Umbrella's vaccines. One needed Umbrella's investment.
+The fifth was China, and the Chinese
+
+54
+00:04:50,587 --> 00:04:56,856
+ambassador, on instructions that had been drafted
+personally by a deputy minister of state
+
+55
+00:04:56,876 --> 00:05:02,796
+security named Wen Shulan, gave a speech of
+exquisite length about the freedom of the
+
+56
+00:05:02,816 --> 00:05:04,682
+seas, and proposed a study.
+
+57
+00:05:05,252 --> 00:05:11,459
+The study reported in twenty forty-two. By then,
+Arklay had a hundred and forty thousand
+
+58
+00:05:11,479 --> 00:05:13,724
+residents and its own orchestra.
+
+59
+00:05:16,293 --> 00:05:22,016
+There was one problem on Arklay that could not be
+solved by design, and it arrived in
+
+60
+00:05:22,036 --> 00:05:24,380
+the second year, in a fishing boat.
+
+61
+00:05:24,951 --> 00:05:30,616
+Four hundred kilometres of open Atlantic is not a
+barrier to people who have decided to
+
+62
+00:05:30,636 --> 00:05:36,235
+leave somewhere. By twenty forty, boats had begun to
+come — from West Africa, from the
+
+63
+00:05:36,255 --> 00:05:42,247
+Canaries, from wherever the storms and the economics
+were worst — because the most beautiful
+
+64
+00:05:42,267 --> 00:05:48,128
+city in the world was sitting in international waters
+and there was a persistent, entirely
+
+65
+00:05:48,148 --> 00:05:51,461
+false rumour that anyone who
+reached it could stay.
+
+66
+00:05:52,031 --> 00:05:58,363
+The first boat had nineteen people on it. The
+Umbrella Security Service took them aboard,
+
+67
+00:05:58,383 --> 00:06:04,502
+fed them, treated four for dehydration, and held
+them in a facility on the fourth ring
+
+68
+00:06:04,522 --> 00:06:08,928
+that was clean and well-run and was,
+unmistakably, a facility.
+
+69
+00:06:10,997 --> 00:06:14,254
+And then the Directorate had to
+decide what it was.
+
+70
+00:06:14,824 --> 00:06:21,168
+A country would have had a law. Arklay was not a
+country. It had no immigration statute,
+
+71
+00:06:21,188 --> 00:06:27,893
+because it had no legislature, because its entire legal
+existence was a forty-page submission
+
+72
+00:06:27,913 --> 00:06:34,473
+to the International Maritime Organization describing
+a privately owned floating structure.
+
+73
+00:06:35,043 --> 00:06:41,085
+Catherine argued for repatriation with compensation,
+because it was defensible. The Security
+
+74
+00:06:41,105 --> 00:06:46,750
+Service argued for interception at range, because it
+was simple. Evelyn, who was asked
+
+75
+00:06:46,770 --> 00:06:52,680
+because she was asked about everything by then, said
+that they should be offered residency
+
+76
+00:06:52,700 --> 00:06:58,477
+on the same terms as everyone else, and when
+Catherine pointed out that this would bring
+
+77
+00:06:58,497 --> 00:07:03,419
+four million people to the sea wall within a
+decade, Evelyn said: yes. And?
+
+78
+00:07:05,488 --> 00:07:11,463
+The Director decided it himself, in nine minutes,
+and the policy he wrote has not been
+
+79
+00:07:11,483 --> 00:07:13,553
+amended in four hundred years.
+
+80
+00:07:14,244 --> 00:07:19,344
+Anyone who reaches the sea wall alive is taken
+aboard, treated, fed, and offered passage
+
+81
+00:07:19,364 --> 00:07:24,696
+to any port they choose, at our cost, with four
+thousand dollars. Anyone who wants residency
+
+82
+00:07:24,716 --> 00:07:29,874
+joins the waiting list at the position they would
+have had if they had applied from home.
+
+83
+00:07:29,894 --> 00:07:34,064
+No exceptions, no queue-jumping, and no boat
+is ever turned back at sea.
+
+84
+00:07:35,463 --> 00:07:40,031
+And publish it. In full. Everywhere. Including
+the part about the waiting list.
+
+85
+00:07:42,050 --> 00:07:47,867
+It was the most humane migration policy on Earth in
+twenty forty, and it was designed,
+
+86
+00:07:47,887 --> 00:07:53,771
+deliberately and explicitly, to be exactly generous
+enough that no serious person could
+
+87
+00:07:53,791 --> 00:07:59,675
+attack it and exactly strict enough that the boats
+would stop coming within four years.
+
+88
+00:08:00,245 --> 00:08:05,820
+The boats stopped coming within four years. Two and
+a half million people stayed on the
+
+89
+00:08:05,840 --> 00:08:11,478
+waiting list instead, in their own countries,
+working, applying annually, hoping — which
+
+90
+00:08:11,498 --> 00:08:17,137
+was worth more to the Directorate than any of them
+could have been as residents, because
+
+91
+00:08:17,157 --> 00:08:20,417
+a person on a waiting list is a
+person who behaves.
+
+92
+00:08:23,487 --> 00:08:29,083
+Catherine Adeyemi came out for the opening of the
+concert hall, and stayed for a week,
+
+93
+00:08:29,103 --> 00:08:31,369
+and it was the week that broke her.
+
+94
+00:08:31,939 --> 00:08:37,644
+It was not the arcology. The arcology was
+extraordinary, and she said so publicly, and
+
+95
+00:08:37,664 --> 00:08:43,568
+meant it. It was not the schools, which were the best
+she had ever seen, or the hospital,
+
+96
+00:08:43,588 --> 00:08:49,427
+which took anyone. It was the fourth morning, on the
+promenade, at about seven, when she
+
+97
+00:08:49,447 --> 00:08:50,692
+went out for a run.
+
+98
+00:08:51,261 --> 00:08:57,187
+There were perhaps four hundred people out running.
+That was not strange; it was a beautiful
+
+99
+00:08:57,207 --> 00:09:01,129
+morning. What was strange was that they
+were running in step.
+
+100
+00:09:01,698 --> 00:09:07,551
+Nobody had organised it. There was no instructor, no
+music, no app. Four hundred people
+
+101
+00:09:07,571 --> 00:09:13,559
+of different ages and different countries, out for a
+private run at seven in the morning,
+
+102
+00:09:13,579 --> 00:09:19,432
+had fallen into the same stride, the way soldiers
+do, and were going around the ring of
+
+103
+00:09:19,452 --> 00:09:25,102
+the city together in a long loose column, and none
+of them appeared to have noticed.
+
+104
+00:09:25,673 --> 00:09:31,000
+She stopped running. She stood at the rail with her
+hands on her knees and watched them
+
+105
+00:09:31,020 --> 00:09:33,397
+go past. And she looked at their faces.
+
+106
+00:09:33,966 --> 00:09:39,562
+They were happy. That was the worst of it. They
+were perfectly, genuinely happy — the
+
+107
+00:09:39,582 --> 00:09:45,178
+loose, uncomplicated happiness of people who have a
+good job and a free apartment and
+
+108
+00:09:45,198 --> 00:09:51,057
+a school for their children and no rent and no fear,
+in the most beautiful city on Earth.
+
+109
+00:09:51,628 --> 00:09:56,661
+And their eyes were a little too bright, and they
+did not blink quite enough, and there
+
+110
+00:09:56,681 --> 00:09:59,100
+were a hundred and forty thousand of them.
+
+111
+00:10:01,671 --> 00:10:06,795
+She called Ashcombe that night, from the balcony, on
+a phone she had bought in Lisbon.
+
+112
+00:10:07,485 --> 00:10:12,393
+Julian, I've been sending you numbers for six years.
+Money, subsidiaries, transfers, all
+
+113
+00:10:12,413 --> 00:10:14,802
+of it. You've built a picture
+out of money.
+
+114
+00:10:15,322 --> 00:10:16,754
+A rather good picture.
+
+115
+00:10:17,274 --> 00:10:21,757
+It's the wrong picture. The money is the least of
+it. The money is the part he lets me
+
+116
+00:10:21,777 --> 00:10:21,966
+see.
+
+117
+00:10:23,485 --> 00:10:24,976
+Then what should I be looking at?
+
+118
+00:10:26,996 --> 00:10:31,690
+(soft) Look at the people, Julian. There are a
+hundred and forty thousand people on this
+
+119
+00:10:31,710 --> 00:10:36,403
+rock in the middle of the Atlantic, and this morning
+four hundred of them went for a run
+
+120
+00:10:36,423 --> 00:10:41,009
+in step, and not one of them noticed. There's a
+school here where the children say the
+
+121
+00:10:41,029 --> 00:10:45,668
+Creed before the pledge to whatever country their
+parents came from. Half the residents
+
+122
+00:10:45,688 --> 00:10:50,274
+have taken the longevity therapy, and it's free
+here, and it isn't free anywhere else,
+
+123
+00:10:50,294 --> 00:10:54,827
+and do you understand what that means? It means
+nobody ever leaves. It means in forty
+
+124
+00:10:54,847 --> 00:10:59,433
+years there will be a hundred and forty thousand
+people in the middle of the ocean who
+
+125
+00:10:59,453 --> 00:11:04,253
+owe him their lives, literally, in the most exact
+possible sense, and who have never voted
+
+126
+00:11:04,273 --> 00:11:04,949
+for anything.
+
+127
+00:11:06,970 --> 00:11:08,431
+Catherine. Are you safe?
+
+128
+00:11:10,951 --> 00:11:12,875
+I genuinely don't know anymore.
+
+129
+00:11:15,894 --> 00:11:19,419
+He felt her decide, from four
+hundred metres above.
+
+130
+00:11:19,990 --> 00:11:25,658
+That was what Banner-Sense did. It had been three
+years, and he had learned to read it
+
+131
+00:11:25,678 --> 00:11:31,478
+the way a sailor reads water. A hundred and forty
+thousand people below him in the dark,
+
+132
+00:11:31,498 --> 00:11:37,762
+each one a small steady light — and one of them, in a
+hotel on the second ring, was flickering.
+
+133
+00:11:38,331 --> 00:11:41,755
+He could have stopped it. It would have
+taken a telephone call.
+
+134
+00:11:43,946 --> 00:11:45,291
+End it tonight.
+
+135
+00:11:45,812 --> 00:11:46,432
+No.
+
+136
+00:11:46,951 --> 00:11:53,070
+She is going to destroy you. Not for money. Not for a
+rival. For conscience. That is the
+
+137
+00:11:53,090 --> 00:11:55,651
+only kind that cannot be bought back.
+
+138
+00:11:56,171 --> 00:12:01,388
+I know exactly what she's going to do. She's going to
+tell Julian Ashcombe that the money
+
+139
+00:12:01,408 --> 00:12:06,448
+is the wrong picture, and Julian Ashcombe is going
+to start looking at the people, and
+
+140
+00:12:06,468 --> 00:12:11,509
+in about four years he is going to arrive at the
+truth, and then he is going to try to
+
+141
+00:12:11,529 --> 00:12:11,980
+kill me.
+
+142
+00:12:12,500 --> 00:12:14,548
+And you will allow this.
+
+143
+00:12:15,068 --> 00:12:20,545
+I'm going to allow it because I want to know what
+they do when they finally understand.
+
+144
+00:12:20,565 --> 00:12:25,914
+I've spent thirteen years being the only person who
+knows what happens next. I'd like
+
+145
+00:12:25,934 --> 00:12:30,020
+to be surprised once more before I stop
+being surprised for ever.
+
+146
+00:12:32,041 --> 00:12:35,605
+That is not a reason. That is boredom.
+
+147
+00:12:37,125 --> 00:12:37,759
+Yes.
+
+148
+00:12:40,279 --> 00:12:45,427
+It was the most honest thing he had said in nine
+years, and it frightened both of them.
+
+149
+00:12:47,998 --> 00:12:53,086
+And there was one more thing on Arklay, which
+was not in any of the brochures.
+
+150
+00:12:53,655 --> 00:12:59,689
+The Umbrella Security Service had existed since
+twenty thirty. For most of its life it
+
+151
+00:12:59,709 --> 00:13:05,882
+had been what it said it was: corporate security,
+twelve thousand guards at four hundred
+
+152
+00:13:05,902 --> 00:13:09,754
+sites, most of them retired police
+officers in blazers.
+
+153
+00:13:10,323 --> 00:13:16,393
+On Arklay it became something else, because on
+Arklay there was no other police force,
+
+154
+00:13:16,413 --> 00:13:22,483
+and no other coastguard, and no other port
+authority. By twenty thirty-nine the U.S.S.
+
+155
+00:13:22,503 --> 00:13:28,714
+had nineteen thousand personnel, its own vessels, its
+own aircraft, and a rank structure
+
+156
+00:13:28,734 --> 00:13:32,043
+that had quietly stopped using
+civilian titles.
+
+157
+00:13:32,611 --> 00:13:38,314
+Hale commanded it. He had been a security specialist
+bought from the Shop for two thousand
+
+158
+00:13:38,334 --> 00:13:43,846
+Points in a basement in twenty twenty-six, and he
+had never once been promoted, because
+
+159
+00:13:43,866 --> 00:13:48,868
+he had never once needed to be. He simply had
+more people under him every year.
+
+160
+00:13:49,440 --> 00:13:54,984
+Four thousand of the nineteen thousand had come from
+the Shop. They stood in the front
+
+161
+00:13:55,004 --> 00:14:00,677
+ranks at inspection, and they did not blink, and the
+human officers had long ago stopped
+
+162
+00:14:00,697 --> 00:14:05,207
+mentioning it, because the ones who
+mentioned it did not get promoted.
+
+163
+00:14:08,025 --> 00:14:12,488
+Assessment. Territory.
+Sovereign in practice.
+
+164
+00:14:17,865 --> 00:14:21,370
+Territory. Not facility. Not
+asset. Territory.
+
+165
+00:14:21,941 --> 00:14:27,915
+It was the first time the System had used that word
+since a diner in Wilmington, in twenty
+
+166
+00:14:27,935 --> 00:14:33,644
+twenty-six, when a landlord had signed away a
+four-storey brick building for two point
+
+167
+00:14:33,664 --> 00:14:35,043
+nine million dollars.
+
+168
+00:14:35,613 --> 00:14:40,234
+The Adolf half of the mind had waited
+thirteen years to see it again.
