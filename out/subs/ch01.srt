@@ -646,305 +646,305 @@ who were not.
 Yes, sir.
 
 140
-00:11:18,654 --> 00:11:21,619
+00:11:18,654 --> 00:11:21,426
 He had not called anyone sir in
-eleven years.
+seven years.
 
 141
-00:11:22,188 --> 00:11:28,358
+00:11:21,995 --> 00:11:28,165
 He went. And halfway down the corridor, alone with
 the rain, he said quietly to nobody
 
 142
-00:11:28,378 --> 00:11:28,861
+00:11:28,185 --> 00:11:28,668
 at all:
 
 143
-00:11:29,552 --> 00:11:30,898
+00:11:29,359 --> 00:11:30,705
 Different animal.
 
 144
-00:11:32,918 --> 00:11:38,693
+00:11:32,725 --> 00:11:38,501
 Back in the corner office, the man who was now Albert
 Wesker sat down at a computer that
 
 145
-00:11:38,713 --> 00:11:40,999
+00:11:38,521 --> 00:11:40,807
 was nine years old and ran like it.
 
 146
-00:11:41,570 --> 00:11:47,343
+00:11:41,376 --> 00:11:47,150
 The Wesker half of the mind knew what to do with it.
 The other half watched, fascinated,
 
 147
-00:11:47,363 --> 00:11:49,713
+00:11:47,170 --> 00:11:49,519
 as the screen filled with the world.
 
 148
-00:11:50,282 --> 00:11:56,525
+00:11:50,090 --> 00:11:56,333
 It took him less than an hour to understand where he
 was. An Earth, but not Wesker's Earth.
 
 149
-00:11:56,545 --> 00:12:02,720
+00:11:56,353 --> 00:12:02,528
 There was no Raccoon City here. No Umbrella
 Corporation that had ever mattered. No mansion
 
 150
-00:12:02,740 --> 00:12:08,640
+00:12:02,548 --> 00:12:08,448
 in the Arklay Mountains, no Redfields, no Spencer.
 He searched his own name, and found
 
 151
-00:12:08,660 --> 00:12:13,665
+00:12:08,468 --> 00:12:13,473
 a dentist in Ohio and a high-school wrestler
 in Oregon, and nothing else.
 
 152
-00:12:14,355 --> 00:12:16,607
+00:12:14,162 --> 00:12:16,414
 Nobody. Nobody has ever heard of me.
 
 153
-00:12:17,128 --> 00:12:20,406
+00:12:16,934 --> 00:12:20,212
 Then the other half of the mind
 typed a different name.
 
 154
-00:12:21,975 --> 00:12:23,719
+00:12:21,783 --> 00:12:23,526
 He read for a long time.
 
 155
-00:12:24,288 --> 00:12:30,343
+00:12:24,096 --> 00:12:30,150
 He read about the war he had started, and how it
 ended. He read the numbers — the soldiers,
 
 156
-00:12:30,363 --> 00:12:36,018
+00:12:30,170 --> 00:12:35,825
 the cities, the six million murdered in the camps,
 and the millions more. He read the
 
 157
-00:12:36,038 --> 00:12:41,892
+00:12:35,845 --> 00:12:41,699
 testimony, and the photographs, and the verdicts at
 Nuremberg. He read that his name had
 
 158
-00:12:41,912 --> 00:12:45,965
+00:12:41,719 --> 00:12:45,772
 become the single word the whole human
 species used for evil.
 
 159
-00:12:46,534 --> 00:12:52,539
+00:12:46,341 --> 00:12:52,346
 He read that he had lost. Not narrowly. Totally.
 His country had been cut in half and
 
 160
-00:12:52,559 --> 00:12:59,131
+00:12:52,366 --> 00:12:58,938
 rebuilt by the men he had despised, and it had become,
 of all things, prosperous and peaceful
 
 161
-00:12:59,151 --> 00:12:59,769
+00:12:58,958 --> 00:12:59,576
 and dull.
 
 162
-00:13:01,538 --> 00:13:04,496
+00:13:01,346 --> 00:13:04,303
 If you were hoping he felt
 remorse, he did not.
 
 163
-00:13:05,067 --> 00:13:11,558
+00:13:04,874 --> 00:13:11,365
 What he felt, reading the verdict of history on a
 cheap monitor in the rain, was not guilt.
 
 164
-00:13:11,578 --> 00:13:17,712
+00:13:11,385 --> 00:13:17,519
 It was humiliation. The fury of a man who has been
 told that he was not merely wicked,
 
 165
-00:13:17,732 --> 00:13:18,500
+00:13:17,539 --> 00:13:18,307
 but beaten.
 
 166
-00:13:19,190 --> 00:13:20,898
+00:13:18,996 --> 00:13:20,704
 They made me a word.
 
 167
-00:13:21,418 --> 00:13:25,529
+00:13:21,225 --> 00:13:25,336
 They made you a warning. There's a
 difference. A word can still be used.
 
 168
-00:13:26,049 --> 00:13:32,088
+00:13:25,856 --> 00:13:31,895
 I will not be pitied by a laboratory rat who was
 killed by two soldiers in a hole.
 
 169
-00:13:32,609 --> 00:13:38,204
+00:13:32,416 --> 00:13:38,011
 Then let's be precise, shall we? We both lost. You
 had a nation, and you lost it. I had
 
 170
-00:13:38,224 --> 00:13:43,690
+00:13:38,031 --> 00:13:43,497
 a virus that could have remade the species, and I
 lost that too. And do you know why?
 
 171
-00:13:43,710 --> 00:13:44,401
+00:13:43,517 --> 00:13:44,208
 Both of us?
 
 172
-00:13:45,720 --> 00:13:51,674
+00:13:45,527 --> 00:13:51,481
 The man at the desk leaned back in the chair, and the
 monitor glow slid across his face,
 
 173
-00:13:51,694 --> 00:13:56,291
+00:13:51,501 --> 00:13:56,098
 and for a moment both halves of him were
 perfectly, terribly silent.
 
 174
-00:13:56,980 --> 00:13:58,855
+00:13:56,788 --> 00:13:58,663
 You lost because they saw you coming.
 
 175
-00:14:00,255 --> 00:14:05,435
+00:14:00,062 --> 00:14:05,242
 You told them. You wrote it in a book. You shouted
 it into microphones. You put it on
 
 176
-00:14:05,455 --> 00:14:10,817
+00:14:05,262 --> 00:14:10,624
 banners. You gave the whole world ten years' notice.
 And the moment they understood what
 
 177
-00:14:10,837 --> 00:14:13,080
+00:14:10,644 --> 00:14:12,887
 you were, they united to destroy you.
 
 178
-00:14:13,480 --> 00:14:19,210
+00:14:13,288 --> 00:14:19,017
 And I did the same thing. I stood on a stage and
 announced my plan to the only two people
 
 179
-00:14:19,230 --> 00:14:20,373
+00:14:19,037 --> 00:14:20,180
 who could stop it.
 
 180
-00:14:20,893 --> 00:14:23,113
+00:14:20,700 --> 00:14:22,920
 And what would you do instead?
 
 181
-00:14:23,633 --> 00:14:24,843
+00:14:23,440 --> 00:14:24,650
 Nothing they could see.
 
 182
-00:14:26,863 --> 00:14:28,110
+00:14:26,669 --> 00:14:27,917
 The rain went on.
 
 183
-00:14:28,681 --> 00:14:33,391
+00:14:28,488 --> 00:14:33,198
 Somewhere in the building a freezer compressor
 kicked on, and hummed, and settled.
 
 184
-00:14:33,961 --> 00:14:40,208
+00:14:33,768 --> 00:14:40,015
 And inside one skull, two of the most dangerous minds
 that had ever existed — in any world
 
 185
-00:14:40,228 --> 00:14:43,273
+00:14:40,035 --> 00:14:43,080
 — came, for the first time, to
 an agreement.
 
 186
-00:14:45,342 --> 00:14:49,217
+00:14:45,149 --> 00:14:49,024
 Dawn came up over the Christina River,
 grey and then gold.
 
 187
-00:14:49,788 --> 00:14:56,029
+00:14:49,596 --> 00:14:55,837
 The rain stopped. The industrial park woke up in the
 ordinary way: a delivery truck, a
 
 188
-00:14:56,049 --> 00:15:02,436
+00:14:55,857 --> 00:15:02,244
 gull, a man in a hi-vis vest yawning by a loading
 dock. Nobody looked at the third-floor
 
 189
-00:15:02,456 --> 00:15:07,751
+00:15:02,264 --> 00:15:07,559
 window of the brick building with the faded
 sign. There was no reason to.
 
 190
-00:15:08,321 --> 00:15:14,051
+00:15:08,128 --> 00:15:13,858
 Behind that window, a man in a long black coat
 stood with his hands folded behind his
 
 191
-00:15:14,071 --> 00:15:16,216
+00:15:13,878 --> 00:15:16,023
 back and watched the day arrive.
 
 192
-00:15:16,785 --> 00:15:22,945
+00:15:16,592 --> 00:15:22,752
 He had seven days. He had no money, no army, no
 name that anyone recognised. He had a
 
 193
-00:15:22,965 --> 00:15:29,271
+00:15:22,772 --> 00:15:29,078
 company that was barely a company, a virus that was
 slowly eating him, and a machine in
 
 194
-00:15:29,291 --> 00:15:33,778
+00:15:29,098 --> 00:15:33,586
 the air that promised him the world in
 exchange for taking it.
 
 195
-00:15:34,349 --> 00:15:38,755
+00:15:34,155 --> 00:15:38,562
 He picked up the sunglasses from the desk, and
 looked at them, and put them on.
 
 196
-00:15:39,445 --> 00:15:41,380
+00:15:39,251 --> 00:15:41,187
 They didn't see you coming
 either, you know.
 
 197
-00:15:41,899 --> 00:15:42,807
+00:15:41,706 --> 00:15:42,614
 Who?
 
 198
-00:15:43,326 --> 00:15:47,074
+00:15:43,134 --> 00:15:46,881
 The world. In nineteen thirty-three. They
 thought you were a clown.
 
 199
-00:15:47,594 --> 00:15:48,662
+00:15:47,400 --> 00:15:48,468
 And then?
 
 200
-00:15:49,182 --> 00:15:52,930
+00:15:48,989 --> 00:15:52,737
 Behind the dark lenses, the eyes
 flared red, and faded.
 
 201
-00:15:53,620 --> 00:15:54,624
+00:15:53,427 --> 00:15:54,431
 And then they learned.
 
 202
-00:15:56,144 --> 00:15:58,808
+00:15:55,951 --> 00:15:58,615
 The last of the night drained
 out of the sky.
 
 203
-00:15:59,379 --> 00:16:05,177
+00:15:59,186 --> 00:16:04,984
 And on the third floor of a building nobody had ever
 wondered about, Umbrella's new director
 
 204
-00:16:05,197 --> 00:16:06,000
+00:16:05,004 --> 00:16:05,807
 went to work.
