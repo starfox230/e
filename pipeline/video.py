@@ -157,12 +157,22 @@ def image_path(shot):
     return p
 
 
-def variant_path(shot, k):
-    """Second generated variant of a shot, if present (used for alternate sub-shots)."""
-    if k == 0:
-        return image_path(shot)
-    p = os.path.join(IMAGES, f"{shot['id']}_v{k}.png")
-    return p if os.path.exists(p) else image_path(shot)
+def variants_of(shot):
+    """Every rendered composition of a shot, base first."""
+    out = [image_path(shot)]
+    k = 1
+    while True:
+        found = None
+        for ext in ('jpg', 'png', 'webp'):
+            p = os.path.join(IMAGES, f"{shot['id']}_v{k}.{ext}")
+            if os.path.exists(p):
+                found = p
+                break
+        if not found:
+            break
+        out.append(found)
+        k += 1
+    return out
 
 
 def build_plan(tl):
@@ -170,11 +180,12 @@ def build_plan(tl):
     subs = []
     for s in tl['shots']:
         dur = s['end'] - s['start']
+        vs = variants_of(s)
         n = max(1, int(round(dur / SUBSHOT)))
         seg = dur / n
         for k in range(n):
             st = s['start'] + k * seg
-            subs.append({'start': st, 'end': st + seg, 'path': variant_path(s, k % 2), 'id': s['id'],
+            subs.append({'start': st, 'end': st + seg, 'path': vs[k % len(vs)], 'id': s['id'],
                          'move': motion_for(f"{s['id']}_{k}", seg + XFADE), 'first': k == 0})
     return subs
 
