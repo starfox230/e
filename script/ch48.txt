@@ -1,0 +1,100 @@
+# 48 | The Matriarch
+
+[music] m_horror -8
+[img] a hive-like alien structure of interlocking organic tunnels extending for hundreds of kilometres through an asteroid field, swarming with motion, cinematic
+[loc] The Myriad — 2121
+N: The Myriad was not a species. It was an outcome.
+N: Somewhere in its past — the Directorate's analysts eventually placed it at forty thousand years — something had happened to a biological civilisation that had removed from it the capacity to be an individual. What remained was nine trillion organisms across four hundred systems, operating as a single distributed process, with no leadership, no doctrine, no communication that a human could recognise, and no fear.
+N: It did not negotiate, because there was nothing in it to negotiate with. It did not surrender, because surrender requires a self to be preserved. It did not break under bombardment, because it had no morale.
+N: It had eaten nineteen civilisations that anyone knew of. The Choir had held a frontier against it for four thousand years, and had lost four systems doing it, and had considered this an acceptable liturgical cost.
+[pause 1.5]
+N: When the Choir broke at last, the frontier it had held for four thousand years broke with it. And in twenty one hundred and twenty-one, the Myriad came into the space the Choir had held, and found, on the other side of it, the Umbrella Directorate.
+[pause 2.0]
+[img] an endless swarm of organic alien vessels filling space, no formation, no symmetry, simply mass, cinematic
+N: It was the only enemy the Director ever faced that was, on any measure he considered meaningful, stronger than he was.
+N: Nine trillion units. No command structure to decapitate. No fear to exploit. No leadership to humiliate in a boardroom. No crowd to turn. Every single instrument he had spent a century perfecting — charisma, terror, dependency, patience, the arranged truth — was useless against a thing with no self to aim them at.
+N: It took four years and the loss of two systems before he stopped trying to fight it, and did the thing he had been circling since twenty thirty-one.
+[pause 2.0]
+
+[music] m_horror -4
+[amb] amb_lab -10
+[img] {EVELYN} elderly but unlined, standing in a vast dark laboratory before a wall of tanks containing something that moves, lit from below, cinematic
+[loc] The Keel, Arklay — 2125
+N: Evelyn Marsh was a hundred and twenty-nine years old.
+N: She did not look it. She did not look like anything in particular anymore. She had been the third branch of her own programme for sixty-nine years, and the memos had continued to arrive on the Director's desk, four lines each, and he had never once told her to stop.
+N: Her staff were frightened of her. Not the humans — there were no humans in the Keel by then. The summoned personnel, who were incapable of disobedience and had no instinct for self-preservation, had begun, in ways that nobody could document, to arrange their work so as to be elsewhere when she walked through.
+[pause 1.5]
+[img] {WESKER} and {EVELYN} facing each other in a vast dark laboratory, both ageless, the space between them full of tanks, cinematic
+EVELYN: You want to command it.
+WESKER: I want to command a piece of it. One system's worth. Then more.
+EVELYN: Viral Dominion works on the Progenitor lineage. Everything in that lineage came from your blood. The Myriad is not from your blood. It is forty thousand years of something else.
+WESKER: Then make it from my blood.
+[pause 2.0]
+N: She looked at him for a long time. It had been ninety-seven years since a young postdoc had looked up from a bench and asked whether she could help.
+EVELYN: (soft) You understand what you're asking.
+WESKER: I'm asking you to build a bridge into something with nine trillion bodies and no mind.
+EVELYN: I'm asking whether you understand what will come back across it.
+[pause 2.5]
+N: He did. He had run it, four thousand subjective hours, in nine threads. He had seen every outcome, and had chosen this one anyway, for the reason he had always chosen everything.
+WESKER: We are losing two systems a year.
+EVELYN: (soft) That isn't the reason.
+WESKER: No. The reason is that it is the last thing on this side of the sky that I cannot have.
+[pause 2.0]
+N: She nodded. She had known that. She had known him for ninety-seven years and had never once needed to be lied to.
+EVELYN: It will take four years, and it will need a host. Someone who can carry the full lineage, undiluted, and survive integration with a distributed system. There is exactly one person alive who could do that and remain themselves.
+WESKER: I know.
+EVELYN: (soft) It isn't you, Albert. You're the source. If you integrate, the whole lineage integrates with you, and everything downstream of your blood — every quiet one, every Tyrant, every variant, four hundred million derived organisms — goes across that bridge at the same time. It would work. And there would be nothing left on this side that could be called a person.
+[pause 2.5]
+EVELYN: It's me.
+[pause 3.0]
+
+[music] m_sad -6
+[img] {EVELYN} standing alone in a chamber of dark liquid light, her arms slightly open, at peace, cinematic
+N: She was ready. She had been ready, the narrator suspects, since twenty twenty-eight.
+N: She spent four years building it. She wrote three hundred and eleven memos, four lines each, and he read every one. In the last year she stopped sleeping altogether, which she noted in a memo, in the same tone she had once used to report an adjustment to an assay protocol.
+N: On the fourth of June, twenty one hundred and twenty-nine, Doctor Evelyn Marsh walked into a chamber in the Keel of Arklay Free Territory, which she had designed herself, and which had one door, and no window, and no way out that did not go through the rest of the universe.
+[pause 1.5]
+[img] {WESKER} standing at a sealed door with one small port of light, his gloved hand flat against it, cinematic
+N: He came down to see her. It was the only time in a hundred and three years that he cancelled a session of the Accord Council.
+N: He put his hand flat on the door. She put hers on the other side, where the port was.
+[pause 1.5]
+EVELYN: You never once told me to stop.
+WESKER: No.
+EVELYN: (soft) I want you to say why. Just once. Before.
+[pause 2.0]
+WESKER: Because you were the only thing I ever made that got away from me. And I wanted to see how far it went.
+[pause 1.5]
+N: She laughed. It was a young woman's laugh, and she had not made it in a very long time.
+EVELYN: (soft) That's the nicest thing anyone's ever said to me.
+[pause 1.0]
+EVELYN: It's all right, you know. I did the arithmetic. I always do the arithmetic.
+[pause 2.0]
+N: The door sealed.
+[pause 3.0]
+
+[music] m_horror -2
+[amb] amb_space -6
+[img] a vast swarm of alien organic vessels in deep space, and running through it, spreading like light through water, a wave of something changing, cinematic
+[loc] The Crossing — 2129 to 2134
+N: What came back across the bridge is not called Evelyn Marsh in any Directorate document. It is called the Matriarch, and it is classified, and it is the single most restricted subject in a hundred and ninety years of human archives.
+N: It took five years. At the end of it, one hundred and forty billion units of the Myriad — a fraction of one percent, and more organisms than every human being who has ever lived — had stopped belonging to the Myriad and started belonging to something else.
+N: They did not become human. They did not become loyal in any sense a person would recognise. They became, in the words of the only public sentence the Directorate ever issued on the subject, subject to direction.
+N: And the Myriad, which had no fear, which had never in forty thousand years reacted to anything at all — withdrew.
+N: It is the only recorded instance. Nineteen civilisations had fought it and been eaten. One thing on this side of the galaxy had reached into it, and taken a piece, and the process that had no self had done the only thing that could be described, in human terms, as flinching.
+[pause 2.5]
+
+[music] m_sad -8
+[img] an empty white laboratory with one bench and a single old notebook left open on it, cold light, no one there, cinematic
+N: Evelyn Marsh's office in the Keel was left exactly as it was. It is still there.
+N: There is a notebook on the bench. It is open to the last page she wrote on, which is dated the second of June, twenty one hundred and twenty-nine, two days before she walked into the chamber.
+N: The page contains a column of figures which have never been fully understood, and beneath them, underlined twice, in small neat handwriting that had not changed in a hundred years, four words.
+[pause 1.5]
+[img] close-up of an old notebook page with columns of figures and four handwritten underlined words at the bottom, macro, cinematic
+N: It was worth it. Tell him.
+[pause 2.5]
+N: He read it. He stood in the empty office and read it, and then he took the notebook, and it is not in any archive, and nobody has ever seen it since.
+[pause 2.0]
+N: He was a hundred and thirty-eight years old, by the only count that meant anything: the years since a man woke up in a leather chair in the rain. He had outlived the century he was born in, the world he had been reborn into, and every single person who had been in the break room on the day he made the payroll.
+N: Except one.
+[pause 3.0]
+[music] stop

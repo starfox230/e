@@ -51,7 +51,7 @@ VOICES = {
     'RADIO':     ('am_adam', 1.02, 'radio', 0.0),
     'CROWD':     ('am_liam', 1.00, 'dialog', 0.0),
     'VETH':      ('bf_isabella*0.5+bm_george*0.5', 0.85, 'alien_deep', 0.0),
-    'SETHRA':    ('bf_isabella*0.5+bm_george*0.5', 0.85, 'alien_deep', 0.0),
+    'SETHRA':    ('bf_isabella*0.6+bm_george*0.4', 0.86, 'alien_deep', 0.0),
     'BROKER':    ('af_alloy', 0.98, 'alien_bright', 0.0),
     'CHOIR':     ('af_river', 0.90, 'alien_choir', 0.0),
     'MYRIAD':    ('am_echo', 0.90, 'alien_hive', 0.0),

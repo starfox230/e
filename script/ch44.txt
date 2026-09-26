@@ -1,113 +1,129 @@
-# 44 | The Hegemony
+# 44 | The Tollhouse
 
-[music] m_alien -10
+[music] m_alien -8
 [amb] amb_space -8
-[img] an immense alien war fleet of hundreds of ships in rigid formation crossing interstellar space, geometric and cold, stars behind them, cinematic
-[loc] 2091 — seventeen years later
-N: The Veth Hegemony arrived in the spring of twenty ninety-one, and it did not send a message first.
-N: It had been informed of humanity's existence in nineteen thirty-six, by a radio broadcast of the Berlin Olympic Games, which had crossed nine hundred light years and been catalogued, in the Hegemony's registry of emergent systems, as a low-priority assessment target.
-N: The Adolf half of the mind would have found that exquisitely funny. There was no Adolf half of the mind anymore. There was a man who noted the fact, and filed it in a room on the fourth floor of an imaginary brick building, and did not laugh.
+[img] a vast dark wedge-shaped human warship coasting through deep space far from any star, stars unmoving, utter silence, cinematic
+[loc] 2074 — 41 astronomical units from the Sun
+N: The thing that had been working out there came into the solar system in the autumn of twenty seventy-four, and it did not come quietly, and it did not come alone.
+N: There were nine of them. They crossed the heliopause at a velocity that the Directorate's astronomers spent four days refusing to publish, because publishing it would have meant admitting that the objects had decelerated from a substantial fraction of light speed without radiating the energy that such a deceleration requires.
+N: They took up a formation at forty-one astronomical units, beyond the orbit of Neptune, and they stopped, and they waited.
 [pause 1.5]
-[img] a formal alien registry display showing a system entry with archaic notation and a status change from ASSESS to ADMINISTER, cinematic
-N: They came with four hundred and eleven vessels, which was a routine allocation for a system of humanity's assessed development, and which represented approximately one two-thousandth of the Hegemony's standing force.
-N: The Veth were not cruel. That is the thing every human account gets wrong, and it is important. They were an empire of nine thousand years and four hundred worlds, organised into a caste structure of such antiquity that no living Veth could remember its origin, and they had a doctrine for emergent species that was entirely rational and had worked four hundred times. They arrived. They assessed. What was useful, they administered. What was not, they cleared.
-N: They did not hate anyone. They had not hated anything in nine thousand years. That was what made them what they were.
-[pause 2.0]
-
-[music] m_horror -8
-[img] a vast alien command deck with a towering armoured figure on a raised platform surrounded by caste-marked subordinates, cold blue light, cinematic
-N: The Veth admiral's name and caste-title together ran to forty-one syllables. Human records call her Sethra-Vel, which was the first four.
-N: She had administered nine emergent systems. She had cleared two. She had held her command for four hundred and six years, which was possible because the Hegemony's upper castes lived that long, and which was why the Hegemony's doctrine had not changed in nine thousand years.
-N: She took her fleet to the edge of the human system on the fourth of April, and she opened her registry, and she read the assessment that had been compiled from a century and a half of intercepted radio.
-[img] an alien admiral studying floating displays of grainy archival human footage: parades, wars, cities, crowds, cinematic
-N: What she read was a species that had achieved powered flight, nuclear fission, and orbital capability within a single lifetime; that had fought two global wars of extraordinary savagery; that had fragmented into a hundred and ninety-three competing polities; and that had, in the last four decades, gone unaccountably quiet in a manner the registry flagged as consolidation, probable.
-N: She ordered a standard approach. Four hundred vessels, in formation, into the system, to the third planet, to assess.
-[pause 2.0]
-
-[music] m_action -10
-[amb] amb_ship_hum -10
-[img] a line of enormous dark human wedge-ships hanging motionless in deep space in perfect formation, no lights, no markings, ominous, cinematic
-[loc] The outer system
-N: There were ninety-one void-cutters by twenty ninety-one. They were waiting at the heliopause, in a plane, at rest, with their drives cold.
-N: The first thing that went wrong for the Hegemony was that they could not see them.
-N: It is not that the void-cutters were invisible. The Veth had sensors that could count the moons of a gas giant from four light years. It is that the ships did not radiate. They did not run beacons, or transponders, or navigation lights, or communications. They did not talk to each other; they had been positioned, days before, and given their orders, and they sat in the dark with everything off, waiting.
-N: No navy in nine thousand years had done that, because no navy in nine thousand years had been crewed by people who could be relied upon to sit in the dark for four days without asking a question.
-[img] the interior of a human warship bridge in near-total darkness, rows of crew at stations sitting perfectly still, no one speaking, cinematic
-N: The Wilmington's bridge crew was ninety-one people. Eighty-one of them had come from the Shop. They sat at their stations for four days in the dark and did not speak, did not fidget, did not eat, and did not once look at the door.
-N: The ten who were human found it, they all said afterwards, the worst four days of their lives.
-[pause 2.0]
-
-[music] m_horror -6
-[img] an alien fleet in tight formation advancing through the outer system, and around them, silently, dozens of dark shapes becoming visible as they light their drives, cinematic
-[sfx] sfx_ship_pass g-8
-N: The second thing that went wrong for the Hegemony was that the Directorate did not attack the fleet.
-N: Sethra-Vel's formation crossed the heliopause on the ninth of April and proceeded inward for four days, and nothing happened. On the fourth day her sensor officers reported ninety-one objects that had appeared behind her — objects that had been there all along, and had simply begun to exist by lighting their drives, in formation, across her line of retreat.
-N: She did what four hundred years of doctrine told her to do, which was to hold her formation and open communications, because an emergent species that reveals a fleet is a species that wants to negotiate.
-N: The Directorate did not answer. The ninety-one ships held station behind her, in perfect silence, and matched her velocity, and did nothing.
+[img] nine strange geometric vessels in formation against the stars, each one different, none symmetrical, dark and intricate, cinematic
+N: And then, eleven days later, they transmitted. In four hundred and six human languages, including nineteen that had been extinct for a century, and one that had been extinct for four thousand years and was known to about thirty scholars on Earth.
+N: The message was four sentences long. It has been reprinted more times than any text in human history except one.
 [pause 1.5]
-[img] an alien admiral on a command deck studying a tactical display showing her fleet with dark shapes trailing behind it, her posture rigid, cinematic
-N: She held course for four more days. The ninety-one followed.
-N: Her officers requested permission to engage. She refused, four times, because doctrine was clear and because in four hundred and six years she had never once been in a situation in which the other party had failed to say anything at all.
-N: On the eighth day, at a range of nine million kilometres from the third planet, she ordered her fleet to decelerate and hold.
-N: And the moment her formation went to rest, the ninety-one opened fire.
-[pause 2.0]
-[music] m_action -2
-[sfx] sfx_laser
-[sfx] sfx_explosion_distant +0.8
-[img] silent brilliant flashes among a formation of alien ships in deep space, debris expanding in perfect spheres, no sound, cinematic
-[sfx] sfx_laser +1.6
-[sfx] sfx_explosion_distant +2.2
-N: The engagement lasted nine minutes.
-N: The narrator is not going to describe the weapons. They were bought from a tab in a shop that only one man could see, and their operating principles are not something this story is going to explain, and by the twenty-second century their effects were well enough known that there is no need.
-N: A hundred and eleven Veth vessels were destroyed in the first ninety seconds. Sethra-Vel's fleet returned fire with everything it had, and the ninety-one void-cutters took damage — real damage; four of them were lost with all hands, and two of the four had human crews aboard, and their names are on a wall on Arklay.
-N: And then the Veth formation broke, which in nine thousand years it had done four times, and the ninety-one did not pursue.
-[pause 2.0]
-
-[music] m_horror -8
-[img] an alien admiral standing alone on a damaged command deck lit by emergency light, staring at a tactical display of her broken fleet, cinematic
-N: Here is the part that mattered, and it is not the battle.
-N: Sethra-Vel withdrew to the outer system with two hundred and ninety-one vessels and waited to be pursued, and was not. She waited nine days. Then she transmitted a formal request for terms, which is a thing the Hegemony had done twice in nine thousand years.
-N: The Directorate's answer came in forty seconds, in fluent High Veth, in a grammatical register that her caste used for addressing equals.
-WESKER: You may withdraw. Your wounded may withdraw with you. You will leave your registry beacon in this system so that the next fleet knows what happened here.
-[pause 1.0]
-WESKER: Report the following to your Hegemony. This system is administered. It is not available for assessment. We have no interest in your four hundred worlds and no intention of visiting them. If you come again, we will not stop at your fleet.
-[pause 2.0]
-N: She read it four times.
-N: In four hundred and six years she had never received a communication from an emergent species that did not contain either a plea or a threat. This contained neither. It contained a boundary, and a consequence, and the courtesy of her own caste-register, and a sentence — we have no interest in your four hundred worlds — that she understood, immediately and completely, to be a lie.
-[pause 1.5]
-[img] a close-up of an armoured alien face with multiple eyes, unreadable, lit by the glow of a display, cinematic
-N: She wrote in her report — and the Hegemony's registry is one of the few alien documents that human historians have in full, because a beacon was left in the system exactly as instructed — the four sentences for which she is remembered:
-[pause 1.0]
-VETH: They do not broadcast. They do not boast. They sat in the dark for four days and did not speak, and I do not believe their crews were afraid, and I do not believe their crews were brave. Their ships feel wrong.
+[img] a dark screen displaying an alien message translated into plain text, four short lines, watched by silent controllers in a dim room, cinematic
+BROKER: We have listened for one hundred and forty of your years. We are the Tollhouse Compact. We buy, we sell, and we do not make war upon markets. Name one who may speak for your world, and we will come to the third planet and open an account.
 [pause 2.5]
 
+[music] m_horror -10
+[img] a crowded emergency session of the Accord Council, delegates from every nation, screens showing the nine objects, uproar, cinematic
+[loc] Geneva — the Accord Council, emergency session
+N: The species had four weeks to decide who spoke for it. It spent nineteen days arguing, which the Director considered, privately, a triumph of self-control.
+N: There were four positions. The United Nations argued that the Secretary-General should speak, as the only officeholder elected by the whole of the species, in the sense that a hundred and ninety-three governments had voted for him. The largest states argued for a council of the largest states. A coalition of forty smaller nations argued for a lottery. And a very great many people, in every country on Earth, said the obvious thing out loud on the internet within about four hours of the message being published.
+N: Name one who may speak for your world.
+[img] a montage of ordinary people in many countries watching screens in kitchens and cafés, all seeing the same broadcast, cinematic
+N: It was not even a debate in the end. It was a fact that had been true since Geneva in twenty forty-seven and had simply never been stated in a single sentence.
+N: On the fourth of November, twenty seventy-four, the Accord Council voted by a hundred and thirty-one to ten to designate the Director of Umbrella Life Sciences as the sole representative of the human species for the purposes of contact.
+N: Ten votes against. He remembered all ten. Not with anger — with something closer to fondness. Somebody had to.
+[pause 2.0]
+
 [music] m_alien -6
-[amb] amb_space -6
-[img] the alien fleet withdrawing from the solar system leaving a single small beacon behind, stars, silence, cinematic
-N: The Veth withdrew on the fourth of May, twenty ninety-one, and left the beacon, and the beacon is still there, and it is a listed monument.
-N: The Hegemony did not come again for nineteen years. When it did, it came differently, and by then so had the Directorate, and that is a later part of the story.
+[amb] amb_ship_hum -10
+[img] an enormous alien vessel in orbit above Earth, intricate and asymmetrical, kilometres long, with a small dark human ship approaching it, cinematic
+[loc] Earth orbit — 19 December 2074
+N: One of the nine came in to Earth orbit, and it was eleven kilometres long, and it took station four hundred kilometres above the Pacific, and it did nothing threatening at all, and every seismograph on the planet recorded the day it arrived because four billion people moved at once.
+N: He went up to it in the Wilmington, which was by then one of four void-cutters, and which he had ordered to stand off at nine thousand kilometres with its weapons cold, because he had spent forty-eight years learning that the first move of a negotiation is the only one you get to make twice.
+N: He went across in a shuttle, with nine people. Four of them were human.
+[pause 2.0]
+[img] a vast alien chamber with curved organic architecture and shifting light, many species of alien figures observing from tiers, a small human group at the centre, cinematic
+N: The chamber they were received in was designed, he understood immediately, to be overwhelming. It was four hundred metres across and it held representatives of eleven species, and the light in it moved, and the air smelled of something between cinnamon and ozone, and the gravity was not quite Earth's and not quite constant.
+N: Every single element of it was a negotiating position. He recognised the technique perfectly. He had once made a landlord walk through a basement.
 [pause 1.5]
+[img] a tall slender alien figure with elongated limbs and a smooth featureless head, draped in layered fabric, standing on a raised dais, cinematic
+N: The being that spoke for the Tollhouse Compact was called — as near as the translation ever got — the Broker. It was four metres tall and very thin, and it had no face that a human being could read, and it spoke English with the warmth of a good doctor.
+BROKER: Director. Welcome. You are the two hundred and eleventh species we have opened an account with. May I tell you how this proceeds?
+WESKER: Please.
+BROKER: We buy. Your world produces four things of interest to the Compact, three of which you do not presently value. We will pay well. In exchange we sell: medicine beyond your medicine, power beyond your power, and passage. Within forty of your years you will be a wealthy species. Within four hundred you will be a member in good standing. We ask nothing but the account.
+[pause 1.5]
+WESKER: And the terms?
+BROKER: Standard. Exclusivity of trade. Non-development of certain technologies, which are listed. Non-expansion beyond your system for one hundred years, after which the boundary is reviewed. And the customary surety.
+WESKER: Which is?
+[pause 1.0]
+BROKER: A registered claim over the system itself. It is a formality. It has never once been exercised in nine thousand years.
+[pause 2.0]
+
+[music] m_horror -8
+[img] {WESKER} standing alone in a vast alien chamber in a black coat, eleven alien species watching from tiers above, small and utterly still, cinematic
+N: He did not answer for a while.
+N: He had, by then, spent forty-eight years reading rooms full of people who wanted something from him, and it turned out that the skill transferred, because the Broker's body had a posture and its posture had a grammar, and the grammar said: this has worked two hundred and ten times.
+N: In the Thought Acceleration — which was, by twenty seventy-four, running at four thousand to one, in nine parallel threads — he took a subjective afternoon to think about it.
+N: He thought about a licence agreement with the word non-exclusive on page three, and a landlord who had not read section nine, and a board of directors who had not read page eleven. He thought about how you take a thing from people who believe they are the ones doing the taking, and he recognised, in every line of the Broker's offer, the exact shape of his own work.
+N: Then he came back, and it had been a fifth of a second, and he said:
+[pause 1.5]
+WESKER: No.
+[pause 2.5]
+BROKER: I do not think you understand the offer.
+WESKER: I understand it perfectly. You've made it two hundred and ten times. Let me tell you what it is.
+[pause 1.0]
+[img] {WESKER} speaking calmly to a towering alien figure, the alien's posture subtly changing, tiers of watchers leaning in, cinematic
+WESKER: You will pay us handsomely for four things, three of which we do not know the value of, which means you will pay us a fraction of what they are worth and we will be delighted, because we have nothing to compare it to. You will sell us medicine and power, and in forty years we will be unable to manufacture either for ourselves, because why would we, when you sell it so cheaply. The non-development list is not a safety measure; it is a list of every technology by which a client stops being a client. And the surety over our system is a formality that has never been exercised because it has never needed to be — because by the time exercising it would be worth your while, no species has ever been in a condition to object.
+[pause 1.5]
+WESKER: You are not offering us an account. You are offering us dependency, on a schedule, with a lien on our home as collateral.
+[pause 2.0]
+N: The chamber did something. It was not a sound. The light in it changed, slightly, in a way that eleven species understood and four humans did not.
+BROKER: (slow) That is an unusually complete reading.
+WESKER: I've made the same offer myself. Forty years ago, to a landlord in Delaware, for a building. It worked beautifully.
+[pause 2.0]
+
+[music] m_alien -4
+[img] the alien Broker leaning forward slightly, its featureless head tilted, an unmistakable new attention in its posture, cinematic
+BROKER: Then you will understand that refusal has a cost. The Compact does not make war on markets. But a world that declines the account is not a market. It is a curiosity. And curiosities are visited by others.
+WESKER: Who?
+BROKER: The Veth Hegemony is nine hundred light years from your star and has been informed of your existence since your first radio. They do not buy. They do not sell. They arrive, and they assess, and what they find useful they administer, and what they find useless they clear. We are, Director, the only wall between your species and that. That is what you are actually being offered, and that is why two hundred and ten species have taken it.
+[pause 2.0]
+N: And that — the Directorate's analysts would conclude, over the following nine years, reading the transcript four thousand times — was the only genuinely honest sentence the Broker spoke all day.
+[pause 1.5]
+[img] {WESKER} without sunglasses in an alien chamber, his eyes visible, pale and cold, facing a four-metre alien without flinching, cinematic
+N: He took off his sunglasses. He had thought about it in the shuttle, and had decided it was probably meaningless to a species with no faces, and did it anyway, because it was not for the Broker.
+WESKER: Then let me make a counter-offer, and let me be as honest as you have just been.
+WESKER: We will not take your account. We will buy from you, at market, in cash, and we will sell to you, at market, and we will reverse-engineer every single thing you sell us, which you know we will do, and which your non-development list exists to prevent. We will do it anyway. We will be the two hundred and eleventh species to say no, and probably the first, and you will find it very interesting.
+[pause 1.0]
+WESKER: And when the Veth come, we will deal with the Veth.
+[pause 2.0]
+BROKER: You have four ships.
+WESKER: I have had four of something before.
+[pause 2.5]
+
+[music] m_space -8
+[amb] amb_space -8
+[img] the nine alien vessels turning and departing the solar system, small against the stars, Earth a blue point behind them, cinematic
+N: The nine vessels left the solar system in January of twenty seventy-five. They did not threaten. They did not retaliate. The Compact had not made war on a market in nine thousand years, and a species that had declined the account was not a market, and they had a great deal else to do.
+N: Before they went, the Broker sent one final private transmission, addressed to the Director personally, in a language that the Farside Array took four years to confirm was one of the Compact's internal trade dialects and not, as had initially been assumed, an error.
+N: It was eleven words long. The Directorate has never published it. It is, however, carved — in the original characters, untranslated — above the door of a room on Arklay Free Territory that the public is not admitted to.
+[pause 1.5]
+BROKER: (slow) We have met your kind before. We did not like them either.
+[pause 3.0]
 
 [music] m_horror -8
 [amb] amb_ship_hum -8
-[img] {WESKER} standing on a dark bridge looking at a display of the withdrawing alien fleet, alone, no crew speaking behind him, cinematic
-N: On the Wilmington's bridge, the ten human officers celebrated.
-N: They had been awake for four days in the dark with eighty-one people who did not blink, and their species had just fought the first battle of its interstellar history and won it, and they cheered, and hugged each other, and two of them cried.
-N: The eighty-one returned to their stations and waited for the next order.
-N: The Director watched the Veth formation withdraw and did not join in. He had already moved on, four thousand subjective hours ahead, in nine parallel threads, to the thing that had been sitting in the front of his mind since a four-metre creature with no face had said the words nine hundred light years.
+[img] {WESKER} standing on the bridge of a dark human warship looking out at the stars where the alien ships have gone, alone, cinematic
+N: He stood on the bridge of the Wilmington and watched them go.
+N: For forty-eight years he had been the most dangerous thing in every room he had ever entered. He had woken in a chair in the rain with a virus in his blood and a machine in the air and had never, in half a century, met anything that could not be out-thought, out-waited, or out-bought.
+N: And a four-metre creature with no face had just told him, courteously, that there was something nine hundred light years away that arrived, and assessed, and cleared — and that the only reason it had not arrived already was that a trading company had found his species more profitable as a customer than as a clearance.
 [pause 1.5]
-N: He waited, for about a second, for something to say to him.
-[pause 1.0]
-N: Nothing. There was no second voice. There had not been for forty-four years.
-N: But he had noticed something during the nine minutes of the engagement, and he examined it afterwards in the privacy of a mind that nobody else could enter, and he was honest with himself about it, because he had always been honest with himself and it was the only virtue he had left.
-N: When the Veth formation broke, he had felt something he had not felt since a basement in Wilmington in twenty thirty, and a desert in Nevada in twenty thirty.
-N: He had wanted to pursue.
+N: He found, standing on the bridge, that he was not afraid.
+N: He examined that carefully, because it was strange, and because forty-eight years of being right had taught him to be suspicious of his own calm. He was not afraid. He was something else, and it took him a subjective hour in the Thought Acceleration to find the word, and when he found it he did not like it.
+[pause 1.5]
+N: He was relieved.
+N: For twenty-seven years he had owned a species. There had been nothing left to take. He had built the thing he had spent two lifetimes wanting, and it had been finished for a decade, and the ruling of it was administration — councils, and quotas, and a hundred and forty-one governments that never said no.
+N: And somewhere nine hundred light years away there was an empire that had never heard of him.
 [pause 2.0]
-N: He had given the order to hold, and the order had been correct — pursuit into an unknown fleet's retreat is how empires die — and every one of his nine threads had agreed on it.
-N: And underneath the nine threads, in the place where a voice had lived for twenty-one years and had wept on a balcony in Geneva, something had wanted very badly to chase four hundred fleeing ships across a solar system and kill every one of them.
+[img] a star chart in a dark room with a single distant star circled in crimson, nine hundred light years marked, cinematic
+WESKER: (soft) There you are.
 [pause 1.5]
-[img] extreme close-up of {WESKER}'s face in the dark reflected in a bridge window, his eyes glowing faint amber-red, expression unreadable, cinematic
-N: He stood on the bridge with the stars going past and thought about that for a long time.
-N: Then he filed it, on the fourth floor, in a room with no name on the door, and went back to work.
+N: There was nobody in his head to answer. He had stopped noticing that a long time ago.
+N: But if the old voice had still been there — if the thing that had argued with him in a thousand cars, and wept on a balcony, and admitted once, on a terrace above the Atlantic, that it had been wrong about everything except the goal — if it had been there to hear him say it, it would have recognised the tone immediately.
+N: It was the tone of a man who has just been told that the war is not over after all.
 [pause 3.0]
 [music] stop

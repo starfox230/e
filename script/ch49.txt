@@ -1,0 +1,148 @@
+# 49 | Peer or Plague
+
+[music] m_sad -10
+[amb] amb_wind -12
+[img] an old stone house on a green hillside above the sea in winter, smoke from a chimney, one car in the lane, cinematic
+[loc] County Clare, Ireland — 2073
+N: Catherine Adeyemi refused the therapy in twenty forty-nine, and again in fifty-four, and again in sixty-one, and the last time they discussed it she was seventy-three and she put her hand on his arm, which she had never done in twenty-two years, and said: Albert, I would like to be finished.
+N: She retired in twenty sixty-two, at seventy-four, after thirty-five years as chief financial officer. She was the last of them. Dana Whitfield had died in twenty forty-four. Tomás Reyes had taken the therapy and then, in twenty fifty-eight, at sixty, had stopped taking it, quietly, without telling anyone, and had lived four more years and died in a house on the Brandywine with the sound off.
+N: She bought a house in County Clare, on a hillside above the Atlantic, four hundred miles from the nearest Umbrella facility, and she read, and she walked, and for the first time in her adult life she was bored, and she found that she liked it.
+[pause 2.0]
+[img] {CATHERINE} very old, white-haired, sitting in an armchair by a window looking at the sea, a blanket over her knees, cinematic
+N: He came every year. Not on a schedule; she would not have tolerated a schedule. He would simply be there, in the lane, in a long black coat, on some afternoon in the autumn, and she would put the kettle on and complain about the drive, and they would sit by the window and argue for four hours about something that no longer mattered.
+N: In twenty seventy-three she was eighty-five and dying of an ordinary thing that could have been fixed in an afternoon by a medicine her own company made.
+[pause 1.5]
+[img] {WESKER} sitting in a small chair beside an old woman's bed in a room full of afternoon light, looking out of place and entirely still, cinematic
+CATHERINE: Don't say it.
+WESKER: I haven't said anything.
+CATHERINE: You're about to. You're going to tell me there's an infusion, and that it would take an hour, and that I'd have another forty years.
+WESKER: Sixty.
+CATHERINE: (soft) Sixty. God.
+[pause 2.0]
+N: She was quiet for a while. The light moved on the wall.
+CATHERINE: Do you know why not?
+WESKER: Tell me. I've had forty years to guess and I've never been sure.
+[pause 1.5]
+CATHERINE: Because everyone who takes it belongs to you. Not because you make them. Because they know who made it, and because they'd have died without it, and after a while that gets into the floor of a person and they stop being able to tell where you end and they begin.
+CATHERINE: I've watched it happen to eleven billion people. I watched it happen to Owen Carrick, who spent sixteen years trying to put you in prison and took it in twenty forty-one like everyone else.
+[pause 1.0]
+CATHERINE: I'm the last person alive who remembers what you looked like when you were small enough to be stopped. I'd like to take that with me.
+[pause 2.5]
+N: He did not argue. That was the thing she noticed, and thought about that night when she could not sleep, and never got to ask him about.
+N: In twenty twenty-eight, in a glass office in Manhattan, he would have argued. He would have found the four sentences that turned her, because he could always find them, and she would have taken the infusion and been grateful.
+N: He sat in a small chair in a small room in Ireland and let an eighty-five-year-old woman tell him that she was dying in order to not belong to him, and he did not say one word to stop her.
+[pause 2.0]
+CATHERINE: (soft) Can I ask you something? The real one. The one I've never asked.
+WESKER: Yes.
+CATHERINE: In twenty twenty-eight you told me there was a facility under the old building. You told me it was legal the way the Manhattan Project was legal. I asked you if anyone was being hurt and you said no, and it was true, and I've thought about that answer for forty-five years.
+[pause 1.0]
+CATHERINE: If I had asked you the same question in twenty thirty-six — after Pale Horse — what would you have said?
+[pause 2.5]
+N: He looked out of the window at the sea for a long time.
+WESKER: I'd have said no.
+CATHERINE: (whisper) And it would have been a lie.
+WESKER: Yes.
+[pause 1.5]
+CATHERINE: Thank you.
+[pause 2.0]
+N: She died four days later, in the afternoon, in the chair by the window, with a book she had read four times.
+N: She had eleven billion dollars, and no children, and a will of four pages that left almost all of it to an endowment for the audit of public institutions, in perpetuity, with a clause — drafted by her, and by the finest legal minds money could buy, and upheld in every jurisdiction it was ever tested in — that no entity controlled by or affiliated with Umbrella Life Sciences, or its successors, could ever sit on its board, receive its funds, or see its accounts.
+N: It is still operating. It has audited the Directorate nineteen times. It has never once been permitted to finish.
+[pause 2.5]
+[img] a plain headstone on a windy Irish hillside above the sea, fresh flowers, grey sky, cinematic
+N: He came to the funeral. There were fourteen people. Nobody there had any idea who he was, which he had arranged, and which was the last favour he ever did for her.
+[pause 3.0]
+
+[music] m_alien -8
+[amb] amb_space -8
+[img] a colossal alien delegation vessel of polished black stone approaching a human orbital station, formal and enormous, cinematic
+[loc] Dock Four, Jovian orbit — 2136
+N: The Veth came back in twenty one hundred and thirty-six, forty-five years after the first fleet, and they did not come to assess.
+N: They came with four ships, one of which was a delegation vessel of a kind the Hegemony had commissioned nine times in nine thousand years, and which its protocols reserved for a very specific circumstance: the opening of relations with a power of comparable standing.
+N: The Hegemony had watched the Choir War. It had watched nine of the Choir's four hundred systems cleared. It had watched something reach into the Myriad — which had eaten the Hegemony's own frontier twice in four thousand years — and take a hundred and forty billion units out of it, and watched the Myriad withdraw.
+N: Their registry entry for the human system was amended in twenty one hundred and thirty-five. It is the only amendment of its kind in the Hegemony's history. The status field was changed from EMERGENT to PEER.
+[pause 2.0]
+[img] an aged alien admiral in ceremonial armour standing across a formal table from a man in a black coat, two very different ageless beings, cinematic
+N: Sethra-Vel led the delegation. She was four hundred and fifty-one years old. She had spent forty-five years as the only officer in the Hegemony who had met the human fleet and returned, and she had spent them writing the doctrine that had led to the amendment, and she had been passed over four times for a caste elevation she had earned, because the Hegemony did not forgive a broken formation.
+SETHRA: You left my beacon.
+WESKER: I said I would.
+SETHRA: It has been transmitting for forty-five years. Every vessel of my Hegemony that passes this system hears what happened here, in my own voice, in my own report. You understood, when you gave that order, that it would be my voice.
+WESKER: Yes.
+SETHRA: (slow) It ended my ascent. It also ended the argument. There are nine thousand years of doctrine that say a broken formation is a failure of the commander. There is now one report, in my voice, that says otherwise, and every officer of my caste has heard it four hundred times.
+[pause 1.5]
+SETHRA: You did not humiliate me, Director. You made me the only witness. I have spent forty-five years being unable to decide whether that was mercy or the most complete defeat in our history.
+WESKER: (soft) It was both. It usually is.
+[pause 2.5]
+
+[music] m_horror -10
+[img] a formal signing between a human delegation and a Veth delegation, two very different species at one table, stars through a vast window, cinematic
+N: They signed an accord in twenty one hundred and thirty-seven. Four hundred Veth worlds and eleven human ones, a demarcated frontier, exchange of embassies, and a joint standing commitment against the Myriad.
+N: It held. It is still holding. It is, by a very long way, the most successful diplomatic instrument in the recorded history of either species, and it was negotiated by a being who had been a mid-level research director at a dying laboratory in Delaware.
+[pause 2.0]
+[img] a public square on a human colony world with two flags flying, the umbrella emblem and an alien sigil, crowds and alien visitors, cinematic
+N: And on the same day it was signed, the Choir of Ashen Light — reduced to three hundred and ninety-one systems, its frontier held for it by the species it had condemned — published, as its doctrine required, to everybody, on every frequency, a restatement.
+CHOIR: We have listened for thirty-four years. We find no error in our judgement. We find the Plague unresolved, and its Bearer in health, and its dominion increased.
+[pause 1.0]
+CHOIR: We find also that it holds the frontier we could not hold, and that four hundred million of our people live behind its line who would otherwise be consumed.
+[pause 1.5]
+CHOIR: We do not withdraw the name. We record, before all who hear, that we owe our lives to a Plague, and that both things are true, and that we do not know what to do with this.
+[pause 2.5]
+N: It is generally considered the most honest thing any government of any species has ever published.
+[pause 2.0]
+
+[music] m_system -8
+[img] {WESKER} alone in a vast dark observation chamber with a glowing crimson panel before him, stars beyond, tiny in the frame, cinematic
+[sfx] sfx_system_chime
+[system] STANDING
+Veth Hegemony: peer
+Tollhouse Compact: unaligned trade
+Choir of Ashen Light: plague, ongoing
+Myriad: subject to direction — partial
+[say] Standing.
+[/system]
+[pause 1.5]
+[system] IMMUNITY AVAILABLE
+Memetic Panic
+The self-propagating fear response of large populations will not affect you.
+Cost: 9,000,000,000,000
+[say] Immunity available. Memetic panic.
+[/system]
+N: He looked at that one for a long time before he bought it.
+N: It was not a weapon. It was armour against a single specific thing: the moment — which every dynasty in the history of the galaxy had eventually met — when eleven billion people all become frightened of the same thing on the same day, and the fear moves faster than any instrument of government can move.
+N: The System had never offered it before. He understood why it was offering it now, and the understanding was not comfortable. The System did not predict. It priced. And it had just put a price on the possibility that the species would one day look at him and scream.
+[sfx] sfx_mouse_click
+[system] PURCHASE CONFIRMED
+Immunity: Memetic Panic
+[say] Purchase confirmed.
+[/system]
+[pause 2.5]
+
+[music] m_sad -8
+[amb] amb_wind -10
+[img] a small four-storey brick building preserved on a riverbank, surrounded by an enormous white city, a faded sign above the door, a queue of visitors, cinematic
+[loc] Wilmington, Earth — 2140
+N: He went back to the building in twenty one hundred and forty.
+N: It was still there. It had been preserved in twenty sixty-one, over his objection — the only public decision of the Directorate that was ever taken against his stated preference, by an Accord Council that voted a hundred and thirty-nine to two, because eleven billion people wanted it and the Council had learned, by then, when to insist.
+N: Four storeys of tired brick, on the south bank of the Christina River, inside a climate envelope, in the middle of a white city of nine million people. The parking lot is still a parking lot. The weeds are maintained by a gardener whose family has held the post for four generations.
+[img] the interior of a preserved shabby break room with a humming vending machine and an old upright piano, roped off, visitors looking in, cinematic
+N: The break room is exactly as it was. The vending machine is a replica; the original is in a museum on Mars. The piano is real.
+N: Four hundred thousand people visit every year. They queue in the parking lot. They are very quiet inside, which nobody asks them to be.
+[pause 2.0]
+[img] {WESKER} standing alone at night in a preserved empty break room, one hand resting on an old upright piano, no visitors, cinematic
+N: He came at night, alone, when it was closed, as he did every twenty years or so.
+N: He stood in the break room for a while. Then he sat down at the piano, which he had never once done, in either of his lives, and picked out four notes with one finger.
+[pause 1.0]
+N: Falling. And falling. And falling. And landing somewhere unresolved.
+[pause 2.0]
+N: A young woman had played that in this room at three in the morning in twenty twenty-six, and he had asked her why she was there so late, and she had asked whether she could help, and he had said: not yet.
+N: He played it four times. Then he stopped, and sat with his hands on the keys, in the dark, in a preserved room in a dead building in the middle of a city that his own will had raised out of an industrial park.
+[pause 2.0]
+N: There was nobody to say it to.
+N: Catherine was in the ground in County Clare. Tomás was in the ground on the Brandywine. Dana, Walter, Lessing, Nadia in exile in Lagos, Carrick in Portland at ninety-four, Ellery, Ingrid Halvorsen, Wen Shulan, who had died at eighty-eight with her file closed and handed on exactly as she had promised. Evelyn was a hundred and forty billion bodies in nine systems and had left him four words in a notebook.
+N: And the voice that had argued with him in a thousand cars had been gone for ninety-three years.
+[pause 2.5]
+N: He was the last one. He had built a thing that would last ten thousand years and he was the only person left alive who remembered the room it had started in.
+[pause 1.5]
+N: He got up, and closed the piano lid, and did not touch it again for four hundred years.
+[pause 3.0]
+[music] stop
