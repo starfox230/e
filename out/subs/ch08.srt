@@ -1,0 +1,794 @@
+1
+00:00:07,799 --> 00:00:13,828
+Graham Tolliver struck back in the first week of
+December, and he struck the way frightened
+
+2
+00:00:13,848 --> 00:00:19,080
+rich men always strike: with lawyers, with
+money, and with gossip, all at once.
+
+3
+00:00:19,649 --> 00:00:25,866
+The lawyers came first. A complaint filed in the
+Delaware Court of Chancery, forty-one
+
+4
+00:00:25,886 --> 00:00:32,466
+pages long, alleging that Doctor Albert Wesker had
+induced Verdant Axis to sign the archive
+
+5
+00:00:32,486 --> 00:00:39,137
+licence through fraudulent oral representations of
+exclusivity. It was a weak case. Everyone
+
+6
+00:00:39,157 --> 00:00:45,156
+who read it knew it was a weak case. It was not
+meant to win. It was meant to cost.
+
+7
+00:00:45,728 --> 00:00:51,757
+The money came second. On the same Tuesday, two
+members of Umbrella's staff received job
+
+8
+00:00:51,777 --> 00:00:57,668
+offers from Verdant Axis. Tomás Reyes was offered a
+senior technician's role at nearly
+
+9
+00:00:57,688 --> 00:01:03,718
+twice his salary. Evelyn Marsh was offered a position
+as associate director of research,
+
+10
+00:01:03,738 --> 00:01:09,973
+with her own lab, her own budget, and a signing bonus
+larger than everything she had earned
+
+11
+00:01:09,993 --> 00:01:12,516
+in the previous three years combined.
+
+12
+00:01:13,087 --> 00:01:18,588
+Evelyn forwarded hers to the Director within four
+minutes of receiving it. She added one
+
+13
+00:01:18,608 --> 00:01:19,466
+word above it.
+
+14
+00:01:20,037 --> 00:01:20,754
+No.
+
+15
+00:01:22,123 --> 00:01:24,135
+Tomás did not forward his.
+
+16
+00:01:25,704 --> 00:01:31,192
+He sat in his car in the parking lot that evening for
+forty minutes, looking at the offer,
+
+17
+00:01:31,212 --> 00:01:36,394
+and at the banking app that told him he still owed
+a hundred and six thousand dollars
+
+18
+00:01:36,414 --> 00:01:41,596
+for a degree in biology he had been told would
+change his life. He liked Umbrella. He
+
+19
+00:01:41,616 --> 00:01:46,860
+liked the Director, in the way you like a
+thunderstorm. But a hundred and six thousand
+
+20
+00:01:46,880 --> 00:01:51,143
+dollars is a very specific number, and it
+does not care what you like.
+
+21
+00:01:51,713 --> 00:01:57,542
+At nine o'clock there was a knock on his car window.
+He jumped so hard he hit his head
+
+22
+00:01:57,562 --> 00:01:58,359
+on the roof.
+
+23
+00:01:58,930 --> 00:02:04,636
+The Director was standing in the rain, beside the
+car, holding a folded sheet of paper.
+
+24
+00:02:04,656 --> 00:02:10,099
+He had no umbrella. He did not seem to be getting
+wet in any way that bothered him.
+
+25
+00:02:10,788 --> 00:02:12,527
+Roll the window down, Tomás.
+
+26
+00:02:13,048 --> 00:02:15,233
+I — Doc, I was going to tell
+you, I swear —
+
+27
+00:02:15,752 --> 00:02:16,884
+I know. Read this.
+
+28
+00:02:17,405 --> 00:02:23,363
+It was a letter. It gave Tomás Reyes a new title,
+head of digital, which did not yet mean
+
+29
+00:02:23,383 --> 00:02:29,342
+anything. It gave him a salary exactly one dollar
+higher than Verdant's. And it contained
+
+30
+00:02:29,362 --> 00:02:35,052
+a clause, drafted by Pell, under which Umbrella
+would pay off the full balance of his
+
+31
+00:02:35,072 --> 00:02:40,830
+student loans over three years, provided he was
+still employed at the end of each one.
+
+32
+00:02:41,520 --> 00:02:43,334
+This is — Doc. This is more than —
+
+33
+00:02:43,854 --> 00:02:49,501
+Verdant is offering you a job. I'm offering you a
+job that doesn't exist yet. There's
+
+34
+00:02:49,521 --> 00:02:52,167
+a difference. One of them has a ceiling.
+
+35
+00:02:53,487 --> 00:02:59,114
+Tomás signed it on the steering wheel, in the dome
+light, with a pen the Director handed
+
+36
+00:02:59,134 --> 00:03:01,552
+him. The ink ran a little in the rain.
+
+37
+00:03:02,122 --> 00:03:07,968
+It was, the Director would later calculate, the
+cheapest loyalty he ever bought with money.
+
+38
+00:03:07,988 --> 00:03:11,062
+Every other kind he bought with
+something worse.
+
+39
+00:03:12,832 --> 00:03:18,974
+The gossip came third, and it was the cleverest.
+Someone at Verdant had noticed the Shenzhen
+
+40
+00:03:18,994 --> 00:03:25,135
+licence, and by the middle of December, a certain kind
+of website had begun to ask a certain
+
+41
+00:03:25,155 --> 00:03:31,028
+kind of question: who was this Albert Wesker, with no
+American history, who had appeared
+
+42
+00:03:31,048 --> 00:03:35,916
+from nowhere, and sold American biological
+samples to a company in China?
+
+43
+00:03:36,606 --> 00:03:42,133
+That is good work. He is making you foreign. It
+is the oldest trick there is.
+
+44
+00:03:42,653 --> 00:03:43,401
+You'd know.
+
+45
+00:03:43,921 --> 00:03:48,253
+I would. And I know how it ends when
+you do nothing about it.
+
+46
+00:03:48,774 --> 00:03:52,893
+I'm not going to do nothing. I'm going to let
+someone else do something.
+
+47
+00:03:54,913 --> 00:03:58,699
+Hannah Price's story ran on the
+seventeenth of December.
+
+48
+00:03:59,269 --> 00:04:04,858
+It was the best piece of journalism the Wilmington
+Ledger had published in a decade, and
+
+49
+00:04:04,878 --> 00:04:10,277
+she had checked every line of it three times,
+because she knew who had pointed her at
+
+50
+00:04:10,297 --> 00:04:14,038
+it, and she was determined that
+nothing in it would be his.
+
+51
+00:04:14,606 --> 00:04:20,974
+Nothing in it was. Every fact was her own. The three
+trial sites with impossibly low dropout
+
+52
+00:04:20,994 --> 00:04:27,084
+rates. The Maryland clinic network that ran them. The
+limited partnership that owned the
+
+53
+00:04:27,104 --> 00:04:33,194
+network. And the general partner of the limited
+partnership: Curtis Vane, brother-in-law
+
+54
+00:04:33,214 --> 00:04:39,234
+of Graham Tolliver, who had been paid four point two
+million dollars in trial fees over
+
+55
+00:04:39,254 --> 00:04:45,205
+two years, and who had, according to three former
+nurses Hannah had found in two weeks
+
+56
+00:04:45,225 --> 00:04:51,176
+of phone calls, quietly removed patients from the
+study who were not responding to the
+
+57
+00:04:51,196 --> 00:04:51,524
+drug.
+
+58
+00:04:52,093 --> 00:04:58,144
+By noon, the story had been picked up by two
+national wire services. By one, the Food
+
+59
+00:04:58,164 --> 00:05:04,572
+and Drug Administration had announced that it was,
+quote, reviewing the data. By the close
+
+60
+00:05:04,592 --> 00:05:10,143
+of trading, Verdant Axis Therapeutics had lost
+sixty-one percent of its value.
+
+61
+00:05:10,713 --> 00:05:16,679
+Graham Tolliver watched it happen from his corner
+office, on four screens, with his hand
+
+62
+00:05:16,699 --> 00:05:23,276
+over his mouth. At four o'clock his general counsel came
+in and closed the door. At four-fifteen,
+
+63
+00:05:23,296 --> 00:05:27,834
+his wife called to ask why her brother was
+not answering his phone.
+
+64
+00:05:29,403 --> 00:05:35,636
+Across the river, in a corner office with a water
+stain shaped like Florida on the ceiling,
+
+65
+00:05:35,656 --> 00:05:41,615
+Albert Wesker watched the same line fall on a
+nine-year-old monitor, and did not smile.
+
+66
+00:05:42,185 --> 00:05:45,730
+Smiling was for amateurs. He was
+doing arithmetic.
+
+67
+00:05:47,800 --> 00:05:53,659
+The arithmetic was simple, and it was impossible. At
+the close on the seventeenth, the
+
+68
+00:05:53,679 --> 00:06:00,083
+whole of Verdant Axis — its glass building, its hundred
+and forty employees, its laboratories,
+
+69
+00:06:00,103 --> 00:06:06,235
+its drug pipeline, and ninety million dollars in cash
+— could be bought on the open market
+
+70
+00:06:06,255 --> 00:06:09,515
+for about a hundred and seventy
+million dollars.
+
+71
+00:06:10,086 --> 00:06:11,743
+Umbrella had two million.
+
+72
+00:06:12,312 --> 00:06:17,600
+He was still considering the problem at ten o'clock
+that night when his phone rang, from
+
+73
+00:06:17,620 --> 00:06:19,892
+a number in Manhattan he did not know.
+
+74
+00:06:20,581 --> 00:06:25,838
+Doctor Wesker. My name is Catherine Adeyemi. I'm a
+partner at Keel Harbour Capital. We
+
+75
+00:06:25,858 --> 00:06:31,237
+specialise in distressed life sciences. I won't keep
+you long. I only have one question.
+
+76
+00:06:31,757 --> 00:06:32,473
+Go on.
+
+77
+00:06:32,992 --> 00:06:34,829
+You wrote that article, didn't you?
+
+78
+00:06:36,548 --> 00:06:42,160
+He did not answer immediately. It was the first time
+in three months that a question had
+
+79
+00:06:42,180 --> 00:06:44,079
+arrived before he expected it.
+
+80
+00:06:44,769 --> 00:06:47,545
+Hannah Price wrote that article.
+It's very good.
+
+81
+00:06:48,064 --> 00:06:52,961
+Hannah Price wrote it. You aimed it. Your company signs
+a licence with Verdant in September.
+
+82
+00:06:52,981 --> 00:06:57,612
+Verdant tries to take your building in October.
+Tolliver's lawyers sue you in December.
+
+83
+00:06:57,632 --> 00:07:02,155
+And three weeks later, a local reporter nobody's
+heard of finds a four-million-dollar
+
+84
+00:07:02,175 --> 00:07:06,752
+family scheme buried in a clinic network in
+Maryland. I've been doing this for fifteen
+
+85
+00:07:06,772 --> 00:07:11,296
+years, Doctor Wesker. Nothing in this business
+happens three weeks later by accident.
+
+86
+00:07:11,817 --> 00:07:12,777
+And if I did?
+
+87
+00:07:13,295 --> 00:07:17,727
+Then I'd like to buy you a very expensive dinner and
+discuss how you intend to pay for
+
+88
+00:07:17,747 --> 00:07:19,952
+the rest of the company you've
+just broken.
+
+89
+00:07:21,973 --> 00:07:26,762
+She came to Wilmington herself, on the Monday,
+on the eight o'clock train.
+
+90
+00:07:27,331 --> 00:07:32,914
+Catherine Adeyemi was thirty-eight, born in Lagos,
+raised in South London, educated at
+
+91
+00:07:32,934 --> 00:07:38,516
+Cambridge and on the trading floors of the City, and
+she had left a very senior job at
+
+92
+00:07:38,536 --> 00:07:44,444
+a very old bank after she had reported one of its
+partners to the regulator, and discovered
+
+93
+00:07:44,464 --> 00:07:50,176
+what happens to people who do that. She had been at
+Keel Harbour for four years. She was
+
+94
+00:07:50,196 --> 00:07:55,322
+very good at it. She was also, though she did
+not tell people this, very bored.
+
+95
+00:07:55,892 --> 00:08:01,601
+She looked around the lobby, and at the water stain,
+and at the nine-year-old monitors,
+
+96
+00:08:01,621 --> 00:08:05,485
+and at the man in black who rose to
+meet her, and she said:
+
+97
+00:08:06,175 --> 00:08:10,007
+Well. This is either the worst investment I've
+ever seen, or the best one.
+
+98
+00:08:10,528 --> 00:08:11,511
+Which do you think?
+
+99
+00:08:12,031 --> 00:08:13,739
+I think I'll know after lunch.
+
+100
+00:08:15,259 --> 00:08:19,911
+They talked for three hours. It was not the
+kind of meeting he was used to.
+
+101
+00:08:20,480 --> 00:08:25,823
+The Command Presence did not work on her — or not
+properly. He felt it reach for her,
+
+102
+00:08:25,843 --> 00:08:31,437
+the way a hand reaches for a railing in the dark, and
+he felt it slide off. The Cold-Read
+
+103
+00:08:31,457 --> 00:08:37,178
+worked, but what it showed him was a woman reading him
+back with nearly the same precision:
+
+104
+00:08:37,198 --> 00:08:42,666
+amusement, calculation, and something else,
+flickering in and out, that took him a long
+
+105
+00:08:42,686 --> 00:08:46,956
+time to identify, because he had so rarely
+seen it aimed at himself.
+
+106
+00:08:47,524 --> 00:08:53,143
+It was respect. And, beneath it, a small bright
+thread of alarm, that she was choosing
+
+107
+00:08:53,163 --> 00:08:55,765
+— consciously, deliberately — to ignore.
+
+108
+00:08:57,256 --> 00:09:02,384
+Here's the structure. Keel Harbour lends Umbrella sixty
+million on a bridge, secured against
+
+109
+00:09:02,404 --> 00:09:07,420
+your archive licences and the building, at a rate I'll
+describe to my partners as punitive
+
+110
+00:09:07,440 --> 00:09:12,400
+and you'll describe to your staff as generous. You
+buy just under five percent of Verdant
+
+111
+00:09:12,420 --> 00:09:17,380
+on the open market this week, quietly, below the
+reporting line. Then you cross it, file,
+
+112
+00:09:17,400 --> 00:09:22,192
+and in January you launch a tender for control at a
+premium to a price that's still on
+
+113
+00:09:22,212 --> 00:09:26,948
+the floor. The board will be desperate. Half of
+them will be facing shareholder suits
+
+114
+00:09:26,968 --> 00:09:30,473
+over the trial data. You offer them a
+clean exit. They take it.
+
+115
+00:09:30,994 --> 00:09:31,849
+And Tolliver?
+
+116
+00:09:32,369 --> 00:09:37,923
+Tolliver is a man whose brother-in-law is about to be
+indicted. Tolliver is not your problem.
+
+117
+00:09:37,943 --> 00:09:39,601
+Tolliver is his own problem.
+
+118
+00:09:40,922 --> 00:09:41,969
+And what do you want?
+
+119
+00:09:42,489 --> 00:09:47,519
+Three things. If it closes, I want to be your chief
+financial officer. I want equity.
+
+120
+00:09:47,539 --> 00:09:51,322
+And I want to know, at all times, where
+the money actually goes.
+
+121
+00:09:52,841 --> 00:09:54,796
+He looked at her for a long moment.
+
+122
+00:09:55,365 --> 00:10:01,052
+The Adolf half of him did not like her at all. She
+was clever, and she was not afraid,
+
+123
+00:10:01,072 --> 00:10:06,825
+and the old voice noticed — with the reflexes of the
+poison it had once preached — that
+
+124
+00:10:06,845 --> 00:10:12,930
+she was not the kind of person it had ever allowed at
+its table. Wesker noticed it noticing,
+
+125
+00:10:12,950 --> 00:10:18,836
+and found it contemptible. Not as a matter of
+morality, which interested him very little.
+
+126
+00:10:18,856 --> 00:10:24,476
+As a matter of intelligence. And the Wesker half
+understood what he was being offered
+
+127
+00:10:24,496 --> 00:10:30,316
+— a first-rate financial mind who could not be
+summoned, could not be ordered, and could
+
+128
+00:10:30,336 --> 00:10:34,696
+therefore do the one thing none of his
+loyal purchases ever could.
+
+129
+00:10:35,264 --> 00:10:37,356
+She could tell him when he was wrong.
+
+130
+00:10:38,048 --> 00:10:38,620
+Done.
+
+131
+00:10:39,139 --> 00:10:40,346
+Just like that?
+
+132
+00:10:40,866 --> 00:10:44,644
+I don't negotiate with people I've
+already decided to hire.
+
+133
+00:10:46,163 --> 00:10:52,056
+She laughed — a short, surprised laugh — and shook
+his hand. His grip was very cool. She
+
+134
+00:10:52,076 --> 00:10:58,104
+noticed that, too, and filed it with the other things
+she was deciding not to think about.
+
+135
+00:10:58,673 --> 00:11:02,981
+He had agreed to all three of her conditions.
+He would honour two of them.
+
+136
+00:11:05,052 --> 00:11:10,980
+Graham Tolliver's last move was the stupidest one, and
+he made it the night after Catherine
+
+137
+00:11:11,000 --> 00:11:12,025
+Adeyemi's visit.
+
+138
+00:11:12,596 --> 00:11:18,394
+He had heard, from Dale Kuchar, a rambling story
+about a machine in a basement that had
+
+139
+00:11:18,414 --> 00:11:24,145
+not been there before. He had decided — in the way
+that desperate men decide things at
+
+140
+00:11:24,165 --> 00:11:30,096
+two in the morning — that if he could prove Umbrella
+was running an unlicensed biological
+
+141
+00:11:30,116 --> 00:11:35,981
+facility, he could take the whole thing to the state
+and bury it. So he paid two retired
+
+142
+00:11:36,001 --> 00:11:41,866
+police officers who did private work, and they went
+to the building, and they forced the
+
+143
+00:11:41,886 --> 00:11:46,013
+basement fire door with a pry bar at
+two-forty in the morning.
+
+144
+00:11:46,581 --> 00:11:51,951
+They had flashlights and a camera. They found the
+freezers. They found the grey unit in
+
+145
+00:11:51,971 --> 00:11:53,314
+the corner, breathing.
+
+146
+00:11:53,884 --> 00:11:55,947
+One of them lifted the camera.
+
+147
+00:11:57,517 --> 00:11:59,379
+Hale was standing in front of him.
+
+148
+00:11:59,947 --> 00:12:05,632
+Neither man had heard him arrive. Neither man had
+heard Gus, either, who was standing
+
+149
+00:12:05,652 --> 00:12:11,604
+two feet to Hale's left, holding a mop, with an
+expression of mild professional interest.
+
+150
+00:12:11,624 --> 00:12:13,214
+Neither of them blinked.
+
+151
+00:12:13,904 --> 00:12:15,836
+Good morning, gentlemen.
+
+152
+00:12:17,556 --> 00:12:23,250
+What happened in the next four minutes, the two men
+never told anyone. Nobody was hurt.
+
+153
+00:12:23,270 --> 00:12:28,964
+The Director had been very clear about that, and
+Hale did not do things he had not been
+
+154
+00:12:28,984 --> 00:12:34,679
+told to do. There was no violence. There were only
+four minutes in a dark basement with
+
+155
+00:12:34,699 --> 00:12:40,393
+two men who did not blink, and a machine that
+breathed, and — one of the men would say,
+
+156
+00:12:40,413 --> 00:12:46,108
+years later, drunk, to a bartender in Arizona who
+did not believe him — a small frosted
+
+157
+00:12:46,128 --> 00:12:52,020
+window in the side of the machine, through which, for
+a moment, something had looked back.
+
+158
+00:12:53,590 --> 00:12:59,444
+They left without the camera. Both of them resigned
+from private work the next morning.
+
+159
+00:12:59,464 --> 00:13:02,686
+One moved to Arizona. The other
+joined a church.
+
+160
+00:13:03,255 --> 00:13:06,542
+Neither of them ever called Graham
+Tolliver again.
+
+161
+00:13:09,363 --> 00:13:13,098
+Assessment. Five thousand six
+hundred Points.
+
+162
+00:13:19,788 --> 00:13:25,928
+On Christmas Eve, Umbrella filed with the Securities
+and Exchange Commission that it had
+
+163
+00:13:25,948 --> 00:13:32,299
+acquired five point two percent of Verdant Axis
+Therapeutics, and intended to seek control.
+
+164
+00:13:32,869 --> 00:13:38,635
+On Christmas Day, Graham Tolliver read the filing at
+his dining table, in front of his
+
+165
+00:13:38,655 --> 00:13:44,421
+wife, and his children, and his brother-in-law's
+empty chair, and understood, at last,
+
+166
+00:13:44,441 --> 00:13:46,102
+who he had been fighting.

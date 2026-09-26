@@ -1,0 +1,120 @@
+# 20 | Frame 1,114
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] a wall of television screens in a newsroom all showing the same grainy dashcam frame of a blurred figure in a parking lot, with different news chyrons, cinematic
+[loc] January 2030
+N: For eleven days, the ghost video was the most watched piece of footage on Earth.
+N: It was slowed down, and sped up, and enhanced, and set to music, and analysed by physicists on podcasts and by teenagers in bedrooms. A man in Tennessee who ran a channel about unexplained phenomena put out a two-hour video on frame one thousand one hundred and fourteen, and it was watched eighteen million times. A professor of biomechanics at Stanford gave an interview in which she said, carefully, that no human being could accelerate a body to three hundred metres a second without being killed by the acceleration itself, and that she had therefore concluded that the video had been edited.
+[img] a split screen of a biomechanics professor in a lecture hall and a video forensics expert pointing at frames on a monitor, analytical graphs, cinematic
+N: It had not been edited. The Bureau's own forensic laboratory in Quantico established that within forty-eight hours — that the file on Keisha Bell's dashcam memory card was original, unaltered, and continuous.
+N: The Bureau's laboratory also established, in the same report, that the smear in frames eleven-twelve and eleven-thirteen was consistent with, quote, a known artefact of rolling-shutter CMOS sensors when a high-contrast object crosses a low-light scene, and that the apparent velocity could not be reliably inferred from the footage.
+N: That was also true. It was true in the way that the sculpture in the glass case was true, and the animal welfare plan was true, and the cold vault was true. It was true enough.
+[pause 1.5]
+
+[music] m_scheme -8
+[img] {TOMAS} in a glass office on the tenth floor surrounded by screens of social media dashboards, directing a small team, intense and exhausted, cinematic
+N: The story that the world settled on, in the end, was Tomás's.
+N: He built it in seventy-two hours, from a glass office on the tenth floor, with a team of nine and no sleep. He did not deny the video. That would have been fatal — the internet can smell a denial the way sharks smell blood. Instead he surrounded it. Within a day, every search for ghost video led first to the Bureau's rolling-shutter report, and then to an interview with a retired Army Ranger explaining how adrenaline and training could make a fit man look astonishingly fast in the dark, and then to the obituary of Doctor Howard Lessing — a respected senior scientist, murdered by corporate mercenaries in the building where he had worked for thirty-four years.
+[img] a phone screen showing a trending hashtag and a news article about corporate espionage, a tall CEO in sunglasses described as a hero in the headline, cinematic
+N: And then, on the fourth day, a leak. An anonymous source inside the investigation — Tomás never said who, and Carrick never found out — told a reporter at a national newspaper that the four dead intruders had been employed by a security contractor in Virginia, and that the contractor had been paid through consultants linked to one of the largest pharmaceutical companies in the world.
+N: By the end of the week, the story of the ghost video was not a story about a man who could move at the speed of sound. It was a story about corporate espionage, and a murdered scientist, and a chief executive who had defended his people with his bare hands.
+N: The Sunglasses CEO was a hero. Somebody made a T-shirt of frame one thousand one hundred and fourteen. It said: don't touch his lab.
+[pause 1.5]
+ADOLF: They are cheering. For the killing.
+WESKER: They're cheering for the story. The killing was an inconvenience I've converted.
+ADOLF: (slow) You are learning what I learned. They do not want the truth. They want to be told who the hero is.
+[pause 1.5]
+
+[music] m_tension -10
+[amb] amb_night_city
+[img] {CARRICK} at his kitchen table at 2 a.m. surrounded by printed frames of dashcam footage and handwritten calculations, his wife in a bathrobe watching from the doorway, cinematic
+[loc] Media, Pennsylvania — February 2030
+N: Owen Carrick did not accept the story. He could not. He had watched frame one thousand one hundred and fourteen more times than anyone alive.
+N: He took the frames home. He printed them. He laid them out on the kitchen table after his daughters had gone to bed, in a row, from eleven-ten to eleven-fifteen, and he sat and looked at them with a legal pad and a calculator, and at two in the morning his wife Laura found him still there.
+[img] a woman in a bathrobe standing in a kitchen doorway at night, arms folded, looking at her husband hunched over papers, worried, warm lamp light, cinematic
+LAURA: Owen. Come to bed.
+CARRICK: The Bureau says it's a rolling-shutter artefact. It isn't. I've read the paper they cited. A rolling-shutter smear is diagonal. This is horizontal. And the figure in eleven-fourteen isn't smeared at all. He's standing still. You can see the buttons on his coat.
+LAURA: Owen.
+CARRICK: Forty metres, Laura. In four frames. And then he stops. Dead. From three hundred metres a second to nothing in one frame. Do you know what that does to a human body? It turns it into paste. And he's just standing there. Looking at the camera.
+[pause 1.5]
+N: Laura Carrick taught eighth-grade science. She understood the arithmetic. That was what frightened her — not that her husband was wrong, but that she could not find where he was.
+LAURA: (soft) What are you going to do?
+CARRICK: I'm going to find out who he is.
+[pause 1.5]
+
+[music] m_scheme -10
+[img] {CARRICK} in an FBI office at a computer, pulling up records: Swiss school registries, tax filings, a cemetery photo, all perfectly in order, his expression growing uneasy, cinematic
+N: He began where you always begin. With the paperwork.
+N: Albert Wesker. Born in Basel, Switzerland, according to his American visa application. A doctorate from a private Swiss research institute that had closed in twenty nineteen. A career of short research contracts in Germany, France, and Singapore. Taxes paid, in every country, on time. An American work visa, renewed without incident. A mother, deceased, buried in a Protestant cemetery outside Basel — Carrick found a photograph of the headstone on a genealogy website, with the inscription clear and the moss exactly where moss should be.
+[img] a photograph of a mossy old gravestone in a Swiss cemetery, the name WESKER carved on it, autumn leaves, perfectly composed, cinematic
+N: It was perfect. That was what he noticed, in the end.
+N: He had spent seventeen years looking into people's pasts. He knew what a real past looked like. A real past was full of holes — a gap of eight months nobody could explain, a school that had lost its records in a flood, a landlord who remembered the wrong year, a tax return filed late because of a divorce. Real lives were messy. Real paperwork contradicted itself.
+N: Albert Wesker's did not contradict itself once. Every date matched every other date. Every school had its records. Every landlord remembered him, correctly and fondly. Every tax return was on time.
+N: It was not the past of a man. It was the past of a man that someone had built.
+[pause 1.5]
+[img] {CARRICK} leaning back from a monitor in a dark office, hand over his mouth, the reflection of a perfect record in his eyes, cinematic
+N: The System had given the Director that deep identity in a ten-pull in a basement, three years before, as a Rare, between an industrial coffee machine and a blueprint fragment. It had made his history flawless.
+N: It was, as the narrator warned you, the first mistake the System ever made on his behalf. And the man it had been made for would not learn about it for another two years.
+[pause 1.5]
+
+[music] m_rain_piano -8
+[amb] amb_office_hum
+[img] a state government database on a screen showing a 2026 environmental inspection report, the inspector's name DELGADO and the word EXEMPLARY highlighted, cinematic macro
+N: He found the Delgado report in March.
+N: It was in a state environmental database, four years old — a routine inspection of the old building in the autumn of twenty twenty-six, prompted by a complaint from the then-landlord about unauthorised industrial equipment. The complaint had been closed as unfounded. The facility had been described as exemplary in its cooperation. The only deficiency noted was a solvent store on the second floor, which the director had asked — in writing — to be cited for.
+N: Carrick read that line three times. The director had asked to be cited.
+N: In seventeen years, he had never known a company to ask to be cited for anything.
+[img] {DELGADO} at the door of a modest suburban house in a polo shirt, older now, speaking to {CARRICK} on the porch, cautious, cinematic
+DELGADO: He was the nicest guy I ever inspected. Honestly. Walked me through every room himself. Showed me the basement first. There was this big air handler down there, Arcturus, and the landlord had lost his mind about it, and it was all in order. Permits, log, everything.
+CARRICK: Did it strike you as strange? That he wanted to be written up?
+DELGADO: (soft) At the time? No. At the time I thought, finally, somebody who takes this seriously.
+[pause 1.0]
+DELGADO: Now? Now I think about it a lot. I think — he knew exactly what I wanted. Before I did. And he gave it to me. And I walked right past that machine in the corner, Agent Carrick, and I wrote the word exemplary.
+[pause 1.5]
+
+[music] m_tension -8
+[amb] amb_night_city
+[img] {HANNAH} sitting alone at a dim bar at night, a glass of wine untouched, looking up as {CARRICK} slides onto the stool beside her, neon, noir, cinematic
+[loc] A bar in Philadelphia — April 2030
+N: He met Hannah Price in April. It was her idea.
+N: She had written to him through the Bureau's public affairs office, which was procedure, and then, when public affairs had declined on his behalf, she had found his home address, which was not. She did not go to his home. She left a note in his mailbox with the name of a bar in Philadelphia and a time, and the words: frame eleven-fourteen. I have something you don't.
+[img] close-up of {HANNAH} and {CARRICK} at a bar, her notebook open between them, his hand flat on a printed dashcam frame, both intense, cinematic
+HANNAH: I'm not going to write about you. That's the first thing. I'm off the record. I want to know what you know, and I'll tell you what I know, and nobody ever finds out we met.
+CARRICK: Why would I trust you?
+HANNAH: Because two years ago I sat across a dinner table from him and asked him about Control Seven, and his face didn't move. And then he told me Howard Lessing's name before I'd said it. And when I got home, somebody had been in my apartment and moved my notebook one inch.
+[pause 1.5]
+N: Carrick looked at her for a long time. Then he took a folded piece of paper out of his jacket and put it on the bar between them. It was a printout of frame one thousand one hundred and fourteen.
+CARRICK: What do you have that I don't?
+[pause 1.0]
+HANNAH: A man named Rick Dorsey. He's a deacon at a church in Lancaster County. In December of twenty twenty-six, Graham Tolliver paid him to break into the basement of that building. He saw two men who didn't blink. And a machine in the corner that breathed. And a window in the machine. And he says something inside it opened its eye.
+[pause 1.5]
+N: Carrick did not say anything for a while. The bartender came, and went away again.
+CARRICK: (soft) Arcturus.
+HANNAH: What?
+CARRICK: The air handler. The one that isn't there anymore. The state inspector saw it in twenty twenty-six. Wesker told us it was replaced. There's a bare patch of painted concrete with four bolt holes where it was.
+[pause 1.0]
+HANNAH: Replaced with what?
+CARRICK: Nothing. The corner's empty. Whatever it was — it's gone. Or it went somewhere.
+[pause 1.5]
+N: They sat at the bar until it closed. They compared notes, and dates, and names. And at the end of the night, standing on the sidewalk in the rain, two people who had each been alone with the same impossible thing for too long looked at each other, and understood that they were no longer alone.
+N: It was, the Director would reflect later, the second mistake. Not the System's, this time. His.
+N: He had spent three years making sure that everyone who saw too much was isolated — discredited, or frightened, or converted, or dead. He had forgotten that isolated people sometimes find each other.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_office_hum
+[img] {WESKER} standing at the window of his corner office at night, looking down at the parking lot where a dashcam once caught him, a faint reflection of red eyes in the glass, cinematic
+N: He knew about the meeting within a day. The Silent Ones had followed Hannah Price for two years, on and off. They had not been able to hear what was said in the bar. They had not needed to.
+ADOLF: The policeman and the journalist.
+WESKER: Yes.
+ADOLF: This is how it begins. Always. Two people in a room who have seen the same thing. Then four. Then a newspaper. Then a court. I have seen it. I have done it. I built a party out of men in a beer hall who had all seen the same thing.
+WESKER: They haven't seen anything. They've seen a smear on a dashcam and heard a deacon's ghost story.
+ADOLF: (cold) They have seen enough to know what to look for. That is all a hunter ever needs.
+[pause 1.5]
+N: For once, Wesker did not argue.
+N: He stood at the window for a long time, looking down at the parking lot where four frames of video had undone three years of silence, and he thought, in the Thought Acceleration, through every way this could go.
+N: It could go many ways. In most of them, he won.
+N: But for the first time since he had woken in a leather chair in the rain, there were some in which he did not. And the ones in which he did not all began with an FBI agent and a journalist, standing on a sidewalk in Philadelphia, in the rain, deciding not to be alone.
+[pause 3.0]
+[music] stop

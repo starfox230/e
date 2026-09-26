@@ -1,0 +1,181 @@
+# 22 | T-00
+
+[music] m_scheme -10
+[amb] amb_office_hum
+[img] {SLOANE} and {WESKER} seated across from each other in a corner office with a river view, two cups of coffee untouched, a cool morning light, a chess-like tension, cinematic
+[loc] Umbrella tower, twelfth floor — 2 September 2030
+N: Martin Sloane did not waste time. It was the first thing the Director liked about him.
+SLOANE: I'm not here to investigate you, Doctor Wesker. I want to be clear about that. The Bureau does that. The Bureau is very bad at it, as you've noticed. My part of the government doesn't investigate. It collects.
+WESKER: And what are you collecting?
+SLOANE: Information. About people who are about to try to take something from you.
+[pause 1.0]
+[img] a classified document folder on a coffee table with a Cyrillic stamp, a grainy satellite photograph of a desert compound, and the word UMBRELLA circled, cinematic macro
+SLOANE: Since January, we've been hearing a word in some very interesting places. In Moscow, mostly. In some traffic between people who work for a certain service, and people who used to work for a certain private military company that the Kremlin likes to pretend doesn't exist. The word is Umbrella. Sometimes they also use a word that translates, roughly, as ghost.
+WESKER: They've seen the video.
+SLOANE: Everybody's seen the video. The difference is that some people watched it and saw a rolling-shutter artefact, and some people watched it and saw a weapon.
+[pause 1.0]
+WESKER: And which did you see, Mister Sloane?
+[pause 1.5]
+N: Sloane smiled. It was a thin, cold, genuinely amused smile, and the Cold-Read read it with something close to pleasure.
+SLOANE: I saw a man who doesn't want to be collected by the Russians. I'm here to suggest that you'd prefer to be collected by us.
+[pause 1.0]
+N: He left a telephone number on a plain white card, and a warning, and nothing else. He did not ask for anything. That, too, the Director liked.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_night_city
+[img] {WESKER} in his car at night, still, the white card in his gloved fingers, his face reflected in the window with faint red in the eyes, cinematic
+ADOLF: The Americans want to own you.
+WESKER: The Americans want to rent me. There's a difference. And the Russians want to steal me. Which means that, for the first time, someone is going to come at us who isn't afraid of the police.
+ADOLF: Then let them come.
+WESKER: Yes. I think we should.
+[pause 1.0]
+ADOLF: (slow) You are thinking of the creature.
+WESKER: I'm thinking that I own a weapon I've never seen used. I'm thinking that a Russian contractor team is the only enemy on Earth I could use it on that nobody would ever report missing. And I'm thinking that it's been asleep for four years, and I'd like to know what it does when it wakes up.
+[pause 1.5]
+N: The Adolf half of the mind was silent for a long moment. When it spoke, its voice had changed — lower, slower, and with something in it that the Wesker half had never quite heard before. Not joy. Something more careful than joy.
+ADOLF: You have always told me to wait. Not yet. Not yet. You told the girl at the piano. You told the creature in the ice.
+WESKER: I did.
+ADOLF: And now?
+WESKER: Now it's a controlled experiment.
+[pause 1.5]
+
+[music] m_system -8
+[amb] amb_wind -8
+[img] a vast flat desert at dusk in Nevada, a low windowless concrete data center compound with a fence and antennas, a single road leading in, empty for miles, cinematic wide shot
+[loc] Mojave Desert, Nevada — October 2030
+[system] PURCHASE CONFIRMED
+Facility: Desert Complex (concealed)
+Surface designation: data centre, Ashford Pacific
+Subsurface: four levels
+Cost: 250,000
+[say] Purchase confirmed. Desert complex.
+[/system]
+N: The facility appeared in the Mojave Desert in the second week of October, forty miles from the nearest town, on land that an Ashford Pacific subsidiary had bought from the Bureau of Land Management two years before and never used.
+N: On the surface, it was a data centre. Low concrete buildings, a fence, a row of cooling units, a microwave mast. It even held data — real servers, running real workloads, for real customers, at a loss. Below the surface, four levels down, it was something else.
+[img] a massive cryogenic cradle being lowered by crane from a flatbed truck into an open concrete shaft in the desert at night, floodlights, men in black watching, cinematic
+N: They moved the Tyrant out of Wilmington on a moonless night, in a refrigerated truck with the name of a produce company on its side, escorted by four of the Silent Ones in two black cars, across two thousand four hundred miles of interstate. Evelyn Marsh rode in the cab. She had insisted. She had not left the cradle's side for four years and she was not, she told the Director, going to start now.
+N: It arrived on the third day, and was lowered into the deepest level of the desert complex, and bolted down. Its breathing, in the new room, echoed.
+[pause 1.5]
+[img] a hacked logistics database on a laptop in a dim Moscow office, a shipment line reading BIOLOGICAL MATERIAL — NEVADA highlighted, Cyrillic windows open, cinematic
+N: And then — carefully, over three weeks — he let the Russians find it.
+N: It was not difficult. Ashford Pacific's logistics system had been under quiet attack from a group in Saint Petersburg since the spring; Hale's people had noticed in April and done nothing, on the Director's instructions, except watch. Now, in the shipping records the hackers were reading, a single line appeared. A transfer of biological material, classification restricted, from Wilmington to a data centre in Nevada. Handling instructions: cryogenic. Security escort: four.
+N: Four. It was a very small number. It was meant to be.
+[pause 1.5]
+
+[music] m_tension -6
+[amb] amb_wind
+[img] twelve armed men in desert camouflage with night vision goggles moving in a wedge formation across moonless desert sand toward a lit compound, a helicopter silhouetted far behind them, cinematic
+[loc] 19 November 2030 — 2:04 a.m.
+N: They came on the nineteenth of November, at four minutes past two in the morning.
+N: There were twelve of them. They had come into the country separately, over two weeks, on real passports, through four different airports, and assembled in a rented ranch house outside Barstow. They were former soldiers of the Russian special forces, and of a private company that had fought in Syria, and Libya, and Mali, and Ukraine. They had night vision, and suppressed rifles, and a drone, and a thermal lance for the vault door, and a helicopter waiting eleven miles away with a pilot who had flown for three different governments.
+N: They were, by any standard, the most dangerous group of people who had ever tried to take anything from Albert Wesker.
+[img] a dark underground control room with a wall of screens showing thermal camera feeds of armed men approaching a fence, {WESKER} standing with arms folded, {EVELYN} and {HALE} beside him, cinematic
+N: He watched them come, from a control room four levels down, on a wall of screens. Evelyn stood beside him. Hale stood by the door.
+RADIO: (whisper) Fence is down. Two guards at the east door. Moving.
+N: The two guards at the east door were Silent Ones. They had been told to step aside. They stepped aside, with perfect courtesy, and the twelve men went past them without ever quite seeing them, and into the building, and down.
+[pause 1.5]
+N: At the fourth level, in front of a steel door with a red-and-white emblem painted on it, the team leader raised his hand, and they stopped.
+N: And four levels down, in the control room, Albert Wesker said two words.
+[pause 1.0]
+WESKER: Wake it.
+[pause 2.0]
+[music] stop
+[amb] stop
+[sfx] sfx_cryo_hiss
+[img] a massive cryogenic cradle venting clouds of white vapour as its frosted door swings open, red warning lights, a colossal grey shape inside beginning to move, cinematic
+N: In the deepest room of the desert complex, for the first time in four years, the cradle opened.
+[sfx] sfx_tyrant_growl g-4
+[pause 2.5]
+[music] m_horror
+[amb] amb_basement
+[img] a thermal camera view down a dark concrete corridor showing a huge white-hot humanoid shape, nine feet tall, walking slowly toward the camera, grainy, terrifying, cinematic
+N: The team saw it first on thermal.
+RADIO: (whisper) Contact. Contact, front. Something big. Very hot. Very — it's very big.
+RADIO: (whisper) Is that a man?
+[sfx] sfx_tyrant_footstep
+[pause 1.0]
+RADIO: That's not a man.
+[pause 0.5]
+[sfx] sfx_gunfire_exchange
+[img] muzzle flashes lighting a dark concrete corridor in strobing bursts, a giant grey figure advancing through the gunfire without slowing, bullets sparking off walls, cinematic
+N: They opened fire. They were professionals, and they did it well — four rifles at once, controlled bursts, aimed at the centre of mass. The corridor filled with light and noise and the smell of cordite.
+N: It did not stop. It did not hurry, either. It walked into the gunfire the way a man walks into rain.
+[sfx] sfx_tyrant_footstep
+[sfx] sfx_metal_clang +1.0
+[pause 1.5]
+N: What happened in the next ninety seconds, the Director watched on the wall of screens with his arms folded, and Evelyn Marsh watched beside him with a notebook, writing, and Hale watched by the door, and none of the three of them looked away.
+N: The narrator will not describe it. Not because it cannot be described — but because the men in that corridor were somebody's sons, and they had come to steal, and they did not deserve to be remembered only as the first people on this Earth to learn what a Tyrant was for.
+[sfx] sfx_gunfire_burst g-4
+[pause 1.0]
+[sfx] sfx_tyrant_growl g-2
+[pause 2.0]
+[img] a dark concrete corridor after a battle filled with drifting smoke, dropped rifles on the floor, flickering red emergency light, empty, a huge silhouette standing still at the far end, cinematic
+N: It took ninety seconds. The radio chatter lasted seventy of them.
+RADIO: (shout) Fall back! Fall back to the — it's in the — oh God —
+[sfx] sfx_radio_static
+[pause 2.0]
+N: And then it didn't.
+[pause 1.5]
+[music] stop
+[amb] amb_wind -4
+[img] a helicopter lifting off hurriedly from dark desert ground at night, its searchlight off, dust swirling, fleeing, cinematic
+[sfx] sfx_ship_pass g-10
+N: Eleven miles away, a helicopter pilot who had flown for three different governments listened to his radio go silent, and waited exactly as long as his training said to wait, and then lifted off, alone, and flew south toward the Mexican border, and was never heard from again by anyone who had employed him.
+[pause 2.5]
+
+[music] m_horror -8
+[amb] amb_lab
+[img] {EVELYN} in a dark control room, face lit by screens, writing rapidly in a notebook, eyes shining with wonder, {WESKER} standing motionless beside her, cinematic
+N: In the control room, nobody spoke for a while.
+N: Evelyn finished writing. She closed her notebook, and held it against her chest with both arms, and looked at the wall of screens, where a nine-foot grey figure was standing perfectly still at the end of a smoke-filled corridor, waiting to be told what to do next.
+EVELYN: (whisper) It was perfect.
+[pause 1.0]
+N: Hale said nothing. Hale never said anything he had not been asked.
+N: The Director stood with his arms folded, and looked at the screen, and did not move for a long time.
+[pause 1.5]
+ADOLF: (soft) Do you see it now?
+WESKER: I see it.
+ADOLF: Twelve soldiers. The best Russia has. Ninety seconds. One of them. Do you understand what we could do with a hundred? With a thousand?
+WESKER: I understand exactly.
+ADOLF: An army of these. Not in a desert. In the streets of a capital. At the gates of a parliament. No one could stand against it. No one. Not the Americans, not the Chinese, not —
+WESKER: (cold) Stop.
+[pause 1.5]
+N: It was the first time Wesker had ever told the other voice to stop. It was not a request.
+WESKER: An army of these is a war. Listen to me. A war. With the whole world. Tomorrow. Against every government on this planet, all at once, united — for the first time in their history — by the one thing they will all agree on, which is that we have to be destroyed. You know how that ends. You were there. You ended it in a bunker with a pistol.
+ADOLF: (slow) I did not have this.
+WESKER: You had the best army in Europe and the world took it apart in six years. Because they saw you coming. Because you showed them. That's the only lesson either of us was ever supposed to learn.
+[pause 1.0]
+WESKER: We are not ready for a war. We are ready for a market. And a market is the only war you win by making your enemies grateful.
+[pause 2.0]
+N: The old voice did not answer for a long time. When it did, it was very quiet, and there was something in it that the Wesker half of the mind would think about for years.
+ADOLF: (soft) But you enjoyed it.
+[pause 1.5]
+N: Wesker did not answer that.
+N: He looked at the screen, at the grey figure waiting in the smoke. And he found — with the precise, clinical honesty that was the best and worst thing about him — that he could not say that the old voice was wrong.
+[pause 2.0]
+
+[music] m_scheme -10
+[amb] amb_office_hum
+[img] a CIA analyst's dark workstation with a satellite thermal image of a desert compound showing twelve small heat signatures, one huge signature, and a helicopter leaving, a lean silver-haired man leaning over the analyst's shoulder, cinematic
+[loc] Langley, Virginia — 19 November 2030, 9:15 a.m.
+N: At a quarter past nine that morning, in a windowless room at Langley, an analyst showed Martin Sloane a sequence of thermal images from a satellite that had passed over the Mojave Desert at two in the morning.
+N: Twelve small heat signatures, entering a compound. One very large heat signature, emerging from somewhere beneath it. The twelve small signatures, one by one, fading. A helicopter, leaving, alone.
+[img] extreme close-up of {SLOANE}'s face in the glow of a monitor, a slow thin smile spreading, cinematic
+N: Sloane watched the sequence four times. Then he straightened up, and put his hands in his pockets, and said, to nobody in particular, in a voice that the analyst would describe to her husband that evening as the happiest she had ever heard her boss sound:
+SLOANE: I want to meet it.
+[pause 1.5]
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Enemies overcome — foreign incursion: 300,000
+Biological asset — field validated: 150,000
+Total: 450,000
+[say] Assessment. Biological asset, field validated.
+[/system]
+N: In the desert, four levels down, the cradle closed again. The grey figure stepped back into it without being told, as if it had simply been waiting for permission to sleep.
+N: Evelyn Marsh sat on the floor of the cold room in front of the window until morning, with her palm flat against the glass.
+N: There were no bodies. There was nothing to find. By the time the sun rose over the Mojave, the fourth level of the desert complex was clean, and quiet, and smelled only faintly of cordite and cold.
+N: Twelve men had come to steal something. The world never learned what had happened to them. Their families, in Moscow and Rostov and Krasnodar, were told that they had died in an accident in Africa.
+N: It was, the narrator is sorry to say, only the beginning.
+[pause 3.0]
+[music] stop

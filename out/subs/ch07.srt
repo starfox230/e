@@ -1,0 +1,780 @@
+1
+00:00:07,799 --> 00:00:11,614
+In November, Tomás Reyes taught Albert
+Wesker the internet.
+
+2
+00:00:12,183 --> 00:00:18,249
+It began by accident. The Director had come into the
+break room at lunchtime for coffee,
+
+3
+00:00:18,269 --> 00:00:24,128
+and found Tomás scrolling, and asked him — in the
+tone of a man asking about a rash —
+
+4
+00:00:24,148 --> 00:00:25,719
+what he was looking at.
+
+5
+00:00:26,410 --> 00:00:31,396
+It's just — it's a guy who restores old knives. He
+finds them in rivers. Like, rusty.
+
+6
+00:00:31,416 --> 00:00:32,750
+And then he fixes them.
+
+7
+00:00:33,271 --> 00:00:35,448
+How many people are watching him fix them?
+
+8
+00:00:35,968 --> 00:00:37,334
+This one? Uh. Four million.
+
+9
+00:00:38,454 --> 00:00:41,910
+Four million people. Watching a
+stranger clean a knife.
+
+10
+00:00:42,432 --> 00:00:43,984
+I mean, it's really satisfying.
+
+11
+00:00:44,503 --> 00:00:46,066
+The Director sat down.
+
+12
+00:00:46,636 --> 00:00:52,708
+He did not do that. In two months, nobody had seen
+him sit in the break room. He sat down
+
+13
+00:00:52,728 --> 00:00:56,611
+across from Tomás, and took off his
+sunglasses, and said:
+
+14
+00:00:57,301 --> 00:00:58,368
+Show me everything.
+
+15
+00:00:59,889 --> 00:01:01,414
+So Tomás showed him.
+
+16
+00:01:01,984 --> 00:01:08,122
+Short videos, ninety seconds long, served by a machine
+that learned what you wanted before
+
+17
+00:01:08,142 --> 00:01:14,007
+you did. Feeds that never ended. Comment sections
+where strangers who would never meet
+
+18
+00:01:14,027 --> 00:01:19,960
+decided, in their thousands, who was a hero and who
+was a villain before lunch. Men who
+
+19
+00:01:19,980 --> 00:01:25,913
+had become famous for being angry. Women who had
+become famous for being calm. Children
+
+20
+00:01:25,933 --> 00:01:32,208
+who had become famous for nothing at all. Numbers
+everywhere — views and likes and followers
+
+21
+00:01:32,228 --> 00:01:38,024
+and shares — ticking upward like the odometer of a
+car driven by the whole human race
+
+22
+00:01:38,044 --> 00:01:38,572
+at once.
+
+23
+00:01:40,061 --> 00:01:40,959
+Oh.
+
+24
+00:01:41,478 --> 00:01:46,558
+It was a very small word. Wesker had never
+heard that voice make it before.
+
+25
+00:01:47,248 --> 00:01:53,677
+They have built it. They have built the machine. A
+rally that never ends. A crowd in every
+
+26
+00:01:53,697 --> 00:01:56,401
+pocket. And no one is in charge of it.
+
+27
+00:01:56,921 --> 00:02:01,232
+Someone's always in charge of it. They just
+don't stand on a balcony.
+
+28
+00:02:01,751 --> 00:02:08,702
+I spent a year of my life writing speeches for a
+radio set in every kitchen. This — this
+
+29
+00:02:08,722 --> 00:02:12,504
+is a radio set in every hand,
+that listens back.
+
+30
+00:02:14,025 --> 00:02:16,186
+You okay, Doc? You've gone kind of still.
+
+31
+00:02:16,706 --> 00:02:18,435
+How does it decide what to show them?
+
+32
+00:02:18,956 --> 00:02:23,926
+Honestly? Whatever makes them feel something. Angry
+works best. Then scared. Then, like,
+
+33
+00:02:23,946 --> 00:02:25,966
+awe. Anything with awe does numbers.
+
+34
+00:02:27,086 --> 00:02:29,512
+The Director put his sunglasses back on.
+
+35
+00:02:30,603 --> 00:02:32,033
+You know you do that thing, right?
+
+36
+00:02:32,552 --> 00:02:33,334
+What thing?
+
+37
+00:02:33,855 --> 00:02:38,212
+The — okay, don't be mad. On the internet it's
+called aura farming. When somebody does
+
+38
+00:02:38,232 --> 00:02:42,690
+something so effortlessly cool that everyone watching
+kind of loses their mind a little.
+
+39
+00:02:42,710 --> 00:02:47,015
+Like, the way you just sat down and took the
+glasses off and said show me everything.
+
+40
+00:02:47,035 --> 00:02:51,187
+That's aura. You're farming it. Constantly. It's
+actually kind of insane to watch.
+
+41
+00:02:51,707 --> 00:02:53,031
+And aura can be farmed.
+
+42
+00:02:53,551 --> 00:02:55,152
+I mean — it's a joke. Kind of.
+
+43
+00:02:55,673 --> 00:02:59,599
+It is called charisma. We had it
+before the telephone.
+
+44
+00:03:00,120 --> 00:03:03,528
+They've turned it into a number. How
+very efficient of them.
+
+45
+00:03:05,549 --> 00:03:09,902
+The Shop had a blueprint that week that he had
+been watching since October.
+
+46
+00:03:11,223 --> 00:03:14,186
+Blueprint. Rapid pathogen assay.
+
+47
+00:03:21,918 --> 00:03:27,756
+It was not a weapon. It was not a power. It was a
+small plastic cartridge and a reader
+
+48
+00:03:27,776 --> 00:03:33,887
+the size of a paperback, that could tell a nurse in a
+rural clinic what was making a child
+
+49
+00:03:33,907 --> 00:03:39,200
+sick in the time it took to make tea — and it
+did not exist anywhere on Earth.
+
+50
+00:03:39,890 --> 00:03:43,475
+A medical device. You are buying
+a thermometer.
+
+51
+00:03:43,996 --> 00:03:50,266
+I'm buying a face. Every empire needs one. Yours had a
+uniform. Mine will have a hospital.
+
+52
+00:03:51,417 --> 00:03:52,858
+Purchase confirmed.
+
+53
+00:03:57,206 --> 00:04:03,032
+The documentation arrived the way Pell had arrived —
+as if it had always been there. A
+
+54
+00:04:03,052 --> 00:04:08,878
+folder on the division's server, dated across
+eighteen months, containing the complete
+
+55
+00:04:08,898 --> 00:04:14,791
+design history of a device that nobody in the
+building had designed. Protocols. Reagent
+
+56
+00:04:14,811 --> 00:04:20,773
+lists. Failure analyses. Two rejected prototypes. Lab
+notebooks, scanned, in handwriting
+
+57
+00:04:20,793 --> 00:04:25,667
+that matched, with unnerving precision, the
+handwriting of Evelyn Marsh.
+
+58
+00:04:27,737 --> 00:04:29,500
+He gave it to her that evening.
+
+59
+00:04:30,069 --> 00:04:36,207
+She was at her bench, at seven, alone, running the
+same sequencing job she had been running
+
+60
+00:04:36,227 --> 00:04:42,025
+for three weeks. He put a binder down beside her
+keyboard, and when she opened it, and
+
+61
+00:04:42,045 --> 00:04:45,814
+saw her own handwriting on page one,
+she went very pale.
+
+62
+00:04:46,504 --> 00:04:48,276
+This is — I didn't write this.
+
+63
+00:04:48,797 --> 00:04:49,417
+No.
+
+64
+00:04:49,937 --> 00:04:55,801
+It's my hand. It's my notation. I use that little
+arrow for rate-limiting steps. Nobody
+
+65
+00:04:55,821 --> 00:04:58,237
+else does that. I didn't write this.
+
+66
+00:04:58,757 --> 00:05:00,913
+I know. It's still yours. If you want it.
+
+67
+00:05:02,432 --> 00:05:07,902
+She read for a while without speaking. She was a good
+enough scientist to understand what
+
+68
+00:05:07,922 --> 00:05:13,330
+she was reading, and to understand that it worked,
+and to understand that nothing in her
+
+69
+00:05:13,350 --> 00:05:17,463
+education could explain how it had come to
+be sitting on her bench.
+
+70
+00:05:18,033 --> 00:05:23,474
+She could have asked. A more careful person would
+have. Nadia Okafor would have asked
+
+71
+00:05:23,494 --> 00:05:26,109
+forty questions and then called a lawyer.
+
+72
+00:05:26,677 --> 00:05:32,304
+Evelyn Marsh closed the binder, and put both hands
+flat on the cover, and looked up at
+
+73
+00:05:32,324 --> 00:05:32,567
+him.
+
+74
+00:05:33,257 --> 00:05:34,235
+You said not yet.
+
+75
+00:05:34,755 --> 00:05:35,461
+I did.
+
+76
+00:05:35,980 --> 00:05:36,728
+Is it now?
+
+77
+00:05:38,050 --> 00:05:38,819
+It's now.
+
+78
+00:05:40,538 --> 00:05:45,770
+It is worth recording what she felt, because it
+mattered later. It was not gratitude.
+
+79
+00:05:45,790 --> 00:05:51,208
+Gratitude is something you feel toward an equal. It
+was not quite love, though it looked
+
+80
+00:05:51,228 --> 00:05:56,583
+like it from the outside. It was the thing people
+feel in cathedrals — the dizzy, total
+
+81
+00:05:56,603 --> 00:06:01,959
+surrender of a person who has spent her whole life
+believing she was alone in the dark,
+
+82
+00:06:01,979 --> 00:06:07,334
+and has suddenly been shown that someone was
+watching, and that the someone had a plan.
+
+83
+00:06:07,904 --> 00:06:10,892
+It was, in other words, the
+beginning of a faith.
+
+84
+00:06:12,963 --> 00:06:14,810
+The speech happened on a Friday.
+
+85
+00:06:15,379 --> 00:06:21,022
+It was not planned as a speech. He had called
+everyone into the break room at a quarter
+
+86
+00:06:21,042 --> 00:06:26,554
+to five to tell them about the assay — all of them,
+the six who had been there before
+
+87
+00:06:26,574 --> 00:06:32,086
+him and the three who had arrived since. Dana,
+Lessing, Evelyn, Tomás, Nadia, Walter,
+
+88
+00:06:32,106 --> 00:06:37,748
+who had come in early for it. Pell, standing
+perfectly still by the fridge. Gus, by the
+
+89
+00:06:37,768 --> 00:06:39,701
+door. Hale, by the other door.
+
+90
+00:06:40,271 --> 00:06:46,235
+He had meant to talk for two minutes. He talked for
+five. He did not use notes. Afterwards,
+
+91
+00:06:46,255 --> 00:06:52,089
+none of them could remember exactly what he had said,
+only how it had felt, and when they
+
+92
+00:06:52,109 --> 00:06:57,745
+tried to explain it to their families, they sounded,
+even to themselves, a little mad.
+
+93
+00:06:58,435 --> 00:07:03,553
+Two months ago, you were told something about
+yourselves. You were told it by a letter
+
+94
+00:07:03,573 --> 00:07:08,631
+from London, and by a frozen bank account, and by
+every empty chair in this building.
+
+95
+00:07:08,651 --> 00:07:11,439
+You were told that you were what
+was left over.
+
+96
+00:07:12,240 --> 00:07:18,474
+The leftovers of a dead company. In a building
+nobody visits. In a town nobody writes
+
+97
+00:07:18,494 --> 00:07:21,565
+songs about. Doing work that nobody reads.
+
+98
+00:07:22,086 --> 00:07:23,264
+He let that sit.
+
+99
+00:07:23,954 --> 00:07:29,791
+I'd like you to remember that feeling. Not because it
+was true. Because every great thing
+
+100
+00:07:29,811 --> 00:07:35,648
+that has ever happened in this world began in a room
+exactly like this one. A room nobody
+
+101
+00:07:35,668 --> 00:07:39,004
+was watching. With a few people
+nobody had counted.
+
+102
+00:07:39,904 --> 00:07:45,150
+The men in glass buildings across that river don't
+believe that. That's why they're going
+
+103
+00:07:45,170 --> 00:07:45,978
+to lose to us.
+
+104
+00:07:47,298 --> 00:07:53,251
+His voice had not risen. That was the uncanny thing.
+It had not risen at all. But something
+
+105
+00:07:53,271 --> 00:07:59,093
+in the rhythm of it had changed — a cadence, a pulse,
+a way of stepping from one sentence
+
+106
+00:07:59,113 --> 00:08:04,738
+to the next that made each one feel like a stair.
+And behind his eyes, in the quiet of
+
+107
+00:08:04,758 --> 00:08:10,579
+the skull, the other half of him had leaned forward,
+the way an old musician leans toward
+
+108
+00:08:10,599 --> 00:08:13,795
+an instrument he has not touched
+in eighty years.
+
+109
+00:08:14,485 --> 00:08:19,828
+In twelve months, there will be a device in hospitals
+that tells a doctor what is killing
+
+110
+00:08:19,848 --> 00:08:25,251
+a child in twelve minutes. It will have our name on
+it. Not Verdant's. Not London's. Ours.
+
+111
+00:08:25,271 --> 00:08:30,794
+Umbrella. And every nurse who uses it will know that it
+came from here — from this building,
+
+112
+00:08:30,814 --> 00:08:32,300
+from this room, from you.
+
+113
+00:08:33,100 --> 00:08:38,387
+That is the first thing. It is not the last thing. I
+will not tell you tonight what the
+
+114
+00:08:38,407 --> 00:08:43,754
+last thing is, because you would not believe me. But
+I will tell you this. I did not buy
+
+115
+00:08:43,774 --> 00:08:45,584
+this company to keep it alive.
+
+116
+00:08:46,783 --> 00:08:48,576
+I bought it to make it inevitable.
+
+117
+00:08:50,597 --> 00:08:56,552
+Tomás was the first on his feet. Then Dana. Then,
+to his own surprise, Walter Pruitt,
+
+118
+00:08:56,572 --> 00:09:02,738
+who had sworn on the day he took off the uniform
+never to stand up for an officer again.
+
+119
+00:09:03,307 --> 00:09:09,136
+Evelyn did not clap. She was crying, without seeming
+to notice, her hands pressed together
+
+120
+00:09:09,156 --> 00:09:10,565
+in front of her mouth.
+
+121
+00:09:11,135 --> 00:09:17,670
+Pell, Gus, and Hale clapped in perfect unison, exactly
+the same number of times, and stopped
+
+122
+00:09:17,690 --> 00:09:22,443
+at exactly the same moment. Nobody
+noticed. They were all too busy.
+
+123
+00:09:24,014 --> 00:09:26,266
+Nadia Okafor did not clap.
+
+124
+00:09:26,836 --> 00:09:32,447
+She stood at the back with her arms folded, and she
+watched the room. Not the man at the
+
+125
+00:09:32,467 --> 00:09:38,014
+front — the room. The faces. The way the applause
+had come not from agreement, but from
+
+126
+00:09:38,034 --> 00:09:43,453
+something underneath agreement. She had seen that
+look before, once, a long time ago,
+
+127
+00:09:43,473 --> 00:09:49,020
+at a church revival her grandmother had taken her to
+in Lagos, when a preacher had made
+
+128
+00:09:49,040 --> 00:09:52,668
+a whole tent full of sensible people
+fall to their knees.
+
+129
+00:09:53,238 --> 00:09:58,868
+It had frightened her then. It frightened her more
+now, because this time there was no
+
+130
+00:09:58,888 --> 00:10:04,585
+God in the room. Only a man in a black shirt,
+standing very still, with his hand on the
+
+131
+00:10:04,605 --> 00:10:06,162
+back of a plastic chair.
+
+132
+00:10:08,981 --> 00:10:14,668
+Assessment. Personnel morale, fervent.
+Four thousand Points.
+
+133
+00:10:16,889 --> 00:10:18,970
+Level up. Level five.
+
+134
+00:10:21,193 --> 00:10:27,029
+Four thousand. For five minutes of talking in a break
+room. More than the System had paid
+
+135
+00:10:27,049 --> 00:10:32,753
+him for the building, or the landlord, or the
+traitor. More than everything else he had
+
+136
+00:10:32,773 --> 00:10:34,859
+done in two months put together.
+
+137
+00:10:35,429 --> 00:10:41,212
+The Wesker half of the mind noted the number, and
+filed it, the way an investor files
+
+138
+00:10:41,232 --> 00:10:47,015
+a return. The Adolf half did not note it at all. It
+was elsewhere. It was remembering
+
+139
+00:10:47,035 --> 00:10:52,886
+beer halls, and stadiums, and the roar of a crowd
+coming back at it like surf — and it
+
+140
+00:10:52,906 --> 00:10:56,914
+was, for the first time in this new
+life, completely happy.
+
+141
+00:10:58,403 --> 00:10:59,770
+Two of six.
+
+142
+00:11:00,291 --> 00:11:01,146
+Which two?
+
+143
+00:11:01,664 --> 00:11:03,351
+You know which two.
+
+144
+00:11:05,501 --> 00:11:06,977
+Command presence.
+
+145
+00:11:12,371 --> 00:11:14,515
+He bought it before he left the building.
+
+146
+00:11:15,836 --> 00:11:17,278
+Purchase confirmed.
+
+147
+00:11:21,461 --> 00:11:27,087
+At seven twenty the next morning, Tomás Reyes called
+the Director's cell phone for the
+
+148
+00:11:27,107 --> 00:11:28,597
+first time in his life.
+
+149
+00:11:29,287 --> 00:11:33,633
+Okay, so, please don't kill me. I kind of filmed a bit
+of it. Yesterday. Just, like, twenty
+
+150
+00:11:33,653 --> 00:11:37,855
+seconds. The bit about the room nobody was watching.
+And I put it on my page, which has,
+
+151
+00:11:37,875 --> 00:11:42,029
+like, four hundred people, and I went to bed, and —
+Doc, it's got forty thousand views.
+
+152
+00:11:42,049 --> 00:11:45,100
+It's got forty thousand views and people
+are asking who you are.
+
+153
+00:11:46,619 --> 00:11:48,917
+The Director did not answer immediately.
+
+154
+00:11:49,606 --> 00:11:53,597
+Forty thousand. In one night.
+From a break room.
+
+155
+00:11:54,116 --> 00:11:55,461
+Take it down, Tomás.
+
+156
+00:11:55,982 --> 00:11:59,397
+Yeah. Yeah, totally. I'm sorry, I'm —
+taking it down now. I'm sorry.
+
+157
+00:11:59,918 --> 00:12:02,884
+Don't be sorry. It was good work.
+It was just early.
+
+158
+00:12:04,004 --> 00:12:04,586
+Early?
+
+159
+00:12:05,105 --> 00:12:06,643
+Keep the file. We'll need it.
+
+160
+00:12:08,363 --> 00:12:14,103
+Tomás took it down. By then it had been downloaded
+two hundred times, and three of those
+
+161
+00:12:14,123 --> 00:12:19,930
+copies would still be circulating on the internet
+eleven years later, in a very different
+
+162
+00:12:19,950 --> 00:12:25,495
+world, under titles like The First Speech, and
+Where It Started, and Watch His Hands.
+
+163
+00:12:27,065 --> 00:12:32,782
+In lab two, at two in the morning, Evelyn Marsh was
+building the first prototype of the
+
+164
+00:12:32,802 --> 00:12:38,585
+assay with her own hands, from a set of instructions
+in her own handwriting that she had
+
+165
+00:12:38,605 --> 00:12:39,509
+never written.
+
+166
+00:12:40,080 --> 00:12:45,928
+She was humming as she worked. Four notes. Falling,
+and falling, and falling, and landing
+
+167
+00:12:45,948 --> 00:12:47,312
+somewhere unresolved.
+
+168
+00:12:47,883 --> 00:12:49,893
+She did not know she was doing it.

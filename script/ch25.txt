@@ -1,0 +1,142 @@
+# 25 | The Asset
+
+[music] m_scheme -8
+[amb] amb_night_city
+[img] an exclusive members-only dining room in Georgetown at night, dark panelling, a private table by a fire, {SLOANE} and {WESKER} seated with glasses of wine, cinematic
+[loc] Georgetown, Washington D.C. — June 2031
+N: Martin Sloane had waited nine months to meet the thing in the satellite image. He was a patient man. He had once waited four years in Tbilisi for a single phone call.
+N: They met in June, in the private room of a club in Georgetown that did not have a name on its door, at a table by a fire that was lit even though it was summer, because the club had been lighting it every evening since nineteen fifty-three and saw no reason to stop.
+SLOANE: You know what I saw.
+WESKER: A satellite passed over Nevada in November. I assume someone at Langley was awake.
+SLOANE: Someone at Langley was very awake. Twelve heat signatures in. One out. And a helicopter that's now, I'm told, a very popular new resident of Sinaloa.
+[pause 1.0]
+SLOANE: I'm not going to ask you what it was. I'm not going to ask you what else you have. I'm going to tell you what I want, and then I'm going to tell you what I'll give you for it, and then you're going to decide.
+WESKER: That's refreshing.
+SLOANE: I'm told you like people who don't waste your time.
+[pause 1.5]
+
+[music] m_tension -10
+[img] {SLOANE} leaning forward across a candlelit table, speaking quietly and precisely, one finger tapping the white tablecloth, cinematic
+SLOANE: What I want is simple. There are things the United States government would like to be able to do, in the world, that it cannot do with its own hands. Biological things. Defensive things, mostly. Detection. Countermeasures. Vaccines that exist before the disease does. And, occasionally, other things. The kind of work that, if a government did it, would require a signature from someone elected. The kind of work that, if a private company did it, under contract, would require only a signature from me.
+WESKER: Black contracts.
+SLOANE: I prefer the term classified procurement. It sounds so much less like a film.
+[pause 1.0]
+WESKER: And in exchange?
+SLOANE: In exchange, the investigations stop. Not the Bureau — the Bureau's already stopped, you've seen to that. I mean the others. The ones you haven't met yet. The Department of Defense has a unit that watches for technological surprise. So does the Department of Energy. So does a very small office at the National Security Council whose director reads the same German patent reports that Julian Ashcombe does. They're all going to find you eventually. I can make sure they find you as a contractor. A classified one. And classified contractors are not investigated. They're protected.
+[pause 1.5]
+N: The Director was silent for a while. He looked at the fire. The Cold-Read had already told him everything about Martin Sloane there was to know: that he was telling the truth, that he was not telling all of it, and that he intended, in the long run, to own Umbrella the way he owned every asset he had ever run — as a tool, to be used and then put away.
+N: That was fine. The Director intended exactly the same thing in reverse.
+[pause 1.0]
+ADOLF: He thinks he is buying you.
+WESKER: He is buying me. He just doesn't know what he's paying with.
+ADOLF: And what is he paying with?
+WESKER: Access. To every secret his government has about biology. Every programme. Every laboratory. Every weakness. He's going to open the door to the house and invite me to fix the plumbing.
+[pause 1.5]
+WESKER: I'll need the first contract to be real, Mister Sloane. Not a test. Something that matters.
+SLOANE: It will be.
+WESKER: And I'll need you to understand that I don't do anything I can't finish.
+SLOANE: (soft) I watched the satellite, Doctor Wesker. I understand that very well.
+[pause 1.5]
+[img] two men shaking hands across a table by a fireplace in a dim private club, firelight on their faces, one in sunglasses, one silver-haired, cinematic
+N: They shook hands over the fire. Sloane's grip was dry and firm and did not hold on a moment too long, and the Director, for once, did not hold on a moment too long either.
+N: It was, a historian would write decades later — in a world that had stopped allowing historians to write very much — the single most consequential handshake of the twenty-first century. At the time, it was two men in a private club, agreeing on a price.
+[pause 2.0]
+
+[music] m_system -4
+[amb] amb_night_city
+[img] {WESKER} walking alone at night along an empty Georgetown street under old lamps, a cascade of golden holographic panels erupting in the air around him, cinematic, awe
+[sfx] sfx_system_open
+[system] ASSESSMENT
+Investigation turned — asset acquired: United States (partial)
+Superior action — protection secured: 400,000
+Territory of influence — federal: 300,000
+Total: 700,000
+[say] Assessment. Investigation turned. Asset acquired.
+[/system]
+[sfx] sfx_level_up
+[sfx] sfx_level_up +0.6
+[sfx] sfx_gacha_gold +1.2
+[system] LEVEL UP
+Level: 40
+Stat Points available: 70
+Points: 1,832,300
+[say] Level forty.
+[/system]
+N: Forty.
+N: He stopped in the middle of the empty street under the old gas lamps of Georgetown, with the panels hanging in the air around him like stained glass, and felt it go through him.
+N: It was not like doors this time. It was not like a floor dropping away. It was like a great pressure, very deep, rising — the way a submarine must feel when it blows its tanks and begins, all at once, to rise toward a surface it cannot see.
+[img] {WESKER} standing in a dark street with his head tilted back and eyes closed, a faint crimson glow seeping from beneath his sunglasses, the air around him distorting like heat, cinematic
+[system] STATUS
+Level: 40
+Strength: 55
+Speed: 64
+Intelligence: 60
+Defence: 48
+Health: 52
+Charisma: 55
+Special: 36
+[say] Status.
+[/system]
+N: Charisma fifty-five.
+N: There is no human scale for that number. Twenty is the limit of what the human voice has ever done. Thirty was more than any prophet or tyrant in recorded history. At fifty-five, the Director would find over the following months that he could walk into a room of strangers and, without saying a word, change what they wanted — not all of them, not completely, but enough. Enough to tilt a vote. Enough to end an argument. Enough to make a man who had come to accuse him leave apologising.
+N: The Adolf half of the mind looked at that number, standing in the dark street, and did not say anything at all. It did not need to. It had spent its whole first life wanting exactly this, and had had to build it from scratch, from beer halls and banners and a decade of screaming. Now it had simply been handed it, by a machine, on a street in Georgetown.
+[pause 1.5]
+[sfx] sfx_gacha_gold
+[system] NEW ABILITY AVAILABLE
+Viral Dominion I
+Limited command of biological assets derived from Progenitor lineage.
+Cost: 500,000
+[say] New ability. Viral dominion.
+[/system]
+[sfx] sfx_mouse_click
+[system] PURCHASE CONFIRMED
+Viral Dominion I
+Points: 1,332,300
+[say] Purchase confirmed.
+[/system]
+N: He bought it on the street. He felt it arrive — a new sense, like a sound at the edge of hearing, or a smell at the edge of memory. And two hundred miles north, in a cold room at the end of a white corridor beneath the Christina River, a grey giant in a cryogenic cradle turned its head, in its sleep, toward the south.
+[pause 2.0]
+
+[music] m_tension -8
+[amb] amb_office_hum
+[img] a secure government facility's vault door opening onto shelves of classified binders and sealed sample containers, a man in a black coat walking in beside a silver-haired official, cold lighting, cinematic
+[loc] Fort Detrick, Maryland — September 2031
+N: The first contract was real. Sloane had kept his word.
+N: In September, the Director was given a security clearance that most cabinet secretaries do not hold, and was driven, in a car with no markings, through the gates of a military installation in Frederick, Maryland, where the United States government had been studying the diseases it most feared for eighty years.
+N: He was shown everything. Every programme. Every laboratory. Every sample in every freezer. Every study the government had ever run on what might happen to America if the worst thing in the world got loose. Every weakness. Every gap.
+[img] {WESKER} reading a classified binder in a sterile government room under cold light, a stamp reading TOP SECRET on the pages, his face unreadable, cinematic
+N: They wanted him to fix the gaps. That was the contract. An Umbrella rapid-response vaccine platform, for the Department of Defense — something that could take a new pathogen and produce a countermeasure in eleven days, instead of eleven months.
+N: He promised them nine.
+N: And as he walked back out through the gates that evening, in the unmarked car, with the Memory Palace quietly filing every page he had read into a new corridor beneath the basement of an imaginary brick building, the Adolf half of the mind said, very softly:
+ADOLF: They have shown you where they are weak.
+WESKER: Yes.
+ADOLF: Every lock in the house. And they have given you the key to every one.
+WESKER: They've asked me to change the locks. It's a different thing.
+ADOLF: (slow) Is it?
+[pause 2.0]
+
+[music] m_rain_piano -8
+[amb] amb_night_city
+[img] {HANNAH} in a small apartment at night reading a short news item on her laptop about a classified defense contract awarded to Umbrella, her hand over her mouth, a cat beside her, cinematic
+N: The contract was classified. But the fact of it was not — it appeared, as all Defense Department contracts of a certain size must, as a single line in a public procurement database. A contract number. An agency. An amount. And a name.
+N: Hannah Price found it in October, because she had set an alert for that name five years before and never turned it off. She read it, and sat very still, and then picked up her phone and called Owen Carrick, who now worked nights as a security consultant for a hospital in Chester and answered on the first ring.
+HANNAH: (phone) He's inside, Owen. He's not being investigated anymore. He's being paid.
+CARRICK: (phone) By who?
+HANNAH: (phone) By us. By the government. By the people who were supposed to stop him.
+[pause 1.5]
+N: Carrick did not answer for a long time. When he did, his voice was very calm — the particular, flat calm of a man who has already lost everything that could be taken from him.
+CARRICK: (phone) Then we're going to have to find somebody else to stop him.
+HANNAH: (phone) Who?
+CARRICK: (phone) I don't know yet. Somebody who isn't us.
+[pause 2.0]
+
+[music] m_dawn -6
+[amb] stop
+[img] the red and white umbrella emblem atop a glass tower at dawn above a wide river, golden light breaking through clouds, majestic and ominous, cinematic
+N: So ended the war with the agencies.
+N: It had lasted two years. It had cost the lives of Howard Lessing and sixteen men with rifles, the career of an FBI agent, the career of a CDC officer, a great deal of a journalist's peace of mind, and some of a CFO's. It had cost the Director his deniability, once, in a parking lot, on a dashcam. And it had ended — not with a trial, or a raid, or a headline — but with a handshake by a fire in Georgetown, and a clearance, and a key to every lock in the house.
+N: The agencies had been beaten the way a chess player wins. Patiently. Precisely. Each piece taken in its turn.
+[pause 1.0]
+N: Later, they would be beaten the way a disaster wins.
+[pause 3.0]
+[music] stop

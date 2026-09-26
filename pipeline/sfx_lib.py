@@ -898,6 +898,65 @@ def sfx_bell_stock():
     return normalize(reverb(buf, 0.7, 0.35, 0.8), -3)
 
 
+@sfx
+def sfx_gunshot_suppressed():
+    r = rng(60)
+    thwack = noise_burst(0.06, 0.012, lo=600, hi=4500, seed=60)
+    click = noise_burst(0.008, 0.0015, lo=3000, seed=61) * 0.8
+    mech = noise_burst(0.03, 0.006, lo=1500, hi=6000, seed=62) * 0.5
+    x = np.zeros(int(0.4 * SR), np.float32)
+    x[:len(click)] += click
+    x[:len(thwack)] += thwack
+    x[int(0.05 * SR):int(0.05 * SR) + len(mech)] += mech
+    return normalize(reverb(x, 0.35, 0.2, 0.9), -2)
+
+
+@sfx
+def sfx_suppressed_burst():
+    buf = np.zeros((2, int(1.6 * SR)), np.float32)
+    shot = sfx_gunshot_suppressed()
+    r = rng(63)
+    for k in range(6):
+        place(buf, shot, k * r.uniform(0.09, 0.12), r.uniform(0.7, 1.0))
+    return normalize(buf, -1.5)
+
+
+@sfx
+def sfx_alarm():
+    sec = 6.0
+    tt = t(sec)
+    gate = ((tt % 0.5) < 0.3).astype(np.float32)
+    x = (np.sign(np.sin(2 * np.pi * 880 * tt)) * 0.3 + np.sin(2 * np.pi * 880 * tt) * 0.4) * gate
+    x = bp(x, 500, 4000) * adsr(len(tt), 0.05, 0.1, 0.9, 1.0)
+    return normalize(reverb(x, 0.7, 0.35, 0.7), -4)
+
+
+@sfx
+def sfx_radio_chatter():
+    sec = 2.5
+    x = bp(white(sec, rng(64)), 700, 3500) * 0.15
+    beep = np.sin(2 * np.pi * 1400 * t(0.08)) * 0.5
+    x[:len(beep)] += beep
+    x[-len(beep):] += beep
+    return normalize(x * adsr(int(sec * SR), 0.01, 0.1, 0.8, 0.1), -8)
+
+
+@sfx
+def sfx_police_sirens():
+    a = sfx_siren()
+    b = np.roll(sfx_siren(), int(1.3 * SR), axis=-1) * 0.7
+    c = mixp(a, b)
+    return normalize(reverb(c, 0.9, 0.4, 0.7), -3)
+
+
+@sfx
+def sfx_car_crash():
+    x = boom(3.0, seed=65, fc=2500, sub=60)
+    g = sfx_glass_break()
+    m = sfx_metal_clang()
+    return normalize(mixp(x, g * 0.6, m * 0.5))
+
+
 def build(names=None, force=False):
     os.makedirs(OUT, exist_ok=True)
     names = names or list(REG)

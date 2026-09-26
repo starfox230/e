@@ -1,0 +1,140 @@
+# 18 | Chain of Custody
+
+[music] m_tension -10
+[amb] amb_night_city
+[img] an old pay phone on a concrete pillar at a highway rest stop at night, trucks idling in the background, an older man in a grey coat holding the receiver, sodium light, cinematic
+[loc] Maryland House rest stop, I-95 — 23 September 2029
+LESSING: (phone) You were in the building. On the eleventh. I saw your car.
+CARRICK: (phone) Who is this?
+LESSING: (phone) You watched the man by the lifts. The big one. For about four minutes. I was on the mezzanine. I saw you counting.
+[pause 1.2]
+N: Owen Carrick sat up in his chair.
+LESSING: (phone) He doesn't blink, does he? None of them do. The new ones. I've been counting for three years.
+CARRICK: (phone) I'd like to meet you.
+LESSING: (phone) I know you would. That's why I called.
+[pause 1.5]
+
+[music] m_scheme -10
+[img] a roadside diner booth off a highway at dawn, an FBI agent in a dark jacket across from a gaunt older man clutching a coffee mug with both hands, fluorescent light, cinematic
+[loc] A diner outside Havre de Grace, Maryland — 6:10 a.m.
+N: They met at dawn, in a diner forty miles from Wilmington, because Howard Lessing did not trust any place closer.
+N: He had lost weight since Carrick had glimpsed him on the mezzanine. He held his coffee with both hands, the way he had held it at a staff meeting three years before, and he talked for two hours without eating, and Carrick — who had interviewed murderers, and the parents of murdered children, and a man who had tried to buy ricin in Scranton — listened to him with the growing, sick sensation of a man who realises halfway through a story that he is going to believe it.
+[img] close-up of {LESSING}'s haunted face in a diner booth, speaking intensely, one trembling finger tapping the table, cinematic
+LESSING: It was a blood sample. His. He gave it to a technician with a label that said Control Seven and told him it was for calibration. I saw the printout. Cells dividing at forty times the normal rate and not becoming cancer. A viral genome that doesn't match anything in any database on Earth. I copied it. And he knew. He knew the same night. He came into the lab. The door didn't open, Agent Carrick. I was watching the door. He was just — there.
+CARRICK: And then?
+LESSING: And then he took off his glasses.
+[pause 1.5]
+N: Lessing stopped. His hands had begun, very slightly, to shake, and he put the cup down and flattened them on the table.
+LESSING: (soft) His eyes are red. Not bloodshot. Red. Like a coal. And the pupils go thin. Up and down. Like a snake's.
+[pause 1.2]
+N: Carrick wrote it down. He wrote it down exactly as it was said, because that was procedure, and because he was already thinking about how it would read to a supervisor, and to a prosecutor, and to an interview board in November. Eyes red, pupils vertical. It would read, he knew, like the statement of a man having a breakdown.
+N: And he wrote it down anyway, and underlined it, because he had spent three minutes and forty seconds watching a man not blink.
+[pause 1.0]
+CARRICK: What do you want, Doctor Lessing?
+LESSING: I want someone to go down there. There's something under that building. The power, the liquid nitrogen, the elevator — Evelyn Marsh goes down in that elevator at night and doesn't come up for nine hours. There is something under the basement. And there's something that breathes.
+CARRICK: What do you want for yourself?
+[pause 1.5]
+N: Lessing looked at him for a long time. When he answered, his voice had changed. It had lost its tremor. It had become, for the first time, the voice of the man who had been promised a prize at a conference in nineteen ninety-four.
+LESSING: I want to be the one who was right.
+[pause 1.5]
+
+[music] m_corporate -10
+[amb] amb_office_hum
+[img] an FBI office at night, a form on a monitor titled CONFIDENTIAL HUMAN SOURCE, a codename field reading CALIBRATOR, an agent typing, cinematic
+N: He opened Howard Lessing as a confidential human source on the twenty-sixth of September. The paperwork took nine days to clear. The codename, which Carrick chose because it amused him for about thirty seconds and then never again, was Calibrator.
+[img] {CARRICK} standing in a supervisor's glass office facing a stern middle-aged woman behind a desk, blinds half drawn, tense conversation, cinematic
+N: His supervisor, an assistant special agent in charge named Janet Kowal, signed the authorisation on the ninth day. Then she closed her office door and asked him to sit down.
+KOWAL: I've had two calls this week about Umbrella. One from the U-S Attorney, who wants to know why we're still looking at a company that answered a subpoena with forty thousand pages. One from a staffer on the Senate Health Committee, who wanted to know — very politely — whether the Bureau was aware that Aeterna is saving the lives of American seniors, and whether we had considered the optics.
+CARRICK: I've considered them.
+KOWAL: Owen. You have a board in November. You're the strongest candidate from this office in five years. Don't hang your career on a whistleblower who says the CEO has snake eyes.
+[pause 1.0]
+CARRICK: He didn't blink, Janet.
+KOWAL: What?
+CARRICK: Nothing. I'll be careful.
+[pause 1.5]
+
+[music] m_scheme -8
+[amb] amb_office_hum
+[img] a luxurious law firm conference room with a dozen lawyers in dark suits around a table stacked with binders, {CATHERINE} at the head, cold efficiency, cinematic
+N: The law came next, in its own careful time, and the law was Umbrella's.
+N: The company's outside counsel filed a motion to quash the grand jury's second subpoena on the grounds that it was overbroad, and won. They filed a request for a protective order over the Aeterna trial data on the grounds that it was a trade secret worth billions, and won that too. They produced, when the court ordered them to produce anything, so much of it, so fast, so perfectly indexed, that the United States Attorney's office in Wilmington — which had four lawyers assigned to the whole of its white-collar docket — began to refer to the Umbrella boxes simply as the wall.
+[img] a narrow FBI office room literally walled in by towering stacks of document boxes with red and white umbrella labels, a single agent at a desk in the middle, cinematic
+N: Carrick had the wall in his office. By November it reached the ceiling on two sides.
+N: He did not miss the interview board. He went, in his best suit, to Washington, and he answered every question well, and when they asked him about his current caseload he mentioned hazmat drills, and a man in Scranton, and did not mention Umbrella at all.
+N: He did not get the job. It went to an agent from Chicago. He would never know — because nobody ever told him, and because it did not happen in any way that could be written down — that one of the three people on the board had received, the week before, an unsolicited and very generous offer to join a biosecurity advisory council funded by the Umbrella Foundation, and had been thinking, during Owen Carrick's interview, about the stipend.
+[pause 1.5]
+
+[music] m_horror -12
+[amb] amb_office_hum
+[img] a Monday staff meeting in a glass boardroom, {LESSING} sitting upright with a new expression of quiet purpose, {WESKER} at the head of the table glancing at him once, cinematic
+[loc] Monday, 1 October
+N: The Director knew the day it happened.
+N: He had known Howard Lessing's face for three years now. He knew its guilt, and its fear, and the long slow decay of that fear, like the half-life of an isotope, and the spite that had begun to grow back in the space it left. He had watched it every Monday across a table, and filed it, and waited.
+N: On Monday the first of October, Howard Lessing came into the leadership meeting with a different face.
+N: Not braver. Lessing was not a brave man. It was something the Cold-Read took a moment to name, because it was rare, and because he had not expected to see it in Lessing at all.
+N: It was purpose.
+[pause 1.2]
+ADOLF: He has gone to them.
+WESKER: Yes.
+ADOLF: He is an informant. For the police. In your house. At your table.
+WESKER: For the Federal Bureau of Investigation. Try to keep up with the century.
+ADOLF: (cold) Then end it. Tonight. You have a creature in the ground that no one knows exists. You have six men who do not show up on a camera. You have a thousand ways.
+[pause 1.0]
+WESKER: No.
+ADOLF: I told you. Three years ago, in the car. I told you that you had made a man who hated you. I told you hate shows up to everything eventually.
+WESKER: And it's shown up. Good. Let him wear the wire.
+[pause 1.5]
+[img] {WESKER} alone in his office at night looking at a live feed on a monitor of a man at a desk in another room, a faint knowing smile, cinematic
+N: It was the purest distillation of the Wesker half of the mind that the Adolf half had yet seen, and it disturbed the old voice more than anything had since the bunker.
+N: A traitor, discovered, is a problem. A traitor, discovered, who does not know he has been discovered, is a radio station. He broadcasts to his handlers whatever he believes to be true. And if you control what he believes, you control what they hear.
+WESKER: Every Monday, Howard will hear something. A little piece of the company. A budget line. A shipment. A rumour about a new facility in Nevada. And every Monday night, he will drive to a pay phone and tell Owen Carrick. And Owen Carrick will write it down, and chase it, and find — each time — exactly what I've put there for him to find.
+ADOLF: And when he finds nothing?
+WESKER: Then he'll start to doubt his source. And then his source will start to doubt himself. And then, one day, Howard Lessing will make a mistake that I haven't arranged. And that one — that one I'll be ready for.
+[pause 1.5]
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Counter-intelligence — hostile source identified: 18,000
+Superior action — channel acquired: 22,000
+Total: 40,000
+[say] Assessment. Hostile source identified. Channel acquired.
+[/system]
+N: The System agreed with him. It usually did, when he was being clever.
+N: It would not agree with him about Howard Lessing for very much longer.
+[pause 1.5]
+
+[music] m_tension -8
+[amb] amb_night_city
+[img] {LESSING} standing at a pay phone in the rain at night, collar up, talking quietly, glancing over his shoulder at an empty parking lot, cinematic
+[loc] October – December 2029
+N: For three months, it worked exactly as he had said it would.
+N: On Mondays, Howard Lessing overheard things. A remark from Catherine about a new data centre in Nevada, which was real, and which held nothing but servers. A shipment of liquid nitrogen that turned out, when Carrick traced it, to be for the Basel vault. A late-night conversation between two of the research cohort about a primate study, which led Carrick to a licensed facility in Maryland, where he found forty perfectly healthy rhesus macaques, and an inspector who was very annoyed to be asked about them.
+[img] {CARRICK} at a desk surrounded by document boxes, crossing another line off a long list on a legal pad, rubbing his eyes, 2 a.m., cinematic
+N: Every lead was real. Every lead went nowhere. And every Monday night, on a pay phone somewhere different, Howard Lessing sounded a little less certain, and Owen Carrick sounded a little more tired.
+N: Lessing tried, once, in November, to photograph the freight elevator panel at night. He waited until the building was empty. He went down to the basement with his phone. He took eleven pictures of the panel from every angle.
+[img] a phone photo of an old freight elevator panel showing only two buttons and a blank steel plate below them, flash glare, cinematic macro
+N: There were two buttons in every picture. Loading dock. Basement. And a smooth steel plate beneath them, with four screws.
+N: He had seen Evelyn Marsh go down past that plate with his own eyes. He knew it was there. And he stood in the empty freight elevator at midnight, staring at the pictures on his phone, and for the first time in three years, Howard Lessing began to wonder whether he was going mad.
+[pause 1.5]
+
+[music] m_horror -8
+[amb] amb_night_city
+[img] {LESSING} alone at his kitchen table at night with a glass of whisky, his phone ringing on the table, an unknown number on the screen, cinematic
+[loc] 18 December 2029 — 10:42 p.m.
+N: The call that changed everything came a week before Christmas, to his own phone, at his own kitchen table.
+N: It was not from Carrick. It was not from Umbrella. It was from a number in New Jersey, and when Lessing answered it, a smooth, familiar voice that he had not heard in three years said:
+FERRIS: (phone) Howard. It's Simon Ferris. You probably don't remember me.
+LESSING: (phone) I remember you.
+FERRIS: (phone) I'm at Halvorsen Pike now. Head of external innovation. I was going through some old correspondence the other day, and I found an email you wrote me in the autumn of twenty twenty-six. You never sent it, I know — but it was in the drafts on a server we took over when Verdant went down. Something about data of extraordinary commercial interest.
+[pause 1.5]
+[img] extreme close-up of {LESSING}'s face at a kitchen table at night, phone to his ear, eyes widening slowly with a terrible idea, cinematic
+N: Lessing did not say anything.
+N: He was thinking — with the slow, dreadful clarity of a man who has run out of other options — about the Federal Bureau of Investigation, which had spent three months chasing shipments of liquid nitrogen. About a freight elevator with a button that did not photograph. About a man in a lab in the middle of the night whose eyes had turned red. About a machine that breathed.
+N: And about the fact that Halvorsen Pike, the second largest pharmaceutical company on Earth, was losing eleven billion dollars a year to Aeterna, and would do — he suspected — almost anything to find out how it was made.
+FERRIS: (phone) Howard? Are you still there?
+[pause 1.5]
+LESSING: (phone) I'm here, Simon. I think we should talk.
+[pause 1.5]
+N: He did not tell Owen Carrick about the call. It was the first thing in three months he had not told him.
+N: And it was the one thing, that winter, that Albert Wesker did not know.
+[pause 3.0]
+[music] stop

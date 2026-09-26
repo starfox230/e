@@ -171,7 +171,7 @@ Rare — Blueprint fragment: Cellular Renewal, 1 of 3
 N: Office supplies. A car. A receptionist. A coffee machine.
 ADOLF: (cold) Fate has a sense of humour.
 WESKER: Variance has a sense of humour. Keep reading.
-N: The deep identity would matter enormously. It thickened his invented past — school records in Switzerland, tax returns, a mother's grave in a cemetery outside Basel. It would make his history perfect. It was, in fact, the first mistake the System ever made on his behalf, because four years later an FBI agent would find that history, and notice precisely that it was perfect.
+N: The deep identity would matter enormously. It thickened his invented past — school records in Switzerland, tax returns, a mother's grave in a cemetery outside Basel. It would make his history perfect. It was, in fact, the first mistake the System ever made on his behalf, because three years later an FBI agent would find that history, and notice precisely that it was perfect.
 [pause 0.5]
 [sfx] sfx_gacha_rare
 [system] RESULTS

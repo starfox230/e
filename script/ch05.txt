@@ -119,7 +119,7 @@ N: The Cold-Read gave the Director the rest of the man in a single glance: a dec
 N: So Albert Wesker took him seriously. It cost nothing. It never does.
 [pause 1.0]
 N: Delgado's report was filed the following Wednesday. It noted one deficiency — the solvent store, corrected within forty-eight hours — and described the facility as, quote, exemplary in its cooperation. The complaint about unauthorised industrial equipment was closed as unfounded.
-N: It would sit in a state database for four years, until someone from the FBI found it, and read it, and began to wonder why a small research lab had gone out of its way to be inspected.
+N: It would sit in a state database for three and a half years, until someone from the FBI found it, and read it, and began to wonder why a small research lab had gone out of its way to be inspected.
 [pause 1.5]
 
 [music] m_rain_piano -10

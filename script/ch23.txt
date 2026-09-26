@@ -1,0 +1,133 @@
+# 23 | Foreign Eyes
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] a dim secure conference room in London with a long table, five intelligence officers seated with folders, rain on a tinted window overlooking the Thames, cinematic
+[loc] Vauxhall Cross, London — January 2031
+N: In the third week of January, in a windowless room on the fourth floor of a green-and-cream building beside the Thames, five people sat down around a table to talk about a company.
+N: None of them would ever admit that the meeting had taken place. There was no agenda, no minutes, and no name on the booking. There were only five liaison officers from five intelligence services — British, German, French, American, and Dutch — who had each, separately, over the preceding year, noticed something about Umbrella Life Sciences that did not sit right, and who had each, separately, been told by their own governments to leave it alone.
+[img] {ASHCOMBE} at the head of a conference table in a grey three-piece suit, fingertips pressed together, patient and thin-smiling, rain behind him, cinematic
+N: The meeting was chaired by a man named Julian Ashcombe. He was fifty-four, patrician, patient, and dressed as though it were still nineteen fifty-five. He had spent thirty years in the Secret Intelligence Service, most of them in places where patience was the only weapon that did not get you killed. He was, by the unanimous judgment of the people who had worked against him, the most dangerous man in the room, and he was always, always polite.
+ASHCOMBE: Shall we begin with the patents?
+[pause 1.5]
+
+[music] m_scheme -10
+[img] a large screen in a secure room showing a graph of patent filings rising almost vertically, labeled UMBRELLA, beside flat lines for other pharmaceutical giants, cinematic
+N: The patents were the German contribution.
+N: The Federal Intelligence Service in Berlin employed a small unit whose only job was to watch the world's patent offices for signs of technological surprise — the sudden appearance of an idea that should, by any normal measure, have taken a decade to arrive. In four years, Umbrella Life Sciences had filed four hundred and eleven patents. Sixty-three of them, the German analysts had concluded, described inventions with no traceable intellectual ancestry. No preceding papers. No conference talks. No doctoral theses. No failed experiments by other groups. They had simply appeared, fully formed, as if someone had been handed the answers.
+[img] a woman German intelligence analyst in her forties with rimless glasses presenting a slide, precise and severe, cinematic
+MAUER: In science, ideas have parents. Sixty-three of these are orphans. That is not statistically possible. Either Umbrella has the best research team in the history of the species, or it has access to something we do not understand.
+ASHCOMBE: Or someone else's research.
+MAUER: We looked for that first. There is no one else. That is the problem.
+[pause 1.5]
+[img] a satellite photograph of a desert compound in Nevada with annotated heat signatures, and a list of twelve names with Russian passport photos, cinematic
+N: The French contribution was the Russians.
+N: The General Directorate for External Security had been watching a particular group of former Russian special forces soldiers for years, because they had worked in French-speaking Africa, and killed French-trained soldiers there. In November, twelve of them had flown into the United States on four different routes. In December, they had not flown out. Their families in Russia had been told they had died in an accident in Mali. There had been no accident in Mali.
+FERRAND: Twelve men do not vanish in America. America is the easiest country on Earth to find a man in. And yet — nothing. No bodies. No arrests. No trace. The last thing our friends in Moscow were interested in, before they vanished, was a data centre in Nevada, owned by a Singapore company called Ashford Pacific.
+ASHCOMBE: Which is owned by Umbrella.
+FERRAND: Three layers down. Yes.
+[pause 1.5]
+N: The Dutch had the ships — Ashford Pacific's cargo vessels, which called at Rotterdam, and whose manifests were meticulous, and whose tonnage, the Dutch customs service had noticed, never quite matched. The American had nothing he was permitted to share, and shared it anyway, over lunch, in a pub.
+N: And Julian Ashcombe had the video. He played it once, on the big screen, frame by frame, from eleven-ten to eleven-fifteen, in total silence.
+[img] the grainy dashcam frame 1114 projected large on a screen in a dark conference room, five silhouetted officers watching, cinematic
+[pause 1.5]
+ASHCOMBE: So. Let me summarise, and you may correct me. A company that did not exist five years ago now dominates the most valuable medical market on Earth. It files inventions that have no parents. It builds a factory capable of four hundred million doses of something, for a drug that needs forty million. Russian special forces go to one of its buildings, and cease to exist. And its chief executive can, on the evidence of a rideshare driver's dashboard camera, cross a car park faster than a rifle bullet.
+[pause 1.0]
+ASHCOMBE: Either we are looking at the most successful company in the history of the world. Or we are looking at something else, wearing a company's clothes.
+[pause 1.5]
+MAUER: Which do you think?
+ASHCOMBE: I think we should find out before it decides to take the clothes off.
+[pause 1.5]
+
+[music] m_corporate -8
+[amb] amb_rain_heavy -6
+[img] a black car pulling up in rainy Downing Street at night, the famous black door of Number 10 lit, a policeman at the door, photographers behind a barrier, cinematic
+[loc] Downing Street — 29 January 2031
+N: The Director arrived in London eight days later, for a reception at Downing Street.
+N: It was an ordinary occasion, of the kind the British government held several times a year: a life sciences investment evening, with forty chief executives, a string quartet, and canapés, at which the Prime Minister would say a few words about Britain's future as a scientific superpower, and the chief executives would each, at some point during the evening, be photographed shaking the Prime Minister's hand while announcing a large number.
+N: Umbrella's number was two billion pounds — a new research campus on the Cambridge site, eleven hundred jobs. It was announced at eight-fifteen. At eight-sixteen, the Prime Minister shook the Director's hand for the cameras, and said something warm about Umbrella's British roots, and moved on to the next chief executive. It lasted nine seconds.
+[img] an elegant state reception room with chandeliers and portraits, guests in evening dress with champagne, a string quartet, {WESKER} standing apart near a window in black, cinematic
+[sfx] sfx_camera_flashes g-12
+N: The Director spent the rest of the evening standing by a window in the State Dining Room, with a glass of champagne he did not drink, looking out at the rain on Horse Guards Parade.
+[pause 1.0]
+[music] m_horror -12
+N: The Adolf half of the mind had been silent since the car had turned into Whitehall. It was silent for a long time. When it spoke, its voice was strange.
+ADOLF: (soft) I tried to burn this city.
+WESKER: I know.
+ADOLF: Night after night. Fifty-seven nights in a row, in the first autumn. I stood in front of maps with pins in them and I chose streets. I wanted them to break. I wanted them to beg.
+WESKER: They didn't.
+ADOLF: No. They did not.
+[pause 1.2]
+WESKER: And now their Prime Minister just shook your hand, and thanked you for the jobs, and a waiter gave you champagne.
+[pause 1.0]
+ADOLF: (slow) Do you think that is funny?
+WESKER: I think it's the whole lesson. You came at them with bombers, and they fought you in the streets. I came with two billion pounds, and they held a reception.
+[pause 1.5]
+N: The Wesker half of the mind meant it as a cruelty. He usually did. But the old voice did not respond the way he expected. It did not rage. It did not argue.
+N: It simply looked out of the window at the rain on the parade ground, through eyes it shared, for a very long time, and said nothing at all. And the Wesker half of the mind could not tell — for the first time since the bunker — what it was thinking.
+[pause 2.0]
+
+[music] m_scheme -10
+[img] {CATHERINE} in an elegant evening dress with a glass of champagne being approached by {ASHCOMBE} in a dinner jacket, both smiling politely, chandeliers above, cinematic
+N: Catherine Adeyemi had come with him. She was talking to the chief executive of a British bank about bond markets, and hating it, when a patrician man in a dinner jacket appeared at her elbow with two fresh glasses of champagne, and handed her one.
+ASHCOMBE: Miss Adeyemi. Julian Ashcombe. We've never met. I'm with the Foreign Office. Well — adjacent to it.
+CATHERINE: Adjacent.
+ASHCOMBE: Very adjacent. I read about you, some years ago. The business at Ashworth Grey. The partner, and the regulator, and what happened to you afterwards. I thought it was very brave. I thought it was also very badly handled, by everyone except you.
+[pause 1.0]
+N: She looked at him for a long moment. Nobody had mentioned Ashworth Grey to her in six years. She had made sure of it.
+CATHERINE: (cold) What do you want, Mister Ashcombe?
+ASHCOMBE: Oh, nothing tonight. Tonight I only wanted to say hello. And to give you this.
+[img] a plain white card with only a London telephone number printed on it, held between two fingers above a champagne glass, macro, cinematic
+N: It was a plain white card, with a London telephone number on it, and nothing else.
+ASHCOMBE: You once asked a very large institution a very simple question, Miss Adeyemi. Where does the money go. I've always admired people who ask that question. If you ever find yourself asking it again — about anyone — you might ring that number. Somebody will always answer.
+[pause 1.5]
+N: He smiled, and bowed his head very slightly, and was gone into the crowd before she could answer.
+[pause 1.0]
+[img] {CATHERINE} alone in a Downing Street corridor slipping a white card into her clutch purse behind her own business card, glancing back toward the reception, cinematic
+N: She should have given the card to the Director. She told herself, on the flight home, that she had meant to, and had forgotten.
+N: She put it in her wallet, behind her own business card, where it would stay, unlooked-at, for two years and four months.
+N: The Director knew about the card before she reached the car. The Cold-Read had shown him Ashcombe's face across the room, and hers, and the moment the card changed hands. He did not mention it. Neither did she.
+N: It was the start of the longest silence between them. It would outlast almost everything else.
+[pause 2.0]
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] {WEN} in a severe dark jacket at a desk in a spare Beijing office, a paused video of an eleven-second TV interview on a monitor, a file folder open, calm and analytical, cinematic
+[loc] Ministry of State Security, Beijing
+N: In Beijing, a woman named Wen Shulan watched the eleven seconds.
+N: She was fifty-six, a deputy minister in the Ministry of State Security, and she had spent her career in the part of it that watched foreign technology companies. She did not watch the ghost video. She had seen it, and filed it, and set it aside. It interested her less than the other one — the television interview, from the winter of twenty twenty-eight, in which a man in sunglasses had sat in silence for eleven seconds in front of forty million people.
+N: She watched the eleven seconds nineteen times. She watched the anchor's face, not his. She had her analysts pull every public appearance he had ever made and time every pause.
+[img] a printed chart comparing timed pauses in public speeches, a red pen circling patterns, a teacup beside it, macro, cinematic
+WEN: (soft) This is not a businessman.
+N: Her analyst waited.
+WEN: A businessman speaks to close a deal. This man speaks to change the room. Every silence is placed. Every sentence lands on the beat. I have heard this before. Not from a businessman. From — older recordings.
+[pause 1.0]
+N: She did not say whose recordings. She was a careful woman. But that afternoon she opened a new file, with a new codename, at a level of classification her service reserved for foreign governments.
+N: She called it Umbrella. She saw no reason to be clever about it. She intended to take it very seriously.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_wind -8
+[img] {BELOV} standing at a frozen window in a grey Moscow office at night, a framed photo of twelve soldiers on a desk behind him, his jaw set, snow falling outside, cinematic
+[loc] Moscow
+N: And in Moscow, in an office at the Lubyanka with a view of a snow-covered square, a colonel of the Federal Security Service named Arkady Belov stood at his window and looked at nothing.
+N: He had sent twelve men to Nevada. He had known eight of them personally. He had drunk at the weddings of three. He had told their families about Mali himself, in person, in their kitchens, and he had looked their mothers in the eye while he lied to them.
+N: Belov was not a sentimental man. He had done a great many things in his career that he did not think about. But he thought about the twelve. He had the photograph of them on his desk, and he thought about them every day.
+BELOV: (slow) Find out what he is. Whatever it costs. And when you have found out — tell me how to kill it.
+[pause 2.0]
+
+[music] m_rain_piano -8
+[amb] amb_ship_hum -12
+[img] {WESKER} in a private jet at night over the Atlantic, looking out at the dark ocean, one gloved hand resting on the window, reflective, a faint red glint in his eyes, cinematic
+N: On the flight home, over the Atlantic, the Director sat in the dark and thought about foreign eyes.
+N: He could feel them now. Not literally — the System had given him many things, but not that. But he could feel the shape of them, in the Memory Palace, in the way the pieces were arranging themselves on the table of his mind. A patient Englishman. A careful woman in Beijing. An angry colonel in Moscow. And, on his own side of the ocean, an FBI agent who had been reassigned to hazmat drills and had not stopped, and a journalist who had stopped writing and had not stopped listening, and a doctor with an unread report.
+ADOLF: They are gathering.
+WESKER: They're noticing. That isn't the same thing.
+ADOLF: It is how it starts. I told you. Two people in a room. Then five. Then nations.
+[pause 1.0]
+WESKER: Then let's give the nations something else to think about.
+[pause 1.5]
+N: He did not say what he meant. The Adolf half of the mind did not ask. It was still quiet, the way it had been at the window in Downing Street.
+N: But on the table in the Memory Palace, in a room on the fourth floor with no name on the door, something had begun — very slowly — to change.
+[pause 3.0]
+[music] stop
