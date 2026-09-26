@@ -15,7 +15,7 @@ import soundfile as sf
 import pyloudnorm
 from scipy import signal
 from parse import parse
-from voice import synth, SR
+from voice import synth, SR, VOICES
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SFX = os.path.join(ROOT, 'assets', 'sfx')
@@ -108,6 +108,9 @@ def shot_id(chapter, prompt):
 
 
 def build_timeline(ch):
+    missing = sorted({e.speaker for e in ch.events if e.kind == 'line' and e.speaker not in VOICES})
+    if missing:
+        raise ValueError(f'chapter {ch.number}: no voice assigned for {missing}')
     tl = {'chapter': ch.number, 'title': ch.title, 'movement': ch.movement,
           'voice': [], 'shots': [], 'system': [], 'loc': [], 'cards': [], 'music': [], 'amb': [], 'sfx': []}
     t = 0.6

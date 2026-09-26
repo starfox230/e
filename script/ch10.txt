@@ -1,0 +1,148 @@
+# 10 | The Clean Face
+@movement II | The Company That Should Not Exist
+
+[music] m_corporate -6
+[amb] amb_office_hum
+[img] a gleaming biotech tower lobby with a living plant wall and a large new red-and-white umbrella emblem on the wall, morning light, employees with coffee, cinematic
+[loc] Umbrella Life Sciences, Inc. — April 2027
+N: The company that should not exist was born in April, in a lobby with a living wall.
+N: Legally, it was a merger. Umbrella Research Division Seven, of Delaware, and Verdant Axis Therapeutics, of Delaware and the NASDAQ, became a single corporation called Umbrella Life Sciences, Incorporated, trading under the ticker U-M-B-R. The minority shareholders who had not tendered were bought out at the offer price. The green letters were gone. The lawsuit from Graham Tolliver's lawyers was withdrawn, because Graham Tolliver's lawyers now worked, technically, for Umbrella.
+[img] a crowd of about a hundred and forty scientists and office staff gathered in a glass atrium, anxious faces, looking toward a small raised platform, cinematic
+N: And on a Monday morning, the hundred and forty people who had worked for Verdant Axis gathered in their own atrium, beneath their own living wall, to meet the man who now owned them.
+N: They were frightened. They had read the newspaper. They had watched their company collapse in a day, and their chief executive walk out of the building with nothing in his hands, and they had heard — because everybody had heard — that the new man had done it without raising his voice.
+[pause 1.0]
+[img] {WESKER} stepping onto a low platform in a glass atrium in a black suit, sunglasses on, a hundred faces watching, calm, cinematic
+N: He did not give a sermon.
+N: That was a decision, and it had been argued about, in the car, on the drive across the river.
+ADOLF: A hundred and forty. Frightened. Leaderless. You will never have a better audience. Give them what you gave the break room.
+WESKER: The break room was six people who'd already been saved. These people have just been conquered. You don't preach to the conquered on the first day. You reassure them.
+ADOLF: You make them grateful first. And then you make them believe.
+WESKER: I make them productive first. Belief is expensive.
+[pause 0.8]
+[music] m_corporate -10
+N: So he spoke for ninety seconds, and he said exactly four things.
+WESKER: Nothing you did in this building was wrong, except believing Graham Tolliver. Nobody here will lose their job this year. The work that was good will continue, under better leadership, with more money. And the work that was a lie is over.
+[pause 0.6]
+WESKER: That's all. Go back to work. Your new chief financial officer will be in touch about your salaries. I think you'll like her.
+[pause 1.0]
+[img] relieved employees in a glass atrium turning to each other and exhaling, a few smiling, the crowd dispersing, warm light, cinematic
+N: They went back to work. They were not converted. They were relieved, which is a smaller thing, and a more useful one.
+N: The System paid him for it anyway.
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Corporate integration — Verdant Axis: 8,000
+Personnel absorbed — 140: 5,000
+Total: 13,000
+[say] Assessment. Corporate integration.
+[/system]
+ADOLF: (slow) It pays for relief. How disappointing.
+WESKER: It pays for order. You should approve.
+[pause 1.5]
+
+[music] m_scheme -6
+[img] a glowing world map with thin crimson lines connecting Delaware, Nevada, Ireland, and Singapore, corporate structure diagram overlay, dark background, cinematic
+N: While Catherine built the company that the world could see, Mister Pell built the one it could not.
+N: He did it in the spring of twenty twenty-seven, in his windowless office on the old building's second floor, with a cheese sandwich and three monitors and a pen he never seemed to need to refill.
+N: A holding company in Nevada, where the owners of a corporation do not have to be named. A research subsidiary in Ireland, where the tax on intellectual property is kind. A logistics company in Singapore called Ashford Pacific, which would one day move a great many things that did not appear on any manifest. A property company in Wilmington that began, quietly, to exercise the right of first refusal in section nine of a contract Dale Kuchar had never read, and bought two more lots in the industrial park, and then a third that had not been in the contract at all.
+[img] an industrial park seen from above at dawn with several old warehouses being fenced and joined into one campus, construction vehicles, cinematic aerial
+N: Beneath the clean public company, like the roots of a tree beneath a lawn, the shells went down into four jurisdictions, and joined, and branched, and joined again, until even Catherine Adeyemi, who was very good at this, could only see the top two layers.
+N: That was, of course, the point.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_basement
+[img] an old industrial freight elevator with a scissor gate in a dim basement, its button panel showing only B and a blank unlabeled button below, cinematic
+N: The Arklay sublevel had arrived on the night of the ten-pull, as promised.
+N: Nobody had heard it arrive. There had been no construction, no excavation, no trucks. Gus had simply come to the Director's office the next morning and said there was a problem with the freight elevator — it had a new button.
+[img] a gloved finger pressing an unlabeled black button on an old freight elevator panel, dim light, macro, cinematic
+[sfx] sfx_elevator_descend
+N: The freight elevator in the basement of the old building had gone to two floors for forty years: the loading dock and the basement. Now, below the basement button, there was a third. It had no label. It was simply a black button with a thin crimson ring around it, and when you pressed it, the elevator went down for a great deal longer than the geology of the Christina River valley should have allowed.
+[pause 1.0]
+[amb] amb_lab
+[img] a vast pristine underground laboratory corridor with white walls, red emergency stripes, glass-walled containment chambers, no windows, cool blue light, cinematic wide shot
+[sfx] sfx_elevator_ding g-4
+N: The doors opened onto white.
+N: A corridor, three hundred feet long, clean enough to operate in, lit by panels in the ceiling that gave off a cold, shadowless light. Glass walls on either side. Behind them, laboratories: benches, hoods, sequencers, cold rooms, airlocks, pressure suits hanging on racks like the skins of astronauts. At the far end, a steel door six inches thick with a painted symbol on it that had been, in another world, the most feared logo on Earth.
+[img] a massive steel containment door at the end of a white corridor with a red and white octagonal umbrella emblem painted on it, cinematic
+N: It was a containment facility of the highest grade — the kind of laboratory where, anywhere else on Earth, you would work on the diseases that had no cure. There were perhaps sixty such facilities in the world. Every one of them was known, licensed, inspected, and mapped.
+N: This one was not. It did not exist. It did not appear on a single drawing or permit, and it did not show on ground-penetrating radar, and the city of Wilmington had no record of it. It was simply there, beneath the building, beneath the basement, beneath the grey machine, the way a thought is beneath a face.
+[pause 1.2]
+[img] {WESKER} walking alone down a long white underground corridor, reflected in glass walls on both sides, footsteps echoing, cinematic
+[sfx] sfx_footsteps g-8
+N: He walked it alone on the first morning, from one end to the other, and did not say a word.
+N: In his old world, he had walked corridors like this beneath a mansion in the Arklay Mountains, when he was young and brilliant and still thought he was the cleverest man in the building. He had been wrong then. There had always been someone above him — some old man with money, some board, some founder. Here, there was no one. For the first time in either of his lives, there was no one at all above him.
+ADOLF: A fortress.
+WESKER: A laboratory.
+ADOLF: Every fortress is a laboratory. It is where you find out what men will do.
+[pause 1.5]
+[img] {GUS} and two men in black suits guiding a huge grey industrial machine on heavy-duty dollies out of a freight elevator into a white corridor, cinematic
+[sfx] sfx_cryo_hiss g-10
+N: They moved the Tyrant down on the third night. Gus and two of the Silent Ones, and a set of heavy-duty machine dollies that Gus had, as usual, simply always had.
+N: The cradle breathed the whole way down in the freight elevator, a long slow cycle, and when they rolled it into the cold room at the end of the corridor and bolted it to the floor, it seemed — Gus would have said, if Gus ever said things like that — to settle. As if it knew it had come home.
+[pause 1.5]
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] six identical men in black suits standing in a perfect row in a lobby, faces oddly smeared and blurred like a motion artifact, uncanny, cinematic
+N: The Silent Ones had arrived the same week.
+N: There were six of them, as promised. Men of the same height and build, in the same black suits, with the same short hair and the same pleasant, forgettable faces. They took up posts around the old building and the tower with no instructions that anyone heard given. They did not go to lunch. They did not seem to talk to one another, and yet they always seemed to know where the others were.
+N: And cameras did not like them.
+[img] a CCTV monitor in a security booth showing grainy lobby footage, one figure in the frame appearing as a dark smear across several frames, timestamp in the corner, cinematic
+N: It was subtle. It was not invisibility — nothing so theatrical. It was simply that on security footage, a Silent One tended to be slightly wrong. A little blurred, even when he was standing still. A little smeared, as if he had moved between frames. Face-recognition software, pointed at one of them, returned a confidence score of nearly zero, and then, occasionally, crashed.
+[pause 1.0]
+[img] {WALTER} alone in a security booth at 3 a.m. leaning toward a monitor, rewinding footage, his reading glasses on, a small notebook beside the keyboard, cinematic
+[loc] Old building — 3:10 a.m.
+N: Walter Pruitt noticed on the fourth night.
+N: He was in the booth, at ten past three, doing the thing that night guards do and nobody else ever does — actually watching the cameras. And on the lobby feed, one of the new men in black walked from the elevator to the door, and for the whole of the walk, his face was a smear.
+N: Walter rewound it. He watched it again. He watched it six times.
+[sfx] sfx_mouse_click g-8
+N: Then he took a small spiral notebook out of his breast pocket — the kind he had carried since the Army, to write down things that were none of his business — and he wrote the date, and the time, and four words.
+N: Camera doesn't see him.
+[pause 1.0]
+N: He said nothing to anyone. That was also a habit from the Army. But he kept writing things in the notebook, over the next two years, whenever he saw something he could not explain. And the notebook would outlive him, and end up, one day, in the hands of exactly the wrong person.
+[pause 1.5]
+
+[music] m_scheme -8
+[amb] amb_office_hum
+[img] {CATHERINE} in a glass-walled office on a high floor of a tower, surrounded by financial statements on screens, one hand on her chin, frowning thoughtfully, city view, cinematic
+N: Catherine Adeyemi had asked for three things. She got two.
+N: She became chief financial officer on the first of April. She received her equity, on terms Pell drafted and she tore up and redrafted twice, and which were, in the end, extraordinarily generous. She took an office on the eleventh floor of the tower with a view of the river, and hired a team of eight from Verdant's old finance department, and within a month she had rebuilt the public accounts of Umbrella Life Sciences into something she could have shown to a regulator in London with a straight face.
+N: The third thing — where the money actually went — she believed she had as well. That was the beauty of it.
+[img] a financial spreadsheet on a monitor with a highlighted line reading ARKLAY COLD ARCHIVE INFRASTRUCTURE and a large figure, cinematic macro
+N: In May she found a line in the consolidated capital budget that she did not recognise. Arklay: cold archive infrastructure. Eleven million dollars, capitalised, depreciated over twenty years, booked through a Nevada subsidiary she had not set up.
+N: She went to the Director with it.
+[pause 0.5]
+[img] {CATHERINE} placing a printout on {WESKER}'s desk in a corner office, both looking at each other, direct, cinematic
+CATHERINE: What's Arklay?
+WESKER: The sample vault. The archive — the thing that paid for all of this. It needs better cold storage than a basement full of freezers from the nineteen-nineties. Pell set it up through Nevada for the tax treatment. You can see it any time you like.
+CATHERINE: I'd like to see it now.
+[pause 0.6]
+N: He took her down in the freight elevator — to the basement, and not one button further. He showed her the old freezers, and six new ones, and a gleaming cold vault Pell had bought from the Shop for eighteen hundred Points that very morning, specifically so that it would be there to show her. He showed her the invoices. He showed her the depreciation schedule. Every single thing he showed her was real.
+N: The grey machine was gone from the corner. There was only a clean patch of concrete, and four bolt holes, and a faint smell of cold.
+[img] {CATHERINE} in a clean new cold-storage vault room looking at steel racks of sample boxes, frost on her breath, satisfied but thoughtful, cinematic
+CATHERINE: All right.
+WESKER: All right?
+CATHERINE: All right. Thank you. I don't enjoy asking twice.
+WESKER: You'll never have to.
+[pause 1.2]
+N: It was the first lie he told her. It would not be the last. But it was, in its way, the best one — because it was made entirely of true things, arranged in an order that did not add up to the truth.
+ADOLF: (slow) You enjoyed that.
+WESKER: I enjoy craftsmanship. She's the only person in the building worth lying to properly.
+[pause 1.5]
+
+[music] m_rain_piano -10
+[amb] amb_lab
+[img] {NADIA} in a bright modern virology laboratory in a glass tower, a nameplate on the door reading DIRECTOR OF VIROLOGY, looking out the window across the river toward a small brick building, conflicted, cinematic
+N: There were other promotions that spring.
+N: Evelyn Marsh became head of the assay programme, with twelve of Verdant's scientists reporting to her, and moved into a lab on the ninth floor of the tower, and was seen there, by the cleaners, at every hour of the day and night.
+N: Tomás Reyes became head of digital, and was given a budget, and did not yet know what to spend it on.
+N: And Doctor Nadia Okafor was made director of virology — the best-equipped virology laboratory she had ever worked in, with a staff of twenty, and a salary she had to read twice.
+N: She took it. She would think about that decision for the rest of her life.
+N: She took it because the work was real, and good, and she was the best person in the building to do it. She took it because she had a mother in Lagos who needed an operation, and a niece at university in Manchester. And she took it because some part of her — the part that had not clapped in the break room — wanted to be close enough to see.
+[pause 1.0]
+[img] {NADIA} standing at a tower window at dusk looking across the river at a small old brick building with a red and white emblem, reflection of her own face in the glass, cinematic
+N: From her new office on the eighth floor, if she stood at the window, she could see the old brick building across the river. At night, she noticed, the lights in its basement never went out.
+N: She did not know yet that there was anything beneath the basement.
+N: But she was a virologist. Her whole career had been spent looking for things that were invisible, and she had learned, long ago, to trust the feeling of something being there before she could see it.
+[pause 3.0]
+[music] stop

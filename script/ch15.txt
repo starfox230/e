@@ -1,0 +1,153 @@
+# 15 | Nadia
+
+[music] m_rain_piano -8
+[amb] amb_office_hum
+[img] {NADIA} alone in her office at night in the tower, lamp on, scrolling through a phone gallery folder labeled RECIPES, a cup of tea going cold, cinematic
+[loc] Winter 2028
+N: Nadia Okafor did not decide to become a whistleblower. Nobody ever does. She simply noticed things, one at a time, and wrote them down, and one night in the winter of twenty twenty-eight she opened the folder on her phone called Recipes and realised that it was no longer a folder. It was a case.
+[pause 1.0]
+[img] a loading dock at night, a young clerk in a hi-vis vest sharing a laugh with a woman in a lab coat, pallets and liquid nitrogen dewars behind them, cinematic
+N: The manifest had been the first thing. There were others.
+N: There was Deshawn at the loading dock, who liked her because she remembered his daughter's birthday, and who mentioned, one evening, that the old building across the river took a delivery of liquid nitrogen every nine days. Enough, Nadia calculated in her head as he said it, to keep about four hundred litres of material at cryogenic temperature — or to run a cold room the size of a garage. The old building's basement had eleven freezers from the nineteen-nineties and a vault Pell had built in the spring. None of it used liquid nitrogen.
+[img] a power usage chart on a laptop screen showing an old brick building's electricity consumption spiking far beyond a normal lab, highlighted in red, cinematic
+N: There was the electricity. Umbrella's facilities team published a sustainability report, because Catherine had insisted on one, and the report listed the power use of each building. The old building on the south bank — four floors, a basement, a few dozen people — drew more power than the entire twelve-storey tower.
+[img] {EVELYN} stepping into an old freight elevator late at night carrying a sealed sample case, glancing back over her shoulder, dim basement light, cinematic
+N: And there was Evelyn. Nadia had watched her, twice, from the car park of the old building at night, step into the freight elevator in the basement with a sealed case, and go down. The freight elevator went to the basement and the loading dock. It did not go down. And both times, Evelyn Marsh had not come back up for nine hours.
+[pause 1.5]
+N: None of it was proof. All of it was a smell. And Nadia Okafor had spent her whole career learning to trust a smell before she could see what was making it.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_lab
+[img] a thick black binder left open on an empty lab bench on the ninth floor at night, papers spread out, a desk lamp shining on photographs clipped to a page, cinematic
+[loc] Ninth floor — February 2029
+N: The proof, when it came, came because Evelyn Marsh had stopped thinking of other people as a risk.
+N: It was a Thursday in February. Evelyn had come up from below to sign off the second-generation assay, which was still, officially, her programme, and she had been called away in the middle of it by one of the research associates, who had appeared in the doorway and said something too quietly for anyone to hear. She had gone with him at once. She had left a binder on the bench.
+N: It was a black binder. It had no title on the spine. Nadia, walking past on her way to the lifts, glanced at it, and stopped, and — with the terrible slowness of a person who knows she is about to do something that cannot be undone — turned back.
+[pause 1.0]
+[img] close-up of a page in a binder showing a grainy photograph of a towering grey humanoid figure suspended in a frosted cryogenic capsule, a label reading T-00 SUBJECT, cinematic macro
+[sfx] sfx_paper g-6
+N: The first page she saw was a photograph.
+N: It had been taken through thick glass, in cold light. It showed a cryogenic capsule, very large, and inside it, in a pale mist, a figure. The figure was grey, and hairless, and far too big. Beneath the photograph, in Evelyn's neat, small handwriting, was a label. T-zero-zero. Subject. Week eighty-one. Vitals nominal.
+[pause 1.5]
+N: Nadia looked at it for a long time. She told herself it was a model. A sculpture. A prosthetic from a film studio. She told herself that for about four seconds, which was as long as her training would allow.
+[img] a page of handwritten research notes and a table of data: twenty-four primate subjects, columns labeled P-STRAIN DERIVATIVE, and most rows marked DECEASED, a few marked ENHANCED, cinematic macro
+[sfx] sfx_heartbeat g-8
+N: Then she turned the page.
+N: It was a table. Twenty-four subjects. Rhesus macaques — the twenty-four from the Singapore manifest, she understood at once, with a lurch in her stomach. Each one had been given a compound labelled P-strain derivative, in rising doses. The column on the right recorded outcomes.
+N: Nineteen of them said deceased.
+N: Five of them said enhanced.
+[pause 1.2]
+N: Beneath the table, in the margin, in the same small neat hand, Evelyn had written a single note to herself, and underlined it twice.
+N: Tolerance correlates with baseline aggression. Select accordingly.
+[pause 1.5]
+[sfx] sfx_camera_shutter g-4
+[img] {NADIA} with trembling hands photographing pages of a binder with her phone in a dark lab, a glance toward the door, cinematic
+N: She photographed six pages. Her hands were shaking so badly that she had to take two of them twice. Then she closed the binder, and squared it exactly where it had been on the bench, and walked to the lifts, and pressed the button, and stood very still, and did not breathe until the doors had closed.
+N: Evelyn came back eleven minutes later, and picked up the binder, and did not notice anything at all.
+[pause 1.5]
+
+[music] m_tension -10
+[amb] amb_night_city
+[img] {NADIA} sitting on the edge of a bed in a dark bedroom at 3 a.m., phone in her lap showing a photograph, a framed family photo on the nightstand, cinematic
+N: She did not sleep that night, or the next.
+N: She thought about her mother in Lagos, whose operation Umbrella's salary had paid for. She thought about her niece in Manchester, in the second year of a medical degree Nadia was funding. She thought about Arthur Kowalczyk on his motorcycle, and about the three hundred people now in the Aeterna trials whose lives were getting better every week, and about what would happen to all of them if Umbrella Life Sciences became, overnight, the subject of a federal investigation.
+N: And she thought about nineteen monkeys, and a note in a margin. Select accordingly.
+[pause 1.0]
+N: At five in the morning, on the third night, she opened her laptop and began to write.
+[pause 1.5]
+
+[music] m_scheme -10
+[amb] amb_office_hum
+[img] a weekly leadership meeting around a long table in a glass boardroom, {NADIA} sitting composed but pale, {WESKER} at the head of the table in sunglasses, looking directly at her, cinematic
+[loc] Monday leadership meeting
+N: The Director knew by Monday.
+N: He knew it the way he knew most things now — across a table, in the first ten seconds of a meeting. Nadia Okafor sat in her usual place, and said good morning in her usual voice, and was, to every other person at the table, perfectly herself.
+N: To the Cold-Read she was a flare in the dark. Fear, bright and white. Grief — a great deal of grief, which surprised him. And beneath it, like bedrock, something the Cold-Read rarely showed him in anyone: a decision that had already been made, and would not be unmade.
+[pause 1.0]
+ADOLF: She is going to betray you.
+WESKER: She's going to leave. It isn't the same thing.
+ADOLF: She has seen something. She will take it to your enemies. Stop her.
+WESKER: How?
+ADOLF: You know how.
+WESKER: (cold) Say it, then. Say it out loud, since you've got nothing but time in there.
+[pause 1.0]
+ADOLF: (slow) She has a mother in Lagos. And a niece in Manchester. People with families can be persuaded to remember their families.
+[pause 1.5]
+N: The Director did not answer that for the rest of the meeting. He discussed the assay launch, and the Aeterna phase three enrolment, and a new facility in Singapore. He did not look at Nadia Okafor once.
+N: But in the quiet of one skull, for forty minutes, a very old argument was taking place, and it was not the argument either of them had expected to have.
+[pause 1.2]
+[img] {WESKER} standing alone at a tall window of a glass boardroom after a meeting, everyone gone, looking out at the river, hands behind his back, cinematic
+WESKER: We are not going to threaten her family.
+ADOLF: Why not? You are not squeamish. I have been inside your head for two years. You are the least squeamish man I have ever met, and I have met — I have met a great many.
+WESKER: It isn't squeamishness. It's arithmetic. If I threaten her family, she becomes a martyr with a motive. If I let her go, she becomes a disgruntled former employee with some photographs. One of those makes the evening news. The other makes page nine.
+ADOLF: And the photographs?
+WESKER: Show a large grey sculpture and a table of numbers in a binder. The FBI will come. The CDC will come. They'll come to a clean company with a spotless inspection history and a drug that makes old men walk. And they'll find nothing, because what they'd need to find isn't anywhere they can reach.
+[pause 1.0]
+ADOLF: You want them to come.
+WESKER: I want them to come now. While I choose the ground. A controlled burn, Adolf. You set a small fire on purpose, so there's nothing left for the big one.
+[pause 1.0]
+ADOLF: (slow) And if you are wrong?
+WESKER: Then I'll have learned something about this world. That's worth more than one virologist.
+[pause 1.5]
+
+[music] m_rain_piano -6
+[amb] amb_office_hum
+[img] {NADIA} standing in the doorway of a corner office holding a single sheet of paper, dignified, {WESKER} at his desk looking up, rain streaking the window, cinematic
+[loc] Friday, 4:30 p.m.
+N: She came to resign in person. She could have sent an email. She could have walked out on a Friday night and never come back. She came to his office instead, at half past four, and knocked, because she was a person who knocked, and she handed him a single sheet of paper.
+NADIA: I'm leaving, Albert. Effective today. I'm sorry for the short notice. I think you'll understand why.
+WESKER: I do.
+[pause 1.0]
+N: She had expected him to ask. She had rehearsed the conversation in the car. She had rehearsed what she would say when he asked what she had seen, and what she would say when he offered her money, and — though she had not let herself think about it clearly — what she would say if he did something worse.
+N: He did none of it. He simply looked at the letter, and then at her, and then took off his sunglasses and set them on the desk.
+[img] {WESKER} without sunglasses looking at {NADIA} across a desk, his eyes pale and calm, not glowing, a strange respect in his expression, rainy window behind, cinematic
+N: His eyes were ordinary. Pale, and grey, and very tired, in a way she had never seen before. She would think about that for years. She would wonder whether he had done it on purpose.
+WESKER: You're going to go to the CDC. And the FDA. And they'll pass it to the FBI.
+NADIA: Yes.
+WESKER: They'll come. They'll come here, to this building, with warrants and badges, and they'll find a clean company with a spotless record, and a drug that makes old men walk, and three hundred patients who'll tell them it saved their lives. And you'll spend the rest of your career being the woman who was wrong about Umbrella.
+[pause 1.2]
+NADIA: Then I'll be wrong.
+[pause 1.5]
+N: He looked at her for a long time. The Cold-Read showed him exactly what she felt, and it was the one thing, in two years, that he had not been able to make anyone in this world feel toward him, not with money, not with fear, not with a speech in a break room.
+N: She was not afraid of him. She was sorry for him.
+[pause 1.0]
+WESKER: Goodbye, Nadia.
+NADIA: Goodbye, Albert.
+[pause 1.0]
+[sfx] sfx_door_open g-6
+N: She took her phone with her. He did not ask for it. She walked out of the office, and down the corridor, and past Hale, who stood by the lifts with his hands folded in front of him and watched her go, and did not move, because he had not been told to.
+[pause 1.5]
+
+[music] m_sad -6
+[amb] amb_rain_heavy
+[img] {DANA} hugging {NADIA} tightly in the tower lobby by the living wall, both women with wet eyes, rain visible through glass doors behind them, cinematic
+N: Dana Whitfield caught her in the lobby.
+N: Nobody had told Dana. Nobody needed to. She had worked with Nadia Okafor for eleven years, and she saw her face, and the box of things from her desk, and she came out from behind the reception desk and hugged her, hard, in front of the living wall.
+DANA: (whisper) Be careful.
+NADIA: (whisper) You too.
+[pause 1.0]
+N: Dana let her go. She stood in the lobby for a long time after the doors had closed, looking out at the rain. She did not know what Nadia had seen. She did not want to know. But she had noticed, for the first time that week, that she had started saying Be careful to people who were leaving the building, instead of Have a good night.
+N: She did not know when that had started. She thought it had been a while.
+[pause 1.5]
+[img] {NADIA} walking out alone into heavy rain through the glass doors of a tower with a red and white umbrella emblem above them, holding a cardboard box, not opening an umbrella, cinematic
+N: Nadia Okafor walked out into the rain.
+N: She did not open an umbrella. She had one in her bag. She would say afterwards that she simply did not want to, that night, and she would not be able to explain why, and everyone would understand.
+[pause 2.0]
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] a modest government office at the CDC in Atlanta, a woman epidemiologist with a dark ponytail at a desk reading a printed complaint, photographs spread in front of her, cinematic
+[loc] Centers for Disease Control and Prevention — Atlanta, March 2029
+N: The complaint reached the Centers for Disease Control and Prevention in Atlanta nineteen days later, through a portal most people did not know existed, and was assigned — because she was the most junior officer on the relevant desk, and because nobody else wanted it — to a thirty-nine-year-old epidemic intelligence officer named Doctor Samira Haddad.
+N: She read it at her desk at six in the evening, with a sandwich she forgot to eat.
+[img] {HADDAD} holding a printed photograph of a giant grey figure in a cryogenic capsule close to her face, skeptical, then looking at a table of primate data beside it, cinematic
+N: She looked at the photograph of the grey figure first, and she laughed out loud, once, and said to nobody: oh, come on.
+N: Then she looked at the table. Twenty-four macaques. A compound with no registered name. Nineteen deceased. Five enhanced. And a note in a margin, in small neat handwriting, underlined twice.
+N: She stopped laughing.
+[pause 1.0]
+N: Samira Haddad had spent four years chasing outbreaks in places where nobody else wanted to go. She had learned that most complaints are nothing, and that the ones that are something rarely look like it at first, and that the most dangerous words in her profession were: that can't be right.
+N: She read the complaint twice more. Then she picked up the phone, and called a friend at the Food and Drug Administration, and said:
+HADDAD: (phone) Hi, it's Sam. Listen. Who do you know at the Bureau?
+[pause 3.0]
+[music] stop

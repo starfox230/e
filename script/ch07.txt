@@ -122,7 +122,7 @@ WESKER: I bought it to make it inevitable.
 [music] m_sermon -2
 [img] a small group of lab workers in a shabby break room rising to their feet and clapping, faces lit with emotion, fluorescent light, cinematic
 [sfx] sfx_applause g-4
-N: Tomás was the first on his feet. Then Dana. Then, to his own surprise, Walter Pruitt, who had sworn in nineteen seventy-nine never to stand up for an officer again.
+N: Tomás was the first on his feet. Then Dana. Then, to his own surprise, Walter Pruitt, who had sworn on the day he took off the uniform never to stand up for an officer again.
 N: Evelyn did not clap. She was crying, without seeming to notice, her hands pressed together in front of her mouth.
 N: Pell, Gus, and Hale clapped in perfect unison, exactly the same number of times, and stopped at exactly the same moment. Nobody noticed. They were all too busy.
 [pause 1.0]

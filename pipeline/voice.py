@@ -41,7 +41,7 @@ VOICES = {
     'HALVORSEN': ('bf_isabella', 0.95, 'dialog', 0.0),
     'WYATT':     ('am_onyx', 0.92, 'dialog', 0.0),
     'CRANE':     ('am_liam', 1.00, 'dialog', 0.0),
-    'WEN':       ('bf_alice', 0.93, 'dialog', 0.0),
+    'WEN':       ('af_sky*0.6+bf_alice*0.4', 0.92, 'dialog', 0.0),
     'BELOV':     ('bm_lewis', 0.90, 'dialog', 0.0),
     'ANCHOR':    ('af_jessica', 1.00, 'broadcast', 0.0),
     'REPORTER':  ('am_eric', 1.02, 'broadcast', 0.0),
@@ -56,6 +56,10 @@ VOICES = {
     'MYRIAD':    ('am_echo', 0.90, 'alien_hive', 0.0),
     'PRESIDENT': ('am_adam', 0.93, 'dialog', 0.0),
     'FENWICK':   ('bm_fable', 0.99, 'dialog', 0.0),
+    'IMOGEN':    ('bf_lily', 0.95, 'dialog', 0.0),
+    'TAN':       ('af_river*0.5+af_sky*0.5', 1.0, 'dialog', 0.0),
+    'ELLERY':    ('bm_daniel*0.5+bm_george*0.5', 0.84, 'dialog', 0.0),
+    'DORSEY':    ('am_eric*0.5+am_onyx*0.5', 0.88, 'dialog', 0.0),
 }
 
 HINT_SPEED = {'phone': 1.0, 'slow': 0.9, 'fast': 1.08, 'soft': 0.95, 'whisper': 0.93, 'shout': 1.04, 'cold': 0.95}
@@ -85,6 +89,19 @@ def kokoro():
 def _n(txt):
     v = float(txt.replace(',', ''))
     return num2words(int(v)) if v == int(v) else num2words(v)
+
+
+def style(spec):
+    """'am_michael' or a blend such as 'bm_daniel*0.5+bm_george*0.5'."""
+    if '+' not in spec and '*' not in spec:
+        return spec
+    k = kokoro()
+    total = None
+    for part in spec.split('+'):
+        name, w = (part.split('*') + ['1'])[:2]
+        v = k.get_voice_style(name.strip()) * float(w)
+        total = v if total is None else total + v
+    return total
 
 
 def normalize_text(text):
@@ -191,7 +208,7 @@ def synth(speaker, text, hint=''):
     if os.path.exists(path):
         return path
     lang = 'en-gb' if voice.startswith('b') else 'en-us'
-    audio, sr = kokoro().create(spoken, voice=voice, speed=speed, lang=lang, sentence_pause=0.32, clause_pause=0.12)
+    audio, sr = kokoro().create(spoken, voice=style(voice), speed=speed, lang=lang, sentence_pause=0.32, clause_pause=0.12)
     audio = signal.resample_poly(audio.astype(np.float32), SR // sr, 1) if SR % sr == 0 else signal.resample(audio, int(len(audio) * SR / sr))
     x = np.stack([audio, audio]).astype(np.float32)
     if hint == 'phone':

@@ -1,0 +1,147 @@
+# 14 | The Story Can Smell You Back
+
+[music] m_rain_piano -8
+[amb] amb_night_city
+[img] {HANNAH} in a small cluttered apartment at night, laptop open, a cat on the desk, corkboard covered in clippings about Umbrella, rain on the window, cinematic
+[loc] Wilmington — July 2028
+N: The magazine said yes in July.
+N: It was one of the three or four national magazines left in America that still paid for long stories — twelve thousand words, six months of reporting, a cover if it was good enough. They had read her pitch, and her Verdant Axis series, and her notes on the eleven seconds, and they had called her the same afternoon.
+N: Hannah Price quit the Wilmington Ledger the following Monday. The newsroom, which by then had nine people in it, gave her a sheet cake with a pair of black sunglasses drawn on it in icing. She ate one piece, and threw the sunglasses in the bin, and did not know why that made her so uneasy.
+[pause 1.5]
+
+[music] m_tension -10
+[amb] amb_night_city
+[img] a lonely church parking lot at night, one dim streetlight, an older man in a grey coat sitting in a parked sedan with a cheap flip phone to his ear, cinematic
+[loc] St. Anthony's parking lot — 11:40 p.m.
+N: The first call came two weeks later, at twenty to midnight, from a number she did not recognise.
+[sfx] sfx_phone_buzz g-6
+LESSING: (phone) Is this Hannah Price?
+HANNAH: Who's asking?
+LESSING: (phone) Someone who reads your work. I'm calling from a phone I bought with cash at a gas station in Newark. I'm going to throw it in the river when I'm done. Don't try to call it back.
+[pause 0.8]
+N: She knew his voice. She did not know how she knew it — she had never spoken to him — but it was the voice of an educated man in his late fifties, precise, frightened, and trying very hard to sound as though he was not. She had heard a great many voices like it on a great many late-night calls. They were the voices of people who had worked somewhere for a long time, and seen something, and been unable to stop thinking about it.
+HANNAH: I'm listening.
+LESSING: (phone) You're writing about him. The profile. Everybody knows. He knows.
+HANNAH: That isn't a secret.
+LESSING: (phone) No. Nothing is, with him. That's what I want to tell you. Whatever you think you're seeing, he's already seen you seeing it.
+[pause 1.0]
+HANNAH: What do you want to tell me?
+[pause 1.5]
+[img] {LESSING} in a dark car in a church parking lot, gripping a flip phone, glancing at the rearview mirror, sweat on his face, cinematic
+LESSING: (phone) Ask him about Control Seven.
+HANNAH: What's Control Seven?
+LESSING: (phone) Ask him. Watch his face when you ask. And then — then ask yourself why a man who wants the whole world to watch him never, ever lets anyone see his eyes.
+[sfx] sfx_radio_static g-8
+N: The line went dead.
+N: In the parking lot of St. Anthony's church, Howard Lessing sat for a long time with the phone in his lap, shaking. Then he drove to the river, and threw it in, as he had promised. He drove home the long way, under the speed limit, checking his mirrors every few seconds, and when he got home he sat in his car in the garage for twenty minutes before he could bring himself to go inside.
+[pause 1.0]
+N: It had been nearly two years since the night in lab two. The fear had not gone away. It had simply, very slowly, begun to decay — the way the Adolf half of the mind had predicted it would — and in the space it left behind, something older had begun to grow back. Not courage, exactly. Something closer to spite.
+N: He had been careful. He had used cash. He had driven to a church in a parish he did not belong to, in another county, and he had left his own phone at home in a drawer.
+N: For the first time since Albert Wesker had arrived in the world, somebody had done something that Hale did not see.
+[pause 1.5]
+
+[music] m_scheme -10
+[amb] amb_wind -10
+[img] a small white clapboard church in rural Pennsylvania on a bright day, a man in his sixties in a cardigan standing outside the door with a Bible, wary expression, {HANNAH} approaching, cinematic
+[loc] Lancaster County, Pennsylvania
+N: She found the second thread herself.
+N: It had taken her four months, working backward from a line in a court filing that nobody else had read — a bill from a private investigation firm, submitted by Graham Tolliver's lawyers in the Chancery case and then quietly withdrawn. Two retired Wilmington police officers. One was now in Arizona, and hung up the moment he heard the word Umbrella. The other was a deacon at a small church in Lancaster County, and he did not hang up, because he was a Christian, and he did not believe in being rude to women on his doorstep.
+[img] close-up of an older man's weathered face, eyes haunted, looking past the camera, the shadow of a church steeple behind him, cinematic
+DORSEY: I won't talk about it, miss. I'm sorry you came all this way.
+HANNAH: I'm not asking you to talk about it, Mister Dorsey. I'm only asking you one thing. What did you see in the basement?
+[pause 1.2]
+N: He did not answer for a long time. A car went by on the road, and a dog barked somewhere.
+DORSEY: (soft) There were two men. They didn't blink. The whole time. I was a cop for twenty-six years, miss, and I've seen men on every drug there is, and I've never seen a man who didn't blink.
+HANNAH: And?
+DORSEY: (soft) And there was a machine in the corner. A big grey thing, like an air conditioner. And it breathed.
+[pause 1.0]
+DORSEY: (whisper) It breathed, miss. Like something asleep. And there was a window in it. And something in there opened its eye.
+[pause 1.5]
+N: He went inside and closed the door. She stood on the step for a while, in the sunshine, with her notebook open and nothing written in it.
+N: On the drive home she told herself that he was a traumatised man, and that trauma distorts memory, and that a compressor cycle can sound like breathing if you are frightened enough in the dark. All of which was true. None of which helped.
+[pause 1.5]
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] {TOMAS} warmly greeting {HANNAH} in the gleaming Umbrella tower lobby with a visitor badge, living wall behind them, bright, welcoming, cinematic
+[loc] Umbrella tower — October 2028
+N: The Director's invitation came through Tomás, in October.
+N: Full access. That was the offer. Six weeks. Any floor of the tower, any meeting she wanted to sit in on, any employee she wanted to interview, and six hours of the Director's time in person, spread across the six weeks, on the record.
+N: She knew exactly what it was. It was the clean face — every floor he wanted her to see, every person he wanted her to meet. She knew that the access was the cage. She took it anyway, because access is also a door, and she intended to walk through it and keep walking.
+[img] {HANNAH} walking with {TOMAS} through a bright modern laboratory floor, scientists at benches, a sign for the ASSAY PROGRAMME on the wall, cinematic
+N: She saw everything they showed her. She saw the assay programme on the ninth floor, where the second-generation device — smaller, faster, forty-six pathogens now instead of forty — was being prepared for launch. She saw the Aeterna trial ward, and met Arthur Kowalczyk, eighty years old now, who shook her hand with a grip that hurt and told her he was learning to ride a motorcycle.
+N: She saw Evelyn Marsh, who gave her forty minutes and said nothing at all, beautifully.
+N: She saw Catherine Adeyemi, who gave her an hour and said a great deal, all of it on the record, all of it true, all of it about money.
+[pause 1.0]
+[img] {HANNAH} taking a photo on her phone of a man in a black suit in a corridor, the phone screen showing the man's face strangely blurred and smeared, her puzzled expression, cinematic
+[sfx] sfx_camera_shutter
+N: And she saw the men in black.
+N: She tried to photograph one of them, on the third day, in a corridor on the eleventh floor — a tall man with short hair standing outside the Director's office. She took four pictures. In all four, his face was smeared, as if he had moved, although she had been watching him and he had not moved at all.
+N: She showed Tomás. Tomás laughed and said the building had a lot of glass and the light was weird. He said it too quickly. She wrote down that he had said it too quickly.
+[pause 1.5]
+
+[music] m_rain_piano -10
+[amb] amb_night_city
+[img] an elegant quiet restaurant at night, candlelight, dark wood, a private corner table where {WESKER} and {HANNAH} sit across from each other, rain on tall windows, cinematic
+[loc] The last interview — a restaurant in Philadelphia
+N: The last of the six hours was a dinner.
+N: He chose the restaurant — a quiet place in Philadelphia with dark wood and a private room — and he ordered for both of them again, and again it was what she would have ordered, and this time she said so.
+HANNAH: You do that on purpose.
+WESKER: I do everything on purpose. It's a character flaw.
+HANNAH: How do you know what I'd order?
+WESKER: You told me. The way you read the menu. You looked at the fish twice and the steak once, and your eyes went back to the fish, and you have an espresso habit, so you won't want a heavy sauce. It isn't magic, Miss Price. It's attention.
+[pause 1.0]
+[img] close-up of {HANNAH} across a candlelit table, notebook closed beside her plate, studying him with sharp, careful eyes, cinematic
+N: The recorder was on the table between them. He had asked her to put it there.
+N: They talked for two hours. She asked him about Verdant, and about Aeterna, and about the eleven seconds, and he answered every question — calmly, fluently, charmingly, and without telling her a single thing she did not already know. She had interviewed senators who were worse at it. She had interviewed a cardinal who was worse at it.
+N: At the end of the second hour, over coffee, she did what the voice on the phone had told her to do.
+[pause 1.0]
+HANNAH: What's Control Seven?
+[pause 1.5]
+[music] stop
+[img] extreme close-up of {WESKER}'s face across a candlelit table, sunglasses on, utterly still, candle flame reflected in the lenses, cinematic
+N: He did not answer immediately. She was watching his face as closely as she had ever watched anything, exactly as she had been told to.
+N: She saw nothing. That was what she would write in her notes afterwards. Nothing at all. Not a flicker, not a pause in his breathing, not a movement of his hands. The face across the table did not change by so much as a millimetre.
+N: It was, she realised later, the most frightening thing she had ever seen. Because every human face changes when it is surprised. And his had not — which could only mean that he had not been surprised. Which could only mean that he had known the question was coming.
+[pause 1.5]
+[music] m_horror -12
+WESKER: It's a calibration sample. Howard Lessing ran it in the autumn of twenty twenty-six, and it broke an analyzer, and he's never forgiven me for being right about the reagents.
+[pause 0.8]
+N: He had said Howard Lessing's name. She had not.
+N: She understood, sitting in the candlelight with the rain on the tall windows, that he had just told her he knew exactly who had called her. And she understood, a second later, that he had wanted her to understand it.
+[pause 1.5]
+HANNAH: Who are you?
+N: It was not a journalist's question. It came out of her before she could stop it, in a different voice than the one she used for work.
+[pause 1.0]
+[img] {WESKER} leaning back in a candlelit restaurant, a faint smile, one gloved hand resting on the table near a coffee cup, rain on the windows behind him, cinematic
+WESKER: I'll tell you one true thing, Hannah. Just one. And then you can write whatever you like.
+[pause 0.8]
+WESKER: I was born in September twenty twenty-six. Everything before that is paperwork.
+[pause 1.5]
+N: She wrote it down. Of course she wrote it down. It was the best line in the whole profile, and she used it as the last line, and when the magazine came out, everybody who read it took it the way she had taken it at the table: as a metaphor. A self-made man's boast about reinvention. The kind of thing a charismatic chief executive says to a journalist over coffee, because he knows it will look good in print.
+N: It was the only completely true thing he told her in six weeks.
+[pause 1.5]
+
+[music] m_tension -8
+[amb] amb_night_city
+[img] {HANNAH} unlocking the door of her small apartment at night, stopping in the doorway, looking at her desk where a notebook sits slightly askew, her cat staring at her, eerie, cinematic
+[loc] Hannah's apartment — 1:20 a.m.
+N: She got home at twenty past one.
+N: The apartment was exactly as she had left it. The door had been locked. The window had been latched. The cat was on the bed. Nothing was missing.
+N: Her notebook was on her desk, where she had left it, beside the laptop.
+[img] extreme close-up of a spiral notebook on a desk, a faint rectangular dust outline showing it was moved one inch from its original position, lamp light, cinematic macro
+N: It was one inch to the left of where she had left it.
+N: She knew it was one inch because she had a habit, from her years on the courts beat, of squaring her notebook against the edge of the desk when she left it, and it was no longer square. It had been moved. Carefully, and not carefully enough. Or — she thought, standing in the doorway with her keys in her hand and her heart going very fast — exactly carefully enough.
+[pause 1.5]
+N: She did not call the police. There was nothing to report. A notebook, moved one inch.
+N: She sat up for the rest of the night at her kitchen table with the lights on and the cat in her lap, and she understood something that would stay with her for the rest of her career: that for two years she had been following a story, and for two years the story had been following her back. That it had smelled her the way she had smelled it. That it knew her rent, and her ex-boyfriend's name, and the fact that she squared her notebook against the edge of the desk.
+N: And that it had wanted her to know.
+[pause 1.5]
+[img] a magazine cover on a newsstand with a stark photo of a man in sunglasses and a single headline THE MAN WHO WAS BORN IN 2026, city street, cinematic
+[music] m_rain_piano -8
+N: The profile ran in January. It was twelve thousand words long. It was, everyone agreed, the best thing ever written about Albert Wesker. It was fair, and sharp, and beautifully written, and it said that he was the most charismatic chief executive in America, and that he was hiding something, and that she did not know what.
+N: It did not mention Control Seven. It did not mention a machine that breathed.
+N: She told her editor she did not have enough to stand it up. That was true.
+N: It was not the reason.
+[pause 3.0]
+[music] stop

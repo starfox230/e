@@ -1,0 +1,202 @@
+# 12 | The Black Interior
+
+[music] m_horror -12
+[amb] amb_basement
+[img] {EVELYN} and {WESKER} standing together inside an old freight elevator with a scissor gate, his gloved finger over an unlabeled black button, her face tense with anticipation, cinematic
+[loc] April 2028
+N: He took Evelyn Marsh down on the first of April, which she would later think was a joke, and which was not.
+N: She had asked him, in the week after the bell, what came next. She had asked it the way she asked everything now — quietly, directly, at an hour when nobody else was in the building. And he had looked at her for a long moment and said: come to the old building at midnight. Wear flat shoes.
+[sfx] sfx_elevator_descend
+[img] the inside of an old freight elevator descending, a numberless floor indicator, harsh bulb light, two figures, the gate rattling, cinematic
+N: The freight elevator went down past the basement. She felt it in her stomach first — the drop that went on too long — and then in her ears, which popped twice.
+EVELYN: How deep is this?
+WESKER: Deeper than the ground is.
+EVELYN: That isn't an answer.
+WESKER: It's the only accurate one.
+[pause 1.0]
+[amb] amb_lab
+[sfx] sfx_elevator_ding g-4
+[img] {EVELYN} stepping out of an elevator into a vast white underground laboratory corridor, glass walls, cold light, her face lit with overwhelming wonder, cinematic
+N: The doors opened onto white, and Evelyn Marsh stepped out of the elevator into the rest of her life.
+N: She did not say anything for a long time. She walked. She put her hand on the glass of the first laboratory, and then the second, and then she stopped in front of a rack of positive-pressure suits and touched the sleeve of one, the way you might touch the sleeve of a wedding dress.
+EVELYN: (soft) This is grade four.
+WESKER: Yes.
+EVELYN: There are six grade-four labs in this country outside the government. I've read the inspection reports for all of them. This isn't one of them.
+WESKER: No.
+EVELYN: Who built it?
+[pause 0.8]
+WESKER: I did.
+[pause 1.2]
+N: She did not ask how. That was the thing he would remember. Nadia would have asked how. Catherine would have asked how much. Evelyn simply accepted it, the way a person in a dream accepts that the house has more rooms than it did yesterday, and asked the only question she cared about.
+EVELYN: What's it for?
+[pause 1.5]
+
+[music] m_horror -6
+[amb+] amb_cryo -2
+[img] a cold room at the end of a white corridor, a huge frosted cryogenic cradle bolted to the floor, pipes and cables, a large viewing window, blue-white light, cinematic
+N: He showed her the cold room first.
+N: The grey machine had been stripped of its disguise when it came down. Gus had removed the ducting and the false panels and the service plate that said Arcturus Climate Systems, and what was left was what it had always been: a cryogenic cradle, eleven feet tall, frosted white, with a viewing window the size of a door.
+N: He touched a panel. The frost on the window cleared, from the centre outwards, like breath fading from a mirror.
+[sfx] sfx_cryo_hiss g-6
+[img] {EVELYN} standing close to a huge cryogenic viewing window, inside it a towering hairless grey-skinned humanoid giant asleep in pale mist, her hand raised toward the glass, awestruck, cinematic
+N: Inside, in a pale mist, suspended upright, a figure slept.
+N: It was nine feet tall. It was grey — the grey of wet stone, or a winter sky — and hairless, and its body was built along the lines of a man, but a man designed by someone who had found the original too fragile. Its shoulders were too wide. Its hands were too large. Its chest rose and fell once every six seconds, in time with the compressor, in time with the breath the building had been breathing for eighteen months. Its face was calm, and blank, and almost beautiful, the way a statue's face is beautiful, because nothing is behind it.
+[pause 1.5]
+N: Most people, the Director had calculated, would scream. Some would run. A few would simply faint.
+N: Evelyn Marsh stepped closer to the glass.
+EVELYN: (whisper) It's beautiful.
+[pause 1.0]
+N: Behind her, in the quiet of one skull, the Wesker half of the mind made a small note. And the Adolf half — for the first time since they had met her — looked at Evelyn Marsh with something like respect.
+ADOLF: That one is not afraid of the future.
+WESKER: No. She's in love with it. That's much more dangerous.
+[pause 1.2]
+EVELYN: What is it?
+WESKER: A Tyrant. Series T-zero-zero.
+EVELYN: A Tyrant. Is it — was it — a person?
+WESKER: It was never born. It was never anything but this.
+EVELYN: Then what is it for?
+[pause 0.8]
+WESKER: That depends on what we decide the world is for.
+[pause 1.5]
+
+[music] m_system -8
+[img] {WESKER} and {EVELYN} in a white lab at a modern microscope workstation, a large monitor showing crimson-glowing cells, both lit by the screen, cinematic
+N: Then he showed her the blood.
+N: He drew it himself, at a bench in the second laboratory, without a tourniquet, because his veins did not need one. He put a drop under a microscope that cost more than her parents' house, and put the image up on a screen the size of a door, and let her watch.
+[img] microscope image on a large screen of crimson glowing cells weaving tendrils, repairing and rewriting other cells, alien and beautiful, cinematic macro
+N: She watched for eleven minutes without speaking. She had spent her twenties studying viruses, and she knew within the first minute that she was looking at something no human laboratory had made. By the fifth minute she understood that it was not an infection — that the cells it moved through were not sick, but improved. By the tenth, she had worked out, with the terrible quickness that was the whole of her talent, where the blood had come from.
+EVELYN: This is Control Seven.
+WESKER: Yes.
+EVELYN: Howard's calibration sample. The one that broke the analyzer.
+WESKER: Yes.
+[pause 0.8]
+EVELYN: It's yours.
+[pause 1.0]
+[img] extreme close-up of {WESKER}'s face in cold lab light as he removes his sunglasses, eyes glowing amber-red with slit pupils, {EVELYN}'s reflection in the glass behind him, cinematic
+[sfx] sfx_impact g-14
+N: He took off his glasses.
+N: Howard Lessing had seen those eyes and been sick in a parking lot. Evelyn Marsh looked into them from two feet away, under the cold light of a laboratory that did not exist, and — the Cold-Read told him, with total clarity — felt no fear at all.
+N: What she felt was vindication. The overwhelming, trembling vindication of a young woman who had always believed, with no evidence, that the world was stranger and larger and more magnificent than the people around her would admit, and who had just been shown that she was right.
+EVELYN: (soft) What are you?
+WESKER: The first one.
+EVELYN: The first what?
+WESKER: That's what you're going to find out.
+[pause 1.5]
+
+[music] m_sermon -12
+[img] {EVELYN} standing in the center of a vast white laboratory looking up, arms slightly open, as if in a cathedral, cold light falling on her, cinematic
+N: He gave her the Arklay sublevel that night.
+N: Not all of it — the cold room and its sleeper would remain his. But the laboratories, the equipment, the budget, and a programme with a name. He had chosen the name before she ever came down, from a sealed black card in the air that only he could see, and a word that the System had told him was not yet.
+WESKER: It's called the Progenitor Initiative. You'll run it. You'll report to me and to no one else. Not Catherine. Not the board. Not the FDA. Nobody.
+EVELYN: What's the work?
+WESKER: Understanding what's in my blood. And then — learning to make more of it. Safely.
+EVELYN: And the — the Tyrant?
+WESKER: Understanding what's in its blood, too.
+[pause 1.0]
+EVELYN: And if I say no?
+WESKER: Then you go back up in the elevator, and you run the assay programme for the rest of your life, and you're very successful and very well paid, and you never come down here again, and you spend every night of the rest of your life knowing that you could have.
+[pause 1.2]
+N: She did not say no. She had never been going to. He had known that since the night at the piano.
+N: But she took a long time to say yes, standing in the middle of the white corridor with her hands open at her sides, like a woman in a cathedral. And when she did, it did not sound like a person accepting a job.
+EVELYN: (whisper) Yes. Thank you. Yes.
+[pause 1.2]
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Personnel conversion — devotion: Evelyn Marsh
+Morale — fervent: 6,000
+[say] Personnel conversion. Devotion.
+[/system]
+[sfx] sfx_mouse_click
+[system] PURCHASE CONFIRMED
+Personnel: Research Associate (Loyal) x4
+Assignment: Arklay
+Points: 65,100
+[say] Purchase confirmed. Four research associates.
+[/system]
+[pause 1.5]
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] {NADIA} in a busy shipping and receiving office at the tower's loading dock, reading a printed shipping manifest with a frown, forklifts and crates in the background, cinematic
+[loc] May 2028
+N: Nadia Okafor saw the manifest by accident, in May.
+N: She had gone down to the tower's loading dock to chase a delayed shipment of reagents, and the clerk, a young man called Deshawn who liked her because she always said thank you, had handed her the wrong clipboard. It was a manifest from a logistics company in Singapore called Ashford Pacific, for a delivery to an Umbrella subsidiary in Nevada called Arklay Holdings.
+N: The cargo was listed as laboratory animals, rhesus macaques, twenty-four.
+N: The delivery address was the old building on the south bank. Sublevel A.
+[pause 1.0]
+[img] close-up of a shipping manifest with a highlighted line reading DELIVER TO SUBLEVEL A and a cargo line reading RHESUS MACAQUE x24, macro, cinematic
+N: There was no sublevel A. She had been in that building for six years. She knew every room in it. There was a loading dock, a basement, and four floors.
+N: And there was no licensed primate facility anywhere in Umbrella Life Sciences. She knew that, too, because she was the director of virology, and she would have had to sign for one.
+[pause 0.8]
+[sfx] sfx_camera_shutter g-6
+N: She gave the clipboard back to Deshawn, and thanked him, and went back upstairs. But before she did, she took out her phone, and — with her heart going faster than she liked — photographed the manifest.
+N: She did not know why. She told herself she would ask about it. She never did. She kept the photograph in a folder on her phone called Recipes, where no one would ever look.
+[pause 1.5]
+
+[music] m_scheme -8
+[img] {CATHERINE} at a glass desk late at night with three screens showing tangled corporate structure charts, arrows between Ireland, Singapore and Nevada, a highlighted total, cinematic
+N: Catherine Adeyemi found the money in June.
+N: She found it the way good auditors find things — not by looking for fraud, but by looking for symmetry, and noticing where it was missing. The Arklay vault had cost eleven million dollars. She had seen it. She had stood in it. But in the spring, Umbrella's Irish subsidiary had licensed intellectual property to Ashford Pacific in Singapore for a fee, and Ashford Pacific had paid a Nevada company for facility services, and the Nevada company had spent, over fourteen months, a hundred and forty million dollars on something that had generated no construction invoices, no building permits, no property taxes, and no depreciation.
+N: A hundred and forty million dollars had gone into the ground, and nothing had come out.
+[pause 1.0]
+[img] {CATHERINE} walking fast down a dim corridor at night toward a lit glass corner office, jaw set, a folder in her hand, cinematic
+[sfx] sfx_footsteps_approach g-8
+N: She went to his office at ten o'clock at night. He was there. He was always there.
+[img] {CATHERINE} standing across a desk from {WESKER} in a glass office at night, city lights behind, a folder open between them, confrontational, cinematic
+CATHERINE: I asked you for one thing that mattered. I asked you to tell me where the money goes. You looked me in the eye and you took me down to a freezer.
+WESKER: The freezer is real.
+CATHERINE: The freezer cost eleven million. You've spent a hundred and forty. Through three countries. On nothing. I want to know what the nothing is, Albert, and I want to know it now, or I'm walking out of that door and taking my equity with me and I'm going to be very, very interesting to the Securities and Exchange Commission.
+[pause 1.2]
+N: He looked at her for a long time.
+N: The Cold-Read showed him everything, and it was not what he had expected. She was angry, and she was frightened — but beneath the anger, beneath the fear, there was something else. It was not a desire to leave. It was a desire to be told a reason to stay.
+N: So he gave her one. He gave her, precisely, one third of the truth.
+[pause 0.8]
+WESKER: There is a secure research facility. It's under the old building. It's better equipped than anything the government has, and it's working on things that would terrify the FDA and — one day — save more lives than Aeterna ever will. It isn't on any drawing because the people who draw buildings can't be trusted with what's in this one. It's legal in exactly the way that the Manhattan Project was legal.
+CATHERINE: The Manhattan Project was run by a government.
+WESKER: Yes. And look how carefully they spent the money.
+[pause 1.0]
+CATHERINE: Is anyone being hurt?
+WESKER: No.
+[pause 0.8]
+N: That was true, on the tenth of June, twenty twenty-eight. He was careful to notice that it was true, and to say it in a way that made it feel permanent.
+[pause 1.0]
+CATHERINE: If you lie to me again, I'll know.
+WESKER: You'll know I'm lying. You won't always know which part.
+CATHERINE: Is that supposed to reassure me?
+WESKER: It's supposed to be honest. You asked me for that, too.
+[pause 1.5]
+[img] {CATHERINE} standing alone at the window of her own glass office late at night, arms folded, looking at her reflection over the dark river, conflicted, cinematic
+N: She stayed.
+N: She would tell herself, for years, that she stayed because of the equity, which was by then worth two hundred million dollars. She would tell herself she stayed to keep an eye on him — that someone sane should be in the room. She would tell herself a great many things.
+N: The truth, which she only admitted to herself much later, on a very bad night, was simpler. She stayed because it was the most interesting thing that had ever happened to her. Because he was winning, and she had spent her whole career watching men like him win, and she had wanted, just once, to be on the side that did.
+N: That is how it happens. Not with a signature in blood. With a sensible woman, alone in a glass office at midnight, deciding not to ask the next question.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_night_city
+[img] {WESKER} driving at night, face in shadow, the reflection of city lights on his sunglasses, cinematic
+ADOLF: Replace her.
+WESKER: No.
+ADOLF: Buy a second Pell. A comptroller who cannot ask questions. A woman who asks where the money goes will one day ask where the bodies are.
+WESKER: There are no bodies.
+[pause 1.0]
+ADOLF: (slow) Yet.
+[pause 1.5]
+N: Wesker did not answer that. He drove. And for the first time, the silence in the car was not the silence of a man who had won the argument.
+[pause 1.5]
+
+[music] m_rain_piano -8
+[amb] amb_lab
+[amb+] amb_cryo -6
+[img] {EVELYN} alone at 3 a.m. in a white underground cold room sitting on the floor in front of a huge frosted viewing window, her palm flat against the glass, a giant grey shape asleep inside, cinematic
+[loc] Arklay — 3:00 a.m.
+N: That night, in the cold room at the end of the white corridor, Evelyn Marsh sat on the floor in front of the viewing window with her knees drawn up, and talked to the Tyrant.
+N: Nobody heard what she said. The four research associates the Director had bought for her that evening worked on in the laboratories without looking up. They did not get tired, and they did not go home, and they did not find it strange that their new director was sitting on the floor of the cold room at three in the morning, speaking softly to the glass.
+N: After a while she stopped talking. She put her palm flat against the window, exactly the way the Director had done in the basement, eighteen months before.
+[img] extreme close-up of a small human hand pressed flat against frosted glass, and behind the glass, very faintly, the huge grey fingers of a sleeping giant twitching, cinematic
+[sfx] sfx_cryo_hiss g-10
+N: Inside, in the pale mist, the sleeping thing did not open its eyes.
+N: But its hand, hanging at its side — its enormous grey hand — moved. Just once. The fingers curled, and uncurled, the way a sleeping child's hand closes around nothing.
+N: Evelyn Marsh saw it. She did not tell anyone. She sat there until the sun came up, a hundred feet above her, over a river she could no longer see, and she smiled.
+[pause 3.0]
+[music] stop

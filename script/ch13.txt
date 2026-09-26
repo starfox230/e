@@ -1,0 +1,173 @@
+# 13 | The Recruiter
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] {WESKER} at a long table spread with dossiers and photographs of scientists from around the world, pins on a world map behind him, lamp light, cinematic
+[loc] Spring 2028
+N: In the spring of twenty twenty-eight, Umbrella Life Sciences had three point two billion dollars in the bank, a drug the whole world wanted, and a problem that money alone could not solve.
+N: It did not have enough people who were better than everyone else.
+N: So Albert Wesker went and got them.
+[pause 0.8]
+[img] a private jet on a rain-swept tarmac at night with its stairs down, a single figure in a long black coat walking toward it, cinematic
+N: He had a list. Pell had built it — forty names, drawn from every university and laboratory on Earth that did the kinds of work Umbrella would need over the next ten years. Structural biology. Medicinal chemistry. Protein design. Immunology. Neuroscience. Forty people who were, by the measure of their peers, the best in the world at one thing.
+N: He met twenty-six of them himself. He recruited twenty-two. He did it in fourteen weeks, on four continents, and he used, depending on the person, one of three tools. Money. Flattery. And the third one.
+[pause 1.5]
+
+[music] m_scheme -8
+[img] an ancient Oxford college quadrangle in summer, golden stone, a woman professor with grey hair walking with {WESKER} along a cloister, cinematic
+[loc] Oxford
+N: At Oxford, it was flattery.
+N: Professor Imogen Carter had spent thirty years mapping the shapes of proteins, and had been passed over twice for the prize she deserved, both times in favour of men. He walked with her around a fifteenth-century cloister for an hour, and did not once mention salary. He talked about her second paper — not her famous one, the second — and about an error in its fourth figure that nobody else had ever noticed, including the reviewers, and including, until that afternoon, Imogen Carter.
+IMOGEN: (cold) You came here to tell me I made a mistake in nineteen ninety-six?
+WESKER: I came here to tell you that I've read everything you've ever written closely enough to find it. Nobody else ever has. Not the committee. Not your department. Me.
+[pause 0.8]
+N: She came to Wilmington in September. She never did work out whether he had meant it as a compliment.
+[pause 1.2]
+
+[img] a gleaming modern chemistry building on the Rhine in Basel, a young chemist in a hoodie arguing at a whiteboard, {WESKER} watching in the doorway, cinematic
+[loc] Basel
+N: In Basel, it was money.
+N: Doctor Lukas Ammann was thirty-four, brilliant, arrogant, and deeply in debt from a divorce and a start-up that had failed. He negotiated for two days. He was good at it. On the third morning, Wesker slid a single sheet of paper across the table with a number on it, and Lukas Ammann stopped negotiating, and looked at the number for a long time, and then laughed — a short, helpless laugh — and signed.
+[pause 1.2]
+
+[img] a gleaming research tower in Singapore at dusk, humid air, a young woman scientist with an intense stare meeting {WESKER} in a glass lobby, cinematic
+[loc] Singapore
+N: In Singapore, it was curiosity, which is a kind of flattery. Doctor Tan Wei Lin, twenty-nine, had designed a synthetic bacterium that could build a molecule nobody else could make, and had been told by her institute that it had no commercial application. He showed her one page of the Arklay budget. She asked three questions. He answered one. She followed him to Delaware for the other two.
+[pause 1.2]
+
+[music] m_horror -12
+[img] a gracious old house on a Scottish estate in grey rain, an elderly distinguished man in a cardigan sitting in a leather armchair by a window, a cane beside him, cinematic
+[loc] Perthshire, Scotland
+N: And in Scotland, it was the third tool.
+N: Sir Martin Ellery was seventy-one years old, a Nobel laureate in medicine, a member of every learned society worth belonging to, and the most famous immunologist alive. He had been approached by every biotech company on Earth. He had turned them all down. In March, a week after the bell in Times Square, he received Albert Wesker in the library of his house in Perthshire, gave him a cup of tea and fifteen minutes, and said no.
+[img] {WESKER} standing at the rain-streaked window of an old Scottish library, looking back at the seated elderly scientist, faint concern in his reading, cinematic
+N: He said no very politely. He said he was too old, and too tired, and too comfortable. He said that he had had a long career and a good one, and that he intended to spend what remained of it walking his dogs and reading Trollope.
+N: The Director thanked him, and finished his tea, and left.
+N: But on the way to the door, he had watched Sir Martin reach for his cup, and watched his right hand — the Cold-Read noting it with total precision — hesitate, and correct, and hesitate again. A tremor too fine for anyone else to see. A tiny weakness in the grip. A faint thickening in the speech, on the letter L.
+[pause 1.0]
+N: He did not say anything. He went back to his car and made a telephone call to a private neurologist in Edinburgh, and arranged, through a foundation Pell had established that morning, for Sir Martin Ellery to be offered a routine check-up as part of a study of distinguished scientists.
+N: In April, the neurologist gave Sir Martin his diagnosis. Motor neurone disease. Eighteen months, perhaps two years.
+N: In May, Sir Martin called Wilmington.
+[pause 1.0]
+[img] the elderly scientist on a phone in his dim library, looking out at the rain, his hand trembling around the receiver, cinematic
+ELLERY: (phone) Doctor Wesker. I believe I may have been hasty.
+WESKER: I don't believe you were ever hasty in your life, Sir Martin.
+ELLERY: (phone) No. I suppose I've simply become frightened. Is it true — the things they say about your compound?
+WESKER: Come to Delaware. I'll show you what's true.
+[pause 1.5]
+N: It is important to be precise about what happened here, because Albert Wesker was always precise about it himself. He did not give Sir Martin Ellery a disease. He did not lie to him. He simply noticed it first, and arranged for the man to find out at the moment most useful to Umbrella, and then offered him the one thing no other company on Earth could.
+N: Time.
+ADOLF: (slow) That was well done.
+WESKER: It was a kindness.
+ADOLF: Yes. That is what made it well done.
+[pause 1.5]
+
+[music] m_system -6
+[amb] amb_office_hum
+[img] twelve identical figures in white lab coats standing in a perfect row in a white underground corridor, pleasant faces, eyes a little too still, cinematic
+N: The twenty-two humans came from outside. The twelve others came from the System.
+[system] PURCHASE CONFIRMED
+Personnel: Research Cohort (Loyal) x12
+Specialisations: assigned by Host
+Assignment: Arklay
+Cost: 12,000
+[say] Purchase confirmed. Research cohort.
+[/system]
+N: They arrived on the same Monday, in the same way that Pell had arrived, and Hale, and Gus — already hired, already credentialed, with degrees from real universities that had real records of them, and publication histories in real journals that nobody in the field had ever quite managed to read.
+N: They were very good. They were better than good. They were, as far as anyone could tell, exactly as good as the best person on Earth at whatever they had been assigned to do, and they could do it for twenty hours a day without making a mistake.
+[img] a summoned scientist in a white lab coat working at a bench at 4 a.m. with perfect posture, the rest of the lab dark and empty, his face lit by a monitor, uncanny, cinematic
+N: They did not go home. That was the first thing the humans noticed.
+N: Tan Wei Lin noticed it in her second week, when she came in at five in the morning to check a culture and found three of them at the same benches they had been at when she left at midnight, in the same positions, as though they had not moved.
+N: The second thing the humans noticed was that none of them had ever been to a conference.
+[img] {EVELYN} and a young Asian woman scientist talking quietly in a white lab corridor, the young woman looking back over her shoulder at a row of perfectly still colleagues, uneasy, cinematic
+TAN: Where did your team train, Evelyn? I've looked them up. They have papers, but I can't find anyone who's ever met them. Not one talk. Not one poster. Not one person who went to school with them.
+EVELYN: They're private sector.
+TAN: Private sector people go to conferences.
+EVELYN: (cold) These ones don't need to.
+[pause 1.0]
+N: Tan Wei Lin let it go. She had been given a laboratory, a budget with no ceiling, and a problem that nobody else on Earth was working on. She was twenty-nine, and she told herself it did not matter who her colleagues were, as long as the work was real.
+N: This is also how it happens.
+[pause 1.5]
+ADOLF: They are perfect. A civil service that cannot be corrupted.
+WESKER: They're the first employees in history who can't be poached. That's all I need them to be.
+ADOLF: You understate everything.
+WESKER: You overstate everything. Between us, we're roughly accurate.
+[pause 1.5]
+
+[music] m_system -2
+[amb] stop
+[img] {WESKER} alone in the cabin of a private jet at night high above an ocean, a spinning wheel of glowing cards in the air before him, clouds lit by moonlight outside, cinematic
+[loc] 41,000 feet — over the Atlantic
+N: He did the draw on the jet, over the Atlantic, at night.
+N: The jet was Catherine's doing. She had bought it in April, arguing that a chief executive who spent a third of his life in airports was a poor use of a three-billion-dollar balance sheet.
+[system] DRAW
+Standard pool — ten draws
+Cost: 9,000 Points
+[say] Ten draws.
+[/system]
+[sfx] sfx_gacha_spin
+[pause 3.2]
+[sfx] sfx_gacha_rare
+[system] RESULTS
+Common — Pens, branded (x5,000)
+Common — Immunity: jet lag
+Rare — Personnel: executive assistant (Loyal)
+Rare — Blueprint: assay, second generation
+Rare — Linguistics: German, French, Mandarin, fluent
+[say] Results.
+[/system]
+WESKER: Jet lag.
+ADOLF: Fate is mocking you.
+WESKER: Fate has just made me the only chief executive in the world who can land in Singapore and hold a board meeting. It isn't mocking me. It's being practical.
+[pause 0.6]
+[sfx] sfx_riser
+[pause 1.5]
+[sfx] sfx_gacha_gold
+[img] a burst of violet and gold light inside a dark jet cabin, a card showing a human head with glowing lines radiating like a clock, time frozen, cinematic
+[system] RESULT — EPIC
+Ability: Thought Acceleration I
+Subjective time may be dilated at will.
+Ratio: up to 60 to 1.
+[say] Epic. Thought acceleration.
+[/system]
+[pause 1.5]
+N: He tried it immediately. It would have been out of character not to.
+[music] stop
+[amb] stop
+[img] a single raindrop frozen mid-air on the outside of a jet window at night, moonlit clouds below, time stopped, macro, cinematic
+[sfx] sfx_heartbeat_slow g-10
+N: There was a raindrop on the window of the jet. It had been running backward along the glass, driven by the wind at five hundred miles an hour.
+N: It stopped.
+N: Not really, of course. It was still moving. But inside his skull, a single second had been stretched out into a minute, and the raindrop was crawling across the glass so slowly that he could see the light of the moon inside it, bending, and the tiny tremor in its surface where the air was tearing at it, and the path it was going to take across the window before it reached the edge and vanished.
+N: He watched it for what felt like a minute. He thought about the recruitment list, and the Arklay budget, and a woman in Manhattan who knew he was lying and did not know which part. He thought about a sealed black card that said not yet. He thought, very clearly, through six separate ways the next two years could go, and chose one.
+N: Then he let go.
+[pause 0.8]
+[music] m_system -6
+[amb] amb_ship_hum -10
+N: The raindrop streaked across the glass and was gone. On the other side of the cabin, his new executive assistant — who had appeared in the rear seat of the jet at the moment of the draw, already dressed, already holding a tablet with his schedule on it — looked up and asked whether he would like a coffee.
+N: He said yes. It had been, subjectively, a very long second.
+[pause 1.5]
+ADOLF: (soft) Do you understand what this is?
+WESKER: A useful tool.
+ADOLF: It is time. It is the only thing I never had enough of. In the last year I needed a day for every hour, and I had nothing. And you have been given the one thing that every man who ever ruled anything has begged God for.
+WESKER: (cold) You didn't lose for lack of time. You lost for lack of judgment.
+ADOLF: (slow) And now we have both.
+[pause 1.5]
+
+[music] m_horror -10
+[amb] amb_lab
+[amb+] amb_cryo -6
+[img] an elderly distinguished man leaning on a cane standing before a huge cryogenic viewing window in a cold white room, a giant grey figure asleep inside, his face a mix of horror and fascination, cinematic
+[loc] Arklay — June 2028
+N: Sir Martin Ellery arrived in Wilmington in June, with his dogs, and a cane he did not want, and a tremor in his right hand that was no longer quite so small.
+N: On his third day, the Director took him down.
+N: He walked the white corridor slowly, on the cane, looking into every laboratory the way a man looks into the windows of a house he used to live in. He did not speak until they reached the cold room. And then he stood in front of the viewing window for a long time, looking at the thing that slept inside, and his old face went through a number of expressions that the Cold-Read had to work quite hard to name.
+[pause 1.0]
+ELLERY: (soft) Dear God.
+N: That was the first thing he said.
+[pause 1.5]
+N: He looked at it for another minute. He looked at the four research associates in the laboratory behind him, who did not look up. He looked at Evelyn Marsh, standing at the edge of the room with her hands clasped in front of her like a girl at a recital. And he looked at the man in the black coat beside him, who was offering him time.
+[pause 1.0]
+ELLERY: When do I start?
+[pause 3.0]
+[music] stop

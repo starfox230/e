@@ -254,3 +254,45 @@ Legend: ◆ System event · ▲ threshold (split-personality spike) · ✎ side-
 - The building in Wilmington, preserved.
 - The final bridge. One will. The stars learn what a banner is.
 - Last line and final image.
+
+---
+
+## REVISION (after Movement II): 49 chapters
+
+Chapters are landing at ~2,100 spoken words (~14.5 min), so five chapters are added to reach ~11h45m. Revised numbering from Movement III:
+
+| # | Title | Notes |
+|---|---|---|
+| 17 | Special Agent Carrick | as planned |
+| 18 | Chain of Custody | as planned |
+| 19 | The Ghost Video | ▲ first killing that cannot be hidden; Lessing dies |
+| 20 | Frame 1,114 | **new** — Carrick's obsession; the "too clean" Swiss past; Delgado's 2026 report; Carrick meets Hannah |
+| 21 | The Hunt | Sloane; investigators turned into scandals; Memory Palace, Multilingual (already partly from gacha) |
+| 22 | T-00 | ▲ Tyrant used on humans (Nevada) |
+| 23 | Foreign Eyes | MI6/BND/DGSE/MSS/FSB; Ashcombe's card to Catherine |
+| 24 | Carrick Breaks | as planned |
+| 25 | The Asset | end of Movement III |
+| 26 | Halvorsen Pike | the war begins (paid for the break-in) |
+| 27 | Chancery | **new** — the court and the proxy fight; Boardroom Gravity at full strength |
+| 28 | Aegis | Wyatt "vanishes" |
+| 29 | Lumen | Crane's model; Thought Acceleration II |
+| 30 | Tianhe | Wen meets Wesker |
+| 31 | The Market Tilts | Walter's funeral; Walter's notebook; Catherine turns informant |
+| 32 | Sixty Thousand | ▲ first crowd chants; end of Movement IV |
+| 33 | Pale Horse | Evelyn's pandemic |
+| 34 | Arklay Free Territory | ocean arcology |
+| 35 | The Believers | **new** — life inside the Territory; fanaticism as an engine; Catherine sees the eyes; Tomás hollow |
+| 36 | Basel | assassination attempt fails; Catherine kept |
+| 37 | Lantern | coalition; B.O.W.s on live TV |
+| 38 | The Quiet War | dependence as a weapon |
+| 39 | Washington | Carrick's end |
+| 40 | Beijing | **new** — Wen's bargain |
+| 41 | Moscow | Belov's missile; Aegis Lattice |
+| 42 | The Chant | Geneva 2046; unison; BEYOND tab; end of Movement V |
+| 43 | Dock One | orbital industry |
+| 44 | The Red Planet | **new** — Mars, the Belt, the first signal |
+| 45 | The Tollhouse | first contact |
+| 46 | The Hegemony | war with the Veth |
+| 47 | The Choir and the Myriad | Evelyn's end |
+| 48 | Peer or Plague | Catherine's death |
+| 49 | The Banner | finale |
