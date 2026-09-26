@@ -1,0 +1,135 @@
+# 39 | Washington
+
+[music] m_tension -10
+[amb] amb_office_hum
+[img] the White House seen from across the South Lawn on a grey winter morning, bare trees, a helicopter on the pad, cinematic
+[loc] Washington, D.C. — February 2046
+N: By the winter of twenty forty-six, the President of the United States had two problems, and they were the same problem.
+N: The first was that forty-one million Americans took a medicine that only one company made, and that ninety-one percent of them, in every poll her office ran, said they trusted that company more than they trusted their government. The second was that she had been elected, eighteen months before, on a promise to do something about it.
+N: She was sixty-three. She had been a governor, and a prosecutor before that, and she was nobody's fool, and she had spent her first year discovering, department by department, exactly how deep the roots had gone while everyone was arguing about something else.
+[pause 1.5]
+[img] a woman president in her sixties at the Resolute desk reading a thick classified briefing folder, alone, morning light, serious, cinematic
+N: In January, her national security adviser had given her a document that four people had read. It was an assessment of what would happen if the United States government attempted to seize Umbrella Life Sciences' domestic assets under emergency powers.
+N: The conclusion was on the first page, in one sentence: the United States does not possess the capacity to do this without causing the deaths of a number of its own citizens greater than any war it has fought since eighteen sixty-five.
+[pause 2.0]
+
+[music] m_scheme -8
+[img] {CARRICK} in his late fifties in a plain suit sitting in a White House waiting room, a worn folder on his knees, tense, cinematic
+N: Owen Carrick was fifty-eight when he finally got into the building.
+N: It had taken him sixteen years. He had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest, and then to a Norwegian heiress, and then to a task force that had been dismantled around him. And in February of twenty forty-six, a deputy national security adviser who had read every Lantern report and had a daughter on Aeterna asked him to come in on a Tuesday morning and tell the President of the United States what he thought was true.
+N: He had forty minutes. He had prepared for eleven days. He did not bring the jam jar; they would not let him through the gate with it.
+[img] {CARRICK} standing before a seated president in the Oval Office, gesturing at a folder on the table, two aides watching, tense, cinematic
+CARRICK: Ma'am, I'm going to say four things that sound insane, and then I'm going to give you the evidence for each one, and then you can throw me out.
+N: He said them. He was very clear, and very calm, and he had rehearsed it so many times that he did not stumble once.
+N: One: Albert Wesker was not a human being, in the ordinary sense. Two: he had been in possession of capabilities that no institution on Earth could account for since at least twenty twenty-six. Three: everything Umbrella had built — the medicines, the Foundation, the Territory, the frameworks of association — was not the goal, but the method. And four: he intended, and had always intended, to rule.
+[pause 1.5]
+PRESIDENT: Mister Carrick. Do you know what the worst part of this briefing is?
+CARRICK: Ma'am?
+PRESIDENT: (soft) That I already believe you.
+[pause 2.0]
+[img] the president standing at a window looking out over the South Lawn, her back to the room, folder in hand, cinematic
+PRESIDENT: I've had this conversation four times in fourteen months, with four different people, each of whom thought they were the first. The Bureau believes you. Half of Langley believes you. My science adviser believes you and can't say so, because the moment she does, she's a crank.
+PRESIDENT: And it doesn't matter.
+CARRICK: (soft) Why not?
+PRESIDENT: Because I asked the Joint Chiefs to give me options in January, and they gave me a page that says a hundred and twenty thousand Americans die in the first eleven weeks. Because forty-one million people would rather have their medicine than their sovereignty and I cannot say that out loud. Because he has never broken a law in this country that we can prove, and because he owns the only factory on Earth that makes eight things my citizens need to stay alive.
+[pause 1.5]
+PRESIDENT: You caught him, Mister Carrick. Sixteen years ago, on a dashcam, in a parking lot. You were right about all of it, and nobody believed you, and by the time we did, it was already too late to matter.
+[pause 2.0]
+N: Owen Carrick sat in the Oval Office and understood, at last, the thing that he had spent his whole adult life refusing to understand.
+N: He had always believed that the problem was that nobody knew. That if he could only get the evidence in front of the right person, the machinery of the world would turn, and something would be done.
+N: The machinery knew. It had known for years. It simply could not move.
+[pause 2.5]
+
+[music] m_horror -8
+[img] a long black car pulling up to a White House entrance in winter, a tall figure in a black coat getting out, no entourage, Secret Service watching, cinematic
+[loc] The same week
+N: The Director came to Washington eleven days later, at the President's invitation, and he came alone.
+N: That was a decision, and it was the whole meeting. He had a security force of nineteen thousand, a private air fleet, and a personal risk profile that four intelligence services had assessed as the highest of any individual alive. He arrived in one car, with a driver, and walked through the North Portico with his hands in his coat pockets, and let the Secret Service search him, and stood there while they did it.
+[img] {WESKER} seated across from a woman president in the Oval Office, two chairs by the fireplace, no aides, winter light, cinematic
+N: They met alone. No aides, no notetaker, no recording — which was itself unprecedented, and which her chief of staff argued against for two days, and lost.
+PRESIDENT: I'll be direct, Doctor Wesker. I've been advised that my government cannot compel you to do anything. I've also been advised that any attempt to try would kill a great many of my citizens. I don't enjoy being in that position.
+WESKER: No. I wouldn't either.
+PRESIDENT: So I'm going to ask you a question, and I'd like an honest answer, and I have nothing to trade for it. What do you want?
+[pause 2.0]
+[img] extreme close-up of {WESKER} in the Oval Office, sunglasses off, pale grey eyes, perfectly calm, firelight, cinematic
+N: He took off his sunglasses. He did that, in this world, perhaps four times a year, and every single time it was a decision.
+WESKER: I want the same thing you do, Madam President. I want it to work.
+PRESIDENT: Want what to work?
+WESKER: All of it. The species. You've been in office for eighteen months. You've seen the actual numbers — the water tables, the heat, the debt, the demographics, the four wars nobody can stop. You know what your grandchildren's century looks like on the current trajectory. Everyone in this building knows. And every one of you has worked out, privately, that your system cannot fix it, because your system is designed to produce a new set of temporary people every four years, each of whom is punished for doing anything that takes longer than that.
+[pause 1.0]
+WESKER: I am not a temporary person. That is the entire difference between us.
+[pause 1.5]
+PRESIDENT: And what does that make you?
+WESKER: Patient.
+[pause 2.0]
+N: She did not say anything for a while. The fire made the only noise in the room.
+PRESIDENT: (soft) My mother is eighty-nine. She's been on Aeterna for nine years. She gardens.
+WESKER: I know.
+PRESIDENT: Of course you do.
+[pause 1.0]
+PRESIDENT: When you take this country — and I've read enough to know that you intend to, and that you'll do it with frameworks and water systems and not with soldiers — how long do you think it takes?
+[pause 1.5]
+WESKER: If I am careless? Forty years. If I am not? You won't be able to point at the day it happened.
+[pause 2.0]
+PRESIDENT: (soft) That's the most honest thing anyone has said to me in this office.
+WESKER: It's the most honest thing anyone will say to you in this office. That's not a boast. It's the nature of the job.
+[pause 2.5]
+
+[music] m_sad -8
+[amb] amb_night_city
+[img] {CARRICK} in a small apartment at night, sitting at a kitchen table with a jam jar of flattened bullets in front of him, an old photograph of two daughters on the wall, cinematic
+[loc] Chester, Pennsylvania — the following week
+N: Owen Carrick went home and did not get out of the chair for two days.
+N: He was fifty-eight. He had been an FBI agent for seventeen years and a man who knew for sixteen. He had lost his badge, his pension, his marriage, and eleven years of two daughters' childhoods, which was the loss that actually mattered and which he had never once allowed himself to add up.
+N: Laura had remarried. She had told him about it kindly, on the phone, in twenty forty-one. His elder daughter was a doctor in Portland. She had taken Aeterna, as a precaution, at twenty-nine, because everyone in her hospital did.
+[pause 1.5]
+[img] close-up of a jam jar of fifteen flattened bullets on a kitchen table in dim light, a man's hands on either side of it, cinematic
+N: He looked at the jam jar for a long time.
+N: And he found — this is the part he never told anyone, not Haddad, not Halvorsen, not Hannah Price — that what he felt was not despair.
+N: It was relief.
+N: For sixteen years he had believed that he was the only thing standing between the world and Albert Wesker. It had been the worst kind of loneliness, and the most complete kind of purpose, and it had eaten his entire life. And in an office in Washington, a woman with a nuclear arsenal had told him: we know, we all know, and there is nothing to be done.
+N: He was not the only thing standing anymore. He was not standing at all. Nobody was.
+[pause 2.0]
+[img] {CARRICK} at dawn packing a small bag, the jam jar sitting on a shelf, morning light through a window, calm, cinematic
+N: On the third morning he got up, and showered, and packed a bag, and drove to Portland, Oregon, and knocked on his daughter's door on a Saturday morning without calling ahead.
+N: She let him in. It took eleven months before she stopped being angry with him and four years before they could talk about anything that mattered, and he had both. Aeterna had given him thirty more years, and he had started taking it in twenty forty-one, like everyone else, because everyone else did.
+N: That is how Owen Carrick's war ended. Not in a courtroom, or a desert, or a corridor under a brick building. In a kitchen in Portland, with a daughter who did not want to talk to him, and a jam jar left on a shelf in Pennsylvania.
+[pause 2.0]
+N: He lived a long time. He saw all of it. He saw the Accord, and the ships, and the things that came back from the dark with Umbrella's mark on them, and he told his grandchildren, when they were old enough, that he had once shot a man fifteen times and been handed back the bullets.
+N: They thought it was a story. He let them.
+[pause 3.0]
+
+[music] m_horror -10
+[amb] amb_office_hum
+[img] {WESKER} standing at a window of a dark aircraft cabin at night, the lights of Washington falling away below, reflective, cinematic
+N: On the flight back to Arklay, the Director sat in the dark and did not work.
+ADOLF: She capitulated.
+WESKER: She didn't. She surveyed the ground, found it indefensible, and told me so to my face. That isn't capitulation. That's the first competent thing any government has done about us in twenty years.
+ADOLF: (slow) You liked her.
+WESKER: I respected her. It's rarer.
+[pause 1.5]
+ADOLF: Do you remember what you said to me? In the car, in the rain, in the first week. You said: you lost because they saw you coming.
+WESKER: I remember.
+ADOLF: They see you coming. That woman sees you coming. The policeman saw you coming sixteen years ago, in four frames of a dashboard camera. The Chinese woman has seen you coming since she listened to your silences. They all see you coming.
+[pause 1.0]
+ADOLF: And they cannot do anything about it. Which means it was never about being seen at all.
+[pause 2.0]
+N: The Wesker half of the mind sat with that for a long time, over the dark Atlantic, at forty-one thousand feet.
+N: It was, he realised, the first thing the old voice had ever taught him that he had not already known.
+N: It had never been about being unseen. Hiding had only ever been a way of buying time. The thing that actually mattered — the thing he had been building for twenty years without ever quite saying it to himself — was to become necessary. And a necessary thing can stand in a cathedral square in broad daylight, in front of four hundred cameras, and brush the dust off its shoulder, and ask whether everyone is all right.
+[pause 1.5]
+WESKER: (soft) Huh.
+ADOLF: (soft) Yes.
+[pause 1.0]
+[sfx] sfx_system_chime
+[system] INTEGRATION
+Host coherence: 97%
+Divergence events (12 months): 0
+[say] Integration. Host coherence, ninety-seven percent.
+[/system]
+[pause 2.0]
+N: Zero.
+N: He looked at that number for a long time, in the dark, with the ocean going past underneath.
+N: In the first year there had been four hundred arguments. Last year there had been two. This year there had been none at all — and he had not noticed, which was the part that should have frightened him, and did not.
+[pause 3.0]
+[music] stop

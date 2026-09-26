@@ -54,7 +54,7 @@ VOICES = {
     'BROKER':    ('af_alloy', 0.98, 'alien_bright', 0.0),
     'CHOIR':     ('af_river', 0.90, 'alien_choir', 0.0),
     'MYRIAD':    ('am_echo', 0.90, 'alien_hive', 0.0),
-    'PRESIDENT': ('am_adam', 0.93, 'dialog', 0.0),
+    'PRESIDENT': ('af_heart*0.5+bf_emma*0.5', 0.93, 'dialog', 0.0),
     'FENWICK':   ('bm_fable', 0.99, 'dialog', 0.0),
     'IMOGEN':    ('bf_lily', 0.95, 'dialog', 0.0),
     'TAN':       ('af_river*0.5+af_sky*0.5', 1.0, 'dialog', 0.0),

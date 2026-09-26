@@ -1,0 +1,146 @@
+# 41 | The Chant
+
+[music] m_march -12
+[amb] amb_wind -10
+[img] the city of Geneva on the lake in early spring, the Palace of Nations, flags of many countries, crowds gathering, cinematic
+[loc] Geneva — 14 March 2047
+N: They called it the Accord, and the negotiation took four years, and the signing took nineteen minutes.
+N: It was not a surrender, and it was not a conquest, and every government that signed it went home able to explain to its own people why it had not lost anything. That was the whole design. The Director had spent four years making sure that every single signatory could tell a true story about why signing was good for them.
+[img] a vast hall inside the Palace of Nations with a long curved table, delegations from a hundred and forty countries, screens, cameras, cinematic
+N: The Global Framework Accord on Biosecurity, Longevity and Infrastructure was signed by a hundred and forty-one states. It established a joint authority — the Accord Council — with binding powers over the manufacture and distribution of a defined list of essential medicines, over pandemic response, over biosafety standards, and over a fund for water, power, and health infrastructure in any signatory state that requested it.
+N: The Council had thirty-one seats. Fourteen were held by states, rotating. Nine were held by regional blocs. Four were held by the World Health Organization and other international bodies. And four were held by Umbrella Life Sciences, which also, under Article Nine, served as the Council's sole executing agent, because it was the only body on Earth with the capacity to execute anything.
+[pause 1.5]
+N: Four seats out of thirty-one. That was the number in every newspaper. Every government could point at it.
+N: Article Nine was in the annexes.
+[pause 2.0]
+
+[music] m_scheme -10
+[img] {CATHERINE} at a desk in Geneva with the Accord text open to the annexes, a pencil in her hand, her face hollow, cinematic
+N: Catherine Adeyemi had drafted Article Nine. She was fifty-nine.
+N: She had argued against it for two years, in memos that were read and answered courteously and in full, and then she had drafted it, because she was the best in the world at that kind of drafting and because if she had not done it, one of the quiet ones would have, and it would have been worse.
+N: She had, by then, developed a private test. Before she signed anything, she asked herself: if I explain this, in plain language, to the woman I was in twenty twenty-seven, sitting in a hedge fund in Manhattan, would she understand it?
+N: Article Nine failed the test. She drafted it anyway. It was the eleventh thing that year to fail the test.
+[pause 2.0]
+
+[music] m_sermon -8
+[amb] amb_crowd_murmur -6
+[img] an enormous crowd filling a city square and the streets beyond, hundreds of thousands of people, screens showing a stage, spring evening, cinematic wide shot
+[loc] Geneva — the evening of the signing
+N: The crowd was not planned. That has been disputed for two centuries and it is true.
+N: Tomás Reyes's department had organised a public broadcast of the signing on screens in the Place des Nations, expecting perhaps twenty thousand people. By four in the afternoon there were two hundred thousand in the square and the streets around it, and by six there were four hundred thousand, and the city of Geneva had closed the bridges and given up.
+N: They had come from everywhere. A great many of them had come from the association territories, on buses and ferries, at their own expense. There were, by the estimate of the Swiss police, people from a hundred and nine countries in that square.
+[pause 1.5]
+[img] faces in an enormous evening crowd lit by screens, people of every nation, some crying, some holding children up, cinematic
+N: Why they came is the question that matters, and the answer is the least dramatic thing in this entire story.
+N: Most of them were not fanatics. Most of them had never said the Creed. They came because in twenty forty-seven the world had been frightening for a very long time, and because a single organisation had, in their own direct experience, vaccinated them, and rebuilt their hospital, and put their water back on, and made their grandmother walk — and because something was being signed in their city that felt, for the first time in their lives, like the adults had arrived.
+N: That is how it happens. Not with hatred. With relief.
+[pause 2.0]
+
+[music] stop
+[amb] amb_crowd_murmur -8
+[img] {WESKER} stepping out onto a floodlit balcony above an ocean of four hundred thousand people at dusk, alone, tiny against the crowd, cinematic
+N: He came out onto the balcony at seven.
+N: He had not been scheduled to speak. The programme had the Secretary-General, and the President of the Swiss Confederation, and then the anthem. But the crowd had begun, at about half past six, to make a noise that the people on the balcony could feel through the stone, and the Secretary-General of the United Nations — who was seventy-four, and who had spent his entire career in rooms exactly like the one behind him — looked out at four hundred thousand people and understood that if somebody did not go out onto that balcony, something would happen in Geneva that night.
+N: So he turned to the man in the black coat and said: they are calling for you.
+[pause 2.0]
+[sfx] sfx_crowd_cheer
+[pause 2.0]
+[img] a sea of four hundred thousand people roaring, arms raised, screens showing a man on a balcony, floodlights, dusk, overwhelming, cinematic
+N: The roar when he stepped out lasted four minutes.
+N: He stood at the rail and let it. He did not raise a hand. He did not smile. He stood perfectly still in the floodlights, and four hundred thousand people shouted themselves hoarse, and nineteen thousand kilometres of network carried it live to an audience that the measurement companies afterwards put at six point one billion — which is to say, everyone on Earth who was awake and had a screen.
+[pause 2.0]
+
+[music] m_sermon -6
+WESKER: Twenty-one years ago I sat in a chair in a building nobody had ever heard of, in a town nobody writes songs about, and I watched the rain.
+[pause 1.0]
+WESKER: There were six of us. We could not make the payroll.
+[pause 1.5]
+N: Four hundred thousand people laughed — a strange, enormous, loving sound.
+WESKER: Today a hundred and forty-one governments signed a piece of paper that says something very simple. It says that the things which keep human beings alive are too important to be left to chance, or to markets, or to the electoral calendar of any one country.
+WESKER: It says that when the storm comes — and it is coming, and all of you know it, and you have known it your whole lives — there will be something over your heads.
+[pause 1.5]
+[img] enormous crowd with hundreds of thousands of phone lights raised in the dusk, an ocean of small lights, cinematic
+WESKER: I did not build that for you. I want to be honest with you tonight, because you have given me something that nobody gives anybody anymore, and I will not repay it with a lie.
+[pause 1.0]
+WESKER: I did not build it out of love for you. I built it because the world was badly run, and it offended me, and I believed I could do it better.
+[pause 1.5]
+WESKER: But it is over your heads now. And it does not matter in the slightest why I built it.
+[pause 2.5]
+N: That was the most dangerous thing anyone said in the twenty-first century, and six billion people heard it, and almost nobody noticed.
+N: He had told them the truth. He had told them, from a balcony, in front of the entire species, that he did not love them, that he considered the world his to correct, and that their opinion of his motives was irrelevant.
+N: And four hundred thousand people in the Place des Nations heard a man being honest with them, which nobody in power had been in their lifetimes, and they loved him for it so completely that the sound they made cracked two windows on the façade of the Palace of Nations.
+[pause 2.0]
+
+[music] m_march -4
+[sfx] sfx_chant_umbrella_long
+[img] four hundred thousand people chanting in unison in a vast square at night, fists and phone lights rising and falling in rhythm, terrifying and beautiful, cinematic
+N: The chant began in the south-west corner, among the buses from the association territories.
+N: Um. Brel. La.
+N: It went across four hundred thousand people in about ninety seconds. It was audible in France. Seismographs at the university recorded it. In the Palace behind him, a hundred and forty-one delegations stood at the windows and watched their century end.
+[pause 3.0]
+[img] {WESKER} alone on a balcony with his eyes closed and his head tilted slightly back, the roar washing over him, floodlit, cinematic
+N: And on the balcony, in the floodlights, a man who had died in a bunker in nineteen forty-five and a man who had died in a volcano in another world stood in one body and listened to four hundred thousand people chant, and for the first time in twenty-one years there was no argument between them at all.
+N: No disagreement. No friction. Not one word.
+[pause 1.5]
+WESKER: (slow) Now.
+ADOLF: (slow) Now.
+[pause 1.0]
+N: They said it at the same instant, in the same cadence, in the quiet of one skull.
+N: And then, for the first time, they said the next sentence together — one voice, in two registers, perfectly aligned, the way a chord is one sound.
+[pause 1.0]
+WESKER: (slow) This is what it was for.
+[pause 3.0]
+[sfx] sfx_system_open
+[system] INTEGRATION COMPLETE
+Host coherence: 100%
+Designation: Wesker
+[say] Integration complete. Host coherence, one hundred percent.
+[/system]
+[pause 2.0]
+N: He read the panel on the balcony, in the floodlights, with the chant going on underneath him like weather.
+N: Designation: Wesker. The System had stopped listing a secondary imprint. It had stopped, at some point that it did not specify, treating them as two things.
+N: He waited to feel something about that. A loss, perhaps. The old voice had been in there for twenty-one years; it had argued with him in a thousand cars on a thousand drives home; it had been wrong about almost everything and honest about it exactly once.
+N: He felt nothing at all. There was nobody left in there to miss.
+[pause 3.0]
+
+[music] m_triumph -8
+[img] a montage of the Umbrella Directorate's first offices, maps of the world with association territories in red, the emblem on public buildings, cinematic
+[loc] The Directorate
+N: The Umbrella Directorate was established eleven weeks later, and it was not announced, because it was not an announceable thing. It was simply the name that people inside the organisation began to use, in twenty forty-seven, for the body that made the decisions — the Accord Council's executing agent, plus the Territory, plus the association territories, plus the Security Service, plus the Foundation, plus the Progenitor Initiative, plus four hundred and eighty thousand employees and a hundred and ninety million people in territories of association.
+N: It had one Director. The title had been on his office door in a four-storey brick building in twenty twenty-six, and he had never changed it, and now it meant something else.
+[pause 2.0]
+[sfx] sfx_level_up
+[sfx] sfx_gacha_gold +1.0
+[system] LEVEL UP
+Level: 100
+Points: 84,000,000,000
+[say] Level one hundred.
+[/system]
+[pause 1.5]
+[system] STATUS
+Strength: 140
+Speed: 180
+Intelligence: 155
+Defence: 130
+Health: 150
+Charisma: 120
+Special: 110
+[say] Status.
+[/system]
+[pause 1.5]
+[img] a glowing crimson holographic shop interface in a dark room, and at the edge of it a new tab appearing, unlit, labelled with a single word, cinematic
+[sfx] sfx_system_chime
+N: And on the night of the twenty-second of June, twenty forty-seven, alone in a white room two hundred metres below the Atlantic, the Shop that he had been buying from for twenty-one years grew a new tab.
+N: It had been the same six categories since the first night in a washroom in the rain. Facilities. Personnel. Blueprints. Powers. Immunities. Vehicles.
+N: There was a seventh now. It was not lit. It had one word on it, and when he looked directly at it, the word did not resolve into anything he could read — except that he knew, the way you know things in dreams, exactly what it said.
+[pause 2.0]
+[system] BEYOND
+[say] Beyond.
+[/system]
+[pause 3.0]
+N: He looked at it for a long time.
+N: Behind him, in a cradle that had been breathing for twenty-one years, something enormous slept. Above him, two hundred metres of ocean, and a city of a hundred and sixty thousand people, and a world that had just signed.
+N: He had ruled the Earth for four hours.
+N: He reached out, and touched the tab, and it opened.
+[pause 3.0]
+[music] stop
