@@ -337,6 +337,47 @@ class Scene:
         if self.has('emblem', 'umbrella', 'containment door', 'steel door'):
             self.emblem(vx, vy, 52, glow=False)
 
+    def machine_room(self, machine=True, freezers=True):
+        """A basement or plant room: back wall, floor, rows of cabinets, one big humming machine."""
+        r = self.rng
+        floor_y = int(H * 0.74)
+        self.grad(lerp(self.pal[1], self.pal[2], 0.18), self.pal[0], 1.5, band=(0, floor_y))
+        self.rect([0, floor_y, W, H], lerp(self.pal[0], self.pal[1], 0.42))
+        # ceiling pipes
+        for k in range(int(r.integers(3, 6))):
+            y = int(H * (0.05 + k * 0.045))
+            self.rect([0, y, W, y + int(r.integers(8, 20))], lerp(self.pal[0], self.pal[1], 0.60))
+        # a strip light
+        lx = int(W * r.uniform(0.3, 0.7))
+        self.rect([lx - 150, int(H * 0.16), lx + 150, int(H * 0.18)], lerp(self.pal[3], self.pal[4], 0.65))
+        self.glow(lx, int(H * 0.17), 340, lerp(self.pal[3], self.pal[4], 0.45), 0.42)
+        if freezers:
+            x = int(W * 0.04)
+            while x < W * 0.62:
+                w = int(r.integers(90, 140))
+                h = int(r.integers(150, 210))
+                self.rect([x, floor_y - h, x + w, floor_y], lerp(self.pal[1], self.pal[2], 0.30))
+                self.rect([x + 8, floor_y - h + 10, x + w - 8, floor_y - h + 26],
+                          lerp(self.pal[2], self.pal[3], 0.55), alpha=190)
+                if r.random() < 0.5:
+                    self.glow(x + w // 2, floor_y - h + 18, 60, lerp(self.pal[3], (150, 210, 255), 0.5), 0.30)
+                x += w + int(r.integers(10, 40))
+        if machine:
+            mw, mh = int(W * 0.20), int(H * 0.46)
+            mx = int(W * 0.78)
+            self.rect([mx - mw // 2, floor_y - mh, mx + mw // 2, floor_y], lerp(self.pal[1], self.pal[2], 0.42))
+            # vent slats
+            for k in range(7):
+                y = floor_y - mh + 40 + k * (mh - 90) / 7
+                self.rect([mx - mw // 2 + 18, y, mx + mw // 2 - 18, y + 9], lerp(self.pal[0], self.pal[1], 0.5))
+            # ducting to the ceiling
+            self.rect([mx - 34, 0, mx + 34, floor_y - mh + 6], lerp(self.pal[1], self.pal[2], 0.34))
+            # the little frosted window
+            self.rect([mx - 40, floor_y - int(mh * 0.72), mx + 40, floor_y - int(mh * 0.50)],
+                      lerp(self.pal[3], self.pal[4], 0.55), blur=5, alpha=210)
+            self.glow(mx, floor_y - int(mh * 0.61), 120, lerp(self.pal[3], (190, 230, 255), 0.5), 0.40)
+        self.fog(floor_y, 0.34)
+
     def room_interior(self, window=True, lamp=True):
         self.grad(lerp(self.pal[1], self.pal[2], 0.25), self.pal[0], 1.4)
         # back wall
@@ -409,7 +450,7 @@ class Scene:
         layer = Image.new('RGB', (W, H), (0, 0, 0))
         d = ImageDraw.Draw(layer)
         r = self.rng
-        c = color or lerp(self.pal[3], self.pal[4], 0.4)
+        c = color or lerp(self.pal[2], self.pal[3], 0.5)
         for _ in range(n):
             x, y = r.integers(0, W), r.integers(0, H)
             s = r.integers(1, 4)
@@ -502,15 +543,85 @@ class Scene:
         self.ellipse([cx - r * 0.5, cy - r, cx + r * 1.4, cy + r], self.pal[0], blur=30, alpha=190)
 
     def cryo_tank(self, cx, cy, w, h):
-        self.rect([cx - w // 2, cy - h // 2, cx + w // 2, cy + h // 2], lerp(self.pal[1], self.pal[2], 0.5))
-        self.rect([cx - w // 2 + 18, cy - h // 2 + 26, cx + w // 2 - 18, cy + h // 2 - 26],
-                  lerp(self.pal[2], self.pal[3], 0.55), blur=6)
-        self.glow(cx, cy, int(w * 0.8), lerp(self.pal[3], self.pal[4], 0.4), 0.42)
-        # the shape inside
-        self.figure(cx, cy + h // 2 - 40, int(h * 0.74), coat=False,
-                    color=lerp(self.pal[1], self.pal[3], 0.35), alpha=205)
-        self.rect([cx - w // 2 + 18, cy - h // 2 + 26, cx + w // 2 - 18, cy + h // 2 - 26],
-                  lerp(self.pal[3], self.pal[4], 0.5), blur=26, alpha=54)
+        """A cryogenic cradle: steel body, a frosted window, and something enormous half-seen inside."""
+        r = self.rng
+        body = lerp(self.pal[1], self.pal[2], 0.42)
+        self.rect([cx - w // 2, cy - h // 2, cx + w // 2, cy + h // 2], body)
+        # ribs and plating
+        for k in range(6):
+            y = cy - h // 2 + 30 + k * (h - 70) / 6
+            self.rect([cx - w // 2 + 6, y, cx + w // 2 - 6, y + 7], lerp(self.pal[0], self.pal[1], 0.55), alpha=170)
+        # cabling to the ceiling
+        for k in range(3):
+            x = cx - w * 0.22 + k * w * 0.22
+            self.rect([x - 7, 0, x + 7, cy - h // 2 + 10], lerp(self.pal[1], self.pal[2], 0.30))
+
+        # the window, and the shape behind it
+        gx0, gy0 = cx - int(w * 0.31), cy - int(h * 0.34)
+        gx1, gy1 = cx + int(w * 0.31), cy + int(h * 0.20)
+        inner = Image.new('RGB', (W, H), (0, 0, 0))
+        di = ImageDraw.Draw(inner)
+        di.rectangle([gx0, gy0, gx1, gy1], fill=rgb(lerp(self.pal[2], self.pal[4], 0.30)))
+        self.img.paste(inner.crop((gx0, gy0, gx1, gy1)), (gx0, gy0))
+
+        # occupant: deliberately indistinct, larger than the window, blurred into the mist
+        occ = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+        do = ImageDraw.Draw(occ)
+        fh = int((gy1 - gy0) * 1.35)
+        fw = int(fh * 0.34)
+        top = gy1 - fh + int(fh * 0.12)
+        dark = rgb(lerp(self.pal[0], self.pal[1], 0.30))
+        do.rounded_rectangle([cx - fw // 2, top + int(fh * 0.20), cx + fw // 2, gy1 + 40],
+                             radius=int(fw * 0.35), fill=dark + (235,))
+        do.ellipse([cx - int(fw * 0.30), top, cx + int(fw * 0.30), top + int(fw * 0.62)], fill=dark + (235,))
+        # shoulders wider than a person's
+        do.polygon([(cx - fw * 0.78, top + fh * 0.36), (cx + fw * 0.78, top + fh * 0.36),
+                    (cx + fw * 0.52, top + fh * 0.58), (cx - fw * 0.52, top + fh * 0.58)], fill=dark + (225,))
+        # arms hanging
+        do.rounded_rectangle([cx - fw * 0.86, top + fh * 0.36, cx - fw * 0.58, gy1 + 10],
+                             radius=int(fw * 0.2), fill=dark + (215,))
+        do.rounded_rectangle([cx + fw * 0.58, top + fh * 0.36, cx + fw * 0.86, gy1 + 10],
+                             radius=int(fw * 0.2), fill=dark + (215,))
+        occ = occ.filter(ImageFilter.GaussianBlur(6))
+        mask = Image.new('L', (W, H), 0)
+        ImageDraw.Draw(mask).rectangle([gx0 + 3, gy0 + 3, gx1 - 3, gy1 - 3], fill=255)
+        occ.putalpha(ImageChops.multiply(occ.split()[3], mask))
+        self.img = Image.alpha_composite(self.img.convert('RGBA'), occ).convert('RGB')
+
+        # vapour inside the glass
+        mist = Image.new('RGB', (W, H), (0, 0, 0))
+        dm = ImageDraw.Draw(mist)
+        for _ in range(14):
+            mx = r.integers(gx0, gx1)
+            my = r.integers(gy0, gy1)
+            rr = r.integers(40, 150)
+            dm.ellipse([mx - rr, my - rr * 0.5, mx + rr, my + rr * 0.5],
+                       fill=rgb(lerp(self.pal[3], self.pal[4], 0.7)))
+        mist = mist.filter(ImageFilter.GaussianBlur(46))
+        mist = ImageChops.multiply(mist, Image.merge('RGB', [mask] * 3))
+        self.img = ImageChops.add(self.img, Image.eval(mist, lambda v: int(v * 0.26)))
+
+        # frost creeping in from the edges of the glass
+        frost = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+        df = ImageDraw.Draw(frost)
+        for _ in range(90):
+            fx = r.integers(gx0, gx1)
+            fy = r.choice([r.integers(gy0, gy0 + 60), r.integers(gy1 - 60, gy1)])
+            rr = r.integers(6, 34)
+            df.ellipse([fx - rr, fy - rr, fx + rr, fy + rr],
+                       fill=rgb(lerp(self.pal[3], self.pal[4], 0.85)) + (int(r.integers(20, 70)),))
+        frost = frost.filter(ImageFilter.GaussianBlur(7))
+        frost.putalpha(ImageChops.multiply(frost.split()[3], mask))
+        self.img = Image.alpha_composite(self.img.convert('RGBA'), frost).convert('RGB')
+
+        # glass frame and rim light
+        edge = Image.new('RGB', (W, H), (0, 0, 0))
+        ImageDraw.Draw(edge).rectangle([gx0, gy0, gx1, gy1],
+                                       outline=rgb(lerp(self.pal[3], self.pal[4], 0.55)), width=4)
+        self.img = ImageChops.add(self.img, edge.filter(ImageFilter.GaussianBlur(2)))
+        self.glow(cx, (gy0 + gy1) // 2, int(w * 0.62), lerp(self.pal[3], (170, 215, 255), 0.45), 0.34)
+        # cold spill onto the floor
+        self.glow(cx, cy + h // 2, int(w * 0.7), lerp(self.pal[2], self.pal[3], 0.5), 0.22)
 
     def hologram(self, cx, cy, w, h):
         self.rect([cx - w // 2, cy - h // 2, cx + w // 2, cy + h // 2], (10, 12, 18), alpha=190)
@@ -649,6 +760,33 @@ class Scene:
             self.grade()
             return self.img
 
+        # ---- cryogenic cradles (before corridors: these are often "at the end of a corridor")
+        if self.has('cryogenic', 'cryo', 'capsule', 'cradle', 'frosted glass', 'viewing window', 'frosted'):
+            self.grad(lerp(self.pal[1], self.pal[2], 0.28), self.pal[0], 1.5)
+            self.rect([0, int(H * 0.80), W, H], lerp(self.pal[0], self.pal[1], 0.40))
+            self.cryo_tank(int(W * r.uniform(0.44, 0.60)), int(H * 0.50), int(W * 0.30), int(H * 0.74))
+            if self.has('figure', 'standing', 'hand', 'watching', 'sitting', 'palm'):
+                self.figure(int(W * r.uniform(0.18, 0.30)), int(H * 0.94), int(H * 0.44))
+                self.rim_light(int(W * r.uniform(0.18, 0.30)), int(H * 0.94), int(H * 0.44))
+            self.fog(int(H * 0.82), 0.40)
+            self.texture(0.05)
+            self.foreground_frame(0.7)
+            self.grade()
+            return self.img
+
+        # ---- basements, plant rooms, freezer halls
+        if self.has('basement', 'freezer', 'freezers', 'hvac', 'plant room', 'boiler', 'loading dock',
+                    'machine in the corner', 'server', 'data centre', 'data center'):
+            self.machine_room()
+            if self.has('figure', 'man', 'men', 'standing', 'walking', 'agents', 'guard', 'wesker', 'flashlight'):
+                for k in range(int(r.integers(1, 3))):
+                    self.figure(int(W * r.uniform(0.2, 0.6)), int(H * r.uniform(0.76, 0.84)), int(H * 0.30))
+            self.dust(90, color=lerp(self.pal[2], self.pal[3], 0.4))
+            self.texture(0.055)
+            self.foreground_frame(0.8)
+            self.grade()
+            return self.img
+
         # ---- corridors and labs
         if self.has('corridor', 'sublevel', 'white corridor', 'hallway', 'tunnel'):
             self.corridor(vp=(r.uniform(0.44, 0.56), r.uniform(0.46, 0.54)))
@@ -659,15 +797,6 @@ class Scene:
             self.wet_ground(int(H * 0.70), int(H * 0.26))
             self.texture(0.045)
             self.foreground_frame(0.8)
-            self.grade()
-            return self.img
-
-        if self.has('cryogenic', 'cryo', 'capsule', 'tank', 'containment', 'frosted'):
-            self.grad(lerp(self.pal[1], self.pal[2], 0.3), self.pal[0], 1.5)
-            self.cryo_tank(W // 2, int(H * 0.52), int(W * 0.30), int(H * 0.76))
-            if self.has('figure', 'standing', 'hand', 'watching', 'wesker', 'evelyn'):
-                self.figure(int(W * 0.27), int(H * 0.92), int(H * 0.46))
-            self.fog(int(H * 0.8), 0.4)
             self.grade()
             return self.img
 
@@ -795,7 +924,7 @@ class Scene:
             return self.img
 
         # ---- bunker / 1945
-        if self.has('bunker', 'concrete', 'underground corridor', '1945'):
+        if self.has('bunker', 'underground corridor', '1945', 'air raid'):
             self.corridor(vp=(0.5, 0.5), doors=False, cold=False)
             self.glow(W // 2, int(H * 0.30), 200, (240, 214, 150), 0.5)
             self.dust(420, color=(190, 170, 130))
