@@ -1,0 +1,232 @@
+# 1 | Two Deaths and a Chair
+@movement I | The Garage Empire
+
+[music] m_bunker
+[amb] amb_bunker
+[img] a concrete bunker corridor deep underground, 1945, a single bare bulb swinging, dust falling from the ceiling, dark cinematic, desaturated, oppressive shadows, no people
+[loc] Berlin — 30 April 1945
+N: The shelling had not stopped for nine days.
+[sfx] sfx_artillery_distant +0.5
+N: Fifty feet beneath what had once been the capital of a continent, the concrete sweated and shook, and the dust came down from the ceiling in slow grey threads, like sand in an hourglass that someone had turned over one final time.
+N: At the end of a corridor, behind a steel door, a man sat on a small sofa and listened to the city die above him.
+[img] a dim underground study, 1945, a steel door, an empty sofa, a single lamp, a painting on the wall in shadow, heavy dread, cinematic, dark, no faces visible
+N: He had started the war that killed tens of millions. He had built the camps, and filled them. He had told a nation it was chosen, and then he had marched it into fire. And now the fire had come home to find him.
+N: Nobody who was in that room ever described his last thought. We only know how it ended.
+[pause 0.8]
+[sfx] sfx_gunshot_muffled
+[music] stop
+[amb] stop
+[pause 2.5]
+N: A single shot, muffled by concrete. And then, for the man who fired it, nothing.
+[pause 1.5]
+N: History wrote its verdict in the ashes he left behind. That should have been the end of the story.
+[pause 1.2]
+[music] m_horror
+[amb] amb_fire_volcano
+[img] an erupting volcano interior, rivers of lava, a colossal ruined stone platform, apocalyptic orange light, smoke, cinematic wide shot
+N: Somewhere else — in a world that does not exist, a world with no Berlin and no bunker — a second man was dying.
+N: He was standing waist-deep in molten rock, in the throat of a volcano, and he was still, impossibly, alive.
+[img] silhouette of a tall man in a long black coat half-sunk in glowing lava, reaching upward, embers, volcanic smoke, dramatic backlight, cinematic
+N: He had been a scientist and a soldier, a traitor and a god in his own estimation. He had been engineered to be superior, and he had believed it with his whole heart. He had wanted to remake the human race in a single breath of a virus. His name was Albert Wesker.
+N: And above him, on the rim of the rock, two people he had underestimated for the last time lifted a pair of rocket launchers.
+[sfx] sfx_rocket
+[pause 0.6]
+[sfx] sfx_explosion
+[music] stop
+[pause 2.2]
+[amb] stop
+N: Fire. Light. Then nothing again.
+[pause 1.5]
+N: Two deaths. Two men who never met, in two worlds that should never have touched.
+N: This is the story of what happened when they did.
+[pause 1.5]
+[title]
+[cards]
+
+[music] m_rain_piano
+[amb] amb_rain_heavy
+[img] exterior of a tired four-storey brick research building in an industrial park at night in heavy rain, a faded blue sign reading UMBRELLA, sodium streetlights, puddles, empty parking lot, cinematic
+[loc] Wilmington, Delaware — 14 September 2026, 3:12 a.m.
+N: The building had no name worth remembering.
+N: Four storeys of tired brick on the wrong side of an industrial park, on the south bank of the Christina River. A parking lot with more weeds than cars. A security booth with a space heater and a paperback. And above the glass doors, in faded blue letters that had not been cleaned since the Obama administration, a sign that read: Umbrella Research, Division Seven.
+N: Nobody in the city had ever wondered what happened inside. There was no reason to. The company that owned it was dying, and the people who worked in it knew it, and the rain came down on the flat roof the way it had come down on a thousand other forgotten buildings in a thousand other forgotten towns.
+[amb+] amb_office_hum
+[img] a dim cluttered director's office at night, rain on the window, a desk with stacked papers and an old monitor, a leather office chair, a pair of black sunglasses on the desk, cinematic moody lighting
+N: On the third floor, in a corner office with a water stain shaped like Florida on the ceiling tile, a man was asleep in a leather chair.
+N: And then, between one second and the next, he was not.
+[sfx] sfx_heartbeat
+[sfx] sfx_breath_gasp +0.3
+N: He did not wake the way people wake. There was no drift, no warmth, no slow return. He arrived — the way a gunshot arrives — whole, and violent, and already moving.
+[sfx] sfx_mug_catch +1.0
+N: His elbow struck a ceramic mug on the desk. It tipped, and fell, and he caught it an inch above the carpet, cold coffee still trembling inside it, before he had consciously decided to move at all.
+[pause 1.0]
+N: He looked at his own hand, holding the mug.
+N: It was a large hand. Pale. Steady. It was not the hand he remembered. And it was, at the same time, exactly the hand he remembered.
+[pause 0.8]
+N: Two memories reached for the same body, like two men grabbing for the same pistol in the dark.
+[img] extreme close-up of a man's eye in darkness, the pupil narrowing into a vertical slit, glowing faint amber-red, rain reflections, cinematic
+N: One remembered a bunker, a sofa, the smell of cordite and concrete, and a nation that had followed him over a cliff.
+N: The other remembered a laboratory in the Arklay Mountains, a mansion full of monsters, a virus that had rewritten his blood, and a volcano.
+N: Neither memory was a dream. Both were his.
+[pause 1.2]
+N: He set the mug down, very precisely, in the exact ring of dried coffee it had left on the desk. Then he stood, and the chair rolled back, and he walked out of the office to find a mirror.
+
+[img] a harsh fluorescent-lit office washroom, a cracked mirror, a tall blond man with slicked-back hair leaning on the sink, face half in shadow, cinematic
+N: The washroom light buzzed and flickered twice before it decided to work.
+N: The man in the mirror was tall, and pale, and blond, with his hair swept back from a hard, handsome face. Mid-thirties, perhaps, though the eyes were older than that. He wore a black shirt, dark trousers, and the kind of calm that belongs to a predator that has already eaten this week.
+N: He leaned closer. And the pupils, as he watched, narrowed into vertical slits, and flared a dull, burning red.
+ADOLF: This is not my face.
+WESKER: No. It's mine.
+N: The voices did not come from his mouth. They came from somewhere behind the eyes, and they spoke at the same time, and for a long moment the man in the mirror said nothing at all while two histories argued over the same skull.
+ADOLF: Where is this? What is this place? What have you done?
+WESKER: I haven't done anything. I died. So, I suspect, did you. Congratulations. We appear to have been — combined.
+ADOLF: I do not accept that.
+WESKER: The mirror doesn't care what you accept.
+[pause 1.0]
+N: He gripped the edge of the sink, experimentally, and felt the porcelain creak under his fingers, and let go before it cracked.
+N: The body was not human. Not entirely. He could feel the Prototype Virus in it, the way a pilot feels an engine through the seat — patient and enormous and hungry, woven through every cell. Strength that could fold a car door. Speed that would look, to an ordinary eye, like a man simply ceasing to be in one place and beginning to be in another.
+N: The Wesker half of the mind knew all of this the way you know your own name. The other half learned it in that moment, and felt something it had not felt since nineteen thirty-nine.
+[pause 0.6]
+N: Appetite.
+[pause 1.5]
+
+[music] m_system
+[img] a dark washroom, a translucent holographic interface panel floating in the air before a tall blond man, crimson and white glass UI glow, cinematic, sci-fi
+[sfx] sfx_system_open
+N: That was when the light appeared.
+N: It was not a reflection. It hung in the air a foot in front of the mirror: a thin pane of cold, white glass, edged in crimson, with letters typing themselves across it one by one.
+[system] HOST CONFIRMED
+Integration: complete
+Designation: Albert Wesker
+Secondary imprint: present — stable
+[say] Host confirmed. Integration complete.
+[/system]
+ADOLF: Secondary.
+WESKER: Don't take it personally. It's a machine.
+N: A second panel slid out beneath the first.
+[system] STATUS
+Level: 1
+Strength: 34
+Speed: 38
+Intelligence: 22
+Defence: 26
+Health: 30
+Charisma: 24
+Special: 6
+[say] Status.
+[/system]
+N: He read it the way a general reads a map of a battle he intends to win.
+N: He knew instinctively what the numbers meant. Ten was an ordinary man. Twenty was the very edge of what a human body could do. Thirty and above was something else entirely.
+WESKER: Charisma twenty-four. That's you, I assume.
+ADOLF: A nation followed that voice.
+WESKER: Into a bunker. Yes. I remember.
+[sfx] sfx_system_chime
+[system] VIRAL STABILITY: 71%
+The Prototype strain is not stabilized in this host.
+Current rate of decay: 1% per day.
+At 40%, cellular consumption begins.
+[say] Warning. Viral stability, seventy-one percent. At forty percent, cellular consumption begins.
+[/system]
+N: For the first time since he had woken, the man in the mirror went very still.
+N: The Wesker half knew this problem. In his own world, he had kept the virus leashed with an injected serum, measured and precise. There was no serum here. There was no here, not yet. Just a building, and a clock, and a number going the wrong way.
+[system] THE SHOP — LOCKED
+Points: 0
+Points are earned through conquest, through the loyalty of those who follow you, through superior action, and through the defeat of enemies.
+[say] The Shop is locked. Points are earned through conquest, loyalty, superior action, and the defeat of enemies.
+[/system]
+WESKER: Conquest. Loyalty. Superior action.
+ADOLF: It is describing a state.
+WESKER: It's describing a company. Same thing, if you do it properly.
+[sfx] sfx_system_chime
+[system] MISSION ISSUED
+The Director's Chair
+Secure absolute control of Umbrella Research, Division Seven.
+Reward: 1,500 Points
+Time remaining: 7 days
+[say] Mission issued. The Director's Chair. Secure absolute control of Umbrella Research, Division Seven. Seven days.
+[/system]
+N: He read the mission twice. Then he smiled, very slightly, for the first time in his new life.
+N: It was not a nice smile. It was the smile of a man who has been handed a pistol in a room full of people who don't know it's loaded.
+[pause 1.5]
+
+[music] stop
+[amb] amb_rain_heavy
+[amb+] amb_office_hum
+[img] a dim office corridor at night, an older security guard in a grey uniform with a flashlight standing in an open doorway, rain-streaked windows, cinematic
+[sfx] sfx_door_knock
+N: There was a knock at the washroom door.
+WALTER: Doctor Wesker? You in there?
+N: The voice belonged to a man in his sixties, gravel over gravel, the voice of someone who had spent a great deal of his life telling younger men to get down.
+N: Wesker opened the door. And the knowledge was simply there, waiting for him, the way the stats had been: Walter Pruitt. Night security. Sixty-four. Army, twenty-two years. Two tours he never talked about. A wife who had died in the spring. He worked nights because he didn't sleep anyway.
+WALTER: Heard something fall. Thought maybe you'd keeled over. You been here since yesterday afternoon, you know that?
+WESKER: I know that, Walter.
+N: He had not raised his voice. He had not done anything at all. He simply stood in the doorway, a head taller than the guard, and looked at him — and Walter Pruitt, who had once been shot at by professionals and had not flinched, took half a step back without knowing why.
+WALTER: Right. Well. You want coffee? Pot's old, but it's hot.
+WESKER: No. Thank you. Go home early tonight. I'll lock up.
+WALTER: Can't do that, Doc. Company rules.
+WESKER: The company, Walter, is in administration in London, and the people who wrote its rules are currently arguing over who gets the office furniture. As of tonight, the rules are mine. Go home. Get some sleep. You won't, but try.
+[pause 1.0]
+N: Walter looked at him for a long moment. There was something in the old guard's face — not fear, exactly. Recognition. The expression of a man who had served under officers his whole life and had learned to tell, instantly, the difference between the ones who were playing at it and the ones who were not.
+WALTER: Yes, sir.
+N: He had not called anyone sir in eleven years.
+[sfx] sfx_footsteps
+N: He went. And halfway down the corridor, alone with the rain, he said quietly to nobody at all:
+WALTER: (soft) Different animal.
+[pause 1.5]
+
+[music] m_rain_piano -3
+[amb] amb_office_hum
+[img] a man's face lit only by the cold blue glow of an old computer monitor in a dark office at night, reading intently, reflection of text in his eyes, cinematic
+N: Back in the corner office, the man who was now Albert Wesker sat down at a computer that was nine years old and ran like it.
+[sfx] sfx_keyboard
+N: The Wesker half of the mind knew what to do with it. The other half watched, fascinated, as the screen filled with the world.
+N: It took him less than an hour to understand where he was. An Earth, but not Wesker's Earth. There was no Raccoon City here. No Umbrella Corporation that had ever mattered. No mansion in the Arklay Mountains, no Redfields, no Spencer. He searched his own name, and found a dentist in Ohio and a high-school wrestler in Oregon, and nothing else.
+WESKER: Nobody. Nobody has ever heard of me.
+N: Then the other half of the mind typed a different name.
+[pause 1.0]
+[music] m_bunker -8
+[img] an old computer monitor in the dark showing an encyclopedia page with grainy black-and-white wartime photographs, ruins of a bombed city, smoke, the viewer's reflection in the glass, cinematic
+N: He read for a long time.
+N: He read about the war he had started, and how it ended. He read the numbers — the soldiers, the cities, the six million murdered in the camps, and the millions more. He read the testimony, and the photographs, and the verdicts at Nuremberg. He read that his name had become the single word the whole human species used for evil.
+N: He read that he had lost. Not narrowly. Totally. His country had been cut in half and rebuilt by the men he had despised, and it had become, of all things, prosperous and peaceful and dull.
+[pause 1.2]
+N: If you were hoping he felt remorse, he did not.
+N: What he felt, reading the verdict of history on a cheap monitor in the rain, was not guilt. It was humiliation. The fury of a man who has been told that he was not merely wicked, but beaten.
+ADOLF: They made me a word.
+WESKER: They made you a warning. There's a difference. A word can still be used.
+ADOLF: I will not be pitied by a laboratory rat who was killed by two soldiers in a hole.
+WESKER: Then let's be precise, shall we? We both lost. You had a nation, and you lost it. I had a virus that could have remade the species, and I lost that too. And do you know why? Both of us?
+[pause 0.8]
+N: The man at the desk leaned back in the chair, and the monitor glow slid across his face, and for a moment both halves of him were perfectly, terribly silent.
+WESKER: You lost because they saw you coming.
+[pause 1.0]
+WESKER: You told them. You wrote it in a book. You shouted it into microphones. You put it on banners. You gave the whole world ten years' notice. And the moment they understood what you were, they united to destroy you.
+WESKER: And I did the same thing. I stood on a stage and announced my plan to the only two people who could stop it.
+ADOLF: And what would you do instead?
+WESKER: Nothing they could see.
+[pause 1.5]
+N: The rain went on.
+N: Somewhere in the building a freezer compressor kicked on, and hummed, and settled.
+N: And inside one skull, two of the most dangerous minds that had ever existed — in any world — came, for the first time, to an agreement.
+[pause 1.5]
+
+[amb] stop
+[music] m_dawn
+[img] dawn breaking over a grey industrial river and old warehouses, rain clearing, first gold light on wet brick, a tall figure in a long black coat standing at a window, silhouette, cinematic, awe
+N: Dawn came up over the Christina River, grey and then gold.
+N: The rain stopped. The industrial park woke up in the ordinary way: a delivery truck, a gull, a man in a hi-vis vest yawning by a loading dock. Nobody looked at the third-floor window of the brick building with the faded sign. There was no reason to.
+N: Behind that window, a man in a long black coat stood with his hands folded behind his back and watched the day arrive.
+N: He had seven days. He had no money, no army, no name that anyone recognised. He had a company that was barely a company, a virus that was slowly eating him, and a machine in the air that promised him the world in exchange for taking it.
+[img] close-up of a hand picking up black sunglasses from a desk, morning light, dust in the air, shallow depth of field, cinematic
+N: He picked up the sunglasses from the desk, and looked at them, and put them on.
+WESKER: They didn't see you coming either, you know.
+ADOLF: Who?
+WESKER: The world. In nineteen thirty-three. They thought you were a clown.
+ADOLF: And then?
+N: Behind the dark lenses, the eyes flared red, and faded.
+WESKER: And then they learned.
+[pause 1.0]
+N: The last of the night drained out of the sky.
+N: And on the third floor of a building nobody had ever wondered about, Umbrella's new director went to work.
+[pause 3.0]
+[music] stop

@@ -1,0 +1,7 @@
+work/
+assets/sfx/*.wav
+assets/music/*.wav
+out/video/
+out/*.mp4
+*.log
+__pycache__/

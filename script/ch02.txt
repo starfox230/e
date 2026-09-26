@@ -1,0 +1,222 @@
+# 2 | Payroll
+
+[music] m_scheme -4
+[amb] amb_office_hum
+[img] morning light through dusty windows of a shabby 1990s research lab, old centrifuges, cluttered benches, a coffee maker, cinematic
+[loc] Division Seven — Monday, 8:02 a.m.
+N: The staff of Umbrella Research, Division Seven, arrived that Monday the way people arrive at a building they suspect is about to die — one at a time, a little late, carrying coffee from somewhere better.
+[img] {DANA} walking through a glass door holding a thick folder and a travel mug, tired but determined, office corridor, morning light, cinematic
+N: First came Dana Whitfield, fifty-two, office manager, payroll, human resources, procurement, and — because nobody else would do it — the woman who called the plumber. She had worked at Division Seven for nineteen years. She had a folder under her arm that she had not wanted to open all weekend.
+[img] {LESSING} climbing out of an old sedan in a parking lot, grey coat, briefcase, sour expression, overcast sky, cinematic
+N: Then Doctor Howard Lessing, fifty-eight, senior scientist, who had once been told by a very famous man at a very famous conference that he would win a very famous prize, and had spent the thirty years since waiting for the phone to ring.
+[img] {EVELYN} at a lab bench before anyone else, pipette in hand, headphones around neck, stacks of printed papers, focused, cinematic
+N: Doctor Evelyn Marsh, twenty-seven, postdoctoral fellow, who had actually been there since six, because the equipment was free before the others came in, and because she had nowhere else she particularly wanted to be.
+[img] {TOMAS} walking in with an energy drink and a hoodie, phone in hand, grinning, lab corridor, cinematic
+N: Tomás Reyes, twenty-four, lab technician, who kept the machines alive with zip ties and prayer, and who ran a gaming stream on weekends with four hundred loyal followers.
+[img] {NADIA} standing at a window with arms folded, lab coat, reading glasses on her head, thoughtful, cinematic
+N: And Doctor Nadia Okafor, forty-four, virologist, the best scientist in the building, and the only one who had already updated her résumé.
+[pause 0.6]
+[img] {WESKER} standing at the head of a cheap break-room table, hands folded behind his back, sunglasses on, fluorescent lights, staff seated, cinematic
+N: They found the Director waiting for them in the break room.
+N: He was standing at the head of the cheap laminate table with his hands folded behind his back, in the same black clothes as the day before, looking as though he had slept eight hours in a very expensive hotel. He had not slept at all. He had read every file in the building.
+WESKER: Sit down, please. All of you. Dana — you have something to tell them. Tell them.
+[pause 0.5]
+[img] close-up of a thick red-stamped legal folder on a table, letterhead of a London insolvency firm, a mug of coffee beside it, cinematic
+DANA: I, um. Okay.
+N: Dana opened the folder. Her hands were not quite steady.
+DANA: Umbrella Holdings went into administration in London on Friday. The parent company. There's a firm — Harrow and Lisle — they're the administrators now. They sent this over the weekend. They're going to sell off whatever's worth anything, and close the rest. And the payroll account's been frozen. Friday's pay won't go through.
+[sfx] sfx_paper
+N: Nobody said anything. Tomás put his energy drink down very gently, the way you put down something in a room where a baby is sleeping.
+TOMAS: So we're fired.
+DANA: We're — nobody's said fired.
+LESSING: Nobody needs to. Thirty years. Thirty years, and they're going to sell the freezers to pay some solicitor in Mayfair.
+[pause 0.5]
+[img] {WESKER} in sunglasses silently watching the staff argue around a break-room table, calm, others agitated, shallow focus on him, cinematic
+N: The Director let them talk.
+N: This was the first thing the staff of Division Seven would learn about Albert Wesker, though they would not realise they had learned it for weeks. He let people talk. He let them talk until they had told him everything they were afraid of, and everything they wanted, and exactly how much of each.
+N: And while they talked, he read them.
+[music] m_system -8
+[img] stylized overlay of translucent data tags floating beside five people at a table, names and one-line notes, dark cinematic lighting, sci-fi interface
+N: Dana Whitfield, who would do anything to protect the people in this room, because she had never been able to protect her own son. Howard Lessing, who did not care about the company at all, only about the credit he believed it owed him. Tomás Reyes, who was frightened and hid it with jokes, and who would follow anyone who told him confidently where to go. Nadia Okafor, who was not frightened, only calculating the distance to the door.
+N: And Evelyn Marsh, who had not said a word, and was not looking at the folder, or at the others. She was looking at him.
+[music] m_scheme -4
+WESKER: Doctor Marsh. Your paper on vector persistence in primate cell lines. The one that was rejected twice and published in a journal nobody reads.
+N: Evelyn blinked.
+EVELYN: You — read that?
+WESKER: Last night. Your third figure is wrong. The conclusion isn't. You were right, and the reviewers were lazy, and you should have fought harder.
+[img] {EVELYN} looking up across a table with a startled, luminous expression, as if seen for the first time, soft backlight, cinematic
+N: It was a small thing. It took eleven seconds. And for the rest of her life, Evelyn Marsh would be able to tell you exactly where she had been sitting when it happened.
+[pause 0.8]
+NADIA: With respect, Director, that's lovely, but it doesn't make payroll.
+WESKER: No. It doesn't. Tell me about the freezers, Doctor Okafor.
+[pause 0.4]
+
+[music] m_rain_piano -10
+[amb] amb_lab
+[img] a basement room full of old minus-eighty freezers with frost on the doors, handwritten labels, flickering fluorescent tubes, cinematic
+N: The freezers were in the basement.
+N: There were eleven of them, humming in two rows under flickering tubes, and inside them was the only thing of value the dying company had left: thirty years of cell lines, tissue samples, and viral isolates, collected by Umbrella's British parent from places most people could not find on a map, and catalogued in handwriting that only three living people could read.
+[sfx] sfx_cryo_hiss g-8
+[img] frosted plastic sample boxes and vials in a freezer rack, vapor spilling out, a gloved hand, macro, cinematic
+NADIA: Most of it's junk. Some of it isn't. There are isolates in here nobody else in the world has, because the places they came from don't exist anymore. Verdant Axis has been sniffing around it for a year. And a contract research company in Shenzhen sent us an email in August asking what we'd take for the lot.
+WESKER: Verdant Axis.
+NADIA: The biotech across the river. Glass building, big sign. Their CEO is a man called Graham Tolliver. He tried to hire Howard once.
+LESSING: He tried to hire me for less than I make here. Which is saying something.
+[img] a gleaming modern glass biotech headquarters across a grey river with a large green corporate logo, morning, cinematic wide shot
+N: Across the river, visible from the basement's single high window if you stood on a box, the Verdant Axis building glittered in the morning sun. Glass and steel and green lettering, a lobby with a living wall, a stock ticker on the NASDAQ, and a chief executive who had told a business magazine the previous spring that he intended to be the next great name in American medicine.
+N: Wesker looked at it for a long time.
+ADOLF: A man who tells magazines what he intends is a man who wants to be seen intending it.
+WESKER: Yes. Which means he'll pay for the appearance of winning.
+[pause 1.0]
+
+[music] m_tension -6
+[amb] amb_office_hum
+[img] {WESKER} at a desk on a phone call, laptop open, notepad with neat handwriting, rain-streaked window behind, sunglasses on the desk, cinematic
+[loc] Monday, 1:40 p.m. — London, 6:40 p.m.
+N: The rest of Monday was a telephone.
+[sfx] sfx_phone_ring
+N: The first call was to London, to a man named Peter Fenwick, a partner at Harrow and Lisle, who had been appointed to liquidate what remained of Umbrella Holdings, and who had been hoping very much to go home.
+FENWICK: (phone) Doctor Wesker, I'm afraid there isn't a great deal to discuss. The Delaware division is not a going concern. We'll be selling the sample archive as a separate lot. There's interest. The building lease will be surrendered and the staff —
+WESKER: The sample archive is worth nothing without the people who can read it.
+[pause 0.4]
+FENWICK: (phone) I'm sorry?
+WESKER: Eleven freezers. Four thousand boxes. The labels are handwritten, in abbreviations that were never written down, by scientists who are retired or dead. The three people alive who can read them work for me. On Friday, they won't. And your buyer will own four thousand boxes of anonymous ice.
+[img] a tired British executive in a London office at dusk, loosened tie, phone to his ear, rain on the window, Thames lights outside, cinematic
+N: It was not entirely true. It was true enough. And it had the great virtue, in Fenwick's ears, of being a problem that would take a long time to disprove.
+FENWICK: (phone) What are you proposing?
+WESKER: A management buyout. The division, whole. The archive, the lease, the equipment, the intellectual property, the trademark. Four hundred thousand dollars. Closing Thursday. You get to go home, Mister Fenwick, and write in your report that you recovered value from a dead subsidiary in five days.
+FENWICK: (phone) And you have four hundred thousand dollars?
+WESKER: I will on Thursday.
+[pause 1.0]
+N: There was a silence on the line in which a tired man in London weighed the effort of saying no against the pleasure of saying yes.
+FENWICK: (phone) Send me something in writing.
+[sfx] sfx_phone_buzz g-6
+[pause 0.8]
+
+[img] a laptop screen showing a Delaware state online business registration form being filled out, a hand on the trackpad, cinematic
+N: The second thing he did was create a company.
+N: In the State of Delaware, it is possible to bring a limited liability company into legal existence faster than a pizza can be delivered. Dana, who had filed paperwork with the state for nineteen years, sat beside him and watched him do it in fourteen minutes, and felt a small, strange thrill she had not felt since college.
+DANA: What are you calling it?
+WESKER: Umbrella.
+DANA: Just — Umbrella?
+WESKER: Every great name starts out sounding like an accessory.
+[pause 0.8]
+
+[img] {TOLLIVER} in a sleek glass corner office, tanned, expensive haircut, open-collar shirt, laughing into a phone, city view behind him, cinematic
+[sfx] sfx_phone_ring
+N: The third call was across the river.
+N: Graham Tolliver took it himself, which told Wesker most of what he needed to know. A chief executive who answers his own phone to an unknown number is a man who is afraid of missing something.
+TOLLIVER: (phone) Doctor Wesker! We haven't met, but I know Division Seven. Terrible news about London. Genuinely. If there's anything Verdant Axis can do for your people —
+WESKER: There is. You want the archive.
+[pause 0.4]
+TOLLIVER: (phone) I — well. We'd certainly be interested in a conversation about the archive.
+WESKER: Then let's not have a conversation. Let's have an agreement. As of Thursday, I own it. You can license access to it for one point two million dollars. Paid into escrow on signing, released on my closing.
+TOLLIVER: (phone) That's a lot of money for a freezer, Doctor.
+WESKER: The people in Shenzhen didn't think so.
+[pause 1.0]
+[img] extreme close-up of a man's eyes narrowing in a glass office, reflections of stock charts, cinematic
+N: He did not say that the people in Shenzhen had made an offer. He did not say they had made anything at all. He simply let the word sit on the line, like a coin on a table, and let Graham Tolliver imagine what was written on the other side.
+N: Men like Tolliver always imagine the worst. It is what makes them rich. It is also what makes them easy.
+TOLLIVER: (phone) Send me the term sheet.
+[pause 1.0]
+
+[music] m_system -8
+[img] a printed license agreement with dense legal clauses on a desk, a fountain pen, one clause subtly highlighted in red ink, cinematic macro
+N: The term sheet was four pages long.
+N: On page three, in the eleventh clause, in language that any competent lawyer would have understood and that Verdant Axis's competent lawyers would read the following week, was a single word: non-exclusive.
+N: Verdant Axis was not buying the archive. It was buying the right to use it — alongside anyone else Umbrella chose to sell the same right to. As many times as Umbrella liked.
+ADOLF: He will discover it.
+WESKER: Of course he will. After the money has cleared. And then he'll have a choice — to admit to his board that he didn't read a four-page contract, or to keep quiet and pretend he meant to do it. Which do you think a man like that chooses?
+ADOLF: (slow) You have become very comfortable with lying.
+WESKER: You were a head of state. Don't be precious.
+[pause 1.2]
+
+[music] m_tension -6
+[img] a wall clock in an office showing late night, a desk lamp on, papers everywhere, two empty coffee cups, cinematic
+[loc] Thursday, 11:48 p.m.
+N: The money moved on Thursday night.
+N: It moved the way money moves when nobody is quite sure it should: slowly at first, through escrow accounts and compliance holds and a nervous banker in Wilmington who called twice to ask whether Doctor Wesker was certain, and then all at once.
+[sfx] sfx_keyboard
+[img] a bank transfer confirmation on a laptop screen in a dark office, green checkmark, glowing numbers, cinematic
+N: One point two million dollars from Verdant Axis Therapeutics, into escrow. Four hundred thousand from escrow to Harrow and Lisle, in London, where Peter Fenwick signed a transfer of assets at five in the morning his time and went back to bed. And the rest — eight hundred thousand dollars — into the account of a company that had not existed on Monday.
+[sfx] sfx_mouse_click
+N: At eleven fifty-eight, Dana Whitfield pressed a button, and the payroll of Division Seven went out on time.
+[pause 1.0]
+[img] {DANA} alone in a dark office lit by a monitor, hand over her mouth, eyes wet, cinematic
+N: She did not cry. She wanted that noted, later, when she told the story. She went out to the parking lot and sat in her car for a while with the engine off, and she did not cry at all.
+[pause 1.2]
+
+[music] m_system -2
+[amb] amb_office_hum
+[img] {WESKER} standing alone in a dark office facing a glowing crimson and white holographic interface in the air, sunglasses reflecting it, cinematic
+[sfx] sfx_system_open
+N: Upstairs, in the corner office, the air in front of Albert Wesker lit up.
+[system] MISSION COMPLETE
+The Director's Chair
+Acquisition: Umbrella Research, Division Seven
+Trademark: UMBRELLA — worldwide
+Reward: 1,500 Points
+[say] Mission complete. The Director's Chair.
+[/system]
+[sfx] sfx_points
+[system] ACQUISITION
+The name is yours.
+[say] Acquisition. The name is yours.
+[/system]
+N: He read the second panel twice.
+N: The trademark. Harrow and Lisle had thrown it into the deal as an afterthought — a dead brand of a dead company, worth, by their valuation, one British pound. It was on page nine of the transfer, under miscellaneous. Nobody had asked about it.
+N: The name was his. In every country on Earth that recognised a trademark, the word Umbrella, attached to medicine, now belonged to a man who had been alive, in this world, for four days.
+[sfx] sfx_level_up
+[system] LEVEL UP
+Level: 2
+Stat Points available: 5
+Points: 1,700
+[say] Level up. Level two.
+[/system]
+N: He placed the five points without hesitating. Three into Intelligence. Two into Health, against the clock that was still running in his blood.
+[system] VIRAL STABILITY: 66%
+Decay: 1% per day
+[say] Viral stability, sixty-six percent.
+[/system]
+WESKER: Five days. Five percent.
+ADOLF: And the machine gave you money for a trick with a telephone.
+WESKER: The machine gave us money for winning. It doesn't care how.
+[pause 1.0]
+
+[music] m_rain_piano -8
+[img] the break room the next morning, staff gathered, {DANA} standing at the front speaking, {WESKER} leaning in the doorway in the background, soft morning light, cinematic
+[loc] Friday, 9:00 a.m.
+N: On Friday morning, the staff of Division Seven gathered in the break room again.
+N: It was Dana who told them. That was his decision. In the car on Thursday night, the voice at the back of his mind had wanted something else entirely.
+ADOLF: They should hear it from you. They should know whose hand saved them. A people must know its saviour.
+WESKER: They're not a people. They're six employees and a coffee machine.
+ADOLF: Every people begins as a room.
+WESKER: Then let the room hear it from someone it trusts. Credit is currency. I'll spend it where it buys the most.
+[pause 0.6]
+DANA: So — the short version is, we're not closing. The Director bought the division. All of it. The freezers, the building, the name. We have a new company, and it's — it's us. Payroll went out last night. Check your accounts.
+[sfx] sfx_phone_buzz g-10
+N: Five phones came out of five pockets. For a moment there was only the sound of people reading a number.
+TOMAS: (soft) Oh my God. It's real.
+[sfx] sfx_applause g-10
+N: Tomás started clapping. After a moment, so did the others. Even Lessing, who clapped the way a man signs a document he has not agreed to.
+[img] {NADIA} not clapping, watching {WESKER} in the doorway with narrowed, thoughtful eyes, others celebrating out of focus, cinematic
+N: Only Nadia Okafor did not clap. She looked at the man in the doorway, and she thought about the phrase Dana had used — the Director bought the division — and she wondered how a research director with a four-year-old car and no savings she had ever heard of had bought anything at all.
+N: He met her eyes across the room. And smiled, very slightly. As if he knew exactly what she was thinking, and found it charming.
+[pause 1.0]
+[img] {EVELYN} in the crowd, not clapping either, gazing at {WESKER} with quiet awe, warm light on her face, cinematic
+N: Evelyn Marsh did not clap either. She was not suspicious. She simply forgot to. She was watching him, and thinking, with the absolute clarity of a young woman who has spent her whole life being overlooked, that she had never in her life seen anyone win like that.
+[pause 1.5]
+
+[music] m_system -4
+[img] a vast dark space filled with glowing crimson and white holographic catalogue panels unfolding in rows, facilities, weapons, DNA helices, icons, cinematic, awe
+[sfx] sfx_system_open
+N: That night, in the empty building, a new panel opened in the air.
+[system] THE SHOP — UNLOCKED
+Facilities · Personnel · Blueprints
+Powers · Immunities · Vehicles
+Points available: 1,700
+[say] The Shop is unlocked.
+[/system]
+N: And Albert Wesker, who had once been a god in his own estimation, and Adolf, who had once been the master of a continent, sat down together in a creaking leather chair — and went shopping.
+[pause 3.0]
+[music] stop
