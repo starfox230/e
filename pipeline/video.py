@@ -145,7 +145,7 @@ def grade_for(chapter):
 
 
 def image_path(shot):
-    for ext in ('png', 'jpg', 'webp'):
+    for ext in ('jpg', 'png', 'webp'):
         p = os.path.join(IMAGES, f"{shot['id']}.{ext}")
         if os.path.exists(p):
             return p

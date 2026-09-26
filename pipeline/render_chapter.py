@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FPS = 30
 PRESET = os.environ.get('X264_PRESET', 'faster')
-CRF = os.environ.get('X264_CRF', '21')
+CRF = os.environ.get('X264_CRF', '23')
 
 
 def render_segment(args):
