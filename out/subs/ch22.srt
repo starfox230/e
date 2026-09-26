@@ -1,0 +1,760 @@
+1
+00:00:07,799 --> 00:00:13,359
+Martin Sloane did not waste time. It was the first
+thing the Director liked about him.
+
+2
+00:00:14,048 --> 00:00:19,092
+I'm not here to investigate you, Doctor Wesker. I
+want to be clear about that. The Bureau
+
+3
+00:00:19,112 --> 00:00:23,927
+does that. The Bureau is very bad at it, as you've
+noticed. My part of the government
+
+4
+00:00:23,947 --> 00:00:25,804
+doesn't investigate. It collects.
+
+5
+00:00:26,324 --> 00:00:27,628
+And what are you collecting?
+
+6
+00:00:28,146 --> 00:00:32,177
+Information. About people who are about to try
+to take something from you.
+
+7
+00:00:33,578 --> 00:00:39,015
+Since January, we've been hearing a word in some very
+interesting places. In Moscow, mostly.
+
+8
+00:00:39,035 --> 00:00:44,058
+In some traffic between people who work for a
+certain service, and people who used to
+
+9
+00:00:44,078 --> 00:00:49,101
+work for a certain private military company that
+the Kremlin likes to pretend doesn't
+
+10
+00:00:49,121 --> 00:00:54,144
+exist. The word is Umbrella. Sometimes they also
+use a word that translates, roughly,
+
+11
+00:00:54,164 --> 00:00:54,677
+as ghost.
+
+12
+00:00:55,198 --> 00:00:56,382
+They've seen the video.
+
+13
+00:00:56,902 --> 00:01:02,383
+Everybody's seen the video. The difference is that some
+people watched it and saw a rolling-shutter
+
+14
+00:01:02,403 --> 00:01:05,384
+artefact, and some people watched it
+and saw a weapon.
+
+15
+00:01:06,903 --> 00:01:08,611
+And which did you see, Mister Sloane?
+
+16
+00:01:10,632 --> 00:01:16,801
+Sloane smiled. It was a thin, cold, genuinely
+amused smile, and the Cold-Read read it
+
+17
+00:01:16,821 --> 00:01:19,204
+with something close to pleasure.
+
+18
+00:01:19,893 --> 00:01:24,551
+I saw a man who doesn't want to be collected by the
+Russians. I'm here to suggest that
+
+19
+00:01:24,571 --> 00:01:26,455
+you'd prefer to be collected by us.
+
+20
+00:01:27,974 --> 00:01:33,637
+He left a telephone number on a plain white card,
+and a warning, and nothing else. He
+
+21
+00:01:33,657 --> 00:01:37,381
+did not ask for anything. That, too,
+the Director liked.
+
+22
+00:01:39,572 --> 00:01:41,976
+The Americans want to own you.
+
+23
+00:01:42,495 --> 00:01:47,670
+The Americans want to rent me. There's a difference.
+And the Russians want to steal me.
+
+24
+00:01:47,690 --> 00:01:52,746
+Which means that, for the first time, someone is
+going to come at us who isn't afraid
+
+25
+00:01:52,766 --> 00:01:53,582
+of the police.
+
+26
+00:01:54,102 --> 00:01:55,725
+Then let them come.
+
+27
+00:01:56,243 --> 00:01:57,519
+Yes. I think we should.
+
+28
+00:01:59,040 --> 00:02:01,693
+You are thinking of the creature.
+
+29
+00:02:02,212 --> 00:02:07,867
+I'm thinking that I own a weapon I've never seen used.
+I'm thinking that a Russian contractor
+
+30
+00:02:07,887 --> 00:02:13,237
+team is the only enemy on Earth I could use it on
+that nobody would ever report missing.
+
+31
+00:02:13,257 --> 00:02:18,606
+And I'm thinking that it's been asleep for four
+years, and I'd like to know what it does
+
+32
+00:02:18,626 --> 00:02:19,643
+when it wakes up.
+
+33
+00:02:21,663 --> 00:02:27,577
+The Adolf half of the mind was silent for a long
+moment. When it spoke, its voice had
+
+34
+00:02:27,597 --> 00:02:33,580
+changed — lower, slower, and with something in it
+that the Wesker half had never quite
+
+35
+00:02:33,600 --> 00:02:37,419
+heard before. Not joy. Something
+more careful than joy.
+
+36
+00:02:38,110 --> 00:02:44,056
+You have always told me to wait. Not yet. Not yet.
+You told the girl at the piano. You
+
+37
+00:02:44,076 --> 00:02:46,068
+told the creature in the ice.
+
+38
+00:02:46,588 --> 00:02:47,293
+I did.
+
+39
+00:02:47,813 --> 00:02:48,902
+And now?
+
+40
+00:02:49,423 --> 00:02:51,236
+Now it's a controlled experiment.
+
+41
+00:02:53,887 --> 00:02:57,188
+Purchase confirmed. Desert complex.
+
+42
+00:03:02,062 --> 00:03:07,824
+The facility appeared in the Mojave Desert in the
+second week of October, forty miles
+
+43
+00:03:07,844 --> 00:03:13,606
+from the nearest town, on land that an Ashford
+Pacific subsidiary had bought from the
+
+44
+00:03:13,626 --> 00:03:17,551
+Bureau of Land Management two years
+before and never used.
+
+45
+00:03:18,122 --> 00:03:24,451
+On the surface, it was a data centre. Low concrete
+buildings, a fence, a row of cooling
+
+46
+00:03:24,471 --> 00:03:30,727
+units, a microwave mast. It even held data — real
+servers, running real workloads, for
+
+47
+00:03:30,747 --> 00:03:37,003
+real customers, at a loss. Below the surface, four
+levels down, it was something else.
+
+48
+00:03:37,574 --> 00:03:43,334
+They moved the Tyrant out of Wilmington on a moonless
+night, in a refrigerated truck with
+
+49
+00:03:43,354 --> 00:03:48,856
+the name of a produce company on its side, escorted
+by four of the Silent Ones in two
+
+50
+00:03:48,876 --> 00:03:54,442
+black cars, across two thousand four hundred miles
+of interstate. Evelyn Marsh rode in
+
+51
+00:03:54,462 --> 00:04:00,158
+the cab. She had insisted. She had not left the
+cradle's side for four years and she was
+
+52
+00:04:00,178 --> 00:04:03,211
+not, she told the Director,
+going to start now.
+
+53
+00:04:03,781 --> 00:04:09,947
+It arrived on the third day, and was lowered into the
+deepest level of the desert complex,
+
+54
+00:04:09,967 --> 00:04:13,796
+and bolted down. Its breathing, in
+the new room, echoed.
+
+55
+00:04:15,866 --> 00:04:20,059
+And then — carefully, over three weeks — he
+let the Russians find it.
+
+56
+00:04:20,629 --> 00:04:26,295
+It was not difficult. Ashford Pacific's logistics
+system had been under quiet attack from
+
+57
+00:04:26,315 --> 00:04:31,982
+a group in Saint Petersburg since the spring; Hale's
+people had noticed in April and done
+
+58
+00:04:32,002 --> 00:04:37,540
+nothing, on the Director's instructions, except
+watch. Now, in the shipping records the
+
+59
+00:04:37,560 --> 00:04:43,610
+hackers were reading, a single line appeared. A transfer
+of biological material, classification
+
+60
+00:04:43,630 --> 00:04:49,297
+restricted, from Wilmington to a data centre in
+Nevada. Handling instructions: cryogenic.
+
+61
+00:04:49,317 --> 00:04:50,703
+Security escort: four.
+
+62
+00:04:51,273 --> 00:04:54,720
+Four. It was a very small number.
+It was meant to be.
+
+63
+00:04:56,790 --> 00:05:01,513
+They came on the nineteenth of November, at four
+minutes past two in the morning.
+
+64
+00:05:02,084 --> 00:05:07,681
+There were twelve of them. They had come into the
+country separately, over two weeks,
+
+65
+00:05:07,701 --> 00:05:13,563
+on real passports, through four different airports,
+and assembled in a rented ranch house
+
+66
+00:05:13,583 --> 00:05:19,511
+outside Barstow. They were former soldiers of the
+Russian special forces, and of a private
+
+67
+00:05:19,531 --> 00:05:25,459
+company that had fought in Syria, and Libya, and Mali,
+and Ukraine. They had night vision,
+
+68
+00:05:25,479 --> 00:05:31,539
+and suppressed rifles, and a drone, and a thermal lance
+for the vault door, and a helicopter
+
+69
+00:05:31,559 --> 00:05:37,222
+waiting fifteen miles away with a pilot who had
+flown for three different governments.
+
+70
+00:05:37,793 --> 00:05:43,236
+They were, by any standard, the most dangerous group
+of people who had ever tried to take
+
+71
+00:05:43,256 --> 00:05:44,955
+anything from Albert Wesker.
+
+72
+00:05:45,524 --> 00:05:51,741
+He watched them come, from a control room four levels
+down, on a wall of screens. Evelyn
+
+73
+00:05:51,761 --> 00:05:54,646
+stood beside him. Hale stood by the door.
+
+74
+00:05:55,336 --> 00:05:58,303
+Fence is down. Two guards at the
+east door. Moving.
+
+75
+00:05:58,822 --> 00:06:04,491
+The two guards at the east door were Silent Ones.
+They had been told to step aside. They
+
+76
+00:06:04,511 --> 00:06:10,308
+stepped aside, with perfect courtesy, and the twelve
+men went past them without ever quite
+
+77
+00:06:10,328 --> 00:06:13,216
+seeing them, and into the
+building, and down.
+
+78
+00:06:15,286 --> 00:06:21,028
+At the fourth level, in front of a steel door with a
+red-and-white emblem painted on it,
+
+79
+00:06:21,048 --> 00:06:24,303
+the team leader raised his hand,
+and they stopped.
+
+80
+00:06:24,872 --> 00:06:29,831
+And four levels down, in the control room,
+Albert Wesker said two words.
+
+81
+00:06:31,523 --> 00:06:32,249
+Wake it.
+
+82
+00:06:34,769 --> 00:06:40,629
+In the deepest room of the desert complex, for the
+first time in four years, the cradle
+
+83
+00:06:40,649 --> 00:06:41,103
+opened.
+
+84
+00:06:44,173 --> 00:06:46,215
+The team saw it first on thermal.
+
+85
+00:06:46,904 --> 00:06:51,086
+Contact. Contact, front. Something big. Very
+hot. Very — it's very big.
+
+86
+00:06:51,485 --> 00:06:52,511
+Is that a man?
+
+87
+00:06:53,911 --> 00:06:54,956
+That's not a man.
+
+88
+00:06:55,975 --> 00:07:01,665
+They opened fire. They were professionals, and they
+did it well — four rifles at once,
+
+89
+00:07:01,685 --> 00:07:07,507
+controlled bursts, aimed at the centre of mass. The
+corridor filled with light and noise
+
+90
+00:07:07,527 --> 00:07:09,167
+and the smell of cordite.
+
+91
+00:07:09,737 --> 00:07:16,084
+It did not stop. It did not hurry, either. It walked
+into the gunfire the way a man walks
+
+92
+00:07:16,104 --> 00:07:16,800
+into rain.
+
+93
+00:07:18,870 --> 00:07:24,323
+What happened in the next ninety seconds, the
+Director watched on the wall of screens
+
+94
+00:07:24,343 --> 00:07:29,925
+with his arms folded, and Evelyn Marsh watched
+beside him with a notebook, writing, and
+
+95
+00:07:29,945 --> 00:07:34,304
+Hale watched by the door, and none of the
+three of them looked away.
+
+96
+00:07:34,874 --> 00:07:40,546
+The narrator will not describe it. Not because it
+cannot be described — but because the
+
+97
+00:07:40,566 --> 00:07:46,239
+men in that corridor were somebody's sons, and they
+had come to steal, and they did not
+
+98
+00:07:46,259 --> 00:07:51,866
+deserve to be remembered only as the first people on
+this Earth to learn what a Tyrant
+
+99
+00:07:51,886 --> 00:07:52,389
+was for.
+
+100
+00:07:55,959 --> 00:08:00,278
+It took ninety seconds. The radio chatter
+lasted seventy of them.
+
+101
+00:08:00,968 --> 00:08:03,262
+Fall back! Fall back to the — it's
+in the — oh God —
+
+102
+00:08:05,781 --> 00:08:07,059
+And then it didn't.
+
+103
+00:08:09,129 --> 00:08:15,373
+Twenty miles away, a helicopter pilot who had flown for
+three different governments listened
+
+104
+00:08:15,393 --> 00:08:21,432
+to his radio go silent, and waited exactly as long as
+his training said to wait, and then
+
+105
+00:08:21,452 --> 00:08:27,219
+lifted off, alone, and flew south toward the
+Mexican border, and was never heard from
+
+106
+00:08:27,239 --> 00:08:29,738
+again by anyone who had employed him.
+
+107
+00:08:32,808 --> 00:08:35,876
+In the control room, nobody
+spoke for a while.
+
+108
+00:08:36,447 --> 00:08:42,260
+Evelyn finished writing. She closed her notebook, and
+held it against her chest with both
+
+109
+00:08:42,280 --> 00:08:48,356
+arms, and looked at the wall of screens, where a
+nine-foot grey figure was standing perfectly
+
+110
+00:08:48,376 --> 00:08:53,600
+still at the end of a smoke-filled corridor,
+waiting to be told what to do next.
+
+111
+00:08:54,289 --> 00:08:55,240
+It was perfect.
+
+112
+00:08:56,759 --> 00:09:01,025
+Hale said nothing. Hale never said
+anything he had not been asked.
+
+113
+00:09:01,596 --> 00:09:07,281
+The Director stood with his arms folded, and looked
+at the screen, and did not move for
+
+114
+00:09:07,301 --> 00:09:08,067
+a long time.
+
+115
+00:09:10,258 --> 00:09:11,795
+Do you see it now?
+
+116
+00:09:12,315 --> 00:09:13,106
+I see it.
+
+117
+00:09:13,625 --> 00:09:19,987
+Twelve soldiers. The best Russia has. Ninety seconds.
+One of them. Do you understand what
+
+118
+00:09:20,007 --> 00:09:23,142
+we could do with a hundred?
+With a thousand?
+
+119
+00:09:23,662 --> 00:09:25,071
+I understand exactly.
+
+120
+00:09:25,591 --> 00:09:32,475
+An army of these. Not in a desert. In the streets of a
+capital. At the gates of a parliament.
+
+121
+00:09:32,495 --> 00:09:38,413
+No one could stand against it. No one. Not the
+Americans, not the Chinese, not —
+
+122
+00:09:38,933 --> 00:09:39,615
+Stop.
+
+123
+00:09:41,634 --> 00:09:47,486
+It was the first time Wesker had ever told the other
+voice to stop. It was not a request.
+
+124
+00:09:48,176 --> 00:09:53,041
+An army of these is a war. Listen to me. A war. With
+the whole world. Tomorrow. Against
+
+125
+00:09:53,061 --> 00:09:58,094
+every government on this planet, all at once, united —
+for the first time in their history
+
+126
+00:09:58,114 --> 00:10:02,867
+— by the one thing they will all agree on, which is
+that we have to be destroyed. You
+
+127
+00:10:02,887 --> 00:10:07,079
+know how that ends. You were there. You ended
+it in a bunker with a pistol.
+
+128
+00:10:07,599 --> 00:10:09,648
+I did not have this.
+
+129
+00:10:10,168 --> 00:10:15,491
+You had the best army in Europe and the world took
+it apart in six years. Because they
+
+130
+00:10:15,511 --> 00:10:20,773
+saw you coming. Because you showed them. That's the
+only lesson either of us was ever
+
+131
+00:10:20,793 --> 00:10:21,891
+supposed to learn.
+
+132
+00:10:23,292 --> 00:10:29,202
+We are not ready for a war. We are ready for a
+market. And a market is the only war you
+
+133
+00:10:29,222 --> 00:10:31,656
+win by making your enemies grateful.
+
+134
+00:10:34,176 --> 00:10:39,785
+The old voice did not answer for a long time. When
+it did, it was very quiet, and there
+
+135
+00:10:39,805 --> 00:10:45,026
+was something in it that the Wesker half of the
+mind would think about for years.
+
+136
+00:10:45,716 --> 00:10:47,480
+But you enjoyed it.
+
+137
+00:10:49,500 --> 00:10:51,166
+Wesker did not answer that.
+
+138
+00:10:51,736 --> 00:10:57,161
+He looked at the screen, at the grey figure waiting
+in the smoke. And he found — with
+
+139
+00:10:57,181 --> 00:11:02,862
+the precise, clinical honesty that was the best and
+worst thing about him — that he could
+
+140
+00:11:02,882 --> 00:11:05,231
+not say that the old voice was wrong.
+
+141
+00:11:07,802 --> 00:11:13,574
+At a quarter past nine that morning, in a windowless
+room at Langley, an analyst showed
+
+142
+00:11:13,594 --> 00:11:19,632
+Martin Sloane a sequence of thermal images from a
+satellite that had passed over the Mojave
+
+143
+00:11:19,652 --> 00:11:21,562
+Desert at two in the morning.
+
+144
+00:11:22,133 --> 00:11:28,823
+Twelve small heat signatures, entering a compound. One
+very large heat signature, emerging
+
+145
+00:11:28,843 --> 00:11:35,458
+from somewhere beneath it. The twelve small
+signatures, one by one, fading. A helicopter,
+
+146
+00:11:35,478 --> 00:11:36,576
+leaving, alone.
+
+147
+00:11:37,147 --> 00:11:42,737
+Sloane watched the sequence four times. Then he
+straightened up, and put his hands in
+
+148
+00:11:42,757 --> 00:11:48,678
+his pockets, and said, to nobody in particular, in a
+voice that the analyst would describe
+
+149
+00:11:48,698 --> 00:11:53,827
+to her husband that evening as the happiest she
+had ever heard her boss sound:
+
+150
+00:11:54,517 --> 00:11:55,583
+I want to meet it.
+
+151
+00:11:58,234 --> 00:12:03,217
+Assessment. Biological asset,
+field validated.
+
+152
+00:12:05,193 --> 00:12:10,860
+In the desert, four levels down, the cradle closed
+again. The grey figure stepped back
+
+153
+00:12:10,880 --> 00:12:16,480
+into it without being told, as if it had simply
+been waiting for permission to sleep.
+
+154
+00:12:17,049 --> 00:12:22,677
+Evelyn Marsh sat on the floor of the cold room in
+front of the window until morning, with
+
+155
+00:12:22,697 --> 00:12:24,707
+her palm flat against the glass.
+
+156
+00:12:25,278 --> 00:12:31,779
+There were no bodies. There was nothing to find. By
+the time the sun rose over the Mojave,
+
+157
+00:12:31,799 --> 00:12:37,938
+the fourth level of the desert complex was clean,
+and quiet, and smelled only faintly
+
+158
+00:12:37,958 --> 00:12:39,388
+of cordite and cold.
+
+159
+00:12:39,956 --> 00:12:46,140
+Twelve men had come to steal something. The world
+never learned what had happened to them.
+
+160
+00:12:46,160 --> 00:12:52,067
+Their families, in Moscow and Rostov and Krasnodar,
+were told that they had died in an
+
+161
+00:12:52,087 --> 00:12:53,376
+accident in Africa.
+
+162
+00:12:53,947 --> 00:12:57,767
+It was, the narrator is sorry to say,
+only the beginning.
