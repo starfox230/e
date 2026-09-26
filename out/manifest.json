@@ -1,13 +1,374 @@
 {
- "total_s": 834.32,
- "total_hms": "13:54",
+ "total_s": 40729.52,
+ "total_hms": "11:18:49",
  "chapters": [
+  {
+   "chapter": 1,
+   "title": "Two Deaths and a Chair",
+   "movement": [
+    "I",
+    "The Garage Empire"
+   ],
+   "offset_s": 0.0,
+   "duration_s": 971.877
+  },
+  {
+   "chapter": 2,
+   "title": "Payroll",
+   "movement": null,
+   "offset_s": 971.877,
+   "duration_s": 954.236
+  },
+  {
+   "chapter": 3,
+   "title": "The First Purchase",
+   "movement": null,
+   "offset_s": 1926.113,
+   "duration_s": 761.896
+  },
   {
    "chapter": 4,
    "title": "Fate, or Variance",
    "movement": null,
-   "offset_s": 0.0,
+   "offset_s": 2688.009,
    "duration_s": 834.324
+  },
+  {
+   "chapter": 5,
+   "title": "The Landlord, the Inspector, and the Reporter",
+   "movement": null,
+   "offset_s": 3522.333,
+   "duration_s": 807.693
+  },
+  {
+   "chapter": 6,
+   "title": "The Leak",
+   "movement": null,
+   "offset_s": 4330.026,
+   "duration_s": 792.972
+  },
+  {
+   "chapter": 7,
+   "title": "Sermon in a Break Room",
+   "movement": null,
+   "offset_s": 5122.998,
+   "duration_s": 775.813
+  },
+  {
+   "chapter": 8,
+   "title": "Verdant Axis",
+   "movement": null,
+   "offset_s": 5898.811,
+   "duration_s": 832.173
+  },
+  {
+   "chapter": 9,
+   "title": "The Name on the Door",
+   "movement": null,
+   "offset_s": 6730.984,
+   "duration_s": 939.392
+  },
+  {
+   "chapter": 10,
+   "title": "The Clean Face",
+   "movement": [
+    "II",
+    "The Company That Should Not Exist"
+   ],
+   "offset_s": 7670.376,
+   "duration_s": 832.05
+  },
+  {
+   "chapter": 11,
+   "title": "Aeterna",
+   "movement": null,
+   "offset_s": 8502.426,
+   "duration_s": 841.154
+  },
+  {
+   "chapter": 12,
+   "title": "The Black Interior",
+   "movement": null,
+   "offset_s": 9343.58,
+   "duration_s": 877.238
+  },
+  {
+   "chapter": 13,
+   "title": "The Recruiter",
+   "movement": null,
+   "offset_s": 10220.818,
+   "duration_s": 741.931
+  },
+  {
+   "chapter": 14,
+   "title": "The Story Can Smell You Back",
+   "movement": null,
+   "offset_s": 10962.749,
+   "duration_s": 772.894
+  },
+  {
+   "chapter": 15,
+   "title": "Nadia",
+   "movement": null,
+   "offset_s": 11735.643,
+   "duration_s": 813.742
+  },
+  {
+   "chapter": 16,
+   "title": "The Creed",
+   "movement": null,
+   "offset_s": 12549.385,
+   "duration_s": 703.636
+  },
+  {
+   "chapter": 17,
+   "title": "Special Agent Carrick",
+   "movement": [
+    "III",
+    "The Agencies"
+   ],
+   "offset_s": 13253.021,
+   "duration_s": 975.102
+  },
+  {
+   "chapter": 18,
+   "title": "Chain of Custody",
+   "movement": null,
+   "offset_s": 14228.123,
+   "duration_s": 758.569
+  },
+  {
+   "chapter": 19,
+   "title": "The Ghost Video",
+   "movement": null,
+   "offset_s": 14986.692,
+   "duration_s": 990.391
+  },
+  {
+   "chapter": 20,
+   "title": "Frame 1,114",
+   "movement": null,
+   "offset_s": 15977.083,
+   "duration_s": 780.155
+  },
+  {
+   "chapter": 21,
+   "title": "The Hunt",
+   "movement": null,
+   "offset_s": 16757.238,
+   "duration_s": 744.394
+  },
+  {
+   "chapter": 22,
+   "title": "T-00",
+   "movement": null,
+   "offset_s": 17501.632,
+   "duration_s": 783.837
+  },
+  {
+   "chapter": 23,
+   "title": "Foreign Eyes",
+   "movement": null,
+   "offset_s": 18285.469,
+   "duration_s": 803.284
+  },
+  {
+   "chapter": 24,
+   "title": "Carrick Breaks",
+   "movement": null,
+   "offset_s": 19088.753,
+   "duration_s": 725.486
+  },
+  {
+   "chapter": 25,
+   "title": "The Asset",
+   "movement": null,
+   "offset_s": 19814.239,
+   "duration_s": 778.829
+  },
+  {
+   "chapter": 26,
+   "title": "Halvorsen Pike",
+   "movement": [
+    "IV",
+    "Corporate Conquest"
+   ],
+   "offset_s": 20593.068,
+   "duration_s": 865.008
+  },
+  {
+   "chapter": 27,
+   "title": "Chancery",
+   "movement": null,
+   "offset_s": 21458.076,
+   "duration_s": 700.214
+  },
+  {
+   "chapter": 28,
+   "title": "Aegis",
+   "movement": null,
+   "offset_s": 22158.29,
+   "duration_s": 834.687
+  },
+  {
+   "chapter": 29,
+   "title": "Lumen",
+   "movement": null,
+   "offset_s": 22992.977,
+   "duration_s": 768.234
+  },
+  {
+   "chapter": 30,
+   "title": "Tianhe",
+   "movement": null,
+   "offset_s": 23761.211,
+   "duration_s": 706.685
+  },
+  {
+   "chapter": 31,
+   "title": "The Market Tilts",
+   "movement": null,
+   "offset_s": 24467.896,
+   "duration_s": 756.8
+  },
+  {
+   "chapter": 32,
+   "title": "Sixty Thousand",
+   "movement": null,
+   "offset_s": 25224.696,
+   "duration_s": 823.905
+  },
+  {
+   "chapter": 33,
+   "title": "Pale Horse",
+   "movement": [
+    "V",
+    "The Visible King"
+   ],
+   "offset_s": 26048.601,
+   "duration_s": 777.915
+  },
+  {
+   "chapter": 34,
+   "title": "Arklay Free Territory",
+   "movement": null,
+   "offset_s": 26826.516,
+   "duration_s": 886.303
+  },
+  {
+   "chapter": 35,
+   "title": "The Believers",
+   "movement": null,
+   "offset_s": 27712.819,
+   "duration_s": 825.928
+  },
+  {
+   "chapter": 36,
+   "title": "Basel",
+   "movement": null,
+   "offset_s": 28538.747,
+   "duration_s": 937.755
+  },
+  {
+   "chapter": 37,
+   "title": "Lantern",
+   "movement": null,
+   "offset_s": 29476.502,
+   "duration_s": 813.023
+  },
+  {
+   "chapter": 38,
+   "title": "The Quiet War",
+   "movement": null,
+   "offset_s": 30289.525,
+   "duration_s": 847.676
+  },
+  {
+   "chapter": 39,
+   "title": "Washington",
+   "movement": null,
+   "offset_s": 31137.201,
+   "duration_s": 774.084
+  },
+  {
+   "chapter": 40,
+   "title": "Beijing and Moscow",
+   "movement": null,
+   "offset_s": 31911.285,
+   "duration_s": 922.759
+  },
+  {
+   "chapter": 41,
+   "title": "The Chant",
+   "movement": null,
+   "offset_s": 32834.044,
+   "duration_s": 731.211
+  },
+  {
+   "chapter": 42,
+   "title": "The Administration",
+   "movement": [
+    "VI",
+    "The Sky"
+   ],
+   "offset_s": 33565.255,
+   "duration_s": 810.702
+  },
+  {
+   "chapter": 43,
+   "title": "Dock One",
+   "movement": null,
+   "offset_s": 34375.957,
+   "duration_s": 828.232
+  },
+  {
+   "chapter": 44,
+   "title": "The Tollhouse",
+   "movement": null,
+   "offset_s": 35204.189,
+   "duration_s": 1125.292
+  },
+  {
+   "chapter": 45,
+   "title": "The Long Preparation",
+   "movement": null,
+   "offset_s": 36329.481,
+   "duration_s": 703.673
+  },
+  {
+   "chapter": 46,
+   "title": "The Hegemony",
+   "movement": null,
+   "offset_s": 37033.154,
+   "duration_s": 699.555
+  },
+  {
+   "chapter": 47,
+   "title": "The Choir War",
+   "movement": null,
+   "offset_s": 37732.709,
+   "duration_s": 788.927
+  },
+  {
+   "chapter": 48,
+   "title": "The Matriarch",
+   "movement": null,
+   "offset_s": 38521.636,
+   "duration_s": 797.256
+  },
+  {
+   "chapter": 49,
+   "title": "Peer or Plague",
+   "movement": null,
+   "offset_s": 39318.892,
+   "duration_s": 670.939
+  },
+  {
+   "chapter": 50,
+   "title": "The Banner",
+   "movement": null,
+   "offset_s": 39989.831,
+   "duration_s": 739.685
   }
  ]
 }
