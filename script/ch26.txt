@@ -1,0 +1,126 @@
+# 26 | Halvorsen Pike
+@movement IV | Corporate Conquest
+
+[music] m_corporate -6
+[amb] amb_office_hum
+[img] a gleaming corporate campus of a giant pharmaceutical company on the Rhine in Basel, modernist towers, a large blue corporate logo, winter morning, cinematic
+[loc] 2032
+N: By the winter of twenty thirty-two, Umbrella Life Sciences was worth six hundred billion dollars.
+N: Aeterna had become the best-selling medicine in the history of the world. The assay was in eighty thousand hospitals. The rapid-response platform had delivered, for the Department of Defense, a vaccine against a synthetic test pathogen in eight days — one fewer than promised — and the Pentagon had quietly doubled the contract. Umbrella employed forty-one thousand people on four continents, and every one of them had put a hand on their chest on their first morning and said: we are the shelter.
+N: And the Director had begun to eat.
+[pause 1.5]
+[img] a large boardroom screen showing a ranked list of the world's largest pharmaceutical companies by market value, with UMBRELLA at the top and HALVORSEN PIKE second, cinematic
+N: The first company he ate was the one that had tried to steal from him.
+N: Halvorsen Pike was the second-largest pharmaceutical company on Earth — a Swiss-American giant, headquartered in New Jersey and in Basel, with a hundred and eighty thousand employees, three hundred billion dollars of market value, and a hundred and forty years of history. It had made the first mass-produced penicillin in Europe. It had made the vaccines that ended polio in forty countries. It had made, in the nineteen-nineties, a heart drug that had kept one in every twenty Americans over sixty alive.
+N: And in the autumn of twenty twenty-nine, through three layers of consultants and a man named Simon Ferris, it had paid four men with rifles to break into a building in Wilmington, where Howard Lessing had been shot dead against a freezer.
+[pause 1.5]
+ADOLF: (cold) They killed one of ours.
+WESKER: They killed a man who was betraying us. For money. To them.
+ADOLF: He was ours. He died in our building. That is a debt.
+WESKER: For once, Adolf, we agree.
+[pause 1.5]
+
+[music] m_scheme -8
+[img] {HALVORSEN} a tall silver-haired woman in a white suit standing at a floor-to-ceiling window in a Basel office overlooking the Rhine, arms folded, formidable, cinematic
+N: Halvorsen Pike was run by a woman named Ingrid Halvorsen, and the company carried her great-grandfather's name.
+N: She was sixty-four. She had been born in Bergen, trained as a heart surgeon in Oslo and at Johns Hopkins, and had operated for eleven years before she moved into the family business, because her brother had died and there was no one else. She had run Halvorsen Pike for sixteen years. She was brilliant, and cold, and completely fearless, and she had faced down governments, activist investors, and the European Commission, and she had never once lost.
+N: She had not known about the break-in. That was the truth, and the Director knew it. Simon Ferris had gone through a budget she never saw, to a consultant she had never heard of, and she had learned about Nevada and Wilmington only when a young man from Umbrella's digital department had arranged — anonymously — for a national newspaper to learn about it first.
+N: It did not matter. She was the chief executive. It was her company. The debt was hers.
+[pause 1.5]
+
+[music] m_rain_piano -8
+[amb] amb_wind -8
+[img] snowy Swiss mountain town of Davos at night during the World Economic Forum, security barriers, limousines, lit hotels, snow falling, cinematic
+[loc] Davos, Switzerland — World Economic Forum, January 2032
+N: They met in Davos, in January, because everyone meets in Davos.
+N: It was the week of the World Economic Forum, when the chief executives of the thousand largest companies on Earth, and a few dozen heads of government, and a great many people who wanted to stand near them, gather in a small ski town in the Swiss Alps to discuss, in panels and at dinners and in private chalets, how the world should be run. The Director had been invited for the first time. He had declined to speak on any panel. He had accepted every private meeting.
+[img] an elegant private wooden chalet interior with a roaring fire and snowy windows, {HALVORSEN} seated in an armchair, {WESKER} standing by the fire, cinematic
+N: Ingrid Halvorsen received him in a private chalet above the town, at eleven at night, by a fire. She did not offer him a drink. She did not stand up.
+HALVORSEN: Let me save us both some time, Doctor Wesker. I know why you're here. You're going to tell me that Umbrella would like to acquire my company. You're going to call it a merger of equals, and we both know there is no such thing. And I'm going to tell you no.
+WESKER: That's very efficient.
+HALVORSEN: I was a surgeon. We don't talk while the patient bleeds.
+[pause 1.0]
+WESKER: I wasn't going to call it a merger of equals.
+HALVORSEN: No?
+WESKER: I was going to call it what it is. You owe me a debt. I've come to collect it.
+[pause 1.5]
+N: She looked at him for a long moment. He had taken off his sunglasses, because the chalet was dim, and the Cold-Read was already giving him Ingrid Halvorsen in pieces — and the pieces were extraordinary. There was no fear. There was anger, very controlled. There was guilt, which surprised him — genuine guilt, for a dead man in Wilmington she had never met. And there was something beneath it that he had seen perhaps three times in this world. Pride. Not vanity. Pride, of the old kind, that a person takes in something they did not build but have been entrusted to keep.
+HALVORSEN: If you mean Wilmington — I did not know. The man responsible no longer works for me. He is cooperating with the prosecutors in New Jersey. I have made my own apology to Doctor Lessing's widow, privately, and she has accepted it. And the company has paid her a great deal of money, which she has also accepted.
+WESKER: I know.
+HALVORSEN: Then you know there is no debt.
+WESKER: There's always a debt, Doctor Halvorsen. The only question is who decides when it's been paid.
+[pause 1.5]
+[img] extreme close-up of {HALVORSEN}'s face by firelight, steely, unafraid, meeting his gaze directly, cinematic
+N: She did not look away. Very few people ever managed that, at a range of eight feet, with his glasses off. She managed it for a full ten seconds, and when she spoke again, her voice had not changed at all.
+HALVORSEN: My great-grandfather started this company in a barn outside Bergen in eighteen ninety-two. It has survived two world wars, the Spanish flu, the Depression, four recessions, and a German occupation of Norway during which he hid a laboratory in a fish-canning plant rather than let them have it. It is not going to be eaten by a man who appeared from nowhere five years ago and has, I am told, very unusual eyes.
+[pause 1.5]
+N: The Director smiled. It was a genuine smile, and the Cold-Read would have told anyone who could see it that it held a great deal of respect.
+WESKER: I'm going to take your company, Ingrid. I'm going to take it in the open, with a letter and a vote, according to every law in every country it operates in. You'll fight. You'll fight very well. And you'll lose. I wanted you to hear that from me, here, by a fire, and not from your general counsel at six in the morning.
+HALVORSEN: How very courteous.
+WESKER: I find that the people I respect should be told the truth. It's the only luxury I can afford them.
+[pause 2.0]
+
+[music] m_tension -6
+[amb] amb_office_hum
+[img] a formal letter on thick paper with an Umbrella letterhead addressed to the Board of Directors of Halvorsen Pike, a large premium figure visible, laid on a boardroom table, cinematic
+[loc] 3 February 2032
+N: The letter went out on the third of February.
+N: It was addressed to the board of directors of Halvorsen Pike, and it was released to the press at the same moment it was delivered — which is what bankers call a bear hug, because it is an embrace that you cannot get out of. It offered Halvorsen Pike's shareholders one share of Umbrella for every two and a half of theirs: a premium of forty-one percent, worth four hundred and twenty billion dollars, the largest corporate acquisition ever proposed.
+[img] a busy trading floor with dozens of screens showing HALVORSEN PIKE stock surging, traders on phones, chaos and excitement, cinematic
+[sfx] sfx_phone_ring g-10
+N: Halvorsen Pike's shares rose thirty-two percent before lunch. The board rejected the offer by five in the afternoon. By Friday, it had adopted a shareholder rights plan — a poison pill, which would flood the market with new shares if any single buyer crossed fifteen percent, and make any hostile takeover ruinously expensive.
+N: Catherine Adeyemi read the rights plan at her desk on the eleventh floor, and laughed, once, and said to her team: good. Now it's interesting.
+[pause 1.5]
+
+[music] m_corporate -8
+[img] {CATHERINE} at a whiteboard in a glass war room covered in diagrams of shareholder percentages, proxy votes and board seats, a team of analysts around her, energized, cinematic
+N: The war that followed lasted eleven weeks, and it was fought, as all such wars are now fought, almost entirely in documents.
+N: Catherine ran it from a glass war room on the eleventh floor, with thirty analysts, four investment banks, three law firms, and the particular brilliance of a woman who had spent her whole career watching men like Ingrid Halvorsen defend companies like Halvorsen Pike, and knew every move before it was made. If the poison pill stopped Umbrella buying shares, then Umbrella would not buy shares. It would buy votes. Halvorsen Pike's annual meeting was in May. At it, four of the company's twelve directors were up for election. Umbrella would nominate four of its own, and persuade the shareholders — the pension funds, the index funds, the sovereign wealth funds that owned most of the company — to elect them. And once Umbrella's directors were in the room, they would make the case, from the inside, for removing the pill.
+N: It was called a proxy fight. It was the oldest weapon in corporate America. And Catherine had never enjoyed anything so much in her life.
+[pause 1.0]
+[img] {CATHERINE} alone late at night in the war room, looking at her reflection in the dark glass with a complicated expression, the city lights beyond, cinematic
+N: That was the thing she noticed, one night in March, alone in the war room at two in the morning, looking at her reflection in the dark glass. She was enjoying it.
+N: She had joined Umbrella five years before to be close to the most interesting bet of her life. She had stayed after the money in the ground because she wanted to be on the side that won. And now, standing in a glass room at two in the morning, planning the destruction of a hundred-and-forty-year-old company whose chief executive had done nothing to her but refuse to be eaten, she found that she was not thinking about Ingrid Halvorsen at all. She was thinking about the vote.
+N: She thought about a white card, in her wallet, behind her own. She did not take it out.
+[pause 1.5]
+
+[music] m_tension -8
+[amb] amb_night_city
+[img] a newspaper front page with a headline linking Halvorsen Pike to the 2030 Wilmington break-in and a photo of the ghost video parking lot, a man reading it on a train, cinematic
+N: The Director's contribution to the war was smaller, and uglier, and it came in April.
+N: Halvorsen Pike's shareholders had been leaning toward Ingrid Halvorsen. She was admired. The company was old and trusted. And the index funds, which owned a third of it, were reluctant to hand the second-largest pharmaceutical company on Earth to a man whose most famous public appearance was eleven seconds of silence and whose second most famous was a smear on a dashcam.
+N: So Tomás arranged for the prosecutors' files in New Jersey — the ones about Simon Ferris, and the consultants, and the four men with rifles — to be read by a reporter at the largest financial newspaper in the world, three weeks before the vote.
+[img] {HALVORSEN} standing alone in a dark office holding a newspaper, her reflection in the rain-streaked window over the Rhine at night, grim, cinematic
+N: The story ran on a Monday. Its headline did not accuse Ingrid Halvorsen of anything. It did not need to. It simply put her company's name in the same sentence as the words armed intruders and dead scientist, and let the pension funds do the rest.
+N: Halvorsen Pike's stock fell nine percent. Two of the three largest index funds announced that they would, quote, support board refreshment.
+[pause 1.5]
+ADOLF: That was cruel.
+WESKER: That was accurate. Everything in that article is true.
+ADOLF: That is what made it cruel. You have learned my best trick, and dressed it in a suit.
+WESKER: (cold) Your best trick was lies. Mine is the truth, arranged. It lasts longer.
+[pause 2.0]
+
+[music] m_rain_piano -8
+[amb] amb_night_city
+[img] {CARRICK} in a small dark apartment at night answering a phone, a jam jar of flattened bullets on the windowsill, surprised, cinematic
+[loc] Chester, Pennsylvania — 21 April 2032, 11:50 p.m.
+N: Ingrid Halvorsen fought back the only way she had left. She went looking for somebody who knew what he was.
+N: It took her private investigators nine days to find the man. He was living alone by then, in a small apartment in Chester, working nights. He answered his phone on the first ring, because he always did.
+HALVORSEN: (phone) Mister Carrick. My name is Ingrid Halvorsen. I run a pharmaceutical company that Albert Wesker is about to take from me.
+CARRICK: (phone) I know who you are.
+HALVORSEN: (phone) I've read everything that was ever written about you. The dismissal. The bank account. The bullets. I've read it all, and I've read it the way a surgeon reads a chart. And I have concluded, Mister Carrick, that you were not having a breakdown.
+[pause 1.5]
+N: Owen Carrick sat down very slowly on the edge of his bed.
+N: In eleven months, he had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest. Every one of them had been kind. Not one of them had said what she had just said.
+CARRICK: (phone) (soft) Why are you calling me?
+HALVORSEN: (phone) Because I am going to lose this vote. And when I lose it, he will own the second-largest pharmaceutical company on Earth, and a hundred and eighty thousand people, and forty years of research that my family has spent a century building. And I have decided that I would rather spend what I have left of it finding out what he is.
+[pause 1.5]
+HALVORSEN: (phone) You said once — I read it in a deposition — that someone would have to stop him who wasn't you. I'm not you, Mister Carrick. I have eleven billion dollars in cash, and lawyers in forty countries, and friends in the European Commission. And I would like to hire you.
+[pause 2.0]
+[img] {CARRICK} sitting on the edge of a bed in the dark holding a phone, looking at a jam jar of flattened bullets glinting in streetlight on the windowsill, cinematic
+N: Carrick looked at the jam jar on the windowsill, where fifteen pieces of flattened lead caught the orange light from the street.
+N: He had told Hannah Price, six months before, that they would need to find someone who was not them. He had not imagined it would be a Norwegian heart surgeon with a pharmaceutical company.
+N: He had not imagined, either, that the voice at the back of his mind — the careerist, the one that had wanted to go to Washington, the one he had thought was dead — would stir at the sound of eleven billion dollars, and sit up, and pay attention.
+CARRICK: (phone) When do I start?
+[pause 3.0]
+[music] stop

@@ -1,0 +1,126 @@
+# 30 | Tianhe
+
+[music] m_tension -8
+[amb] amb_night_city
+[img] the dense glowing skyline of Shenzhen at night seen from a high-rise, neon, humid haze, rivers of traffic, a gleaming tower with a TIANHE GENOMICS sign, cinematic
+[loc] Shenzhen — 2034
+N: There was one company on Earth that Albert Wesker could not buy, and it was the only one that frightened Catherine Adeyemi.
+N: Tianhe Genomics was headquartered in Shenzhen, in a tower of green glass that looked across the water at Hong Kong. It had begun, twenty years before, as a gene-sequencing company that sold its services cheaply to hospitals across China, and it had grown, with the patient support of the Chinese state, into something that the American intelligence services described in their classified reports as a national champion, and that Tianhe's own employees described, on their first morning, as the future.
+N: It had sequenced the genomes of four hundred million people. It had the largest biological database in human history. And it answered, in the end, not to its shareholders, but to Beijing.
+[pause 1.5]
+[img] a sprawling Umbrella manufacturing plant in Singapore at night beside a bustling container port, cranes and ships, red and white emblems glowing, cinematic
+N: It had also, since twenty thirty-one, been trying to steal from Umbrella.
+N: Not with rifles. With patience. Umbrella's Singapore plant employed four thousand people. Nine of them, Hale's people had discovered over three years, were reporting — through relatives, through friends, through a very old and very careful network — to the Ministry of State Security in Beijing. Hale had not removed them. The Director had told him not to. It was the same principle as Howard Lessing: a spy you have found is a radio you control.
+N: But in the spring of twenty thirty-four, the radio began to receive something the Director had not put there. Somebody in Beijing had begun asking the nine to find out one specific thing. Not the formula for Aeterna. Not the vaccine platform.
+N: They wanted to know where the Director's blood was kept.
+[pause 2.0]
+
+[music] m_horror -10
+[img] {WEN} in a dark Beijing office at night standing before a wall of photographs and documents connected by thin red threads, at the centre a photo of a man in sunglasses, calm and methodical, cinematic
+N: Wen Shulan had been watching him for three years.
+N: She had watched the eleven seconds, and the ghost video, and the Court of Chancery, where he had taken off his sunglasses and shown a courtroom a pair of perfectly ordinary eyes. She had read Owen Carrick's affidavit, and Exhibit Twenty, and footnote fourteen. She had read the German patent analysis and the French report on the twelve Russians. And she had read, from the Ministry's own sources in Moscow, a copy of an order that an FSB colonel named Arkady Belov had given in January of twenty thirty-one. Find out what he is. And when you have found out, tell me how to kill it.
+N: Wen did not want to kill it. She was not a sentimental woman, and she did not believe in revenge. She believed in advantage. And she had concluded, after three years, that whatever made Albert Wesker what he was — whatever let him move at three hundred metres a second, and choose the colour of his own eyes, and file patents with no parents — was in him. In his body. In his blood.
+WEN: (soft) If we cannot buy the company, and we cannot copy the company, then we take the source.
+[pause 2.0]
+
+[music] m_scheme -8
+[amb] amb_night_city
+[img] a crowded luxury hotel lobby in Hong Kong during a medical conference, delegates with lanyards, {WESKER} walking through in a black coat and sunglasses flanked by two men in black suits, cinematic
+[loc] Hong Kong — May 2034
+N: The Director went to Hong Kong in May, for a medical conference at which Umbrella was the principal sponsor. He knew what was waiting for him. The nine radios in Singapore had told him, three weeks before, exactly what Beijing had asked them.
+ADOLF: You are walking into their city. Into their net. With two guards.
+WESKER: I'm walking into a conference, with two guards and a keynote. And I'd like to meet the woman who's been watching me for three years. She's the only one of them who's clever enough to be interesting.
+ADOLF: And if she tries to take you?
+WESKER: Then I'll learn something about Chinese intelligence. And she'll learn something about me.
+[pause 1.5]
+
+[music] m_action -6
+[img] a hotel service corridor at night, fluorescent lights, a figure in a black coat walking alone, shadows of several men converging at both ends, cinematic
+[loc] 2:10 a.m.
+N: They tried on the second night.
+N: It was very well done. The Director would say so afterwards, with real professional admiration. A power failure in the hotel's east tower, at ten past two in the morning — not complete, just enough to put the security cameras on backup and the lifts on emergency power. A fire alarm on his floor, which sent the two Silent Ones outside his door to check the stairwells, as their protocol required. And eleven men and women from the Ministry's special operations bureau, in the uniforms of hotel maintenance staff and fire marshals, waiting for him in the service corridor behind his suite, with a stretcher, and a sedative that could have put down a horse, and a van in the loading bay.
+[sfx] sfx_alarm g-4
+[img] eleven people in hotel staff and firefighter uniforms blocking a dim service corridor, one holding a syringe, others with batons and a stretcher, tense, cinematic
+N: He walked into the corridor on purpose. He had watched them take their positions, in the Thought Acceleration, from the other side of the door. Three trains of thought, at six hundred to one. In one of them, he had already counted their weapons. In another, he had worked out which of them was in charge. In the third, he was thinking about something else entirely — about a woman in Beijing, and what she would do when this failed.
+[pause 1.0]
+[sfx] sfx_whoosh
+[sfx] sfx_punch +0.2
+[sfx] sfx_body_fall +0.5
+[img] time frozen in a hotel corridor, a syringe suspended in mid-air after being knocked from a hand, figures caught mid-fall, a black coat streaking between them, cinematic
+N: It took eleven seconds. He did not kill anyone.
+N: That was the decision, and it had been made in the third room of the Memory Palace, before he opened the door. Dead Chinese agents in a Hong Kong hotel would be a diplomatic incident, and an incident was a story, and a story was something he could not control. Eleven unconscious Chinese agents in a Hong Kong hotel, found by the real fire marshals twenty minutes later, zip-tied to a service railing with their own restraints, with the syringe of horse sedative carefully capped and placed on the chest of the woman in charge — that was not a story. That was a message.
+[sfx] sfx_bone_snap g-12
+[pause 1.0]
+[img] eleven people in uniforms zip-tied unconscious to a railing in a hotel service corridor under emergency lighting, a capped syringe resting on one woman's chest, cinematic
+N: Hong Kong's police found them at two thirty-one. The Ministry of State Security never acknowledged that they existed. Neither did the Director. The hotel attributed the power failure to a faulty transformer, and apologised to its guests, and gave everyone on the east tower a complimentary breakfast.
+[pause 2.0]
+
+[music] m_scheme -10
+[amb] amb_night_city
+[img] a traditional Chinese tea house at dawn in Hong Kong with dark wood and paper screens, a single table by a window, {WEN} seated pouring tea, calm, cinematic
+[loc] A tea house in Sheung Wan — 6:00 a.m.
+N: At six in the morning, a note was slipped under the door of his suite. It was handwritten, in beautiful English, on plain paper. It said: I believe I owe you breakfast. It gave an address in Sheung Wan.
+N: He went alone.
+[img] {WEN} and {WESKER} seated across a small table in a traditional tea house at dawn, porcelain tea cups between them, soft window light, a chess-like calm, cinematic
+N: Wen Shulan was sitting at a table by the window of a small tea house that had been there since before the British left, pouring tea from a clay pot. She was fifty-nine. She wore a dark jacket and no jewellery. She did not stand up when he came in, and she did not apologise for the night before.
+WEN: You did not kill them.
+WESKER: No.
+WEN: May I ask why?
+WESKER: Because you'd have had to avenge them. And I'd rather you didn't have to do anything you didn't want to.
+[pause 1.5]
+N: She smiled, very slightly. It was the first smile anyone at the Ministry of State Security had seen from her in eleven years.
+WEN: That is either a kindness or a threat.
+WESKER: In my experience, the most useful things usually are both.
+[pause 1.5]
+[img] extreme close-up of {WEN}'s calm, intelligent eyes above a steaming tea cup, studying him, cinematic
+N: They talked for two hours. Neither of them lied, exactly. Neither of them told the truth, either. It was, the Director would reflect afterwards, the most enjoyable conversation he had had in either of his lives — two people who each knew precisely what the other was, and what the other wanted, and who had each decided to enjoy the game rather than pretend it was not being played.
+WEN: I have listened to your speeches. All of them. I have timed your silences. You speak like a man who learned his craft in front of crowds. Not boardrooms. Crowds. Very large ones. From long ago.
+WESKER: I watch a lot of old films.
+WEN: (cold) So do I. That is how I recognised it.
+[pause 2.0]
+N: In the quiet of one skull, the old voice went very, very still.
+N: It was the first time in eight years that anyone in this world had come within a mile of the truth. And it was a woman, in a tea house, with a clay pot, who had done it by listening to the rhythm of his sentences.
+[pause 1.5]
+ADOLF: (whisper) She knows.
+WESKER: (whisper) She suspects. It isn't the same thing. And she'll never be able to say it out loud, because the moment she does, she sounds like Owen Carrick.
+[pause 1.5]
+WEN: What do you want, Doctor Wesker? Not the company. You. What do you want?
+[pause 1.5]
+N: He looked out of the window, at the old street waking up — at the delivery bicycles, and the shutters going up, and the steam from a noodle stall across the road.
+WESKER: Order.
+WEN: For China?
+WESKER: For everyone.
+[pause 2.0]
+N: Wen Shulan looked at him for a long time. Then she set down her cup, very precisely, in the exact centre of its saucer.
+WEN: Then one day we will be enemies. Not today. I think not for some years. But one day.
+WESKER: I know.
+WEN: I would prefer, when that day comes, that it is you and I at the table. Not men like Belov.
+WESKER: So would I.
+[pause 2.0]
+N: They did not shake hands. She poured him a last cup of tea, and he drank it, and then he left, and she sat alone at the table by the window until the tea was cold.
+[pause 1.5]
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] a news broadcast in a busy airport showing a headline about Umbrella and Tianhe Genomics announcing a joint research venture, travellers walking past, cinematic
+N: Three weeks later, Umbrella Life Sciences and Tianhe Genomics announced a joint research venture in Singapore — a genomic medicine centre, funded equally, governed by a board of four from each side. The financial press called it a surprise. The American intelligence services called it, in a classified report, deeply concerning. Martin Sloane called the Director, very angry, and was told to trust him.
+N: It was not a surrender, and it was not an alliance. It was two chess players agreeing to share a board for a while, because each of them believed they would learn more about the other from across the table than from across the world.
+[pause 1.5]
+[sfx] sfx_system_chime
+[system] ASSESSMENT
+Foreign intelligence operation — repelled without casualties: 1,200,000
+Strategic accord — Tianhe Genomics: 1,500,000
+Rival recognised — Wen Shulan: peer
+Total: 2,700,000
+[say] Assessment. Rival recognised. Peer.
+[/system]
+N: Peer. The System had never used that word before, about anyone.
+N: The Adolf half of the mind looked at it for a long time, and did not like it at all.
+ADOLF: No one is our peer.
+WESKER: She is. For now. That's why I didn't kill her people.
+ADOLF: You are becoming sentimental about your enemies.
+WESKER: I'm becoming precise about them. You were never precise about your enemies. You hated them all equally. It made you predictable.
+[pause 1.5]
+N: The old voice did not answer. But in the Memory Palace, on the fourth floor, behind the door with no name, something wrote down the name Wen Shulan, and underlined it, twice, the way Evelyn Marsh underlined things in the margins of her notebooks.
+[pause 3.0]
+[music] stop

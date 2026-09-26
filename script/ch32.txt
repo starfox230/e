@@ -1,0 +1,177 @@
+# 32 | Sixty Thousand
+
+[music] m_corporate -8
+[amb] amb_office_hum
+[img] {TOMAS} in a vast production office surrounded by storyboards, screens and stage models of a stadium, a team of designers around him, feverish energy, cinematic
+[loc] 2035
+N: The Umbrella Congress was Tomás's idea. Everything big that year was Tomás's idea, or looked like it.
+N: He was thirty-three now, and his title was no longer head of digital. It was chief narrative officer — a title he had invented, and that three other companies had copied within a year. He ran a department of eleven hundred people across four continents whose job was to decide what the world felt about Umbrella, and then to make the world feel it. He had a corner office on the tenth floor and a house on the Brandywine and his student loans had been paid off for eight years.
+N: He had also not slept properly since the ghost video. He did not tell anyone that.
+[pause 1.5]
+[img] an architectural render of a football stadium transformed into a vast stage with a giant red and white umbrella emblem, LED walls, and a swarm of drones in the sky, cinematic
+N: The idea was simple. Once a year, Umbrella would bring its people together — not the executives, not the board, not the investors, but the people. The chemists and the drivers and the nurses from the foundation clinics and the security officers and the families. From every country Umbrella worked in. In one place, on one night, to hear the Director.
+N: Tomás booked the football stadium in South Philadelphia for the eleventh of September, twenty thirty-five. Sixty-eight thousand seats. Umbrella flew in eleven thousand employees from abroad, and chartered buses for thirty thousand from the eastern seaboard, and gave free tickets to every family member who wanted one.
+N: They filled it.
+[pause 1.5]
+
+[music] m_march -10
+[amb] amb_crowd_murmur
+[img] an enormous football stadium at dusk packed with sixty thousand people, many in white coats and red and white scarves, a giant stage at one end with a towering umbrella emblem, cinematic wide shot
+[loc] South Philadelphia — 11 September 2035, 7:40 p.m.
+N: They came in the late afternoon, in their tens of thousands, under a clear September sky. They came in white coats, some of them, because it was a joke that had become a tradition. They came with their children on their shoulders. They came in red-and-white scarves that Tomás's department had sold at cost, and they waved them, and filmed each other waving them, and posted the films, and the films were watched, that night, by two hundred million people.
+[img] families in red and white scarves in stadium stands taking selfies, children with painted umbrella emblems on their cheeks, joyful, cinematic
+N: They were happy. That is important. They were not soldiers or zealots or a mob. They were forty-one thousand people who worked for the best employer in the world, and nineteen thousand people who loved them, and they had been given free tickets to a concert and a speech and a light show, and it was a beautiful evening, and they were happy.
+N: That is always how it starts.
+[pause 1.5]
+[img] an old woman in a VIP box at a stadium looking down at the crowd with a pale drawn face, a glass of wine untouched, {CATHERINE}, cinematic
+N: In a glass box above the fifty-yard line, Catherine Adeyemi sat with a glass of wine she did not drink, and looked down at the crowd, and thought about a phone in her handbag that she had bought with cash.
+[img] {HANNAH} in a stadium press box with a laptop and a worn small spiral notebook open beside it, watching the crowd with a grim expression, cinematic
+N: In the press box, among forty journalists who had been given lanyards and free food, Hannah Price sat with her laptop closed and a small, worn spiral notebook open on the desk in front of her, to a page near the end.
+[img] {CARRICK} standing alone in a vast stadium parking lot at dusk among thousands of parked buses and cars, looking up at the glowing stadium, collar up, cinematic
+N: And in the parking lot outside, among the chartered buses, a man in a plain jacket stood by himself, with two private investigators from Oslo, and listened to the stadium breathe.
+[pause 2.0]
+
+[music] m_sermon -8
+[amb] amb_crowd_murmur -4
+[img] a swarm of thousands of glowing drones in the night sky above a stadium forming the shape of a giant red and white umbrella emblem, the crowd below looking up in awe, cinematic
+[sfx] sfx_crowd_cheer g-6
+N: At eight o'clock the lights went down, and the drones went up.
+N: Three thousand of them, built by the factory in Arlington that had once belonged to Aegis Dynamics, rising out of the dark behind the stadium in a single silent cloud, and assembling, a thousand feet above sixty thousand upturned faces, into an umbrella. Red and white. Eight segments. Turning slowly, like a thing seen from far above.
+N: The stadium roared. It was the first time. It was only the beginning.
+[pause 1.5]
+[img] sixty thousand people in a darkened stadium standing with right hands over their hearts, lit by phone lights and the glow of the drone emblem overhead, cinematic
+[music] m_sermon -12
+N: And then, without anyone telling them to — without an announcement, without a cue — they began to say it.
+N: It started in the section where the Singapore families were sitting, and spread, the way a wave spreads in a stadium, from section to section, until sixty thousand people were standing in the dark with their right hands on their chests.
+[sfx] sfx_creed_crowd
+N: We are the shelter. We do not wait for the storm. We make the world safe for those who cannot make it safe for themselves. What we learn, we keep. What we begin, we finish. Where we stand, the rain does not fall. We are not many. We are enough.
+[pause 0.8]
+N: We are Umbrella.
+[pause 2.5]
+
+[music] stop
+[amb] amb_crowd_murmur -10
+[img] {WESKER} walking alone onto a vast dark stage toward a single spotlight, tiny against a gigantic umbrella emblem, sixty thousand silhouettes watching, cinematic
+N: He walked out into the silence afterwards.
+N: Alone. No music. No introduction. A single spotlight on a single microphone in the centre of a stage the size of a city block, and a man in a black suit and sunglasses walking toward it, without hurrying, while sixty thousand people held their breath.
+N: He had planned to speak for five minutes. It was in Tomás's schedule. Five minutes, then the orchestra, then the fireworks, then the buses.
+[pause 1.5]
+[img] {WESKER} at a microphone on a vast stage in a spotlight, his face projected enormous on LED screens behind him, sunglasses reflecting the stadium lights, cinematic
+WESKER: Good evening.
+[pause 1.5]
+[sfx] sfx_crowd_cheer g-4
+N: The roar went on for forty seconds. He let it. He stood perfectly still at the microphone with his hands at his sides, and let it wash over him and break and die away, and he waited, until the silence came back, and then he waited a little longer.
+N: Eleven seconds. Somebody in the crowd counted it out loud. Then others did. By the ninth second, the whole stadium was counting, laughing, and at eleven they cheered again, because they had all seen the video, and they were all in on the joke.
+N: He smiled. He did not usually. The screens showed it, forty feet high.
+[pause 1.5]
+
+[music] m_sermon -10
+[img] faces in the stadium crowd lit by the stage, rapt, a nurse, a truck driver, a child on a father's shoulders, cinematic
+WESKER: Nine years ago, in a building two hours down the road from here, there were six people. Six. In a building nobody visited, in a company that was dying, doing work nobody read.
+WESKER: I told them something, in a break room, on a Friday afternoon. I told them that every great thing that has ever happened in this world began in a room exactly like that one. A room nobody was watching.
+[pause 1.2]
+WESKER: Look around you.
+[pause 2.5]
+[sfx] sfx_crowd_cheer g-8
+N: They looked around. Sixty thousand people, in the dark, looked at each other. And the Director felt it — the new sense, the one he had not yet bought, the one that the System would sell him that night — like the deck of a great ship tilting under his feet.
+[pause 1.5]
+WESKER: Nobody is watching this room. Not the governments. Not the newspapers. Not the men in glass towers who think they run the world. They are watching the drones, and the numbers, and the share price. They are not watching you.
+WESKER: They should be.
+[pause 2.0]
+N: That was where it changed.
+N: Tomás, in the production booth at the top of the north stand, would try for years to find the exact second on the recording, and would never be sure. But somewhere in that sentence, the rhythm changed. The voice did not get louder. It got — the only word Tomás ever found for it was — older.
+[pause 1.0]
+[music] m_sermon -4
+[img] the shadow of a man at a microphone cast gigantic across the entire LED wall of a stadium, the silhouette of the speaker merging with the umbrella emblem behind him, ominous, cinematic
+WESKER: Outside these walls, the world is a storm. You know it. You feel it every morning when you read the news. Governments that cannot build a bridge in ten years. Parliaments that argue while the water rises. Leaders who promise and forget and promise again. Every year the storm is worse, and every year the men who are supposed to hold the umbrella hold it a little lower, and a little lower, until the rain falls on everyone.
+[pause 1.0]
+WESKER: Not on you.
+[pause 1.0]
+WESKER: Where we stand — the rain does not fall.
+[pause 2.0]
+[sfx] sfx_crowd_cheer g-2
+N: The roar was different this time. Deeper. The Director could feel it in the stage, in the soles of his feet, in his chest, where the Prototype lived.
+N: And inside him — in a room on the fourth floor of an imaginary brick building, behind a door with no name — something had stood up, and walked to the window, and put both hands on the glass.
+[pause 1.5]
+WESKER: They will tell you that what we are building is too big. They will tell you that no company should be this strong. They will tell you to be afraid of us. And I want you to remember, when they say it, that they said the same thing about every good thing that was ever strong enough to protect anyone.
+WESKER: We are not many.
+[pause 0.8]
+N: And sixty thousand people answered him.
+[sfx] sfx_crowd_we_are_enough g-2
+N: We are enough.
+[pause 2.5]
+
+[music] m_march -2
+[amb] amb_crowd_murmur
+[img] sixty thousand people in a stadium chanting with raised fists and scarves, mouths open, a sea of red and white, drones glowing overhead, overwhelming, cinematic wide shot
+[sfx] sfx_chant_umbrella_long
+N: It began in the lower bowl, behind the stage. Three syllables. Somebody shouted them, and somebody else shouted them back, and then a whole section, stamping on the beat.
+N: Um. Brel. La.
+N: It spread. It went round the stadium like fire around the rim of a bowl. Um. Brel. La. Sixty thousand voices, and a hundred and twenty thousand feet on concrete, so loud that people in the neighbourhoods of South Philadelphia a mile away came out onto their porches to listen. Um. Brel. La. Um. Brel. La.
+[pause 3.0]
+[img] {WESKER} standing motionless at the microphone with his head slightly bowed as a stadium thunders around him, spotlight, his face unreadable, a faint red glow behind his sunglasses, cinematic
+N: He did not stop them. He stood at the microphone, perfectly still, and let it go on.
+N: This was the third threshold.
+N: The first had been a parking lot, and four men, and a dashcam. The second had been a desert, and twelve men, and a thing that walked through gunfire. This one had no bodies in it at all. It was only sixty thousand happy people, on a beautiful September night, chanting the name of a company.
+N: It was the most dangerous of the three.
+[pause 2.0]
+[music] m_sermon -6
+ADOLF: (whisper) Listen.
+[pause 1.0]
+ADOLF: (whisper) Listen to them.
+[pause 2.0]
+N: The old voice was weeping. There is no other word. Not with sorrow. With a joy so total and so old that it had been waiting a hundred years to be felt again — since beer halls, and torchlit stadiums, and a crowd that had once followed it over the edge of the world.
+N: And the Wesker half of the mind, standing at the microphone with the stadium thundering around it, felt something else. Something it had not expected, and would think about, alone, for a very long time.
+N: It was cold.
+[pause 1.5]
+WESKER: (whisper) It was too easy.
+ADOLF: (whisper) It is always easy. That is what no one ever understands. It is always, always easy.
+WESKER: (whisper) That's what frightens me.
+[pause 3.0]
+
+[music] m_system -4
+[amb] amb_crowd_murmur -12
+[sfx] sfx_system_open
+[img] a torrent of golden and crimson holographic panels exploding upward from a stage into the night sky above a chanting stadium, cinematic, overwhelming
+[system] ASSESSMENT
+Crowd — fanaticism: 60,000
+Belief — ignited
+Reward: 20,000,000 Points
+[say] Assessment. Crowd, fanaticism. Belief, ignited.
+[/system]
+[sfx] sfx_level_up
+[sfx] sfx_level_up +0.5
+[sfx] sfx_level_up +1.0
+[sfx] sfx_gacha_gold +1.5
+[system] LEVEL UP
+Level: 60
+[say] Level sixty.
+[/system]
+[system] NEW ABILITY
+Banner-Sense
+You will perceive the fanaticism of those who follow you.
+You will know which will break, and which will bloom.
+[say] New ability. Banner sense.
+[/system]
+N: He bought it standing at the microphone, while they chanted, and felt it arrive.
+N: The stadium was no longer sixty thousand people. It was one thing. A single great organism, breathing, with sixty thousand hearts, and he could feel every one of them — which were burning, which were flickering, which were afraid of the thing they were feeling and chanting anyway. He could feel a nurse from Lagos in section two-fourteen who would die for him. He could feel a chemist from Cambridge in section one-ten who was chanting because everyone else was, and would remember it with shame for the rest of her life. He could feel the woman in the glass box above the fifty-yard line, not chanting at all, holding a glass of wine, and he could feel — like a cold draught under a door — exactly how close she was to breaking.
+[pause 2.0]
+
+[music] m_rain_piano -8
+[amb] amb_night_city
+[img] a wall of newspaper front pages and news websites from around the world showing a photo of a chanting stadium under a drone umbrella, headlines asking CULT OR COMPANY, cinematic
+N: The world woke up to the photographs the next morning.
+N: Every front page on Earth carried the same image: a stadium in the dark, sixty thousand fists in the air, and three thousand drones in the shape of an umbrella. The headlines were different in every language. In most of them, they asked the same question.
+N: Cult, or company?
+[pause 1.5]
+[img] {HANNAH} alone in a stadium press box after the event, empty seats below, writing in a worn spiral notebook under a desk lamp, cinematic
+N: In the press box, long after the other journalists had gone, Hannah Price sat alone with Walter Pruitt's notebook open in front of her. She had read it a hundred times since the padded envelope had arrived with no return address.
+N: She turned to the last page he had written on. There was room at the bottom, below his blocky capitals. She took out her own pen, and wrote beneath them, in her own small hand, the date, and the place, and four words.
+N: They're saying it like soldiers.
+[pause 1.5]
+N: Then she underlined it. Twice.
+[pause 2.0]
+N: So ended the conquest of the companies. It had taken four years. It had cost a great deal of money, and one man's mind, and a great many people's peace. And it had made Albert Wesker the master of the most powerful private institution in the history of the human race.
+N: He did not intend to stay private for very much longer.
+[pause 3.0]
+[music] stop

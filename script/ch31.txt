@@ -1,0 +1,129 @@
+# 31 | The Market Tilts
+
+[music] m_rain_piano -8
+[amb] amb_office_hum
+[img] {CATHERINE} at a boardroom table during a meeting, staring across the table at a younger-looking general with dark hair who is smiling too long, her pen frozen over her notes, cinematic
+[loc] Umbrella board meeting — May 2033
+N: Catherine Adeyemi worked it out at a board meeting, in May of twenty thirty-three, by watching a man smile.
+N: General Thomas Wyatt had joined Umbrella's board when the Aegis deal closed. He sat across the table from her, in the boardroom on the twelfth floor, and he listened to her present the quarterly accounts, and he smiled at her the whole time. He smiled at every number. He smiled at the slide about tax. He smiled until she looked away, and then, when she looked back, he was still smiling.
+N: She had known him slightly for a year. She had sat across from him in the Pentagon, when he was dying and hiding it and angry at everyone, and she had liked him — a proud, prickly, honest old soldier who did not trust anyone in the room. The man across the table was twenty pounds lighter, with dark hair, and a grip that had made her hand ache for an hour. He agreed with everything the Director said. He had not asked a single question in four meetings.
+[pause 1.5]
+[img] {CATHERINE} and {EVELYN} facing each other in a white corridor in the underground lab, Evelyn calm and serene in a lab coat, Catherine pale and rigid, cinematic
+N: She went to Evelyn. Not the Director. She had learned, over six years, that the Director told her one third of the truth, and that Evelyn Marsh — whatever else she was — did not lie about the work.
+CATHERINE: What did you do to Tom Wyatt?
+EVELYN: We cured him.
+CATHERINE: Of what?
+EVELYN: Pancreatic cancer. Stage four. He had five months. He's going to live another forty years, Catherine. Perhaps more. We don't know yet.
+CATHERINE: Is he himself?
+[pause 1.5]
+N: Evelyn considered the question with genuine interest, the way she considered everything.
+EVELYN: (soft) He's better than himself.
+[pause 2.0]
+N: Catherine did not say anything else. She thanked Evelyn, and walked back to the freight elevator — she had had clearance to the sublevel for two years now, and had used it four times — and rode up, and walked out of the old building, and across the parking lot, and sat in her car.
+N: Five years before, in a glass office at midnight, she had asked the Director whether anyone was being hurt. He had said no. It had been true. He had made sure it was true, and he had said it in a way that made it feel permanent.
+N: It was not true anymore.
+[pause 1.5]
+[img] close-up of a woman's hands taking a plain white business card from behind another card in a leather wallet, in a parked car, rain on the windshield, cinematic macro
+N: She took out her wallet. Behind her own business card, where it had been for two years and four months, was a plain white card with a London telephone number on it.
+N: She looked at it for a long time. Then she drove to a shopping mall in Christiana, and bought a phone with cash, and called the number from the car park.
+[sfx] sfx_phone_ring g-8
+ASHCOMBE: (phone) Miss Adeyemi. How very nice to hear from you.
+CATHERINE: (phone) You said somebody would always answer.
+ASHCOMBE: (phone) And somebody has. What would you like to talk about?
+[pause 1.5]
+CATHERINE: (phone) Where the money goes.
+[pause 3.0]
+
+[music] m_scheme -10
+[amb] amb_night_city
+[img] {WESKER} at a dark window in a high office at night, a reflection of a shopping mall car park on a small security feed on his desk, a woman in a car with a phone to her ear, cinematic
+N: He knew within the hour.
+N: Not from the phone — she had been careful, and the phone was clean. From her face, the next morning, in the corridor on the eleventh floor, when she said good morning. The Cold-Read had been reading Catherine Adeyemi for six years. It had seen her angry, and afraid, and exhilarated, and exhausted, and triumphant. It had never seen what it saw that morning, and it took him a moment, standing in the corridor, to name it.
+N: It was relief. The particular, bone-deep relief of a person who has been carrying something heavy for a very long time, and has finally put it down somewhere.
+[pause 1.5]
+ADOLF: (cold) She has betrayed you. To the English.
+WESKER: Yes.
+ADOLF: I told you. Five years ago. A woman who asks where the money goes will one day ask where the bodies are. You should have replaced her with a second Pell.
+WESKER: And then who would have told me when I was wrong?
+ADOLF: You do not need to be told when you are wrong. You need to be obeyed.
+[pause 1.5]
+N: Wesker did not answer that immediately. He stood at the window of the corner office, on the twelfth floor of the tower, looking across the river at the old building, where a light was on in a third-floor window that nobody used anymore except him.
+WESKER: Everyone betrays, Adolf. Everyone. Your generals. Your party. Your own doctors, in the end. Everyone who is not owned betrays, sooner or later, because everyone has something they love more than you.
+WESKER: The trick is not to prevent it. The trick is to own the route their betrayal travels.
+[pause 1.0]
+ADOLF: You will let her keep talking to them.
+WESKER: I'll let her tell Julian Ashcombe everything she knows. Which is, as it happens, a very great deal about money, and almost nothing about anything else. And Julian Ashcombe will build his whole picture of us out of the money. And the money, Adolf, is the least of what we are.
+[pause 2.0]
+N: That was the reason he gave. It was a good reason. It was, as far as it went, true.
+N: But the Cold-Read does not work on its owner. And so Albert Wesker never read his own face that morning, at the window, and never saw what the old voice saw, from inside, and chose — for once — not to mention.
+N: He did not want to lose her.
+[pause 2.0]
+
+[music] m_corporate -6
+[amb] amb_office_hum
+[img] a gigantic digital stock market display in Times Square showing UMBRELLA with a market value of 2.5 trillion dollars, crowds looking up, confetti, night, cinematic
+[loc] 2034
+N: In the spring of twenty thirty-four, Umbrella Life Sciences became the most valuable company in the history of the world.
+N: Two and a half trillion dollars. Four hundred and twenty thousand employees. Aeterna in the medicine cabinets of sixty million people. The assay in every hospital in the developed world. Halvorsen Pike's century of medicines. Aegis Dynamics' drones. Lumen's drug-discovery servers. A research partnership with China. A classified contract with the Pentagon. And a foundation that ran clinics in forty-one countries, and was — by some measures — a larger provider of rural healthcare in Africa than the World Health Organization.
+[img] a clean modern company town with identical white houses, a school with a red and white emblem on its gate, children playing, Umbrella employees jogging, pristine and slightly unsettling, cinematic
+N: It had begun to build towns.
+N: Not metaphorically. Actual towns. In Wilmington, where the old industrial park had become a campus, and the streets around the campus had become Umbrella housing, and the schools had become Umbrella schools. In Singapore, beside the plant. In Basel, on land that had once belonged to Halvorsen Pike. In each of them, the houses were good, and cheap, and clean. The clinics were free. The schools were excellent. And in each of them, at eight o'clock every morning, children who had never set foot in a laboratory put their right hands on their chests, in their classrooms, and said eighty-one words.
+N: Nobody had told the schools to do that. The teachers had simply started, one by one, because their parents did it at work, and it seemed nice.
+[pause 1.5]
+[sfx] sfx_system_open
+[system] ASSESSMENT
+Market position — dominant, planetary
+Company towns — morale: fervent
+Children — belief: forming
+Reward: 6,000,000 Points
+[say] Assessment. Children. Belief, forming.
+[/system]
+N: Children. Belief, forming.
+N: The Wesker half of the mind read that line, and felt — for the first time in eight years — something close to distaste. It was not a moral feeling. It was aesthetic. He did not like mess, and children were messy, and belief in children was the messiest thing of all.
+N: The Adolf half read it, and remembered other classrooms, in another country, in another century. And it said nothing, because there was nothing it needed to say.
+[pause 2.0]
+
+[music] m_sad -6
+[amb] amb_wind -12
+[img] a small red-brick church in Wilmington on a grey autumn day, a modest crowd of mourners in dark coats gathered outside, a hearse at the kerb, falling leaves, cinematic
+[loc] Wilmington — October 2034
+N: Walter Pruitt died in October, in his sleep, at seventy-two.
+N: He had retired in the autumn of twenty twenty-nine, and moved into a small house in Elsmere, and spent five years fishing on the Brandywine and doing crosswords and not sleeping, as he always had. His son came from Colorado for the funeral, and his granddaughter, and a few men from the Legion hall, and Dana Whitfield, and Tomás Reyes.
+N: And, at the back of the small brick church, standing alone in a black coat with his hands folded in front of him, the Director.
+[img] {WESKER} standing alone at the back of a small church during a funeral, sunglasses on, hands folded, grey light through stained glass, a coffin with an American flag at the front, cinematic
+N: He had not been asked. Nobody had known he would come. He stood through the whole service, and did not sit down, and did not speak to anyone, and when it was over he went outside and stood by the church door while the coffin was carried past him.
+N: He took off his sunglasses as it went by.
+[pause 1.5]
+ADOLF: (soft) Why are we here?
+WESKER: He was the first one. The first person in this world who looked at me and knew. The first night. In the washroom doorway. Different animal.
+ADOLF: He was a guard.
+WESKER: He was a witness. I'd like to be here for the end of the first one.
+[pause 1.5]
+N: The old voice did not argue. It had watched, from the inside, a great many funerals in its first life — state funerals, with drums and torches and flags, for men it had sometimes had killed. It had never stood at the back of a small church for an old soldier it had not needed anything from.
+N: It found, to its own surprise, that it did not mind.
+[pause 2.0]
+
+[music] m_rain_piano -8
+[amb] amb_night_city
+[img] {DANA} at her kitchen table at night with an open cardboard box of an old man's belongings, holding a worn small spiral notebook, reading with her hand over her mouth, cinematic
+N: Walter's son gave Dana a box, afterwards. A few things from his father's house that he thought she might want. Walter's old security badge from Division Seven. A photograph of the staff from twenty twenty-five, the year before everything, in front of the old faded blue sign. A coffee mug.
+N: And a small spiral notebook, very worn, the kind that fits in a breast pocket, with nearly every page filled in Walter's blocky capitals.
+[img] close-up of a worn spiral notebook page with blocky handwritten capitals: CAMERA DOESN'T SEE HIM, and below: THEY'RE SAYING IT LIKE SOLDIERS, dates beside each line, cinematic macro
+N: Dana read it at her kitchen table that night, from beginning to end.
+N: Camera doesn't see him. Nobody home but the orders. Gus says the unit was here since oh-nine. It wasn't. Lights in the basement never go off. Evelyn went down at nine, not up till six. New guard doesn't blink. None of the new ones blink. They're saying it like soldiers.
+N: And on the first page, inside the cover, in the same blocky capitals, dated the week the Silent Ones arrived:
+N: If something happens to me, give this to the reporter. Price. She'll know what to do with it.
+[pause 2.0]
+[img] {DANA} standing in her kitchen at night holding the notebook against her chest, looking at the phone on the wall, torn, tears on her face, cinematic
+N: Dana Whitfield sat at her kitchen table until three in the morning, holding the notebook.
+N: She had worked for the Director for eight years. He had saved her job, and her colleagues' jobs, and paid for her sister's hip replacement, and made her chief of staff of the most valuable company on Earth, and she was grateful to him in a way that frightened her, and she was frightened of him in a way that she had stopped letting herself notice.
+N: She read the first page again. If something happens to me, give this to the reporter.
+N: Walter had never asked anyone for anything. Not once, in all the years she had known him.
+[pause 2.0]
+[img] a padded envelope on a post office counter addressed in careful handwriting to HANNAH PRICE, a woman's hand letting go of it, morning light, cinematic macro
+N: She posted it in the morning, from a post office in Newark, Delaware, where nobody knew her, in a padded envelope with no return address.
+N: Of all the betrayals the Director would suffer in his long life — and there would be many, and some would be enormous — it was the smallest. A notebook, in an envelope, from a woman who loved him out of gratitude and fear and habit, to a woman who wanted to understand him.
+N: He never found out. It was the only one he never found out.
+N: And it ended up — exactly as the narrator promised you, a very long time ago — in the hands of exactly the wrong person.
+[pause 3.0]
+[music] stop
