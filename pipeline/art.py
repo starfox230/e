@@ -311,13 +311,12 @@ class Scene:
             self.emblem(cx, y_base - h + 90, 82, glow=True)
 
     def emblem(self, cx, cy, r, glow=False):
+        """The company's mark on a tower, a door, a drone. One drawing, shared with the
+        cards and the System panel, so the mark is the same object wherever it appears."""
+        import graphics
         layer = Image.new('RGBA', (W, H), (0, 0, 0, 0))
-        d = ImageDraw.Draw(layer)
-        for k in range(8):
-            a0 = math.radians(k * 45 - 90 + 22.5)
-            a1 = math.radians((k + 1) * 45 - 90 + 22.5)
-            pts = [(cx, cy), (cx + r * math.cos(a0), cy + r * math.sin(a0)), (cx + r * math.cos(a1), cy + r * math.sin(a1))]
-            d.polygon(pts, fill=CRIMSON + (255,) if k % 2 == 0 else (238, 240, 244, 255))
+        mark = graphics.corp_mark(int(r * 2))
+        layer.alpha_composite(mark, (int(cx - r), int(cy - r)))
         if glow:
             g = layer.filter(ImageFilter.GaussianBlur(r * 0.4))
             self.img = ImageChops.add(self.img, Image.eval(g.convert('RGB'), lambda v: int(v * 0.5)))

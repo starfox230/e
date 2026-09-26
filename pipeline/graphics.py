@@ -31,18 +31,35 @@ WHITE = (240, 242, 245)
 GLASS = (14, 16, 22)
 
 
-def umbrella_mark(size, color_a=CRIMSON, color_b=(245, 245, 245), rot=0.0):
-    """The red-and-white octagonal umbrella, seen from above."""
-    img = Image.new('RGBA', (size, size), (0, 0, 0, 0))
+def corp_mark(size, color_a=CRIMSON, color_b=(245, 245, 245), rot=0.0):
+    """The company's mark: a closing iris of six blades inside a thin ring.
+
+    An original device rather than anything borrowed from the games this story takes its
+    names from. It suits the company better anyway -- an aperture narrowing on whatever is
+    underneath it -- and it holds its silhouette from a 24px panel header up to the side of
+    a tower, which the mark has to do here.
+    """
+    ss = 4                                     # supersample: the blades have long thin edges
+    img = Image.new('RGBA', (size * ss, size * ss), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
-    c = size / 2
-    r = size * 0.48
-    for k in range(8):
-        a0 = math.radians(k * 45 - 90 + 22.5 + rot)
-        a1 = math.radians((k + 1) * 45 - 90 + 22.5 + rot)
-        pts = [(c, c), (c + r * math.cos(a0), c + r * math.sin(a0)), (c + r * math.cos(a1), c + r * math.sin(a1))]
-        d.polygon(pts, fill=color_a if k % 2 == 0 else color_b)
-    return img
+    c = size * ss / 2
+    r = size * ss * 0.46
+    inner = r * 0.30
+    twist = 32.0                               # rotation from outer edge to inner, in degrees
+    span = 46.0                                # angular width of a blade; the rest is gap
+
+    def polar(rad, deg):
+        a = math.radians(deg - 90 + rot)
+        return (c + rad * math.cos(a), c + rad * math.sin(a))
+
+    d.ellipse([c - r, c - r, c + r, c + r], outline=color_b, width=max(1, int(size * ss * 0.035)))
+    for k in range(6):
+        a = k * 60.0
+        d.polygon([polar(r * 0.88, a), polar(r * 0.88, a + span),
+                   polar(inner, a + span + twist), polar(inner, a + twist)],
+                  fill=color_a)
+    d.ellipse([c - inner * 0.52, c - inner * 0.52, c + inner * 0.52, c + inner * 0.52], fill=color_b)
+    return img.resize((size, size), Image.LANCZOS)
 
 
 def _wrap(draw, text, fnt, width):
@@ -87,7 +104,7 @@ def system_panel(title, lines):
     td = ImageDraw.Draw(text)
     boxes = []
     y = pad - 4
-    mark = umbrella_mark(36)
+    mark = corp_mark(36)
     panel.alpha_composite(mark, (pad, y + 7))
     for tl in title_lines:
         td.text((pad + 48, y), tl, font=ft, fill=WHITE + (255,))
@@ -167,7 +184,7 @@ def _dark_bg(seed=0, tint=(40, 6, 10)):
 def movement_card(num, title):
     img = _dark_bg(1)
     d = ImageDraw.Draw(img)
-    mark = umbrella_mark(180)
+    mark = corp_mark(180)
     img.alpha_composite(mark, ((W - 180) // 2, 250))
     words = {'I': 'ONE', 'II': 'TWO', 'III': 'THREE', 'IV': 'FOUR', 'V': 'FIVE', 'VI': 'SIX'}[num]
     _center(d, 500, f'PART {words}', font('cond_b', 40), CRIMSON + (255,), spacing=14)
@@ -193,7 +210,7 @@ def chapter_card(num, title):
 def main_title():
     img = _dark_bg(99, tint=(55, 5, 10))
     d = ImageDraw.Draw(img)
-    mark = umbrella_mark(260)
+    mark = corp_mark(260)
     img.alpha_composite(mark, ((W - 260) // 2, 170))
     _center(d, 470, 'UMBRELLA', font('serif_b', 150), WHITE + (255,), spacing=22)
     _center(d, 670, 'WHAT IF HITLER WAS REBORN AS ALBERT WESKER', font('cond_b', 40), (210, 210, 215, 255), spacing=6)
