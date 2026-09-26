@@ -45,6 +45,23 @@ N: By March of twenty forty-five, the approval rating of the American administra
 N: Both successor governments signed the annex within a month.
 [pause 2.0]
 
+[music] m_sad -10
+[amb] amb_rain_heavy -10
+[img] a shuttered pharmacy in a small town with a handwritten sign on the door, an elderly couple standing outside in the rain, cinematic
+[loc] The nine weeks — autumn 2044
+N: The narrator has described the quiet war from above, because that is where it was fought. It is necessary to say what it looked like from underneath, because eleven billion people lived through it and almost none of them ever knew there had been a war at all.
+N: In a town in Ohio, a pharmacist named Denise Okoro spent nine weeks telling people that she did not know. She did not know whether the next shipment was coming. She did not know whether the review would end. She had four hundred regular patients on Aeterna and she had, at the worst of it, eleven days of stock, and she was forty-six years old and she cried in the back room twice a day for nine weeks and then went out and told the next person in the queue, calmly, that she did not know.
+[img] a pharmacist behind a counter speaking gently to an anxious elderly customer, a half-empty shelf behind her, cinematic
+N: Nobody died. That is the crucial fact, and the Directorate's defenders have leaned on it for two centuries, and it is true. Supply was never actually interrupted anywhere. Not one dose was withheld from one patient.
+N: What was withheld was certainty, for nine weeks, from four hundred million people who had organised their lives around it. And at the end of the nine weeks the certainty came back, and the people who had taken it away were the same people who gave it back, and almost everybody in the world was so relieved that they never worked out that those were the same people.
+[pause 1.5]
+N: Denise Okoro worked that out. She worked it out in about the fourth week, standing in her back room.
+N: She wrote to her congressman about it, and got a thoughtful reply. She wrote to a newspaper, and it was printed, in a section for letters. She told her husband, who agreed with her. And then the shipments resumed, and her patients were fine, and four years later her own mother went on Aeterna and walked her granddaughter to school, and Denise Okoro never mentioned it again to anyone.
+N: There is no conspiracy in that. Nobody silenced her. She simply lived in a world where being right about the shape of a thing changed nothing at all about the thing, and after a while she stopped spending her evenings on it, because she had a shop to run.
+[pause 2.0]
+N: That happened four hundred million times. That is the whole mechanism. It has no villain in it anywhere except at the very top, and at the very top it was a man in an office who never once had to give an instruction, because he had only ever had to use the word reviewing.
+[pause 2.5]
+
 [music] m_action -10
 [img] a dark cyber operations room with walls of code and network maps, uniformed analysts at stations, red alerts flashing, cinematic
 [loc] The thirteen days — April 2045

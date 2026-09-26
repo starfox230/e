@@ -36,6 +36,26 @@ N: Dock One was assembled between twenty fifty-one and twenty fifty-six, in a fo
 N: The second number is the one that mattered, and it is the reason the Belt came before the Moon. Umbrella did not go to space to plant flags. It went to eat.
 [pause 2.0]
 
+[music] m_corporate -10
+[amb] amb_office_hum
+[img] a crowded launch viewing area at a spaceport, families and workers watching a heavy lift vehicle rise, children on shoulders, dawn, cinematic
+[loc] Atacama — 2053
+N: There is a thing about the space programme that the Directorate's own historians tend to bury in an annex, and it deserves better, because it is the closest Albert Wesker ever came to doing something for a reason he could not justify on a spreadsheet.
+N: He made it public. All of it.
+N: Every launch was broadcast. Every failure was broadcast — and in the first four years there were nine, and four of them killed people, and every single one was carried live, with the names released within the day, over the objections of four separate bodies of the Directorate who pointed out, correctly, that no state space programme in history had ever done this.
+[img] a grim control room after a launch failure, engineers with their heads in their hands, a screen showing a debris trail, cinematic
+N: The first was the Coronado in twenty fifty-two, which broke up at forty kilometres with four crew aboard. The broadcast did not cut away. The Directorate's public feed carried the telemetry, and the silence in the control room, and then, nine minutes later, the flight director — a woman of thirty-four named Priya Ramanathan, who had not slept in two days — reading the four names into an open microphone because nobody had told her not to.
+N: Four billion people watched it. It is the single most-viewed piece of Directorate footage that does not involve the Director himself.
+[pause 1.5]
+N: He was asked about it once, years later, by an engineer who had been in that control room, and who had the nerve to ask why.
+WESKER: Because in four hundred years there will be nine billion human beings living off this planet, and every one of them will be there because somebody's grandmother watched a rocket fall apart on a screen in twenty fifty-two and put her hand over her mouth and then, the following week, applied for the programme anyway.
+[pause 1.0]
+WESKER: You cannot build that with a press release. You can only build it by letting them watch the real thing, including the parts that are unbearable.
+[pause 1.5]
+N: The engineer, who had spent nineteen years assuming the policy was a calculation, said that he had always wondered whether it was for the families.
+N: The Director looked at him for a moment and said: it was a calculation. And then he walked away, which the engineer recorded in his memoirs, and which he said, forty years later, he had never been able to interpret.
+[pause 2.5]
+
 [music] m_space -6
 [img] a mining vessel with enormous grapples clamped onto a dark asteroid, refinery flares, stars and blackness around it, cinematic
 [loc] The Belt — 2054

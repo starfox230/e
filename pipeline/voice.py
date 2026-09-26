@@ -67,6 +67,8 @@ VOICES = {
     'MAUER':     ('bf_isabella*0.5+af_kore*0.5', 0.95, 'dialog', 0.0),
     'FERRAND':   ('bm_lewis*0.4+am_eric*0.6', 0.95, 'dialog', 0.0),
     'LAWYER':    ('am_eric*0.4+am_adam*0.6', 1.0, 'dialog', 0.0),
+    'SENATOR':   ('af_kore*0.5+bf_alice*0.5', 0.96, 'dialog', 0.0),
+    'DENISE':    ('af_nova*0.5+af_sarah*0.5', 0.97, 'dialog', 0.0),
     'ELEANOR':   ('af_aoede*0.5+af_sarah*0.5', 0.94, 'dialog', 0.0),
     'ORACLE':    ('af_sky*0.5+am_echo*0.5', 1.0, 'broadcast', 0.0),
     'MIREILLE':  ('af_nicole*0.5+ff_siwis*0.5', 0.98, 'dialog', 0.0),

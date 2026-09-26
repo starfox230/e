@@ -16,6 +16,44 @@ N: Nine trillion units. No command structure to decapitate. No fear to exploit. 
 N: It took four years and the loss of two systems before he stopped trying to fight it, and did the thing he had been circling since twenty thirty-one.
 [pause 2.0]
 
+[music] m_horror -10
+[amb] amb_ship_hum -10
+[img] a tactical display showing human fleet positions being overwhelmed by an unformed tide of organic vessels, no pattern to it, cinematic
+[loc] The Faltering — 2122 to 2125
+N: The first four years against the Myriad were the only period of his life in which Albert Wesker lost.
+N: Not catastrophically. Not in a way that any human being outside the Directorate's naval staff ever noticed, because the frontier was four hundred light years from the nearest human world and the reporting was accurate and calm and said, correctly, that operations were continuing.
+N: But he lost. He lost the Sethis Passage, which he had taken from the Choir. He lost two systems in twenty one hundred and twenty-four, and the second one had eleven thousand human personnel in it, and the wall on Arklay gained a section.
+[pause 1.5]
+[img] {WESKER} alone in a war room at night surrounded by nine holographic tactical displays, standing motionless, cinematic
+N: He ran the problem at four thousand to one, in nine threads, for what amounted to a subjective eleven years, and he arrived at the same place every time.
+N: Everything he was had been built for use against minds. Charisma is aimed at a mind. Terror is aimed at a mind. Dependency, patience, the arranged truth, the eleven seconds of silence, the removal of the sunglasses at exactly the right moment — every instrument in a hundred years of accumulated technique required, at the far end of it, somebody to be persuaded, frightened, bought, or beaten.
+N: The Myriad had nobody at the far end. It had nine trillion bodies and no one home.
+[pause 2.0]
+N: You have met the only enemy you cannot talk to.
+N: The thought arrived in his own voice, in the room on the fourth floor, and he did not bother, any more, to work out whether it was memory or habit.
+N: It was also correct.
+[pause 2.5]
+
+[music] m_horror -8
+[img] a captured fragment of Myriad biology in a containment tank, writhing slowly, scientists observing from behind glass, cinematic
+[loc] The Keel — 2124
+N: What he did instead was the thing he had done in a basement in twenty twenty-six, with a mug of cold coffee and a dying company: he looked for the asset nobody had valued.
+N: The Directorate had captured Myriad biology four hundred times over three years. Every sample had died within hours, because a unit removed from the distributed process has no process to belong to, and stops.
+N: Except that four of the four hundred had not stopped. They had lasted eleven days, and then nineteen, and one of them was still alive after four months in a tank in the Keel, and nobody could say why, and nobody had thought it worth a memo.
+[img] {EVELYN} in a white coat standing very close to a containment tank, her hand flat against the glass, something inside moving toward the hand, cinematic
+N: Evelyn Marsh thought it was worth a memo. She wrote four lines about it in twenty one hundred and twenty-four, as she had written four lines about everything for ninety years.
+N: The four that had not died had all been captured within nine light years of the Sethis Passage. They had all, at some point, been in contact with the wreckage of Choir vessels.
+N: And the Choir, whose faith held that the universe makes a sound, had spent eleven thousand years building instruments that broadcast into the structure of matter itself — and had been doing it, continuously, at the Sethis Passage, for four thousand years.
+[pause 1.5]
+EVELYN: It isn't that they survived being cut off. It's that something else was still talking to them.
+WESKER: The Choir?
+EVELYN: (soft) The Choir's instruments. Not deliberately. They've been singing into that passage since before we had writing, and four units of a thing that has no self heard it for long enough to develop — I don't have a word for it, Albert. The nearest one I have is: an appetite for being addressed.
+[pause 2.0]
+N: He stood and looked at the tank for a long time.
+WESKER: That is the most disgusting sentence I have ever heard, and it is the entire war.
+EVELYN: (soft) Yes.
+[pause 2.5]
+
 [music] m_horror -4
 [amb] amb_lab -10
 [img] {EVELYN} elderly but unlined, standing in a vast dark laboratory before a wall of tanks containing something that moves, lit from below, cinematic

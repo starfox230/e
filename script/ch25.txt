@@ -42,6 +42,27 @@ N: They shook hands over the fire. Sloane's grip was dry and firm and did not ho
 N: It was, a historian would write decades later — in a world that had stopped allowing historians to write very much — the single most consequential handshake of the twenty-first century. At the time, it was two men in a private club, agreeing on a price.
 [pause 2.0]
 
+[music] m_tension -10
+[amb] amb_office_hum
+[img] a Senate hearing room with a witness table and a row of senators, cameras, a woman in a dark suit being sworn in, cinematic
+[loc] Washington, D.C. — March 2031
+N: There was one more thing that had to be handled before the handshake in Georgetown could mean anything, and it was not an agency. It was a committee.
+N: In March of twenty thirty-one, the Senate Health Committee opened hearings into the pricing and supply of Aeterna. It was not a hostile committee. Nine of its seventeen members had constituents who credited the drug with a parent's mobility. But the chair was a senator from a state with no Umbrella facilities, who had spent four years being told by her own hospitals that they could not afford the one medicine everybody wanted, and she was not interested in being charmed.
+[img] {CATHERINE} at a witness table in a Senate hearing room, composed, a binder in front of her, cameras behind, cinematic
+N: Umbrella sent Catherine Adeyemi, not the Director. That was deliberate and it was her idea, and it was the single most effective decision the company made that year.
+CATHERINE: Senator, I can give you the cost per dose, the margin, the reinvestment rate, and the full audited breakdown of every dollar. I brought them. They're in the binder in front of you, and I'll take any question on any line of it.
+SENATOR: Miss Adeyemi, what I want to know is why a hospital in my state pays four times what a hospital in Delaware pays.
+CATHERINE: Because your state's hospitals buy through three intermediaries, Senator, and we have offered to sell to them directly at the Delaware price every year since twenty twenty-nine, and they have declined every year, because their group purchasing contracts forbid it. The correspondence is in appendix four.
+[pause 1.5]
+N: It was true. Every word of it was true, and checkable, and had been assembled over four months by a woman who had built her career on the proposition that the most devastating thing you can do to a hostile room is to be completely honest with it.
+N: The hearing lasted nine hours. It produced a recommendation that Congress examine the role of pharmaceutical intermediaries, which was a real and serious problem that had nothing whatever to do with Umbrella, and which occupied the committee for the following two years.
+[pause 2.0]
+ADOLF: She defended you.
+WESKER: She defended the accounts. They happen to be clean.
+ADOLF: (slow) You have built a thing whose books are honest and whose basement is not.
+WESKER: The books being honest is what makes the basement possible. Nobody digs under a building that has never once lied about its foundations.
+[pause 2.5]
+
 [music] m_system -4
 [amb] amb_night_city
 [img] {WESKER} walking alone at night along an empty Georgetown street under old lamps, a cascade of golden holographic panels erupting in the air around him, cinematic, awe

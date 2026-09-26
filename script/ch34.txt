@@ -58,6 +58,29 @@ N: The Security Council debated it in September. Three of the five permanent mem
 N: The study reported in twenty forty-two. By then, Arklay had a hundred and forty thousand residents and its own orchestra.
 [pause 2.0]
 
+[music] m_tension -10
+[amb] amb_wind -10
+[img] a small overloaded fishing boat approaching the enormous white sea wall of an ocean city at dawn, people aboard looking up, cinematic
+[loc] The question of the boats — 2040
+N: There was one problem on Arklay that could not be solved by design, and it arrived in the second year, in a fishing boat.
+N: Four hundred kilometres of open Atlantic is not a barrier to people who have decided to leave somewhere. By twenty forty, boats had begun to come — from West Africa, from the Canaries, from wherever the storms and the economics were worst — because the most beautiful city in the world was sitting in international waters and there was a persistent, entirely false rumour that anyone who reached it could stay.
+N: The first boat had nineteen people on it. The Umbrella Security Service took them aboard, fed them, treated four for dehydration, and held them in a facility on the fourth ring that was clean and well-run and was, unmistakably, a facility.
+[pause 1.5]
+[img] {HALE} standing before a group of exhausted rescued people wrapped in blankets in a bright clean hall, expressionless, cinematic
+N: And then the Directorate had to decide what it was.
+N: A country would have had a law. Arklay was not a country. It had no immigration statute, because it had no legislature, because its entire legal existence was a forty-page submission to the International Maritime Organization describing a privately owned floating structure.
+N: Catherine argued for repatriation with compensation, because it was defensible. The Security Service argued for interception at range, because it was simple. Evelyn, who was asked because she was asked about everything by then, said that they should be offered residency on the same terms as everyone else, and when Catherine pointed out that this would bring four million people to the sea wall within a decade, Evelyn said: yes. And?
+[pause 1.5]
+[img] {WESKER} standing at a high window looking down at a small boat being escorted into a harbour far below, cinematic
+N: The Director decided it himself, in nine minutes, and the policy he wrote has not been amended in four hundred years.
+WESKER: Anyone who reaches the sea wall alive is taken aboard, treated, fed, and offered passage to any port they choose, at our cost, with four thousand dollars. Anyone who wants residency joins the waiting list at the position they would have had if they had applied from home. No exceptions, no queue-jumping, and no boat is ever turned back at sea.
+[pause 1.0]
+WESKER: And publish it. In full. Everywhere. Including the part about the waiting list.
+[pause 1.5]
+N: It was the most humane migration policy on Earth in twenty forty, and it was designed, deliberately and explicitly, to be exactly generous enough that no serious person could attack it and exactly strict enough that the boats would stop coming within four years.
+N: The boats stopped coming within four years. Two and a half million people stayed on the waiting list instead, in their own countries, working, applying annually, hoping — which was worth more to the Directorate than any of them could have been as residents, because a person on a waiting list is a person who behaves.
+[pause 2.5]
+
 [music] m_rain_piano -8
 [amb] amb_wind -10
 [img] {CATHERINE} walking alone along a white promenade of an ocean city at dusk, other people strolling past her smiling, her expression troubled, cinematic
