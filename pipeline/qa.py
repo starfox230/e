@@ -19,12 +19,18 @@ import subprocess
 import numpy as np
 import soundfile as sf
 import pyloudnorm
+from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SR = 48000
-FPS = 30
+FPS = 24
 TOL_FRAME = 1.0 / FPS
-SPEC = {'lufs': (-16.5, -13.5), 'peak_db': (-20.0, -0.9), 'sync_s': 0.05}
+# A/V length is allowed one frame: the picture has to land on a whole frame and the sound
+# does not, so the two can never agree exactly. Sync itself is not judged by this number --
+# it is established by the frame grid below, which is exact.
+SPEC = {'lufs': (-16.5, -13.5), 'peak_db': (-20.0, -0.9), 'sync_s': TOL_FRAME}
+# matches art.FLOOR_P99, in 8-bit terms
+DARK_P99 = 61
 
 
 def probe(path):
@@ -82,14 +88,24 @@ def check(ch, fix=False):
         issues.append(f'voice runs past end: {last:.2f} > {dur:.2f}')
 
     # ---- images
-    missing = 0
+    missing, dark = 0, []
     for shot in tl['shots']:
-        if not any(os.path.exists(os.path.join(ROOT, 'work', 'images', f"{shot['id']}.{e}"))
-                   for e in ('png', 'jpg', 'webp')):
+        found = [p for p in (os.path.join(ROOT, 'work', 'images', f"{shot['id']}{v}.{e}")
+                             for v in ('', '_v1') for e in ('png', 'jpg', 'webp'))
+                 if os.path.exists(p)]
+        if not any(f for f in found if '_v1' not in os.path.basename(f)):
             missing += 1
+        for p in found:
+            # a shot holds for the better part of a minute, so a frame whose brightest
+            # content is still almost black is a minute of nothing to look at
+            a = np.asarray(Image.open(p).convert('L'), dtype=np.float32)
+            if np.percentile(a, 99) < DARK_P99:
+                dark.append(os.path.basename(p))
     notes['shots'] = len(tl['shots'])
     if missing:
         issues.append(f'{missing} shots have no image')
+    if dark:
+        issues.append(f'{len(dark)} images too dark to read: ' + ', '.join(dark[:3]))
 
     # ---- video
     vid = os.path.join(ROOT, 'out', 'video', f'ch{ch:02d}.mp4')
@@ -107,6 +123,37 @@ def check(ch, fix=False):
             notes['av_skew_s'] = round(av, 3)
             if av > SPEC['sync_s']:
                 issues.append(f'A/V stream length mismatch {av:.3f}s')
+        # The real sync check. The compositor builds frame k from the timeline at k/FPS, so
+        # the picture is on the timeline's clock exactly when the file holds every frame that
+        # was composed and holds them on an unbroken 1/FPS grid starting at zero. Comparing
+        # stream durations cannot see this: dropping a frame mid-file and renumbering the
+        # rest leaves the duration almost unchanged while shifting everything after it.
+        want = int(round(dur * FPS))
+        ts = []
+        for line in subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0',
+                                    '-show_entries', 'packet=pts_time', '-of', 'csv=p=0', vid],
+                                   capture_output=True, text=True).stdout.splitlines():
+            line = line.strip().rstrip(',')
+            if line and line not in ('N/A',):
+                ts.append(float(line))
+        notes['frames'] = len(ts)
+        if ts:
+            ts.sort()
+            if len(ts) != want:
+                issues.append(f'{len(ts)} frames in file, {want} composed '
+                              f'({(want - len(ts)) / FPS * 1000:+.0f} ms of picture)')
+            gaps = sum(1 for i in range(1, len(ts))
+                       if abs((ts[i] - ts[i - 1]) - TOL_FRAME) > 1e-4)
+            if gaps:
+                issues.append(f'{gaps} irregular frame intervals: the picture drifts against the sound')
+            off = max(abs(t - round(t * FPS) / FPS) for t in ts)
+            if off > 1e-3:
+                issues.append(f'frames off the {FPS}fps grid by up to {off*1000:.1f} ms')
+            astart = float(streams.get('audio', {}).get('start_time', 0) or 0)
+            vstart = round(ts[0] * FPS) / FPS
+            notes['v_start_s'] = round(vstart, 4)
+            if abs(vstart - astart) > TOL_FRAME:
+                issues.append(f'picture starts {(vstart - astart)*1000:+.0f} ms from the sound')
         # frame-level: sample 12 frames, flag pure black/white outside fades
         bad = []
         for t in np.linspace(2, max(2.1, dur - 3), 12):
