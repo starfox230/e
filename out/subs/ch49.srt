@@ -1,0 +1,586 @@
+1
+00:00:07,799 --> 00:00:13,741
+The Veth came back in twenty one hundred and
+thirty-six, forty-five years after the first
+
+2
+00:00:13,761 --> 00:00:16,353
+fleet, and they did not come to assess.
+
+3
+00:00:16,923 --> 00:00:22,952
+They came with four ships, one of which was a
+delegation vessel of a kind the Hegemony
+
+4
+00:00:22,972 --> 00:00:29,141
+had commissioned nine times in nine thousand years,
+and which its protocols reserved for
+
+5
+00:00:29,161 --> 00:00:35,540
+a very specific circumstance: the opening of relations
+with a power of comparable standing.
+
+6
+00:00:36,110 --> 00:00:41,890
+The Hegemony had watched the Choir War. It had
+watched nine of the Choir's four hundred
+
+7
+00:00:41,910 --> 00:00:47,557
+systems cleared. It had watched something reach
+into the Myriad — which had eaten the
+
+8
+00:00:47,577 --> 00:00:53,623
+Hegemony's own frontier twice in four thousand years —
+and take a hundred and forty billion
+
+9
+00:00:53,643 --> 00:00:56,889
+units out of it, and watched the
+Myriad withdraw.
+
+10
+00:00:57,460 --> 00:01:03,938
+Their registry entry for the human system was amended
+in twenty one hundred and thirty-five.
+
+11
+00:01:03,958 --> 00:01:10,437
+It is the only amendment of its kind in the Hegemony's
+history. The status field was changed
+
+12
+00:01:10,457 --> 00:01:11,992
+from EMERGENT to PEER.
+
+13
+00:01:14,561 --> 00:01:20,336
+Sethra-Vel led the delegation. She was four hundred
+and fifty-one years old. She had spent
+
+14
+00:01:20,356 --> 00:01:26,388
+forty-five years as the only officer in the Hegemony who
+had met the human fleet and returned,
+
+15
+00:01:26,408 --> 00:01:31,924
+and she had spent them writing the doctrine that had
+led to the amendment, and she had
+
+16
+00:01:31,944 --> 00:01:37,461
+been passed over four times for a caste elevation
+she had earned, because the Hegemony
+
+17
+00:01:37,481 --> 00:01:39,714
+did not forgive a broken formation.
+
+18
+00:01:40,405 --> 00:01:42,091
+You left my beacon.
+
+19
+00:01:42,612 --> 00:01:43,573
+I said I would.
+
+20
+00:01:44,093 --> 00:01:49,659
+It has been transmitting for forty-five years. Every
+vessel of my Hegemony that passes
+
+21
+00:01:49,679 --> 00:01:55,373
+this system hears what happened here, in my own
+voice, in my own report. You understood,
+
+22
+00:01:55,393 --> 00:01:58,751
+when you gave that order, that it
+would be my voice.
+
+23
+00:01:59,271 --> 00:01:59,911
+Yes.
+
+24
+00:02:00,432 --> 00:02:07,722
+It ended my ascent. It also ended the argument. There
+are nine thousand years of doctrine
+
+25
+00:02:07,742 --> 00:02:14,786
+that say a broken formation is a failure of the
+commander. There is now one report, in
+
+26
+00:02:14,806 --> 00:02:21,850
+my voice, that says otherwise, and every officer of
+my caste has heard it four hundred
+
+27
+00:02:21,870 --> 00:02:22,342
+times.
+
+28
+00:02:24,241 --> 00:02:30,024
+You did not humiliate me, Director. You made me the
+only witness. I have spent forty-five
+
+29
+00:02:30,044 --> 00:02:35,631
+years being unable to decide whether that was mercy
+or the most complete defeat in our
+
+30
+00:02:35,651 --> 00:02:36,152
+history.
+
+31
+00:02:36,673 --> 00:02:38,527
+It was both. It usually is.
+
+32
+00:02:41,548 --> 00:02:47,737
+The embassy went out in twenty one hundred and
+thirty-eight, and it is the strangest document
+
+33
+00:02:47,757 --> 00:02:53,412
+in human history, because it is the only time the
+Umbrella Directorate ever agreed to
+
+34
+00:02:53,432 --> 00:02:54,146
+be watched.
+
+35
+00:02:54,717 --> 00:03:00,860
+The accord required an exchange. Forty Veth of the
+observing caste took residence on Arklay
+
+36
+00:03:00,880 --> 00:03:06,889
+Free Territory, with the freedom of the city, and
+stayed for nineteen years. Forty humans
+
+37
+00:03:06,909 --> 00:03:12,849
+went to the Ninth Seat of the Hegemony, and were
+housed in a hall built for them in four
+
+38
+00:03:12,869 --> 00:03:17,116
+months, and were permitted to go
+anywhere, and to ask anything.
+
+39
+00:03:17,687 --> 00:03:23,935
+Both sides expected espionage. Both sides got it.
+What neither side expected was what
+
+40
+00:03:23,955 --> 00:03:26,221
+the observers wrote home about.
+
+41
+00:03:28,290 --> 00:03:34,223
+The Veth reports from Arklay ran to four million
+words over nineteen years, and they are
+
+42
+00:03:34,243 --> 00:03:40,041
+the finest account of the Directorate that exists,
+because they were written by people
+
+43
+00:03:40,061 --> 00:03:43,085
+with no stake in it and no
+vocabulary for it.
+
+44
+00:03:43,655 --> 00:03:49,953
+They described a city of a hundred and sixty thousand
+with no police to speak of, no poverty,
+
+45
+00:03:49,973 --> 00:03:55,931
+no crime worth recording, and no argument. They
+described children who were kind to each
+
+46
+00:03:55,951 --> 00:04:01,705
+other without being taught to be. They described an
+entire population that could give
+
+47
+00:04:01,725 --> 00:04:05,917
+a reason for everything it did, and that
+gave the same reason.
+
+48
+00:04:06,487 --> 00:04:12,794
+And in the ninth year, an observer of the fourth caste
+— whose name renders as Oreth-Vanu,
+
+49
+00:04:12,814 --> 00:04:18,839
+and who had been on Arklay longer than anyone —
+wrote four sentences that the Hegemony
+
+50
+00:04:18,859 --> 00:04:21,792
+has never been able to decide how to file.
+
+51
+00:04:23,982 --> 00:04:29,452
+I have been nine years in this city and I am no
+longer certain what I am observing. It
+
+52
+00:04:29,472 --> 00:04:35,007
+is not a tyranny. I have seen tyrannies; they smell
+of fear and this place has none. It
+
+53
+00:04:35,027 --> 00:04:40,561
+is a hundred and sixty thousand people who have
+each, separately and freely, decided to
+
+54
+00:04:40,581 --> 00:04:46,116
+stop deciding. I do not know what our word for that
+is and I do not think they have one
+
+55
+00:04:46,136 --> 00:04:46,563
+either.
+
+56
+00:04:49,583 --> 00:04:55,701
+The Directorate translated every word of those
+reports, and published them in full, on
+
+57
+00:04:55,721 --> 00:05:02,054
+every world, as the accord required, and the Director
+read all four million words himself
+
+58
+00:05:02,074 --> 00:05:03,482
+over nineteen years.
+
+59
+00:05:04,052 --> 00:05:10,242
+He made one annotation, in the archive, beside
+Oreth-Vanu's four sentences. It is still
+
+60
+00:05:10,262 --> 00:05:12,384
+there. It is three words long.
+
+61
+00:05:14,574 --> 00:05:15,514
+Nor do I.
+
+62
+00:05:19,033 --> 00:05:25,033
+They signed an accord in twenty one hundred and
+thirty-seven. Four hundred Veth worlds
+
+63
+00:05:25,053 --> 00:05:31,263
+and eleven human ones, a demarcated frontier,
+exchange of embassies, and a joint standing
+
+64
+00:05:31,283 --> 00:05:33,362
+commitment against the Myriad.
+
+65
+00:05:33,932 --> 00:05:40,141
+It held. It is still holding. It is, by a very long
+way, the most successful diplomatic
+
+66
+00:05:40,161 --> 00:05:46,299
+instrument in the recorded history of either
+species, and it was negotiated by a being
+
+67
+00:05:46,319 --> 00:05:51,812
+who had been a mid-level research director at a
+dying laboratory in Delaware.
+
+68
+00:05:54,382 --> 00:06:00,441
+And on the same day it was signed, the Choir of
+Ashen Light — reduced to three hundred
+
+69
+00:06:00,461 --> 00:06:07,016
+and ninety-one systems, its frontier held for it by the
+species it had condemned — published,
+
+70
+00:06:07,036 --> 00:06:12,247
+as its doctrine required, to everybody, on
+every frequency, a restatement.
+
+71
+00:06:12,937 --> 00:06:17,447
+We have listened for thirty-four years. We find no
+error in our judgement. We find the
+
+72
+00:06:17,467 --> 00:06:21,240
+Plague unresolved, and its Bearer in health,
+and its dominion increased.
+
+73
+00:06:22,639 --> 00:06:27,374
+We find also that it holds the frontier we could not
+hold, and that four hundred million
+
+74
+00:06:27,394 --> 00:06:30,995
+of our people live behind its line who
+would otherwise be consumed.
+
+75
+00:06:32,894 --> 00:06:37,065
+We do not withdraw the name. We record, before all
+who hear, that we owe our lives to
+
+76
+00:06:37,085 --> 00:06:41,305
+a Plague, and that both things are true, and that we
+do not know what to do with this.
+
+77
+00:06:44,326 --> 00:06:49,947
+It is generally considered the most honest thing any
+government of any species has ever
+
+78
+00:06:49,967 --> 00:06:50,596
+published.
+
+79
+00:06:53,915 --> 00:06:55,009
+Standing.
+
+80
+00:07:04,086 --> 00:07:07,394
+Immunity available. Memetic panic.
+
+81
+00:07:11,855 --> 00:07:15,068
+He looked at that one for a long time
+before he bought it.
+
+82
+00:07:15,637 --> 00:07:21,518
+It was not a weapon. It was armour against a single
+specific thing: the moment — which
+
+83
+00:07:21,538 --> 00:07:27,693
+every dynasty in the history of the galaxy had
+eventually met — when eleven billion people
+
+84
+00:07:27,713 --> 00:07:33,661
+all become frightened of the same thing on the same
+day, and the fear moves faster than
+
+85
+00:07:33,681 --> 00:07:36,269
+any instrument of government can move.
+
+86
+00:07:36,838 --> 00:07:42,592
+The System had never offered it before. He
+understood why it was offering it now, and
+
+87
+00:07:42,612 --> 00:07:48,570
+the understanding was not comfortable. The System did
+not predict. It priced. And it had
+
+88
+00:07:48,590 --> 00:07:54,684
+just put a price on the possibility that the species
+would one day look at him and scream.
+
+89
+00:07:56,004 --> 00:07:57,446
+Purchase confirmed.
+
+90
+00:08:02,269 --> 00:08:05,624
+He went back to the building in twenty
+one hundred and forty.
+
+91
+00:08:06,194 --> 00:08:11,968
+It was still there. It had been preserved in twenty
+sixty-one, over his objection — the
+
+92
+00:08:11,988 --> 00:08:17,962
+only public decision of the Directorate that was ever
+taken against his stated preference,
+
+93
+00:08:17,982 --> 00:08:23,823
+by an Accord Council that voted a hundred and
+thirty-nine to two, because eleven billion
+
+94
+00:08:23,843 --> 00:08:28,485
+people wanted it and the Council had
+learned, by then, when to insist.
+
+95
+00:08:29,055 --> 00:08:35,211
+Four storeys of tired brick, on the south bank of
+the Christina River, inside a climate
+
+96
+00:08:35,231 --> 00:08:41,459
+envelope, in the middle of a white city of nine
+million people. The parking lot is still
+
+97
+00:08:41,479 --> 00:08:47,707
+a parking lot. The weeds are maintained by a gardener
+whose family has held the post for
+
+98
+00:08:47,727 --> 00:08:48,913
+four generations.
+
+99
+00:08:49,484 --> 00:08:56,244
+The break room is exactly as it was. The vending
+machine is a replica; the original is
+
+100
+00:08:56,264 --> 00:08:59,320
+in a museum on Mars. The piano is real.
+
+101
+00:08:59,889 --> 00:09:05,825
+Four hundred thousand people visit every year. They
+queue in the parking lot. They are
+
+102
+00:09:05,845 --> 00:09:09,149
+very quiet inside, which nobody
+asks them to be.
+
+103
+00:09:11,720 --> 00:09:17,038
+He came at night, alone, when it was closed, as
+he did every twenty years or so.
+
+104
+00:09:17,607 --> 00:09:23,406
+He stood in the break room for a while. Then he sat
+down at the piano, which he had never
+
+105
+00:09:23,426 --> 00:09:28,439
+once done, in either of his lives, and picked
+out four notes with one finger.
+
+106
+00:09:30,009 --> 00:09:34,459
+Falling. And falling. And falling. And
+landing somewhere unresolved.
+
+107
+00:09:37,029 --> 00:09:42,590
+A young woman had played that in this room at three
+in the morning in twenty twenty-six,
+
+108
+00:09:42,610 --> 00:09:48,234
+and he had asked her why she was there so late, and
+she had asked whether she could help,
+
+109
+00:09:48,254 --> 00:09:49,820
+and he had said: not yet.
+
+110
+00:09:50,389 --> 00:09:56,255
+He played it four times. Then he stopped, and sat with
+his hands on the keys, in the dark,
+
+111
+00:09:56,275 --> 00:10:02,206
+in a preserved room in a dead building in the middle
+of a city that his own will had raised
+
+112
+00:10:02,226 --> 00:10:03,907
+out of an industrial park.
+
+113
+00:10:06,475 --> 00:10:08,403
+There was nobody to say it to.
+
+114
+00:10:08,972 --> 00:10:15,073
+Catherine was in the ground in County Clare. Tomás
+was in the ground on the Brandywine.
+
+115
+00:10:15,093 --> 00:10:21,475
+Dana, Walter, Lessing, Nadia in exile in Lagos,
+Carrick in Portland at ninety-four, Ellery,
+
+116
+00:10:21,495 --> 00:10:27,807
+Ingrid Halvorsen, Wen Shulan, who had died at
+eighty-eight with her file closed and handed
+
+117
+00:10:27,827 --> 00:10:33,787
+on exactly as she had promised. Evelyn was a
+hundred and forty billion bodies in nine
+
+118
+00:10:33,807 --> 00:10:37,304
+systems and had left him four
+words in a notebook.
+
+119
+00:10:37,875 --> 00:10:43,587
+And the voice that had argued with him in a thousand
+cars had been gone for ninety-three
+
+120
+00:10:43,607 --> 00:10:43,977
+years.
+
+121
+00:10:47,048 --> 00:10:52,512
+He was the last one. He had built a thing that would
+last ten thousand years and he was
+
+122
+00:10:52,532 --> 00:10:56,863
+the only person left alive who remembered
+the room it had started in.
+
+123
+00:10:58,932 --> 00:11:04,869
+He got up, and closed the piano lid, and did not
+touch it again for four hundred years.
