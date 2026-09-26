@@ -18,7 +18,7 @@ import graphics as G
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMAGES = os.path.join(ROOT, 'work', 'images')
-W, H, FPS = 1920, 1080, 30
+W, H, FPS = 1920, 1080, 24
 XFADE = 1.1          # crossfade between shots (s)
 SUBSHOT = 11.0       # a long shot is re-framed every ~11 s so the picture never goes stale
 PANEL_IN = 0.35
@@ -91,15 +91,33 @@ def motion_for(seed, dur):
 
 
 def render_still(src, scale, fx, fy):
-    """Crop a W x H view out of src at zoom `scale` (1 = cover) centered by fx, fy in [-1, 1] of free space."""
+    """Crop a W x H view out of src at zoom `scale` (1 = cover) centered by fx, fy in [-1, 1].
+
+    Only the visible region is touched: the crop is taken with a one-pixel margin and the
+    sub-pixel remainder is applied by warping that small patch, which is far cheaper than
+    warping the whole oversized source every frame.
+    """
     sh, sw = src.shape[:2]
     base = max(W / sw, H / sh)
     s = base * scale
     vw, vh = W / s, H / s                     # view size in source pixels
     cx = sw / 2 + fx * (sw - vw) / 2
     cy = sh / 2 + fy * (sh - vh) / 2
-    M = np.array([[s, 0, W / 2 - s * cx], [0, s, H / 2 - s * cy]], np.float32)
-    return cv2.warpAffine(src, M, (W, H), flags=cv2.INTER_LINEAR, borderMode=cv2.BORDER_REFLECT)
+    x0f, y0f = cx - vw / 2, cy - vh / 2
+    x0, y0 = int(math.floor(x0f)), int(math.floor(y0f))
+    fracx, fracy = x0f - x0, y0f - y0
+    x1, y1 = x0 + int(math.ceil(vw)) + 2, y0 + int(math.ceil(vh)) + 2
+    # clamp, remembering how much we had to shift so the framing stays correct
+    cx0, cy0 = max(0, x0), max(0, y0)
+    cx1, cy1 = min(sw, x1), min(sh, y1)
+    patch = src[cy0:cy1, cx0:cx1]
+    if patch.size == 0:
+        return np.zeros((H, W, 3), np.uint8)
+    off_x = fracx + (x0 - cx0)
+    off_y = fracy + (y0 - cy0)
+    M = np.array([[s, 0, -off_x * s], [0, s, -off_y * s]], np.float32)
+    return cv2.warpAffine(patch, M, (W, H), flags=cv2.INTER_LINEAR,
+                          borderMode=cv2.BORDER_REPLICATE)
 
 
 class Overlay:
@@ -245,7 +263,6 @@ class Composer:
                 frame = cv2.addWeighted(frame, a, pframe, 1 - a, 0)
         else:
             frame = np.zeros((H, W, 3), np.uint8)
-        frame = cv2.multiply(frame, self.vig, scale=1 / 255)
 
         for p in self.panels:
             if p['start'] - 0.05 <= t <= p['end'] + 0.4:

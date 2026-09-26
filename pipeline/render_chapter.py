@@ -19,25 +19,28 @@ from concurrent.futures import ProcessPoolExecutor
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FPS = 30
-PRESET = os.environ.get('X264_PRESET', 'faster')
-CRF = os.environ.get('X264_CRF', '23')
+FPS = 24
+PRESET = os.environ.get('X264_PRESET', 'veryfast')
+CRF = os.environ.get('X264_CRF', '24')
 
 
 def render_segment(args):
     """Compose frames [f0, f1) of a chapter into a video-only MP4."""
     chapter, f0, f1, path = args
+    import cv2
+    cv2.setNumThreads(1)      # one core per worker; the pool provides the parallelism
     import video
     comp = video.Composer(chapter)
     n = f1 - f0
-    cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'bgr24',
+    cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'yuv420p',
            '-s', f'{video.W}x{video.H}', '-r', str(FPS), '-i', '-',
-           '-an', '-c:v', 'libx264', '-preset', PRESET, '-crf', CRF, '-tune', 'film',
+           '-an', '-c:v', 'libx264', '-threads', '1', '-preset', PRESET, '-crf', CRF, '-tune', 'film',
            '-pix_fmt', 'yuv420p', '-g', str(FPS * 4), '-x264-params', 'scenecut=0:open-gop=0', path]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for k in range(n):
         t = (f0 + k) / FPS
-        ff.stdin.write(comp.frame(t).tobytes())
+        # hand ffmpeg planar YUV: half the pipe traffic of BGR and far cheaper to encode
+        ff.stdin.write(cv2.cvtColor(comp.frame(t), cv2.COLOR_BGR2YUV_I420).tobytes())
     ff.stdin.close()
     ff.wait()
     if ff.returncode:
@@ -81,8 +84,13 @@ def render(chapter, workers=4, force=False):
 
 
 if __name__ == '__main__':
-    args = [int(a) for a in sys.argv[1:] if a.isdigit()]
-    workers = int(sys.argv[sys.argv.index('--workers') + 1]) if '--workers' in sys.argv else 4
+    argv = sys.argv[1:]
+    workers = 4
+    if '--workers' in argv:
+        i = argv.index('--workers')
+        workers = int(argv[i + 1])
+        del argv[i:i + 2]                      # don't mistake the worker count for a chapter
+    args = [int(a) for a in argv if a.isdigit()]
     force = '--force' in sys.argv
     if not args:
         args = sorted(int(os.path.basename(os.path.dirname(p))[2:])

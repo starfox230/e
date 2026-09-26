@@ -1,0 +1,6 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=834324
+title=Chapter 4. Fate, or Variance
