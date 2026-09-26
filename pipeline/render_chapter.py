@@ -1,8 +1,20 @@
 """Render a chapter's video by splitting it into time segments across all cores.
 
-Each worker composes its own segment to a raw-video-only MP4; the segments are then
+Each worker composes its own segment to a video-only MP4; the segments are then
 concatenated without re-encoding and muxed with the chapter's mixed audio, so the
 picture stays on exactly the same clock as the sound.
+
+Two details keep the picture the same length as the sound, and both have bitten:
+
+  * The frame count is rounded, not ceiled. Ceiling always overhangs the audio by up to a
+    whole frame; rounding lands within half of one.
+  * The mux must not pass -shortest. The audio ends part-way through a frame, so -shortest
+    stops the video at the last frame that finishes before it and clips two to four frames
+    off the tail -- the picture then freezes for the last ~100ms of every chapter. Without
+    it the video runs to its own length, which rounding has already put within half a frame.
+
+The frame count is asserted against the composed total afterwards, so a regression in
+either shows up as a build failure rather than as a freeze at the end of a chapter.
 
 Usage: python3 pipeline/render_chapter.py 1 [2 3 ...]      (no args = all mixed chapters)
        --workers N      (default 4)
@@ -24,6 +36,14 @@ PRESET = os.environ.get('X264_PRESET', 'veryfast')
 CRF = os.environ.get('X264_CRF', '24')
 
 
+def frame_count(path):
+    """Coded video frames actually present in a container."""
+    out = subprocess.run(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-count_packets',
+                          '-show_entries', 'stream=nb_read_packets', '-of', 'csv=p=0', path],
+                         capture_output=True, text=True).stdout.strip()
+    return int(out) if out.isdigit() else -1
+
+
 def render_segment(args):
     """Compose frames [f0, f1) of a chapter into a video-only MP4."""
     chapter, f0, f1, path = args
@@ -35,7 +55,10 @@ def render_segment(args):
     cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'yuv420p',
            '-s', f'{video.W}x{video.H}', '-r', str(FPS), '-i', '-',
            '-an', '-c:v', 'libx264', '-threads', '1', '-preset', PRESET, '-crf', CRF, '-tune', 'film',
-           '-pix_fmt', 'yuv420p', '-g', str(FPS * 4), '-x264-params', 'scenecut=0:open-gop=0', path]
+           '-pix_fmt', 'yuv420p', '-g', str(FPS * 4),
+           # closed GOPs and no scene-cut keyframes: every segment opens on an IDR, so the
+           # segments stay independently decodable once they are laid end to end
+           '-x264-params', 'scenecut=0:open-gop=0', path]
     ff = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     for k in range(n):
         t = (f0 + k) / FPS
@@ -56,7 +79,9 @@ def render(chapter, workers=4, force=False):
     final = os.path.join(out_dir, f'ch{chapter:02d}.mp4')
     if os.path.exists(final) and not force:
         return final
-    total = int(math.ceil(tl['duration'] * FPS))
+    # round, not ceil: the nearest whole frame puts the picture within half a frame of the
+    # sound instead of always overhanging it by up to a frame
+    total = int(round(tl['duration'] * FPS))
     seg_dir = os.path.join(work, 'segments')
     os.makedirs(seg_dir, exist_ok=True)
     per = int(math.ceil(total / workers))
@@ -72,11 +97,16 @@ def render(chapter, workers=4, force=False):
     with open(lst, 'w') as f:
         for _, _, _, p in jobs:
             f.write(f"file '{os.path.abspath(p)}'\n")
+    # no -shortest here: it would clip the tail back to the last frame that ends before the
+    # audio does, freezing the picture over the final moments of every chapter
     subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', lst,
                     '-i', os.path.join(work, 'mix.wav'),
                     '-map', '0:v', '-map', '1:a', '-c:v', 'copy',
-                    '-c:a', 'aac', '-b:a', '192k', '-shortest',
+                    '-c:a', 'aac', '-b:a', '192k',
                     '-movflags', '+faststart', final], check=True)
+    got = frame_count(final)
+    if got != total:
+        raise RuntimeError(f'ch{chapter:02d}: muxed {got} frames, composed {total}')
     for _, _, _, p in jobs:
         os.remove(p)
     os.remove(lst)

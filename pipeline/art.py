@@ -17,6 +17,15 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageChops
 
 W, H = 1920, 1080
+# The brightest 1% of a graded frame must reach at least this, or the shot reads as black
+# on screen. Kept low on purpose: the look is meant to be dark, just not featureless. Across
+# the finished art the 5th percentile of this measure sits near 0.27, so a floor here catches
+# the frames that genuinely failed without touching the ones that are merely moody.
+FLOOR_P99 = 0.24
+# Lifting to exactly the floor does not stick: the grain and the JPEG quantisation that come
+# after cost a point or two, so the frame lands just under and gets caught again on the next
+# pass forever. Aim above the floor and it clears in one go.
+LIFT_TO_P99 = FLOOR_P99 * 1.2
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'work', 'images')
 
@@ -734,6 +743,19 @@ class Scene:
         yy, xx = np.mgrid[0:H, 0:W]
         d = np.sqrt(((xx - W / 2) / (W / 2)) ** 2 + ((yy - H / 2) / (H / 2)) ** 2)
         a *= (1 - 0.42 * np.clip(d - 0.35, 0, 1) ** 1.5)[..., None]
+        # Exposure floor. Night, space and basement palettes can stack a dark gradient under
+        # dark subject matter and land on a frame that reads as flat black on screen -- and a
+        # shot holds for the better part of a minute, so there is nowhere for the eye to go.
+        # A gamma lift is used rather than a gain because it pins both endpoints: the blacks
+        # stay black and the highlights stay put, while the tones in between come up.
+        # measured as ITU-R 601 luma, not as a flat channel average: these palettes run
+        # blue, and blue carries barely a tenth of the perceived brightness, so a mean
+        # would read a cold frame as far lighter than the eye finds it
+        luma = a[..., 0] * 0.299 + a[..., 1] * 0.587 + a[..., 2] * 0.114
+        bright = float(np.percentile(luma, 99))
+        if 1e-3 < bright < FLOOR_P99:
+            gamma = max(0.45, math.log(LIFT_TO_P99) / math.log(bright))
+            a = np.clip(a, 0, 1) ** gamma
         # grain
         g = self.rng.normal(0, 0.012, a.shape[:2])[..., None]
         a = np.clip(a + g, 0, 1)
