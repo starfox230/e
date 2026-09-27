@@ -68,8 +68,10 @@ Cost: 2,000,000
 N: He bought it on the flight home. Six hundred to one. A single second became ten minutes. And, stranger still, he could run three of them at once — three separate trains of thought, in three separate rooms of the Memory Palace, each with its own ten minutes, each unaware of the others until he chose to bring them together.
 N: He used all three on Sebastian Crane.
 [pause 1.5]
+N: The second voice came back.
 ADOLF: Why not simply buy him? Or break him, like the policeman?
 WESKER: Because he has a machine that can see the shape of what we are. Buying him won't turn off the machine. Breaking him won't turn it off. The only way to beat a machine that predicts you is to teach it the wrong prediction.
+N: The voice in his head wasn't finished.
 ADOLF: You intend to lie to it.
 WESKER: I intend to be honest with it. For six months. Perfectly, predictably honest. And then, once, at the moment that matters, not.
 [pause 2.0]
@@ -117,6 +119,7 @@ CRANE: (soft) What are you?
 [pause 1.5]
 N: The Director did not answer. He looked at the young man dripping on his carpet — brilliant, arrogant, ruined, and still, even now, even here, burning with that childish total envy — and the Cold-Read showed him something that he had seen before, in a break room, in the face of a young woman at a piano.
 N: Crane did not want revenge. He wanted to be near it. Whatever it was.
+N: Adolf, softly, from inside.
 ADOLF: (soft) He wants to serve.
 WESKER: He wants to understand. For a man like him, it's the same thing.
 [pause 1.5]

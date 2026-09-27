@@ -34,17 +34,22 @@ WESKER: No. Let him bring it.
 [img] {WESKER} in a car at night on a highway, dashboard light, face in shadow, sunglasses reflecting streetlights, cinematic
 [amb] amb_night_city
 N: The argument happened on the drive home that night. It was the first real one.
+N: The second voice broke in.
 ADOLF: He is a traitor.
 WESKER: He's a disappointed old man with a thumb drive.
+N: The voice inside him answered.
 ADOLF: He stole from you. He is going to sell you to your enemy. In my time a man like that was not dismissed. He was made an example. So that the next man would not try.
 WESKER: In your time you had a secret police and a country that didn't ask questions. Here, if Howard Lessing disappears, his wife calls the Wilmington police on Wednesday morning, and the Wilmington police call his colleagues, and one of his colleagues is Nadia Okafor, who is already measuring me for a coffin.
+N: The inner voice interrupted.
 ADOLF: Then do it so that nobody calls.
 WESKER: (cold) Listen to me very carefully. We are not doing that. Not now. Not for this.
 [pause 0.8]
 [img] a dark highway at night seen through a windshield, headlights, a green highway sign, rain beginning, cinematic
 N: For a while there was only the road.
+N: Then the other one, from inside.
 ADOLF: Then what?
 WESKER: A dead man is a problem. A frightened man is an asset. I don't want Howard Lessing gone. I want him mine.
+N: Adolf's voice rose in his head.
 ADOLF: A man who is afraid of you is not yours. He is only afraid.
 WESKER: That's what you never understood. For most men, it's the same thing.
 [pause 1.5]
@@ -141,11 +146,14 @@ Points: 4,200
 [say] Level up. Level four.
 [/system]
 N: Three into Intelligence. Two into Defence.
+N: The other one spoke, unasked.
 ADOLF: You have made a man who hates you.
 WESKER: I've made a man who obeys me. Hate's a hobby. It doesn't show up to work.
+N: The old voice stirred inside him.
 ADOLF: In my experience, hate shows up to everything eventually.
 WESKER: In your experience, you were surrounded by men who hated you and you had them shot. And then you still lost.
 [pause 1.0]
+N: The voice inside him, barely a murmur.
 ADOLF: (slow) We shall see who is right about Howard Lessing.
 N: They would. It would take three years.
 [pause 1.5]

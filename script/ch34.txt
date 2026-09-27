@@ -24,8 +24,10 @@ Location: assigned by Host
 N: The System asked him for two things. A place, and a name.
 N: The place took eleven seconds. Two hundred and forty nautical miles west of the Azores, in international waters, on a shallow seamount that no nation had ever claimed, at the intersection of three of the busiest shipping lanes on Earth.
 N: The name took longer.
+N: Adolf chimed in.
 ADOLF: Name it for yourself.
 WESKER: No.
+N: The voice behind his eyes had something to add.
 ADOLF: Every founder in history has named the capital for himself. Alexandria. Constantinople. Saint Petersburg.
 WESKER: And every one of them told the world exactly what to hate. Name a city for a man and you have given his enemies a target with a face.
 [pause 1.0]
@@ -120,13 +122,17 @@ N: He felt her decide, from four hundred metres above.
 N: That was what Banner-Sense did. It had been three years, and he had learned to read it the way a sailor reads water. A hundred and forty thousand people below him in the dark, each one a small steady light — and one of them, in a hotel on the second ring, was flickering.
 N: He could have stopped it. It would have taken a telephone call.
 [pause 1.5]
+N: From inside, the other voice.
 ADOLF: End it tonight.
 WESKER: No.
+N: The other half of him answered.
 ADOLF: She is going to destroy you. Not for money. Not for a rival. For conscience. That is the only kind that cannot be bought back.
 WESKER: I know exactly what she's going to do. She's going to tell Julian Ashcombe that the money is the wrong picture, and Julian Ashcombe is going to start looking at the people, and in about four years he is going to arrive at the truth, and then he is going to try to kill me.
+N: The voice inside him, without warmth.
 ADOLF: (cold) And you will allow this.
 WESKER: I'm going to allow it because I want to know what they do when they finally understand. I've spent thirteen years being the only person who knows what happens next. I'd like to be surprised once more before I stop being surprised for ever.
 [pause 1.5]
+N: Adolf's voice came back, low.
 ADOLF: (slow) That is not a reason. That is boredom.
 [pause 1.0]
 WESKER: (soft) Yes.

@@ -46,8 +46,10 @@ N: The second scandal was quieter, and so quiet that nobody ever noticed it was 
 N: Samira Haddad's report — a careful, forty-page recommendation that the CDC conduct a full, unannounced biosafety audit of every Umbrella facility in the United States — went up the chain in Atlanta in July. It reached a deputy assistant secretary at the Department of Health and Human Services in August. It was still there in October. It was still there in December. It was never rejected. It was simply never read, by a department that had, that summer, accepted a three-hundred-million-dollar grant from the Umbrella Foundation to build rural health clinics in six states, and was planning a ribbon-cutting with the Secretary for the spring.
 N: Nobody had told the deputy assistant secretary to sit on it. That was the art of it. Nobody ever needs to be told. They only need to be able to imagine what might happen if they didn't.
 [pause 1.5]
+N: Adolf answered from inside.
 ADOLF: You have made a policeman into a joke and a doctor into an unread file. Without a single threat.
 WESKER: Threats leave fingerprints. Budgets don't.
+N: The voice inside him answered.
 ADOLF: In my day, we would simply have arrested them.
 WESKER: In your day, the people you arrested became martyrs, and the martyrs became a resistance, and the resistance became a problem you had to solve with more arrests. I prefer my problems to solve themselves.
 [pause 1.5]
@@ -91,8 +93,10 @@ Cost: 150,000
 N: The Memory Palace had to be built. The System said so, in a line of small text beneath the purchase — the structure is determined by the Host — and so, that night, lying on his back in the dark in the bare apartment on the riverfront where he slept perhaps three hours a night, he built it.
 N: It was the first real argument they had had about architecture.
 [pause 1.0]
+N: The voice behind his eyes had something to add.
 ADOLF: A palace should be a palace. Columns. Marble. A great hall. A chancellery. Rooms that make the men who walk in them feel small.
 WESKER: It's a filing system.
+N: The other half of him answered.
 ADOLF: It is the inside of your mind. You will live in it more than you live in your body. Make it worthy of what you are going to become.
 [pause 1.2]
 N: Wesker did not answer at once. And when he did, it was not an argument. It was simply a decision, made quietly, the way he made all the ones that mattered.
@@ -100,6 +104,7 @@ N: Wesker did not answer at once. And when he did, it was not an argument. It wa
 N: He built it as the old building.
 N: Four storeys of tired brick. A lobby with a water stain. A break room with a humming vending machine and an old piano in the corner. A corner office with a leather chair. And then — because it was a mind, and minds do not have to obey geology — corridors that went on, and on, beyond the walls, down stairs that did not exist, into floors beneath the basement, each corridor lined with doors, and behind every door, a person. Every face he had ever read. Every file. Every conversation, word for word.
 N: Walter Pruitt had a door on the ground floor, by the security booth. Hannah Price had one in the basement, beside a freezer. Owen Carrick had three.
+N: The old voice, slowly.
 ADOLF: (soft) You made it the building.
 WESKER: It's the only place I've ever started from nothing. I'd like to remember what that was like.
 [pause 1.5]

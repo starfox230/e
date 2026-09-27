@@ -25,6 +25,7 @@ Personnel acquired through the System cannot disobey.
 [img] a row of faceless human silhouettes standing at attention inside glowing holographic frames, like products on a shelf, eerie, cinematic
 N: That line he read three times.
 N: Cannot disobey. Not will not. Cannot. Human beings — or things shaped exactly like them — delivered with their loyalty already installed, the way a car arrives with its engine.
+N: The voice inside him, barely a murmur.
 ADOLF: (soft) A guard. Buy a guard. Every movement begins with men who will stand at the door.
 WESKER: Every movement you started ended with men standing at a door in a bunker. Let's try something new.
 [system] POWERS AND IMMUNITIES
@@ -59,8 +60,10 @@ Points: 700
 N: He felt it immediately. A tightness under the sternum he had not known was there, like a fist he had been holding for five days, opened. The virus in his blood did not become tame. It simply stopped eating.
 N: It was, the narrator is obliged to record, the only time in this entire story that Albert Wesker spent Points on humility.
 [pause 1.0]
+N: Adolf chimed in.
 ADOLF: And the rest?
 WESKER: The rest buys the most dangerous man in the building.
+N: Then the other one, from inside.
 ADOLF: A soldier.
 WESKER: An accountant.
 [pause 0.5]
@@ -72,6 +75,7 @@ Integration: complete
 Points: 0
 [say] Purchase confirmed. Comptroller. Arrival, Monday, eight A M.
 [/system]
+N: The old voice stirred inside him.
 ADOLF: You have spent our fortune on a clerk.
 WESKER: Money is the only army that works in peacetime. And I've just hired its general.
 [pause 1.5]
@@ -138,10 +142,13 @@ N: Every night, after the building emptied, he took the old microscope in lab th
 N: He had done this before, in another life. In another world he had watched this same virus under far better lenses, in laboratories deep beneath the Arklay Mountains, built with a budget that could have bought this whole city. But he had never looked at it like this — from inside the body it had rebuilt.
 N: The Prototype was beautiful. That was the Wesker half's opinion, and he did not hold it lightly. It moved through the sample like a patient army, finding damaged cells and rewriting them, finding healthy cells and improving them, never wasting anything, never hurrying. Everything it touched became stronger. Everything that could not be made stronger, it consumed.
 [pause 0.8]
+N: Adolf spoke up.
 ADOLF: It is like an idea.
 WESKER: It's a virus.
+N: Adolf answered from inside.
 ADOLF: It is like an idea. It enters. It finds what is weak. It rewrites it, or it removes it, and everything that remains is stronger than before.
 WESKER: (cold) You're describing a disease, you realise.
+N: The second voice came back.
 ADOLF: I am describing a nation.
 [pause 1.0]
 N: Wesker did not answer. In the dark lab, the man at the microscope sat very still, while two minds shared one set of eyes, and looked at the same thing, and saw it completely differently. And the most frightening thing about the next fifty years was that, in the end, it would not matter which of them was right.

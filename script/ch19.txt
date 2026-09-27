@@ -112,8 +112,10 @@ N: He stood in the parking lot for a long time, looking at the tail lights of th
 N: He knew about dashcams. Tomás had taught him about dashcams in the autumn of twenty twenty-six, in a break room, with a phone. He knew exactly what that car had seen.
 N: There was no fixing it. He had already run through the possibilities, in the Thought Acceleration, in the time it had taken the car to pass. He could find the car. He could find the driver. He could make the driver and the passenger and the footage disappear. And that would be five bodies instead of four, and two missing persons, and a rideshare company asking questions, and a pattern — and a pattern was the one thing he had spent three years never, ever leaving behind.
 [pause 1.0]
+N: The voice in his head wasn't finished.
 ADOLF: Four. In forty seconds. Did you feel it?
 WESKER: (cold) I felt a very expensive mistake.
+N: Adolf's voice rose in his head.
 ADOLF: You felt what you are. For three years you have hidden it behind contracts and laminated cards. Tonight you were what you are. I have been waiting for that since the bunker.
 WESKER: Tonight, a frightened boy killed the only man in this company who could have sent me to prison, and I killed four men in front of a camera. That isn't what I am. That's what I'm going to have to explain.
 [pause 1.5]

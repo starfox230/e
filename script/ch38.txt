@@ -14,8 +14,10 @@ N: Eighteen medicines. That was what everyone understood by nine o'clock.
 N: Aeterna, on which sixty million people depended, and without which most of them would begin to age again within seventeen weeks. The two Pale Horse boosters, which the World Health Organization recommended annually and which every developed country had built its public health policy around. And eight others, unglamorous and essential — a cardiac drug, two antibiotics of last resort, an anticoagulant, the immunosuppressant used in almost every organ transplant on Earth.
 N: Umbrella had not stopped supplying any of them. It had said it was reviewing.
 [pause 1.5]
+N: The other half of him answered.
 ADOLF: You have not threatened them.
 WESKER: I have used the word reviewing.
+N: Adolf answered from inside.
 ADOLF: It is the most violent thing I have ever heard.
 [pause 2.0]
 
@@ -101,8 +103,10 @@ Reward: 900,000,000 Points
 [/system]
 N: Four million people. The System counted them all.
 [pause 1.5]
+N: The old voice, slowly.
 ADOLF: (soft) Not one soldier.
 WESKER: Not one.
+N: The voice behind his eyes had something to add.
 ADOLF: I took the Rhineland with three battalions and I could not sleep for a week. You have taken a province with a water system.
 WESKER: I've taken the first one with a water system. The others will be cheaper.
 [pause 2.0]

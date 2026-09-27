@@ -77,13 +77,17 @@ N: On Monday the first of October, Howard Lessing came into the leadership meeti
 N: Not braver. Lessing was not a brave man. It was something the Cold-Read took a moment to name, because it was rare, and because he had not expected to see it in Lessing at all.
 N: It was purpose.
 [pause 1.2]
+N: The second voice broke in.
 ADOLF: He has gone to them.
 WESKER: Yes.
+N: The other voice cut in.
 ADOLF: He is an informant. For the police. In your house. At your table.
 WESKER: For the Federal Bureau of Investigation. Try to keep up with the century.
+N: Adolf's voice cut in, flat and hard.
 ADOLF: (cold) Then end it. Tonight. You have a creature in the ground that no one knows exists. You have six men who do not show up on a camera. You have a thousand ways.
 [pause 1.0]
 WESKER: No.
+N: Adolf answered from inside.
 ADOLF: I told you. Three years ago, in the car. I told you that you had made a man who hated you. I told you hate shows up to everything eventually.
 WESKER: And it's shown up. Good. Let him wear the wire.
 [pause 1.5]
@@ -91,6 +95,7 @@ WESKER: And it's shown up. Good. Let him wear the wire.
 N: It was the purest distillation of the Wesker half of the mind that the Adolf half had yet seen, and it disturbed the old voice more than anything had since the bunker.
 N: A traitor, discovered, is a problem. A traitor, discovered, who does not know he has been discovered, is a radio station. He broadcasts to his handlers whatever he believes to be true. And if you control what he believes, you control what they hear.
 WESKER: Every Monday, Howard will hear something. A little piece of the company. A budget line. A shipment. A rumour about a new facility in Nevada. And every Monday night, he will drive to a pay phone and tell Owen Carrick. And Owen Carrick will write it down, and chase it, and find — each time — exactly what I've put there for him to find.
+N: The voice inside him answered.
 ADOLF: And when he finds nothing?
 WESKER: Then he'll start to doubt his source. And then his source will start to doubt himself. And then, one day, Howard Lessing will make a mistake that I haven't arranged. And that one — that one I'll be ready for.
 [pause 1.5]

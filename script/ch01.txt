@@ -75,11 +75,14 @@ N: He set the mug down, very precisely, in the exact ring of dried coffee it had
 N: The washroom light buzzed and flickered twice before it decided to work.
 N: The man in the mirror was tall, and pale, and blond, with his hair swept back from a hard, handsome face. Mid-thirties, perhaps, though the eyes were older than that. He wore a black shirt, dark trousers, and the kind of calm that belongs to a predator that has already eaten this week.
 N: He leaned closer. And the pupils, as he watched, narrowed into vertical slits, and flared a dull, burning red.
+N: And then, for the first time, something inside him spoke — in a voice that was not his own.
 ADOLF: This is not my face.
 WESKER: No. It's mine.
 N: The voices did not come from his mouth. They came from somewhere behind the eyes, and they spoke at the same time, and for a long moment the man in the mirror said nothing at all while two histories argued over the same skull.
+N: The other voice pressed him.
 ADOLF: Where is this? What is this place? What have you done?
 WESKER: I haven't done anything. I died. So, I suspect, did you. Congratulations. We appear to have been — combined.
+N: The second voice came back.
 ADOLF: I do not accept that.
 WESKER: The mirror doesn't care what you accept.
 [pause 1.0]
@@ -101,6 +104,7 @@ Designation: Albert Wesker
 Secondary imprint: present — stable
 [say] Host confirmed. Integration complete.
 [/system]
+N: The other voice weighed in.
 ADOLF: Secondary.
 WESKER: Don't take it personally. It's a machine.
 N: A second panel slid out beneath the first.
@@ -118,6 +122,7 @@ Special: 6
 N: He read it the way a general reads a map of a battle he intends to win.
 N: He knew instinctively what the numbers meant. Ten was an ordinary man. Twenty was the very edge of what a human body could do. Thirty and above was something else entirely.
 WESKER: Charisma twenty-four. That's you, I assume.
+N: The other half of him answered.
 ADOLF: A nation followed that voice.
 WESKER: Into a bunker. Yes. I remember.
 [sfx] sfx_system_chime
@@ -135,6 +140,7 @@ Points are earned through conquest, through the loyalty of those who follow you,
 [say] The Shop is locked. Points are earned through conquest, loyalty, superior action, and the defeat of enemies.
 [/system]
 WESKER: Conquest. Loyalty. Superior action.
+N: The other voice cut in.
 ADOLF: It is describing a state.
 WESKER: It's describing a company. Same thing, if you do it properly.
 [sfx] sfx_system_chime
@@ -192,8 +198,10 @@ N: He read that he had lost. Not narrowly. Totally. His country had been cut in 
 [pause 1.2]
 N: If you were hoping he felt remorse, he did not.
 N: What he felt, reading the verdict of history on a cheap monitor in the rain, was not guilt. It was humiliation. The fury of a man who has been told that he was not merely wicked, but beaten.
+N: Adolf answered from inside.
 ADOLF: They made me a word.
 WESKER: They made you a warning. There's a difference. A word can still be used.
+N: The voice behind his eyes had something to add.
 ADOLF: I will not be pitied by a laboratory rat who was killed by two soldiers in a hole.
 WESKER: Then let's be precise, shall we? We both lost. You had a nation, and you lost it. I had a virus that could have remade the species, and I lost that too. And do you know why? Both of us?
 [pause 0.8]
@@ -202,6 +210,7 @@ WESKER: You lost because they saw you coming.
 [pause 1.0]
 WESKER: You told them. You wrote it in a book. You shouted it into microphones. You put it on banners. You gave the whole world ten years' notice. And the moment they understood what you were, they united to destroy you.
 WESKER: And I did the same thing. I stood on a stage and announced my plan to the only two people who could stop it.
+N: Then the other one, from inside.
 ADOLF: And what would you do instead?
 WESKER: Nothing they could see.
 [pause 1.5]
@@ -220,8 +229,10 @@ N: He had seven days. He had no money, no army, no name that anyone recognised. 
 [img] close-up of a hand picking up black sunglasses from a desk, morning light, dust in the air, shallow depth of field, cinematic
 N: He picked up the sunglasses from the desk, and looked at them, and put them on.
 WESKER: They didn't see you coming either, you know.
+N: The old voice stirred inside him.
 ADOLF: Who?
 WESKER: The world. In nineteen thirty-three. They thought you were a clown.
+N: The inner voice interrupted.
 ADOLF: And then?
 N: Behind the dark lenses, the eyes flared red, and faded.
 WESKER: And then they learned.

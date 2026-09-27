@@ -47,8 +47,10 @@ EVELYN: (soft) We don't know. That's why we need him.
 [pause 1.5]
 N: The Director looked at her for a long time. She was thirty-three now. She had not left the Arklay sublevel for more than a day at a time in four years. Her skin had the pallor of someone who lived under artificial light, and her eyes had the brightness of someone who did not need to see the sun, because she had seen something brighter.
 N: The Cold-Read showed him her face, and he read it, and what he read there was not ambition, or even curiosity. It was love. A pure, total, terrible love — not for him, anymore, or not only for him. For the work. For what the work could make.
+N: The voice inside him, barely a murmur.
 ADOLF: (soft) She is magnificent.
 WESKER: She's becoming something I didn't plan.
+N: Adolf's voice rose in his head.
 ADOLF: The best ones always do.
 [pause 1.5]
 WESKER: Ask him yourself, Evelyn. If he says yes, it's yes.
@@ -94,8 +96,10 @@ WYATT: Very well, Director. Thank you. I'm ready to go back to work.
 WESKER: And what will you do when you get there?
 WYATT: (slow) Whatever you think is best.
 [pause 2.0]
+N: Adolf, softly, from inside.
 ADOLF: (whisper) A general who obeys. Do you understand what she has given you?
 WESKER: (whisper) Yes.
+N: The inner voice interrupted.
 ADOLF: In my whole life I never had one. Not one. They all thought they knew better. They all waited for me to fail. They tried to kill me in my own headquarters with a bomb in a briefcase. And she has made one, in twelve weeks, in a white room, out of a dying man.
 [pause 1.5]
 N: Wesker did not answer. He was looking at the general's eyes. They were a little too bright. They caught the light the way the macaques' eyes had caught it, in the glass enclosure, when Owen Carrick walked past.

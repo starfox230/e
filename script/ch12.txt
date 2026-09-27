@@ -172,14 +172,17 @@ N: The truth, which she only admitted to herself much later, on a very bad night
 N: That is how it happens. Not with a signature in blood. With a sensible woman, alone in a glass office at midnight, deciding not to ask the next question.
 [pause 1.5]
 
+N: The other voice weighed in.
 [music] m_horror -10
 [amb] amb_night_city
 [img] {WESKER} driving at night, face in shadow, the reflection of city lights on his sunglasses, cinematic
 ADOLF: Replace her.
 WESKER: No.
+N: The voice behind his eyes had something to add.
 ADOLF: Buy a second Pell. A comptroller who cannot ask questions. A woman who asks where the money goes will one day ask where the bodies are.
 WESKER: There are no bodies.
 [pause 1.0]
+N: The old voice, slowly.
 ADOLF: (slow) Yet.
 [pause 1.5]
 N: Wesker did not answer that. He drove. And for the first time, the silence in the car was not the silence of a man who had won the argument.

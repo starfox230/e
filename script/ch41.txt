@@ -83,6 +83,7 @@ N: And on the balcony, in the floodlights, a man who had died in a bunker in nin
 N: No disagreement. No friction. Not one word.
 [pause 1.5]
 WESKER: (slow) Now.
+N: The other voice, quietly.
 ADOLF: (slow) Now.
 [pause 1.0]
 N: They said it at the same instant, in the same cadence, in the quiet of one skull.

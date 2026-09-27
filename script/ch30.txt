@@ -28,8 +28,10 @@ WEN: (soft) If we cannot buy the company, and we cannot copy the company, then w
 [img] a crowded luxury hotel lobby in Hong Kong during a medical conference, delegates with lanyards, {WESKER} walking through in a black coat and sunglasses flanked by two men in black suits, cinematic
 [loc] Hong Kong — May 2034
 N: The Director went to Hong Kong in May, for a medical conference at which Umbrella was the principal sponsor. He knew what was waiting for him. The nine radios in Singapore had told him, three weeks before, exactly what Beijing had asked them.
+N: Adolf spoke up.
 ADOLF: You are walking into their city. Into their net. With two guards.
 WESKER: I'm walking into a conference, with two guards and a keynote. And I'd like to meet the woman who's been watching me for three years. She's the only one of them who's clever enough to be interesting.
+N: The voice in his head wasn't finished.
 ADOLF: And if she tries to take you?
 WESKER: Then I'll learn something about Chinese intelligence. And she'll learn something about me.
 [pause 1.5]
@@ -81,6 +83,7 @@ WEN: (cold) So do I. That is how I recognised it.
 N: In the quiet of one skull, the old voice went very, very still.
 N: It was the first time in eight years that anyone in this world had come within a mile of the truth. And it was a woman, in a tea house, with a clay pot, who had done it by listening to the rhythm of his sentences.
 [pause 1.5]
+N: The other voice, quietly.
 ADOLF: (whisper) She knows.
 WESKER: (whisper) She suspects. It isn't the same thing. And she'll never be able to say it out loud, because the moment she does, she sounds like Owen Carrick.
 [pause 1.5]
@@ -118,6 +121,7 @@ N: Peer. The System had never used that word before, about anyone.
 N: The Adolf half of the mind looked at it for a long time, and did not like it at all.
 ADOLF: No one is our peer.
 WESKER: She is. For now. That's why I didn't kill her people.
+N: The inner voice interrupted.
 ADOLF: You are becoming sentimental about your enemies.
 WESKER: I'm becoming precise about them. You were never precise about your enemies. You hated them all equally. It made you predictable.
 [pause 1.5]

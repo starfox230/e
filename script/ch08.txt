@@ -35,8 +35,10 @@ N: It was, the Director would later calculate, the cheapest loyalty he ever boug
 [music] m_scheme -8
 [img] an online financial forum and social media feed filled with rumors about a Chinese-linked biotech, anonymous posts, thumbnails, cinematic
 N: The gossip came third, and it was the cleverest. Someone at Verdant had noticed the Shenzhen licence, and by the middle of December, a certain kind of website had begun to ask a certain kind of question: who was this Albert Wesker, with no American history, who had appeared from nowhere, and sold American biological samples to a company in China?
+N: The second voice broke in.
 ADOLF: That is good work. He is making you foreign. It is the oldest trick there is.
 WESKER: You'd know.
+N: The voice inside him, without warmth.
 ADOLF: (cold) I would. And I know how it ends when you do nothing about it.
 WESKER: I'm not going to do nothing. I'm going to let someone else do something.
 [pause 1.5]

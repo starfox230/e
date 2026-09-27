@@ -21,10 +21,12 @@ WESKER: Show me everything.
 N: So Tomás showed him.
 N: Short videos, ninety seconds long, served by a machine that learned what you wanted before you did. Feeds that never ended. Comment sections where strangers who would never meet decided, in their thousands, who was a hero and who was a villain before lunch. Men who had become famous for being angry. Women who had become famous for being calm. Children who had become famous for nothing at all. Numbers everywhere — views and likes and followers and shares — ticking upward like the odometer of a car driven by the whole human race at once.
 [pause 0.8]
+N: Adolf's voice came back, low.
 ADOLF: (slow) Oh.
 N: It was a very small word. Wesker had never heard that voice make it before.
 ADOLF: They have built it. They have built the machine. A rally that never ends. A crowd in every pocket. And no one is in charge of it.
 WESKER: Someone's always in charge of it. They just don't stand on a balcony.
+N: The voice behind his eyes had something to add.
 ADOLF: I spent a year of my life writing speeches for a radio set in every kitchen. This — this is a radio set in every hand, that listens back.
 [pause 1.0]
 TOMAS: You okay, Doc? You've gone kind of still.
@@ -39,6 +41,7 @@ TOMAS: The — okay, don't be mad. On the internet it's called aura farming. Whe
 [img] {WESKER} in sunglasses in a shabby break room, a faint dry smile at one corner of his mouth, {TOMAS} grinning nervously, cinematic
 WESKER: And aura can be farmed.
 TOMAS: I mean — it's a joke. Kind of.
+N: Adolf's voice came from somewhere behind his eyes.
 ADOLF: It is called charisma. We had it before the telephone.
 WESKER: (soft) They've turned it into a number. How very efficient of them.
 [pause 1.5]
@@ -56,6 +59,7 @@ Cost: 3,000 Points
 [say] Blueprint. Rapid pathogen assay.
 [/system]
 N: It was not a weapon. It was not a power. It was a small plastic cartridge and a reader the size of a paperback, that could tell a nurse in a rural clinic what was making a child sick in the time it took to make tea — and it did not exist anywhere on Earth.
+N: The other half of him answered.
 ADOLF: A medical device. You are buying a thermometer.
 WESKER: I'm buying a face. Every empire needs one. Yours had a uniform. Mine will have a hospital.
 [sfx] sfx_mouse_click
@@ -153,6 +157,7 @@ N: The Wesker half of the mind noted the number, and filed it, the way an invest
 [pause 0.8]
 ADOLF: (soft) Two of six.
 WESKER: Which two?
+N: The second voice came back.
 ADOLF: You know which two.
 [pause 1.0]
 [system] PURCHASE AVAILABLE
@@ -179,6 +184,7 @@ TOMAS: (phone) Okay, so, please don't kill me. I kind of filmed a bit of it. Yes
 [pause 1.0]
 [img] a phone screen showing a short shaky video of a man in black speaking in a break room, subtitles, comments pouring in asking who he is, macro, cinematic
 N: The Director did not answer immediately.
+N: The voice inside him, barely a murmur.
 ADOLF: (soft) Forty thousand. In one night. From a break room.
 WESKER: Take it down, Tomás.
 TOMAS: (phone) Yeah. Yeah, totally. I'm sorry, I'm — taking it down now. I'm sorry.

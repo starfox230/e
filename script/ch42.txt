@@ -92,6 +92,7 @@ N: The number for the eleven countries, over thirty years, was four hundred thou
 N: The Directorate did not campaign against the Compact. It published the figure, offered to fund the transition itself if the parliaments voted for it, and said nothing else.
 N: Nine of the eleven parliaments voted it down within a year. The two that passed it held referendums, as their constitutions required. Both referendums failed, by margins of sixty-one and seventy-four percent.
 [pause 1.5]
+N: The voice inside him, barely a murmur.
 ADOLF: (soft) You did not even have to lie.
 N: He had not thought that. It had simply arrived, in his own voice, in a room on the fourth floor with no name on the door, and he had noticed it arriving, and had not been able to decide whether it was a memory or a habit.
 [pause 2.5]

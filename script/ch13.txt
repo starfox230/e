@@ -57,8 +57,10 @@ WESKER: Come to Delaware. I'll show you what's true.
 [pause 1.5]
 N: It is important to be precise about what happened here, because Albert Wesker was always precise about it himself. He did not give Sir Martin Ellery a disease. He did not lie to him. He simply noticed it first, and arranged for the man to find out at the moment most useful to Umbrella, and then offered him the one thing no other company on Earth could.
 N: Time.
+N: The voice inside him, barely a murmur.
 ADOLF: (slow) That was well done.
 WESKER: It was a kindness.
+N: The old voice stirred inside him.
 ADOLF: Yes. That is what made it well done.
 [pause 1.5]
 
@@ -88,8 +90,10 @@ EVELYN: (cold) These ones don't need to.
 N: Tan Wei Lin let it go. She had been given a laboratory, a budget with no ceiling, and a problem that nobody else on Earth was working on. She was twenty-nine, and she told herself it did not matter who her colleagues were, as long as the work was real.
 N: This is also how it happens.
 [pause 1.5]
+N: Adolf's voice rose in his head.
 ADOLF: They are perfect. A civil service that cannot be corrupted.
 WESKER: They're the first employees in history who can't be poached. That's all I need them to be.
+N: Adolf answered from inside.
 ADOLF: You understate everything.
 WESKER: You overstate everything. Between us, we're roughly accurate.
 [pause 1.5]
@@ -117,6 +121,7 @@ Rare — Linguistics: German, French, Mandarin, fluent
 [say] Results.
 [/system]
 WESKER: Jet lag.
+N: The other voice cut in.
 ADOLF: Fate is mocking you.
 WESKER: Fate has just made me the only chief executive in the world who can land in Singapore and hold a board meeting. It isn't mocking me. It's being practical.
 [pause 0.6]
@@ -147,10 +152,13 @@ N: Then he let go.
 N: The raindrop streaked across the glass and was gone. On the other side of the cabin, his new executive assistant — who had appeared in the rear seat of the jet at the moment of the draw, already dressed, already holding a tablet with his schedule on it — looked up and asked whether he would like a coffee.
 N: He said yes. It had been, subjectively, a very long second.
 [pause 1.5]
+N: The old voice, slowly.
 ADOLF: (soft) Do you understand what this is?
 WESKER: A useful tool.
+N: The other voice weighed in.
 ADOLF: It is time. It is the only thing I never had enough of. In the last year I needed a day for every hour, and I had nothing. And you have been given the one thing that every man who ever ruled anything has begged God for.
 WESKER: (cold) You didn't lose for lack of time. You lost for lack of judgment.
+N: Adolf's voice came back, low.
 ADOLF: (slow) And now we have both.
 [pause 1.5]
 

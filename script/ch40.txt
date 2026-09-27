@@ -132,8 +132,10 @@ N: A hundred and sixty thousand people on Arklay Free Territory saw a silent whi
 N: The Director was awake. He had been awake since the launch, nine minutes and forty seconds of which he had spent in the Thought Acceleration, which is a subjective ninety-six hours, most of which he had spent deciding what to do afterwards.
 N: What he decided was: nothing.
 [pause 1.5]
+N: Adolf answered from inside.
 ADOLF: Nothing.
 WESKER: Nothing public. No statement, no accusation, no retaliation, no demand. Somebody fired a bunker-buster at a civilian city of a hundred and sixty thousand people and a light came on in the sky for one second and went out. That is the entire story. Let every government on Earth work out for themselves what just happened, and let every one of them arrive at the same conclusion in private, and let none of them ever be able to say it out loud without admitting that they were watching.
+N: Adolf, softly, from inside.
 ADOLF: (soft) You are teaching them a lesson that has no words in it.
 WESKER: Those are the only lessons that last.
 [pause 2.0]
@@ -159,8 +161,10 @@ N: Somewhere in an organisation of four hundred and eighty thousand people, some
 [sfx] sfx_footsteps g-12
 N: He walked back to the guest house. It was three kilometres, and it was cold, and he had no security, and nobody in Beijing looked at him twice.
 [pause 1.0]
+N: The other one spoke, unasked.
 ADOLF: She named us.
 WESKER: She named you.
+N: The voice inside him, barely a murmur.
 ADOLF: (slow) She named the shape of a sentence. It is the same thing. I built that shape in beer halls when the men who built the first radios were still alive.
 [pause 1.5]
 ADOLF: Does it trouble you?
@@ -168,6 +172,7 @@ WESKER: (soft) No. That's what troubles me.
 [pause 2.0]
 N: He walked for a while.
 WESKER: Twenty years ago it would have. Twenty years ago I'd have spent the night working out how to remove her. And tonight I sat at a table with a woman who has heard exactly what is inside my head, and I drew a map with her, and I'm walking home in the cold thinking that she is the best adversary I will ever have and that I would like her to live a long time.
+N: The old voice stirred inside him.
 ADOLF: You have grown.
 WESKER: I've grown comfortable. It's not the same thing, and it's more dangerous.
 [pause 2.0]

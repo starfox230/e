@@ -27,10 +27,13 @@ N: The canton put it to a referendum, because Switzerland puts everything to a r
 N: It passed with seventy-four percent in favour.
 N: Nobody was coerced. Nobody was paid. Seventy-four percent of the people of Basel looked at the hospital, and the trams, and the jobs, and the flood defences, and their children's tuition, and voted, freely, to hand the oversight of the most dangerous science on Earth to a council on which the people doing the science had four seats out of nine and the chairman's salary.
 [pause 1.5]
+N: The inner voice, almost to itself.
 ADOLF: (soft) A vote.
 WESKER: A vote.
+N: The other voice weighed in.
 ADOLF: I took a country with a vote. They have never forgiven me for it, and they have spent a hundred years pretending it was only tanks.
 WESKER: The difference is that you had to burn the parliament first.
+N: The voice inside him, barely a murmur.
 ADOLF: (slow) Yes. You did not even need to visit.
 [pause 2.0]
 

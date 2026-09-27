@@ -14,8 +14,10 @@ N: They were frightened. They had read the newspaper. They had watched their com
 [img] {WESKER} stepping onto a low platform in a glass atrium in a black suit, sunglasses on, a hundred faces watching, calm, cinematic
 N: He did not give a sermon.
 N: That was a decision, and it had been argued about, in the car, on the drive across the river.
+N: The old voice stirred inside him.
 ADOLF: A hundred and forty. Frightened. Leaderless. You will never have a better audience. Give them what you gave the break room.
 WESKER: The break room was six people who'd already been saved. These people have just been conquered. You don't preach to the conquered on the first day. You reassure them.
+N: The other voice weighed in.
 ADOLF: You make them grateful first. And then you make them believe.
 WESKER: I make them productive first. Belief is expensive.
 [pause 0.8]
@@ -35,6 +37,7 @@ Personnel absorbed — 140: 5,000
 Total: 13,000
 [say] Assessment. Corporate integration.
 [/system]
+N: The inner voice, almost to itself.
 ADOLF: (slow) It pays for relief. How disappointing.
 WESKER: It pays for order. You should approve.
 [pause 1.5]
@@ -71,8 +74,10 @@ N: This one was not. It did not exist. It did not appear on a single drawing or 
 [sfx] sfx_footsteps g-8
 N: He walked it alone on the first morning, from one end to the other, and did not say a word.
 N: In his old world, he had walked corridors like this beneath a mansion in the Arklay Mountains, when he was young and brilliant and still thought he was the cleverest man in the building. He had been wrong then. There had always been someone above him — some old man with money, some board, some founder. Here, there was no one. For the first time in either of his lives, there was no one at all above him.
+N: Adolf spoke up.
 ADOLF: A fortress.
 WESKER: A laboratory.
+N: From inside, the other voice.
 ADOLF: Every fortress is a laboratory. It is where you find out what men will do.
 [pause 1.5]
 [img] {GUS} and two men in black suits guiding a huge grey industrial machine on heavy-duty dollies out of a freight elevator into a white corridor, cinematic
@@ -126,6 +131,7 @@ CATHERINE: All right. Thank you. I don't enjoy asking twice.
 WESKER: You'll never have to.
 [pause 1.2]
 N: It was the first lie he told her. It would not be the last. But it was, in its way, the best one — because it was made entirely of true things, arranged in an order that did not add up to the truth.
+N: Adolf, softly, from inside.
 ADOLF: (slow) You enjoyed that.
 WESKER: I enjoy craftsmanship. She's the only person in the building worth lying to properly.
 [pause 1.5]

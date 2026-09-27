@@ -72,13 +72,17 @@ WESKER: They found the Russians in Nevada. They found the money in Ireland. They
 WESKER: You have made a fact about me that I did not choose.
 [pause 2.0]
 
+N: The other voice, quietly.
 [music] m_horror -10
 ADOLF: (soft) Let her alone.
 WESKER: (cold) Not now.
+N: The other one spoke, unasked.
 ADOLF: Listen to me. You are angry because she moved without you. That is the only reason. Not the dead. You have never once cared about the dead.
 WESKER: I care about the variables.
+N: Adolf's voice came back, low.
 ADOLF: (slow) She has just handed you the world. Every border on this planet opened for your aircraft this year. Every health ministry signs what your lawyers write. The Foundation is in forty-one countries and the people in them cheer when your trucks arrive. In one year she has done what your contracts would not have done in twenty.
 WESKER: At a cost I did not authorise.
+N: Adolf, softly, from inside.
 ADOLF: (soft) Do you know what I would have given for one officer like her? One. Someone who understood the objective so completely that they did not need to be told. I had a continent full of men who waited to be told.
 [pause 1.5]
 ADOLF: She is the most dangerous person in your empire. She is also the only one who has ever surprised you. Do not waste her.

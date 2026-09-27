@@ -65,13 +65,17 @@ N: The Director knew by Monday.
 N: He knew it the way he knew most things now — across a table, in the first ten seconds of a meeting. Nadia Okafor sat in her usual place, and said good morning in her usual voice, and was, to every other person at the table, perfectly herself.
 N: To the Cold-Read she was a flare in the dark. Fear, bright and white. Grief — a great deal of grief, which surprised him. And beneath it, like bedrock, something the Cold-Read rarely showed him in anyone: a decision that had already been made, and would not be unmade.
 [pause 1.0]
+N: The other voice weighed in.
 ADOLF: She is going to betray you.
 WESKER: She's going to leave. It isn't the same thing.
+N: The second voice broke in.
 ADOLF: She has seen something. She will take it to your enemies. Stop her.
 WESKER: How?
+N: Adolf answered from inside.
 ADOLF: You know how.
 WESKER: (cold) Say it, then. Say it out loud, since you've got nothing but time in there.
 [pause 1.0]
+N: Adolf, softly, from inside.
 ADOLF: (slow) She has a mother in Lagos. And a niece in Manchester. People with families can be persuaded to remember their families.
 [pause 1.5]
 N: The Director did not answer that for the rest of the meeting. He discussed the assay launch, and the Aeterna phase three enrolment, and a new facility in Singapore. He did not look at Nadia Okafor once.
@@ -79,14 +83,18 @@ N: But in the quiet of one skull, for forty minutes, a very old argument was tak
 [pause 1.2]
 [img] {WESKER} standing alone at a tall window of a glass boardroom after a meeting, everyone gone, looking out at the river, hands behind his back, cinematic
 WESKER: We are not going to threaten her family.
+N: Adolf chimed in.
 ADOLF: Why not? You are not squeamish. I have been inside your head for two years. You are the least squeamish man I have ever met, and I have met — I have met a great many.
 WESKER: It isn't squeamishness. It's arithmetic. If I threaten her family, she becomes a martyr with a motive. If I let her go, she becomes a disgruntled former employee with some photographs. One of those makes the evening news. The other makes page nine.
+N: The voice in his head wasn't finished.
 ADOLF: And the photographs?
 WESKER: Show a large grey sculpture and a table of numbers in a binder. The FBI will come. The CDC will come. They'll come to a clean company with a spotless inspection history and a drug that makes old men walk. And they'll find nothing, because what they'd need to find isn't anywhere they can reach.
 [pause 1.0]
+N: The other half of him answered.
 ADOLF: You want them to come.
 WESKER: I want them to come now. While I choose the ground. A controlled burn, Adolf. You set a small fire on purpose, so there's nothing left for the big one.
 [pause 1.0]
+N: The old voice, slowly.
 ADOLF: (slow) And if you are wrong?
 WESKER: Then I'll have learned something about this world. That's worth more than one virologist.
 [pause 1.5]

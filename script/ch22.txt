@@ -22,20 +22,24 @@ SLOANE: I saw a man who doesn't want to be collected by the Russians. I'm here t
 N: He left a telephone number on a plain white card, and a warning, and nothing else. He did not ask for anything. That, too, the Director liked.
 [pause 1.5]
 
+N: The voice behind his eyes had something to add.
 [music] m_horror -10
 [amb] amb_night_city
 [img] {WESKER} in his car at night, still, the white card in his gloved fingers, his face reflected in the window with faint red in the eyes, cinematic
 ADOLF: The Americans want to own you.
 WESKER: The Americans want to rent me. There's a difference. And the Russians want to steal me. Which means that, for the first time, someone is going to come at us who isn't afraid of the police.
+N: The other one spoke, unasked.
 ADOLF: Then let them come.
 WESKER: Yes. I think we should.
 [pause 1.0]
+N: The old voice, slowly.
 ADOLF: (slow) You are thinking of the creature.
 WESKER: I'm thinking that I own a weapon I've never seen used. I'm thinking that a Russian contractor team is the only enemy on Earth I could use it on that nobody would ever report missing. And I'm thinking that it's been asleep for four years, and I'd like to know what it does when it wakes up.
 [pause 1.5]
 N: The Adolf half of the mind was silent for a long moment. When it spoke, its voice had changed — lower, slower, and with something in it that the Wesker half had never quite heard before. Not joy. Something more careful than joy.
 ADOLF: You have always told me to wait. Not yet. Not yet. You told the girl at the piano. You told the creature in the ice.
 WESKER: I did.
+N: The other voice weighed in.
 ADOLF: And now?
 WESKER: Now it's a controlled experiment.
 [pause 1.5]
@@ -134,15 +138,19 @@ EVELYN: (whisper) It was perfect.
 N: Hale said nothing. Hale never said anything he had not been asked.
 N: The Director stood with his arms folded, and looked at the screen, and did not move for a long time.
 [pause 1.5]
+N: Adolf's voice came back, low.
 ADOLF: (soft) Do you see it now?
 WESKER: I see it.
+N: Adolf chimed in.
 ADOLF: Twelve soldiers. The best Russia has. Ninety seconds. One of them. Do you understand what we could do with a hundred? With a thousand?
 WESKER: I understand exactly.
+N: The old voice stirred inside him.
 ADOLF: An army of these. Not in a desert. In the streets of a capital. At the gates of a parliament. No one could stand against it. No one. Not the Americans, not the Chinese, not —
 WESKER: (cold) Stop.
 [pause 1.5]
 N: It was the first time Wesker had ever told the other voice to stop. It was not a request.
 WESKER: An army of these is a war. Listen to me. A war. With the whole world. Tomorrow. Against every government on this planet, all at once, united — for the first time in their history — by the one thing they will all agree on, which is that we have to be destroyed. You know how that ends. You were there. You ended it in a bunker with a pistol.
+N: The voice inside him, barely a murmur.
 ADOLF: (slow) I did not have this.
 WESKER: You had the best army in Europe and the world took it apart in six years. Because they saw you coming. Because you showed them. That's the only lesson either of us was ever supposed to learn.
 [pause 1.0]

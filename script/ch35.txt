@@ -44,10 +44,13 @@ N: At three in the morning, when the building was empty, he sometimes played the
 N: Twenty seconds, shot on a phone in November twenty twenty-six, by a twenty-four-year-old lab technician who thought he was being funny. Six frightened people. A man in a black shirt saying: every great thing that has ever happened in this world began in a room exactly like this one.
 N: He had four hundred million views on that file. He had made it the founding document of a civilisation. And he sat in the dark and watched it, over and over, trying to remember what it had felt like the first time, when he had been a kid with a hundred and six thousand dollars of student debt and no idea what he was standing in the middle of.
 [pause 1.5]
+N: The second voice came back.
 ADOLF: He is exhausted.
 WESKER: He's the most valuable man in the company.
+N: Then the other one, from inside.
 ADOLF: Those are not contradictions. I had one like him. A very clever, very tired man who understood crowds better than I did, and who could not stop, and who in the end took his whole family with him.
 WESKER: (cold) Tomás has no family.
+N: The old voice, slowly.
 ADOLF: (slow) No. He does not. Have you never wondered why?
 [pause 2.0]
 N: The Director did not answer. But he gave Tomás Reyes six months' leave the following week, with his salary and his stock and his title, and told him to go somewhere without a screen.
@@ -84,11 +87,14 @@ N: It said: There is no coercion here. There is no dissent here either. Julian, 
 N: He walked the city at night, sometimes, alone, without security, because there was nothing on Arklay that could hurt him and because the Banner-Sense worked better outdoors.
 N: A hundred and sixty thousand small steady lights. He could feel them all. A teacher on the Third Ring who had fallen asleep marking. A sergeant on the Fourth doing a night patrol and thinking about his son. Four thousand quiet ones who burned with a light that was not light at all, but something more like a wire. And two hundred metres down, in the keel, a woman who burned so bright that he had learned not to look directly at her.
 [pause 1.5]
+N: Adolf's voice came back, low.
 ADOLF: (soft) This is what I meant. All those years, in the car, going home. This.
 WESKER: I know.
+N: The voice inside him answered.
 ADOLF: I could not build it. I had the crowds and the banners and a continent, and I could not build one street like this. Do you know why?
 [pause 1.0]
 WESKER: Because you gave them an enemy instead of a roof.
+N: The voice inside him, barely a murmur.
 ADOLF: (slow) Yes.
 [pause 1.5]
 ADOLF: I gave them someone to hate, because hate is quick, and I was in a hurry, and I thought a people could be held together by what it was against. And it held. For eight years, it held beautifully, and then it burned, and everything I built went with it.
@@ -96,6 +102,7 @@ ADOLF: You have given them a roof. And a school. And a doctor. And they will hol
 [pause 2.0]
 N: The Wesker half of the mind stood on the terrace in the wind and looked down at the lights.
 WESKER: (soft) Say the rest of it.
+N: The inner voice, almost to itself.
 ADOLF: (soft) The rest of it is that I was wrong. About all of it. Not about the goal — never about the goal. About the method. Everything I did was too fast and too loud and too hungry, and it cost me the world, and a boy from a Wilmington laboratory did it better in fifteen years with a medicine and a laminated card.
 [pause 2.0]
 N: It was the first and only time, in twenty-one years, that the old voice admitted it had been wrong about anything.

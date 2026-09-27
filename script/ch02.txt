@@ -65,6 +65,7 @@ LESSING: He tried to hire me for less than I make here. Which is saying somethin
 [img] a gleaming modern glass biotech headquarters across a grey river with a large green corporate logo, morning, cinematic wide shot
 N: Across the river, visible from the basement's single high window if you stood on a box, the Verdant Axis building glittered in the morning sun. Glass and steel and green lettering, a lobby with a living wall, a stock ticker on the NASDAQ, and a chief executive who had told a business magazine the previous spring that he intended to be the next great name in American medicine.
 N: Wesker looked at it for a long time.
+N: The voice behind his eyes had something to add.
 ADOLF: A man who tells magazines what he intends is a man who wants to be seen intending it.
 WESKER: Yes. Which means he'll pay for the appearance of winning.
 [pause 1.0]
@@ -125,8 +126,10 @@ TOLLIVER: (phone) Send me the term sheet.
 N: The term sheet was four pages long.
 N: On page three, in the eleventh clause, in language that any competent lawyer would have understood and that Verdant Axis's competent lawyers would read the following week, was a single word: non-exclusive.
 N: Verdant Axis was not buying the archive. It was buying the right to use it — alongside anyone else Umbrella chose to sell the same right to. As many times as Umbrella liked.
+N: Adolf's voice rose in his head.
 ADOLF: He will discover it.
 WESKER: Of course he will. After the money has cleared. And then he'll have a choice — to admit to his board that he didn't read a four-page contract, or to keep quiet and pretend he meant to do it. Which do you think a man like that chooses?
+N: The other voice, quietly.
 ADOLF: (slow) You have become very comfortable with lying.
 WESKER: You were a head of state. Don't be precious.
 [pause 1.2]
@@ -179,6 +182,7 @@ Decay: 1% per day
 [say] Viral stability, sixty-six percent.
 [/system]
 WESKER: Five days. Five percent.
+N: The voice in his head wasn't finished.
 ADOLF: And the machine gave you money for a trick with a telephone.
 WESKER: The machine gave us money for winning. It doesn't care how.
 [pause 1.0]
@@ -190,6 +194,7 @@ N: On Friday morning, the staff of Division Seven gathered in the break room aga
 N: It was Dana who told them. That was his decision. In the car on Thursday night, the voice at the back of his mind had wanted something else entirely.
 ADOLF: They should hear it from you. They should know whose hand saved them. A people must know its saviour.
 WESKER: They're not a people. They're six employees and a coffee machine.
+N: The other voice weighed in.
 ADOLF: Every people begins as a room.
 WESKER: Then let the room hear it from someone it trusts. Credit is currency. I'll spend it where it buys the most.
 [pause 0.6]

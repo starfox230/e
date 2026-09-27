@@ -43,16 +43,20 @@ N: He knew within the hour.
 N: Not from the phone — she had been careful, and the phone was clean. From her face, the next morning, in the corridor on the eleventh floor, when she said good morning. The Cold-Read had been reading Catherine Adeyemi for six years. It had seen her angry, and afraid, and exhilarated, and exhausted, and triumphant. It had never seen what it saw that morning, and it took him a moment, standing in the corridor, to name it.
 N: It was relief. The particular, bone-deep relief of a person who has been carrying something heavy for a very long time, and has finally put it down somewhere.
 [pause 1.5]
+N: Adolf's voice cut in, flat and hard.
 ADOLF: (cold) She has betrayed you. To the English.
 WESKER: Yes.
+N: The second voice broke in.
 ADOLF: I told you. Five years ago. A woman who asks where the money goes will one day ask where the bodies are. You should have replaced her with a second Pell.
 WESKER: And then who would have told me when I was wrong?
+N: The voice in his head wasn't finished.
 ADOLF: You do not need to be told when you are wrong. You need to be obeyed.
 [pause 1.5]
 N: Wesker did not answer that immediately. He stood at the window of the corner office, on the twelfth floor of the tower, looking across the river at the old building, where a light was on in a third-floor window that nobody used anymore except him.
 WESKER: Everyone betrays, Adolf. Everyone. Your generals. Your party. Your own doctors, in the end. Everyone who is not owned betrays, sooner or later, because everyone has something they love more than you.
 WESKER: The trick is not to prevent it. The trick is to own the route their betrayal travels.
 [pause 1.0]
+N: The other half of him answered.
 ADOLF: You will let her keep talking to them.
 WESKER: I'll let her tell Julian Ashcombe everything she knows. Which is, as it happens, a very great deal about money, and almost nothing about anything else. And Julian Ashcombe will build his whole picture of us out of the money. And the money, Adolf, is the least of what we are.
 [pause 2.0]
@@ -97,8 +101,10 @@ N: And, at the back of the small brick church, standing alone in a black coat wi
 N: He had not been asked. Nobody had known he would come. He stood through the whole service, and did not sit down, and did not speak to anyone, and when it was over he went outside and stood by the church door while the coffin was carried past him.
 N: He took off his sunglasses as it went by.
 [pause 1.5]
+N: The other voice, quietly.
 ADOLF: (soft) Why are we here?
 WESKER: He was the first one. The first person in this world who looked at me and knew. The first night. In the washroom doorway. Different animal.
+N: The inner voice interrupted.
 ADOLF: He was a guard.
 WESKER: He was a witness. I'd like to be here for the end of the first one.
 [pause 1.5]

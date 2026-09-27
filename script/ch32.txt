@@ -115,6 +115,7 @@ N: This was the third threshold.
 N: The first had been a parking lot, and four men, and a dashcam. The second had been a desert, and twelve men, and a thing that walked through gunfire. This one had no bodies in it at all. It was only sixty thousand happy people, on a beautiful September night, chanting the name of a company.
 N: It was the most dangerous of the three.
 [pause 2.0]
+N: The voice inside him, barely a murmur.
 [music] m_sermon -6
 ADOLF: (whisper) Listen.
 [pause 1.0]
@@ -125,6 +126,7 @@ N: And the Wesker half of the mind, standing at the microphone with the stadium 
 N: It was cold.
 [pause 1.5]
 WESKER: (whisper) It was too easy.
+N: The old voice, slowly.
 ADOLF: (whisper) It is always easy. That is what no one ever understands. It is always, always easy.
 WESKER: (whisper) That's what frightens me.
 [pause 3.0]

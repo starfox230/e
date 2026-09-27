@@ -20,6 +20,7 @@ N: Peter Fenwick laughed. It was the last time anyone at Harrow and Lisle though
 [loc] Basel, Switzerland
 N: The second was Switzerland. Officially, a sample repository — a cold vault in the rock above Basel, where Umbrella could store biological material under the protection of Swiss law and Swiss discretion. It was also, though nobody but Pell knew this, the first property Umbrella had ever bought in a city that the Adolf half of the mind had marked, years before, on a map inside the skull.
 N: Basel. The pharmaceutical capital of the world. Home of the giants. A city where a single industry paid for everything, and where a single company could, in the right circumstances, become indistinguishable from the state.
+N: Adolf chimed in.
 ADOLF: One day.
 WESKER: One day. Not this year.
 [pause 1.2]
@@ -75,22 +76,28 @@ Points: 237,300
 [/system]
 [pause 1.5]
 
+N: The other voice weighed in.
 [music] m_tension -10
 [amb] amb_night_city
 [img] {WESKER} in the back of a car at night, streetlights sliding over his sunglasses, tense stillness, cinematic
 ADOLF: Now.
 WESKER: Now what?
+N: The other half of him answered.
 ADOLF: Now you have two thousand people in four countries. You have a name that thirteen million people have watched. You have a factory for four hundred million of anything. Now you give them something to believe in.
 WESKER: They believe in their salaries.
+N: Adolf's voice came from somewhere behind his eyes.
 ADOLF: No one ever died for a salary.
 WESKER: That's rather the point. I don't want anyone to die for me. Dead people are a terrible investment.
+N: From inside, the other voice.
 ADOLF: You felt what the break room paid. Four thousand Points, for six frightened people, in five minutes. Imagine what two thousand pay. Imagine what twenty thousand pay. You want the System's money. The System wants belief. Give it belief.
 [pause 1.2]
 N: Wesker said nothing for a long time.
 N: He was, underneath everything, an investor. And the Adolf half had just made — he admitted to himself, in the back of the car, with the streetlights sliding over the glass — an extremely good investment case.
 WESKER: Not a movement.
+N: The voice inside him answered.
 ADOLF: A movement.
 WESKER: A culture. Every great company has one. Apple had one. Google had one. The Jesuits had one, and they ran half the schools in Europe for four hundred years. Nobody ever arrested a Jesuit for having a mission statement.
+N: Adolf, softly, from inside.
 ADOLF: (slow) Call it what you like. I shall write it.
 [pause 1.5]
 
@@ -139,8 +146,10 @@ Belief — spreading
 [say] Personnel morale, fervent. Belief, spreading.
 [/system]
 N: Ninety thousand. For eighty-one words, said by four hundred people, on a Monday morning in Singapore.
+N: The old voice, slowly.
 ADOLF: (soft) Belief, spreading.
 WESKER: It's a word on a panel.
+N: Adolf spoke up.
 ADOLF: It is the word. I spent my whole life trying to make that word true. You made it true with a laminated card.
 [pause 1.5]
 

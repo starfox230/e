@@ -138,6 +138,7 @@ Points: 44,800
 N: The last of the tightness under his sternum went away, and did not come back.
 N: In his old life he had needed a serum, measured to the milligram, injected on a schedule, to keep the virus from eating him alive. Here and now, standing in the boardroom of a company he had just taken, he felt the Prototype settle into him like a key into a lock. It was not a leash anymore. It was not a clock. It was simply him.
 WESKER: (soft) There.
+N: Then the other one, from inside.
 ADOLF: You are finished being careful, then.
 WESKER: I'm finished being mortal. Careful is a different subject.
 [pause 1.5]
@@ -169,6 +170,7 @@ Rare — Blueprint fragment: Cellular Renewal, 1 of 3
 [say] Results.
 [/system]
 N: Office supplies. A car. A receptionist. A coffee machine.
+N: Adolf's voice cut in, flat and hard.
 ADOLF: (cold) Fate has a sense of humour.
 WESKER: Variance has a sense of humour. Keep reading.
 N: The deep identity would matter enormously. It thickened his invented past — school records in Switzerland, tax returns, a mother's grave in a cemetery outside Basel. It would make his history perfect. It was, in fact, the first mistake the System ever made on his behalf, because three years later an FBI agent would find that history, and notice precisely that it was perfect.
@@ -184,6 +186,7 @@ Designation: ARKLAY
 N: Arklay.
 N: The System had not asked him what to call it. It had simply known.
 N: A containment laboratory, grade four — the highest level of biosafety on Earth — built beneath the building, beneath the basement, beneath the Tyrant. It would be there by morning, the panel said. It would be reached by a freight elevator that officially went nowhere, and it would appear in no drawing, no permit, and no satellite image. And its name was the name of the mountains where, in another world, he had first become what he was.
+N: The other half of him answered.
 ADOLF: You are sentimental after all.
 WESKER: It isn't sentiment. It's continuity.
 [pause 1.0]
@@ -234,11 +237,14 @@ N: It had not occurred to her, until she saw the emblem go up, that the truth co
 [img] {WESKER} driving a black sedan across a bridge at night, the glass tower with the lit red-and-white emblem reflected in the river behind him, cinematic
 N: That night, he drove home across the river, in a black sedan that had been a Common roll, past a tower with his emblem on it.
 N: It was the whole argument. The one they had been having for five months, in the car, in the dark, in the quiet of one skull. They had it one more time, all the way through, and neither of them won.
+N: The old voice stirred inside him.
 ADOLF: A people that believes. That is what you need. Not a company. Not shareholders. Believers. Men and women who would die for the emblem on that tower. You felt it in the break room. The System paid you for it. You know I am right.
 WESKER: A world that signs. That's what I need. Not believers. Believers are loud. Believers get photographed. Believers write manifestos and make the evening news. I want a world that signs every contract I put in front of it, and doesn't understand the clause until it's already mine.
+N: The second voice came back.
 ADOLF: Contracts can be broken.
 WESKER: So can people. Contracts are cheaper.
 [pause 1.0]
+N: The inner voice, almost to itself.
 ADOLF: (slow) Then we disagree.
 WESKER: We've disagreed since the bunker. It hasn't stopped us yet.
 [pause 1.5]

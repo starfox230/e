@@ -56,12 +56,15 @@ N: The Director spent the rest of the evening standing by a window in the State 
 N: The Adolf half of the mind had been silent since the car had turned into Whitehall. It was silent for a long time. When it spoke, its voice was strange.
 ADOLF: (soft) I tried to burn this city.
 WESKER: I know.
+N: The other one spoke, unasked.
 ADOLF: Night after night. Fifty-seven nights in a row, in the first autumn. I stood in front of maps with pins in them and I chose streets. I wanted them to break. I wanted them to beg.
 WESKER: They didn't.
+N: The voice behind his eyes had something to add.
 ADOLF: No. They did not.
 [pause 1.2]
 WESKER: And now their Prime Minister just shook your hand, and thanked you for the jobs, and a waiter gave you champagne.
 [pause 1.0]
+N: The old voice, slowly.
 ADOLF: (slow) Do you think that is funny?
 WESKER: I think it's the whole lesson. You came at them with bombers, and they fought you in the streets. I came with two billion pounds, and they held a reception.
 [pause 1.5]
@@ -125,8 +128,10 @@ BELOV: (slow) Find out what he is. Whatever it costs. And when you have found ou
 [img] {WESKER} in a private jet at night over the Atlantic, looking out at the dark ocean, one gloved hand resting on the window, reflective, a faint red glint in his eyes, cinematic
 N: On the flight home, over the Atlantic, the Director sat in the dark and thought about foreign eyes.
 N: He could feel them now. Not literally — the System had given him many things, but not that. But he could feel the shape of them, in the Memory Palace, in the way the pieces were arranging themselves on the table of his mind. A patient Englishman. A careful woman in Beijing. An angry colonel in Moscow. And, on his own side of the ocean, an FBI agent who had been reassigned to hazmat drills and had not stopped, and a journalist who had stopped writing and had not stopped listening, and a doctor with an unread report.
+N: The inner voice interrupted.
 ADOLF: They are gathering.
 WESKER: They're noticing. That isn't the same thing.
+N: The voice inside him answered.
 ADOLF: It is how it starts. I told you. Two people in a room. Then five. Then nations.
 [pause 1.0]
 WESKER: Then let's give the nations something else to think about.

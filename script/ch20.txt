@@ -22,8 +22,10 @@ N: And then, on the fourth day, a leak. An anonymous source inside the investiga
 N: By the end of the week, the story of the ghost video was not a story about a man who could move at the speed of sound. It was a story about corporate espionage, and a murdered scientist, and a chief executive who had defended his people with his bare hands.
 N: The Sunglasses CEO was a hero. Somebody made a T-shirt of frame one thousand one hundred and fourteen. It said: don't touch his lab.
 [pause 1.5]
+N: The second voice came back.
 ADOLF: They are cheering. For the killing.
 WESKER: They're cheering for the story. The killing was an inconvenience I've converted.
+N: The other voice, quietly.
 ADOLF: (slow) You are learning what I learned. They do not want the truth. They want to be told who the hero is.
 [pause 1.5]
 
@@ -111,10 +113,13 @@ N: He had spent three years making sure that everyone who saw too much was isola
 [amb] amb_office_hum
 [img] {WESKER} standing at the window of his corner office at night, looking down at the parking lot where a dashcam once caught him, a faint reflection of red eyes in the glass, cinematic
 N: He knew about the meeting within a day. The Silent Ones had followed Hannah Price for two years, on and off. They had not been able to hear what was said in the bar. They had not needed to.
+N: The voice behind his eyes had something to add.
 ADOLF: The policeman and the journalist.
 WESKER: Yes.
+N: The other voice weighed in.
 ADOLF: This is how it begins. Always. Two people in a room who have seen the same thing. Then four. Then a newspaper. Then a court. I have seen it. I have done it. I built a party out of men in a beer hall who had all seen the same thing.
 WESKER: They haven't seen anything. They've seen a smear on a dashcam and heard a deacon's ghost story.
+N: The other voice, cold.
 ADOLF: (cold) They have seen enough to know what to look for. That is all a hunter ever needs.
 [pause 1.5]
 N: For once, Wesker did not argue.

@@ -6,6 +6,7 @@
 [loc] June 2027
 N: The Shop, it turned out, had been waiting for him to own the first piece.
 N: The day after the ten-pull, a new line had appeared in the blueprint catalogue, greyed out and unpriced. Cellular Renewal Compound — fragment two of three. A week later it had a price. A week after that, fragment three appeared beside it. Twelve thousand Points each.
+N: Adolf spoke up.
 ADOLF: It is baiting you.
 WESKER: It's teaching me. There's a difference. It wants me to learn that the best things come in pieces, and that you pay for the last piece the most.
 [sfx] sfx_mouse_click
@@ -21,6 +22,7 @@ N: It was not the Prototype. It was not anything like the Prototype. The Wesker 
 N: There was no trick. The compound was a small, stable molecule that could be made in any competent chemical plant on Earth. It found cells in the human body that had stopped dividing but refused to die — the old, stubborn, inflamed cells that accumulate with age and poison everything around them — and it told them, gently, to finish dying. And then it told the cells around them to repair.
 N: In mice, according to the documentation, it extended healthy lifespan by forty percent. In the elderly, it would reverse most of the measurable signs of physical decline within a year.
 [pause 1.0]
+N: The second voice broke in.
 ADOLF: You are going to make old men young.
 WESKER: I'm going to make old men grateful. And very rich old men very, very grateful. Do you know who runs every country on this planet, Adolf? Men over sixty-five.
 [pause 1.5]
@@ -119,6 +121,7 @@ N: The other half was not watching the eleven seconds at all. It was watching th
 [pause 1.0]
 ADOLF: (soft) Fifteen million.
 WESKER: Twenty million views. Not eight million people. Some of them watched it twenty times.
+N: The old voice stirred inside him.
 ADOLF: I spoke to three hundred thousand people in a stadium in Nuremberg. It was the largest crowd of my life. It took a year of planning and a special train timetable.
 [pause 0.8]
 ADOLF: This morning you sat in a chair and said nothing, and sixteen million people came.

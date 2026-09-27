@@ -14,8 +14,10 @@ N: The first company he ate was the one that had tried to steal from him.
 N: Halvorsen Pike was the second-largest pharmaceutical company on Earth — a Swiss-American giant, headquartered in New Jersey and in Basel, with a hundred and eighty thousand employees, three hundred billion dollars of market value, and a hundred and forty years of history. It had made the first mass-produced penicillin in Europe. It had made the vaccines that ended polio in forty countries. It had made, in the nineteen-nineties, a heart drug that had kept one in every twenty Americans over sixty alive.
 N: And in the autumn of twenty twenty-nine, through three layers of consultants and a man named Simon Ferris, it had paid four men with rifles to break into a building in Wilmington, where Howard Lessing had been shot dead against a freezer.
 [pause 1.5]
+N: The voice inside him, without warmth.
 ADOLF: (cold) They killed one of ours.
 WESKER: They killed a man who was betraying us. For money. To them.
+N: The second voice broke in.
 ADOLF: He was ours. He died in our building. That is a debt.
 WESKER: For once, Adolf, we agree.
 [pause 1.5]
@@ -97,8 +99,10 @@ N: So Tomás arranged for the prosecutors' files in New Jersey — the ones abou
 N: The story ran on a Monday. Its headline did not accuse Ingrid Halvorsen of anything. It did not need to. It simply put her company's name in the same sentence as the words armed intruders and dead scientist, and let the pension funds do the rest.
 N: Halvorsen Pike's stock fell nine percent. Two of the three largest index funds announced that they would, quote, support board refreshment.
 [pause 1.5]
+N: The voice behind his eyes had something to add.
 ADOLF: That was cruel.
 WESKER: That was accurate. Everything in that article is true.
+N: From inside, the other voice.
 ADOLF: That is what made it cruel. You have learned my best trick, and dressed it in a suit.
 WESKER: (cold) Your best trick was lies. Mine is the truth, arranged. It lasts longer.
 [pause 2.0]

@@ -106,13 +106,17 @@ N: They thought it was a story. He let them.
 [amb] amb_office_hum
 [img] {WESKER} standing at a window of a dark aircraft cabin at night, the lights of Washington falling away below, reflective, cinematic
 N: On the flight back to Arklay, the Director sat in the dark and did not work.
+N: The inner voice interrupted.
 ADOLF: She capitulated.
 WESKER: She didn't. She surveyed the ground, found it indefensible, and told me so to my face. That isn't capitulation. That's the first competent thing any government has done about us in twenty years.
+N: The old voice, slowly.
 ADOLF: (slow) You liked her.
 WESKER: I respected her. It's rarer.
 [pause 1.5]
+N: The second voice came back.
 ADOLF: Do you remember what you said to me? In the car, in the rain, in the first week. You said: you lost because they saw you coming.
 WESKER: I remember.
+N: Adolf answered from inside.
 ADOLF: They see you coming. That woman sees you coming. The policeman saw you coming sixteen years ago, in four frames of a dashboard camera. The Chinese woman has seen you coming since she listened to your silences. They all see you coming.
 [pause 1.0]
 ADOLF: And they cannot do anything about it. Which means it was never about being seen at all.
@@ -122,6 +126,7 @@ N: It was, he realised, the first thing the old voice had ever taught him that h
 N: It had never been about being unseen. Hiding had only ever been a way of buying time. The thing that actually mattered — the thing he had been building for twenty years without ever quite saying it to himself — was to become necessary. And a necessary thing can stand in a cathedral square in broad daylight, in front of four hundred cameras, and brush the dust off its shoulder, and ask whether everyone is all right.
 [pause 1.5]
 WESKER: (soft) Huh.
+N: The inner voice, almost to itself.
 ADOLF: (soft) Yes.
 [pause 1.0]
 [sfx] sfx_system_chime

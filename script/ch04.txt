@@ -12,6 +12,7 @@ PELL: Mister Kuchar does not. But someone has read it for him. On Tuesday, a pro
 N: So Graham Tolliver had finally read page three.
 N: He had read the word non-exclusive. He had understood that he had paid one point two million dollars of his shareholders' money for a thing that Umbrella could sell again tomorrow to anyone it liked. And he had understood that if he said so to his board, he would have to explain why he had signed it.
 N: So he had said nothing. He had simply decided to take the building instead.
+N: Adolf's voice rose in his head.
 ADOLF: He is attacking the ground beneath your feet. It is what I would do.
 WESKER: It's what a child would do. He's too angry to be clever. That's useful.
 [pause 1.0]
@@ -59,12 +60,16 @@ Possible outcomes include personnel, abilities, facilities, and assets of every 
 [/system]
 N: It had been there since the Shop unlocked. A second tab, beside the catalogue, that he had been very carefully not opening.
 [pause 0.6]
+N: Adolf answered from inside.
 ADOLF: Open it.
 WESKER: It's a slot machine.
+N: Adolf spoke up.
 ADOLF: It is fate. You bought your life, and you bought a clerk. You have never once in this world let fate speak.
 WESKER: Fate is what losers call variance. You know what variance does to a man with three thousand Points? It turns him into a man with no Points.
+N: The second voice came back.
 ADOLF: I crossed a border in nineteen thirty-six with three battalions and orders to retreat if the French so much as fired. They did not fire. Everything after began with that roll of the dice.
 WESKER: And everything after ended in a bunker.
+N: The inner voice, almost to itself.
 ADOLF: (slow) But not at first.
 [pause 1.2]
 N: The rain drummed on the roof.
@@ -84,8 +89,10 @@ Arrival: tomorrow, 6:00 a.m.
 [/system]
 N: A janitor.
 N: He had gambled a thousand Points on the wheel of fate, and fate had given him a man with a mop.
+N: The old voice, slowly.
 ADOLF: (soft) Again.
 WESKER: Absolutely not.
+N: Adolf chimed in.
 ADOLF: Again.
 [pause 0.8]
 N: He drew again.
@@ -105,8 +112,10 @@ N: He did not understand what he had bought until he looked in the rear-view mir
 N: Contempt. Curiosity. And underneath, bright as a warning light, hunger.
 [pause 1.0]
 WESKER: (soft) That's enough.
+N: The voice behind his eyes had something to add.
 ADOLF: One more.
 WESKER: I said that's enough.
+N: The second voice broke in.
 ADOLF: You have thirteen hundred Points and a clerk and a janitor and a party trick. One more. And then I will not ask again tonight.
 [pause 1.5]
 N: Later — years later — when people asked Albert Wesker whether he believed in destiny, he would smile and say that he believed in statistics. It was a good line. It was also a lie, because he could remember the exact moment he had stopped believing only in statistics.
@@ -133,6 +142,7 @@ N: He knew what a Tyrant was. In his old world he had helped design them. Eight 
 N: And it was his. Asleep, in the dark, under a building on the wrong side of an industrial park in Delaware. His.
 [pause 1.0]
 N: The fear lasted half a second. What replaced it lasted a great deal longer.
+N: Adolf, softly, from inside.
 ADOLF: (soft) Fate.
 WESKER: (soft) Variance.
 N: But he was smiling. They both were.
@@ -206,8 +216,10 @@ N: It found that Dana Whitfield had started to trust him, and was ashamed of how
 N: And it found Howard Lessing.
 N: It found him in the corridor on Wednesday, coming out of lab two with a coffee, saying good morning without looking up. Guilt, the Cold-Read said, in the tiny tension of the muscles around his eyes. Guilt, and fear — and underneath them, like a coal under ash, hunger.
 N: Lessing's right hand was in his coat pocket. It was closed around his keys. And on his key ring, the Director noticed, there was a small blue drive that had not been there the week before.
+N: The other one spoke, unasked.
 ADOLF: He has taken something.
 WESKER: He's taken Control Seven.
+N: The other voice cut in.
 ADOLF: Then he is a thief. And a thief in a small kingdom is a traitor.
 WESKER: A thief is an opportunity. He just doesn't know it yet.
 [pause 1.5]

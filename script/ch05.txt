@@ -54,8 +54,10 @@ N: The Adolf half of the mind noticed that word, and liked it very much.
 [music] m_system -8
 [img] {WESKER} at a desk at night selecting a glowing holographic card showing a silhouette of a tall broad-shouldered man in a black suit, cinematic
 N: That night he bought the guard.
+N: The second voice broke in.
 ADOLF: Finally.
 WESKER: Not because you asked. Because we now own a building with a monster in the basement, and the only security is a sixty-four-year-old man with a flashlight and a paperback.
+N: The inner voice, almost to itself.
 ADOLF: (slow) Walter is a soldier.
 WESKER: Walter is a man. That's the problem. Men can be frightened. Men can be bribed. Men can be asked questions by the FBI and answer them.
 [sfx] sfx_mouse_click
@@ -181,6 +183,7 @@ Points: 2,000
 [/system]
 [img] {WESKER} standing at a dark window of an old brick building at night, looking down at a rainy street, hands behind his back, cinematic
 N: The Director watched her go from a window on the third floor.
+N: The other half of him answered.
 ADOLF: She will be a problem.
 WESKER: She'll be a weapon. Problems and weapons are the same thing, pointed in different directions.
 [pause 3.0]
