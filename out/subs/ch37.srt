@@ -1,712 +1,687 @@
 1
-00:00:07,799 --> 00:00:13,628
-The Basel bomb did what Julian Ashcombe had said it
-would do. It made Albert Wesker do
+00:00:07,799 --> 00:00:13,763
+The sixtieth anniversary of the morning a building
+finished existing on the south bank
 
 2
-00:00:13,648 --> 00:00:16,553
-something in public that he
-had not chosen.
+00:00:13,783 --> 00:00:19,330
+of the Christina River fell on a Saturday, and
+Raccoon City asked for a stadium.
 
 3
-00:00:17,123 --> 00:00:18,972
-It did not do what he had hoped.
+00:00:19,730 --> 00:00:25,479
+The narrator wants to be precise about who asked. It
+was not the Directorate. It was the
 
 4
-00:00:19,542 --> 00:00:25,388
-Seventeen billion people had watched a man stand up out
-of the smoke and ask whether everyone
+00:00:25,499 --> 00:00:31,182
+city council — nine elected members, six of them
+born in the valley, two of them former
 
 5
-00:00:25,408 --> 00:00:30,750
-was all right. Most of them had loved him for it.
-But in ten capitals, a much smaller
+00:00:31,202 --> 00:00:36,820
+Absolute personnel released in the third cohort —
+and they asked because a hundred and
 
 6
-00:00:30,770 --> 00:00:36,238
-number of people had watched the same four seconds
-and noticed something else entirely:
+00:00:36,840 --> 00:00:43,179
+four thousand people had signed a petition, and the
+petition had been started by a schoolteacher.
 
 7
-00:00:36,258 --> 00:00:41,600
-that a device of that size, at that distance,
-should have killed him, and that he had
+00:00:43,579 --> 00:00:50,168
+Wesker refused. He refused in March, in April, and
+in June, and the narrator notes that
 
 8
-00:00:41,620 --> 00:00:42,924
-brushed his shoulder.
+00:00:50,188 --> 00:00:56,853
+this was not modesty: he had refused a stadium in
+Lyon in 2035 and a procession in Basel
 
 9
-00:00:44,993 --> 00:00:51,083
-Joint Task Force Lantern was formed in November of
-twenty forty-two, eight months after
+00:00:56,873 --> 00:01:03,537
+in 2029 and every parade anybody had ever offered him
+for sixty years, on the consistent
 
 10
-00:00:51,103 --> 00:00:57,263
-Basel. Its founding members were the United States,
-the United Kingdom, France, Germany,
+00:01:03,557 --> 00:01:10,146
+and correct grounds that a crowd which is given a
+ceremony becomes a crowd that expects
 
 11
-00:00:57,283 --> 00:01:03,232
-Japan, and Canada. Its remit, in the classified
-annex that mattered, was to determine
+00:01:10,166 --> 00:01:10,450
+one.
 
 12
-00:01:03,252 --> 00:01:09,763
-the nature and capabilities of the individual known as
-Albert Wesker, and to develop options.
+00:01:10,849 --> 00:01:16,749
+In July the schoolteacher wrote to him. Her name was
+Ruth Ochoa, she was fifty-one, she
 
 13
-00:01:10,334 --> 00:01:16,466
-It had, from the first week, a serious problem. Nine
-of the fourteen intelligence services
+00:01:16,769 --> 00:01:21,920
+taught history at a school in the valley, and
+her letter was two paragraphs.
 
 14
-00:01:16,486 --> 00:01:22,482
-that contributed to it were in countries where
-Umbrella was among the largest employers,
+00:01:22,439 --> 00:01:26,994
+Director. I was born here in 2035, which means I was
+made, along with my mother and my
 
 15
-00:01:22,502 --> 00:01:28,703
-and all fourteen were in countries whose populations
-had been vaccinated by Umbrella twice.
+00:01:27,014 --> 00:01:31,728
+street and the school I now teach in. I found out
+when I was nineteen, from the Registry,
 
 16
-00:01:29,272 --> 00:01:35,128
-Its senior investigator was a fifty-four-year-old
-American civilian contractor named Owen
+00:01:31,748 --> 00:01:36,409
+in a letter, and it took me about ten years to stop
+being frightened of my own memories.
 
 17
-00:01:35,148 --> 00:01:40,805
-Carrick, who had been dismissed from the FBI fifteen
-years before for breaking into an
+00:01:36,689 --> 00:01:41,100
+I am asking you to stand in front of us for an hour
+because there are a hundred thousand
 
 18
-00:01:40,825 --> 00:01:46,483
-Umbrella facility, and whose personnel file the
-French had insisted on reading in full
+00:01:41,120 --> 00:01:45,531
+people in this valley who have never once been
+thanked for existing, and because you are
 
 19
-00:01:46,503 --> 00:01:52,160
-before agreeing to his appointment, and who had
-brought with him, into the most secure
+00:01:45,551 --> 00:01:48,200
+the only person alive who knows
+that we needed to be.
 
 20
-00:01:52,180 --> 00:01:57,178
-conference room in Brussels, a jam jar
-containing fifteen flattened bullets.
+00:01:48,599 --> 00:01:50,469
+He said yes in the same week.
 
 21
-00:01:57,748 --> 00:02:02,969
-He put it on the table at the first meeting, and
-did not explain it, and did not have
+00:01:50,870 --> 00:01:57,175
+Ninety-one thousand people. Another four hundred
+thousand in the streets outside on screens.
 
 22
-00:02:02,989 --> 00:02:03,155
-to.
+00:01:57,195 --> 00:02:03,018
+Nine hundred million watching live, which was not a
+record — the Eleven Days had been
 
 23
-00:02:05,224 --> 00:02:11,387
-Samira Haddad joined in the second month, on
-secondment from the World Health Organization,
+00:02:03,038 --> 00:02:09,343
+four billion — but which was the largest audience any
+human being had ever had for something
 
 24
-00:02:11,407 --> 00:02:16,549
-which believed she was writing a review of
-pandemic preparedness governance.
+00:02:09,363 --> 00:02:11,199
+that was not a catastrophe.
 
 25
-00:02:17,120 --> 00:02:23,429
-Ingrid Halvorsen, seventy-four, funded four of the
-task force's outside investigators
+00:02:11,599 --> 00:02:17,464
+There was no support programme. No music, no
+warm-up, no video. The stadium lights came
 
 26
-00:02:23,449 --> 00:02:29,683
-through a Norwegian foundation, and never attended
-a meeting, and read every report.
+00:02:17,484 --> 00:02:23,282
+up at eight o'clock and a man in a black coat walked
+out to a single microphone at the
 
 27
-00:02:30,253 --> 00:02:36,199
-And Julian Ashcombe, who had killed four people in a
-Swiss square and would not have another
+00:02:23,302 --> 00:02:29,234
+centre circle, alone, and the narrator would like you
+to understand that he had prepared
 
 28
-00:02:36,219 --> 00:02:42,165
-peaceful night as long as he lived, was not invited,
-and sent them everything he had anyway.
+00:02:29,254 --> 00:02:30,722
+this for eleven weeks.
 
 29
-00:02:44,735 --> 00:02:51,670
-Lantern spent two years doing what such organisations
-do. It mapped. It watched. It compiled.
+00:02:31,123 --> 00:02:36,897
+For sixty years there had been a voice in his skull
+that knew how to do this. It had told
 
 30
-00:02:52,241 --> 00:02:58,244
-It established that Umbrella Life Sciences had, by
-twenty forty-four: four hundred and
+00:02:36,917 --> 00:02:42,560
+him in a hotel in Basel in 2029 that the pause was
+everything. It had told him in a car
 
 31
-00:02:58,264 --> 00:03:04,337
-eighty thousand direct employees; a market value
-larger than the combined stock markets
+00:02:42,580 --> 00:02:48,093
+in 2034 to let a senator's question sit in the air.
+It had been silent since ten past
 
 32
-00:03:04,357 --> 00:03:10,431
-of Germany and Japan; the sole manufacturing
-capacity for eight medicines without which
+00:02:48,113 --> 00:02:53,692
+four in the morning on the fifth of December 2062,
+and it was not coming back, because
 
 33
-00:03:10,451 --> 00:03:16,665
-the health systems of forty countries would fail
-within a month; a private security force
+00:02:53,712 --> 00:02:58,313
+it was not a passenger any more and had not
+been for twenty-four years.
 
 34
-00:03:16,685 --> 00:03:22,898
-of nineteen thousand with its own naval and air
-assets; a sovereign-in-practice territory
+00:02:58,713 --> 00:03:03,563
+He had to do it himself, and he knew exactly
+how, and that is the horror of it.
 
 35
-00:03:22,918 --> 00:03:28,992
-in the Atlantic with a hundred and sixty thousand
-residents; controlling influence over
+00:03:04,633 --> 00:03:14,355
+Sixty years ago this morning, at two minutes to six, a
+building finished existing in Wilmington,
 
 36
-00:03:29,012 --> 00:03:35,015
-the regulatory regime of the world's pharmaceutical
-capital; classified contracts with
+00:03:14,375 --> 00:03:19,023
+Delaware, on a car park, with
+nobody watching.
 
 37
-00:03:35,035 --> 00:03:41,319
-the defence establishments of nine nations; and a
-joint research venture with the People's
+00:03:19,743 --> 00:03:26,890
+I woke up in it two minutes later. There were eleven
+people downstairs who thought they
 
 38
-00:03:41,339 --> 00:03:42,580
-Republic of China.
+00:03:26,910 --> 00:03:33,974
+had worked there for years. There was a laboratory
+that had never run an experiment, a
 
 39
-00:03:43,149 --> 00:03:48,960
-It established that there were, somewhere,
-laboratories that did not appear in any filing.
+00:03:33,994 --> 00:03:40,976
+freezer full of samples nobody had collected, and a
+door in the basement that did not
 
 40
-00:03:48,980 --> 00:03:50,840
-It could not establish where.
+00:03:40,996 --> 00:03:42,293
+go anywhere yet.
 
 41
-00:03:51,409 --> 00:03:57,547
-And it established, from four separate sources over
-two years, that Umbrella possessed
+00:03:42,574 --> 00:03:49,790
+I have never told anybody what that was. I am not
+going to tell you tonight either. I
 
 42
-00:03:57,567 --> 00:04:03,848
-at least one and possibly several biological assets
-of a kind that had no precedent, and
+00:03:49,810 --> 00:03:55,324
+am going to tell you what it *means*,
+because that part is yours.
 
 43
-00:04:03,868 --> 00:04:08,931
-which two of the sources described,
-independently, using the same word.
+00:03:55,604 --> 00:04:02,674
+Every one of you knows somebody who was made. In
+this valley it is one person in three.
 
 44
-00:04:09,502 --> 00:04:10,335
-Tyrant.
+00:04:02,694 --> 00:04:09,847
+You have grandparents in a cemetery on the hill who
+were born the same week as their own
 
 45
-00:04:12,905 --> 00:04:17,762
-The raid was authorised by three governments
-and executed by none of them.
+00:04:09,867 --> 00:04:16,938
+headstones. Some of you have found that out about
+yourselves, from a letter, and I know
 
 46
-00:04:18,331 --> 00:04:24,160
-It was, on paper, a warrant. A federal magistrate
-in Nevada, presented with two years
+00:04:16,958 --> 00:04:24,192
+precisely what that letter says because I wrote the
+first draft of it in 2081 and it took
 
 47
-00:04:24,180 --> 00:04:30,214
-of Lantern's work by a Justice Department that had
-been fighting internally about it for
+00:04:24,212 --> 00:04:25,577
+me four attempts.
 
 48
-00:04:30,234 --> 00:04:36,131
-sixteen months, signed a search warrant for the
-Ashford Pacific data centre at four in
+00:04:26,187 --> 00:04:32,179
+(very slow) I want to say the thing that the
+Registry cannot say, because it is a form
 
 49
-00:04:36,151 --> 00:04:39,709
-the morning on the third of June,
-twenty forty-four.
+00:04:32,199 --> 00:04:33,298
+and this is not.
 
 50
-00:04:40,278 --> 00:04:46,492
-It was served by two hundred and forty people: an
-FBI Hostage Rescue Team, a Department
+00:04:33,577 --> 00:04:40,516
+You are not less real than I am. You are more real
+than I am. Every one of you has spent
 
 51
-00:04:46,512 --> 00:04:53,083
-of Energy nuclear emergency support team, a CDC
-containment unit, and — under an arrangement
+00:04:40,536 --> 00:04:47,474
+your life doing the ordinary work of being a person —
+raising children, quarrelling with
 
 52
-00:04:53,103 --> 00:04:59,317
-that thirteen lawyers had spent four months
-constructing — sixty soldiers from a United
+00:04:47,494 --> 00:04:54,511
+your councils, teaching history in a school on Mill
+Street — and you have done it without
 
 53
-00:04:59,337 --> 00:05:03,043
-States Army unit that does not
-appear in the budget.
+00:04:54,531 --> 00:05:01,310
+ever once having been given a reason, which is more
+than can be said for me, because I
 
 54
-00:05:03,612 --> 00:05:09,518
-They came at dawn. They came with helicopters, and
-armoured vehicles, and drones, and
+00:05:01,330 --> 00:05:08,348
+have had a reason for sixty years and it was handed
+to me by something I have never seen.
 
 55
-00:05:09,538 --> 00:05:15,444
-they came, unlike twelve Russians fourteen years
-before, entirely in the open, with a
+00:05:08,627 --> 00:05:15,914
+I did not make you as an instrument. I made you
+because I could, and because it was faster,
 
 56
-00:05:15,464 --> 00:05:17,396
-warrant, on live television.
+00:05:15,934 --> 00:05:22,899
+and I did not think about what it would be like to
+be you. That was not cruelty. It was
 
 57
-00:05:17,966 --> 00:05:23,754
-That was Carrick's insistence, and it was the
-single smartest thing anyone in Lantern
+00:05:22,919 --> 00:05:29,804
+worse than cruelty; it was *inattention*, and I have
+had sixty years to notice it, and
 
 58
-00:05:23,774 --> 00:05:29,767
-ever did. He had told them: he can beat you in the
-dark. He has done it to me. He cannot
+00:05:29,824 --> 00:05:33,658
+it took a letter from a history
+teacher in July.
 
 59
-00:05:29,787 --> 00:05:31,543
-beat four hundred cameras.
+00:05:34,608 --> 00:05:40,513
+Ninety-one thousand people. The narrator has listened
+to the recording six times and there
 
 60
-00:05:32,113 --> 00:05:37,839
-Umbrella did not resist. The gates were opened for
-them. Hale was waiting in the lobby
+00:05:40,533 --> 00:05:42,817
+is no sound in that stadium at all.
 
 61
-00:05:37,859 --> 00:05:43,518
-with a hand on his chest, in a black uniform, and
-said good morning, and offered them
+00:05:43,338 --> 00:05:46,118
+So. Sixty years.
 
 62
-00:05:43,538 --> 00:05:43,985
-coffee.
+00:05:46,398 --> 00:05:54,122
+The company that should not exist employs four
+million people, supplies the medicine of
 
 63
-00:05:46,055 --> 00:05:52,021
-They went down four levels. They found servers, and
-cooling plants, and empty concrete
+00:05:54,142 --> 00:06:01,867
+eight billion, the power of half of them, and the
+water of four hundred million. Nobody
 
 64
-00:05:52,041 --> 00:05:57,939
-rooms. They found a fourth level with bolt holes in
-the floor in a rectangle six feet
+00:06:01,887 --> 00:06:09,433
+on this planet dies of anything ordinary any more.
+The last famine ended in 2058. The
 
 65
-00:05:57,959 --> 00:06:00,305
-by six, and a faint smell of cold.
+00:06:09,453 --> 00:06:16,288
+last pandemic ended in sixty-one days in 2033
+and there has not been another.
 
 66
-00:06:00,875 --> 00:06:02,750
-They found nothing else at all.
+00:06:16,567 --> 00:06:22,881
+I did all of that. I want to be entirely clear about
+it, because there is a fashion now
 
 67
-00:06:03,321 --> 00:06:09,546
-Umbrella had known about the warrant for nine days,
-because a deputy assistant attorney
+00:06:22,901 --> 00:06:29,214
+for saying that these things were inevitable, that
+the century was going that way, that
 
 68
-00:06:09,566 --> 00:06:15,648
-general had told a lobbyist, who had told a man on
-Umbrella's advisory board, who had
+00:06:29,234 --> 00:06:33,218
+if it had not been me it would have
+been somebody else.
 
 69
-00:06:15,668 --> 00:06:16,366
-told Pell.
+00:06:33,497 --> 00:06:39,998
+(very cold) It would not have been somebody else. I
+know exactly what the alternative
 
 70
-00:06:18,935 --> 00:06:25,114
-What happened at fourteen minutes past six has been
-the subject of four national inquiries
+00:06:40,018 --> 00:06:44,908
+looked like. I have read four hundred and
+eleven versions of it.
 
 71
-00:06:25,134 --> 00:06:31,382
-and one international one, and none of them has ever
-established, to anyone's satisfaction,
+00:06:45,627 --> 00:06:52,124
+And none of it was voted on. Not the medicine, not
+the energy, not the length of your
 
 72
-00:06:31,402 --> 00:06:32,484
-who fired first.
+00:06:52,144 --> 00:06:58,717
+lives. Fourteen governments tried to take it back
+from me nine years ago and they were
 
 73
-00:06:33,053 --> 00:06:39,547
-There were two hundred and forty federal personnel on
-the site. There were, at the perimeter,
+00:06:58,737 --> 00:07:05,387
+right to try and they failed, and the reason they
+failed is that I had built it so that
 
 74
-00:06:39,567 --> 00:06:45,711
-nineteen Umbrella Security Service officers who had
-been instructed by Hale, in writing,
+00:07:05,407 --> 00:07:06,997
+only I could hold it.
 
 75
-00:06:45,731 --> 00:06:49,143
-to render every assistance and to
-remain unarmed.
+00:07:07,278 --> 00:07:13,815
+I am not going to apologise for that tonight. I am
+going to tell you what I am doing about
 
 76
-00:06:49,713 --> 00:06:55,402
-And on the access road, arriving twelve minutes
-after the raid began, was a convoy of
+00:07:13,835 --> 00:07:17,968
+it, which is the only thing that has
+ever meant anything.
 
 77
-00:06:55,422 --> 00:07:01,111
-four Umbrella vehicles that no one at Lantern had
-known about, carrying an asset that
+00:07:18,367 --> 00:07:20,127
+And he gave them the third thing.
 
 78
-00:07:01,131 --> 00:07:07,291
-had been moved out of the desert complex six days
-before and was being brought back, because
+00:07:20,648 --> 00:07:27,955
+The release programme is at eleven per cent after
+six years. By 2110 there will not be
 
 79
-00:07:07,311 --> 00:07:11,389
-the Director had decided that the world
-was ready to see one.
+00:07:27,975 --> 00:07:35,880
+one human being on this planet who is incapable of
+refusing an instruction from me, including
 
 80
-00:07:13,459 --> 00:07:20,028
-The firing lasted nineteen seconds. Two federal agents
-were wounded, one seriously. Eleven
+00:07:35,900 --> 00:07:41,078
+the four in this stadium standing
+nearest to this microphone.
 
 81
-00:07:20,048 --> 00:07:26,326
-Umbrella officers were killed, all of them from the
-Shop, all of them standing exactly
+00:07:41,358 --> 00:07:49,178
+The Hangzhou tribunal has ruled against the
+Directorate nine times in six years. We have
 
 82
-00:07:26,346 --> 00:07:30,279
-where they had been told to stand,
-none of them armed.
+00:07:49,198 --> 00:07:56,128
+complied nine times. Two of those rulings cost
+us more than the Coalition did.
 
 83
-00:07:30,850 --> 00:07:33,558
-And then the door of the second
-vehicle opened.
+00:07:56,408 --> 00:08:02,689
+(very slow) And in sixteen years there will be
+somewhere else to go. Not a colony — a
 
 84
-00:07:37,629 --> 00:07:43,155
-The footage from the news helicopter is four minutes
-and eleven seconds long, and it is
+00:08:02,709 --> 00:08:09,286
+*frontier*, with room in it for anyone who has
+decided that a world where nothing changes
 
 85
-00:07:43,175 --> 00:07:46,917
-the most-watched video in the history
-of the human species.
+00:08:09,306 --> 00:08:14,698
+and nobody dies is not a world they want to
+spend three hundred years in.
 
 86
-00:07:47,487 --> 00:07:53,796
-It shows a nine-foot grey figure stepping down out of
-an armoured transport in the Mojave
+00:08:15,528 --> 00:08:22,010
+That is the whole of it. I am not going to ask you
+for anything, because I have never
 
 87
-00:07:53,816 --> 00:07:59,983
-Desert at dawn, in front of two hundred and forty
-federal officers, on live television,
+00:08:22,030 --> 00:08:27,978
+once had to, and because that is the most
+dangerous single fact about my life.
 
 88
-00:08:00,003 --> 00:08:00,694
-in colour.
+00:08:28,377 --> 00:08:34,682
+He stopped. He did not step back from the microphone.
+He stood in the middle of ninety-one
 
 89
-00:08:01,266 --> 00:08:06,621
-It does not attack. That is the thing that every
-commentator for the next twenty years
+00:08:34,702 --> 00:08:40,655
+thousand people with his hands at his sides and
+waited, exactly as he had been taught
 
 90
-00:08:06,641 --> 00:08:12,121
-would come back to. It steps down, and it stands, and
-it looks at them — two hundred and
+00:08:40,675 --> 00:08:46,627
+in a hotel room in Basel fifty-seven years earlier
+by a voice that no longer existed.
 
 91
-00:08:12,141 --> 00:08:15,497
-forty people with rifles — and it
-does nothing at all.
+00:08:47,798 --> 00:08:49,077
+And then they began.
 
 92
-00:08:18,065 --> 00:08:24,320
-And then a man in a black coat walks out of the dust
-behind it, past its right hand, toward
+00:08:49,477 --> 00:08:55,271
+It was not his name. That is the detail everybody
+gets wrong, in every account, because
 
 93
-00:08:24,340 --> 00:08:30,181
-the federal line, with his hands open and visible,
-and stops, and says — to a Hostage
+00:08:55,291 --> 00:08:58,077
+the footage is loud and the word is short.
 
 94
-00:08:30,201 --> 00:08:36,111
-Rescue Team commander who has aimed at a great many
-things in his career and has never
+00:08:58,477 --> 00:09:04,065
+Ninety-one thousand people in a valley in
+Pennsylvania stood up and chanted, over and
 
 95
-00:08:36,131 --> 00:08:38,249
-in his life been so frightened:
+00:09:04,085 --> 00:09:09,673
+over, for twenty-one minutes, the one word that the
+schoolteacher's petition had used
 
 96
-00:08:38,938 --> 00:08:43,179
-Lower your weapons. Nobody else needs to
-die in a car park today.
+00:09:09,693 --> 00:09:13,368
+and that the Registry's letter had
+not been able to say.
 
 97
-00:08:45,080 --> 00:08:51,339
-My name is Albert Wesker. This is a biological
-containment asset, developed under contract
+00:09:13,768 --> 00:09:15,318
+*Real. Real. Real.*
 
 98
-00:08:51,359 --> 00:08:57,688
-to the Department of Defense. I have the contract
-numbers. I have the clearance. And eleven
+00:09:16,378 --> 00:09:22,120
+Albert Wesker stood in the centre circle and let it
+go on, and did not raise a hand to
 
 99
-00:08:57,708 --> 00:09:00,828
-of my unarmed officers are dead
-on that road.
+00:09:22,140 --> 00:09:28,016
+stop it, and did not speak over it, and at about the
+fourth minute the cameras got close
 
 100
-00:09:02,227 --> 00:09:04,337
-Now. Shall we continue the inspection?
+00:09:28,036 --> 00:09:29,557
+enough to see his face.
 
 101
-00:09:07,857 --> 00:09:09,897
-The world did not sleep for a week.
+00:09:29,957 --> 00:09:35,639
+There is no expression on it. There has been no
+expression on it in sixty years. But at
 
 102
-00:09:10,466 --> 00:09:16,513
-The thing in the Mojave had a name within nine
-hours, because Umbrella gave it one. Not
+00:09:35,659 --> 00:09:41,341
+four minutes and eleven seconds he takes off the
+black glasses — in front of ninety-one
 
 103
-00:09:16,533 --> 00:09:22,580
-Tyrant. Umbrella's statement — released at nine that
-morning, before any government had
+00:09:41,361 --> 00:09:47,436
+thousand people and nine hundred million more, for the
+first time in public since a boardroom
 
 104
-00:09:22,600 --> 00:09:28,925
-said anything at all — described it as a Class Four
-Biological Containment Asset, developed
+00:09:47,456 --> 00:09:53,072
+in Trenton in 2027 — and he looks up at the stands,
+and his eyes are exactly what they
 
 105
-00:09:28,945 --> 00:09:35,201
-under classified contract for the United States
-Department of Defense, designed to operate
+00:09:53,092 --> 00:09:55,496
+have always been, and nobody screams.
 
 106
-00:09:35,221 --> 00:09:38,199
-in environments lethal to
-human responders.
+00:09:55,897 --> 00:09:58,947
+They chanted louder. That is on
+the recording too.
 
 107
-00:09:38,770 --> 00:09:44,726
-The Pentagon confirmed the contract that afternoon,
-because the contract was real, and
+00:09:59,346 --> 00:10:04,831
+Ruth Ochoa went back to work on the Monday and found
+four hundred and eleven letters in
 
 108
-00:09:44,746 --> 00:09:50,770
-because Martin Sloane, now sixty-eight and three
-years from retirement, had spent seven
+00:10:04,851 --> 00:10:10,335
+her school's post, and a camera crew outside, and a
+class of seven-year-olds who wanted
 
 109
-00:09:50,790 --> 00:09:54,174
-hours on the telephone making
-sure that it would.
+00:10:10,355 --> 00:10:12,297
+to know whether she was famous.
 
 110
-00:09:54,745 --> 00:10:00,216
-What followed was not a scandal about Umbrella. It
-was a scandal about the government.
+00:10:12,697 --> 00:10:18,023
+She gave one interview and then refused every other
+request for the rest of her life,
 
 111
-00:10:00,785 --> 00:10:07,195
-For six weeks, the story was that the Department of
-Defense had secretly funded the development
+00:10:18,043 --> 00:10:18,966
+which was long.
 
 112
-00:10:07,215 --> 00:10:13,083
-of engineered biological soldiers, had lied to
-Congress about it, and had then sent two
+00:10:19,486 --> 00:10:24,158
+I taught the history of this valley for twenty-six
+years. I taught it from the Directorate's
 
 113
-00:10:13,103 --> 00:10:18,971
-hundred and forty federal officers to raid the
-facility of the contractor it had itself
+00:10:24,178 --> 00:10:28,544
+own curriculum, which is honest — I want to say
+that, because people assume it is not.
 
 114
-00:10:18,991 --> 00:10:24,860
-commissioned, killing eleven unarmed men. Two
-committee chairs demanded the Secretary's
+00:10:28,564 --> 00:10:33,083
+It says the city was placed. It gives the date. It
+uses the word *made* about the people.
 
 115
-00:10:24,880 --> 00:10:30,815
-resignation. The Justice Department opened an
-investigation into the leak that had given
+00:10:33,361 --> 00:10:37,561
+And every year, for twenty-six years, there is a
+child in that class who works out in
 
 116
-00:10:30,835 --> 00:10:36,636
-Umbrella nine days' warning, and found the lobbyist,
-and the deputy assistant attorney
+00:10:37,581 --> 00:10:41,780
+the middle of the lesson that it means their
+grandmother, and puts their hand up, and
 
 117
-00:10:36,656 --> 00:10:41,170
-general, and the story became, for another
-three weeks, about that.
+00:10:41,800 --> 00:10:43,666
+asks me if their grandmother was real.
 
 118
-00:10:41,740 --> 00:10:47,787
-Joint Task Force Lantern was not disbanded. It was
-worse than disbanded. Two of its six
+00:10:44,388 --> 00:10:48,363
+(very slow) I have answered that question about
+three hundred times. The answer I give
 
 119
-00:10:47,807 --> 00:10:53,714
-member states withdrew. The remaining four were
-instructed, by their own governments,
+00:10:48,383 --> 00:10:52,359
+is *yes*, and it is true, and it is not enough, and
+every single one of those children
 
 120
-00:10:53,734 --> 00:10:57,618
-to restrict their work to legal and
-regulatory measures.
+00:10:52,379 --> 00:10:54,356
+knows it is not enough, and
+they are seven.
 
 121
-00:11:00,188 --> 00:11:05,950
-Owen Carrick sat alone in the conference room in
-Brussels after the meeting at which he
+00:10:54,635 --> 00:10:59,189
+That is why I wrote to him. Not for the stadium. For
+the answer. I have been giving the
 
 122
-00:11:05,970 --> 00:11:09,405
-was told, and looked at the jam jar
-for a long time.
+00:10:59,209 --> 00:11:03,867
+best answer I can for twenty-six years and I wanted
+the man who made the question to come
 
 123
-00:11:09,975 --> 00:11:15,652
-He had been right for fourteen years. He had finally
-got four hundred cameras onto it,
+00:11:03,887 --> 00:11:07,494
+and stand in front of a hundred thousand
+people and give one himself.
 
 124
-00:11:15,672 --> 00:11:20,752
-and the whole world had seen the thing with its
-own eyes, in colour, at dawn.
+00:11:07,895 --> 00:11:11,196
+Asked whether he had, she thought
+about it for some time.
 
 125
-00:11:21,322 --> 00:11:26,940
-And the world had watched a nine-foot grey giant
-step down out of a truck in front of
+00:11:11,716 --> 00:11:16,013
+(very slow) He said we were more real than he was.
+It is a good line. I have used it in
 
 126
-00:11:26,960 --> 00:11:32,579
-two hundred and forty armed men and stand there
-doing nothing while an unarmed man in
+00:11:16,033 --> 00:11:18,245
+class and it works, and the
+children like it.
 
 127
-00:11:32,599 --> 00:11:38,351
-a coat asked them to lower their weapons — and had
-concluded, by a margin of about four
+00:11:18,525 --> 00:11:22,976
+But I have thought about it for a month now, and I
+notice that he answered the question
 
 128
-00:11:38,371 --> 00:11:43,990
-to one in every poll taken in every country that
-summer, that the dangerous people in
+00:11:22,996 --> 00:11:27,600
+about *us* and not the question about *him*, and that
+nobody in ninety-one thousand people
 
 129
-00:11:44,010 --> 00:11:46,710
-that video were the ones with the rifles.
+00:11:27,620 --> 00:11:30,016
+noticed either, including me,
+until I got home.
 
 130
-00:11:50,029 --> 00:11:52,846
-Assessment. Coalition fractured.
+00:11:30,416 --> 00:11:35,934
+He stayed after they had gone. The stadium staff
+found him at nearly two in the morning,
 
 131
-00:12:00,875 --> 00:12:06,478
-The eleven dead officers were brought to Arklay and
-buried at sea with full honours, in
+00:11:35,954 --> 00:11:40,026
+sitting in the fourth row of the north
+stand, and left him alone.
 
 132
-00:12:06,498 --> 00:12:08,482
-front of forty thousand people.
+00:11:41,176 --> 00:11:48,954
+Devotion. Nine hundred million. Sentiment: not
+measurable on this scale. Presence: ninety
 
 133
-00:12:09,052 --> 00:12:14,555
-The Director spoke for two minutes. It was the
-shortest and best speech of his life, and
+00:11:48,974 --> 00:11:56,401
+to one hundred and forty-one. Ninety billion
+Points. Note: in four hundred and eleven
 
 134
-00:12:14,575 --> 00:12:20,015
-Tomás Reyes, watching from the production booth,
-understood while it was happening that
+00:11:56,421 --> 00:12:04,200
+worlds I have recorded this moment ninety-four times.
+In ninety-one of them the host said
 
 135
-00:12:20,035 --> 00:12:22,589
-it would be studied for a thousand years.
+00:12:04,220 --> 00:12:05,865
+his own name first.
 
 136
-00:12:23,158 --> 00:12:28,923
-He did not mention the government. He did not mention
-the raid. He named the eleven men,
+00:12:07,004 --> 00:12:09,375
+(very soft) And the other three?
 
 137
-00:12:28,943 --> 00:12:34,509
-one at a time, and said what each of them had done
-at their posts that morning, which
+00:12:10,215 --> 00:12:12,497
+(flat) Two are still running.
 
 138
-00:12:34,529 --> 00:12:38,125
-was: exactly what they had been
-told, and nothing else.
+00:12:12,897 --> 00:12:16,527
+You have given me that answer
+for sixty years.
 
 139
-00:12:38,695 --> 00:12:41,803
-Then he said the only sentence
-anyone remembers:
+00:12:16,927 --> 00:12:23,237
+(flat) It has been true for sixty years. It
+will stop being true in fourteen.
 
 140
-00:12:43,993 --> 00:12:49,344
-They stood in the open, unarmed, because I asked
-them to. I will not ask it again.
+00:12:23,635 --> 00:12:29,719
+The narrator notes that Albert Wesker sat in an empty
+stadium at two o'clock in the morning
 
 141
-00:12:52,864 --> 00:12:58,944
-Nineteen governments issued statements of condolence.
-Four hundred thousand people applied
+00:12:29,739 --> 00:12:35,486
+and asked four more questions and received no answer
+to any of them, and that fourteen
 
 142
-00:12:58,964 --> 00:13:03,079
-to join the Umbrella Security Service
-in the following month.
-
-143
-00:13:03,649 --> 00:13:09,609
-And in a room on the fourth floor of an imaginary
-brick building, behind a door with no
-
-144
-00:13:09,629 --> 00:13:15,588
-name, the old voice said nothing at all — because
-for the first time in eighteen years,
-
-145
-00:13:15,608 --> 00:13:19,230
-it did not need to explain anything
-to the other one.
-
-146
-00:13:19,801 --> 00:13:24,710
-They had both understood the same sentence at
-the same moment, in the same way.
-
-147
-00:13:25,279 --> 00:13:26,953
-I will not ask it again.
+00:12:35,506 --> 00:12:39,846
+years later, to the week, he found out
+what that panel had meant.

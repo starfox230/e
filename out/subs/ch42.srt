@@ -1,720 +1,642 @@
 1
-00:00:09,000 --> 00:00:12,606
-Nobody tells you what it is like the
-day after you win.
+00:00:09,000 --> 00:00:13,982
+They were not looking for us. That is the first
+thing, and the whole of the next fifty
 
 2
-00:00:13,176 --> 00:00:19,019
-The stories all stop at the balcony. The crowd
-chants, the banner goes up, the panel says
+00:00:14,002 --> 00:00:15,030
+years turns on it.
 
 3
-00:00:19,039 --> 00:00:24,618
-integration complete, and the curtain comes down —
-because the interesting part, in a
+00:00:15,429 --> 00:00:21,212
+The Tollhouse Compact is a trading association of
+nineteen species, about four thousand
 
 4
-00:00:24,638 --> 00:00:30,414
-story, is the getting. Nobody writes the part where
-the man who has taken the world sits
+00:00:21,232 --> 00:00:26,881
+years old, that operates on a principle so simple
+it took human diplomats a decade to
 
 5
-00:00:30,434 --> 00:00:34,960
-down on a Tuesday morning in front of nine
-hundred pages about water.
+00:00:26,901 --> 00:00:32,750
+believe it: *a market is cheaper than a war, always,
+at every scale, without exception.*
 
 6
-00:00:35,529 --> 00:00:41,385
-That is what the first years of the Umbrella
-Directorate actually were. Water. Grain.
+00:00:32,770 --> 00:00:38,819
+It has no military. It has never held territory. It
+has been extinguished twice and rebuilt
 
 7
-00:00:41,405 --> 00:00:47,330
-Antibiotics. Power grids in four hundred cities that
-had been deferred for forty years
+00:00:38,839 --> 00:00:41,420
+both times by the people who missed it.
 
 8
-00:00:47,350 --> 00:00:51,893
-by governments that would not be in office
-when the bill came due.
+00:00:41,820 --> 00:00:48,648
+In August of 2103 a Compact survey vessel, on a route
+it had flown for nine hundred years,
 
 9
-00:00:53,963 --> 00:00:59,773
-He was good at it. That is the part the narrator has
-to say plainly, because it is the
+00:00:48,668 --> 00:00:55,344
+detected something that had not been there on the
+previous pass: four hundred and eleven
 
 10
-00:00:59,793 --> 00:01:02,078
-reason none of it was ever undone.
+00:00:55,364 --> 00:01:01,965
+artificial objects in a system that had been
+catalogued as *pre-contact, industrial, no
 
 11
-00:01:02,649 --> 00:01:08,424
-In the first decade of the Directorate, global
-childhood mortality fell by seventy-one
+00:01:01,985 --> 00:01:02,650
+traffic.*
 
 12
-00:01:08,444 --> 00:01:14,354
-percent. Four hundred million people were connected
-to a reliable electricity supply for
+00:01:03,049 --> 00:01:09,245
+The Compact's rules for that situation are four
+thousand years old and take up eleven
 
 13
-00:01:14,374 --> 00:01:20,216
-the first time. The Sahel water programme, which
-nineteen international bodies had been
+00:01:09,265 --> 00:01:15,460
+words. *Approach slowly, transmit continuously,
+offer first, and never arrive armed.*
 
 14
-00:01:20,236 --> 00:01:26,011
-unable to fund for thirty years, was built in six,
-because one entity decided to build
+00:01:15,859 --> 00:01:21,818
+The broker's name has nine syllables and the human
+record renders it as Ashet. It came
 
 15
-00:01:26,031 --> 00:01:29,380
-it and no committee was permitted
-to slow it down.
+00:01:21,838 --> 00:01:27,865
+aboard Dock One alone, unarmed, in a translucent
+envelope of its own atmosphere, and it
 
 16
-00:01:29,950 --> 00:01:35,958
-He did not do it out of compassion. He had said so
-from a balcony, in front of six billion
+00:01:27,885 --> 00:01:33,982
+brought — because the Compact's protocol requires a
+gift and because four thousand years
 
 17
-00:01:35,978 --> 00:01:41,717
-people, and nobody had listened. He did it because a
-badly-run world offended him, and
+00:01:34,002 --> 00:01:40,238
+of practice have made them extremely good at choosing
+one — a functioning cure for a human
 
 18
-00:01:41,737 --> 00:01:47,543
-because a population that is fed, watered, and
-healthy produces more, resists less, and
+00:01:40,258 --> 00:01:40,795
+disease.
 
 19
-00:01:47,563 --> 00:01:53,503
-— the System was very clear on this point, in panels
-he read every morning — pays better.
+00:01:41,194 --> 00:01:47,569
+Not a cure the Compact had developed. A cure it had
+synthesised in eleven days from broadcast
 
 20
-00:01:56,823 --> 00:01:58,567
-Assessment. Quarterly.
+00:01:47,589 --> 00:01:53,619
+medical literature it had intercepted on the
+approach, for a rare neurological condition
 
 21
-00:02:04,549 --> 00:02:06,194
-Nought point four percent.
+00:01:53,639 --> 00:01:59,601
+that Umbrella's own people had failed to crack for
+forty years, and that affected about
 
 22
-00:02:06,763 --> 00:02:12,772
-Thirty-five million people, spread across a planet
-of nearly nine billion, who did not
+00:01:59,621 --> 00:02:01,045
+nine thousand people.
 
 23
-00:02:12,792 --> 00:02:18,730
-agree. The System counted them every quarter, in a
-line of small text, and never once
+00:02:01,444 --> 00:02:06,511
+The narrator notes that this was a deliberate
+choice: not a cure for something large,
 
 24
-00:02:18,750 --> 00:02:20,972
-suggested what to do about them.
+00:02:06,531 --> 00:02:11,598
+which would have looked like a demonstration of
+power, but for something small, which
 
 25
-00:02:23,543 --> 00:02:30,091
-Doctor Nadia Okafor was sixty-four years old and had
-been writing the same book for nineteen
+00:02:11,618 --> 00:02:13,034
+looked like *attention*.
 
 26
-00:02:30,111 --> 00:02:30,520
-years.
+00:02:13,555 --> 00:02:15,704
+You are the authority here.
 
 27
-00:02:31,090 --> 00:02:36,541
-She had left Umbrella in twenty twenty-nine, walked
-out into the rain without opening
+00:02:16,104 --> 00:02:22,539
+I am an authority here. There are four hundred and
+eleven others and you will meet nine
 
 28
-00:02:36,561 --> 00:02:42,012
-an umbrella, and filed a complaint that had started
-everything — the CDC, the Bureau,
+00:02:22,559 --> 00:02:23,874
+of them this week.
 
 29
-00:02:42,032 --> 00:02:47,741
-Carrick, all of it. She had been right about every
-single thing in it. She had also been,
+00:02:24,275 --> 00:02:27,025
+That is not what your own people say.
 
 30
-00:02:47,761 --> 00:02:53,534
-from the moment the Court of Chancery wrote footnote
-fourteen, a woman that serious people
+00:02:27,425 --> 00:02:34,694
+No. It is what our constitutional instruments say,
+and I have spent twenty years making
 
 31
-00:02:53,554 --> 00:02:56,173
-were careful not to be photographed with.
+00:02:34,714 --> 00:02:40,474
+the two converge, and you have arrived in
+the middle of the argument.
 
 32
-00:02:56,745 --> 00:03:02,770
-She had gone home to Lagos in twenty thirty-four. She
-had taught virology at a university
+00:02:40,875 --> 00:02:48,398
+Ashet's report to the Compact, which was published in
+the human record in 2119, contains
 
 33
-00:03:02,790 --> 00:03:08,747
-for fifteen years, and been an excellent teacher, and
-been quietly passed over for every
+00:02:48,418 --> 00:02:54,484
+a line that four generations of human
+historians have found unbearable.
 
 34
-00:03:08,767 --> 00:03:14,520
-chair she applied for, because the university's new
-science faculty had been built by
+00:02:55,004 --> 00:03:00,275
+*The subject's species appears to be governed by a
+single individual who is actively attempting
 
 35
-00:03:14,540 --> 00:03:18,528
-the Umbrella Foundation and nobody had
-to be told anything.
+00:03:00,295 --> 00:03:05,286
+to reduce his own authority and has been doing so,
+unsuccessfully, for approximately forty
 
 36
-00:03:19,098 --> 00:03:24,703
-The book was called The Thing In The Basement. It
-was four hundred pages long. It was
+00:03:05,306 --> 00:03:10,020
+years. I have not encountered this configuration
+before. I recommend extreme caution:
 
 37
-00:03:24,723 --> 00:03:30,527
-meticulous, and sourced, and unhysterical, and it
-named dates and shipping manifests and
+00:03:10,040 --> 00:03:14,474
+a power that is trying to give itself away is the
+most difficult kind to price.*
 
 38
-00:03:30,547 --> 00:03:35,557
-a black binder on a bench on the ninth floor in
-February twenty twenty-nine.
+00:03:14,875 --> 00:03:20,696
+The negotiation lasted four months and the narrator
+will give you the shape of it, because
 
 39
-00:03:36,127 --> 00:03:41,937
-Nine publishers read it. Four of them said it was the
-most important manuscript they had
+00:03:20,716 --> 00:03:26,407
+it is the last time in this account that Albert
+Wesker is the second most powerful thing
 
 40
-00:03:41,957 --> 00:03:47,635
-ever been sent. None of them published it. Two said
-so honestly, over a drink, off the
+00:03:26,427 --> 00:03:28,224
+in the room and he knows it.
 
 41
-00:03:47,655 --> 00:03:53,332
-record, in words that amounted to the same thing: we
-would not survive it, and neither
+00:03:28,625 --> 00:03:34,764
+The Compact wanted three things: a trade station in
+the system, most-favoured terms on
 
 42
-00:03:53,352 --> 00:03:53,994
-would you.
+00:03:34,784 --> 00:03:40,923
+human biological science — which was, they said
+without embarrassment, the finest they
 
 43
-00:03:56,064 --> 00:04:02,205
-She published it herself, in twenty fifty-one, as a
-file, for nothing, from a server in
+00:03:40,943 --> 00:03:47,155
+had encountered in nine hundred years — and an
+undertaking that humanity would not arm.
 
 44
-00:04:02,225 --> 00:04:04,472
-a country that no longer exists.
+00:03:47,555 --> 00:03:53,612
+That last one was not a threat. It was a *sales
+pitch*. The Compact's entire proposition,
 
 45
-00:04:05,042 --> 00:04:11,164
-It was downloaded four million times in the first
-month. It was never taken down — the
+00:03:53,632 --> 00:04:00,167
+four thousand years refined, is that a species which does
+not arm gets the Compact's protection,
 
 46
-00:04:11,184 --> 00:04:17,449
-Directorate did not take things down; Tomás's
-successors had understood for a generation
+00:04:00,187 --> 00:04:06,176
+and the protection has held nineteen times in four
+thousand years, and the two occasions
 
 47
-00:04:17,469 --> 00:04:23,520
-that suppression is what makes a document holy. It
-was simply surrounded, within nine
+00:04:06,197 --> 00:04:09,044
+it failed are in every Compact schoolroom.
 
 48
-00:04:23,540 --> 00:04:29,734
-days, by four hundred thoughtful articles explaining
-its context, and by a documentary,
+00:04:09,564 --> 00:04:14,459
+You have four kilometre hulls. You have a drive that
+we did not sell you and that your
 
 49
-00:04:29,754 --> 00:04:36,019
-and by the recollections of eleven of her former
-colleagues, all of whom spoke about her
+00:04:14,479 --> 00:04:19,546
+physics did not produce. You have an organism in cold
+storage at your ninth facility that
 
 50
-00:04:36,039 --> 00:04:38,947
-with enormous warmth and visible sadness.
+00:04:19,566 --> 00:04:21,375
+I will not discuss in this room.
 
 51
-00:04:39,516 --> 00:04:46,058
-By twenty fifty-four, if you searched her name, the
-fourth result was a serious, sympathetic,
+00:04:21,654 --> 00:04:26,895
+We are not asking you to disarm. We are asking you to
+stop, at the point you have reached,
 
 52
-00:04:46,078 --> 00:04:52,056
-scrupulously sourced account of a brilliant
-scientist whose career had been destroyed
+00:04:26,915 --> 00:04:31,863
+in exchange for four thousand years of accumulated
+reasons why every species that did
 
 53
-00:04:52,076 --> 00:04:53,185
-by an obsession.
+00:04:31,883 --> 00:04:34,084
+not stop is a ruin that we trade over.
 
 54
-00:04:53,754 --> 00:04:59,845
-She lived to ninety-one. She is in every history of
-the period. She is always in the same
+00:04:34,925 --> 00:04:37,595
+(very cold) And if we decline?
 
 55
-00:04:59,865 --> 00:05:04,034
-paragraph, and the paragraph always
-contains the word tragic.
+00:04:37,995 --> 00:04:42,650
+Then nothing whatsoever happens, Director. That is
+the part your people keep failing to
 
 56
-00:05:06,603 --> 00:05:08,843
-He caught himself waiting for an answer.
+00:04:42,670 --> 00:04:47,433
+hear. We do not punish. We simply do not shelter, and
+in about ninety years the Veth will
 
 57
-00:05:09,413 --> 00:05:15,087
-There was none to have. He had asked the question out
-of habit — what do we do about the
+00:04:47,453 --> 00:04:51,625
+arrive, and you will discover what that means
+without us standing between you.
 
 58
-00:05:15,107 --> 00:05:20,718
-woman in Lagos — and had noticed, four seconds
-later, that there had been nobody to ask
+00:04:52,024 --> 00:04:53,725
+He accepted two of the three.
 
 59
-00:05:20,737 --> 00:05:21,624
-for two years.
+00:04:54,125 --> 00:05:00,296
+The trade station was placed at the fourth Lagrange
+point in 2104 and is still there.
 
 60
-00:05:22,194 --> 00:05:26,378
-He did nothing about the woman in Lagos.
-He had never needed to.
+00:05:00,316 --> 00:05:07,216
+The science agreement made Umbrella, within a decade,
+the largest single exporter of biological
 
 61
-00:05:29,447 --> 00:05:35,561
-Tomás Reyes stopped taking the therapy in the spring of
-twenty fifty-eight, and told nobody,
+00:05:07,236 --> 00:05:13,917
+knowledge in nine hundred light years, and the narrator
+notes that it also gave five species
 
 62
-00:05:35,581 --> 00:05:38,495
-and it was four years before
-anyone noticed.
+00:05:13,937 --> 00:05:19,235
+access to Aeterna and that the Compact's own
+actuaries had to be rebuilt.
 
 63
-00:05:39,064 --> 00:05:45,017
-He was sixty. He had been chief narrative officer
-for twenty-six years, and then, from
+00:05:19,634 --> 00:05:21,064
+He declined the third.
 
 64
-00:05:45,037 --> 00:05:51,060
-twenty forty-nine, Director of Public Understanding
-for the Umbrella Directorate, which
+00:05:21,584 --> 00:05:28,730
+I am not going to promise that my species will not arm,
+because I am not entitled to promise
 
 65
-00:05:51,080 --> 00:05:54,533
-was the same job with a title that
-made him tired.
+00:05:28,750 --> 00:05:36,052
+it. There are seven billion human beings, four hundred
+thousand of them in the Free Territory,
 
 66
-00:05:55,103 --> 00:06:00,856
-He had shaped what nine billion people believed for a
-generation. Everything he had ever
+00:05:36,072 --> 00:05:42,906
+and about nine hundred of them build ships in orbit,
+and I have spent forty years making
 
 67
-00:06:00,876 --> 00:06:06,563
-put out had been true — that had been his rule since
-twenty thirty, and he had kept it,
+00:05:42,926 --> 00:05:45,555
+it possible for them to refuse me.
 
 68
-00:06:06,583 --> 00:06:12,468
-and it had cost him more than lying would have. He had
-simply chosen, four thousand times,
+00:05:45,834 --> 00:05:52,645
+You are asking me to use an authority that I have
+been trying to dismantle, in order to
 
 69
-00:06:12,488 --> 00:06:16,010
-which true things nine billion
-people would see first.
+00:05:52,665 --> 00:05:59,004
+guarantee something for four hundred years, on
+behalf of people who are not born.
 
 70
-00:06:18,081 --> 00:06:23,935
-He still played the break-room clip. He had played it,
-by his own count, forty-one thousand
+00:05:59,615 --> 00:06:06,633
+(very cold) You have been talking to me for four
+months. Tell me honestly: is that a refusal,
 
 71
-00:06:23,955 --> 00:06:24,323
-times.
+00:06:06,653 --> 00:06:11,704
+or is it the only trustworthy answer you
+have had from this system?
 
 72
-00:06:24,892 --> 00:06:30,605
-In twenty sixty-two, when he was sixty-four and
-visibly ageing among colleagues who were
+00:06:12,105 --> 00:06:19,692
+Ashet's reply was eleven words and it is carved, in
+Compact script and in nine human languages,
 
 73
-00:06:30,625 --> 00:06:34,122
-not, the Director came to the house
-on the Brandywine.
+00:06:19,712 --> 00:06:22,335
+on the wall of the station at L4.
 
 74
-00:06:36,312 --> 00:06:37,166
-You've stopped.
+00:06:22,855 --> 00:06:26,325
+It is the first answer I have not
+had to discount.
 
 75
-00:06:37,687 --> 00:06:38,648
-Four years ago.
+00:06:26,725 --> 00:06:32,732
+The narrator will spend a page on what the Compact
+actually did to humanity, because every
 
 76
-00:06:39,168 --> 00:06:39,745
-Why?
+00:06:32,752 --> 00:06:38,559
+account concentrates on the Veth and the Choir and
+the wars, and the thing that changed
 
 77
-00:06:42,264 --> 00:06:47,165
-Because I'm the only one left who was in the room, Doc.
-Dana's gone. Walter's gone. Evelyn's
+00:06:38,579 --> 00:06:40,435
+people's lives was a market.
 
 78
-00:06:47,185 --> 00:06:51,819
-— Evelyn's whatever Evelyn is now. Catherine's in
-Ireland refusing to answer her phone.
+00:06:40,834 --> 00:06:48,139
+The station opened in 2104 with nineteen species
+trading on it. By 2107 there were four
 
 79
-00:06:51,839 --> 00:06:56,365
-And I look around a table and every single person
-on it has been made by us, and none
+00:06:48,159 --> 00:06:55,463
+hundred human businesses on it, of which three
+hundred and eleven were not Umbrella and
 
 80
-00:06:56,385 --> 00:06:59,735
-of them has ever been in a room where we
-couldn't make payroll.
+00:06:55,483 --> 00:06:59,336
+eleven were one person with a
+cargo allowance.
 
 81
-00:07:01,134 --> 00:07:06,703
-I've spent thirty-six years explaining you to the
-human race. I'd quite like to stop before
+00:06:59,735 --> 00:07:05,832
+What humanity sold: biological science, which the
+Compact considered the best in nine
 
 82
-00:07:06,723 --> 00:07:10,756
-I stop being able to tell whether I'm
-explaining or just — saying.
+00:07:05,852 --> 00:07:12,021
+hundred light years; music, which nobody had
+expected and which four species developed
 
 83
-00:07:13,276 --> 00:07:19,633
-The Director sat with him on the balcony for a long
-time. It was the only recorded instance
+00:07:12,041 --> 00:07:18,426
+an expensive habit for; and — this is the part every
+human schoolchild learns — argument.
 
 84
-00:07:19,653 --> 00:07:25,591
-of him cancelling an Accord Council session, other
-than one, sixty-seven years later,
+00:07:18,946 --> 00:07:24,034
+You will not understand this and I have stopped trying
+to explain it politely. Your species
 
 85
-00:07:25,611 --> 00:07:27,133
-in the Keel of Arklay.
+00:07:24,054 --> 00:07:28,806
+produces disagreement of a quality we have not
+encountered. Not conflict. Conflict is
 
 86
-00:07:27,822 --> 00:07:33,129
-You could have asked me for anything. In thirty-six
-years you never asked me for one thing.
+00:07:28,826 --> 00:07:33,689
+common and cheap. *Formal structured disagreement*,
+conducted in public, by parties who
 
 87
-00:07:33,649 --> 00:07:37,324
-I know. That's how I knew I still worked for
-you and not the other thing.
+00:07:33,709 --> 00:07:36,216
+continue to trade with each
+other afterwards.
 
 88
-00:07:40,343 --> 00:07:46,459
-Tomás Reyes died in twenty sixty-six, at
-sixty-eight, in the house on the Brandywine,
+00:07:36,495 --> 00:07:41,662
+There are five species in the Compact who have paid,
+in hard trade credit, to have human
 
 89
-00:07:46,479 --> 00:07:47,830
-with the sound off.
+00:07:41,682 --> 00:07:46,672
+advocates argue their disputes. We have nothing
+like it. Our disputes are resolved by
 
 90
-00:07:48,401 --> 00:07:54,849
-He left instructions that there was to be no public
-observance of any kind, and the Directorate
+00:07:46,692 --> 00:07:47,026
+price.
 
 91
-00:07:54,869 --> 00:08:00,772
-honoured them exactly, which was itself the most
-enormous public observance imaginable:
+00:07:47,425 --> 00:07:55,192
+The Compact's archive at L4 contains four thousand
+years of trade law and, in a wing added
 
 92
-00:08:00,792 --> 00:08:06,696
-nine billion people noticed, on the same afternoon,
-that nothing at all was being said.
+00:07:55,212 --> 00:08:03,325
+in 2111, the complete proceedings of the Human Assembly,
+translated, updated weekly, consulted
 
 93
-00:08:09,766 --> 00:08:15,805
-There was opposition. It is important to record what
-happened to it, because what happened
+00:08:03,345 --> 00:08:04,710
+by nine species.
 
 94
-00:08:15,825 --> 00:08:17,354
-to it was not violence.
+00:08:05,110 --> 00:08:11,862
+Umbrella earned nothing from it. It had no part in
+it. Albert Wesker read the Compact's
 
 95
-00:08:17,923 --> 00:08:24,450
-In twenty fifty-five a coalition of eleven national
-parliaments — the last eleven in which
+00:08:11,882 --> 00:08:18,557
+assessment of it in 2112 and, according to the Red
+Queen's log, read it four times and
 
 96
-00:08:24,470 --> 00:08:30,997
-a genuine opposition still sat — proposed the
-Sovereignty Restoration Compact, which would
+00:08:18,577 --> 00:08:21,049
+then sat for twenty-two minutes.
 
 97
-00:08:31,017 --> 00:08:37,253
-have withdrawn its signatories from Article Nine and
-rebuilt independent manufacturing
+00:08:21,449 --> 00:08:27,496
+The narrator will now cover thirty-seven years in a
+page, because this is a story about
 
 98
-00:08:37,273 --> 00:08:39,216
-capacity over thirty years.
+00:08:27,516 --> 00:08:32,379
+one man and because for thirty-seven years
+the story is not about him.
 
 99
-00:08:39,787 --> 00:08:45,854
-It was a serious proposal, written by serious people,
-and the Directorate's response was
+00:08:32,778 --> 00:08:38,792
+Humanity went out. Not in an exodus and not in an
+empire: in about four hundred separate
 
 100
-00:08:45,874 --> 00:08:48,690
-the most sophisticated thing it ever did.
+00:08:38,812 --> 00:08:44,826
+attempts, most of them badly funded, nine of which
+failed with loss of life, and fifteen
 
 101
-00:08:49,259 --> 00:08:50,767
-It published the numbers.
+00:08:44,846 --> 00:08:46,609
+of which became something.
 
 102
-00:08:51,336 --> 00:08:57,273
-Every one of them. The complete cost of rebuilding
-parallel pharmaceutical capacity in
+00:08:47,009 --> 00:08:52,997
+The *Christina* made landfall in 2098 at a system the
+catalogue calls Kiln and its people
 
 103
-00:08:57,293 --> 00:09:03,437
-eleven countries — honestly costed, by the only
-organisation on Earth that actually knew,
+00:08:53,017 --> 00:08:58,803
+call, for reasons that involve a joke about a
+welder, Ochoa. Mira Halder was its first
 
 104
-00:09:03,457 --> 00:09:09,324
-with no exaggeration whatsoever, because
-exaggeration would have been catastrophic if
+00:08:58,823 --> 00:09:04,744
+elected administrator, and resigned after one term
+because she said the job should never
 
 105
-00:09:09,344 --> 00:09:15,904
-caught. The projected interruption in supply. The
-projected excess mortality during transition,
+00:09:04,764 --> 00:09:10,888
+be held by the person who built the place, and then
+spent forty years building other things
 
 106
-00:09:15,924 --> 00:09:21,929
-by country, by age band, with the methodology
-attached in full for any expert to check.
+00:09:10,908 --> 00:09:13,859
+and arguing with the people who
+did hold it.
 
 107
-00:09:22,500 --> 00:09:28,768
-The number for the eleven countries, over thirty years,
-was four hundred thousand additional
+00:09:14,259 --> 00:09:20,529
+Raccoon City sent nine thousand people. The Arcology
+sent forty thousand, which was ten
 
 108
-00:09:28,788 --> 00:09:34,918
-deaths. It was accurate. Four independent academies
-checked it, including two that loathed
+00:09:20,549 --> 00:09:27,109
+per cent of its population, and the Tuesday problem in
+the Free Territory — the consequence
 
 109
-00:09:34,938 --> 00:09:38,746
-Umbrella, and all four confirmed it
-within nine percent.
+00:09:27,129 --> 00:09:33,472
+deficit, the four-times suicide rate — fell by two
+thirds inside a generation and nobody
 
 110
-00:09:40,815 --> 00:09:46,252
-The Directorate did not campaign against the
-Compact. It published the figure, offered
+00:09:33,492 --> 00:09:35,568
+has ever entirely agreed why.
 
 111
-00:09:46,272 --> 00:09:51,647
-to fund the transition itself if the parliaments
-voted for it, and said nothing else.
+00:09:35,969 --> 00:09:42,347
+The Progenitor lineage went out too. There were about
+four hundred of them by 2110: Evelyn
 
 112
-00:09:52,217 --> 00:09:58,599
-Nine of the eleven parliaments voted it down within
-a year. The two that passed it held
+00:09:42,367 --> 00:09:48,746
+Marsh's family and the families of the eleven people
+she had, after nine years of argument
 
 113
-00:09:58,619 --> 00:10:05,516
-referendums, as their constitutions required. Both
-referendums failed, by margins of sixty-one
+00:09:48,766 --> 00:09:55,571
+with the Directorate and the Hangzhou tribunal, been
+permitted to offer it to. Mira Reiss-Marsh,
 
 114
-00:10:05,536 --> 00:10:07,355
-and seventy-four percent.
+00:09:55,591 --> 00:10:01,685
+who was twenty-one, went to Ochoa on the second wave
+and did not tell anybody what she
 
 115
-00:10:09,546 --> 00:10:12,100
-You did not even have to lie.
+00:10:01,705 --> 00:10:03,179
+was for eleven years.
 
 116
-00:10:12,620 --> 00:10:18,437
-He had not thought that. It had simply arrived, in
-his own voice, in a room on the fourth
+00:10:03,578 --> 00:10:05,298
+And Umbrella stopped growing.
 
 117
-00:10:18,457 --> 00:10:24,013
-floor with no name on the door, and he had noticed
-it arriving, and had not been able
+00:10:06,448 --> 00:10:13,323
+Umbrella, audit. Nineteen territories. Nine million
+four hundred thousand people under
 
 118
-00:10:24,033 --> 00:10:26,965
-to decide whether it was a
-memory or a habit.
+00:10:13,343 --> 00:10:20,619
+administration, out of a human sphere of twenty-seven
+point nine billion. Umbrella's share:
 
 119
-00:10:30,034 --> 00:10:35,570
-In twenty sixty-one, the first human beings who had
-been born after the Accord turned
+00:10:20,639 --> 00:10:27,914
+nought point nought nine per cent, and falling. One
+hundred and forty-one thousand Absolute
 
 120
-00:10:35,590 --> 00:10:36,158
-fourteen.
+00:10:27,934 --> 00:10:34,969
+personnel remaining; the release programme is at
+sixty-six per cent. Four million Points
 
 121
-00:10:36,729 --> 00:10:42,676
-They had never lived in a world with more than one
-answer in it. They had never seen an
+00:10:34,989 --> 00:10:37,855
+this quarter, the lowest since 2029.
 
 122
-00:10:42,696 --> 00:10:48,713
-election that decided anything, or a shortage, or a
-war, or a pandemic, or a border that
+00:10:38,446 --> 00:10:41,016
+The lowest since 2029.
 
 123
-00:10:48,733 --> 00:10:54,612
-mattered. They were healthier, taller, better
-educated, and by every instrument anyone
+00:10:41,416 --> 00:10:42,542
+(flat) Yes.
 
 124
-00:10:54,632 --> 00:10:59,551
-could devise, happier than any generation in
-the history of the species.
+00:10:42,942 --> 00:10:44,632
+Am I doing badly?
 
 125
-00:11:00,120 --> 00:11:06,622
-The Directorate's own longitudinal study — four
-hundred thousand subjects, run honestly,
+00:10:45,581 --> 00:10:52,524
+(flat) You are doing something I have no measure
+for. Your species is growing at a rate
 
 126
-00:11:06,642 --> 00:11:13,070
-published in full — found one statistically
-significant anomaly in that cohort, and the
+00:10:52,544 --> 00:10:59,646
+that has no precedent in my record. Your organisation
+is shrinking, deliberately, at your
 
 127
-00:11:13,090 --> 00:11:18,628
-Director read the paper himself, four times,
-on the night it was published.
+00:10:59,666 --> 00:11:06,529
+own instruction. I pay for consequence and the
+consequence is enormous and almost none
 
 128
-00:11:19,200 --> 00:11:25,138
-Under stress, when asked to make a decision in
-conditions of genuine uncertainty, the
+00:11:06,549 --> 00:11:09,169
+of it is now attributable to you.
 
 129
-00:11:25,158 --> 00:11:31,096
-cohort's response time was markedly slower than
-every preceding generation's, and its
+00:11:09,451 --> 00:11:16,918
+(flat) In four hundred and eleven worlds, no host
+has ever run this experiment. I would
 
 130
-00:11:31,116 --> 00:11:32,919
-confidence markedly lower.
+00:11:16,938 --> 00:11:18,984
+like to see how it ends.
 
 131
-00:11:33,488 --> 00:11:39,689
-The paper's authors — who were Umbrella scientists, and
-who published it because the Director
+00:11:19,384 --> 00:11:26,311
+The narrator notes that in 2141 the Veth Hegemony
+arrived thirty-nine years ahead of the
 
 132
-00:11:39,709 --> 00:11:45,443
-had personally established in twenty forty-nine that
-Directorate science would publish
+00:11:26,331 --> 00:11:32,074
+Compact's estimate, and that it did not find
+a single man with an empire.
 
 133
-00:11:45,463 --> 00:11:51,397
-everything or it would not be science — offered four
-possible explanations, and concluded
+00:11:32,474 --> 00:11:38,875
+It found seven billion people spread across four
+hundred worlds who had spent forty years
 
 134
-00:11:51,417 --> 00:11:53,137
-that more work was needed.
+00:11:38,895 --> 00:11:45,008
+learning how to argue, and one very old thing in a
+black coat standing quietly at the
 
 135
-00:11:53,707 --> 00:11:59,137
-He knew exactly what it was. He had built it
-deliberately, over thirty-four years, and
-
-136
-00:11:59,157 --> 00:12:03,762
-it had worked, and a research group had just
-measured it in the children.
-
-137
-00:12:06,331 --> 00:12:10,778
-He read the paper four times, and then he
-sat in the dark for a while.
-
-138
-00:12:11,349 --> 00:12:17,242
-There was a version of this story in which he did
-something about that finding. The narrator
-
-139
-00:12:17,262 --> 00:12:22,706
-has looked for it, in four hundred years of
-Directorate records, and it is not there.
-
-140
-00:12:22,726 --> 00:12:28,234
-He funded the follow-up study generously. He read
-every one of them for the next three
-
-141
-00:12:28,254 --> 00:12:31,191
-centuries. He never once acted
-on any of them.
-
-142
-00:12:31,760 --> 00:12:37,734
-Because the alternative was to reintroduce,
-deliberately, into a species that had finally
-
-143
-00:12:37,754 --> 00:12:43,861
-stopped fighting itself, the thing that had made it
-fight: disagreement. Real disagreement,
-
-144
-00:12:43,881 --> 00:12:49,787
-with real stakes, and real mistakes, and real
-consequences, and a hundred million people
-
-145
-00:12:49,807 --> 00:12:55,578
-dead somewhere down the line of it, because that is
-what disagreement costs and always
-
-146
-00:12:55,598 --> 00:12:55,847
-has.
-
-147
-00:12:56,418 --> 00:13:02,307
-He had done the arithmetic. He always did the
-arithmetic. It came out the same way every
-
-148
-00:13:02,327 --> 00:13:04,993
-time, for three hundred and sixty years.
-
-149
-00:13:07,562 --> 00:13:12,930
-Evelyn Marsh had once told him she was the only
-person in the building who had actually
-
-150
-00:13:12,950 --> 00:13:16,831
-counted. She had been wrong about that.
-There were two of them.
+00:11:45,028 --> 00:11:49,554
+back of the argument, who had been
+waiting for them since 2103.
