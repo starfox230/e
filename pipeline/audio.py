@@ -29,6 +29,10 @@ MUSIC_DUCK_DB = -8.0   # extra reduction under speech
 AMB_DB = -35.0
 AMB_DUCK_DB = -3.0
 SFX_DB = -23.0         # one-shot active RMS
+# Per-effect trims on top of SFX_DB. Every one-shot is otherwise levelled to the same loudness,
+# which is right for a door or a gunshot and wrong for an interface tone: the System's panel
+# chime sat at gunshot level. It is a small ding under the voice now, not an event.
+SFX_TRIM = {'sfx_system_open': -11.0, 'sfx_system_chime': -11.0}
 TARGET_LUFS = -15.0
 CEILING_DB = -1.5
 STINGS = {'m_title', 'm_movement'}
@@ -149,8 +153,9 @@ def build_timeline(ch):
             if e.kind == 'img':
                 tl['shots'].append({'start': round(at, 3), 'prompt': e.text, 'id': shot_id(ch.number, e.text)})
             elif e.kind == 'loc':
+                # captions type on silently: a bell under every one of them played a ding
+                # in nearly every chapter, which read as a mistake rather than a signature
                 tl['loc'].append({'start': round(at + 0.4, 3), 'end': round(at + 6.0, 3), 'text': e.text})
-                tl['sfx'].append({'time': at + 0.4, 'name': 'sfx_caption', 'gain': 0.0})
             elif e.kind == 'music':
                 tl['music'].append({'time': when, 'cue': e.name, 'gain': e.gain})
             elif e.kind in ('amb', 'amb+'):
@@ -288,7 +293,7 @@ def mix(tl, out_wav):
     fx = np.zeros((2, n), np.float32)
     for e in tl['sfx']:
         x = load(os.path.join(SFX, f"{e['name']}.wav"))
-        lvl = SFX_DB + e['gain'] - active_rms_db(x, floor=-50)
+        lvl = SFX_DB + e['gain'] + SFX_TRIM.get(e['name'], 0.0) - active_rms_db(x, floor=-50)
         i = max(0, int(e['time'] * SR))
         m = min(x.shape[1], n - i)
         fx[:, i:i + m] += x[:, :m] * 10 ** (lvl / 20)

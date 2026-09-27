@@ -52,7 +52,7 @@
 
 ## 3. The System
 
-A private interface only he perceives. It has **no name** and is never given one. Visually: thin, cold, white-and-crimson glass panels with a hairline border; a soft three-note chime; text that types itself. It speaks in a flat feminine register (SYSTEM voice) and says only what is on the panel.
+A private interface only he perceives. It has **no name** and is never given one. Visually: thin, cold, white-and-crimson glass panels with a hairline border; a single small, quiet ding; text that types itself. It speaks in a flat feminine register (SYSTEM voice) and says only what is on the panel.
 
 ### Stats (10 = average adult human, 20 = human peak, 30+ = superhuman)
 | Stat | Start (L1) | Notes |

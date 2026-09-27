@@ -502,26 +502,20 @@ def sfx_phone_ring():
 
 @sfx
 def sfx_system_open():
-    sec = 2.2
-    buf = np.zeros(int(sec * SR), np.float32)
-    for k, f in enumerate([880, 1318.5, 1760, 2637]):
-        b = fm_bell(f, 1.6, index=1.2, ratio=2.0, tau=0.5) * (0.5 - k * 0.07)
-        i = int(k * 0.06 * SR)
-        buf[i:i + len(b)] += b[:len(buf) - i]
-    air = bp(white(sec, rng(24)), 3000, 10000) * adsr(int(sec * SR), 0.25, 0.3, 0.2, 1.2) * 0.12
-    x = buf + air
-    return normalize(reverb(x, 0.85, 0.4, 0.7, width=1.0), -2)
+    """A single small ding as a System panel opens: one soft bell, short, in a small room."""
+    sec = 1.1
+    b = fm_bell(1318.5, sec, index=0.6, ratio=2.0, tau=0.28) * 0.6
+    b = b + fm_bell(2637.0, sec, index=0.3, ratio=2.0, tau=0.12) * 0.12     # a little air on top
+    return normalize(reverb(b, 0.45, 0.18, 0.9), -3)
 
 
 @sfx
 def sfx_system_chime():
-    sec = 2.4
-    buf = np.zeros(int(sec * SR), np.float32)
-    for k, f in enumerate([1318.5, 987.8, 1661.2]):
-        b = fm_bell(f, 1.8, index=0.9, ratio=3.5, tau=0.6) * 0.5
-        i = int(k * 0.14 * SR)
-        buf[i:i + len(b)] += b[:len(buf) - i]
-    return normalize(reverb(buf, 0.8, 0.35, 0.75), -2)
+    """The same small ding, a fourth lower, for panels that follow the first."""
+    sec = 1.0
+    b = fm_bell(987.8, sec, index=0.6, ratio=2.0, tau=0.25) * 0.6
+    b = b + fm_bell(1975.5, sec, index=0.3, ratio=2.0, tau=0.1) * 0.12
+    return normalize(reverb(b, 0.45, 0.18, 0.9), -3)
 
 
 @sfx
