@@ -1,950 +1,1053 @@
 1
-00:00:00,600 --> 00:00:03,024
-The shelling had not stopped
-for nine days.
+00:00:09,000 --> 00:00:14,242
+Before any of it — before the building, before the
+city, before the ships — there was
 
 2
-00:00:03,593 --> 00:00:09,547
-Fifty feet beneath what had once been the capital of
-a continent, the concrete sweated
+00:00:14,262 --> 00:00:18,946
+a room that was not a room, and a voice in it
+that had never needed a mouth.
 
 3
-00:00:09,567 --> 00:00:15,452
-and shook, and the dust came down from the ceiling
-in slow grey threads, like sand in
+00:00:20,097 --> 00:00:28,218
+Selection. Eight billion candidates reviewed.
+Criterion: will, unbroken at the moment
 
 4
-00:00:15,472 --> 00:00:19,411
-an hourglass that someone had turned
-over one final time.
+00:00:28,238 --> 00:00:30,516
+of death. Two finalists.
 
 5
-00:00:19,981 --> 00:00:26,032
-At the end of a corridor, behind a steel door, a
-man sat on a small sofa and listened
+00:00:31,106 --> 00:00:36,982
+The first finalist died in a concrete room under a
+ruined city in the spring of nineteen
 
 6
-00:00:26,052 --> 00:00:27,890
-to the city die above him.
+00:00:37,002 --> 00:00:42,744
+forty-five. He had begun the largest war in human
+history and presided over the murder
 
 7
-00:00:28,460 --> 00:00:34,170
-He had started the war that killed tens of millions.
-He had built the camps, and filled
+00:00:42,764 --> 00:00:48,439
+of millions of people, and when the armies of four
+nations closed on the last streets
 
 8
-00:00:34,190 --> 00:00:39,900
-them. He had told a nation it was chosen, and then
-he had marched it into fire. And now
+00:00:48,459 --> 00:00:52,056
+he still held, he killed himself
+rather than be taken.
 
 9
-00:00:39,920 --> 00:00:42,205
-the fire had come home to find him.
+00:00:52,841 --> 00:00:58,517
+History took his measure and found nothing in him
+worth keeping. The System was not looking
 
 10
-00:00:42,776 --> 00:00:48,731
-Nobody who was in that room ever described his last
-thought. We only know how it ended.
+00:00:58,537 --> 00:01:03,211
+for anything worth keeping. It was looking for
+something that did not bend.
 
 11
-00:00:52,601 --> 00:00:57,795
-A single shot, muffled by concrete. And then, for
-the man who fired it, nothing.
+00:01:03,612 --> 00:01:09,417
+The second finalist died sixty-four years later, in
+a different world from this one, in
 
 12
-00:00:59,866 --> 00:01:05,338
-History wrote its verdict in the ashes he left
-behind. That should have been the end of
+00:01:09,437 --> 00:01:15,376
+the throat of an African volcano. A scientist who had
+rebuilt his own body around a virus
 
 13
-00:01:05,358 --> 00:01:05,969
-the story.
+00:01:15,396 --> 00:01:21,202
+of his own design. A man who had betrayed every
+institution that ever employed him, and
 
 14
-00:01:07,739 --> 00:01:13,867
-Somewhere else — in a world that does not exist, a
-world with no Berlin and no bunker
+00:01:21,222 --> 00:01:26,291
+who had come within an hour of rewriting the
+human species in his own image.
 
 15
-00:01:13,887 --> 00:01:15,676
-— a second man was dying.
+00:01:26,691 --> 00:01:32,332
+Two missiles found him in the lava. He was thinking,
+as the fire took him, that he had
 
 16
-00:01:16,246 --> 00:01:22,323
-He was standing waist-deep in molten rock, in the
-throat of a volcano, and he was still,
+00:01:32,352 --> 00:01:33,781
+simply moved too soon.
 
 17
-00:01:22,343 --> 00:01:23,570
-impossibly, alive.
+00:01:34,510 --> 00:01:40,460
+The System weighed them the way a jeweller weighs two
+stones. Not for beauty. For hardness.
 
 18
-00:01:24,141 --> 00:01:30,306
-He had been a scientist and a soldier, a traitor and
-a god in his own estimation. He had
+00:01:41,611 --> 00:01:49,916
+Merge. Host: Wesker, Albert. Will, body, intellect.
+Passenger: secondary will, non-dominant,
 
 19
-00:01:30,326 --> 00:01:36,633
-been engineered to be superior, and he had believed it
-with his whole heart. He had wanted
+00:01:49,936 --> 00:01:57,970
+advisory. Rationale: the host has never had an
+audience. The passenger was never anything
 
 20
-00:01:36,653 --> 00:01:42,468
-to remake the human race in a single breath of a
-virus. His name was Albert Wesker.
+00:01:57,990 --> 00:01:58,423
+else.
 
 21
-00:01:43,037 --> 00:01:48,937
-And above him, on the rim of the rock, two people he
-had underestimated for the last time
+00:01:59,013 --> 00:02:05,043
+And then, because the System had a sense of theatre
+that it would never admit to, it did
 
 22
-00:01:48,957 --> 00:01:51,199
-lifted a pair of rocket launchers.
+00:02:05,063 --> 00:02:09,992
+not put him in a hospital bed, or an alley,
+or a chair in an empty room.
 
 23
-00:01:54,567 --> 00:01:56,838
-Fire. Light. Then nothing again.
+00:02:10,393 --> 00:02:11,752
+It gave him a house.
 
 24
-00:01:58,908 --> 00:02:03,615
-Two deaths. Two men who never met, in two worlds
-that should never have touched.
+00:02:12,152 --> 00:02:18,255
+On the south bank of the Christina River, in the last
+minute before six o'clock on a Monday
 
 25
-00:02:04,186 --> 00:02:06,902
-This is the story of what
-happened when they did.
+00:02:18,275 --> 00:02:24,040
+morning, there was a parking apron. Cracked asphalt.
+Two dumpsters. A chain-link fence
 
 26
-00:02:25,673 --> 00:02:28,149
-The building had no name worth
-remembering.
+00:02:24,060 --> 00:02:29,893
+with a hole in it that the neighbourhood had been
+using as a shortcut for eleven years.
 
 27
-00:02:28,718 --> 00:02:34,649
-Four storeys of tired brick on the wrong side of an
-industrial park, on the south bank
+00:02:30,294 --> 00:02:36,175
+A man named Dale Moreno jogged past it at five
+fifty-seven, as he did four mornings a
 
 28
-00:02:34,669 --> 00:02:40,600
-of the Christina River. A parking lot with more
-weeds than cars. A security booth with
+00:02:36,195 --> 00:02:41,314
+week. He remembers the dumpsters. He is quite
+certain about the dumpsters.
 
 29
-00:02:40,620 --> 00:02:46,481
-a space heater and a paperback. And above the glass
-doors, in faded blue letters that
+00:02:41,713 --> 00:02:45,873
+At five fifty-eight, the parking apron
+stopped being a parking apron.
 
 30
-00:02:46,501 --> 00:02:52,640
-had not been cleaned since the Obama administration,
-a sign that read: Umbrella Research,
+00:02:46,274 --> 00:02:52,023
+There was no sound. No flash, no wind, no shudder in
+the ground. A six-storey building
 
 31
-00:02:52,660 --> 00:02:53,678
-Division Seven.
+00:02:52,043 --> 00:02:58,061
+of white stone and black glass simply occupied the
+space where nothing had been — complete
 
 32
-00:02:54,247 --> 00:02:59,851
-Nobody in the city had ever wondered what happened
-inside. There was no reason to. The
+00:02:58,081 --> 00:03:04,098
+to the coffee rings on the desks and the dust on top
+of the doorframes. Above the entrance
 
 33
-00:02:59,871 --> 00:03:05,474
-company that owned it was dying, and the people who
-worked in it knew it, and the rain
+00:03:04,118 --> 00:03:10,002
+sat a crimson mark: six curved blades folded into a
+circle, like an iris, or the shutter
 
 34
-00:03:05,494 --> 00:03:11,425
-came down on the flat roof the way it had come down on
-a thousand other forgotten buildings
+00:03:10,022 --> 00:03:11,343
+of a camera closing.
 
 35
-00:03:11,445 --> 00:03:13,778
-in a thousand other forgotten towns.
+00:03:11,743 --> 00:03:18,233
+Dale Moreno came back past it at six twenty. He did not
+stop. He did not slow down. Somewhere
 
 36
-00:03:14,348 --> 00:03:20,220
-On the third floor, in a corner office with a water
-stain shaped like Florida on the ceiling
+00:03:18,253 --> 00:03:24,813
+in the machinery behind his eyes a small correction was
+made, quietly, without his permission,
 
 37
-00:03:20,240 --> 00:03:22,909
-tile, a man was asleep in a leather chair.
+00:03:24,834 --> 00:03:28,593
+and he thought: they finally
+finished that renovation.
 
 38
-00:03:23,479 --> 00:03:26,779
-And then, between one second and the
-next, he was not.
+00:03:28,993 --> 00:03:30,703
+There had been no renovation.
 
 39
-00:03:27,349 --> 00:03:33,332
-He did not wake the way people wake. There was no
-drift, no warmth, no slow return. He
+00:03:31,104 --> 00:03:36,934
+In the City of Wilmington's property system, the
+deed had been on file since 1998. The
 
 40
-00:03:33,352 --> 00:03:38,705
-arrived — the way a gunshot arrives — whole,
-and violent, and already moving.
+00:03:36,954 --> 00:03:42,716
+power company had twenty-eight years of billing
+history. A Delaware corporation named
 
 41
-00:03:39,276 --> 00:03:45,415
-His elbow struck a ceramic mug on the desk. It
-tipped, and fell, and he caught it an inch
+00:03:42,736 --> 00:03:48,770
+Umbrella Research Division Seven had been paying
+property taxes on that parcel for longer
 
 42
-00:03:45,435 --> 00:03:51,643
-above the carpet, cold coffee still trembling inside
-it, before he had consciously decided
+00:03:48,790 --> 00:03:54,688
+than anyone in the assessor's office had worked
+there, and when a clerk opened the file
 
 43
-00:03:51,663 --> 00:03:52,682
-to move at all.
+00:03:54,708 --> 00:04:00,470
+that morning for an unrelated reason, she looked at
+it for four seconds and closed it
 
 44
-00:03:54,252 --> 00:03:56,929
-He looked at his own hand,
-holding the mug.
+00:04:00,490 --> 00:04:04,144
+again, because there was nothing in
+it that was wrong.
 
 45
-00:03:57,498 --> 00:04:03,919
-It was a large hand. Pale. Steady. It was not the
-hand he remembered. And it was, at the
+00:04:04,544 --> 00:04:10,251
+This is the first thing to understand about what
+happened to this world. It did not begin
 
 46
-00:04:03,939 --> 00:04:06,993
-same time, exactly the hand he remembered.
+00:04:10,271 --> 00:04:14,433
+with a monster. It began with paperwork
+that was already perfect.
 
 47
-00:04:08,364 --> 00:04:13,782
-Two memories reached for the same body, like two men
-grabbing for the same pistol in the
+00:04:14,834 --> 00:04:20,612
+On the sixth floor, in a corner office with a view
+of the river, a man opened his eyes.
 
 48
-00:04:13,802 --> 00:04:14,091
-dark.
+00:04:21,012 --> 00:04:26,769
+He did not gasp. He did not grope at the arms of the
+chair, or ask where he was, or do
 
 49
-00:04:14,662 --> 00:04:20,555
-One remembered a bunker, a sofa, the smell of
-cordite and concrete, and a nation that
+00:04:26,789 --> 00:04:32,680
+any of the other things a man does when the world has
+moved underneath him. He sat still
 
 50
-00:04:20,575 --> 00:04:22,641
-had followed him over a cliff.
+00:04:32,700 --> 00:04:38,322
+for twenty-six seconds with his hands resting on
+the leather, and he took inventory.
 
 51
-00:04:23,211 --> 00:04:29,293
-The other remembered a laboratory in the Arklay
-Mountains, a mansion full of monsters,
+00:04:38,723 --> 00:04:44,571
+The body was his. Not the ruined thing the lava had
+taken — the body from before, at its
 
 52
-00:04:29,313 --> 00:04:32,982
-a virus that had rewritten his
-blood, and a volcano.
+00:04:44,591 --> 00:04:50,374
+best. A heart that beat forty-one times a minute.
+Hearing that picked out a fan running
 
 53
-00:04:33,552 --> 00:04:36,571
-Neither memory was a dream. Both were his.
+00:04:50,394 --> 00:04:56,109
+on the floor below. And underneath all of it,
+patient and familiar, the virus. His own
 
 54
-00:04:38,341 --> 00:04:44,265
-He set the mug down, very precisely, in the exact
-ring of dried coffee it had left on
+00:04:56,129 --> 00:05:01,778
+work. His own design. Still in there. Still
+humming, like an engine left running in a
 
 55
-00:04:44,285 --> 00:04:50,280
-the desk. Then he stood, and the chair rolled back,
-and he walked out of the office to
+00:05:01,798 --> 00:05:02,711
+locked garage.
 
 56
-00:04:50,300 --> 00:04:51,260
-find a mirror.
+00:05:03,112 --> 00:05:09,002
+The suit was his. The coat over the chair-back was
+his. On the blotter, folded, were the
 
 57
-00:04:51,829 --> 00:04:56,358
-The washroom light buzzed and flickered twice
-before it decided to work.
+00:05:09,022 --> 00:05:09,741
+sunglasses.
 
 58
-00:04:56,928 --> 00:05:02,929
-The man in the mirror was tall, and pale, and blond,
-with his hair swept back from a hard,
+00:05:10,141 --> 00:05:15,487
+He put out a hand, and a pen he had knocked from the
+desk was back between his fingers
 
 59
-00:05:02,949 --> 00:05:08,615
-handsome face. Mid-thirties, perhaps, though the
-eyes were older than that. He wore a
+00:05:15,507 --> 00:05:20,790
+before it had fallen six inches. He looked at it
+for a moment with something close to
 
 60
-00:05:08,635 --> 00:05:14,769
-black shirt, dark trousers, and the kind of calm that
-belongs to a predator that has already
+00:05:20,810 --> 00:05:21,352
+fondness.
 
 61
-00:05:14,789 --> 00:05:15,839
-eaten this week.
+00:05:21,872 --> 00:05:24,360
+Well. That answers the
+interesting question.
 
 62
-00:05:16,411 --> 00:05:22,580
-He leaned closer. And the pupils, as he watched,
-narrowed into vertical slits, and flared
+00:05:24,759 --> 00:05:30,393
+And then there was the other thing. A second set of
+memories sitting in his skull like
 
 63
-00:05:22,600 --> 00:05:23,972
-a dull, burning red.
+00:05:30,413 --> 00:05:36,178
+a stranger in a waiting room: another country,
+another century, a war he had not fought,
 
 64
-00:05:24,661 --> 00:05:26,721
-This is not my face.
+00:05:36,198 --> 00:05:42,161
+a death he had not died. He examined it the way he
+would examine a contaminant in a culture
 
 65
-00:05:27,242 --> 00:05:28,279
-No. It's mine.
+00:05:42,181 --> 00:05:46,960
+— with distaste, with attention, and without
+the smallest trace of alarm.
 
 66
-00:05:28,798 --> 00:05:34,291
-The voices did not come from his mouth. They came
-from somewhere behind the eyes, and
+00:05:47,360 --> 00:05:53,353
+Because Albert Wesker had been many things in two
+lifetimes, and one of them was a man
 
 67
-00:05:34,311 --> 00:05:39,805
-they spoke at the same time, and for a long moment
-the man in the mirror said nothing
+00:05:53,373 --> 00:05:56,150
+who was never frightened of information.
 
 68
-00:05:39,825 --> 00:05:43,307
-at all while two histories argued
-over the same skull.
+00:05:57,300 --> 00:06:06,285
+Host confirmed. Albert Wesker. Director, Umbrella
+Research Division Seven. Level one.
 
 69
-00:05:43,997 --> 00:05:47,593
-Where is this? What is this place?
-What have you done?
+00:06:06,305 --> 00:06:10,311
+Ten thousand Points. Tier one: Garage.
 
 70
-00:05:48,113 --> 00:05:53,776
-I haven't done anything. I died. So, I suspect, did
-you. Congratulations. We appear to
+00:06:10,899 --> 00:06:11,449
+Garage.
 
 71
-00:05:53,796 --> 00:05:55,163
-have been — combined.
+00:06:11,848 --> 00:06:13,108
+Tier one of six.
 
 72
-00:05:55,684 --> 00:05:57,541
-I do not accept that.
+00:06:13,509 --> 00:06:17,461
+I am aware of what a first tier is. I am
+remarking on the choice of word.
 
 73
-00:05:58,062 --> 00:05:59,892
-The mirror doesn't care what you accept.
+00:06:17,860 --> 00:06:19,451
+The word is accurate.
 
 74
-00:06:01,411 --> 00:06:07,025
-He gripped the edge of the sink, experimentally, and
-felt the porcelain creak under his
+00:06:19,850 --> 00:06:25,911
+He looked at the panel for a long moment. And then,
+for the first time in two lifetimes,
 
 75
-00:06:07,045 --> 00:06:09,485
-fingers, and let go before it cracked.
+00:06:25,931 --> 00:06:29,781
+Albert Wesker smiled at something
+that had insulted him.
 
 76
-00:06:10,055 --> 00:06:15,932
-The body was not human. Not entirely. He could feel
-the Prototype Virus in it, the way
+00:06:30,300 --> 00:06:34,043
+Explain yourself. All of it. Start at the
+top and leave nothing out.
 
 77
-00:06:15,952 --> 00:06:22,035
-a pilot feels an engine through the seat — patient
-and enormous and hungry, woven through
+00:06:34,442 --> 00:06:38,523
+It took the System eighteen minutes. He
+did not interrupt once.
 
 78
-00:06:22,055 --> 00:06:27,933
-every cell. Strength that could fold a car door.
-Speed that would look, to an ordinary
+00:06:39,673 --> 00:06:48,048
+Status. Strength twenty-eight. Agility thirty-four.
+Vitality twenty-six. Intelligence
 
 79
-00:06:27,953 --> 00:06:33,488
-eye, like a man simply ceasing to be in one place
-and beginning to be in another.
+00:06:48,068 --> 00:06:57,037
+twenty-four. Presence sixteen. Will thirty. Viral
+Affinity twelve. Ten is an average adult.
 
 80
-00:06:34,059 --> 00:06:39,471
-The Wesker half of the mind knew all of this the way
-you know your own name. The other
+00:06:57,057 --> 00:06:59,802
+Twenty is the human ceiling.
 
 81
-00:06:39,491 --> 00:06:45,410
-half learned it in that moment, and felt something it
-had not felt since nineteen thirty-nine.
+00:07:00,392 --> 00:07:06,122
+Every number but one stood above the ceiling of his
+species. He noted, without expression,
 
 82
-00:06:46,579 --> 00:06:47,632
-Appetite.
+00:07:06,142 --> 00:07:07,272
+which one did not.
 
 83
-00:06:49,702 --> 00:06:51,420
-That was when the light appeared.
+00:07:07,793 --> 00:07:09,131
+Presence. Sixteen.
 
 84
-00:06:51,990 --> 00:06:58,178
-It was not a reflection. It hung in the air a foot
-in front of the mirror: a thin pane
+00:07:09,531 --> 00:07:16,514
+Presence measures your effect upon a crowd. You are
+formidable in a room of one. You are
 
 85
-00:06:58,198 --> 00:07:04,457
-of cold, white glass, edged in crimson, with letters
-typing themselves across it one by
+00:07:16,534 --> 00:07:19,061
+cold in a room of four thousand.
 
 86
-00:07:04,477 --> 00:07:04,746
-one.
+00:07:19,461 --> 00:07:22,821
+I have never had the slightest difficulty
+making myself understood.
 
 87
-00:07:06,065 --> 00:07:09,748
-Host confirmed. Integration complete.
+00:07:23,220 --> 00:07:26,250
+Understood is not the same as followed.
 
 88
-00:07:12,305 --> 00:07:13,369
-Secondary.
+00:07:27,279 --> 00:07:34,697
+Points. Earned by the growth of the corporation,
+completed missions, the devotion of those
 
 89
-00:07:13,889 --> 00:07:16,191
-Don't take it personally. It's a machine.
+00:07:34,717 --> 00:07:42,052
+who serve you, acting with intelligence, and the
+subjugation of rivals. Spent in the Shop
 
 90
-00:07:16,709 --> 00:07:19,326
-A second panel slid out beneath the first.
+00:07:42,072 --> 00:07:43,209
+and the Gacha.
 
 91
-00:07:20,648 --> 00:07:21,719
-Status.
+00:07:44,428 --> 00:07:52,254
+The Shop. Seven tabs open, three locked. Sixty-three
+items available. One thousand two
 
 92
-00:07:26,798 --> 00:07:31,653
-He read it the way a general reads a map of
-a battle he intends to win.
+00:07:52,274 --> 00:07:54,444
+hundred and four locked.
 
 93
-00:07:32,223 --> 00:07:38,247
-He knew instinctively what the numbers meant. Ten
-was an ordinary man. Twenty was the
+00:07:55,033 --> 00:08:01,226
+Facilities. Personnel. Vehicles. Viral. He read the
+tab headings the way a starving man
 
 94
-00:07:38,267 --> 00:07:44,362
-very edge of what a human body could do. Thirty and
-above was something else entirely.
+00:08:01,246 --> 00:08:06,723
+reads a menu, which is to say slowly, and while
+pretending to be unimpressed.
 
 95
-00:07:45,052 --> 00:07:47,528
-Charisma twenty-four. That's
-you, I assume.
+00:08:07,244 --> 00:08:09,244
+These items. Where do they arrive from?
 
 96
-00:07:48,048 --> 00:07:50,332
-A nation followed that voice.
+00:08:09,644 --> 00:08:16,227
+They do not arrive. They exist. You will choose a
+location. At that location, the item
 
 97
-00:07:50,853 --> 00:07:52,902
-Into a bunker. Yes. I remember.
+00:08:16,247 --> 00:08:20,681
+will have existed for as long as it
+needs to have existed.
 
 98
-00:07:54,052 --> 00:08:02,827
-Warning. Viral stability, seventy-one percent. At
-forty percent, cellular consumption
+00:08:21,079 --> 00:08:22,256
+And the people who look at it?
 
 99
-00:08:02,847 --> 00:08:03,552
-begins.
+00:08:22,656 --> 00:08:28,482
+Those who cannot perceive this interface — which is
+everyone — will remember it being
 
 100
-00:08:05,141 --> 00:08:09,653
-For the first time since he had woken, the man
-in the mirror went very still.
+00:08:28,502 --> 00:08:34,879
+built, will believe it has always stood there, or will
+not notice it until they look directly
 
 101
-00:08:10,223 --> 00:08:16,031
-The Wesker half knew this problem. In his own world,
-he had kept the virus leashed with
+00:08:34,899 --> 00:08:40,794
+at it, at which point they will assume they had
+never happened to look before. Records
 
 102
-00:08:16,051 --> 00:08:21,926
-an injected serum, measured and precise. There was no
-serum here. There was no here, not
+00:08:40,814 --> 00:08:46,641
+will agree with them. Witnesses will agree with
+them. There will be no seam. You will
 
 103
-00:08:21,946 --> 00:08:26,482
-yet. Just a building, and a clock, and a
-number going the wrong way.
+00:08:46,661 --> 00:08:50,286
+be the only living creature who
+knows the difference.
 
 104
-00:08:27,802 --> 00:08:36,088
-The Shop is locked. Points are earned through
-conquest, loyalty, superior action, and
+00:08:50,687 --> 00:08:52,716
+He was quiet for several seconds.
 
 105
-00:08:36,108 --> 00:08:38,238
-the defeat of enemies.
+00:08:53,236 --> 00:08:57,929
+Do you know how much of my last life I spent
+building false histories for things that
 
 106
-00:08:39,827 --> 00:08:42,197
-Conquest. Loyalty. Superior action.
+00:08:57,949 --> 00:08:58,649
+had to exist?
 
 107
-00:08:42,716 --> 00:08:44,916
-It is describing a state.
+00:08:59,051 --> 00:09:00,481
+Thirty-one years.
 
 108
-00:08:45,436 --> 00:08:49,021
-It's describing a company. Same thing,
-if you do it properly.
+00:09:00,880 --> 00:09:01,975
+Thirty-one years.
 
 109
-00:08:50,171 --> 00:09:00,065
-Mission issued. The Director's Chair. Secure absolute
-control of Umbrella Research, Division
+00:09:03,005 --> 00:09:10,717
+The Gacha. One pull, one thousand. A ten-pull, nine
+thousand, with one Rare or better
 
 110
-00:09:00,085 --> 00:09:02,005
-Seven. Seven days.
+00:09:10,737 --> 00:09:19,268
+guaranteed. A Rare may be a specialist, an ability, or a
+single biological weapon. A Legendary
 
 111
-00:09:03,595 --> 00:09:09,163
-He read the mission twice. Then he smiled, very
-slightly, for the first time in his new
+00:09:19,288 --> 00:09:22,178
+is not an item. It is a package.
 
 112
-00:09:09,183 --> 00:09:09,485
-life.
+00:09:23,399 --> 00:09:31,895
+Roster. Eleven Absolute. Zero integrated. Personnel
+acquired through this interface cannot
 
 113
-00:09:10,054 --> 00:09:15,777
-It was not a nice smile. It was the smile of a man
-who has been handed a pistol in a room
+00:09:31,915 --> 00:09:39,655
+disobey. Personnel hired by ordinary means possess
+a loyalty value, and may leave.
 
 114
-00:09:15,797 --> 00:09:18,487
-full of people who don't know it's loaded.
+00:09:40,245 --> 00:09:42,404
+Eleven. He turned that number over.
 
 115
-00:09:20,557 --> 00:09:22,772
-There was a knock at the washroom door.
+00:09:42,924 --> 00:09:44,716
+Eleven people are downstairs.
 
 116
-00:09:23,461 --> 00:09:25,656
-Doctor Wesker? You in there?
+00:09:45,115 --> 00:09:52,144
+Eleven people have worked in this building for between
+two and nine years, depending which
 
 117
-00:09:26,174 --> 00:09:32,029
-The voice belonged to a man in his sixties, gravel
-over gravel, the voice of someone who
+00:09:52,164 --> 00:09:53,396
+of them you ask.
 
 118
-00:09:32,049 --> 00:09:36,502
-had spent a great deal of his life telling
-younger men to get down.
+00:09:53,798 --> 00:09:59,347
+And last, the panel he had been waiting for without
+knowing he was waiting for it, because
 
 119
-00:09:37,072 --> 00:09:43,079
-Wesker opened the door. And the knowledge was simply
-there, waiting for him, the way the
+00:09:59,367 --> 00:10:03,618
+the System had read him perfectly and had
+saved the hook for the end.
 
 120
-00:09:43,099 --> 00:09:48,969
-stats had been: Walter Pruitt. Night security.
-Sixty-four. Army, twenty-two years. Two
+00:10:04,768 --> 00:10:13,132
+Main mission. Tier two: Company. A product worth
+selling. Fifty staff. Fifty million dollars
 
 121
-00:09:48,989 --> 00:09:54,996
-tours he never talked about. A wife who had died in
-the spring. He worked nights because
+00:10:13,152 --> 00:10:21,335
+in assets. Reward: twenty-five thousand Points, the
+Territory tab, and the Company banner.
 
 122
-00:09:55,016 --> 00:09:56,571
-he didn't sleep anyway.
+00:10:21,924 --> 00:10:23,425
+And when I reach the sixth tier?
 
 123
-00:09:57,261 --> 00:10:02,254
-Heard something fall. Thought maybe you'd keeled over.
-You been here since yesterday afternoon,
+00:10:23,826 --> 00:10:26,528
+Then we will discuss what is above it.
 
 124
-00:10:02,274 --> 00:10:02,992
-you know that?
+00:10:26,928 --> 00:10:31,499
+He stood, and took the sunglasses from the
+blotter, and did not put them on yet.
 
 125
-00:10:03,513 --> 00:10:04,665
-I know that, Walter.
+00:10:32,019 --> 00:10:36,682
+I built a company like this once. It took thirty
+years, a great deal of money that was
 
 126
-00:10:05,184 --> 00:10:10,983
-He had not raised his voice. He had not done anything
-at all. He simply stood in the doorway,
+00:10:36,702 --> 00:10:39,568
+not mine, and a board of directors
+I had to smile at.
 
 127
-00:10:11,003 --> 00:10:16,364
-a head taller than the guard, and looked at him —
-and Walter Pruitt, who had once been
+00:10:39,969 --> 00:10:40,779
+Yes.
 
 128
-00:10:16,384 --> 00:10:21,932
-shot at by professionals and had not flinched, took
-half a step back without knowing why.
+00:10:41,178 --> 00:10:42,134
+How long this time?
 
 129
-00:10:22,623 --> 00:10:25,850
-Right. Well. You want coffee? Pot's
-old, but it's hot.
+00:10:42,533 --> 00:10:45,277
+That is entirely a question about you.
 
 130
-00:10:26,370 --> 00:10:29,230
-No. Thank you. Go home early
-tonight. I'll lock up.
+00:10:45,677 --> 00:10:47,127
+He walked his own house.
 
 131
-00:10:29,750 --> 00:10:32,286
-Can't do that, Doc. Company rules.
+00:10:47,527 --> 00:10:53,374
+Five floors of laboratory. Sequencing suites with
+the machines still under dust covers.
 
 132
-00:10:32,806 --> 00:10:38,844
-The company, Walter, is in administration in London,
-and the people who wrote its rules
+00:10:53,394 --> 00:10:59,174
+A cold room. A tissue-culture wing. An animal
+facility that smelled of nothing at all.
 
 133
-00:10:38,864 --> 00:10:44,832
-are currently arguing over who gets the office
-furniture. As of tonight, the rules are
+00:10:59,194 --> 00:11:04,974
+Glass everywhere, and behind the glass, equipment he
+recognised from catalogues he had
 
 134
-00:10:44,852 --> 00:10:48,314
-mine. Go home. Get some sleep. You
-won't, but try.
+00:11:04,994 --> 00:11:10,977
+read in another world, in versions eighteen years
+newer than the ones he had died beside.
 
 135
-00:10:49,833 --> 00:10:55,141
-Walter looked at him for a long moment. There was
-something in the old guard's face —
+00:11:11,376 --> 00:11:16,940
+A freezer archive on the third floor held thirty
+years of cell lines that had never been
 
 136
-00:10:55,161 --> 00:11:00,469
-not fear, exactly. Recognition. The expression of a
-man who had served under officers
+00:11:16,960 --> 00:11:22,334
+collected, from studies that had never been run, by
+people who had never existed. The
 
 137
-00:11:00,489 --> 00:11:05,860
-his whole life and had learned to tell, instantly,
-the difference between the ones who
+00:11:22,354 --> 00:11:27,156
+labels were handwritten. Some of them had been
+corrected in a different pen.
 
 138
-00:11:05,880 --> 00:11:08,681
-were playing at it and the ones
-who were not.
+00:11:27,677 --> 00:11:28,830
+Even the mistakes.
 
 139
-00:11:09,370 --> 00:11:10,335
-Yes, sir.
+00:11:29,230 --> 00:11:35,155
+A three-level underground garage with nothing parked
+in it. A loading dock. A boardroom
 
 140
-00:11:10,855 --> 00:11:13,626
-He had not called anyone sir in
-seven years.
+00:11:35,175 --> 00:11:41,442
+with eleven chairs and a table polished so often that
+the wood had gone soft at the corners.
 
 141
-00:11:14,196 --> 00:11:20,365
-He went. And halfway down the corridor, alone with
-the rain, he said quietly to nobody
+00:11:41,842 --> 00:11:44,312
+And at twenty to eight, they came to work.
 
 142
-00:11:20,385 --> 00:11:20,869
-at all:
+00:11:44,712 --> 00:11:50,232
+They did not trickle in. They arrived together, which
+is the first thing about them that
 
 143
-00:11:21,558 --> 00:11:22,904
-Different animal.
+00:11:50,252 --> 00:11:55,771
+anybody sane would have found strange, and they
+formed a line across the lobby as though
 
 144
-00:11:24,926 --> 00:11:30,701
-Back in the corner office, the man who was now Albert
-Wesker sat down at a computer that
+00:11:55,791 --> 00:11:59,423
+they had been waiting all weekend for
+permission to exist.
 
 145
-00:11:30,721 --> 00:11:33,007
-was nine years old and ran like it.
+00:11:59,822 --> 00:12:05,503
+Hale, chief of security: two metres of shaved head
+and black tactical suit, flanked by
 
 146
-00:11:33,576 --> 00:11:39,350
-The Wesker half of the mind knew what to do with it.
-The other half watched, fascinated,
+00:12:05,523 --> 00:12:11,137
+two officers who stood exactly as he stood. Gus,
+maintenance, in navy coveralls, with
 
 147
-00:11:39,370 --> 00:11:41,720
-as the screen filled with the world.
+00:12:11,157 --> 00:12:16,770
+a tool belt and a ring of keys and eyes like a calm
+pond. Mr. Pell, comptroller, thin
 
 148
-00:11:42,289 --> 00:11:48,533
-It took him less than an hour to understand where he
-was. An Earth, but not Wesker's Earth.
+00:12:16,790 --> 00:12:22,537
+and grey and spectacled, holding a folder. Dr. Lena
+Voss and three junior scientists in
 
 149
-00:11:48,553 --> 00:11:54,728
-There was no Raccoon City here. No Umbrella
-Corporation that had ever mattered. No mansion
+00:12:22,557 --> 00:12:28,569
+white coats. And at the desk, a receptionist named
+Marguerite, smiling the way a photograph
 
 150
-00:11:54,748 --> 00:12:00,648
-in the Arklay Mountains, no Redfields, no Spencer.
-He searched his own name, and found
+00:12:28,589 --> 00:12:29,033
+smiles.
 
 151
-00:12:00,668 --> 00:12:05,673
-a dentist in Ohio and a high-school wrestler
-in Oregon, and nothing else.
+00:12:29,432 --> 00:12:35,774
+Nobody fidgeted. Nobody checked a phone. Eleven pairs
+of eyes came up to him at the same
 
 152
-00:12:06,361 --> 00:12:08,614
-Nobody. Nobody has ever heard of me.
+00:12:35,794 --> 00:12:37,943
+instant, like a flock turning.
 
 153
-00:12:09,134 --> 00:12:12,413
-Then the other half of the mind
-typed a different name.
+00:12:38,462 --> 00:12:40,352
+Good morning, Director.
 
 154
-00:12:13,982 --> 00:12:15,725
-He read for a long time.
+00:12:40,753 --> 00:12:43,403
+Wesker looked at them for a while.
 
 155
-00:12:16,296 --> 00:12:22,350
-He read about the war he had started, and how it
-ended. He read the numbers — the soldiers,
+00:12:43,923 --> 00:12:48,771
+Mr. Hale. Your left-hand officer carries a sidearm he
+has not drawn since it was issued,
 
 156
-00:12:22,370 --> 00:12:28,025
-the cities, the six million murdered in the camps,
-and the millions more. He read the
+00:12:48,791 --> 00:12:53,585
+and a scar on his wrist that is four years older
+than his employment. Who was he before
 
 157
-00:12:28,045 --> 00:12:33,899
-testimony, and the photographs, and the verdicts at
-Nuremberg. He read that his name had
+00:12:53,605 --> 00:12:54,746
+he stood in my lobby?
 
 158
-00:12:33,919 --> 00:12:37,972
-become the single word the whole human
-species used for evil.
+00:12:55,147 --> 00:12:56,837
+He was nothing, sir.
 
 159
-00:12:38,542 --> 00:12:44,546
-He read that he had lost. Not narrowly. Totally.
-His country had been cut in half and
+00:12:57,236 --> 00:13:01,486
+Said pleasantly. Said the way another man
+confirms a lunch order.
 
 160
-00:12:44,566 --> 00:12:51,138
-rebuilt by the men he had despised, and it had become,
-of all things, prosperous and peaceful
+00:13:02,006 --> 00:13:04,668
+Mr. Gus. How many doors are there
+in this building?
 
 161
-00:12:51,158 --> 00:12:51,776
-and dull.
+00:13:05,068 --> 00:13:10,318
+Three hundred and sixteen, Director. Three hundred
+and seventeen if you count the one
 
 162
-00:12:53,546 --> 00:12:56,504
-If you were hoping he felt
-remorse, he did not.
+00:13:10,338 --> 00:13:13,108
+in the basement that doesn't go
+anywhere yet.
 
 163
-00:12:57,073 --> 00:13:03,565
-What he felt, reading the verdict of history on a
-cheap monitor in the rain, was not guilt.
+00:13:13,508 --> 00:13:16,498
+Wesker's head turned, very slightly.
 
 164
-00:13:03,585 --> 00:13:09,719
-It was humiliation. The fury of a man who has been
-told that he was not merely wicked,
+00:13:17,018 --> 00:13:17,149
+Yet.
 
 165
-00:13:09,739 --> 00:13:10,506
-but beaten.
+00:13:17,548 --> 00:13:18,658
+Yes, sir.
 
 166
-00:13:11,197 --> 00:13:12,904
-They made me a word.
+00:13:19,057 --> 00:13:24,527
+And then, because he had never been willing to take
+a thing on trust when he could test
 
 167
-00:13:13,424 --> 00:13:17,536
-They made you a warning. There's a
-difference. A word can still be used.
+00:13:24,547 --> 00:13:29,892
+it instead, he did something quiet and
+unforgivable. He looked at Marguerite, who was
 
 168
-00:13:18,057 --> 00:13:24,096
-I will not be pitied by a laboratory rat who was
-killed by two soldiers in a hole.
+00:13:29,912 --> 00:13:35,698
+twenty-four years old and had a photograph of a dog on
+her desk, and he said, in a perfectly
 
 169
-00:13:24,615 --> 00:13:30,211
-Then let's be precise, shall we? We both lost. You
-had a nation, and you lost it. I had
+00:13:35,718 --> 00:13:36,456
+level voice:
 
 170
-00:13:30,231 --> 00:13:35,697
-a virus that could have remade the species, and I
-lost that too. And do you know why?
+00:13:36,976 --> 00:13:40,753
+Put your hand flat on the desk and hold it there.
+I am going to break your finger.
 
 171
-00:13:35,717 --> 00:13:36,408
-Both of us?
+00:13:41,153 --> 00:13:43,123
+She put her hand flat on the desk.
 
 172
-00:13:37,726 --> 00:13:43,681
-The man at the desk leaned back in the chair, and the
-monitor glow slid across his face,
+00:13:43,798 --> 00:13:49,307
+She did not hesitate. She did not look down at it.
+She did not look at him. She simply
 
 173
-00:13:43,701 --> 00:13:48,298
-and for a moment both halves of him were
-perfectly, terribly silent.
+00:13:49,327 --> 00:13:54,902
+laid her hand on the wood and waited, wearing the
+same pleasant, patient expression she
 
 174
-00:13:48,989 --> 00:13:50,863
-You lost because they saw you coming.
+00:13:54,922 --> 00:14:00,367
+had worn thirty seconds earlier, while the dog in
+the photograph went on being a dog.
 
 175
-00:13:52,263 --> 00:13:57,442
-You told them. You wrote it in a book. You shouted
-it into microphones. You put it on
+00:14:00,768 --> 00:14:05,498
+Nobody in the line moved to stop him.
+Nobody in the line looked away.
 
 176
-00:13:57,462 --> 00:14:02,824
-banners. You gave the whole world ten years' notice.
-And the moment they understood what
+00:14:06,238 --> 00:14:07,704
+Thank you. Take your hand back.
 
 177
-00:14:02,844 --> 00:14:05,087
-you were, they united to destroy you.
+00:14:08,104 --> 00:14:14,370
+She did. Wesker considered his own gloved hand for a
+moment. Then he looked at the eleven
 
 178
-00:14:05,488 --> 00:14:11,217
-And I did the same thing. I stood on a stage and
-announced my plan to the only two people
+00:14:14,390 --> 00:14:20,374
+of them, and something in him that had spent
+thirty-one years managing ambitious men,
 
 179
-00:14:11,237 --> 00:14:12,380
-who could stop it.
+00:14:20,394 --> 00:14:26,661
+frightened men, men who had to be bribed and
+blackmailed and buried, settled at last into
 
 180
-00:14:12,899 --> 00:14:15,120
-And what would you do instead?
+00:14:26,681 --> 00:14:27,085
+place.
 
 181
-00:14:15,639 --> 00:14:16,850
-Nothing they could see.
+00:14:27,605 --> 00:14:30,279
+Nobody has ever been able to give me this.
 
 182
-00:14:18,870 --> 00:14:20,117
-The rain went on.
+00:14:31,308 --> 00:14:39,825
+Roster detail. Eleven Absolute personnel. Loyalty is
+not a variable. They will not question,
 
 183
-00:14:20,687 --> 00:14:25,398
-Somewhere in the building a freezer compressor
-kicked on, and hummed, and settled.
+00:14:39,845 --> 00:14:46,227
+resign, testify or hesitate. They are not
+machines. They can be lost.
 
 184
-00:14:25,967 --> 00:14:32,215
-And inside one skull, two of the most dangerous minds
-that had ever existed — in any world
+00:14:46,817 --> 00:14:49,038
+It was the last line he read twice.
 
 185
-00:14:32,235 --> 00:14:35,279
-— came, for the first time, to
-an agreement.
+00:14:49,437 --> 00:14:55,199
+He spent the day reading. Pell's folder: the
+corporation, the accounts, the leases, the
 
 186
-00:14:37,350 --> 00:14:41,225
-Dawn came up over the Christina River,
-grey and then gold.
+00:14:55,219 --> 00:15:01,048
+thirty-year history of a company that had never done
+anything and had never quite failed
 
 187
-00:14:41,796 --> 00:14:48,037
-The rain stopped. The industrial park woke up in the
-ordinary way: a delivery truck, a
+00:15:01,068 --> 00:15:06,962
+either. Voss's folder: four research programmes, none
+of them going anywhere, all of them
 
 188
-00:14:48,057 --> 00:14:54,444
-gull, a man in a hi-vis vest yawning by a loading
-dock. Nobody looked at the third-floor
+00:15:06,982 --> 00:15:07,427
+funded.
 
 189
-00:14:54,464 --> 00:14:59,759
-window of the brick building with the faded
-sign. There was no reason to.
+00:15:07,827 --> 00:15:13,617
+By six he had the shape of it, and by six he
+understood the joke the System had made at
 
 190
-00:15:00,327 --> 00:15:06,058
-Behind that window, a man in a long black coat
-stood with his hands folded behind his
+00:15:13,637 --> 00:15:19,626
+his expense. It had not given him a garage. It had
+given him something worse — a perfectly
 
 191
-00:15:06,078 --> 00:15:08,222
-back and watched the day arrive.
+00:15:19,646 --> 00:15:25,436
+respectable, perfectly solvent, perfectly invisible
+research institute of no importance
 
 192
-00:15:08,793 --> 00:15:14,952
-He had seven days. He had no money, no army, no
-name that anyone recognised. He had a
+00:15:25,456 --> 00:15:30,778
+whatsoever. A door into the world, and nothing on
+the other side of it but work.
 
 193
-00:15:14,972 --> 00:15:21,278
-company that was barely a company, a virus that was
-slowly eating him, and a machine in
+00:15:31,177 --> 00:15:36,771
+The other voice had been silent all day. Now, at the
+window, in the grey light off the
 
 194
-00:15:21,298 --> 00:15:25,786
-the air that promised him the world in
-exchange for taking it.
+00:15:36,791 --> 00:15:42,319
+river, it stirred at last: an older voice, rougher,
+sitting further back in the skull
 
 195
-00:15:26,355 --> 00:15:30,762
-He picked up the sunglasses from the desk, and
-looked at them, and put them on.
+00:15:42,339 --> 00:15:44,408
+than any thought has a right to.
 
 196
-00:15:31,451 --> 00:15:33,387
-They didn't see you coming
-either, you know.
+00:15:44,927 --> 00:15:45,907
+Where are they?
 
 197
-00:15:33,907 --> 00:15:34,814
+00:15:46,307 --> 00:15:46,542
 Who?
 
 198
-00:15:35,333 --> 00:15:39,081
-The world. In nineteen thirty-three. They
-thought you were a clown.
+00:15:46,942 --> 00:15:53,256
+The crowd. There is a hall downstairs with five
+hundred chairs in it. You have no one
 
 199
-00:15:39,600 --> 00:15:40,668
-And then?
+00:15:53,276 --> 00:15:54,374
+to put in them.
 
 200
-00:15:41,188 --> 00:15:44,937
-Behind the dark lenses, the eyes
-flared red, and faded.
+00:15:54,774 --> 00:15:59,188
+I have eleven people who would walk into a fire if I
+pointed at it. That is not a crowd.
 
 201
-00:15:45,626 --> 00:15:46,630
-And then they learned.
+00:15:59,208 --> 00:15:59,943
+That is a tool.
 
 202
-00:15:48,150 --> 00:15:50,815
-The last of the night drained
-out of the sky.
+00:16:00,344 --> 00:16:04,925
+A tool cannot carry you. Eleven people
+cannot shout a name.
 
 203
-00:15:51,385 --> 00:15:57,184
-And on the third floor of a building nobody had ever
-wondered about, Umbrella's new director
+00:16:05,325 --> 00:16:10,118
+Eleven people do not need to. That was always your
+error. You built a country out of shouting,
 
 204
-00:15:57,204 --> 00:15:58,006
-went to work.
+00:16:10,138 --> 00:16:14,419
+and it came down in twelve years, because a shout
+is the only thing a shout can buy.
+
+205
+00:16:15,038 --> 00:16:16,671
+And what will yours buy?
+
+206
+00:16:17,071 --> 00:16:17,852
+Signatures.
+
+207
+00:16:18,251 --> 00:16:23,778
+There was a silence then, and the narrator will tell
+you plainly that it was not a friendly
+
+208
+00:16:23,798 --> 00:16:24,021
+one.
+
+209
+00:16:24,542 --> 00:16:30,531
+You will need a crowd eventually. When that day
+comes you will not know how to stand in
+
+210
+00:16:30,551 --> 00:16:36,540
+front of it. I watched you this morning with those
+eleven. You are magnificent at close
+
+211
+00:16:36,560 --> 00:16:39,234
+range, and at fifty metres you are ice.
+
+212
+00:16:39,634 --> 00:16:40,509
+Sixteen.
+
+213
+00:16:40,908 --> 00:16:41,454
+What?
+
+214
+00:16:41,852 --> 00:16:43,168
+Nothing. Go to sleep.
+
+215
+00:16:43,567 --> 00:16:49,309
+He did not say the rest of it aloud, which was that the
+System had put a number on precisely
+
+216
+00:16:49,329 --> 00:16:54,882
+the thing this passenger in his skull was good at —
+and that he was going to have to make
+
+217
+00:16:54,902 --> 00:17:00,518
+use of him, and that he expected to enjoy it about as
+much as a surgeon enjoys a splinter.
+
+218
+00:17:00,918 --> 00:17:06,628
+At eight o'clock he set the sunglasses on and looked
+at his own reflection in the black
+
+219
+00:17:06,648 --> 00:17:12,359
+window — over the river, over a city that had
+rearranged its own memory that morning to
+
+220
+00:17:12,379 --> 00:17:15,258
+make room for him, and had not
+felt a thing.
+
+221
+00:17:15,657 --> 00:17:21,517
+Somewhere below him, three hundred and seventeen
+doors. One of them did not go anywhere
+
+222
+00:17:21,537 --> 00:17:21,787
+yet.
+
+223
+00:17:22,307 --> 00:17:24,250
+Thirty-one years, last time.
+
+224
+00:17:24,651 --> 00:17:26,000
+He turned off the light.
+
+225
+00:17:26,520 --> 00:17:27,000
+Three.

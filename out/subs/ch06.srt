@@ -1,776 +1,858 @@
 1
-00:00:07,799 --> 00:00:10,519
-Howard Lessing wrote the paper
-in four nights.
+00:00:07,799 --> 00:00:12,070
+The problem with the building that had always
+been there was that it was full.
 
 2
-00:00:11,089 --> 00:00:16,906
-He wrote it at his kitchen table after his wife had
-gone to bed, with a glass of Scotch
+00:00:12,470 --> 00:00:18,534
+Fifty-one staff in a laboratory designed for
+thirty. Evelyn's archive work had spread
 
 3
-00:00:16,926 --> 00:00:22,608
-he did not drink and the blue drive plugged into
-the side of his laptop, and he wrote
+00:00:18,554 --> 00:00:24,906
+across two floors and a corridor. Voss's vector
+platform — four constructs, eleven weeks,
 
 4
-00:00:22,628 --> 00:00:28,310
-it better than anything he had written in twenty
-years. It was twenty-two pages long.
+00:00:24,926 --> 00:00:31,206
+exactly as he had said — needed a suite of its own,
+and the regulatory group was working
 
 5
-00:00:28,330 --> 00:00:34,414
-It had four figures. Its title was A Novel
-Replication-Competent Viral Signature Associated
+00:00:31,226 --> 00:00:33,639
+out of what had been a break room.
 
 6
-00:00:34,435 --> 00:00:38,439
-With Extreme Proliferative Repair in
-Human Peripheral Blood.
+00:00:34,039 --> 00:00:40,327
+Catherine Adeyemi, four weeks into the job, brought
+him a plan for a leased facility in
 
 7
-00:00:39,009 --> 00:00:41,039
-It did not mention whose blood.
+00:00:40,347 --> 00:00:46,779
+the New Castle corridor: nine months, twenty-two
+million dollars, a construction schedule
 
 8
-00:00:41,609 --> 00:00:47,524
-He also wrote an email. It was shorter. It was
-addressed to a vice-president of research
+00:00:46,799 --> 00:00:48,229
+and a risk register.
 
 9
-00:00:47,544 --> 00:00:53,323
-at Verdant Axis Therapeutics, a man named Simon
-Ferris who had once tried to hire him,
+00:00:48,750 --> 00:00:48,892
+No.
 
 10
-00:00:53,343 --> 00:00:59,527
-and it said that Doctor Lessing had come into
-possession of data of extraordinary scientific
+00:00:49,292 --> 00:00:53,936
+It's the only available shell space of that size
+within thirty miles. I have looked at
 
 11
-00:00:59,547 --> 00:01:05,462
-and commercial interest, and would welcome a
-confidential conversation about his future.
+00:00:53,956 --> 00:00:54,423
+fourteen.
 
 12
-00:01:06,031 --> 00:01:12,116
-He told himself these were two separate things. The
-paper was for science, and for history,
+00:00:54,823 --> 00:00:56,613
+I don't want a shell. I want the block.
 
 13
-00:01:12,136 --> 00:01:18,019
-and for the prize that had been promised to him at a
-conference in nineteen ninety-four.
+00:00:57,014 --> 00:01:03,029
+He turned the window into a map with one gloved
+finger: the four brick buildings along
 
 14
-00:01:18,039 --> 00:01:20,031
-The email was for his pension.
+00:01:03,049 --> 00:01:09,065
+the riverfront south of their own — a dead
+cold-storage warehouse, a machine shop that
 
 15
-00:01:20,602 --> 00:01:26,406
-He saved them both as drafts. He would send them on
-Tuesday night, from the lab, after
+00:01:09,085 --> 00:01:15,101
+had folded in 2019, a two-storey office nobody had
+leased in six years, and a lot with
 
 16
-00:01:26,426 --> 00:01:28,845
-the preprint server's weekly update.
+00:01:15,121 --> 00:01:15,944
+weeds in it.
 
 17
-00:01:30,614 --> 00:01:35,881
-On Monday morning, the Director held his weekly
-meeting in the break room, and Howard
+00:01:16,463 --> 00:01:21,026
+Those are four separate owners, two of them estates,
+one of them in litigation. That is
 
 18
-00:01:35,901 --> 00:01:41,230
-Lessing sat at the far end of the table and tried to
-look like a man who had spent the
+00:01:21,046 --> 00:01:23,766
+two years of conveyancing, if it
+can be done at all.
 
 19
-00:01:41,250 --> 00:01:42,350
-weekend gardening.
+00:01:24,165 --> 00:01:26,246
+Then it will be a busy weekend.
 
 20
-00:01:42,920 --> 00:01:48,680
-It did not work. It would not have worked on anyone
-paying attention. It certainly did
+00:01:27,278 --> 00:01:35,387
+Facilities. Research Building, four storeys, fitted:
+nine thousand. Logistics and Warehouse:
 
 21
-00:01:48,700 --> 00:01:54,596
-not work on a man who could now read the human face
-the way other people read subtitles.
+00:01:35,407 --> 00:01:42,898
+six thousand. Data Hall, four hundred racks,
+powered: seventeen thousand. Auditorium,
 
 22
-00:01:55,165 --> 00:02:01,117
-Guilt, in the crease beside his eye. Fear, in the
-way he held his cup with both hands.
+00:01:42,918 --> 00:01:51,204
+five hundred seats: five thousand. Service road,
+perimeter wall and gatehouse: three thousand.
 
 23
-00:02:01,137 --> 00:02:07,157
-And under them both, a thing the Cold-Read had no
-single word for — a kind of trembling
+00:01:51,224 --> 00:01:57,567
+Campus integration — deeds, permits,
+utilities, local record — included.
 
 24
-00:02:07,177 --> 00:02:13,128
-exultation, like a man standing on the edge of a
-high diving board, about to jump, and
+00:01:58,156 --> 00:02:04,121
+Thirty-four thousand Points. He had thirty-four
+thousand four hundred, because the quarter
 
 25
-00:02:13,148 --> 00:02:15,280
-sure the water would catch him.
+00:02:04,141 --> 00:02:10,106
+had been very good and because the System paid for
+growth the way a furnace pays for coal.
 
 26
-00:02:15,850 --> 00:02:21,233
-The Director said nothing. He talked about the
-solvent store, and the Shenzhen licence,
+00:02:10,627 --> 00:02:11,246
+All of it.
 
 27
-00:02:21,253 --> 00:02:24,462
-and the new coffee. He did not look
-at Lessing once.
+00:02:11,645 --> 00:02:14,265
+That will leave you four hundred Points.
 
 28
-00:02:26,033 --> 00:02:29,351
-At noon, Hale came to his office
-and closed the door.
+00:02:14,665 --> 00:02:16,735
+I am aware of what subtraction is.
 
 29
-00:02:30,040 --> 00:02:35,632
-Doctor Lessing has two drafts saved to the building's
-mail server, Director. One is addressed
+00:02:17,135 --> 00:02:18,418
+Confirm placement.
 
 30
-00:02:35,652 --> 00:02:40,942
-to a preprint service. One to a Simon Ferris, at
-Verdant Axis. He's also copied fourteen
+00:02:18,818 --> 00:02:23,981
+The four parcels south of this building and the
+vacant lot. Research on the corner, the
 
 31
-00:02:40,962 --> 00:02:45,045
-gigabytes from analyzer three to a
-removable drive. I have the logs.
+00:02:24,001 --> 00:02:29,045
+data hall behind it where nobody can see the
+transformers, logistics against the rail
 
 32
-00:02:45,567 --> 00:02:46,719
-Of course you do.
+00:02:29,065 --> 00:02:31,070
+spur, the auditorium on the water.
 
 33
-00:02:47,240 --> 00:02:49,126
-Shall I take the drive?
+00:02:31,471 --> 00:02:38,455
+The estate in litigation will require the record to
+be adjusted in three counties and
 
 34
-00:02:49,645 --> 00:02:50,820
-No. Let him bring it.
+00:02:38,475 --> 00:02:39,938
+one probate court.
 
 35
-00:02:52,540 --> 00:02:57,651
-The argument happened on the drive home that
-night. It was the first real one.
+00:02:40,338 --> 00:02:43,685
+Then adjust it in three counties and
+one probate court.
 
 36
-00:02:58,342 --> 00:03:00,003
-He is a traitor.
+00:02:44,305 --> 00:02:50,317
+Confirmed. Placement will complete between
+Friday 01:00 and Saturday 04:00.
 
 37
-00:03:00,521 --> 00:03:03,314
-He's a disappointed old man with
-a thumb drive.
+00:02:50,717 --> 00:02:54,387
+He stood at the window for a while
+after the panel closed.
 
 38
-00:03:03,836 --> 00:03:10,166
-He stole from you. He is going to sell you to your
-enemy. In my time a man like that was
+00:02:54,788 --> 00:02:56,117
+The other voice stirred.
 
 39
-00:03:10,186 --> 00:03:15,506
-not dismissed. He was made an example. So that
-the next man would not try.
+00:02:56,638 --> 00:02:58,389
+You have spent everything.
 
 40
-00:03:16,026 --> 00:03:21,230
-In your time you had a secret police and a country
-that didn't ask questions. Here, if
+00:02:58,790 --> 00:02:59,165
+Yes.
 
 41
-00:03:21,250 --> 00:03:26,393
-Howard Lessing disappears, his wife calls the
-Wilmington police on Wednesday morning,
+00:02:59,564 --> 00:03:06,258
+Again. As you did in September. You are a man who
+empties his pockets every time he is
 
 42
-00:03:26,413 --> 00:03:31,799
-and the Wilmington police call his colleagues, and
-one of his colleagues is Nadia Okafor,
+00:03:06,278 --> 00:03:07,429
+given anything.
 
 43
-00:03:31,819 --> 00:03:34,289
-who is already measuring me for a coffin.
+00:03:07,830 --> 00:03:12,062
+I am a man who understands that Points are not
+money. Money compounds if you leave it
 
 44
-00:03:34,808 --> 00:03:37,540
-Then do it so that nobody calls.
+00:03:12,082 --> 00:03:16,314
+alone. Points do not. They are a voucher, and
+vouchers expire the moment someone else
 
 45
-00:03:38,061 --> 00:03:43,026
-Listen to me very carefully. We are not doing
-that. Not now. Not for this.
+00:03:16,334 --> 00:03:18,165
+builds the thing you were saving for.
 
 46
-00:03:44,346 --> 00:03:46,651
-For a while there was only the road.
+00:03:18,566 --> 00:03:22,969
+And if something is needed next week and
+there is nothing left?
 
 47
-00:03:47,342 --> 00:03:48,474
-Then what?
+00:03:23,368 --> 00:03:28,011
+Then I will be four hundred Points and five buildings
+richer than I was, and I will earn
 
 48
-00:03:48,995 --> 00:03:54,823
-A dead man is a problem. A frightened man is an
-asset. I don't want Howard Lessing gone.
+00:03:28,031 --> 00:03:32,515
+more, because that is what the machine pays me for.
+It does not pay me to be careful.
 
 49
-00:03:54,843 --> 00:03:55,887
-I want him mine.
+00:03:32,535 --> 00:03:33,310
+Read the terms.
 
 50
-00:03:56,407 --> 00:04:00,995
-A man who is afraid of you is not
-yours. He is only afraid.
+00:03:33,711 --> 00:03:39,749
+On Friday night the riverfront south of Division
+Seven was four derelict lots and a weed
 
 51
-00:04:01,514 --> 00:04:05,520
-That's what you never understood. For most
-men, it's the same thing.
+00:03:39,769 --> 00:03:40,163
+patch.
 
 52
-00:04:07,540 --> 00:04:13,411
-On Tuesday night, at eight minutes to midnight,
-Howard Lessing sat alone in lab two with
+00:03:40,562 --> 00:03:42,942
+On Saturday morning it was a campus.
 
 53
-00:04:13,431 --> 00:04:17,494
-the blue drive plugged in and both
-drafts open on the screen.
+00:03:43,342 --> 00:03:49,130
+A four-storey research building in white stone that
+matched the first, with its glass
 
 54
-00:04:18,062 --> 00:04:24,095
-The building was empty. He had checked. Tomás had
-left at six, Evelyn at ten — early,
+00:03:49,150 --> 00:03:55,144
+already grimy at the corners the way glass gets. A
+data hall with a transformer yard and
 
 55
-00:04:24,115 --> 00:04:30,147
-for her. Walter was off. The new security man,
-Hale, was supposedly doing rounds, but
+00:03:55,164 --> 00:04:01,363
+a chain-link fence that had been repaired twice. A
+logistics building with a loading apron,
 
 56
-00:04:30,167 --> 00:04:35,843
-Lessing had not seen him since eight, and had
-decided that the new man was lazy.
+00:04:01,383 --> 00:04:07,172
+bay numbers painted on the concrete and a fork-lift
+charging inside. An auditorium on
 
 57
-00:04:36,413 --> 00:04:42,252
-His finger was on the trackpad. The cursor was on the
-button. He had imagined this moment
+00:04:07,192 --> 00:04:13,049
+the water with five hundred seats in dark red
+fabric, three of them stained. A service
 
 58
-00:04:42,272 --> 00:04:47,914
-for thirty years, and in all thirty years it had
-looked like a stage in Stockholm, and
+00:04:13,069 --> 00:04:18,926
+road with a gatehouse, a striped barrier and a
+logbook with eight months of entries in
 
 59
-00:04:47,934 --> 00:04:53,972
-not like a dim lab in an industrial park with a
-flickering tube and the smell of old bleach.
+00:04:18,946 --> 00:04:20,362
+four different hands.
 
 60
-00:04:54,540 --> 00:04:55,675
-He took a breath.
+00:04:20,762 --> 00:04:25,701
+And on every door, in crimson, six curved
+blades folded into a circle.
 
 61
-00:04:57,365 --> 00:04:58,946
-It's a good paper, Howard.
+00:04:26,101 --> 00:04:31,876
+The narrator will now tell you what this actually
+looked like from the inside of a normal
 
 62
-00:04:59,466 --> 00:05:03,956
-Lessing made a sound that was not quite a
-word, and spun the chair around.
+00:04:31,896 --> 00:04:37,540
+human life, because this is the part of the story
+that people always skip and it is the
 
 63
-00:05:04,526 --> 00:05:10,035
-The Director was standing directly behind him. Close
-enough to touch. Lessing had been
+00:04:37,560 --> 00:04:38,711
+part that matters.
 
 64
-00:05:10,055 --> 00:05:15,630
-facing the lab door, which was the only door, which
-was forty feet away across an empty
+00:04:39,112 --> 00:04:45,980
+On Monday morning, a planner in the City of Wilmington's
+Department of Licenses and Inspections
 
 65
-00:05:15,650 --> 00:05:20,967
-room, and which had not opened. He knew it had not
-opened. He had been watching it.
+00:04:46,000 --> 00:04:52,578
+opened her file on the riverfront overlay district,
+because a colleague had asked a routine
 
 66
-00:05:21,656 --> 00:05:23,875
-How — I didn't — how long have you —
+00:04:52,598 --> 00:04:59,031
+question about parking ratios. In the file were the
+permits for the Umbrella campus: four
 
 67
-00:05:24,394 --> 00:05:30,151
-The figures are excellent. Figure three especially. The
-division curve. You've found something
+00:04:59,051 --> 00:05:05,484
+buildings, phased between 2004 and 2011, signed off
+by her predecessor and, in two cases,
 
 68
-00:05:30,171 --> 00:05:35,683
-nobody has ever found, and you've described it
-clearly, and you've drawn exactly the right
+00:05:05,504 --> 00:05:05,992
+by her.
 
 69
-00:05:35,703 --> 00:05:37,835
-conclusion. It's a very good paper.
+00:05:06,391 --> 00:05:12,270
+She recognised her own handwriting. She recognised
+her own initials. She could remember
 
 70
-00:05:38,834 --> 00:05:40,052
-It's also my blood.
+00:05:12,290 --> 00:05:16,202
+the argument about the auditorium's
+height, and losing it.
 
 71
-00:05:42,072 --> 00:05:45,692
-Lessing did not understand him at
-first. Then he did.
+00:05:16,601 --> 00:05:22,142
+She sat and looked at that for about forty seconds.
+Then she closed the file, and finished
 
 72
-00:05:46,262 --> 00:05:52,575
-Control Seven. The calibration sample. The tube the
-Director had handed Tomás with his
+00:05:22,162 --> 00:05:27,393
+her coffee, and answered the question about parking
+ratios, because there was nothing
 
 73
-00:05:52,595 --> 00:05:53,237
-own hand.
+00:05:27,413 --> 00:05:33,016
+in the file that was wrong, and because the
+alternative to believing the file was believing
 
 74
-00:05:53,928 --> 00:05:59,242
-That's — no. That's not possible. Those cells —
-nothing human does that. Nothing —
+00:05:33,036 --> 00:05:37,032
+something that no one in the world would
+have believed her about.
 
 75
-00:05:59,762 --> 00:06:01,932
-The Director took off his sunglasses.
+00:05:37,432 --> 00:05:43,570
+This is how it went, every time, for sixty-five
+years. Not one person was fooled by an
 
 76
-00:06:03,502 --> 00:06:04,908
-His eyes were red.
+00:05:43,590 --> 00:05:49,658
+argument. They were simply handed an unbroken
+record, and left alone with it, and the
 
 77
-00:06:05,478 --> 00:06:11,554
-Not bloodshot. Red, the way a coal is red. And the
-pupils were not round. They were narrow
+00:05:49,678 --> 00:05:52,881
+human mind does the rest
+without being asked.
 
 78
-00:06:11,574 --> 00:06:17,651
-and vertical, like a cat's, like a snake's, and they
-widened, very slightly, as they found
+00:05:53,281 --> 00:05:55,872
+There was one exception, and he
+was nineteen.
 
 79
-00:06:17,671 --> 00:06:20,293
-Howard Lessing's face in the lamplight.
+00:05:56,271 --> 00:06:01,827
+A hobbyist called Marcus Reese had been flying a
+drone along the Christina for two years
 
 80
-00:06:20,862 --> 00:06:26,884
-Lessing had been a scientist for thirty-four years.
-He did not believe in monsters. And
+00:06:01,847 --> 00:06:07,276
+and had eleven hundred photographs of that stretch
+of water. On the Sunday he went out
 
 81
-00:06:26,904 --> 00:06:32,856
-in that moment, looking up into those eyes from a
-cheap office chair, some part of his
+00:06:07,296 --> 00:06:12,661
+to shoot the tide and came home and looked at his
+own archive, and the buildings were
 
 82
-00:06:32,876 --> 00:06:38,829
-mind older than science — older than language —
-understood exactly what it was looking
+00:06:12,681 --> 00:06:18,173
+in it. In shots from 2024. In shots from the summer
+before that. In a photograph he had
 
 83
-00:06:38,849 --> 00:06:40,981
-at, and screamed at him to run.
+00:06:18,193 --> 00:06:20,771
+taken on his birthday with his own hands.
 
 84
-00:06:41,552 --> 00:06:44,848
-He did not run. He could not make
-his legs work.
+00:06:21,170 --> 00:06:26,610
+He posted about it. Eight people replied. Three
+explained he had mislabelled his folders,
 
 85
-00:06:47,038 --> 00:06:49,044
-Nothing human does that. You're right.
+00:06:26,630 --> 00:06:31,824
+four made jokes, and one — an account with a
+cartoon frog for a picture — told him it
 
 86
-00:06:50,444 --> 00:06:54,925
-So let me tell you what happens next, Howard,
-and then you're going to choose.
+00:06:31,844 --> 00:06:37,222
+was happening everywhere and had been for years, and
+sent him a forum link, and that was
 
 87
-00:06:55,446 --> 00:07:01,082
-He pulled a second chair around, and sat down
-facing Lessing, knee to knee, the way a
+00:06:37,242 --> 00:06:42,436
+worse than being laughed at, because that was the
+moment Marcus Reese understood that
 
 88
-00:07:01,102 --> 00:07:03,012
-doctor sits when he has news.
+00:06:42,456 --> 00:06:47,834
+being right and being believed were going to be two
+different things for the rest of his
 
 89
-00:07:03,701 --> 00:07:09,068
-If you press that button, the preprint goes live
-tomorrow at nine. It will be the most-read
+00:06:47,854 --> 00:06:48,141
+life.
 
 90
-00:07:09,088 --> 00:07:14,100
-paper in the world for about nineteen days. Then
-someone will ask for the sample. And
+00:06:48,540 --> 00:06:54,947
+He went quiet for four years. He comes back in 2031,
+and by then he is very good at this,
 
 91
-00:07:14,120 --> 00:07:19,250
-there won't be one. The analyzer's memory was wiped
-this afternoon — a firmware update,
+00:06:54,967 --> 00:06:57,691
+and by then it does not matter at all.
 
 92
-00:07:19,270 --> 00:07:24,637
-very routine, Gus has the ticket. Tomás remembers
-running a calibration that failed because
+00:06:58,091 --> 00:07:04,337
+On Monday morning, four hundred and six people —
+everyone from Division Seven and everyone
 
 93
-00:07:24,657 --> 00:07:29,787
-the reagents were bad. He's told Dana so, in
-writing. There's no Control Seven. There's
+00:07:04,357 --> 00:07:10,811
+from the Newark plant, bussed down at company expense —
+sat in a five-hundred-seat auditorium
 
 94
-00:07:29,807 --> 00:07:34,938
-no data. There's a fifty-eight-year-old scientist
-who was passed over his whole career,
+00:07:10,831 --> 00:07:16,521
+that had not existed on Friday, and waited for the
+Director to explain the campus.
 
 95
-00:07:34,958 --> 00:07:39,969
-who stole files from his employer, emailed a
-competitor for a job the same night, and
+00:07:16,920 --> 00:07:22,990
+Wesker stood backstage in the dark with his hands
+behind his back, and did something he
 
 96
-00:07:39,989 --> 00:07:43,936
-fabricated the most extraordinary result
-in the history of biology.
+00:07:23,010 --> 00:07:27,750
+had not done since the volcano, and would
+not do again for a decade.
 
 97
-00:07:45,136 --> 00:07:50,922
-Simon Ferris will forward your email to Verdant's
-lawyers inside an hour. Your pension
+00:07:28,151 --> 00:07:29,381
+He asked for help.
 
 98
-00:07:50,942 --> 00:07:56,661
-goes. Your name goes. And every obituary they
-eventually write about you will mention
+00:07:29,901 --> 00:07:31,019
+Say something useful.
 
 99
-00:07:56,681 --> 00:07:58,484
-it in the second paragraph.
+00:07:31,418 --> 00:07:34,800
+You will walk out there and tell
+them the facts.
 
 100
-00:08:00,004 --> 00:08:01,544
-And — the other choice?
+00:07:35,199 --> 00:07:40,036
+I will tell them the truth, which is that we are the
+fastest-growing diagnostics company
 
 101
-00:08:02,663 --> 00:08:07,968
-You delete them. Both. Yourself, now, while I watch.
-You give me the drive. And you stay.
+00:07:40,056 --> 00:07:43,458
+in North America and that there is a
+great deal of work to do.
 
 102
-00:08:07,988 --> 00:08:13,114
-You keep your job, and your salary goes up in
-January, and one day — not soon, but one
+00:07:43,858 --> 00:07:49,437
+And they will clap, and they will go back to their
+benches, and by Thursday it will be
 
 103
-00:08:13,134 --> 00:08:17,421
-day — you get to see what that blood becomes.
-You get to be in the room.
+00:07:49,457 --> 00:07:54,516
+as though you had sent an email. Listen to me.
+What do they feel this morning?
 
 104
-00:08:19,141 --> 00:08:24,601
-Somewhere below them, very faint through the floor,
-a compressor cycled. A long, slow
+00:07:54,918 --> 00:08:00,364
+Frightened. The plant workers think the Wilmington
+staff look down on them. The Wilmington
 
 105
-00:08:24,621 --> 00:08:25,053
-breath.
+00:08:00,384 --> 00:08:05,770
+staff think the plant means the science is over.
+Everyone in that room saw four buildings
 
 106
-00:08:25,622 --> 00:08:30,998
-Lessing did not know what was in the basement. He
-would not know for years. But he heard
+00:08:05,790 --> 00:08:09,293
+appear over a weekend and has decided
+not to ask about it.
 
 107
-00:08:31,018 --> 00:08:36,393
-the sound, and he saw the Director glance down toward
-it, just once, with something that
+00:08:09,694 --> 00:08:11,669
+Then do not reassure them.
 
 108
-00:08:36,413 --> 00:08:41,604
-looked almost like affection — and for the rest of
-his life, when he could not sleep,
+00:08:12,069 --> 00:08:12,664
+Go on.
 
 109
-00:08:41,624 --> 00:08:43,933
-Howard Lessing would hear that breath.
+00:08:13,064 --> 00:08:19,030
+Reassurance is what a manager gives. Give them the
+fear itself, out loud, in your own
 
 110
-00:08:46,004 --> 00:08:47,790
-He turned back to the laptop.
+00:08:19,050 --> 00:08:25,721
+mouth, before any of them dares say it. A crowd will
+forgive you for anything except pretending
 
 111
-00:08:48,360 --> 00:08:53,615
-He deleted the paper. He deleted the email. He
-emptied the trash folder without being
+00:08:25,741 --> 00:08:31,918
+that the thing in the room is not in the room. Name
+it. Then stand still and say nothing
 
 112
-00:08:53,635 --> 00:08:58,951
-asked, and then he opened the mail server's drafts
-folder and deleted it from there as
+00:08:31,938 --> 00:08:38,187
+for as long as you can bear it. Then give them
+something enormous to be afraid of instead
 
 113
-00:08:58,971 --> 00:09:04,287
-well, because he was a thorough man, and because he
-wanted — he did not know why — for
+00:08:38,207 --> 00:08:40,652
+— something that is not themselves.
 
 114
-00:09:04,307 --> 00:09:08,009
-the thing in front of him to see that
-he was being thorough.
+00:08:41,052 --> 00:08:41,972
+A pause.
 
 115
-00:09:08,580 --> 00:09:14,076
-Then he pulled the blue drive out of the laptop and
-held it out. His hand was shaking
+00:08:42,491 --> 00:08:43,586
+And the pause is how long?
 
 116
-00:09:14,096 --> 00:09:17,776
-so badly that the drive rattled
-against his wedding ring.
+00:08:43,986 --> 00:08:47,562
+Until it hurts. Then two seconds more.
 
 117
-00:09:18,346 --> 00:09:24,273
-The Director took it between his thumb and
-forefinger, and squeezed. The casing split.
+00:08:47,962 --> 00:08:53,952
+He walked out. No slides. No notes. No introduction
+— he had told Catherine to cut it.
 
 118
-00:09:24,293 --> 00:09:26,555
-The chip inside folded like foil.
+00:08:54,472 --> 00:08:57,122
+There are four buildings outside that
+were not there on Friday.
 
 119
-00:09:27,246 --> 00:09:32,185
-Thank you, Howard. Go home. Kiss your wife. Come in
-at nine tomorrow. Don't be late.
+00:08:58,293 --> 00:09:00,983
+Four hundred and six people
+stopped moving.
 
 120
-00:09:34,206 --> 00:09:39,592
-Howard Lessing walked out to the parking lot, and
-put one hand on the roof of his car,
+00:09:01,503 --> 00:09:06,001
+Nobody in this room is going to ask me how. I know
+that, because it is Monday and not
 
 121
-00:09:39,612 --> 00:09:41,290
-and was sick on the tarmac.
+00:09:06,021 --> 00:09:10,626
+one of you has asked. You have all decided,
+privately, to be adults about it, and to be
 
 122
-00:09:41,860 --> 00:09:47,538
-Then he drove home, very carefully, under the speed
-limit the whole way, and got into
+00:09:10,646 --> 00:09:14,242
+grateful, and to go back to work. I want
+you to know that I noticed.
 
 123
-00:09:47,558 --> 00:09:52,701
-bed beside his wife, and lay on his back in the
-dark until the sky went grey.
+00:09:14,961 --> 00:09:18,576
+I am not going to explain it to you today. I am
+going to tell you what it is for.
 
 124
-00:09:53,270 --> 00:09:57,377
-He came in at nine. He was not late. He
-was never late again.
+00:09:18,975 --> 00:09:21,216
+And then he gave them the enormous thing.
 
 125
-00:09:58,947 --> 00:10:05,072
-He was never loyal, either. That is important, and it
-is the thing the Director misjudged.
+00:09:21,735 --> 00:09:26,607
+Four hundred million people on this planet will be
+infected this year with something that
 
 126
-00:10:05,092 --> 00:10:11,011
-Howard Lessing would never love Umbrella, or believe
-in it, or want it to win. He would
+00:09:26,627 --> 00:09:31,664
+a nineteen-dollar test could have caught in nineteen
+minutes. Roughly one and a half million
 
 127
-00:10:11,031 --> 00:10:16,950
-only be afraid of it. And fear, in a man with
-nothing left to lose, has a half-life. It
+00:09:31,684 --> 00:09:36,830
+of them will die of it — not of anything exotic, not of
+anything incurable, but of a diagnosis
 
 128
-00:10:16,970 --> 00:10:19,135
-decays. Slowly. Like everything.
+00:09:36,850 --> 00:09:41,502
+that arrived three days late. Every one of those
+deaths is an *administrative* death.
 
 129
-00:10:21,955 --> 00:10:24,403
-Assessment. Traitor contained.
+00:09:41,522 --> 00:09:44,855
+Somebody, somewhere, decided that the
+test was too expensive.
 
 130
-00:10:28,509 --> 00:10:30,527
-Level up. Level four.
+00:09:45,134 --> 00:09:49,767
+I have made it thirty-one dollars. I will make it
+fourteen. I intend to make it free,
 
 131
-00:10:32,815 --> 00:10:35,958
-Three into Intelligence. Two into Defence.
+00:09:49,787 --> 00:09:54,419
+everywhere, and I intend for that to be the least
+interesting thing this company ever
 
 132
-00:10:36,648 --> 00:10:38,888
-You have made a man who hates you.
+00:09:54,439 --> 00:09:54,693
+does.
 
 133
-00:10:39,408 --> 00:10:44,230
-I've made a man who obeys me. Hate's a hobby.
-It doesn't show up to work.
+00:09:54,972 --> 00:09:59,156
+You are not going to be thanked for it. There will
+be no parade. In ten years, people
 
 134
-00:10:44,750 --> 00:10:48,869
-In my experience, hate shows up to
-everything eventually.
+00:09:59,176 --> 00:10:03,359
+will use what you built here the way they use tap
+water, and they will complain about
 
 135
-00:10:49,389 --> 00:10:54,893
-In your experience, you were surrounded by men who
-hated you and you had them shot. And
+00:10:03,379 --> 00:10:05,239
+it, and they will not know your names.
 
 136
-00:10:54,913 --> 00:10:56,164
-then you still lost.
+00:10:05,850 --> 00:10:10,301
+I will know your names. I know all of them now. That
+is the arrangement I am offering,
 
 137
-00:10:57,683 --> 00:11:01,790
-We shall see who is right about
-Howard Lessing.
+00:10:10,321 --> 00:10:13,109
+and it is the only one I have ever
+found worth making.
 
 138
-00:11:02,312 --> 00:11:04,387
-They would. It would take three years.
+00:10:13,509 --> 00:10:18,827
+He stopped talking. He did not say thank you, and he
+did not wait to be applauded, and
 
 139
-00:11:06,456 --> 00:11:08,807
-Evelyn Marsh noticed the next morning.
+00:10:18,847 --> 00:10:22,739
+he was three steps towards the wing
+before the room came apart.
 
 140
-00:11:09,378 --> 00:11:14,598
-She noticed because she noticed everything about the
-building now — she had started to
+00:10:23,139 --> 00:10:28,554
+They stood. All of them, in about a second and a
+half, including three hundred and eleven
 
 141
-00:11:14,618 --> 00:11:19,960
-think of it, privately, as hers. Howard Lessing had
-come in at nine exactly. He had said
+00:10:28,574 --> 00:10:33,868
+people who had been alive for nine weeks and
+fifty-one who had not, and a British chief
 
 142
-00:11:19,980 --> 00:11:25,139
-good morning to everyone, including Tomás, whom he
-had not said good morning to since
+00:10:33,888 --> 00:10:39,425
+financial officer at the back who found that she had
+got to her feet without having decided
 
 143
-00:11:25,159 --> 00:11:30,379
-two thousand twenty-two. He was working on a routine
-assay with the concentration of a
+00:10:39,445 --> 00:10:39,609
+to.
 
 144
-00:11:30,399 --> 00:11:35,680
-man defusing a bomb, and every few minutes, without
-seeming to know he was doing it, he
+00:10:40,759 --> 00:10:49,456
+Devotion. Four hundred and six personnel addressed.
+Morale: transformed. Thirty-four thousand
 
 145
-00:11:35,700 --> 00:11:36,898
-looked at the floor.
+00:10:49,476 --> 00:10:57,799
+four hundred Points. Level ten. Note: the passenger's
+craft is operationally significant.
 
 146
-00:11:37,589 --> 00:11:38,696
-Is Howard all right?
+00:10:57,819 --> 00:11:00,049
+Recommend continued use.
 
 147
-00:11:39,216 --> 00:11:40,685
-Howard's had a revelation.
+00:11:00,639 --> 00:11:07,074
+In the wing, in the dark, Albert Wesker stood with
+his back against a wall and read that
 
 148
-00:11:41,205 --> 00:11:42,523
-What kind of revelation?
+00:11:07,094 --> 00:11:10,448
+panel twice, and what he felt
+was not triumph.
 
 149
-00:11:43,043 --> 00:11:44,196
-The religious kind.
+00:11:10,969 --> 00:11:12,632
+*Recommend continued use.*
 
 150
-00:11:45,517 --> 00:11:51,262
-She looked at him for a long moment. He looked back,
-perfectly pleasant, sunglasses on,
+00:11:13,033 --> 00:11:14,162
+You are welcome.
 
 151
-00:11:51,282 --> 00:11:52,721
-and did not elaborate.
+00:11:14,562 --> 00:11:16,516
+I had them in twenty-one sentences.
 
 152
-00:11:53,289 --> 00:11:58,717
-A more cautious person might have been frightened by
-that answer. Evelyn Marsh was not
+00:11:16,916 --> 00:11:22,495
+You had them in the *pause*. You would have talked
+through it. You have talked through
 
 153
-00:11:58,737 --> 00:12:04,228
-a cautious person. She went back to her bench
-feeling something she would not have been
+00:11:22,515 --> 00:11:28,421
+every silence you have ever been given, because
+silence is the one room you cannot control.
 
 154
-00:12:04,248 --> 00:12:08,788
-able to name, but which was, if she had been
-honest, very close to envy.
+00:11:29,096 --> 00:11:29,471
+Noted.
 
 155
-00:12:10,860 --> 00:12:17,171
-Across town, in the eighteen-person newsroom of the
-Wilmington Ledger, Hannah Price had
+00:11:29,870 --> 00:11:34,958
+And the narrator would like to point out, because
+nobody in that building could have,
 
 156
-00:12:17,191 --> 00:12:22,410
-found the name of the man who ran Verdant
-Axis's three good trial sites.
+00:11:34,978 --> 00:11:40,306
+that this was the single most dangerous minute in the
+first year of Umbrella's existence.
 
 157
-00:12:22,980 --> 00:12:29,397
-It was a private clinic network in Maryland. Its
-registered owner was a limited partnership.
+00:11:40,326 --> 00:11:45,654
+Not the Tyrant. Not the plant. This: the moment the
+man who could not be moved discovered
 
 158
-00:12:29,417 --> 00:12:34,294
-The limited partnership's general partner
-was a man named Curtis Vane.
+00:11:45,674 --> 00:11:50,822
+that the passenger in his skull was carrying the one
+tool he did not have, and decided
 
 159
-00:12:34,864 --> 00:12:37,852
-Curtis Vane was Graham Tolliver's
-brother-in-law.
+00:11:50,842 --> 00:11:55,990
+— coldly, without pleasure, the way he decided
+everything — that he was going to start
 
 160
-00:12:38,422 --> 00:12:43,647
-She sat back in her chair and looked at the board
-for a long time. Then she picked up
+00:11:56,010 --> 00:11:56,531
+using it.
 
 161
-00:12:43,667 --> 00:12:48,769
-her phone, and scrolled to a number she had saved
-as Umbrella, and did not call it.
+00:11:56,931 --> 00:12:01,062
+Catherine found him on the roof that night
+with a drawing of the campus.
 
 162
-00:12:49,340 --> 00:12:55,403
-She was not a fool. She knew she was being used. She
-had known it in the diner. The question
+00:12:01,581 --> 00:12:03,028
+Four hundred Points.
 
 163
-00:12:55,423 --> 00:13:01,156
-she could not stop asking herself — the question
-that would drive the next two years of
+00:12:03,427 --> 00:12:04,418
+I beg your pardon?
 
 164
-00:13:01,176 --> 00:13:04,794
-her life — was not whether Albert
-Wesker was using her.
+00:12:04,818 --> 00:12:09,553
+That's what you said to Pell on the phone. "Four hundred
+left." He assumed you meant thousand.
 
 165
-00:13:05,364 --> 00:13:06,903
-It was how he had known.
+00:12:09,573 --> 00:12:10,665
+I don't think you did.
+
+166
+00:12:11,065 --> 00:12:16,095
+Wesker looked out at five buildings that had
+cost him everything he had.
+
+167
+00:12:16,615 --> 00:12:17,524
+No. I did not.
+
+168
+00:12:17,923 --> 00:12:22,311
+I've stopped asking where the money comes from. I
+want you to know that's a decision I
+
+169
+00:12:22,331 --> 00:12:24,207
+made, not a thing I failed to notice.
+
+170
+00:12:24,607 --> 00:12:25,040
+I know.
+
+171
+00:12:25,441 --> 00:12:27,661
+I want to know what you're going
+to do with it.
+
+172
+00:12:28,061 --> 00:12:34,007
+And he told her — not all of it, not the volcano or
+the merge or the panel that hung in
+
+173
+00:12:34,027 --> 00:12:39,836
+the air where nobody else could see it, but the
+shape of the next ten years, in about
+
+174
+00:12:39,856 --> 00:12:44,774
+ninety seconds, in the flat tone of a man
+reading out a train timetable.
+
+175
+00:12:45,173 --> 00:12:51,168
+When he had finished, Catherine Adeyemi stood on the
+roof of a building that had appeared
+
+176
+00:12:51,188 --> 00:12:56,980
+out of nothing, and heard a man describe a company
+larger than any state on earth, and
+
+177
+00:12:57,000 --> 00:13:02,725
+believed every word, and understood in that moment
+that she had already chosen, weeks
+
+178
+00:13:02,745 --> 00:13:05,564
+ago, in a boardroom, over a cup of coffee.
+
+179
+00:13:06,083 --> 00:13:07,279
+That's monstrous.
+
+180
+00:13:07,679 --> 00:13:08,866
+Yes. Is it wrong?
+
+181
+00:13:09,268 --> 00:13:13,718
+She thought about it for a long time. That is
+the detail. She thought about it.
+
+182
+00:13:14,238 --> 00:13:15,828
+Ask me in five years.
+
+183
+00:13:16,227 --> 00:13:17,101
+I intend to.

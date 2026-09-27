@@ -1,966 +1,852 @@
 1
-00:00:07,799 --> 00:00:13,938
-The staff of Umbrella Research, Division Seven,
-arrived that Monday the way people arrive
+00:00:07,799 --> 00:00:13,619
+He did not go home. There was, as it happened, a
+home: a leased apartment eleven minutes
 
 2
-00:00:13,958 --> 00:00:20,166
-at a building they suspect is about to die — one at a
-time, a little late, carrying coffee
+00:00:13,639 --> 00:00:19,392
+away with his name on the mailbox and a refrigerator
+somebody had stocked. He looked at
 
 3
-00:00:20,186 --> 00:00:21,689
-from somewhere better.
+00:00:19,412 --> 00:00:22,710
+the address on the key fob once
+and never used it.
 
 4
-00:00:22,259 --> 00:00:28,461
-First came Dana Whitfield, fifty-two, office manager,
-payroll, human resources, procurement,
+00:00:23,109 --> 00:00:28,710
+Instead he spent the first night of his second life
+going through his own building the
 
 5
-00:00:28,481 --> 00:00:34,414
-and — because nobody else would do it — the woman who
-called the plumber. She had worked
+00:00:28,730 --> 00:00:34,461
+way a burglar goes through a house — floor by floor,
+drawer by drawer, taking a complete
 
 6
-00:00:34,434 --> 00:00:40,163
-at Division Seven for nineteen years. She had a
-folder under her arm that she had not
+00:00:34,481 --> 00:00:36,879
+inventory of what he had been handed.
 
 7
-00:00:40,183 --> 00:00:41,989
-wanted to open all weekend.
+00:00:37,280 --> 00:00:39,864
+By four in the morning he knew
+three things.
 
 8
-00:00:42,560 --> 00:00:48,456
-Then Doctor Howard Lessing, fifty-eight, senior
-scientist, who had once been told by a
+00:00:40,265 --> 00:00:46,049
+The first: the equipment was excellent and the
+science was garbage. Four programmes, all
 
 9
-00:00:48,476 --> 00:00:54,373
-very famous man at a very famous conference that he
-would win a very famous prize, and
+00:00:46,069 --> 00:00:51,788
+of them fundable, none of them going anywhere.
+Somebody — no one, the System, a rule of
 
 10
-00:00:54,393 --> 00:00:58,708
-had spent the thirty years since waiting
-for the phone to ring.
+00:00:51,808 --> 00:00:57,724
+the universe he had not yet learned the name of — had
+furnished this place with everything
 
 11
-00:00:59,277 --> 00:01:05,214
-Doctor Evelyn Marsh, twenty-seven, postdoctoral
-fellow, who had actually been there since
+00:00:57,744 --> 00:01:01,154
+a serious laboratory needs except a
+reason to exist.
 
 12
-00:01:05,234 --> 00:01:11,237
-six, because the equipment was free before the others
-came in, and because she had nowhere
+00:01:01,554 --> 00:01:06,585
+The second: the freezer archive on the third floor
+was worth more than the building.
 
 13
-00:01:11,257 --> 00:01:13,580
-else she particularly wanted to be.
+00:01:06,984 --> 00:01:13,500
+Thirty years of cell lines. Primate kidney lines,
+human fibroblast lines, forty-one vials
 
 14
-00:01:14,150 --> 00:01:20,488
-Tomás Reyes, twenty-four, lab technician, who kept
-the machines alive with zip ties and
+00:01:13,520 --> 00:01:19,816
+of something a technician who never lived had
+labelled *ODD — DO NOT DISCARD* in 2004.
 
 15
-00:01:20,508 --> 00:01:26,482
-prayer, and who ran a gaming stream on weekends
-with four hundred loyal followers.
+00:01:19,836 --> 00:01:26,204
+Half of it was junk. The other half was the kind of
+junk that a man with the right eyes
 
 16
-00:01:27,052 --> 00:01:34,037
-And Doctor Nadia Okafor, forty-four, virologist, the
-best scientist in the building, and
+00:01:26,224 --> 00:01:28,775
+could build a decade of product on.
 
 17
-00:01:34,057 --> 00:01:37,858
-the only one who had already
-updated her résumé.
+00:01:29,174 --> 00:01:32,549
+And the third thing: three hundred
+and seventeen doors.
 
 18
-00:01:39,028 --> 00:01:42,452
-They found the Director waiting for
-them in the break room.
+00:01:32,950 --> 00:01:39,062
+On the lowest level of the garage, past the painted
+bays that had never held a car, there
 
 19
-00:01:43,022 --> 00:01:48,870
-He was standing at the head of the cheap laminate
-table with his hands folded behind his
+00:01:39,082 --> 00:01:45,126
+was a wall. Grey, unremarkable, cold to the touch.
+Behind it, according to every drawing
 
 20
-00:01:48,890 --> 00:01:54,671
-back, in the same black clothes as the day before,
-looking as though he had slept eight
+00:01:45,146 --> 00:01:50,501
+in the building, there was Delaware — earth and
+old riverbed and nothing else.
 
 21
-00:01:54,691 --> 00:02:00,472
-hours in a very expensive hotel. He had not slept at
-all. He had read every file in the
+00:01:50,900 --> 00:01:55,891
+Wesker stood in front of it for a long time
+with his hands behind his back.
 
 22
-00:02:00,492 --> 00:02:01,073
-building.
+00:01:56,411 --> 00:01:57,506
+Shop. Facilities.
 
 23
-00:02:01,763 --> 00:02:06,095
-Sit down, please. All of you. Dana — you have
-something to tell them. Tell them.
+00:01:58,536 --> 00:02:06,747
+Facilities. Cold Archive Vault, twelve hundred.
+Automated Sequencing Suite, two thousand
 
 24
-00:02:07,114 --> 00:02:08,310
-I, um. Okay.
+00:02:06,767 --> 00:02:14,791
+five hundred. Containment Wing, B S L three, four
+thousand. Laboratory Sublevel, B S L
 
 25
-00:02:08,830 --> 00:02:12,542
-Dana opened the folder. Her hands
-were not quite steady.
+00:02:14,811 --> 00:02:23,583
+four — nine rooms, cold vault, freight lift — six
+thousand. Production Plant, twelve thousand.
 
 26
-00:02:13,233 --> 00:02:18,495
-Umbrella Holdings went into administration in London
-on Friday. The parent company. There's
+00:02:24,174 --> 00:02:29,850
+Six thousand of his ten. More than half of
+everything he had, spent in one motion, on
 
 27
-00:02:18,515 --> 00:02:23,836
-a firm — Harrow and Lisle — they're the administrators
-now. They sent this over the weekend.
+00:02:29,870 --> 00:02:31,123
+the first full day.
 
 28
-00:02:23,856 --> 00:02:28,945
-They're going to sell off whatever's worth anything,
-and close the rest. And the payroll
+00:02:31,524 --> 00:02:37,022
+He did not hesitate for even a second, and this is
+worth saying plainly, because most
 
 29
-00:02:28,965 --> 00:02:32,021
-account's been frozen. Friday's pay
-won't go through.
+00:02:37,042 --> 00:02:42,735
+men in his position would have. Most men would have
+bought the sequencing suite and kept
 
 30
-00:02:32,542 --> 00:02:38,664
-Nobody said anything. Tomás put his energy drink
-down very gently, the way you put down
+00:02:42,755 --> 00:02:48,254
+a reserve. Most men would have waited to understand
+the rules before betting the bank
 
 31
-00:02:38,684 --> 00:02:41,842
-something in a room where a
-baby is sleeping.
+00:02:48,274 --> 00:02:48,774
+on them.
 
 32
-00:02:42,531 --> 00:02:43,442
-So we're fired.
+00:02:49,294 --> 00:02:50,865
+Purchase. Place it here.
 
 33
-00:02:43,963 --> 00:02:45,405
-We're — nobody's said fired.
+00:02:51,264 --> 00:02:52,795
+Specify a depth.
 
 34
-00:02:45,925 --> 00:02:51,725
-Nobody needs to. Thirty years. Thirty years, and
-they're going to sell the freezers to
+00:02:53,195 --> 00:02:58,752
+Directly beneath this floor. Lift access from the
+garage, service stair to the loading
 
 35
-00:02:51,745 --> 00:02:53,756
-pay some solicitor in Mayfair.
+00:02:58,772 --> 00:03:01,929
+dock, no entrance that a delivery
+driver can see.
 
 36
-00:02:54,776 --> 00:02:56,520
-The Director let them talk.
+00:03:02,330 --> 00:03:09,269
+Confirmed. The installation will complete between two
+and four o'clock tomorrow morning.
 
 37
-00:02:57,090 --> 00:03:02,355
-This was the first thing the staff of Division
-Seven would learn about Albert Wesker,
+00:03:09,669 --> 00:03:10,102
+Why then?
 
 38
-00:03:02,375 --> 00:03:07,765
-though they would not realise they had learned it
-for weeks. He let people talk. He let
+00:03:10,502 --> 00:03:17,026
+Because at that hour there is no one in this
+building to have a memory adjusted, which
 
 39
-00:03:07,785 --> 00:03:13,051
-them talk until they had told him everything they
-were afraid of, and everything they
+00:03:17,046 --> 00:03:17,864
+is cheaper.
 
 40
-00:03:13,071 --> 00:03:15,351
-wanted, and exactly how much of each.
+00:03:18,264 --> 00:03:23,755
+He liked that answer. He liked it enormously. It was
+the first time the System had told
 
 41
-00:03:15,921 --> 00:03:17,878
-And while they talked, he read them.
+00:03:23,775 --> 00:03:29,202
+him something about its own machinery, and what it
+had told him was that the machinery
 
 42
-00:03:18,449 --> 00:03:23,684
-Dana Whitfield, who would do anything to protect
-the people in this room, because she
+00:03:29,222 --> 00:03:34,650
+had a cost, and a cost meant a limit, and a limit
+was a thing that could eventually be
 
 43
-00:03:23,704 --> 00:03:29,001
-had never been able to protect her own son. Howard
-Lessing, who did not care about the
+00:03:34,670 --> 00:03:36,234
+understood and exploited.
 
 44
-00:03:29,021 --> 00:03:34,813
-company at all, only about the credit he believed it
-owed him. Tomás Reyes, who was frightened
+00:03:36,753 --> 00:03:38,730
+Everything has a budget. Even you.
 
 45
-00:03:34,833 --> 00:03:40,254
-and hid it with jokes, and who would follow anyone
-who told him confidently where to go.
+00:03:39,131 --> 00:03:42,042
+Everything has a budget. Even you.
 
 46
-00:03:40,274 --> 00:03:45,200
-Nadia Okafor, who was not frightened, only
-calculating the distance to the door.
+00:03:43,072 --> 00:03:53,529
+Purchase. Laboratory Sublevel, B S L four. Six
+thousand. Balance, four thousand. Designation:
 
 47
-00:03:45,770 --> 00:03:51,513
-And Evelyn Marsh, who had not said a word, and was
-not looking at the folder, or at the
+00:03:53,549 --> 00:03:54,881
+Sublevel B4.
 
 48
-00:03:51,533 --> 00:03:53,567
-others. She was looking at him.
+00:03:55,471 --> 00:04:01,797
+Gus was waiting by the lift when he came down in the
+morning. Not standing in the lobby.
 
 49
-00:03:54,257 --> 00:04:00,114
-Doctor Marsh. Your paper on vector persistence in
-primate cell lines. The one that was
+00:04:01,817 --> 00:04:07,927
+Waiting by the lift, exactly where Wesker would
+need him, having decided this without
 
 50
-00:04:00,134 --> 00:04:03,873
-rejected twice and published in a
-journal nobody reads.
+00:04:07,947 --> 00:04:08,720
+being told.
 
 51
-00:04:04,394 --> 00:04:05,645
-Evelyn blinked.
+00:04:09,241 --> 00:04:12,477
+Morning, Director. Lift's got a
+fourth button.
 
 52
-00:04:06,336 --> 00:04:07,233
-You — read that?
+00:04:12,877 --> 00:04:13,111
+Does it.
 
 53
-00:04:07,752 --> 00:04:12,680
-Last night. Your third figure is wrong. The
-conclusion isn't. You were right, and the
+00:04:13,512 --> 00:04:19,489
+Yes, sir. B4. It's had one since the building went
+up, only the contacts were dirty, so
 
 54
-00:04:12,700 --> 00:04:15,881
-reviewers were lazy, and you should
-have fought harder.
+00:04:19,509 --> 00:04:22,040
+it never lit. I cleaned them Tuesday.
 
 55
-00:04:16,403 --> 00:04:21,723
-It was a small thing. It took eleven seconds. And for
-the rest of her life, Evelyn Marsh
+00:04:22,440 --> 00:04:23,360
+A pause.
 
 56
-00:04:21,743 --> 00:04:26,458
-would be able to tell you exactly where she had
-been sitting when it happened.
+00:04:23,880 --> 00:04:29,343
+I don't remember cleaning them Tuesday. But I did.
+I've got the swab in my cart and the
 
 57
-00:04:27,947 --> 00:04:31,298
-With respect, Director, that's lovely, but
-it doesn't make payroll.
+00:04:29,363 --> 00:04:31,926
+log's filled in, and it's my handwriting.
 
 58
-00:04:31,817 --> 00:04:35,528
-No. It doesn't. Tell me about the
-freezers, Doctor Okafor.
+00:04:32,326 --> 00:04:38,940
+Wesker looked at him with genuine interest — the
+interest of a man examining an instrument
 
 59
-00:04:36,449 --> 00:04:38,429
-The freezers were in the basement.
+00:04:38,960 --> 00:04:42,036
+he has just learned reports its own drift.
 
 60
-00:04:38,999 --> 00:04:45,000
-There were fourteen of them, humming in two rows
-under flickering tubes, and inside them
+00:04:42,555 --> 00:04:44,278
+Does that trouble you, Mr. Gus?
 
 61
-00:04:45,020 --> 00:04:51,158
-was the only thing of value the dying company had
-left: thirty years of cell lines, tissue
+00:04:44,677 --> 00:04:46,422
+No, sir. Should it?
 
 62
-00:04:51,178 --> 00:04:57,385
-samples, and viral isolates, collected by Umbrella's
-British parent from places most people
+00:04:46,822 --> 00:04:46,965
+No.
 
 63
-00:04:57,405 --> 00:05:03,543
-could not find on a map, and catalogued in handwriting
-that only three living people could
+00:04:47,363 --> 00:04:48,469
+Then it doesn't.
 
 64
-00:05:03,563 --> 00:05:03,886
-read.
+00:04:48,870 --> 00:04:54,619
+And that, the narrator would like to note, is the
+whole of it. That exchange is the entire
 
 65
-00:05:04,576 --> 00:05:09,896
-Most of it's junk. Some of it isn't. There are
-isolates in here nobody else in the world
+00:04:54,639 --> 00:05:00,580
+architecture of what Umbrella became, laid out in four
+sentences beside a lift on a Wednesday
 
 66
-00:05:09,916 --> 00:05:15,357
-has, because the places they came from don't exist
-anymore. Verdant Axis has been sniffing
+00:05:00,600 --> 00:05:06,028
+morning by a man in coveralls who was six days old
+and would have said the same thing
 
 67
-00:05:15,377 --> 00:05:20,515
-around it for a year. And a contract research
-company in Shenzhen sent us an email in
+00:05:06,048 --> 00:05:07,630
+with a knife in his hand.
 
 68
-00:05:20,535 --> 00:05:23,004
-August asking what we'd take for the lot.
+00:05:08,031 --> 00:05:12,081
+The lift went down past the third garage
+level, and kept going.
 
 69
-00:05:23,524 --> 00:05:24,544
-Verdant Axis.
+00:05:12,480 --> 00:05:19,031
+Nine rooms. A containment wing rated for organisms that
+no ordinary company has any business
 
 70
-00:05:25,064 --> 00:05:30,932
-The biotech across the river. Glass building, big
-sign. Their CEO is a man called Graham
+00:05:19,051 --> 00:05:25,387
+owning. A cold vault with a hand-wheel door thirty
+centimetres thick. A sequencing bench,
 
 71
-00:05:30,952 --> 00:05:33,542
-Tolliver. He tried to hire Howard once.
+00:05:25,407 --> 00:05:31,814
+an incubator bank, an autoclave, a shower-down
+airlock, and a freight lift that officially
 
 72
-00:05:34,062 --> 00:05:38,309
-He tried to hire me for less than I make
-here. Which is saying something.
+00:05:31,834 --> 00:05:35,171
+served a storage mezzanine on
+the second floor.
 
 73
-00:05:38,827 --> 00:05:44,485
-Across the river, visible from the basement's single
-high window if you stood on a box,
+00:05:35,571 --> 00:05:41,210
+The paint smelled of nothing. The steel was the
+temperature of the surrounding earth.
 
 74
-00:05:44,505 --> 00:05:50,488
-the Verdant Axis building glittered in the morning sun.
-Glass and steel and green lettering,
+00:05:41,230 --> 00:05:46,935
+There was a service tag on the air handler dated
+March 2019 and signed by a contractor
 
 75
-00:05:50,508 --> 00:05:56,165
-a lobby with a living wall, a stock ticker on the
-NASDAQ, and a chief executive who had
+00:05:46,955 --> 00:05:52,794
+in Newark who had been in business for forty years
+and who would, if asked, remember the
 
 76
-00:05:56,185 --> 00:06:01,842
-told a business magazine the previous spring that he
-intended to be the next great name
+00:05:52,814 --> 00:05:53,061
+job.
 
 77
-00:06:01,862 --> 00:06:03,213
-in American medicine.
+00:05:53,461 --> 00:05:59,716
+Wesker walked the length of it twice. At the far end
+he stopped, and put one gloved hand
 
 78
-00:06:03,783 --> 00:06:06,025
-Wesker looked at it for a long time.
+00:05:59,736 --> 00:06:03,211
+flat against a containment door,
+and stood there.
 
 79
-00:06:06,714 --> 00:06:13,144
-A man who tells magazines what he intends is a man
-who wants to be seen intending it.
+00:06:03,730 --> 00:06:04,942
+You are pleased.
 
 80
-00:06:13,665 --> 00:06:16,498
-Yes. Which means he'll pay for the
-appearance of winning.
+00:06:05,341 --> 00:06:05,611
+I am.
 
 81
-00:06:18,016 --> 00:06:20,468
-The rest of Monday was a telephone.
+00:06:06,011 --> 00:06:07,756
+It is a basement.
 
 82
-00:06:21,038 --> 00:06:27,133
-The first call was to London, to a man named Peter
-Fenwick, a partner at Harrow and Lisle,
+00:06:08,156 --> 00:06:13,266
+It is nine rooms that appeared under a car park
+because I decided they should. In my last
 
 83
-00:06:27,153 --> 00:06:33,111
-who had been appointed to liquidate what remained of
-Umbrella Holdings, and who had been
+00:06:13,286 --> 00:06:18,165
+life this took me four years, a shell company in
+Liechtenstein and two men who had to
 
 84
-00:06:33,131 --> 00:06:35,014
-hoping very much to go home.
+00:06:18,185 --> 00:06:19,607
+be persuaded not to talk.
 
 85
-00:06:35,702 --> 00:06:40,014
-Doctor Wesker, I'm afraid there isn't a great deal
-to discuss. The Delaware division is
+00:06:20,007 --> 00:06:26,403
+And in mine, this was a thing that had to be built
+by hand, in the open, where everyone
 
 86
-00:06:40,034 --> 00:06:44,644
-not a going concern. We'll be selling the sample
-archive as a separate lot. There's interest.
+00:06:26,423 --> 00:06:28,100
+could count the trucks.
 
 87
-00:06:44,664 --> 00:06:47,332
-The building lease will be
-surrendered and the staff —
+00:06:28,500 --> 00:06:34,847
+The narrator notes that this is very nearly the only
+time the passenger will say anything
 
 88
-00:06:47,853 --> 00:06:51,923
-The sample archive is worth nothing without
-the people who can read it.
+00:06:34,867 --> 00:06:38,209
+wistful, and that Wesker ignored
+it completely.
 
 89
-00:06:52,843 --> 00:06:53,711
-I'm sorry?
+00:06:38,610 --> 00:06:42,729
+Dr. Lena Voss had a problem, and had
+had it for two years.
 
 90
-00:06:54,232 --> 00:06:59,766
-Twelve freezers. Four thousand boxes. The labels are
-handwritten, in abbreviations that
+00:06:43,129 --> 00:06:49,319
+Her programme was a viral vector: a hollowed-out,
+harmless virus meant to carry a corrective
 
 91
-00:06:59,786 --> 00:07:05,258
-were never written down, by scientists who are
-retired or dead. The three people alive
+00:06:49,338 --> 00:06:55,731
+gene into human cells. It worked in a dish. It did not
+work in anything that had a bloodstream,
 
 92
-00:07:05,278 --> 00:07:11,068
-who can read them work for me. On Friday, they won't.
-And your buyer will own four thousand
+00:06:55,751 --> 00:07:01,604
+and every animal run for two years had come back the
+same way — a beautiful first week,
 
 93
-00:07:11,088 --> 00:07:12,537
-boxes of anonymous ice.
+00:07:01,624 --> 00:07:04,979
+then the effect falling off a
+cliff, then nothing.
 
 94
-00:07:13,057 --> 00:07:19,001
-It was not entirely true. It was true enough. And it
-had the great virtue, in Fenwick's
+00:07:05,379 --> 00:07:11,699
+The file was four hundred pages. Wesker read it in
+the time it took Voss to make a cup
 
 95
-00:07:19,021 --> 00:07:23,457
-ears, of being a problem that would take
-a long time to disprove.
+00:07:11,719 --> 00:07:13,469
+of tea she did not want.
 
 96
-00:07:24,146 --> 00:07:25,331
-What are you proposing?
+00:07:13,988 --> 00:07:15,361
+Your vector is fine.
 
 97
-00:07:25,850 --> 00:07:31,811
-A management buyout. The division, whole. The archive,
-the lease, the equipment, the intellectual
+00:07:15,762 --> 00:07:19,951
+Director, with respect, the vector is not
+fine. Twenty-two runs.
 
 98
-00:07:31,831 --> 00:07:37,175
-property, the trademark. Four hundred thousand
-dollars. Closing Thursday. You get to go
+00:07:20,351 --> 00:07:25,489
+Twenty-two runs in which the payload was expressed at
+eleven days and gone at twenty-eight.
 
 99
-00:07:37,195 --> 00:07:42,970
-home, Mister Fenwick, and write in your report that you
-recovered value from a dead subsidiary
+00:07:25,509 --> 00:07:30,420
+You concluded that your construct is unstable. Show
+me the twenty-eight day immunology.
 
 100
-00:07:42,990 --> 00:07:43,771
-in five days.
+00:07:30,821 --> 00:07:34,251
+She showed him. He looked at it for
+perhaps nine seconds.
 
 101
-00:07:44,293 --> 00:07:46,427
-And you have four hundred
-thousand dollars?
+00:07:34,771 --> 00:07:39,727
+There. Neutralising antibody against the capsid,
+rising from day twelve. You are not losing
 
 102
-00:07:46,947 --> 00:07:48,143
-I will on Thursday.
+00:07:39,747 --> 00:07:44,430
+expression. You are being cleared. The animal's
+immune system is learning the shape of
 
 103
-00:07:49,663 --> 00:07:55,476
-There was a silence on the line in which a tired man
-in London weighed the effort of saying
+00:07:44,450 --> 00:07:49,187
+your delivery vehicle and taking it apart, and
+because you re-dose on day fourteen, you
 
 104
-00:07:55,496 --> 00:07:57,913
-no against the pleasure of saying yes.
+00:07:49,207 --> 00:07:51,539
+are training it to do so
+faster every time.
 
 105
-00:07:58,603 --> 00:08:00,224
-Send me something in writing.
+00:07:51,939 --> 00:07:54,529
+We screened for pre-existing immunity —
 
 106
-00:08:01,543 --> 00:08:04,521
-The second thing he did was
-create a company.
+00:07:54,928 --> 00:08:00,046
+To the wild serotype. Not to yours. You built a
+chimera and then tested for antibodies
 
 107
-00:08:05,093 --> 00:08:10,985
-In the State of Delaware, it is possible to bring a
-limited liability company into legal
+00:08:00,066 --> 00:08:01,479
+against its grandfather.
 
 108
-00:08:11,005 --> 00:08:16,764
-existence faster than a pizza can be delivered.
-Dana, who had filed paperwork with the
+00:08:02,156 --> 00:08:07,895
+The narrator would like to be precise about what
+happened in that room, because it happened
 
 109
-00:08:16,784 --> 00:08:22,609
-state for nineteen years, sat beside him and watched
-him do it in fourteen minutes, and
+00:08:07,915 --> 00:08:13,718
+again and again for the next sixty-five years, in
+laboratories and boardrooms and eventually
 
 110
-00:08:22,629 --> 00:08:26,641
-felt a small, strange thrill she had
-not felt since college.
+00:08:13,738 --> 00:08:17,326
+in places without air, and it never
+once stopped working.
 
 111
-00:08:27,331 --> 00:08:28,437
-What are you calling it?
+00:08:17,725 --> 00:08:23,451
+He did not raise his voice. He did not gloat, and
+he did not explain twice. He simply
 
 112
-00:08:28,956 --> 00:08:29,747
-Umbrella.
+00:08:23,471 --> 00:08:29,333
+picked up the one number in four hundred pages that
+mattered, laid it on the table, and
 
 113
-00:08:30,266 --> 00:08:31,355
-Just — Umbrella?
+00:08:29,353 --> 00:08:32,915
+let the other person in the room
+feel the floor move.
 
 114
-00:08:31,875 --> 00:08:35,055
-Every great name starts out sounding
-like an accessory.
+00:08:33,436 --> 00:08:38,254
+Swap the capsid every dose. Three serotypes on
+rotation, none of them related, all of
 
 115
-00:08:36,375 --> 00:08:38,791
-The third call was across the river.
+00:08:38,274 --> 00:08:43,150
+them carrying the same payload. The immune system
+cannot learn a face that never comes
 
 116
-00:08:39,360 --> 00:08:45,610
-Graham Tolliver took it himself, which told Wesker
-most of what he needed to know. A chief
+00:08:43,170 --> 00:08:43,435
+back.
 
 117
-00:08:45,630 --> 00:08:51,880
-executive who answers his own phone to an unknown
-number is a man who is afraid of missing
+00:08:43,835 --> 00:08:46,265
+That's — that is four separate constructs.
 
 118
-00:08:51,900 --> 00:08:52,576
-something.
+00:08:46,664 --> 00:08:50,924
+It is four separate constructs and five weeks.
+Start tonight. You will have a working
 
 119
-00:08:53,267 --> 00:08:57,597
-Doctor Wesker! We haven't met, but I know Division
-Seven. Terrible news about London.
+00:08:50,944 --> 00:08:55,304
+platform before Christmas, and the platform is worth
+a great deal more than the therapy
 
 120
-00:08:57,617 --> 00:09:01,077
-Genuinely. If there's anything Verdant Axis
-can do for your people —
+00:08:55,324 --> 00:08:56,966
+you were trying to build with it.
 
 121
-00:09:01,597 --> 00:09:03,191
-There is. You want the archive.
+00:08:57,365 --> 00:09:03,472
+Voss stood in the middle of her own laboratory
+holding a cold cup of tea while a man she
 
 122
-00:09:04,110 --> 00:09:08,015
-I — well. We'd certainly be interested in a
-conversation about the archive.
+00:09:03,492 --> 00:09:09,391
+had worked for, as far as she could remember, since
+2021, dismantled two years of her
 
 123
-00:09:08,537 --> 00:09:14,480
-Then let's not have a conversation. Let's have an
-agreement. As of Thursday, I own it.
+00:09:09,411 --> 00:09:12,175
+life and handed it back to her improved.
 
 124
-00:09:14,500 --> 00:09:20,859
-You can license access to it for one point two million
-dollars. Paid into escrow on signing,
+00:09:12,696 --> 00:09:14,366
+Yes, Director.
 
 125
-00:09:20,879 --> 00:09:22,454
-released on my closing.
+00:09:14,765 --> 00:09:20,572
+She did not resent it. That is what unsettled the
+junior scientist who was listening from
 
 126
-00:09:22,972 --> 00:09:25,276
-That's a lot of money for a
-freezer, Doctor.
+00:09:20,592 --> 00:09:26,202
+the corridor. She looked, if anything, grateful —
+the way a lost person is grateful to
 
 127
-00:09:25,797 --> 00:09:27,840
-The people in Shenzhen didn't think so.
+00:09:26,222 --> 00:09:29,475
+the stranger who turns their map
+the right way up.
 
 128
-00:09:29,359 --> 00:09:35,003
-He did not say that the people in Shenzhen had made
-an offer. He did not say they had
+00:09:30,625 --> 00:09:38,726
+Points. Acting with intelligence: nine hundred.
+Level two. Level three. Six stat points
 
 129
-00:09:35,023 --> 00:09:40,668
-made anything at all. He simply let the word sit on
-the line, like a coin on a table,
+00:09:38,746 --> 00:09:39,659
+available.
 
 130
-00:09:40,688 --> 00:09:45,134
-and let Graham Tolliver imagine what was
-written on the other side.
+00:09:40,250 --> 00:09:41,100
+Intelligence.
 
 131
-00:09:45,703 --> 00:09:51,828
-Men like Tolliver always imagine the worst. It is
-what makes them rich. It is also what
+00:09:41,500 --> 00:09:42,510
+All six?
 
 132
-00:09:51,848 --> 00:09:52,957
-makes them easy.
+00:09:42,910 --> 00:09:47,569
+All six. I am fast enough to catch a bullet and I
+have nothing worth catching one for
 
 133
-00:09:53,648 --> 00:09:54,998
-Send me the term sheet.
+00:09:47,589 --> 00:09:47,789
+yet.
 
 134
-00:09:56,518 --> 00:09:58,837
-The term sheet was four pages long.
+00:09:48,820 --> 00:09:53,657
+Status update. Intelligence,
+twenty-four to twenty-seven.
 
 135
-00:09:59,407 --> 00:10:05,259
-On page three, in the eleventh clause, in language
-that any competent lawyer would have
+00:09:54,248 --> 00:09:59,969
+He felt it happen. That is the detail he would
+never describe to anyone, not once, in
 
 136
-00:10:05,279 --> 00:10:11,131
-understood and that Verdant Axis's competent lawyers
-would read the following week, was
+00:09:59,989 --> 00:10:05,845
+sixty-five years: that raising the number did not
+feel like learning something. It felt
 
 137
-00:10:11,151 --> 00:10:13,088
-a single word: non-exclusive.
+00:10:05,865 --> 00:10:09,898
+like a room he had always lived in
+acquiring another window.
 
 138
-00:10:13,658 --> 00:10:20,062
-Verdant Axis was not buying the archive. It was
-buying the right to use it — alongside
+00:10:10,298 --> 00:10:16,610
+Two more purchases, small ones, from the Personnel
+tab: laboratory technicians, six hundred
 
 139
-00:10:20,082 --> 00:10:26,485
-anyone else Umbrella chose to sell the same right
-to. As many times as Umbrella liked.
+00:10:16,630 --> 00:10:17,446
+Points each.
 
 140
-00:10:27,176 --> 00:10:28,713
-He will discover it.
+00:10:17,846 --> 00:10:23,750
+They were in the building on Thursday morning. Human
+resources had their files: one from
 
 141
-00:10:29,232 --> 00:10:34,572
-Of course he will. After the money has cleared. And
-then he'll have a choice — to admit
+00:10:23,770 --> 00:10:29,540
+Rutgers, one from Delaware State, both interviewed
+in June by Dr. Voss, who remembered
 
 142
-00:10:34,592 --> 00:10:39,871
-to his board that he didn't read a four-page
-contract, or to keep quiet and pretend he
+00:10:29,560 --> 00:10:35,398
+the interviews and could describe what they had
+worn. Payroll had them. The coffee fund
 
 143
-00:10:39,891 --> 00:10:43,505
-meant to do it. Which do you think a
-man like that chooses?
+00:10:35,418 --> 00:10:41,120
+had them. One of them had a bicycle chained outside
+with a lock that had been rusting
 
 144
-00:10:44,025 --> 00:10:47,716
-You have become very
-comfortable with lying.
+00:10:41,140 --> 00:10:41,995
+for a season.
 
 145
-00:10:48,235 --> 00:10:50,326
-You were a head of state. Don't
-be precious.
+00:10:42,395 --> 00:10:48,065
+Wesker watched them work for an hour from the
+observation window, and noted that they
 
 146
-00:10:52,047 --> 00:10:54,054
-The money moved on Thursday night.
+00:10:48,085 --> 00:10:54,157
+were better than competent and worse than curious.
+They did precisely what they were asked.
 
 147
-00:10:54,624 --> 00:11:00,667
-It moved the way money moves when nobody is quite sure
-it should: slowly at first, through
+00:10:54,177 --> 00:10:56,365
+They did not ask what it was for.
 
 148
-00:11:00,687 --> 00:11:06,595
-escrow accounts and compliance holds and a nervous
-banker in Wilmington who called twice
+00:10:56,885 --> 00:10:58,199
+You should tell them.
 
 149
-00:11:06,615 --> 00:11:10,840
-to ask whether Doctor Wesker was
-certain, and then all at once.
+00:10:58,599 --> 00:10:59,368
+Tell them what?
 
 150
-00:11:11,409 --> 00:11:17,366
-One point two million dollars from Verdant Axis
-Therapeutics, into escrow. Four hundred
+00:10:59,769 --> 00:11:05,286
+What they are part of. Men work harder for a
+cathedral than for a wage.
 
 151
-00:11:17,386 --> 00:11:23,548
-thousand from escrow to Harrow and Lisle, in London,
-where Peter Fenwick signed a transfer
+00:11:05,686 --> 00:11:09,637
+These four cannot work less hard. They are
+incapable of it. And the others —
 
 152
-00:11:23,568 --> 00:11:29,868
-of assets at five in the morning his time and went back
-to bed. And the rest — eight hundred
+00:11:10,037 --> 00:11:15,760
+He was quiet for a moment, watching Voss through
+the glass, bent over a bench at nine
 
 153
-00:11:29,888 --> 00:11:35,364
-thousand dollars — into the account of a company
-that had not existed on Monday.
+00:11:15,780 --> 00:11:20,287
+at night, rebuilding her own project with
+the fervour of a convert.
 
 154
-00:11:35,934 --> 00:11:41,651
-At nine fifty-eight, Dana Whitfield pressed a
-button, and the payroll of Division Seven
+00:11:20,807 --> 00:11:25,374
+The others are being shown. People who are told a
+plan begin to negotiate about the plan.
 
 155
-00:11:41,671 --> 00:11:42,772
-went out on time.
+00:11:25,394 --> 00:11:28,879
+People who are shown a miracle simply
+follow it to see the next one.
 
 156
-00:11:44,341 --> 00:11:50,060
-She did not cry. She wanted that noted, later, when
-she told the story. She went out to
+00:11:29,278 --> 00:11:31,180
+That is what a sermon is.
 
 157
-00:11:50,080 --> 00:11:55,799
-the parking lot and sat in her car for a while with
-the engine off, and she did not cry
+00:11:31,580 --> 00:11:36,636
+No. A sermon is where you tell them in advance and
+hope they believe you. I prefer to
 
 158
-00:11:55,819 --> 00:11:56,261
-at all.
+00:11:36,656 --> 00:11:41,115
+be believed retroactively. It costs less and
+nobody has a chance to object.
 
 159
-00:11:58,030 --> 00:12:02,749
-Upstairs, in the corner office, the air in
-front of Albert Wesker lit up.
+00:11:41,514 --> 00:11:46,215
+In the world outside, almost nothing happened,
+which was exactly the point.
 
 160
-00:12:04,068 --> 00:12:07,169
-Mission complete. The Director's Chair.
+00:11:46,615 --> 00:11:53,012
+The Delaware Business Ledger ran four lines in its
+filings column: *Umbrella Research
 
 161
-00:12:12,604 --> 00:12:15,628
-Acquisition. The name is yours.
+00:11:53,032 --> 00:11:59,655
+Division Seven (Wilmington) — registered capital
+increase; new laboratory certification,
 
 162
-00:12:17,217 --> 00:12:19,169
-He read the second panel twice.
+00:11:59,675 --> 00:12:06,374
+BSL-4, pending state inspection.* Nobody read it. The
+paper's own filings columnist could
 
 163
-00:12:19,740 --> 00:12:25,842
-The trademark. Harrow and Lisle had thrown it into
-the deal as an afterthought — a dead
+00:12:06,394 --> 00:12:10,225
+not have told you the company's
+name an hour later.
 
 164
-00:12:25,862 --> 00:12:31,823
-brand of a dead company, worth, by their valuation,
-one British pound. It was on page
+00:12:10,625 --> 00:12:16,673
+A state inspector's office in Dover received an
+application for a containment certification,
 
 165
-00:12:31,843 --> 00:12:36,679
-nine of the transfer, under miscellaneous.
-Nobody had asked about it.
+00:12:16,693 --> 00:12:22,412
+complete, correctly filled in, with a floor plan
+that matched the building, and stamped
 
 166
-00:12:37,249 --> 00:12:43,821
-The name was his. In every country on Earth that
-recognised a trademark, the word Umbrella,
+00:12:22,432 --> 00:12:26,304
+it in eleven days, because there was
+nothing wrong with it.
 
 167
-00:12:43,841 --> 00:12:50,124
-attached to medicine, now belonged to a man who had
-been alive, in this world, for four
+00:12:26,705 --> 00:12:32,314
+And at the coffee shop across the street, the owner
+told her Friday regular that the big
 
 168
-00:12:50,144 --> 00:12:50,487
-days.
+00:12:32,334 --> 00:12:37,752
+white place had finally started hiring again, and
+the regular said it was about time,
 
 169
-00:12:51,807 --> 00:12:53,792
-Level up. Level two.
+00:12:37,772 --> 00:12:41,655
+and neither of them could have told you
+what the company did.
 
 170
-00:12:56,111 --> 00:13:02,035
-He placed the five points without hesitating. Three
-into Intelligence. Two into Health,
+00:12:42,054 --> 00:12:47,225
+Late on Friday, Wesker carried the first of
+the archive down himself.
 
 171
-00:13:02,055 --> 00:13:05,724
-against the clock that was still
-running in his blood.
+00:12:47,625 --> 00:12:53,366
+Forty-one vials, in a dry shipper, from the third
+floor to the cold vault, on a lift that
 
 172
-00:13:07,043 --> 00:13:10,629
-Viral stability, sixty-six percent.
+00:12:53,386 --> 00:12:59,062
+had always had four buttons. He loaded them into the
+rack by hand — he did not trust the
 
 173
-00:13:12,220 --> 00:13:13,855
-Five days. Five percent.
+00:12:59,082 --> 00:13:04,629
+technicians with it, and it was not their competence
+he distrusted — and he catalogued
 
 174
-00:13:14,375 --> 00:13:18,323
-And the machine gave you money for a
-trick with a telephone.
+00:13:04,649 --> 00:13:10,325
+them himself, in his own handwriting, on a card index
+he had bought in a stationery shop
 
 175
-00:13:18,844 --> 00:13:22,333
-The machine gave us money for winning.
-It doesn't care how.
+00:13:10,345 --> 00:13:12,914
+because paper does not log who reads it.
 
 176
-00:13:23,852 --> 00:13:29,197
-On Friday morning, the staff of Division Seven
-gathered in the break room again.
+00:13:13,315 --> 00:13:18,682
+Then he closed the vault door, and spun the wheel,
+and stood in the corridor in the dark
 
 177
-00:13:29,767 --> 00:13:35,779
-It was Dana who told them. That was his decision. In
-the car on Thursday night, the voice
+00:13:18,702 --> 00:13:20,825
+with the cold coming off the steel.
 
 178
-00:13:35,799 --> 00:13:39,778
-at the back of his mind had wanted
-something else entirely.
+00:13:21,225 --> 00:13:27,195
+Four thousand nine hundred Points. Thirteen people who
+could not disobey. Nine rooms under
 
 179
-00:13:40,469 --> 00:13:45,961
-They should hear it from you. They should know whose
-hand saved them. A people must know
+00:13:27,215 --> 00:13:31,654
+a car park that had cost him more than
+half of everything he owned.
 
 180
-00:13:45,981 --> 00:13:46,713
-its saviour.
+00:13:32,174 --> 00:13:32,456
+Good.
 
 181
-00:13:47,232 --> 00:13:50,685
-They're not a people. They're six
-employees and a coffee machine.
-
-182
-00:13:51,206 --> 00:13:53,918
-Every people begins as a room.
-
-183
-00:13:54,437 --> 00:14:00,238
-Then let the room hear it from someone it trusts.
-Credit is currency. I'll spend it where
-
-184
-00:14:00,258 --> 00:14:01,350
-it buys the most.
-
-185
-00:14:02,471 --> 00:14:07,226
-So — the short version is, we're not closing. The
-Director bought the division. All of
-
-186
-00:14:07,246 --> 00:14:12,334
-it. The freezers, the building, the name. We have a new
-company, and it's — it's us. Payroll
-
-187
-00:14:12,354 --> 00:14:14,610
-went out last night. Check your accounts.
-
-188
-00:14:15,130 --> 00:14:20,835
-Five phones came out of five pockets. For a moment
-there was only the sound of people
-
-189
-00:14:20,855 --> 00:14:21,979
-reading a number.
-
-190
-00:14:22,669 --> 00:14:24,179
-Oh my God. It's real.
-
-191
-00:14:24,700 --> 00:14:30,933
-Tomás started clapping. After a moment, so did the
-others. Even Lessing, who clapped the
-
-192
-00:14:30,953 --> 00:14:34,344
-way a man signs a document he has
-not agreed to.
-
-193
-00:14:34,913 --> 00:14:40,523
-Only Nadia Okafor did not clap. She looked at the
-man in the doorway, and she thought
-
-194
-00:14:40,543 --> 00:14:46,352
-about the phrase Dana had used — the Director bought
-the division — and she wondered how
-
-195
-00:14:46,372 --> 00:14:51,982
-a research director with a four-year-old car and no
-savings she had ever heard of had
-
-196
-00:14:52,002 --> 00:14:53,506
-bought anything at all.
-
-197
-00:14:54,076 --> 00:14:59,804
-He met her eyes across the room. And smiled, very
-slightly. As if he knew exactly what
-
-198
-00:14:59,824 --> 00:15:02,478
-she was thinking, and found it charming.
-
-199
-00:15:04,048 --> 00:15:09,966
-Evelyn Marsh did not clap either. She was not
-suspicious. She simply forgot to. She was
-
-200
-00:15:09,985 --> 00:15:15,972
-watching him, and thinking, with the absolute clarity
-of a young woman who has spent her
-
-201
-00:15:15,992 --> 00:15:21,841
-whole life being overlooked, that she had never in
-her life seen anyone win like that.
-
-202
-00:15:23,912 --> 00:15:27,940
-That night, in the empty building, a new
-panel opened in the air.
-
-203
-00:15:29,259 --> 00:15:30,873
-The Shop is unlocked.
-
-204
-00:15:35,995 --> 00:15:41,808
-And Albert Wesker, who had once been a god in his own
-estimation, and Adolf, who had once
-
-205
-00:15:41,828 --> 00:15:47,576
-been the master of a continent, sat down together in
-a creaking leather chair — and went
-
-206
-00:15:47,596 --> 00:15:48,166
-shopping.
+00:13:32,856 --> 00:13:38,447
+Somewhere above him, three hundred and seventeen
+doors. All of them, now, went somewhere.
