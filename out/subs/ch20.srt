@@ -1,748 +1,745 @@
 1
-00:00:08,186 --> 00:00:13,286
-For fourteen days, the ghost video was the most
-watched piece of footage on Earth.
+00:00:07,799 --> 00:00:14,339
+It took eleven months to be in a room with Martin
+Sloane by accident, and Albert Wesker
 
 2
-00:00:13,856 --> 00:00:20,169
-It was slowed down, and sped up, and enhanced, and set
-to music, and analysed by physicists
+00:00:14,359 --> 00:00:16,300
+arranged every hour of it.
 
 3
-00:00:20,189 --> 00:00:26,849
-on podcasts and by teenagers in bedrooms. A man in
-Tennessee who ran a channel about unexplained
+00:00:16,699 --> 00:00:22,758
+Not surveillance; Sloane would have found
+surveillance in a week. Wesker simply became,
 
 4
-00:00:26,869 --> 00:00:32,833
-phenomena put out a two-hour video on frame one
-thousand one hundred and fourteen, and
+00:00:22,778 --> 00:00:28,836
+over eleven months, a person who was plausibly in
+the same places: a board he joined at
 
 5
-00:00:32,853 --> 00:00:38,818
-it was watched eighteen million times. A professor
-of biomechanics at Stanford gave an
+00:00:28,856 --> 00:00:35,055
+a research foundation, a pair of lectures at
+Georgetown, a dinner for a retiring admiral,
 
 6
-00:00:38,838 --> 00:00:44,802
-interview in which she said, carefully, that no
-human being could accelerate a body to
+00:00:35,075 --> 00:00:41,133
+a charity auction for a veterans' hospital that
+Umbrella had funded since 2031 and that
 
 7
-00:00:44,822 --> 00:00:50,856
-three hundred metres a second without being killed
-by the acceleration itself, and that
+00:00:41,153 --> 00:00:43,089
+Sloane's brother-in-law ran.
 
 8
-00:00:50,876 --> 00:00:54,961
-she had therefore concluded that the
-video had been edited.
+00:00:43,490 --> 00:00:49,052
+By June it was not strange that they were in the
+same room. By June it would have been
 
 9
-00:00:55,531 --> 00:01:02,184
-It had not been edited. The Bureau's own forensic
-laboratory in Quantico established that
+00:00:49,072 --> 00:00:51,000
+strange if they had never met.
 
 10
-00:01:02,204 --> 00:01:09,007
-within forty-eight hours — that the file on Keisha
-Bell's dashcam memory card was original,
+00:00:51,399 --> 00:00:56,129
+They met at a club on Sixteenth Street, in a
+corner, at nine o'clock at night.
 
 11
-00:01:09,027 --> 00:01:10,957
-unaltered, and continuous.
+00:00:56,649 --> 00:00:57,674
+Eleven months.
 
 12
-00:01:11,527 --> 00:01:17,727
-The Bureau's laboratory also established, in the
-same report, that the smear in frames
+00:00:58,075 --> 00:00:59,645
+I beg your pardon?
 
 13
-00:01:17,747 --> 00:01:24,744
-eleven-twelve and eleven-thirteen was consistent with,
-quote, a known artefact of rolling-shutter
+00:01:00,045 --> 00:01:05,853
+The foundation board was August. The admiral's dinner
+was in November — you sat four places
 
 14
-00:01:24,764 --> 00:01:31,181
-CMOS sensors when a high-contrast object crosses a
-low-light scene, and that the apparent
+00:01:05,873 --> 00:01:11,362
+away and didn't look at me once, which was overdone.
+Georgetown was February. And this
 
 15
-00:01:31,201 --> 00:01:35,305
-velocity could not be reliably
-inferred from the footage.
+00:01:11,382 --> 00:01:11,875
+is June.
 
 16
-00:01:35,875 --> 00:01:41,696
-That was also true. It was true in the way that the
-sculpture in the glass case was true,
+00:01:12,155 --> 00:01:17,157
+I've been doing this for twenty-nine years, Dr.
+Wesker. When a man arranges to meet you
 
 17
-00:01:41,716 --> 00:01:47,341
-and the animal welfare plan was true, and the cold
-vault was true. It was true enough.
+00:01:17,177 --> 00:01:22,353
+by accident four times, either he wants to recruit you
+or he wants to kill you, and you've
 
 18
-00:01:49,412 --> 00:01:53,467
-The story that the world settled on, in
-the end, was Tomás's.
+00:01:22,373 --> 00:01:24,605
+had eleven months to do the second one.
 
 19
-00:01:54,037 --> 00:01:59,777
-He built it in seventy-two hours, from a glass
-office on the tenth floor, with a team
+00:01:25,004 --> 00:01:30,114
+Wesker sat down opposite him, which he had
+not been invited to do.
 
 20
-00:01:59,797 --> 00:02:05,876
-of nine and no sleep. He did not deny the video. That
-would have been fatal — the internet
+00:01:30,635 --> 00:01:34,905
+You have not written anything down
+about me in eight years.
 
 21
-00:02:05,896 --> 00:02:11,704
-can smell a denial the way sharks smell blood.
-Instead he surrounded it. Within a day,
+00:01:35,635 --> 00:01:41,479
+The narrator notes that this was the single most
+dangerous sentence Albert Wesker ever
 
 22
-00:02:11,724 --> 00:02:17,600
-every search for ghost video led first to the
-Bureau's rolling-shutter report, and then
+00:01:41,499 --> 00:01:47,616
+spoke aloud, that he knew it, and that he spoke it in
+the first ninety seconds on purpose.
 
 23
-00:02:17,620 --> 00:02:23,496
-to an interview with a retired Army Ranger
-explaining how adrenaline and training could
+00:01:48,135 --> 00:01:49,524
+(flat) No. I haven't.
 
 24
-00:02:23,516 --> 00:02:29,324
-make a fit man look astonishingly fast in the dark,
-and then to the obituary of Doctor
+00:01:49,924 --> 00:01:50,774
+Why not?
 
 25
-00:02:29,344 --> 00:02:35,219
-Howard Lessing — a respected senior scientist,
-murdered by corporate mercenaries in the
+00:01:51,174 --> 00:01:56,610
+Because the day I write it down it belongs to the
+agency, and the agency belongs to whoever
 
 26
-00:02:35,239 --> 00:02:38,675
-building where he had worked for
-thirty-four years.
+00:01:56,630 --> 00:02:01,827
+is running it in eighteen months, and I've watched
+four things I cared about get handed
 
 27
-00:02:39,246 --> 00:02:45,100
-And then, on the fourth day, a leak. An anonymous
-source inside the investigation — Tomás
+00:02:01,847 --> 00:02:07,104
+to people who didn't understand them. So I read, and
+I think, and I wait to see what you
 
 28
-00:02:45,120 --> 00:02:50,711
-never said who, and Carrick never found out — told
-a reporter at a national newspaper
+00:02:07,124 --> 00:02:07,344
+are.
 
 29
-00:02:50,731 --> 00:02:56,520
-that the four dead intruders had been employed by a
-security contractor in Virginia, and
+00:02:07,743 --> 00:02:08,973
+And what am I?
 
 30
-00:02:56,540 --> 00:03:02,923
-that the contractor had been paid through consultants
-linked to one of the largest pharmaceutical
+00:02:09,373 --> 00:02:14,583
+You're a capability. That's the only word that fits.
+You're not a company and you're not
 
 31
-00:03:02,943 --> 00:03:04,441
-companies in the world.
+00:02:14,603 --> 00:02:20,111
+a foreign power and you're certainly not a
+philanthropist. You're a capability that presently
 
 32
-00:03:05,012 --> 00:03:10,958
-By the end of the week, the story of the ghost video
-was not a story about a man who could
+00:02:20,131 --> 00:02:24,508
+has no owner, and my entire profession is the
+acquisition of capabilities.
 
 33
-00:03:10,978 --> 00:03:17,255
-move at the speed of sound. It was a story about
-corporate espionage, and a murdered scientist,
+00:02:24,909 --> 00:02:31,159
+Wesker regarded him for a moment with what was,
+for once, unambiguous pleasure.
 
 34
-00:03:17,275 --> 00:03:21,895
-and a chief executive who had defended his
-people with his bare hands.
+00:02:31,680 --> 00:02:37,889
+Mr. Sloane, in eight years you are the first
+person to use the correct noun.
 
 35
-00:03:22,466 --> 00:03:29,018
-The Sunglasses CEO was a hero. Somebody made a
-T-shirt of frame one thousand one hundred
+00:02:38,289 --> 00:02:44,417
+The conversation lasted four hours and the narrator
+will give you the spine of it, because
 
 36
-00:03:29,038 --> 00:03:32,230
-and fourteen. It said: don't
-touch his lab.
+00:02:44,437 --> 00:02:50,361
+it is a negotiation between two men who both knew
+exactly what the other one wanted and
 
 37
-00:03:34,420 --> 00:03:36,811
-They are cheering. For the killing.
+00:02:50,381 --> 00:02:53,639
+neither of whom said so for the
+first two hours.
 
 38
-00:03:37,330 --> 00:03:42,063
-They're cheering for the story. The killing was
-an inconvenience I've converted.
+00:02:54,159 --> 00:02:59,305
+Let me tell you what I'd have brought if I'd come
+here to threaten you. Nine years of
 
 39
-00:03:42,584 --> 00:03:48,922
-You are learning what I learned. They do not want
-the truth. They want to be told who
+00:02:59,325 --> 00:03:04,471
+anomalies — construction records, personnel files
+with no school photographs, a Swiss
 
 40
-00:03:48,942 --> 00:03:49,819
-the hero is.
+00:03:04,491 --> 00:03:07,509
+loading bay. Nineteen things that
+don't reconcile.
 
 41
-00:03:51,841 --> 00:03:57,555
-Owen Carrick did not accept the story. He could not.
-He had watched frame one thousand
+00:03:07,909 --> 00:03:15,119
+Forty-one things. Agent Carrick had
+forty-one, and he had them in 2033.
 
 42
-00:03:57,575 --> 00:04:01,157
-one hundred and fourteen more times
-than anyone alive.
+00:03:15,520 --> 00:03:21,158
+Carrick. Yes. That was elegant. He was the best
+records man in the Bureau and you hired
 
 43
-00:04:01,725 --> 00:04:07,262
-He took the frames home. He printed them. He laid
-them out on the kitchen table after
+00:03:21,178 --> 00:03:22,590
+him to audit yourself.
 
 44
-00:04:07,282 --> 00:04:12,885
-his daughters had gone to bed, in a row, from
-eleven-ten to eleven-fifteen, and he sat
+00:03:22,990 --> 00:03:29,290
+I hired him because he was right, and because a man
+who is right is more useful inside
 
 45
-00:04:12,905 --> 00:04:18,638
-and looked at them with a legal pad and a calculator,
-and at two in the morning his wife
+00:03:29,310 --> 00:03:35,537
+an organisation than outside it, and because I have
+never in my life removed a person
 
 46
-00:04:18,658 --> 00:04:20,469
-Laura found him still there.
+00:03:35,557 --> 00:03:36,639
+for competence.
 
 47
-00:04:21,158 --> 00:04:22,482
-Owen. Come to bed.
+00:03:37,039 --> 00:03:38,891
+That's an unusual policy.
 
 48
-00:04:23,002 --> 00:04:29,053
-The Bureau says it's a rolling-shutter artefact. It
-isn't. I've read the paper they cited.
+00:03:39,290 --> 00:03:41,980
+It is the only one that scales.
 
 49
-00:04:29,073 --> 00:04:35,124
-A rolling-shutter smear is diagonal. This is
-horizontal. And the figure in eleven-fourteen
+00:03:42,381 --> 00:03:44,530
+Sloane turned his glass on the table.
 
 50
-00:04:35,144 --> 00:04:40,453
-isn't smeared at all. He's standing still. You
-can see the buttons on his coat.
+00:03:45,050 --> 00:03:50,027
+Here's my difficulty. I can't put you in a box
+marked *foreign*, so I can't run you. I
 
 51
-00:04:40,973 --> 00:04:41,593
-Owen.
+00:03:50,047 --> 00:03:55,024
+can't put you in a box marked *domestic*, so I can't
+refer you. And every year the box
 
 52
-00:04:42,112 --> 00:04:47,643
-Forty metres, Laura. In four frames. And then he
-stops. Dead. From three hundred metres
+00:03:55,044 --> 00:04:00,369
+I'd need to build gets more expensive, and every year
+you do something enormous and generous
 
 53
-00:04:47,663 --> 00:04:53,129
-a second to nothing in one frame. Do you know what
-that does to a human body? It turns
+00:04:00,389 --> 00:04:03,680
+and public that makes building it
+politically impossible.
 
 54
-00:04:53,149 --> 00:04:57,403
-it into paste. And he's just standing
-there. Looking at the camera.
+00:04:03,961 --> 00:04:08,616
+In March of last year you saved four million
+people. In April you handed the Senate a
 
 55
-00:04:59,425 --> 00:05:05,105
-Laura Carrick taught eighth-grade science. She
-understood the arithmetic. That was what
+00:04:08,636 --> 00:04:13,622
+hostage worth two hundred and forty billion dollars.
+You have made yourself un-investigable
 
 56
-00:05:05,125 --> 00:05:10,674
-frightened her — not that her husband was wrong,
-but that she could not find where he
+00:04:13,642 --> 00:04:17,583
+by being *good*, and I would like to know
+whether that was the strategy.
 
 57
-00:05:10,694 --> 00:05:10,937
-was.
+00:04:17,983 --> 00:04:25,672
+It was a consequence. The strategy was to build
+something that worked. But yes, I understood
 
 58
-00:05:11,627 --> 00:05:12,919
-What are you going to do?
+00:04:25,692 --> 00:04:32,877
+the consequence in 2027, and I have optimised for it
+ever since, and I am not going to
 
 59
-00:05:13,439 --> 00:05:15,413
-I'm going to find out who he is.
+00:04:32,897 --> 00:04:35,894
+pretend otherwise to a professional.
 
 60
-00:05:17,432 --> 00:05:20,877
-He began where you always begin.
-With the paperwork.
+00:04:36,569 --> 00:04:38,614
+All right. Then what do you want from me?
 
 61
-00:05:21,447 --> 00:05:27,789
-Albert Wesker. Born in Basel, Switzerland, according
-to his American visa application.
+00:04:39,012 --> 00:04:43,856
+And here Albert Wesker did the thing he had
+planned for eleven months.
 
 62
-00:05:27,809 --> 00:05:34,224
-A doctorate from a private Swiss research institute
-that had closed in twenty nineteen.
+00:04:44,377 --> 00:04:45,127
+Nothing.
 
 63
-00:05:34,244 --> 00:05:40,586
-A career of short research contracts in Germany,
-France, and Singapore. Taxes paid, in
+00:04:45,528 --> 00:04:46,447
+(flat) Don't.
 
 64
-00:05:40,606 --> 00:05:47,391
-every country, on time. An American work visa, renewed
-without incident. A mother, deceased,
+00:04:46,846 --> 00:04:53,604
+I am entirely serious. I do not want access. I do
+not want product. I do not want you
 
 65
-00:05:47,411 --> 00:05:54,122
-buried in a Protestant cemetery outside Basel —
-Carrick found a photograph of the headstone
+00:04:53,624 --> 00:05:00,622
+to tell me anything your service knows, and if you
+offered it to me I would decline, and
 
 66
-00:05:54,142 --> 00:06:00,706
-on a genealogy website, with the inscription clear
-and the moss exactly where moss should
+00:05:00,642 --> 00:05:02,776
+I would decline in writing.
 
 67
-00:06:00,726 --> 00:06:00,927
-be.
+00:05:03,175 --> 00:05:04,627
+Then why am I here?
 
 68
-00:06:01,499 --> 00:06:04,787
-It was perfect. That was what he
-noticed, in the end.
+00:05:05,026 --> 00:05:11,336
+Because in about six years an agency of this
+government is going to decide that Umbrella
 
 69
-00:06:05,357 --> 00:06:11,621
-He had spent seventeen years looking into people's
-pasts. He knew what a real past looked
+00:05:11,356 --> 00:05:17,809
+is a target, and it is going to be wrong, and the
+decision is going to be made by somebody
 
 70
-00:06:11,641 --> 00:06:17,976
-like. A real past was full of holes — a gap of eight
-months nobody could explain, a school
+00:05:17,829 --> 00:05:23,995
+who has read a summary. I want there to be one
+person in that building who has spent a
 
 71
-00:06:17,996 --> 00:06:23,978
-that had lost its records in a flood, a landlord
-who remembered the wrong year, a tax
+00:05:24,015 --> 00:05:30,181
+decade reading the primary material and who can say,
+with authority, *I have looked at
 
 72
-00:06:23,998 --> 00:06:30,333
-return filed late because of a divorce. Real lives
-were messy. Real paperwork contradicted
+00:05:30,201 --> 00:05:34,137
+this for ten years and it is not
+what you think it is.*
 
 73
-00:06:30,353 --> 00:06:30,828
-itself.
+00:05:34,416 --> 00:05:41,777
+I do not want an asset, Mr. Sloane. I want an
+*informed adult* in a room I will never
 
 74
-00:06:31,399 --> 00:06:38,059
-Albert Wesker's did not contradict itself once. Every
-date matched every other date. Every
+00:05:41,797 --> 00:05:43,166
+be allowed into.
 
 75
-00:06:38,079 --> 00:06:44,442
-school had its records. Every landlord remembered
-him, correctly and fondly. Every tax
+00:05:43,567 --> 00:05:45,537
+Martin Sloane sat very still.
 
 76
-00:06:44,462 --> 00:06:45,853
-return was on time.
+00:05:46,057 --> 00:05:51,179
+That's not a recruitment. That's worse. If I say yes
+to that, I haven't been bought, I've
 
 77
-00:06:46,422 --> 00:06:51,442
-It was not the past of a man. It was the past of
-a man that someone had built.
+00:05:51,199 --> 00:05:54,358
+been — persuaded. And I'll never be
+able to tell which.
 
 78
-00:06:53,512 --> 00:06:59,420
-The System had given the Director that deep identity
-in a ten-pull in a basement, three
+00:05:54,757 --> 00:05:56,668
+No. You will not.
 
 79
-00:06:59,440 --> 00:07:05,349
-years before, as a Rare, between an industrial
-coffee machine and a blueprint fragment.
+00:05:57,507 --> 00:05:58,725
+And what do I get?
 
 80
-00:07:05,369 --> 00:07:07,598
-It had made his history flawless.
+00:05:59,125 --> 00:06:05,844
+You get the truth. All of it, tonight, once, with no
+conditions, and you may do anything
 
 81
-00:07:08,168 --> 00:07:13,838
-It was, as the narrator warned you, the first mistake
-the System ever made on his behalf.
+00:06:05,864 --> 00:06:11,895
+you like with it. That is the entire offer and
+it does not improve if you wait.
 
 82
-00:07:13,858 --> 00:07:18,952
-And the man it had been made for would not learn
-about it for another two years.
+00:06:12,295 --> 00:06:13,315
+He told him.
 
 83
-00:07:21,024 --> 00:07:23,482
-He found the Delgado report in March.
+00:06:13,714 --> 00:06:19,066
+Not as much as he had told Carrick — there was no
+diner recording, no admission about
 
 84
-00:07:24,052 --> 00:07:29,752
-It was in a state environmental database, four years
-old — a routine inspection of the
+00:06:19,086 --> 00:06:24,879
+Newark — but the shape of it: that Umbrella's growth
+was not financed in any way a financial
 
 85
-00:07:29,772 --> 00:07:36,071
-old building in the autumn of twenty twenty-six,
-prompted by a complaint from the then-landlord
+00:06:24,899 --> 00:06:30,376
+analyst would recognise, that the buildings did not
+have construction histories because
 
 86
-00:07:36,091 --> 00:07:41,925
-about unauthorised industrial equipment. The
-complaint had been closed as unfounded. The
+00:06:30,396 --> 00:06:35,811
+they had not been constructed, that there were three
+facilities on earth that appeared
 
 87
-00:07:41,945 --> 00:07:47,646
-facility had been described as exemplary in its
-cooperation. The only deficiency noted
+00:06:35,831 --> 00:06:41,182
+on no plan, and that the thing which made it all
+possible was not a technology, not a
 
 88
-00:07:47,666 --> 00:07:53,433
-was a solvent store on the second floor, which the
-director had asked — in writing — to
+00:06:41,202 --> 00:06:42,824
+network, and not a person.
 
 89
-00:07:53,453 --> 00:07:54,298
-be cited for.
+00:06:43,345 --> 00:06:45,992
+(very slow) You're telling me
+there's an intelligence.
 
 90
-00:07:54,867 --> 00:07:59,206
-Carrick read that line three times. The
-director had asked to be cited.
+00:06:46,391 --> 00:06:48,961
+I am telling you there is a
+*counterparty*.
 
 91
-00:07:59,776 --> 00:08:05,132
-In seventeen years, he had never known a company
-to ask to be cited for anything.
+00:06:49,362 --> 00:06:50,082
+Whose?
 
 92
-00:08:05,822 --> 00:08:10,716
-He was the nicest guy I ever inspected. Honestly.
-Walked me through every room himself.
+00:06:50,482 --> 00:06:57,298
+I have asked that question four hundred times in
+eight years. I have received an answer
 
 93
-00:08:10,736 --> 00:08:15,573
-Showed me the basement first. There was this big air
-handler down there, Arcturus, and
+00:06:57,318 --> 00:07:03,192
+twice, and both answers were the same three
+words: *the panel is accurate.*
 
 94
-00:08:15,593 --> 00:08:20,713
-the landlord had lost his mind about it, and it was
-all in order. Permits, log, everything.
+00:07:03,591 --> 00:07:06,221
+Sloane looked into the fire for
+a long moment.
 
 95
-00:08:21,233 --> 00:08:24,653
-Did it strike you as strange? That he
-wanted to be written up?
+00:07:06,742 --> 00:07:12,132
+You know what the terrifying part is? Not the
+building. Not the memories. It's that you've
 
 96
-00:08:25,173 --> 00:08:30,201
-At the time? No. At the time I thought, finally,
-somebody who takes this seriously.
+00:07:12,152 --> 00:07:17,363
+told me, and there is nothing whatsoever I can do
+with it. If I file this I'm finished.
 
 97
-00:08:31,601 --> 00:08:36,618
-Now? Now I think about it a lot. I think — he knew
-exactly what I wanted. Before I did.
+00:07:17,383 --> 00:07:21,572
+If I bury it I'm yours. You've made the
+truth into a — a kind of trap.
 
 98
-00:08:36,638 --> 00:08:41,712
-And he gave it to me. And I walked right past that
-machine in the corner, Agent Carrick,
+00:07:21,971 --> 00:07:29,391
+Yes. I have done that four times now and it works
+every time, and I will tell you exactly
 
 99
-00:08:41,732 --> 00:08:43,506
-and I wrote the word exemplary.
+00:07:29,411 --> 00:07:36,997
+why: because the truth about me is too large for any
+institution to carry, and institutions
 
 100
-00:08:45,527 --> 00:08:48,952
-He met Hannah Price in April. It
-was her idea.
+00:07:37,017 --> 00:07:39,421
+are the only things you have.
 
 101
-00:08:49,523 --> 00:08:55,096
-She had written to him through the Bureau's public
-affairs office, which was procedure,
+00:07:40,451 --> 00:07:48,231
+Roster. New. Martin J. Sloane. Human. Loyalty, forty
+per cent. He has not agreed to anything
 
 102
-00:08:55,116 --> 00:09:00,818
-and then, when public affairs had declined on his
-behalf, she had found his home address,
+00:07:48,251 --> 00:07:55,607
+and will not. He will never again permit a
+subordinate to write the word hostile beside
 
 103
-00:09:00,838 --> 00:09:06,411
-which was not. She did not go to his home. She left
-a note in his mailbox with the name
+00:07:55,627 --> 00:07:59,083
+your name. Eight hundred thousand Points.
 
 104
-00:09:06,431 --> 00:09:12,262
-of a bar in Philadelphia and a time, and the words:
-frame eleven-fourteen. I have something
+00:07:59,673 --> 00:08:05,733
+Six days later Wesker spent nine hundred thousand
+Points in the Intelligence tab, and
 
 105
-00:09:12,282 --> 00:09:12,905
-you don't.
+00:08:05,753 --> 00:08:11,743
+the narrator will describe what he bought because
+it explains the next twenty years.
 
 106
-00:09:13,595 --> 00:09:17,532
-I'm not going to write about you. That's the first
-thing. I'm off the record. I want to
+00:08:12,892 --> 00:08:21,201
+Purchase. Asset Network, United States. Nine hundred
+thousand. Forty-one persons in government,
 
 107
-00:09:17,552 --> 00:09:21,353
-know what you know, and I'll tell you what I know,
-and nobody ever finds out we met.
+00:08:21,221 --> 00:08:28,652
+media and finance. Each believes they were
+recruited by someone else, for an ordinary
 
 108
-00:09:21,873 --> 00:09:23,198
-Why would I trust you?
+00:08:28,672 --> 00:08:36,192
+reason, at a plausible moment in their own past.
+None has ever heard the word Umbrella
 
 109
-00:09:23,717 --> 00:09:28,020
-Because two years ago I sat across a dinner table
-from him and asked him about Control
+00:08:36,212 --> 00:08:37,594
+in that context.
 
 110
-00:09:28,040 --> 00:09:32,292
-Seven, and his face didn't move. And then he told
-me Howard Lessing's name before I'd
+00:08:38,184 --> 00:08:40,694
+None of them knows they work for me.
 
 111
-00:09:32,312 --> 00:09:36,564
-said it. And when I got home, somebody had been in
-my apartment and moved my notebook
+00:08:41,095 --> 00:08:47,482
+None of them works for you. Each of them works for
+a version of their own career that
 
 112
-00:09:36,584 --> 00:09:37,017
-one inch.
+00:08:47,502 --> 00:08:53,965
+has always included a particular set of instincts.
+They will not do what you ask. They
 
 113
-00:09:39,037 --> 00:09:44,525
-Carrick looked at her for a long time. Then he took
-a folded piece of paper out of his
+00:08:53,985 --> 00:09:01,052
+will do what they have always believed, and what they
+have always believed will be convenient.
 
 114
-00:09:44,545 --> 00:09:50,033
-jacket and put it on the bar between them. It was a
-printout of frame one thousand one
+00:09:01,836 --> 00:09:06,625
+(very cold) That is the most frightening
+item you have ever sold me.
 
 115
-00:09:50,053 --> 00:09:51,378
-hundred and fourteen.
+00:09:07,025 --> 00:09:11,303
+It is the fourth most frightening
+item in that tab.
 
 116
-00:09:52,067 --> 00:09:53,739
-What do you have that I don't?
+00:09:11,703 --> 00:09:16,860
+He never bought the other three. He looked at them,
+once a year, for thirty years, and
 
 117
-00:09:55,259 --> 00:09:59,438
-A man named Rick Dorsey. He's a deacon at a church
-in Lancaster County. In December of
+00:09:16,880 --> 00:09:21,193
+did not buy them, and the narrator has chosen
+not to say what they were.
 
 118
-00:09:59,458 --> 00:10:03,735
-twenty twenty-six, Graham Tolliver paid him to break
-into the basement of that building.
+00:09:21,594 --> 00:09:23,724
+The voice inside him, unasked.
 
 119
-00:10:03,755 --> 00:10:08,032
-He saw two men who didn't blink. And a machine in the
-corner that breathed. And a window
+00:09:24,244 --> 00:09:25,925
+You are squeamish.
 
 120
-00:10:08,052 --> 00:10:11,107
-in the machine. And he says something
-inside it opened its eye.
+00:09:26,323 --> 00:09:33,148
+I am *disciplined*. There is a difference, and it is
+the reason I am here in 2034 with
 
 121
-00:10:13,128 --> 00:10:18,369
-Carrick did not say anything for a while. The
-bartender came, and went away again.
+00:09:33,168 --> 00:09:39,913
+a trillion dollars and a Senate that likes me, and
+you were in a bunker at fifty-six.
 
 122
-00:10:19,057 --> 00:10:20,087
-Arcturus.
+00:09:40,589 --> 00:09:45,395
+That is the first time you have ever
+used it as a weapon.
 
 123
-00:10:20,607 --> 00:10:21,356
-What?
+00:09:45,794 --> 00:09:48,524
+It is the first time you have deserved it.
 
 124
-00:10:21,876 --> 00:10:27,595
-The air handler. The one that isn't there anymore.
-The state inspector saw it in twenty
+00:09:48,924 --> 00:09:54,553
+The narrator notes that the passenger did not speak
+again for nine days, which is the
 
 125
-00:10:27,615 --> 00:10:33,465
-twenty-six. Wesker told us it was replaced. There's a
-bare patch of painted concrete with
+00:09:54,573 --> 00:10:00,268
+longest silence between them in sixty-five years,
+and that when he did speak it was to
 
 126
-00:10:33,485 --> 00:10:35,378
-four bolt holes where it was.
+00:10:00,288 --> 00:10:06,049
+point out — correctly — that Wesker had scheduled a
+public appearance at the wrong time
 
 127
-00:10:36,898 --> 00:10:38,388
-Replaced with what?
+00:10:06,069 --> 00:10:06,514
+of day.
 
 128
-00:10:38,908 --> 00:10:43,632
-Nothing. The corner's empty. Whatever it was —
-it's gone. Or it went somewhere.
+00:10:06,914 --> 00:10:12,772
+Owen Carrick had been Director of Internal Security
+for seven months, and he came up to
 
 129
-00:10:45,652 --> 00:10:51,087
-They sat at the bar until it closed. They compared
-notes, and dates, and names. And at
+00:10:12,792 --> 00:10:16,555
+the sixth floor with a folder on the
+last night of June.
 
 130
-00:10:51,107 --> 00:10:56,670
-the end of the night, standing on the sidewalk in the
-rain, two people who had each been
+00:10:17,075 --> 00:10:18,765
+(flat) Asset Network One.
 
 131
-00:10:56,690 --> 00:11:02,126
-alone with the same impossible thing for too long
-looked at each other, and understood
+00:10:19,164 --> 00:10:22,335
+That is not in any system you
+have access to.
 
 132
-00:11:02,146 --> 00:11:04,092
-that they were no longer alone.
+00:10:22,735 --> 00:10:28,697
+(flat) No. But four hundred and eleven Points came off
+an internal ledger that Pell reconciles
 
 133
-00:11:04,663 --> 00:11:10,770
-It was, the Director would reflect later, the second
-mistake. Not the System's, this time.
+00:10:28,717 --> 00:10:34,361
+monthly, and nine hundred thousand of something came
+off it in June, and I've spent three
 
 134
-00:11:10,790 --> 00:11:11,043
-His.
+00:10:34,381 --> 00:10:39,899
+weeks working out what the something is. I can't see
+the panels. I can see the *holes*.
 
 135
-00:11:11,613 --> 00:11:18,419
-He had spent three years making sure that everyone who
-saw too much was isolated — discredited,
+00:10:40,298 --> 00:10:46,633
+Wesker put down his pen and, the narrator notes,
+looked genuinely pleased for the second
 
 136
-00:11:18,439 --> 00:11:24,527
-or frightened, or converted, or dead. He had
-forgotten that isolated people sometimes
+00:10:46,653 --> 00:10:47,788
+time in a month.
 
 137
-00:11:24,547 --> 00:11:25,677
-find each other.
+00:10:48,308 --> 00:10:51,158
+Go on, then. Tell me no.
 
 138
-00:11:27,746 --> 00:11:33,362
-He knew about the meeting within a day. The Silent
-Ones had followed Hannah Price for
+00:10:51,558 --> 00:10:57,138
+Forty-one people in government and media who think
+they woke up one day with a set of
 
 139
-00:11:33,382 --> 00:11:39,196
-two years, on and off. They had not been able to hear
-what was said in the bar. They had
+00:10:57,158 --> 00:11:02,738
+opinions. That's not intelligence work. That's not
+even corruption. Corruption leaves
 
 140
-00:11:39,216 --> 00:11:40,125
-not needed to.
+00:11:02,758 --> 00:11:07,876
+a man who knows he was bought — and a man who
+knows he was bought can confess.
 
 141
-00:11:40,815 --> 00:11:43,475
-The policeman and the journalist.
+00:11:08,157 --> 00:11:10,587
+You've built something nobody
+can confess to.
 
 142
-00:11:43,995 --> 00:11:44,634
+00:11:11,427 --> 00:11:12,297
 Yes.
 
 143
-00:11:45,154 --> 00:11:51,095
-This is how it begins. Always. Two people in a room
-who have seen the same thing. Then
+00:11:12,697 --> 00:11:17,986
+Then I'm telling you no. Formally. It's in the
+folder, it's dated, and I'd like it in
 
 144
-00:11:51,115 --> 00:11:56,987
-four. Then a newspaper. Then a court. I have seen
-it. I have done it. I built a party
+00:11:18,006 --> 00:11:20,547
+the record you keep of the things I said.
 
 145
-00:11:57,007 --> 00:12:01,007
-out of men in a beer hall who had all
-seen the same thing.
+00:11:20,947 --> 00:11:27,038
+Wesker took the folder and read it — all twenty-two
+pages, in front of him, while Carrick
 
 146
-00:12:01,527 --> 00:12:06,856
-They haven't seen anything. They've seen a smear on a
-dashcam and heard a deacon's ghost
+00:11:27,058 --> 00:11:32,876
+stood there — and then put it in the drawer of the
+desk where four such folders would
 
 147
-00:12:06,876 --> 00:12:07,221
-story.
+00:11:32,896 --> 00:11:33,975
+eventually live.
 
 148
-00:12:07,740 --> 00:12:13,379
-They have seen enough to know what to look for.
-That is all a hunter ever needs.
+00:11:34,495 --> 00:11:36,846
+Noted, and overruled.
 
 149
-00:12:15,399 --> 00:12:17,576
-For once, Wesker did not argue.
+00:11:37,245 --> 00:11:38,456
+(flat) Understood.
 
 150
-00:12:18,147 --> 00:12:24,009
-He stood at the window for a long time, looking down
-at the parking lot where four frames
+00:11:38,855 --> 00:11:45,586
+Mr. Carrick. Do you want to know why I am not
+going to take the network apart?
 
 151
-00:12:24,029 --> 00:12:29,825
-of video had undone three years of silence, and he
-thought, in the Thought Acceleration,
+00:11:45,985 --> 00:11:48,383
+I'd rather you told me than let me guess.
 
 152
-00:12:29,845 --> 00:12:31,941
-through every way this could go.
+00:11:48,783 --> 00:11:55,593
+Because in 2040 somebody in that government is going to
+decide to move against this company,
 
 153
-00:12:32,509 --> 00:12:35,634
-It could go many ways. In most
-of them, he won.
+00:11:55,613 --> 00:12:02,126
+and the difference between forty-one people with
+convenient instincts and no such people
 
 154
-00:12:36,205 --> 00:12:42,196
-But for the first time since he had woken in a
-leather chair in the rain, there were some
+00:12:02,146 --> 00:12:08,436
+is the difference between a bad six months and a
+war. I am not buying influence. I am
 
 155
-00:12:42,216 --> 00:12:47,938
-in which he did not. And the ones in which he did
-not all began with an FBI agent and
+00:12:08,456 --> 00:12:09,773
+buying *friction*.
 
 156
-00:12:47,958 --> 00:12:53,679
-a journalist, standing on a sidewalk in
-Philadelphia, in the rain, deciding not to be
+00:12:10,173 --> 00:12:12,383
+Carrick thought about that for a moment.
 
 157
-00:12:53,699 --> 00:12:54,085
-alone.
+00:12:12,903 --> 00:12:16,773
+That's the first answer you've given me
+that I can't take apart.
+
+158
+00:12:17,173 --> 00:12:24,415
+It is also true. Those two things will not always
+coincide, and I would ask you to keep
+
+159
+00:12:24,435 --> 00:12:27,002
+watching for the day they stop.
