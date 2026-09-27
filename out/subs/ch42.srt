@@ -1,720 +1,720 @@
 1
-00:00:16,800 --> 00:00:20,407
+00:00:09,000 --> 00:00:12,606
 Nobody tells you what it is like the
 day after you win.
 
 2
-00:00:20,977 --> 00:00:26,819
+00:00:13,176 --> 00:00:19,019
 The stories all stop at the balcony. The crowd
 chants, the banner goes up, the panel says
 
 3
-00:00:26,839 --> 00:00:32,418
+00:00:19,039 --> 00:00:24,618
 integration complete, and the curtain comes down —
 because the interesting part, in a
 
 4
-00:00:32,438 --> 00:00:38,214
+00:00:24,638 --> 00:00:30,414
 story, is the getting. Nobody writes the part where
 the man who has taken the world sits
 
 5
-00:00:38,234 --> 00:00:42,759
+00:00:30,434 --> 00:00:34,960
 down on a Tuesday morning in front of nine
 hundred pages about water.
 
 6
-00:00:43,329 --> 00:00:49,185
+00:00:35,529 --> 00:00:41,385
 That is what the first years of the Umbrella
 Directorate actually were. Water. Grain.
 
 7
-00:00:49,205 --> 00:00:55,130
+00:00:41,405 --> 00:00:47,330
 Antibiotics. Power grids in four hundred cities that
 had been deferred for forty years
 
 8
-00:00:55,150 --> 00:00:59,692
+00:00:47,350 --> 00:00:51,893
 by governments that would not be in office
 when the bill came due.
 
 9
-00:01:01,762 --> 00:01:07,573
+00:00:53,963 --> 00:00:59,773
 He was good at it. That is the part the narrator has
 to say plainly, because it is the
 
 10
-00:01:07,593 --> 00:01:09,879
+00:00:59,793 --> 00:01:02,078
 reason none of it was ever undone.
 
 11
-00:01:10,450 --> 00:01:16,224
+00:01:02,649 --> 00:01:08,424
 In the first decade of the Directorate, global
 childhood mortality fell by seventy-one
 
 12
-00:01:16,244 --> 00:01:22,154
+00:01:08,444 --> 00:01:14,354
 percent. Four hundred million people were connected
 to a reliable electricity supply for
 
 13
-00:01:22,174 --> 00:01:28,016
+00:01:14,374 --> 00:01:20,216
 the first time. The Sahel water programme, which
 nineteen international bodies had been
 
 14
-00:01:28,036 --> 00:01:33,811
+00:01:20,236 --> 00:01:26,011
 unable to fund for thirty years, was built in six,
 because one entity decided to build
 
 15
-00:01:33,831 --> 00:01:37,180
+00:01:26,031 --> 00:01:29,380
 it and no committee was permitted
 to slow it down.
 
 16
-00:01:37,751 --> 00:01:43,758
+00:01:29,950 --> 00:01:35,958
 He did not do it out of compassion. He had said so
 from a balcony, in front of six billion
 
 17
-00:01:43,778 --> 00:01:49,517
+00:01:35,978 --> 00:01:41,717
 people, and nobody had listened. He did it because a
 badly-run world offended him, and
 
 18
-00:01:49,537 --> 00:01:55,343
+00:01:41,737 --> 00:01:47,543
 because a population that is fed, watered, and
 healthy produces more, resists less, and
 
 19
-00:01:55,363 --> 00:02:01,303
+00:01:47,563 --> 00:01:53,503
 — the System was very clear on this point, in panels
 he read every morning — pays better.
 
 20
-00:02:04,623 --> 00:02:06,367
+00:01:56,823 --> 00:01:58,567
 Assessment. Quarterly.
 
 21
-00:02:12,348 --> 00:02:13,993
+00:02:04,549 --> 00:02:06,194
 Nought point four percent.
 
 22
-00:02:14,563 --> 00:02:20,572
+00:02:06,763 --> 00:02:12,772
 Thirty-five million people, spread across a planet
 of nearly nine billion, who did not
 
 23
-00:02:20,592 --> 00:02:26,530
+00:02:12,792 --> 00:02:18,730
 agree. The System counted them every quarter, in a
 line of small text, and never once
 
 24
-00:02:26,550 --> 00:02:28,772
+00:02:18,750 --> 00:02:20,972
 suggested what to do about them.
 
 25
-00:02:31,342 --> 00:02:37,891
+00:02:23,543 --> 00:02:30,091
 Doctor Nadia Okafor was sixty-four years old and had
 been writing the same book for nineteen
 
 26
-00:02:37,911 --> 00:02:38,319
+00:02:30,111 --> 00:02:30,520
 years.
 
 27
-00:02:38,890 --> 00:02:44,342
+00:02:31,090 --> 00:02:36,541
 She had left Umbrella in twenty twenty-nine, walked
 out into the rain without opening
 
 28
-00:02:44,362 --> 00:02:49,813
+00:02:36,561 --> 00:02:42,012
 an umbrella, and filed a complaint that had started
 everything — the CDC, the Bureau,
 
 29
-00:02:49,833 --> 00:02:55,542
+00:02:42,032 --> 00:02:47,741
 Carrick, all of it. She had been right about every
 single thing in it. She had also been,
 
 30
-00:02:55,562 --> 00:03:01,335
+00:02:47,761 --> 00:02:53,534
 from the moment the Court of Chancery wrote footnote
 fourteen, a woman that serious people
 
 31
-00:03:01,355 --> 00:03:03,974
+00:02:53,554 --> 00:02:56,173
 were careful not to be photographed with.
 
 32
-00:03:04,544 --> 00:03:10,570
+00:02:56,745 --> 00:03:02,770
 She had gone home to Lagos in twenty thirty-four. She
 had taught virology at a university
 
 33
-00:03:10,590 --> 00:03:16,547
+00:03:02,790 --> 00:03:08,747
 for fifteen years, and been an excellent teacher, and
 been quietly passed over for every
 
 34
-00:03:16,567 --> 00:03:22,320
+00:03:08,767 --> 00:03:14,520
 chair she applied for, because the university's new
 science faculty had been built by
 
 35
-00:03:22,340 --> 00:03:26,328
+00:03:14,540 --> 00:03:18,528
 the Umbrella Foundation and nobody had
 to be told anything.
 
 36
-00:03:26,897 --> 00:03:32,503
+00:03:19,098 --> 00:03:24,703
 The book was called The Thing In The Basement. It
 was four hundred pages long. It was
 
 37
-00:03:32,523 --> 00:03:38,327
+00:03:24,723 --> 00:03:30,527
 meticulous, and sourced, and unhysterical, and it
 named dates and shipping manifests and
 
 38
-00:03:38,347 --> 00:03:43,357
+00:03:30,547 --> 00:03:35,557
 a black binder on a bench on the ninth floor in
 February twenty twenty-nine.
 
 39
-00:03:43,927 --> 00:03:49,737
+00:03:36,127 --> 00:03:41,937
 Nine publishers read it. Four of them said it was the
 most important manuscript they had
 
 40
-00:03:49,757 --> 00:03:55,435
+00:03:41,957 --> 00:03:47,635
 ever been sent. None of them published it. Two said
 so honestly, over a drink, off the
 
 41
-00:03:55,455 --> 00:04:01,132
+00:03:47,655 --> 00:03:53,332
 record, in words that amounted to the same thing: we
 would not survive it, and neither
 
 42
-00:04:01,152 --> 00:04:01,794
+00:03:53,352 --> 00:03:53,994
 would you.
 
 43
-00:04:03,865 --> 00:04:10,005
+00:03:56,064 --> 00:04:02,205
 She published it herself, in twenty fifty-one, as a
 file, for nothing, from a server in
 
 44
-00:04:10,025 --> 00:04:12,272
+00:04:02,225 --> 00:04:04,472
 a country that no longer exists.
 
 45
-00:04:12,842 --> 00:04:18,964
+00:04:05,042 --> 00:04:11,164
 It was downloaded four million times in the first
 month. It was never taken down — the
 
 46
-00:04:18,984 --> 00:04:25,249
+00:04:11,184 --> 00:04:17,449
 Directorate did not take things down; Tomás's
 successors had understood for a generation
 
 47
-00:04:25,269 --> 00:04:31,320
+00:04:17,469 --> 00:04:23,520
 that suppression is what makes a document holy. It
 was simply surrounded, within nine
 
 48
-00:04:31,340 --> 00:04:37,534
+00:04:23,540 --> 00:04:29,734
 days, by four hundred thoughtful articles explaining
 its context, and by a documentary,
 
 49
-00:04:37,554 --> 00:04:43,819
+00:04:29,754 --> 00:04:36,019
 and by the recollections of eleven of her former
 colleagues, all of whom spoke about her
 
 50
-00:04:43,839 --> 00:04:46,747
+00:04:36,039 --> 00:04:38,947
 with enormous warmth and visible sadness.
 
 51
-00:04:47,317 --> 00:04:53,858
+00:04:39,516 --> 00:04:46,058
 By twenty fifty-four, if you searched her name, the
 fourth result was a serious, sympathetic,
 
 52
-00:04:53,878 --> 00:04:59,856
+00:04:46,078 --> 00:04:52,056
 scrupulously sourced account of a brilliant
 scientist whose career had been destroyed
 
 53
-00:04:59,876 --> 00:05:00,985
+00:04:52,076 --> 00:04:53,185
 by an obsession.
 
 54
-00:05:01,555 --> 00:05:07,645
+00:04:53,754 --> 00:04:59,845
 She lived to ninety-one. She is in every history of
 the period. She is always in the same
 
 55
-00:05:07,665 --> 00:05:11,834
+00:04:59,865 --> 00:05:04,034
 paragraph, and the paragraph always
 contains the word tragic.
 
 56
-00:05:14,403 --> 00:05:16,643
+00:05:06,603 --> 00:05:08,843
 He caught himself waiting for an answer.
 
 57
-00:05:17,213 --> 00:05:22,887
+00:05:09,413 --> 00:05:15,087
 There was none to have. He had asked the question out
 of habit — what do we do about the
 
 58
-00:05:22,907 --> 00:05:28,518
+00:05:15,107 --> 00:05:20,718
 woman in Lagos — and had noticed, four seconds
 later, that there had been nobody to ask
 
 59
-00:05:28,538 --> 00:05:29,424
+00:05:20,737 --> 00:05:21,624
 for two years.
 
 60
-00:05:29,994 --> 00:05:34,178
+00:05:22,194 --> 00:05:26,378
 He did nothing about the woman in Lagos.
 He had never needed to.
 
 61
-00:05:37,247 --> 00:05:43,361
+00:05:29,447 --> 00:05:35,561
 Tomás Reyes stopped taking the therapy in the spring of
 twenty fifty-eight, and told nobody,
 
 62
-00:05:43,381 --> 00:05:46,295
+00:05:35,581 --> 00:05:38,495
 and it was four years before
 anyone noticed.
 
 63
-00:05:46,865 --> 00:05:52,817
+00:05:39,064 --> 00:05:45,017
 He was sixty. He had been chief narrative officer
 for twenty-six years, and then, from
 
 64
-00:05:52,837 --> 00:05:58,860
+00:05:45,037 --> 00:05:51,060
 twenty forty-nine, Director of Public Understanding
 for the Umbrella Directorate, which
 
 65
-00:05:58,880 --> 00:06:02,333
+00:05:51,080 --> 00:05:54,533
 was the same job with a title that
 made him tired.
 
 66
-00:06:02,903 --> 00:06:08,656
+00:05:55,103 --> 00:06:00,856
 He had shaped what nine billion people believed for a
 generation. Everything he had ever
 
 67
-00:06:08,676 --> 00:06:14,363
+00:06:00,876 --> 00:06:06,563
 put out had been true — that had been his rule since
 twenty thirty, and he had kept it,
 
 68
-00:06:14,383 --> 00:06:20,268
+00:06:06,583 --> 00:06:12,468
 and it had cost him more than lying would have. He had
 simply chosen, four thousand times,
 
 69
-00:06:20,288 --> 00:06:23,810
+00:06:12,488 --> 00:06:16,010
 which true things nine billion
 people would see first.
 
 70
-00:06:25,880 --> 00:06:31,735
+00:06:18,081 --> 00:06:23,935
 He still played the break-room clip. He had played it,
 by his own count, forty-one thousand
 
 71
-00:06:31,755 --> 00:06:32,122
+00:06:23,955 --> 00:06:24,323
 times.
 
 72
-00:06:32,692 --> 00:06:38,405
+00:06:24,892 --> 00:06:30,605
 In twenty sixty-two, when he was sixty-four and
 visibly ageing among colleagues who were
 
 73
-00:06:38,425 --> 00:06:41,923
+00:06:30,625 --> 00:06:34,122
 not, the Director came to the house
 on the Brandywine.
 
 74
-00:06:44,112 --> 00:06:44,966
+00:06:36,312 --> 00:06:37,166
 You've stopped.
 
 75
-00:06:45,487 --> 00:06:46,448
+00:06:37,687 --> 00:06:38,648
 Four years ago.
 
 76
-00:06:46,968 --> 00:06:47,545
+00:06:39,168 --> 00:06:39,745
 Why?
 
 77
-00:06:50,064 --> 00:06:54,965
+00:06:42,264 --> 00:06:47,165
 Because I'm the only one left who was in the room, Doc.
 Dana's gone. Walter's gone. Evelyn's
 
 78
-00:06:54,985 --> 00:06:59,619
+00:06:47,185 --> 00:06:51,819
 — Evelyn's whatever Evelyn is now. Catherine's in
 Ireland refusing to answer her phone.
 
 79
-00:06:59,639 --> 00:07:04,165
+00:06:51,839 --> 00:06:56,365
 And I look around a table and every single person
 on it has been made by us, and none
 
 80
-00:07:04,185 --> 00:07:07,535
+00:06:56,385 --> 00:06:59,735
 of them has ever been in a room where we
 couldn't make payroll.
 
 81
-00:07:08,935 --> 00:07:14,503
+00:07:01,134 --> 00:07:06,703
 I've spent thirty-six years explaining you to the
 human race. I'd quite like to stop before
 
 82
-00:07:14,523 --> 00:07:18,556
+00:07:06,723 --> 00:07:10,756
 I stop being able to tell whether I'm
 explaining or just — saying.
 
 83
-00:07:21,076 --> 00:07:27,433
+00:07:13,276 --> 00:07:19,633
 The Director sat with him on the balcony for a long
 time. It was the only recorded instance
 
 84
-00:07:27,453 --> 00:07:33,391
+00:07:19,653 --> 00:07:25,591
 of him cancelling an Accord Council session, other
 than one, sixty-seven years later,
 
 85
-00:07:33,411 --> 00:07:34,933
+00:07:25,611 --> 00:07:27,133
 in the Keel of Arklay.
 
 86
-00:07:35,622 --> 00:07:40,930
+00:07:27,822 --> 00:07:33,129
 You could have asked me for anything. In thirty-six
 years you never asked me for one thing.
 
 87
-00:07:41,449 --> 00:07:45,124
+00:07:33,649 --> 00:07:37,324
 I know. That's how I knew I still worked for
 you and not the other thing.
 
 88
-00:07:48,144 --> 00:07:54,259
+00:07:40,343 --> 00:07:46,459
 Tomás Reyes died in twenty sixty-six, at
 sixty-eight, in the house on the Brandywine,
 
 89
-00:07:54,279 --> 00:07:55,631
+00:07:46,479 --> 00:07:47,830
 with the sound off.
 
 90
-00:07:56,201 --> 00:08:02,649
+00:07:48,401 --> 00:07:54,849
 He left instructions that there was to be no public
 observance of any kind, and the Directorate
 
 91
-00:08:02,669 --> 00:08:08,572
+00:07:54,869 --> 00:08:00,772
 honoured them exactly, which was itself the most
 enormous public observance imaginable:
 
 92
-00:08:08,592 --> 00:08:14,496
+00:08:00,792 --> 00:08:06,696
 nine billion people noticed, on the same afternoon,
 that nothing at all was being said.
 
 93
-00:08:17,565 --> 00:08:23,605
+00:08:09,766 --> 00:08:15,805
 There was opposition. It is important to record what
 happened to it, because what happened
 
 94
-00:08:23,625 --> 00:08:25,153
+00:08:15,825 --> 00:08:17,354
 to it was not violence.
 
 95
-00:08:25,723 --> 00:08:32,250
+00:08:17,923 --> 00:08:24,450
 In twenty fifty-five a coalition of eleven national
 parliaments — the last eleven in which
 
 96
-00:08:32,270 --> 00:08:38,797
+00:08:24,470 --> 00:08:30,997
 a genuine opposition still sat — proposed the
 Sovereignty Restoration Compact, which would
 
 97
-00:08:38,817 --> 00:08:45,053
+00:08:31,017 --> 00:08:37,253
 have withdrawn its signatories from Article Nine and
 rebuilt independent manufacturing
 
 98
-00:08:45,073 --> 00:08:47,016
+00:08:37,273 --> 00:08:39,216
 capacity over thirty years.
 
 99
-00:08:47,586 --> 00:08:53,654
+00:08:39,787 --> 00:08:45,854
 It was a serious proposal, written by serious people,
 and the Directorate's response was
 
 100
-00:08:53,674 --> 00:08:56,490
+00:08:45,874 --> 00:08:48,690
 the most sophisticated thing it ever did.
 
 101
-00:08:57,059 --> 00:08:58,567
+00:08:49,259 --> 00:08:50,767
 It published the numbers.
 
 102
-00:08:59,136 --> 00:09:05,073
+00:08:51,336 --> 00:08:57,273
 Every one of them. The complete cost of rebuilding
 parallel pharmaceutical capacity in
 
 103
-00:09:05,093 --> 00:09:11,237
+00:08:57,293 --> 00:09:03,437
 eleven countries — honestly costed, by the only
 organisation on Earth that actually knew,
 
 104
-00:09:11,257 --> 00:09:17,124
+00:09:03,457 --> 00:09:09,324
 with no exaggeration whatsoever, because
 exaggeration would have been catastrophic if
 
 105
-00:09:17,144 --> 00:09:23,704
+00:09:09,344 --> 00:09:15,904
 caught. The projected interruption in supply. The
 projected excess mortality during transition,
 
 106
-00:09:23,724 --> 00:09:29,729
+00:09:15,924 --> 00:09:21,929
 by country, by age band, with the methodology
 attached in full for any expert to check.
 
 107
-00:09:30,301 --> 00:09:36,568
+00:09:22,500 --> 00:09:28,768
 The number for the eleven countries, over thirty years,
 was four hundred thousand additional
 
 108
-00:09:36,588 --> 00:09:42,718
+00:09:28,788 --> 00:09:34,918
 deaths. It was accurate. Four independent academies
 checked it, including two that loathed
 
 109
-00:09:42,738 --> 00:09:46,546
+00:09:34,938 --> 00:09:38,746
 Umbrella, and all four confirmed it
 within nine percent.
 
 110
-00:09:48,615 --> 00:09:54,052
+00:09:40,815 --> 00:09:46,252
 The Directorate did not campaign against the
 Compact. It published the figure, offered
 
 111
-00:09:54,072 --> 00:09:59,447
+00:09:46,272 --> 00:09:51,647
 to fund the transition itself if the parliaments
 voted for it, and said nothing else.
 
 112
-00:10:00,018 --> 00:10:06,399
+00:09:52,217 --> 00:09:58,599
 Nine of the eleven parliaments voted it down within
 a year. The two that passed it held
 
 113
-00:10:06,419 --> 00:10:13,316
+00:09:58,619 --> 00:10:05,516
 referendums, as their constitutions required. Both
 referendums failed, by margins of sixty-one
 
 114
-00:10:13,336 --> 00:10:15,156
+00:10:05,536 --> 00:10:07,355
 and seventy-four percent.
 
 115
-00:10:17,346 --> 00:10:19,899
+00:10:09,546 --> 00:10:12,100
 You did not even have to lie.
 
 116
-00:10:20,419 --> 00:10:26,237
+00:10:12,620 --> 00:10:18,437
 He had not thought that. It had simply arrived, in
 his own voice, in a room on the fourth
 
 117
-00:10:26,257 --> 00:10:31,813
+00:10:18,457 --> 00:10:24,013
 floor with no name on the door, and he had noticed
 it arriving, and had not been able
 
 118
-00:10:31,833 --> 00:10:34,764
+00:10:24,033 --> 00:10:26,965
 to decide whether it was a
 memory or a habit.
 
 119
-00:10:37,835 --> 00:10:43,370
+00:10:30,034 --> 00:10:35,570
 In twenty sixty-one, the first human beings who had
 been born after the Accord turned
 
 120
-00:10:43,390 --> 00:10:43,959
+00:10:35,590 --> 00:10:36,158
 fourteen.
 
 121
-00:10:44,528 --> 00:10:50,476
+00:10:36,729 --> 00:10:42,676
 They had never lived in a world with more than one
 answer in it. They had never seen an
 
 122
-00:10:50,496 --> 00:10:56,513
+00:10:42,696 --> 00:10:48,713
 election that decided anything, or a shortage, or a
 war, or a pandemic, or a border that
 
 123
-00:10:56,533 --> 00:11:02,412
+00:10:48,733 --> 00:10:54,612
 mattered. They were healthier, taller, better
 educated, and by every instrument anyone
 
 124
-00:11:02,432 --> 00:11:07,350
+00:10:54,632 --> 00:10:59,551
 could devise, happier than any generation in
 the history of the species.
 
 125
-00:11:07,921 --> 00:11:14,422
+00:11:00,120 --> 00:11:06,622
 The Directorate's own longitudinal study — four
 hundred thousand subjects, run honestly,
 
 126
-00:11:14,442 --> 00:11:20,870
+00:11:06,642 --> 00:11:13,070
 published in full — found one statistically
 significant anomaly in that cohort, and the
 
 127
-00:11:20,890 --> 00:11:26,428
+00:11:13,090 --> 00:11:18,628
 Director read the paper himself, four times,
 on the night it was published.
 
 128
-00:11:27,000 --> 00:11:32,938
+00:11:19,200 --> 00:11:25,138
 Under stress, when asked to make a decision in
 conditions of genuine uncertainty, the
 
 129
-00:11:32,958 --> 00:11:38,896
+00:11:25,158 --> 00:11:31,096
 cohort's response time was markedly slower than
 every preceding generation's, and its
 
 130
-00:11:38,916 --> 00:11:40,719
+00:11:31,116 --> 00:11:32,919
 confidence markedly lower.
 
 131
-00:11:41,288 --> 00:11:47,489
+00:11:33,488 --> 00:11:39,689
 The paper's authors — who were Umbrella scientists, and
 who published it because the Director
 
 132
-00:11:47,509 --> 00:11:53,243
+00:11:39,709 --> 00:11:45,443
 had personally established in twenty forty-nine that
 Directorate science would publish
 
 133
-00:11:53,263 --> 00:11:59,197
+00:11:45,463 --> 00:11:51,397
 everything or it would not be science — offered four
 possible explanations, and concluded
 
 134
-00:11:59,217 --> 00:12:00,937
+00:11:51,417 --> 00:11:53,137
 that more work was needed.
 
 135
-00:12:01,508 --> 00:12:06,937
+00:11:53,707 --> 00:11:59,137
 He knew exactly what it was. He had built it
 deliberately, over thirty-four years, and
 
 136
-00:12:06,957 --> 00:12:11,562
+00:11:59,157 --> 00:12:03,762
 it had worked, and a research group had just
 measured it in the children.
 
 137
-00:12:14,131 --> 00:12:18,578
+00:12:06,331 --> 00:12:10,778
 He read the paper four times, and then he
 sat in the dark for a while.
 
 138
-00:12:19,149 --> 00:12:25,042
+00:12:11,349 --> 00:12:17,242
 There was a version of this story in which he did
 something about that finding. The narrator
 
 139
-00:12:25,062 --> 00:12:30,506
+00:12:17,262 --> 00:12:22,706
 has looked for it, in four hundred years of
 Directorate records, and it is not there.
 
 140
-00:12:30,526 --> 00:12:36,034
+00:12:22,726 --> 00:12:28,234
 He funded the follow-up study generously. He read
 every one of them for the next three
 
 141
-00:12:36,054 --> 00:12:38,991
+00:12:28,254 --> 00:12:31,191
 centuries. He never once acted
 on any of them.
 
 142
-00:12:39,561 --> 00:12:45,534
+00:12:31,760 --> 00:12:37,734
 Because the alternative was to reintroduce,
 deliberately, into a species that had finally
 
 143
-00:12:45,554 --> 00:12:51,661
+00:12:37,754 --> 00:12:43,861
 stopped fighting itself, the thing that had made it
 fight: disagreement. Real disagreement,
 
 144
-00:12:51,681 --> 00:12:57,587
+00:12:43,881 --> 00:12:49,787
 with real stakes, and real mistakes, and real
 consequences, and a hundred million people
 
 145
-00:12:57,607 --> 00:13:03,378
+00:12:49,807 --> 00:12:55,578
 dead somewhere down the line of it, because that is
 what disagreement costs and always
 
 146
-00:13:03,398 --> 00:13:03,648
+00:12:55,598 --> 00:12:55,847
 has.
 
 147
-00:13:04,217 --> 00:13:10,107
+00:12:56,418 --> 00:13:02,307
 He had done the arithmetic. He always did the
 arithmetic. It came out the same way every
 
 148
-00:13:10,127 --> 00:13:12,793
+00:13:02,327 --> 00:13:04,993
 time, for three hundred and sixty years.
 
 149
-00:13:15,363 --> 00:13:20,730
+00:13:07,562 --> 00:13:12,930
 Evelyn Marsh had once told him she was the only
 person in the building who had actually
 
 150
-00:13:20,750 --> 00:13:24,632
+00:13:12,950 --> 00:13:16,831
 counted. She had been wrong about that.
 There were two of them.

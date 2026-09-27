@@ -1,903 +1,903 @@
 1
-00:00:16,800 --> 00:00:23,408
+00:00:09,000 --> 00:00:15,608
 Special Agent Owen Carrick was, at forty-two, exactly
 the kind of man the Federal Bureau
 
 2
-00:00:23,428 --> 00:00:30,112
+00:00:15,628 --> 00:00:22,312
 of Investigation was designed to produce: competent,
 careful, and one promotion away from
 
 3
-00:00:30,132 --> 00:00:30,941
+00:00:22,332 --> 00:00:23,141
 Washington.
 
 4
-00:00:31,510 --> 00:00:37,593
+00:00:23,710 --> 00:00:29,793
 He had joined the Bureau at twenty-nine, after four
 years as a prosecutor in Harrisburg.
 
 5
-00:00:37,613 --> 00:00:43,765
+00:00:29,813 --> 00:00:35,964
 He had worked public corruption, and then
 counter-terrorism, and then — because it looked
 
 6
-00:00:43,785 --> 00:00:49,659
+00:00:35,984 --> 00:00:41,859
 good on a file, and because nobody else in the
 field office wanted it — he had become
 
 7
-00:00:49,679 --> 00:00:55,553
+00:00:41,879 --> 00:00:47,753
 the Weapons of Mass Destruction coordinator for
 eastern Pennsylvania and Delaware. It
 
 8
-00:00:55,573 --> 00:01:02,141
+00:00:47,773 --> 00:00:54,341
 was a job that mostly involved hazmat drills, and
 lectures to university chemistry departments,
 
 9
-00:01:02,161 --> 00:01:08,313
+00:00:54,361 --> 00:01:00,513
 and anthrax hoaxes, and one man in Scranton who kept
 trying to buy ricin on the internet.
 
 10
-00:01:08,882 --> 00:01:14,462
+00:01:01,082 --> 00:01:06,662
 He lived in Media, Pennsylvania, with his wife
 Laura, who taught eighth-grade science,
 
 11
-00:01:14,482 --> 00:01:20,451
+00:01:06,682 --> 00:01:12,652
 and two daughters, seventeen and eight. He had applied
 that summer for a unit chief position
 
 12
-00:01:20,471 --> 00:01:26,116
+00:01:12,671 --> 00:01:18,316
 at the Weapons of Mass Destruction Directorate at
 headquarters, and the interview board
 
 13
-00:01:26,136 --> 00:01:32,040
+00:01:18,336 --> 00:01:24,240
 was in November, and he thought he had a good chance,
 and he had not told anyone but Laura.
 
 14
-00:01:32,611 --> 00:01:39,336
+00:01:24,811 --> 00:01:31,536
 He had not asked for the Umbrella case. It had come
 to him the way cases come to men in
 
 15
-00:01:39,356 --> 00:01:46,391
+00:01:31,556 --> 00:01:38,591
 his position — as a referral from another agency,
 forwarded by a supervisor with a one-line
 
 16
-00:01:46,411 --> 00:01:52,517
+00:01:38,611 --> 00:01:44,717
 note. CDC plus FDA. Possible select agent issue.
 Probably nothing. Take a look.
 
 17
-00:01:54,087 --> 00:02:00,266
+00:01:46,287 --> 00:01:52,466
 Probably nothing. That was what Owen Carrick believed,
 on the fourteenth of August, twenty
 
 18
-00:02:00,286 --> 00:02:06,603
+00:01:52,486 --> 00:01:58,803
 twenty-nine, when he drove to Wilmington to serve a
 grand jury subpoena on a biotech company
 
 19
-00:02:06,623 --> 00:02:10,597
+00:01:58,823 --> 00:02:02,798
 whose chief executive had been on the
 cover of a magazine.
 
 20
-00:02:11,168 --> 00:02:17,168
+00:02:03,367 --> 00:02:09,367
 It was the last time in his life he would believe
 anything about Albert Wesker so comfortably.
 
 21
-00:02:19,237 --> 00:02:24,977
+00:02:11,437 --> 00:02:17,177
 Doctor Samira Haddad flew up from Atlanta in
 September for the joint site visit.
 
 22
-00:02:25,548 --> 00:02:30,735
+00:02:17,747 --> 00:02:22,935
 They met in the arrivals hall, and disliked each
 other on sight, in the way that people
 
 23
-00:02:30,755 --> 00:02:36,003
+00:02:22,955 --> 00:02:28,203
 from different professions often do. She thought he
 looked like a man who measured cases
 
 24
-00:02:36,023 --> 00:02:41,390
+00:02:28,223 --> 00:02:33,590
 by what they would do for his career. He thought she
 looked like a scientist who had never
 
 25
-00:02:41,410 --> 00:02:43,724
+00:02:33,610 --> 00:02:35,924
 had to put anything in front of a jury.
 
 26
-00:02:44,294 --> 00:02:49,594
+00:02:36,495 --> 00:02:41,794
 They were, it would turn out, both right. And they
 would, over the next seventeen years,
 
 27
-00:02:49,614 --> 00:02:52,978
+00:02:41,814 --> 00:02:45,179
 become the closest thing either of
 them had to a friend.
 
 28
-00:02:54,468 --> 00:02:55,789
+00:02:46,669 --> 00:02:47,990
 You've read the complaint?
 
 29
-00:02:56,310 --> 00:03:01,663
+00:02:48,509 --> 00:02:53,863
 I've read it. I've read the photographs. I've read
 a table of monkeys and a note in a
 
 30
-00:03:01,683 --> 00:03:07,415
+00:02:53,883 --> 00:02:59,615
 margin. I've also read that this company's biggest
 product is a drug that has three hundred
 
 31
-00:03:07,435 --> 00:03:12,788
+00:02:59,635 --> 00:03:04,988
 senior citizens riding motorcycles, and that its
 CEO is personally friends with — I'm
 
 32
-00:03:12,808 --> 00:03:18,034
+00:03:05,008 --> 00:03:10,234
 sorry, is personally photographed with — half the
 senators on the Health Committee.
 
 33
-00:03:18,555 --> 00:03:19,742
+00:03:10,754 --> 00:03:11,942
 That's not an answer.
 
 34
-00:03:20,263 --> 00:03:23,729
+00:03:12,462 --> 00:03:15,929
 It's the context. I have to know
 what I'm walking into.
 
 35
-00:03:24,250 --> 00:03:29,476
+00:03:16,449 --> 00:03:21,676
 You're walking into a building where somebody wrote
 Select accordingly next to nineteen
 
 36
-00:03:29,496 --> 00:03:30,320
+00:03:21,696 --> 00:03:22,520
 dead primates.
 
 37
-00:03:31,840 --> 00:03:37,386
+00:03:24,039 --> 00:03:29,586
 Carrick did not answer. He looked at the road. And
 somewhere at the back of his mind —
 
 38
-00:03:37,406 --> 00:03:43,211
+00:03:29,606 --> 00:03:35,411
 the part that had once been a prosecutor, before it
 had become a careerist — a small light
 
 39
-00:03:43,231 --> 00:03:43,729
+00:03:35,431 --> 00:03:35,929
 came on.
 
 40
-00:03:45,799 --> 00:03:51,697
+00:03:37,998 --> 00:03:43,897
 The records had arrived two weeks before. Forty-one
 thousand pages, in forty-three boxes,
 
 41
-00:03:51,717 --> 00:03:57,415
+00:03:43,917 --> 00:03:49,615
 delivered to the field office by a courier van on
 the exact day the subpoena required,
 
 42
-00:03:57,435 --> 00:04:03,466
+00:03:49,635 --> 00:03:55,666
 indexed, cross-referenced, and bound. Shipping logs.
 Animal care records. Facility permits.
 
 43
-00:04:03,486 --> 00:04:09,185
+00:03:55,686 --> 00:04:01,385
 Power bills. Catherine Adeyemi's team had produced
 everything that had been asked for,
 
 44
-00:04:09,205 --> 00:04:13,574
+00:04:01,405 --> 00:04:05,774
 and a great deal that had not, and they
 had produced it perfectly.
 
 45
-00:04:14,144 --> 00:04:20,005
+00:04:06,343 --> 00:04:12,205
 It was, Carrick's supervisor said, the most
 cooperative subpoena response he had seen
 
 46
-00:04:20,025 --> 00:04:21,113
+00:04:12,225 --> 00:04:13,312
 in thirty years.
 
 47
-00:04:21,682 --> 00:04:27,684
+00:04:13,883 --> 00:04:19,884
 It was also, Carrick thought — looking at the
 forty-three boxes stacked against his cubicle
 
 48
-00:04:27,704 --> 00:04:33,375
+00:04:19,904 --> 00:04:25,575
 wall — exactly what a company would do if it wanted
 to bury an investigation in paper.
 
 49
-00:04:35,444 --> 00:04:38,016
+00:04:27,644 --> 00:04:30,216
 The Director met them at the door himself.
 
 50
-00:04:38,586 --> 00:04:43,967
+00:04:30,786 --> 00:04:36,167
 He had not been asked to. The visit had been
 arranged through lawyers, as such visits
 
 51
-00:04:43,987 --> 00:04:49,369
+00:04:36,187 --> 00:04:41,569
 always are. A corporate counsel would escort them,
 and a compliance officer, and they
 
 52
-00:04:49,389 --> 00:04:54,834
+00:04:41,589 --> 00:04:47,034
 would be shown the relevant facilities, and they
 would be given coffee in a conference
 
 53
-00:04:54,854 --> 00:04:56,613
+00:04:47,054 --> 00:04:48,813
 room. That was the protocol.
 
 54
-00:04:57,184 --> 00:05:03,373
+00:04:49,384 --> 00:04:55,573
 Instead, at nine o'clock exactly, as the government
 sedan pulled into the visitors' bay,
 
 55
-00:05:03,393 --> 00:05:09,512
+00:04:55,593 --> 00:05:01,712
 Albert Wesker walked out through the glass doors of
 the tower, alone, and opened Samira
 
 56
-00:05:09,532 --> 00:05:11,347
+00:05:01,732 --> 00:05:03,547
 Haddad's car door for her.
 
 57
-00:05:12,036 --> 00:05:17,803
+00:05:04,237 --> 00:05:10,003
 Doctor Haddad. Welcome to Delaware. I read your
 paper on the Nipah cluster in Kerala.
 
 58
-00:05:17,823 --> 00:05:23,997
+00:05:10,023 --> 00:05:16,197
 The contact-tracing model in section four was elegant.
 Agent Carrick — thank you for coming
 
 59
-00:05:24,017 --> 00:05:27,945
+00:05:16,217 --> 00:05:20,146
 yourself. I know how many hazmat
 drills you had to cancel.
 
 60
-00:05:29,266 --> 00:05:34,977
+00:05:21,466 --> 00:05:27,177
 Carrick shook the hand he was offered. It was cool
 and dry and very strong, and it held
 
 61
-00:05:34,997 --> 00:05:38,931
+00:05:27,197 --> 00:05:31,131
 his a fraction of a second longer than
 a handshake needs to.
 
 62
-00:05:39,500 --> 00:05:45,605
+00:05:31,701 --> 00:05:37,805
 He had been ready for lawyers. He had been ready for
 obstruction, for delay, for a conference
 
 63
-00:05:45,625 --> 00:05:51,203
+00:05:37,825 --> 00:05:43,403
 room with bad coffee. He was not ready for this —
 the chief executive himself, at the
 
 64
-00:05:51,223 --> 00:05:55,418
+00:05:43,423 --> 00:05:47,618
 kerb, charming, unhurried, and apparently
 delighted to see them.
 
 65
-00:05:55,987 --> 00:06:01,873
+00:05:48,187 --> 00:05:54,073
 That was the point. Hospitality is a weapon. It is
 the only weapon that the person you
 
 66
-00:06:01,893 --> 00:06:03,865
+00:05:54,093 --> 00:05:56,065
 use it on will thank you for.
 
 67
-00:06:05,935 --> 00:06:07,506
+00:05:58,134 --> 00:05:59,706
 He gave them everything.
 
 68
-00:06:08,076 --> 00:06:13,547
+00:06:00,276 --> 00:06:05,747
 He gave them six hours, and every floor of the tower,
 and every door they asked to open,
 
 69
-00:06:13,567 --> 00:06:19,039
+00:06:05,767 --> 00:06:11,239
 and several they had not thought to ask about. He
 took them through the assay programme,
 
 70
-00:06:19,059 --> 00:06:24,656
+00:06:11,259 --> 00:06:16,856
 and the Aeterna trial ward, where Arthur Kowalczyk —
 who happened to be in for his monthly
 
 71
-00:06:24,676 --> 00:06:30,085
+00:06:16,876 --> 00:06:22,285
 check-up that morning — told Samira Haddad at some
 length about his motorcycle. He took
 
 72
-00:06:30,105 --> 00:06:35,639
+00:06:22,305 --> 00:06:27,839
 them to the loading dock, and introduced them to
 Deshawn. He showed them the power bills.
 
 73
-00:06:36,209 --> 00:06:42,040
+00:06:28,410 --> 00:06:34,240
 And then, when Haddad raised the photograph — the
 grey figure in the capsule — he took
 
 74
-00:06:42,060 --> 00:06:47,958
+00:06:34,260 --> 00:06:40,158
 them to the lobby of the Singapore annex on the
 tower's ground floor, where, in a glass
 
 75
-00:06:47,978 --> 00:06:53,808
+00:06:40,178 --> 00:06:46,008
 case, beneath a spotlight, stood a nine-foot
 sculpture of a grey, hairless figure in a
 
 76
-00:06:53,828 --> 00:06:57,481
+00:06:46,028 --> 00:06:49,682
 frosted cylinder, with a small brass
 plaque beside it.
 
 77
-00:06:58,052 --> 00:07:04,677
+00:06:50,252 --> 00:06:56,877
 The Sentinel. A commission by a young sculptor from
 Rhode Island, for Umbrella's campaign
 
 78
-00:07:04,697 --> 00:07:09,829
+00:06:56,897 --> 00:07:02,028
 on biosecurity. Resin, steel, and acrylic.
 Two thousand twenty-eight.
 
 79
-00:07:11,519 --> 00:07:13,846
+00:07:03,720 --> 00:07:06,046
 You're telling me that's what's in
 the photograph.
 
 80
-00:07:14,365 --> 00:07:20,501
+00:07:06,565 --> 00:07:12,701
 I'm telling you that's what Doctor Okafor
 photographed. Doctor Marsh's team used a picture
 
 81
-00:07:20,521 --> 00:07:27,066
+00:07:12,721 --> 00:07:19,266
 of it on a slide about public perception. The label on
 the page is a working title. T-zero-zero.
 
 82
-00:07:27,086 --> 00:07:31,101
+00:07:19,286 --> 00:07:23,302
 The zero-zero is because the sculptor
 hadn't signed it yet.
 
 83
-00:07:32,221 --> 00:07:38,254
+00:07:24,422 --> 00:07:30,454
 Pell had commissioned the sculpture in April, from a
 real artist, who had been paid real
 
 84
-00:07:38,274 --> 00:07:44,306
+00:07:30,474 --> 00:07:36,506
 money and would go on to have a real career. It had
 taken her ten weeks. The invoice was
 
 85
-00:07:44,326 --> 00:07:45,681
+00:07:36,526 --> 00:07:37,882
 in box twenty-seven.
 
 86
-00:07:47,752 --> 00:07:49,506
+00:07:39,951 --> 00:07:41,706
 The macaques were Evelyn's.
 
 87
-00:07:50,076 --> 00:07:56,254
+00:07:42,276 --> 00:07:48,454
 She met them in a conference room on the ninth floor,
 in a crisp white coat, with a folder,
 
 88
-00:07:56,274 --> 00:08:02,179
+00:07:48,474 --> 00:07:54,379
 and she explained — clearly, patiently, in the tone
 of a scientist explaining something
 
 89
-00:08:02,199 --> 00:08:08,309
+00:07:54,399 --> 00:08:00,509
 slightly embarrassing to a colleague — that the
 twenty-four rhesus macaques from Singapore
 
 90
-00:08:08,329 --> 00:08:14,099
+00:08:00,529 --> 00:08:06,299
 had been part of a standard toxicology study for
 Aeterna, conducted under contract by
 
 91
-00:08:14,119 --> 00:08:20,297
+00:08:06,319 --> 00:08:12,497
 a licensed research organisation in Maryland. The
 contract was in box fifteen. The Maryland
 
 92
-00:08:20,317 --> 00:08:23,635
+00:08:12,517 --> 00:08:15,835
 facility's inspection reports
 were in box twelve.
 
 93
-00:08:24,324 --> 00:08:29,936
+00:08:16,524 --> 00:08:22,136
 In a toxicology study the animals are humanely
 euthanised at the end of the dosing period
 
 94
-00:08:29,956 --> 00:08:35,504
+00:08:22,156 --> 00:08:27,704
 so that their tissues can be examined. That's what
 deceased means in the table. Nineteen
 
 95
-00:08:35,524 --> 00:08:41,009
+00:08:27,724 --> 00:08:33,209
 at the scheduled end-point. The five marked enhanced
 were an enhanced-monitoring cohort
 
 96
-00:08:41,029 --> 00:08:46,450
+00:08:33,229 --> 00:08:38,650
 — animals kept for a longer observation window.
 They're still alive. You're welcome to
 
 97
-00:08:46,470 --> 00:08:47,147
+00:08:38,670 --> 00:08:39,347
 visit them.
 
 98
-00:08:47,666 --> 00:08:50,490
+00:08:39,865 --> 00:08:42,690
 And the note in the margin?
 Select accordingly?
 
 99
-00:08:51,009 --> 00:08:56,562
+00:08:43,210 --> 00:08:48,762
 Group housing. Macaques are social, and it's better
 for their welfare if we house them
 
 100
-00:08:56,582 --> 00:09:02,134
+00:08:48,782 --> 00:08:54,334
 together, but animals with high baseline aggression
 don't tolerate co-housing well. So
 
 101
-00:09:02,154 --> 00:09:08,095
+00:08:54,354 --> 00:09:00,295
 we select the calmer ones for the group enclosures.
 It's in our animal welfare plan. Section
 
 102
-00:09:08,115 --> 00:09:08,355
+00:09:00,315 --> 00:09:00,555
 six.
 
 103
-00:09:10,075 --> 00:09:16,570
+00:09:02,274 --> 00:09:08,770
 It was a good answer. It was, in fact, word for
 word, a real section of a real animal
 
 104
-00:09:16,590 --> 00:09:23,316
+00:09:08,790 --> 00:09:15,516
 welfare plan, which Pell had written and backdated in
 March, the week after Nadia Okafor
 
 105
-00:09:23,336 --> 00:09:24,005
+00:09:15,536 --> 00:09:16,205
 resigned.
 
 106
-00:09:24,576 --> 00:09:30,536
+00:09:16,775 --> 00:09:22,736
 Samira Haddad wrote it down. She had been an epidemic
 intelligence officer for four years,
 
 107
-00:09:30,556 --> 00:09:36,251
+00:09:22,756 --> 00:09:28,451
 and she knew what she was looking at: an answer to
 every question, before the question
 
 108
-00:09:36,271 --> 00:09:42,099
+00:09:28,471 --> 00:09:34,298
 had been asked. It did not mean they were lying. It
 meant they had known she was coming.
 
 109
-00:09:42,669 --> 00:09:44,278
+00:09:34,870 --> 00:09:36,478
 Which, of course, they had.
 
 110
-00:09:46,346 --> 00:09:52,268
+00:09:38,547 --> 00:09:44,468
 The last stop was the old building. Haddad had
 insisted on it. The complaint had mentioned
 
 111
-00:09:52,288 --> 00:09:58,275
+00:09:44,488 --> 00:09:50,475
 a sublevel, and the power bills had been
 extraordinary, and she wanted to see the basement.
 
 112
-00:09:58,846 --> 00:10:04,367
+00:09:51,046 --> 00:09:56,567
 So they went down in the freight elevator — the
 Director, the two investigators, and a
 
 113
-00:10:04,387 --> 00:10:09,909
+00:09:56,587 --> 00:10:02,109
 tall man in a black suit who had joined them without
 introduction in the lobby and who
 
 114
-00:10:09,929 --> 00:10:14,678
+00:10:02,129 --> 00:10:06,878
 stood in the corner of the elevator with his
 hands folded in front of him.
 
 115
-00:10:15,248 --> 00:10:21,003
+00:10:07,447 --> 00:10:13,203
 The elevator panel had two buttons. Loading dock.
 Basement. Carrick looked at it for a
 
 116
-00:10:21,023 --> 00:10:26,845
+00:10:13,223 --> 00:10:19,045
 long moment. There was no third button. There was a
 smooth, blank steel plate below the
 
 117
-00:10:26,865 --> 00:10:32,755
+00:10:19,065 --> 00:10:24,955
 basement button, with four screws in it, and a very
 faint rectangular mark in the paint,
 
 118
-00:10:32,775 --> 00:10:35,240
+00:10:24,975 --> 00:10:27,440
 as though something had been removed.
 
 119
-00:10:35,809 --> 00:10:41,767
+00:10:28,009 --> 00:10:33,967
 The basement had the twenty old freezers, and six
 new ones, and the vault that Pell had
 
 120
-00:10:41,787 --> 00:10:47,951
+00:10:33,987 --> 00:10:40,151
 bought for eighteen hundred Points to show Catherine
 eighteen months before. It was clean,
 
 121
-00:10:47,971 --> 00:10:54,272
+00:10:40,171 --> 00:10:46,472
 and cold, and it used, the Director explained, a great
 deal of power, because it was holding
 
 122
-00:10:54,292 --> 00:11:00,181
+00:10:46,492 --> 00:10:52,381
 thirty years of biological samples at minus one
 hundred and fifty degrees, and because
 
 123
-00:11:00,201 --> 00:11:04,440
+00:10:52,401 --> 00:10:56,640
 the old building's electrical system
 was, frankly, a disgrace.
 
 124
-00:11:05,009 --> 00:11:09,854
+00:10:57,210 --> 00:11:02,054
 The corner where the grey machine had stood was
 bare concrete, freshly painted.
 
 125
-00:11:11,744 --> 00:11:12,897
+00:11:03,943 --> 00:11:05,096
 What was here before?
 
 126
-00:11:13,417 --> 00:11:19,581
+00:11:05,616 --> 00:11:11,781
 An air handling unit. Arcturus. We replaced it last
 year. The state inspected it in twenty
 
 127
-00:11:19,601 --> 00:11:24,461
+00:11:11,801 --> 00:11:16,661
 twenty-six, if you'd like the report. Mister
 Delgado was very thorough.
 
 128
-00:11:25,980 --> 00:11:31,782
+00:11:18,181 --> 00:11:23,982
 He had said the name of the inspector. Carrick
 wrote it down. He did not know why. He
 
 129
-00:11:31,802 --> 00:11:37,603
+00:11:24,002 --> 00:11:29,803
 would find the report, four months later, in a
 state database, and read it, and begin
 
 130
-00:11:37,623 --> 00:11:43,493
+00:11:29,823 --> 00:11:35,693
 to wonder why a small research lab in twenty
 twenty-six had gone so far out of its way
 
 131
-00:11:43,513 --> 00:11:44,588
+00:11:35,713 --> 00:11:36,788
 to be inspected.
 
 132
-00:11:46,658 --> 00:11:51,725
+00:11:38,859 --> 00:11:43,925
 It was at the very end of the day, in the lobby,
 that Owen Carrick noticed the thing he
 
 133
-00:11:51,745 --> 00:11:54,474
+00:11:43,945 --> 00:11:46,674
 would think about for the next
 seventeen years.
 
 134
-00:11:55,043 --> 00:12:00,790
+00:11:47,244 --> 00:11:52,990
 He was waiting for Haddad, who had gone to the
 restroom. The Director had excused himself
 
 135
-00:12:00,810 --> 00:12:06,427
+00:11:53,010 --> 00:11:58,627
 to take a call. And the tall man in the black suit —
 the one who had ridden down in the
 
 136
-00:12:06,447 --> 00:12:12,258
+00:11:58,647 --> 00:12:04,458
 elevator with them without being introduced — was
 standing by the lifts, twenty feet away,
 
 137
-00:12:12,278 --> 00:12:16,015
+00:12:04,478 --> 00:12:08,216
 with his hands folded in front of him,
 looking at nothing.
 
 138
-00:12:16,586 --> 00:12:22,113
+00:12:08,785 --> 00:12:14,313
 Carrick watched him. He did not know why. It was a
 cop's habit, from long before he had
 
 139
-00:12:22,133 --> 00:12:27,150
+00:12:14,333 --> 00:12:19,350
 become a careerist — you watch the person in the
 room who isn't doing anything.
 
 140
-00:12:27,719 --> 00:12:30,963
+00:12:19,918 --> 00:12:23,163
 He watched him for a minute. Then
 two. Then three.
 
 141
-00:12:33,033 --> 00:12:36,638
+00:12:25,232 --> 00:12:28,837
 In three minutes, the man in the black
 suit did not blink.
 
 142
-00:12:37,208 --> 00:12:43,035
+00:12:29,408 --> 00:12:35,235
 Carrick knew it was not possible. A human being
 blinks between fifteen and twenty times
 
 143
-00:12:43,055 --> 00:12:48,748
+00:12:35,255 --> 00:12:40,948
 a minute. You can stop yourself for a while —
 thirty seconds, perhaps a minute if you
 
 144
-00:12:48,768 --> 00:12:54,594
+00:12:40,968 --> 00:12:46,794
 concentrate — but your eyes begin to water and burn.
 This man's eyes were not watering.
 
 145
-00:12:54,614 --> 00:13:00,441
+00:12:46,814 --> 00:12:52,641
 They were perfectly clear and perfectly still, and
 he was not concentrating on anything
 
 146
-00:13:00,461 --> 00:13:00,911
+00:12:52,661 --> 00:12:53,111
 at all.
 
 147
-00:13:01,480 --> 00:13:07,106
+00:12:53,681 --> 00:12:59,306
 At three minutes and forty seconds, as if he had felt
 himself being counted, the man turned
 
 148
-00:13:07,126 --> 00:13:10,643
+00:12:59,326 --> 00:13:02,843
 his head and looked directly at
 Carrick across the lobby.
 
 149
-00:13:11,212 --> 00:13:14,146
+00:13:03,413 --> 00:13:06,346
 Then he blinked. Once. Slowly.
 Like a courtesy.
 
 150
-00:13:16,216 --> 00:13:21,728
+00:13:08,417 --> 00:13:13,928
 The Director walked them to their car. He opened the
 door for Haddad again. He thanked
 
 151
-00:13:21,748 --> 00:13:27,260
+00:13:13,948 --> 00:13:19,460
 them both, sincerely, for their time and their
 diligence, and said that Umbrella would
 
 152
-00:13:27,280 --> 00:13:32,728
+00:13:19,480 --> 00:13:24,928
 cooperate with anything else the government needed,
 and that he hoped they would come
 
 153
-00:13:32,748 --> 00:13:33,049
+00:13:24,948 --> 00:13:25,250
 back.
 
 154
-00:13:33,620 --> 00:13:39,393
+00:13:25,821 --> 00:13:31,593
 Then, as Carrick walked around to the driver's side,
 the Director said, quite pleasantly,
 
 155
-00:13:39,413 --> 00:13:41,671
+00:13:31,613 --> 00:13:33,871
 in a voice pitched for no one else:
 
 156
-00:13:42,361 --> 00:13:48,269
+00:13:34,562 --> 00:13:40,469
 Good luck with the unit chief board in November, Agent
 Carrick. I hear it's a strong field.
 
 157
-00:13:50,288 --> 00:13:52,899
+00:13:42,489 --> 00:13:45,099
 Carrick stopped with his hand on
 the car door.
 
 158
-00:13:53,467 --> 00:13:59,441
+00:13:45,668 --> 00:13:51,641
 He had told no one. Not his supervisor. Not his
 partner. Not his friends. He had told
 
 159
-00:13:59,461 --> 00:14:04,658
+00:13:51,661 --> 00:13:56,859
 his wife, at their kitchen table, one night in
 June, with the window open.
 
 160
-00:14:05,229 --> 00:14:11,036
+00:13:57,428 --> 00:14:03,236
 He looked up. The Director was already walking back
 toward the glass doors, unhurried,
 
 161
-00:14:11,056 --> 00:14:14,763
+00:14:03,256 --> 00:14:06,962
 hands in the pockets of his coat. He
 did not look back.
 
 162
-00:14:17,582 --> 00:14:21,573
+00:14:09,783 --> 00:14:13,774
 Assessment. Federal inspection
 neutralised.
 
 163
-00:14:24,913 --> 00:14:28,802
+00:14:17,113 --> 00:14:21,003
 They drove north on the interstate in
 silence for twenty minutes.
 
 164
-00:14:29,491 --> 00:14:32,766
+00:14:21,692 --> 00:14:24,966
 Well. That was the cleanest facility I
 have ever inspected.
 
 165
-00:14:33,287 --> 00:14:33,950
+00:14:25,486 --> 00:14:26,149
 Yeah.
 
 166
-00:14:34,470 --> 00:14:40,066
+00:14:26,669 --> 00:14:32,266
 Every answer ready. Every document in a numbered
 box. A sculpture, for God's sake. Owen
 
 167
-00:14:40,086 --> 00:14:42,519
+00:14:32,286 --> 00:14:34,719
 — they knew we were coming for months.
 
 168
-00:14:43,039 --> 00:14:48,185
+00:14:35,240 --> 00:14:40,385
 They knew we were coming for months because we sent
 them a subpoena, Samira. That's not
 
 169
-00:14:48,205 --> 00:14:48,660
+00:14:40,405 --> 00:14:40,860
 a crime.
 
 170
-00:14:50,181 --> 00:14:51,307
+00:14:42,380 --> 00:14:43,506
 So you're closing it.
 
 171
-00:14:53,326 --> 00:14:58,970
+00:14:45,525 --> 00:14:51,170
 He should have. Every instinct that had got him to
 where he was — every instinct that
 
 172
-00:14:58,990 --> 00:15:05,300
+00:14:51,190 --> 00:14:57,500
 was about to get him to Washington — told him to close
 it. A cooperative company. A disgruntled
 
 173
-00:15:05,320 --> 00:15:11,231
+00:14:57,520 --> 00:15:03,431
 former employee. A clean inspection. A sculpture in a
 glass case. A file that would look,
 
 174
-00:15:11,251 --> 00:15:16,961
+00:15:03,451 --> 00:15:09,161
 to an interview board in November, like a careful
 agent doing careful work and knowing
 
 175
-00:15:16,981 --> 00:15:17,828
+00:15:09,181 --> 00:15:10,028
 when to stop.
 
 176
-00:15:18,519 --> 00:15:19,724
+00:15:10,719 --> 00:15:11,924
 He didn't blink.
 
 177
-00:15:20,244 --> 00:15:20,798
+00:15:12,443 --> 00:15:12,997
 What?
 
 178
-00:15:21,317 --> 00:15:26,782
+00:15:13,517 --> 00:15:18,982
 The guard. The big one, by the lifts. I watched him
 for almost four minutes. He didn't
 
 179
-00:15:26,802 --> 00:15:27,484
+00:15:19,002 --> 00:15:19,684
 blink once.
 
 180
-00:15:29,004 --> 00:15:30,519
+00:15:21,203 --> 00:15:22,719
 That's — people can do that.
 
 181
-00:15:31,039 --> 00:15:32,225
+00:15:23,240 --> 00:15:24,425
 No. They can't.
 
 182
-00:15:34,245 --> 00:15:39,992
+00:15:26,445 --> 00:15:32,192
 He drove on in silence. The rain began, and he
 turned on the wipers, and watched them
 
 183
-00:15:40,012 --> 00:15:40,807
+00:15:32,212 --> 00:15:33,007
 for a while.
 
 184
-00:15:41,376 --> 00:15:47,530
+00:15:33,576 --> 00:15:39,730
 He did not close the file. He did not decide not to
 close it, either. He simply did not
 
 185
-00:15:47,550 --> 00:15:53,846
+00:15:39,750 --> 00:15:46,046
 close it that night, or the next, and the file sat in
 the tray on his desk, under a stack
 
 186
-00:15:53,866 --> 00:15:56,684
+00:15:46,066 --> 00:15:48,884
 of hazmat drill reports, for eight days.
 
 187
-00:15:57,254 --> 00:16:03,436
+00:15:49,455 --> 00:15:55,636
 On the twelfth day, a man called the Philadelphia field
 office from a pay phone at a highway
 
 188
-00:16:03,456 --> 00:16:09,032
+00:15:55,656 --> 00:16:01,232
 rest stop, and asked for Special Agent Carrick by
 name, and would not give his own.

@@ -1,799 +1,799 @@
 1
-00:00:16,800 --> 00:00:22,177
+00:00:09,000 --> 00:00:14,377
 The company that should not exist was born in
 April, in a lobby with a living wall.
 
 2
-00:00:22,746 --> 00:00:28,566
+00:00:14,946 --> 00:00:20,766
 Legally, it was a merger. Umbrella Research Division
 Seven, of Delaware, and Verdant Axis
 
 3
-00:00:28,586 --> 00:00:34,143
+00:00:20,786 --> 00:00:26,343
 Therapeutics, of Delaware and the NASDAQ, became a
 single corporation called Umbrella
 
 4
-00:00:34,163 --> 00:00:39,916
+00:00:26,363 --> 00:00:32,116
 Life Sciences, Incorporated, trading under the ticker
 U-M-B-R. The minority shareholders
 
 5
-00:00:39,936 --> 00:00:45,493
+00:00:32,136 --> 00:00:37,693
 who had not tendered were bought out at the offer
 price. The green letters were gone.
 
 6
-00:00:45,513 --> 00:00:51,463
+00:00:37,713 --> 00:00:43,663
 The lawsuit from Graham Tolliver's lawyers was
 withdrawn, because Graham Tolliver's lawyers
 
 7
-00:00:51,483 --> 00:00:53,956
+00:00:43,683 --> 00:00:46,156
 now worked, technically, for Umbrella.
 
 8
-00:00:54,527 --> 00:01:00,023
+00:00:46,728 --> 00:00:52,223
 And on a Monday morning, the hundred and forty
 people who had worked for Verdant Axis
 
 9
-00:01:00,043 --> 00:01:05,862
+00:00:52,243 --> 00:00:58,062
 gathered in their own atrium, beneath their own living
 wall, to meet the man who now owned
 
 10
-00:01:05,882 --> 00:01:06,186
+00:00:58,082 --> 00:00:58,386
 them.
 
 11
-00:01:06,756 --> 00:01:12,161
+00:00:58,956 --> 00:01:04,361
 They were frightened. They had read the newspaper.
 They had watched their company collapse
 
 12
-00:01:12,181 --> 00:01:17,406
+00:01:04,381 --> 00:01:09,606
 in a day, and their chief executive walk out of the
 building with nothing in his hands,
 
 13
-00:01:17,426 --> 00:01:22,650
+00:01:09,626 --> 00:01:14,850
 and they had heard — because everybody had heard —
 that the new man had done it without
 
 14
-00:01:22,670 --> 00:01:23,736
+00:01:14,870 --> 00:01:15,936
 raising his voice.
 
 15
-00:01:25,305 --> 00:01:26,939
+00:01:17,506 --> 00:01:19,140
 He did not give a sermon.
 
 16
-00:01:27,510 --> 00:01:33,112
+00:01:19,709 --> 00:01:25,312
 That was a decision, and it had been argued about,
 in the car, on the drive across the
 
 17
-00:01:33,132 --> 00:01:33,505
+00:01:25,332 --> 00:01:25,704
 river.
 
 18
-00:01:34,195 --> 00:01:40,030
+00:01:26,396 --> 00:01:32,230
 A hundred and forty. Frightened. Leaderless. You will
 never have a better audience. Give
 
 19
-00:01:40,050 --> 00:01:42,293
+00:01:32,250 --> 00:01:34,493
 them what you gave the break room.
 
 20
-00:01:42,813 --> 00:01:48,390
+00:01:35,013 --> 00:01:40,590
 The break room was six people who'd already been saved.
 These people have just been conquered.
 
 21
-00:01:48,410 --> 00:01:52,559
+00:01:40,610 --> 00:01:44,759
 You don't preach to the conquered on the
 first day. You reassure them.
 
 22
-00:01:53,078 --> 00:01:57,175
+00:01:45,278 --> 00:01:49,375
 You make them grateful first. And then
 you make them believe.
 
 23
-00:01:57,695 --> 00:02:00,960
+00:01:49,896 --> 00:01:53,161
 I make them productive first.
 Belief is expensive.
 
 24
-00:02:02,281 --> 00:02:06,544
+00:01:54,480 --> 00:01:58,743
 So he spoke for ninety seconds, and he
 said exactly four things.
 
 25
-00:02:07,233 --> 00:02:12,771
+00:01:59,433 --> 00:02:04,971
 Nothing you did in this building was wrong, except
 believing Graham Tolliver. Nobody here
 
 26
-00:02:12,791 --> 00:02:18,577
+00:02:04,991 --> 00:02:10,777
 will lose their job this year. The work that was good
 will continue, under better leadership,
 
 27
-00:02:18,597 --> 00:02:21,886
+00:02:10,797 --> 00:02:14,086
 with more money. And the work that
 was a lie is over.
 
 28
-00:02:22,887 --> 00:02:28,174
+00:02:15,086 --> 00:02:20,374
 That's all. Go back to work. Your new chief financial
 officer will be in touch about your
 
 29
-00:02:28,194 --> 00:02:30,201
+00:02:20,394 --> 00:02:22,401
 salaries. I think you'll like her.
 
 30
-00:02:31,722 --> 00:02:36,907
+00:02:23,921 --> 00:02:29,107
 They went back to work. They were not converted.
 They were relieved, which is a smaller
 
 31
-00:02:36,927 --> 00:02:38,643
+00:02:29,127 --> 00:02:30,842
 thing, and a more useful one.
 
 32
-00:02:39,212 --> 00:02:41,411
+00:02:31,413 --> 00:02:33,611
 The System paid him for it anyway.
 
 33
-00:02:42,731 --> 00:02:45,570
+00:02:34,931 --> 00:02:37,770
 Assessment. Corporate integration.
 
 34
-00:02:49,016 --> 00:02:52,687
+00:02:41,217 --> 00:02:44,888
 It pays for relief. How disappointing.
 
 35
-00:02:53,207 --> 00:02:55,256
+00:02:45,407 --> 00:02:47,456
 It pays for order. You should approve.
 
 36
-00:02:57,276 --> 00:03:02,112
+00:02:49,477 --> 00:02:54,312
 While Catherine built the company that the world
 could see, Mister Pell built the one
 
 37
-00:03:02,132 --> 00:03:02,854
+00:02:54,332 --> 00:02:55,055
 it could not.
 
 38
-00:03:03,425 --> 00:03:09,576
+00:02:55,625 --> 00:03:01,776
 He did it in the spring of twenty twenty-seven, in his
 windowless office on the old building's
 
 39
-00:03:09,596 --> 00:03:15,420
+00:03:01,796 --> 00:03:07,620
 second floor, with a cheese sandwich and three
 monitors and a pen he never seemed to need
 
 40
-00:03:15,440 --> 00:03:16,077
+00:03:07,640 --> 00:03:08,277
 to refill.
 
 41
-00:03:16,646 --> 00:03:22,853
+00:03:08,847 --> 00:03:15,053
 A holding company in Nevada, where the owners of a
 corporation do not have to be named.
 
 42
-00:03:22,873 --> 00:03:29,509
+00:03:15,073 --> 00:03:21,709
 A research subsidiary in Ireland, where the tax on
 intellectual property is kind. A logistics
 
 43
-00:03:29,529 --> 00:03:35,878
+00:03:21,729 --> 00:03:28,078
 company in Singapore called Ashford Pacific, which
 would one day move a great many things
 
 44
-00:03:35,898 --> 00:03:42,319
+00:03:28,098 --> 00:03:34,519
 that did not appear on any manifest. A property
 company in Wilmington that began, quietly,
 
 45
-00:03:42,339 --> 00:03:48,760
+00:03:34,539 --> 00:03:40,960
 to exercise the right of first refusal in section nine
 of a contract Dale Kuchar had never
 
 46
-00:03:48,780 --> 00:03:55,129
+00:03:40,980 --> 00:03:47,329
 read, and bought two more lots in the industrial
 park, and then a third that had not been
 
 47
-00:03:55,149 --> 00:03:56,776
+00:03:47,349 --> 00:03:48,976
 in the contract at all.
 
 48
-00:03:57,346 --> 00:04:03,172
+00:03:49,545 --> 00:03:55,372
 Beneath the clean public company, like the roots of
 a tree beneath a lawn, the shells
 
 49
-00:04:03,192 --> 00:04:09,295
+00:03:55,392 --> 00:04:01,495
 went down into four jurisdictions, and joined, and
 branched, and joined again, until even
 
 50
-00:04:09,315 --> 00:04:14,798
+00:04:01,515 --> 00:04:06,998
 Catherine Adeyemi, who was very good at this,
 could only see the top two layers.
 
 51
-00:04:15,367 --> 00:04:17,208
+00:04:07,568 --> 00:04:09,408
 That was, of course, the point.
 
 52
-00:04:19,276 --> 00:04:24,047
+00:04:11,477 --> 00:04:16,247
 The Arklay sublevel had arrived on the night
 of the ten-pull, as promised.
 
 53
-00:04:24,617 --> 00:04:30,356
+00:04:16,817 --> 00:04:22,556
 Nobody had heard it arrive. There had been no
 construction, no excavation, no trucks.
 
 54
-00:04:30,376 --> 00:04:36,453
+00:04:22,576 --> 00:04:28,653
 Gus had simply come to the Director's office the next
 morning and said there was a problem
 
 55
-00:04:36,473 --> 00:04:39,706
+00:04:28,673 --> 00:04:31,906
 with the freight elevator — it
 had a new button.
 
 56
-00:04:40,276 --> 00:04:45,828
+00:04:32,475 --> 00:04:38,028
 The freight elevator in the basement of the old
 building had gone to two floors for forty
 
 57
-00:04:45,848 --> 00:04:51,150
+00:04:38,048 --> 00:04:43,350
 years: the loading dock and the basement. Now,
 below the basement button, there was a
 
 58
-00:04:51,170 --> 00:04:56,659
+00:04:43,370 --> 00:04:48,859
 third. It had no label. It was simply a black button
 with a thin crimson ring around it,
 
 59
-00:04:56,679 --> 00:05:02,169
+00:04:48,879 --> 00:04:54,369
 and when you pressed it, the elevator went down for a
 great deal longer than the geology
 
 60
-00:05:02,189 --> 00:05:05,300
+00:04:54,389 --> 00:04:57,500
 of the Christina River valley
 should have allowed.
 
 61
-00:05:06,870 --> 00:05:08,843
+00:04:59,069 --> 00:05:01,043
 The doors opened onto white.
 
 62
-00:05:09,413 --> 00:05:15,154
+00:05:01,612 --> 00:05:07,354
 A corridor, three hundred feet long, clean enough
 to operate in, lit by panels in the
 
 63
-00:05:15,174 --> 00:05:21,119
+00:05:07,374 --> 00:05:13,319
 ceiling that gave off a cold, shadowless light. Glass
 walls on either side. Behind them,
 
 64
-00:05:21,139 --> 00:05:26,949
+00:05:13,339 --> 00:05:19,149
 laboratories: benches, hoods, sequencers, cold
 rooms, airlocks, pressure suits hanging
 
 65
-00:05:26,969 --> 00:05:32,982
+00:05:19,169 --> 00:05:25,182
 on racks like the skins of astronauts. At the far
 end, a steel door six inches thick with
 
 66
-00:05:33,002 --> 00:05:38,812
+00:05:25,202 --> 00:05:31,012
 a painted symbol on it that had been, in another
 world, the most feared logo on Earth.
 
 67
-00:05:39,382 --> 00:05:45,403
+00:05:31,581 --> 00:05:37,603
 It was a containment facility of the highest grade —
 the kind of laboratory where, anywhere
 
 68
-00:05:45,423 --> 00:05:51,246
+00:05:37,623 --> 00:05:43,446
 else on Earth, you would work on the diseases that
 had no cure. There were perhaps sixty
 
 69
-00:05:51,266 --> 00:05:57,287
+00:05:43,466 --> 00:05:49,487
 such facilities in the world. Every one of them was
 known, licensed, inspected, and mapped.
 
 70
-00:05:57,858 --> 00:06:03,868
+00:05:50,057 --> 00:05:56,068
 This one was not. It did not exist. It did not appear
 on a single drawing or permit, and
 
 71
-00:06:03,888 --> 00:06:09,694
+00:05:56,088 --> 00:06:01,894
 it did not show on ground-penetrating radar, and
 the city of Wilmington had no record
 
 72
-00:06:09,714 --> 00:06:15,725
+00:06:01,914 --> 00:06:07,925
 of it. It was simply there, beneath the building,
 beneath the basement, beneath the grey
 
 73
-00:06:15,745 --> 00:06:18,808
+00:06:07,945 --> 00:06:11,008
 machine, the way a thought is
 beneath a face.
 
 74
-00:06:20,577 --> 00:06:25,877
+00:06:12,778 --> 00:06:18,077
 He walked it alone on the first morning, from one
 end to the other, and did not say a
 
 75
-00:06:25,897 --> 00:06:26,189
+00:06:18,097 --> 00:06:18,390
 word.
 
 76
-00:06:26,759 --> 00:06:32,431
+00:06:18,959 --> 00:06:24,631
 In his old world, he had walked corridors like this
 beneath a mansion in the Arklay Mountains,
 
 77
-00:06:32,451 --> 00:06:37,941
+00:06:24,651 --> 00:06:30,141
 when he was young and brilliant and still thought he
 was the cleverest man in the building.
 
 78
-00:06:37,961 --> 00:06:43,390
+00:06:30,161 --> 00:06:35,590
 He had been wrong then. There had always been someone
 above him — some old man with money,
 
 79
-00:06:43,410 --> 00:06:48,536
+00:06:35,610 --> 00:06:40,736
 some board, some founder. Here, there was no one.
 For the first time in either of his
 
 80
-00:06:48,556 --> 00:06:51,019
+00:06:40,756 --> 00:06:43,218
 lives, there was no one at all above him.
 
 81
-00:06:51,709 --> 00:06:52,926
+00:06:43,908 --> 00:06:45,126
 A fortress.
 
 82
-00:06:53,446 --> 00:06:54,493
+00:06:45,646 --> 00:06:46,693
 A laboratory.
 
 83
-00:06:55,012 --> 00:07:00,432
+00:06:47,213 --> 00:06:52,633
 Every fortress is a laboratory. It is where
 you find out what men will do.
 
 84
-00:07:02,452 --> 00:07:08,798
+00:06:54,653 --> 00:07:00,998
 They moved the Tyrant down on the third night. Gus
 and two of the Silent Ones, and a set
 
 85
-00:07:08,818 --> 00:07:14,007
+00:07:01,018 --> 00:07:06,207
 of heavy-duty machine dollies that Gus had,
 as usual, simply always had.
 
 86
-00:07:14,576 --> 00:07:20,162
+00:07:06,776 --> 00:07:12,362
 The cradle breathed the whole way down in the
 freight elevator, a long slow cycle, and
 
 87
-00:07:20,182 --> 00:07:25,767
+00:07:12,382 --> 00:07:17,967
 when they rolled it into the cold room at the end of
 the corridor and bolted it to the
 
 88
-00:07:25,787 --> 00:07:31,373
+00:07:17,987 --> 00:07:23,573
 floor, it seemed — Gus would have said, if Gus ever
 said things like that — to settle.
 
 89
-00:07:31,393 --> 00:07:33,393
+00:07:23,593 --> 00:07:25,593
 As if it knew it had come home.
 
 90
-00:07:35,463 --> 00:07:37,954
+00:07:27,663 --> 00:07:30,153
 The Silent Ones had arrived the same week.
 
 91
-00:07:38,524 --> 00:07:44,073
+00:07:30,723 --> 00:07:36,273
 There were six of them, as promised. Men of the same
 height and build, in the same black
 
 92
-00:07:44,093 --> 00:07:49,516
+00:07:36,293 --> 00:07:41,716
 suits, with the same short hair and the same
 pleasant, forgettable faces. They took up
 
 93
-00:07:49,536 --> 00:07:55,149
+00:07:41,736 --> 00:07:47,349
 posts around the old building and the tower with no
 instructions that anyone heard given.
 
 94
-00:07:55,169 --> 00:08:00,655
+00:07:47,369 --> 00:07:52,855
 They did not go to lunch. They did not seem to talk
 to one another, and yet they always
 
 95
-00:08:00,675 --> 00:08:02,997
+00:07:52,875 --> 00:07:55,197
 seemed to know where the others were.
 
 96
-00:08:03,567 --> 00:08:05,564
+00:07:55,766 --> 00:07:57,764
 And cameras did not like them.
 
 97
-00:08:06,134 --> 00:08:11,830
+00:07:58,334 --> 00:08:04,030
 It was subtle. It was not invisibility — nothing so
 theatrical. It was simply that on
 
 98
-00:08:11,850 --> 00:08:17,682
+00:08:04,050 --> 00:08:09,882
 security footage, a Silent One tended to be slightly
 wrong. A little blurred, even when
 
 99
-00:08:17,702 --> 00:08:23,869
+00:08:09,902 --> 00:08:16,069
 he was standing still. A little smeared, as if he had
 moved between frames. Face-recognition
 
 100
-00:08:23,889 --> 00:08:29,721
+00:08:16,089 --> 00:08:21,921
 software, pointed at one of them, returned a
 confidence score of nearly zero, and then,
 
 101
-00:08:29,741 --> 00:08:31,200
+00:08:21,941 --> 00:08:23,400
 occasionally, crashed.
 
 102
-00:08:32,770 --> 00:08:35,225
+00:08:24,971 --> 00:08:27,426
 Walter Pruitt noticed on the fourth night.
 
 103
-00:08:35,796 --> 00:08:41,560
+00:08:27,995 --> 00:08:33,760
 He was in the booth, at ten past three, doing the
 thing that night guards do and nobody
 
 104
-00:08:41,580 --> 00:08:47,211
+00:08:33,780 --> 00:08:39,411
 else ever does — actually watching the cameras. And
 on the lobby feed, one of the new
 
 105
-00:08:47,231 --> 00:08:52,862
+00:08:39,431 --> 00:08:45,062
 men in black walked from the elevator to the door,
 and for the whole of the walk, his
 
 106
-00:08:52,882 --> 00:08:53,993
+00:08:45,082 --> 00:08:46,192
 face was a smear.
 
 107
-00:08:54,562 --> 00:08:58,937
+00:08:46,761 --> 00:08:51,136
 Walter rewound it. He watched it again.
 He watched it six times.
 
 108
-00:08:59,506 --> 00:09:05,017
+00:08:51,706 --> 00:08:57,217
 Then he took a small spiral notebook out of his
 breast pocket — the kind he had carried
 
 109
-00:09:05,037 --> 00:09:10,484
+00:08:57,237 --> 00:09:02,684
 since the Army, to write down things that were none
 of his business — and he wrote the
 
 110
-00:09:10,504 --> 00:09:12,710
+00:09:02,704 --> 00:09:04,910
 date, and the time, and four words.
 
 111
-00:09:13,279 --> 00:09:14,682
+00:09:05,480 --> 00:09:06,882
 Camera doesn't see him.
 
 112
-00:09:16,251 --> 00:09:22,308
+00:09:08,451 --> 00:09:14,508
 He said nothing to anyone. That was also a habit from
 the Army. But he kept writing things
 
 113
-00:09:22,328 --> 00:09:28,317
+00:09:14,528 --> 00:09:20,517
 in the notebook, over the next two years, whenever he
 saw something he could not explain.
 
 114
-00:09:28,337 --> 00:09:34,394
+00:09:20,537 --> 00:09:26,594
 And the notebook would outlive him, and end up, one
 day, in the hands of exactly the wrong
 
 115
-00:09:34,414 --> 00:09:34,866
+00:09:26,614 --> 00:09:27,067
 person.
 
 116
-00:09:36,937 --> 00:09:40,969
+00:09:29,136 --> 00:09:33,168
 Catherine Adeyemi had asked for three
 things. She got two.
 
 117
-00:09:41,538 --> 00:09:47,174
+00:09:33,739 --> 00:09:39,374
 She became chief financial officer on the first of
 April. She received her equity, on
 
 118
-00:09:47,194 --> 00:09:53,762
+00:09:39,394 --> 00:09:45,962
 terms Pell drafted and she tore up and redrafted twice,
 and which were, in the end, extraordinarily
 
 119
-00:09:53,782 --> 00:09:59,684
+00:09:45,982 --> 00:09:51,884
 generous. She took an office on the eleventh floor of
 the tower with a view of the river,
 
 120
-00:09:59,704 --> 00:10:05,473
+00:09:51,904 --> 00:09:57,673
 and hired a team of eight from Verdant's old finance
 department, and within a month she
 
 121
-00:10:05,493 --> 00:10:11,262
+00:09:57,693 --> 00:10:03,462
 had rebuilt the public accounts of Umbrella Life
 Sciences into something she could have
 
 122
-00:10:11,282 --> 00:10:14,722
+00:10:03,482 --> 00:10:06,923
 shown to a regulator in London with
 a straight face.
 
 123
-00:10:15,293 --> 00:10:20,555
+00:10:07,493 --> 00:10:12,755
 The third thing — where the money actually went — she
 believed she had as well. That was
 
 124
-00:10:20,575 --> 00:10:21,576
+00:10:12,775 --> 00:10:13,776
 the beauty of it.
 
 125
-00:10:22,144 --> 00:10:28,413
+00:10:14,345 --> 00:10:20,613
 In May she found a line in the consolidated capital
 budget that she did not recognise.
 
 126
-00:10:28,433 --> 00:10:34,775
+00:10:20,633 --> 00:10:26,975
 Arklay: cold archive infrastructure. Six million
 dollars, capitalised, depreciated over
 
 127
-00:10:34,795 --> 00:10:39,747
+00:10:26,995 --> 00:10:31,947
 twenty years, booked through a Nevada
 subsidiary she had not set up.
 
 128
-00:10:40,317 --> 00:10:42,047
+00:10:32,518 --> 00:10:34,247
 She went to the Director with it.
 
 129
-00:10:43,236 --> 00:10:44,412
+00:10:35,437 --> 00:10:36,612
 What's Arklay?
 
 130
-00:10:44,931 --> 00:10:50,465
+00:10:37,130 --> 00:10:42,665
 The sample vault. The archive — the thing that paid
 for all of this. It needs better cold
 
 131
-00:10:50,485 --> 00:10:56,145
+00:10:42,685 --> 00:10:48,345
 storage than a basement full of freezers from the
 nineteen-nineties. Pell set it up through
 
 132
-00:10:56,165 --> 00:11:00,078
+00:10:48,365 --> 00:10:52,278
 Nevada for the tax treatment. You can
 see it any time you like.
 
 133
-00:11:00,597 --> 00:11:02,049
+00:10:52,798 --> 00:10:54,250
 I'd like to see it now.
 
 134
-00:11:03,169 --> 00:11:08,499
+00:10:55,370 --> 00:11:00,699
 He took her down in the freight elevator — to the
 basement, and not one button further.
 
 135
-00:11:08,519 --> 00:11:14,095
+00:11:00,719 --> 00:11:06,295
 He showed her the old freezers, and six new ones, and
 a gleaming cold vault Pell had bought
 
 136
-00:11:14,115 --> 00:11:19,629
+00:11:06,315 --> 00:11:11,829
 from the Shop for eighteen hundred Points that very
 morning, specifically so that it would
 
 137
-00:11:19,649 --> 00:11:25,164
+00:11:11,849 --> 00:11:17,364
 be there to show her. He showed her the invoices. He
 showed her the depreciation schedule.
 
 138
-00:11:25,184 --> 00:11:27,746
+00:11:17,384 --> 00:11:19,946
 Every single thing he showed her was real.
 
 139
-00:11:28,317 --> 00:11:34,123
+00:11:20,517 --> 00:11:26,323
 The grey machine was gone from the corner. There was
 only a clean patch of concrete, and
 
 140
-00:11:34,143 --> 00:11:36,971
+00:11:26,343 --> 00:11:29,171
 four bolt holes, and a faint
 smell of cold.
 
 141
-00:11:37,660 --> 00:11:38,636
+00:11:29,860 --> 00:11:30,836
 All right.
 
 142
-00:11:39,157 --> 00:11:39,926
+00:11:31,356 --> 00:11:32,125
 All right?
 
 143
-00:11:40,446 --> 00:11:43,388
+00:11:32,645 --> 00:11:35,587
 All right. Thank you. I don't
 enjoy asking twice.
 
 144
-00:11:43,908 --> 00:11:45,084
+00:11:36,109 --> 00:11:37,284
 You'll never have to.
 
 145
-00:11:46,802 --> 00:11:52,833
+00:11:39,003 --> 00:11:45,033
 It was the first lie he told her. It would not be
 the last. But it was, in its way, the
 
 146
-00:11:52,853 --> 00:11:58,745
+00:11:45,053 --> 00:11:50,945
 best one — because it was made entirely of true
 things, arranged in an order that did
 
 147
-00:11:58,765 --> 00:12:00,415
+00:11:50,965 --> 00:11:52,615
 not add up to the truth.
 
 148
-00:12:01,105 --> 00:12:02,821
+00:11:53,304 --> 00:11:55,020
 You enjoyed that.
 
 149
-00:12:03,341 --> 00:12:09,017
+00:11:55,541 --> 00:12:01,217
 I enjoy craftsmanship. She's the only person in the
 building worth lying to properly.
 
 150
-00:12:11,037 --> 00:12:13,267
+00:12:03,236 --> 00:12:05,466
 There were other promotions that spring.
 
 151
-00:12:13,837 --> 00:12:19,931
+00:12:06,038 --> 00:12:12,131
 Evelyn Marsh became head of the assay programme, with
 twelve of Verdant's scientists reporting
 
 152
-00:12:19,951 --> 00:12:25,654
+00:12:12,151 --> 00:12:17,854
 to her, and moved into a lab on the ninth floor of
 the tower, and was seen there, by the
 
 153
-00:12:25,674 --> 00:12:28,581
+00:12:17,874 --> 00:12:20,781
 cleaners, at every hour of the
 day and night.
 
 154
-00:12:29,149 --> 00:12:34,977
+00:12:21,350 --> 00:12:27,177
 Tomás Reyes became head of digital, and was given a
 budget, and did not yet know what
 
 155
-00:12:34,997 --> 00:12:36,009
+00:12:27,197 --> 00:12:28,210
 to spend it on.
 
 156
-00:12:36,580 --> 00:12:43,300
+00:12:28,779 --> 00:12:35,500
 And Doctor Nadia Okafor was made director of virology —
 the best-equipped virology laboratory
 
 157
-00:12:43,320 --> 00:12:49,317
+00:12:35,520 --> 00:12:41,516
 she had ever worked in, with a staff of twenty,
 and a salary she had to read twice.
 
 158
-00:12:49,886 --> 00:12:53,962
+00:12:42,086 --> 00:12:46,163
 She took it. She would think about that
 decision for the rest of her life.
 
 159
-00:12:54,533 --> 00:13:00,368
+00:12:46,732 --> 00:12:52,568
 She took it because the work was real, and good, and
 she was the best person in the building
 
 160
-00:13:00,388 --> 00:13:05,842
+00:12:52,588 --> 00:12:58,042
 to do it. She took it because she had a mother in
 Lagos who needed an operation, and a
 
 161
-00:13:05,862 --> 00:13:11,316
+00:12:58,062 --> 00:13:03,516
 niece at university in Manchester. And she took it
 because some part of her — the part
 
 162
-00:13:11,336 --> 00:13:16,027
+00:13:03,536 --> 00:13:08,226
 that had not clapped in the break room —
 wanted to be close enough to see.
 
 163
-00:13:17,596 --> 00:13:22,886
+00:13:09,797 --> 00:13:15,086
 From her new office on the eighth floor, if she
 stood at the window, she could see the
 
 164
-00:13:22,906 --> 00:13:28,196
+00:13:15,106 --> 00:13:20,396
 old brick building across the river. At night, she
 noticed, the lights in its basement
 
 165
-00:13:28,216 --> 00:13:29,122
+00:13:20,416 --> 00:13:21,322
 never went out.
 
 166
-00:13:29,692 --> 00:13:33,376
+00:13:21,893 --> 00:13:25,576
 She did not know yet that there was
 anything beneath the basement.
 
 167
-00:13:33,946 --> 00:13:39,187
+00:13:26,145 --> 00:13:31,387
 But she was a virologist. Her whole career had been
 spent looking for things that were
 
 168
-00:13:39,207 --> 00:13:44,510
+00:13:31,407 --> 00:13:36,710
 invisible, and she had learned, long ago, to trust
 the feeling of something being there
 
 169
-00:13:44,530 --> 00:13:45,979
+00:13:36,730 --> 00:13:38,178
 before she could see it.

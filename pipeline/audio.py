@@ -126,18 +126,21 @@ def build_timeline(ch):
         return dur
 
     def cards(at):
+        # One card and one announcement per chapter. A chapter that opens a Part carries the
+        # Part's name as a label on its own card, with the heavier Part sting under it. Giving
+        # the Part a card of its own put two title cards back to back, both in title type and
+        # both read aloud, so the chapter came across as having two names.
+        card = {'type': 'chapter', 'start': at, 'end': at + 6.8, 'num': ch.number, 'title': ch.title}
         if ch.movement:
-            num, title = ch.movement
-            tl['cards'].append({'type': 'movement', 'start': at, 'end': at + 8.5, 'num': num, 'title': title})
+            card['movement'] = list(ch.movement)
+            card['end'] = at + 8.0
             tl['music'].append({'time': at, 'cue': 'm_movement', 'gain': 0.0})
-            words = {'I': 'One', 'II': 'Two', 'III': 'Three', 'IV': 'Four', 'V': 'Five', 'VI': 'Six'}[num]
-            add_voice('N', f'Part {words}. {title}.', '', at + 3.2, subtitle=False)
-            at += 9.0
-        tl['cards'].append({'type': 'chapter', 'start': at, 'end': at + 6.8, 'num': ch.number, 'title': ch.title})
-        tl['music'].append({'time': at, 'cue': 'm_title', 'gain': -2.0})
+        else:
+            tl['music'].append({'time': at, 'cue': 'm_title', 'gain': -2.0})
+        tl['cards'].append(card)
         from num2words import num2words
         d = add_voice('N', f'Chapter {num2words(ch.number)}. {ch.title}.', '', at + 1.7, subtitle=False)
-        return at + max(7.2, 1.7 + d + 1.6)
+        return at + max(card['end'] - at + 0.4, 1.7 + d + 1.6)
 
     def flush(at, skip_chime=False):
         chimed = False

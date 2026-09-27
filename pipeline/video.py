@@ -230,7 +230,7 @@ class Composer:
             if c['type'] == 'movement':
                 im = G.movement_card(c['num'], c['title'])
             elif c['type'] == 'chapter':
-                im = G.chapter_card(c['num'], c['title'])
+                im = G.chapter_card(c['num'], c['title'], c.get('movement'))
             else:
                 im = G.main_title()
             self.cards.append({**c, 'img': cv2.cvtColor(np.array(im), cv2.COLOR_RGB2BGR)})

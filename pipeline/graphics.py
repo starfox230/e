@@ -193,13 +193,25 @@ def movement_card(num, title):
     return img.convert('RGB')
 
 
-def chapter_card(num, title):
+def chapter_card(num, title, movement=None):
+    """The chapter's title card. A chapter that opens a Part also names the Part, but only as
+    a small label above the chapter number, so the chapter title stays the one line set in
+    title type and the card reads as one title, not two."""
     img = _dark_bg(num + 10, tint=(28, 8, 10))
     d = ImageDraw.Draw(img)
-    _center(d, 400, f'CHAPTER {num}', font('cond_b', 38), CRIMSON + (255,), spacing=12)
+    top = 400
+    if movement:
+        pnum, ptitle = movement
+        words = {'I': 'ONE', 'II': 'TWO', 'III': 'THREE', 'IV': 'FOUR', 'V': 'FIVE', 'VI': 'SIX'}[pnum]
+        mark = corp_mark(96)
+        img.alpha_composite(mark, ((W - 96) // 2, 196))
+        _center(d, 322, f'PART {words}  ·  {ptitle.upper()}', font('cond_b', 30), (196, 196, 202, 255), spacing=10)
+        d.line([(W / 2 - 60, 382), (W / 2 + 60, 382)], fill=(200, 200, 200, 90), width=1)
+        top = 420
+    _center(d, top, f'CHAPTER {num}', font('cond_b', 38), CRIMSON + (255,), spacing=12)
     f = font('serif', 84)
     lines = _wrap(d, title, f, 1500)
-    y = 470
+    y = top + 70
     for ln in lines:
         _center(d, y, ln, f, WHITE + (255,))
         y += 100
