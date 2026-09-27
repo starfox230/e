@@ -8,3 +8,4 @@ __pycache__/
 out/_concat*.txt
 out/preview/
 out/audiobook/
+out/small/
