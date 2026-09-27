@@ -34,13 +34,23 @@ FRAMES=$(ls work/images_anime/*.jpg 2>/dev/null | wc -l)
 SHOTS=$(python3 pipeline/gen_anime.py --report --upto 50 2>&1 | tail -1 | awk '{print $1}')
 log "frames: $FRAMES of $SHOTS"
 
+# Disk is the binding constraint on this machine: fifty chapter mixes are about seven and a
+# half gigabytes and the render needs room for the chapters, the segments and the full film
+# on top. Each mix is only needed until its chapter is rendered and checked, so they go as
+# the render moves through them.
 log "render"
 python3 pipeline/render_chapter.py --workers 4 || log "render reported an error"
 
+log "QA per chapter, then drop the mixes"
+for i in $(seq -w 1 50); do
+    if [ -f "out/video/ch$i.mp4" ]; then
+        python3 pipeline/qa.py "$((10#$i))" > /dev/null 2>&1 || log "QA flagged ch$i"
+        rm -f "work/ch$i/mix.wav"
+    fi
+done
+log "free after dropping mixes: $(df -h / | awk 'NR==2{print $4}')"
+
 log "assemble"
 python3 pipeline/assemble.py
-
-log "QA"
-python3 pipeline/qa.py || true
 
 log "BUILD DONE"
