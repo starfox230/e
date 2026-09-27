@@ -17,8 +17,8 @@ VERSION = 'v4'   # asterisk stripping, new pronunciation table, Piper support
 # speaker -> (kokoro voice, speed, fx preset, level offset dB)
 VOICES = {
     'N':         ('am_michael', 0.94, 'narrator', 0.0),
-    'WESKER':    ('am_fenrir', 0.88, 'wesker', 0.0),
-    'ADOLF':     ('bm_george', 0.86, 'adolf', -1.5),
+    'WESKER':    ('piper:ryan', 0.88, 'wesker', 0.0),
+    'ADOLF':     ('piper:alan', 0.84, 'adolf', -1.5),
     'SYSTEM':    ('af_nicole', 0.98, 'system', -1.0),
     'COUNCILLOR': ('am_liam*0.5+am_adam*0.5', 0.97, 'dialog', 0.0),
     'REISS':     ('am_puck*0.5+am_adam*0.5', 0.95, 'dialog', 0.0),
@@ -235,8 +235,13 @@ def _board(preset):
                            HighShelfFilter(cutoff_frequency_hz=7000, gain_db=1.0),
                            Reverb(room_size=0.18, wet_level=0.05, dry_level=1.0, damping=0.7)])
     if preset == 'wesker':
-        return Pedalboard([PitchShift(semitones=-1.0), LowShelfFilter(cutoff_frequency_hz=160, gain_db=2.5), *base,
-                           Reverb(room_size=0.22, wet_level=0.07, dry_level=1.0, damping=0.6)])
+        # a closed door: down two and a half semitones, weight under it, and the top rolled
+        # off so nothing in the voice is ever bright
+        return Pedalboard([PitchShift(semitones=-2.5), HighpassFilter(cutoff_frequency_hz=80),
+                           LowShelfFilter(cutoff_frequency_hz=150, gain_db=3.0),
+                           Compressor(threshold_db=-22, ratio=3.0, attack_ms=4, release_ms=110),
+                           HighShelfFilter(cutoff_frequency_hz=6500, gain_db=-2.5),
+                           Reverb(room_size=0.24, wet_level=0.06, dry_level=1.0, damping=0.75)])
     if preset == 'adolf':
         return Pedalboard([PitchShift(semitones=-2.5), LowpassFilter(cutoff_frequency_hz=5200), *base,
                            Delay(delay_seconds=0.028, feedback=0.1, mix=0.18),
