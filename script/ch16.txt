@@ -1,192 +1,145 @@
-# 16 | The Creed
+# 16 | The Agency Tier
 
-[music] m_corporate -6
-[amb] amb_office_hum
-[img] a glowing world map in a dark boardroom with new red pins appearing in Cambridge England, Basel Switzerland, and Singapore, lines connecting them to Delaware, cinematic
-[loc] 2029
-N: In the spring of twenty twenty-nine, while a virologist's complaint made its slow way through the inboxes of the federal government, Umbrella Life Sciences went abroad.
-N: It went in three directions at once, and each direction had a reason, and only one of the reasons was ever written down.
+[music] m_corporate -8
+[amb] amb_office_hum -16
+[img] a government conference room with officials around a table, a map of national stockpile sites on a screen
+[loc] Department of Health and Human Services, Washington — 12 November 2030
+N: The thing that finally made Umbrella a state-sized object was not a weapon, or a virus, or a secret. It was a purchasing decision about warehouses.
+N: The United States keeps a strategic national stockpile: antivirals, antibiotics, ventilators, protective equipment, all of it distributed across a dozen unmarked sites and all of it, by 2030, embarrassingly old. Replacing it was a nine-billion-dollar programme that four administrations had deferred.
+N: Umbrella bid. Umbrella bid against four consortia, and Umbrella's bid was not the cheapest — it was, in fact, forty per cent more expensive than the next.
+N: It won anyway, in eleven weeks, unanimously, because of one clause that no competitor could match and that Catherine Adeyemi had fought Wesker for six days about.
+CATHERINE: (fast) You are proposing that we hold the stockpile at our own cost and only invoice when it is *used*.
+WESKER: Yes.
+CATHERINE: That is nine billion dollars of inventory financed on our balance sheet for an event that may not occur this decade.
+WESKER: (cold) It is nine billion dollars that makes it structurally impossible for this government to replace us, and that puts an Umbrella logistics officer in the room for every federal emergency exercise from now until the end of the century. Which of those did you think I was buying?
+N: The European Union followed in March of 2031, with the same clause. Japan in June. India, on different terms, in September.
+N: By the autumn of 2031 Umbrella held the medical reserves of four of the eleven largest economies on earth, at its own expense, and was paid only when something went wrong.
+
+[music] m_lo -9
+[img] a warehouse interior with towering racks of medical supplies, a lone worker on a lift, cold light
+N: The narrator wants to underline the shape of this, because it is the whole of Wesker's method and it never changed.
+N: He did not take anything. At every stage, for thirty years, he made himself the answer to a question somebody else was asking, and he made the answer so much better than the alternatives that refusing it became the irresponsible choice. The stockpile was real. The supplies were good. The response times were the best in the world, and when a hurricane took out eastern North Carolina in 2031 the Umbrella trucks were in Greenville before the National Guard.
+N: Every one of those contracts was a gift. Every one of them was also a hand closing.
+[sfx] sfx_system_chime +0.3
+[system] SOVEREIGN-LEVEL CONTRACT — 4 OF 2 REQUIRED
+United States · European Union · Japan · India
+Personnel: 104,000 · Absolute: 9,700
+[say] Sovereign-level contract. Four of the two required. United States, European Union, Japan, India. One hundred and four thousand personnel, nine thousand seven hundred of them Absolute.
+[/system]
+[music] m_triumph -5
+[sfx] sfx_level_up +0.1
+[img] a huge glowing crimson and white holographic panel in a dark office, a figure in black standing before it
+[system] TIER III — AGENCY
+Umbrella is no longer a company that governments regulate.
+It is a company that governments depend upon.
+Points: +3,000,000 · Balance: 11,400,000
+Agency banner: available
+New rarity in pool: PROGENITOR
+[say] Tier three. Agency. Umbrella is no longer a company that governments regulate. It is a company that governments depend upon. Three million Points. Balance, eleven million four hundred thousand. The Agency banner is available. New rarity in pool: Progenitor.
+[/system]
+WESKER: Define the new rarity.
+SYSTEM: Common improves your company. Rare improves your capability. Epic improves your reach. Legendary improves your position.
+SYSTEM: Progenitor improves *you*.
+[pause 0.8]
+WESKER: (soft) And the odds?
+SYSTEM: One in eleven thousand.
+
+[music] m_hi -5
+[img] rings of coloured light spinning above a desk in a dark room, gold and violet flashes, a man in black watching
+[loc] Arklay Estate, the library — 21 December 2031, 11:00 p.m.
+[sfx] sfx_gacha_spin +0.1
+N: He pulled twenty times on the Agency banner, at four hundred thousand Points a ten-pull, and the narrator will not list two hundred results.
+N: What matters is four of them.
+[sfx] sfx_gacha_rare +0.2
+N: The first was an Epic: **Cold Chain Sovereign**, a global refrigerated logistics network with eleven hundred vehicles, forty-one aircraft and its own port facilities, which arrived on a Tuesday and which the industry press spent a year describing as the most impressive piece of operational build-out in the sector's history.
+N: The second was a Rare that he considered, for about eleven seconds, to be the most valuable thing he had ever pulled: **Multilingual Competence.** Every language spoken by more than a million people, complete, permanent, with the accent of an educated native. He tested it on the Hungarian night porter at Arklay, who wept.
+[sfx] sfx_gacha_gold +0.1
+[music] m_triumph -4
+[img] an enormous golden holographic panel unfolding in a dark library, a man in a black coat standing in the light
+[system] LEGENDARY
+THE ANTARCTIC FACILITY
+[say] Legendary. The Antarctic Facility.
+[/system]
+[system] THE ANTARCTIC FACILITY — PACKAGE
+Location: your selection, interior Antarctica
+Subsurface complex: 14 levels · BSL-4 · cryogenic hall, 4,000 cradles
+Power: dedicated · Airstrip · Deep-water port, 340 km
+Personnel: 611, Absolute · Tyrant cohort: 8, cradled
+Jurisdiction: none. The Antarctic Treaty forbids military activity and mineral extraction. It does not mention research.
+[say] The Antarctic Facility. A subsurface complex of fourteen levels in interior Antarctica. B S L four throughout. A cryogenic hall of four thousand cradles. Dedicated power, an airstrip, and a deep-water port three hundred and forty kilometres away. Six hundred and eleven Absolute personnel. A Tyrant cohort of eight, cradled. Jurisdiction: none. The Antarctic Treaty forbids military activity and mineral extraction. It does not mention research.
+[/system]
+N: He read the last line of that panel and laughed — the second time, and the last.
+N: And then, on the nineteenth pull of the twentieth ten, the room went black.
+[music] stop
 [pause 1.0]
-[img] a weathered red-brick Victorian laboratory building on the edge of Cambridge, England, grey sky, a faded sign being taken down, cinematic
-[loc] Cambridge, England
-N: The first was England. It was, officially, a matter of talent — Cambridge had more good biologists per square mile than anywhere on Earth. It was also a matter of history. The last remaining asset of the dead parent company, Umbrella Holdings, was a shuttered laboratory on the edge of Cambridge that Harrow and Lisle had never managed to sell. Peter Fenwick sold it to the Director over the phone, for less than its value in scrap, and said, as the call ended, in a tone of mild bafflement:
-FENWICK: (phone) Do you know, Doctor Wesker, you're the only man who's ever bought anything from this estate twice?
-WESKER: I'm sentimental, Mister Fenwick.
+[sfx] sfx_riser +0.1
+[img] a single black holographic panel edged in crimson floating in a completely dark room, ominous, minimal
+[music] m_horror -6
+[system] PROGENITOR
+ORIGIN — one sealed ampoule
+Contents: the first strain. Not a weapon. Not a cure. The thing all of it came from.
+Effect on host: permanent, irreversible, categorical.
+Requirement: Viral Affinity 40.
+Current Viral Affinity: 24.
+Do not open this early. I will not be able to stop what happens if you do.
+[say] Progenitor. Origin. One sealed ampoule. Contents: the first strain. Not a weapon. Not a cure. The thing all of it came from. The effect on the host is permanent, irreversible and categorical. Requirement: Viral Affinity forty. Your current Viral Affinity is twenty-four. Do not open this early. I will not be able to stop what happens if you do.
+[/system]
+[pause 1.2]
+N: The narrator would like you to understand that in four and a half years, across two hundred thousand words of panels, that is the first time the System ever said *I*.
+WESKER: (very cold) Say that again.
+SYSTEM: Viral Affinity forty.
+WESKER: The last sentence.
+[pause 0.6]
+SYSTEM: Do not open this early.
+WESKER: You said *I will not be able to stop what happens*. You have never used that word about yourself. You have never suggested there is anything you cannot stop.
 [pause 0.8]
-N: Peter Fenwick laughed. It was the last time anyone at Harrow and Lisle thought about Umbrella for sixteen years.
-[pause 1.2]
+SYSTEM: (flat) The panel is accurate.
+N: And that was all he got. He asked eleven more times over the following four years, in four different ways, and the answer never changed and never expanded.
+[img] a heavy sealed vault door deep underground with a single small black case inside, cold light, ominous
+N: The ampoule went into the sealed vault on level nine at Arklay — the one Birkin had never been able to price, the one the drawings had always shown and never explained.
+N: It went in on the twenty-second of December 2031. It came out on the fourth of December 2033.
+ADOLF: (soft) You will open it.
+WESKER: Of course I will open it.
+ADOLF: You do not know what it does.
+WESKER: (cold) I know what it *is*. Everything I am, everything in that cryogenic hall, everything Evelyn has built out of a vial some technician labelled *odd* in 2004 — all of it is a downstream copy of the thing in that case. I have spent two lifetimes working from the copies.
+ADOLF: And if it kills you?
+WESKER: (soft) Then it will have been the only worthy opponent either of us ever met.
 
-[img] an immaculate Swiss vault facility carved into a mountainside above Basel, steel doors, snow, the Rhine valley below, cinematic
-[loc] Basel, Switzerland
-N: The second was Switzerland. Officially, a sample repository — a cold vault in the rock above Basel, where Umbrella could store biological material under the protection of Swiss law and Swiss discretion. It was also, though nobody but Pell knew this, the first property Umbrella had ever bought in a city that the Adolf half of the mind had marked, years before, on a map inside the skull.
-N: Basel. The pharmaceutical capital of the world. Home of the giants. A city where a single industry paid for everything, and where a single company could, in the right circumstances, become indistinguishable from the state.
-N: Adolf chimed in.
-ADOLF: One day.
-WESKER: One day. Not this year.
-[pause 1.2]
-
-[img] a massive gleaming new manufacturing plant in Singapore at night, all white and glass, red and white emblems, cargo ships in the harbor beyond, cinematic
-[loc] Singapore
-N: And the third was Singapore, where Ashford Pacific had quietly become one of the larger logistics firms in Southeast Asia, and where Umbrella now built — with its own money, in the open, with every permit in order — a manufacturing plant that could produce Aeterna, and the assay, and anything else the future required, at a rate of four hundred million doses a year.
-N: Four hundred million. Catherine asked, in the capital planning meeting, why a company with a drug still in phase three trials needed capacity for four hundred million doses of anything.
-N: The Director said that he believed in being prepared. She wrote that down.
-[pause 1.5]
-
-[music] m_system -4
-[img] {WESKER} standing on the balcony of the Singapore plant at night overlooking the harbor, a cascade of glowing crimson panels in the humid air around him, cinematic
-[sfx] sfx_system_open
-[system] ASSESSMENT
-Expansion — United Kingdom: 60,000
-Expansion — Switzerland: 40,000
-Expansion — Singapore: 50,000
-Market position — dominant, national: 150,000
-Total: 300,000
-[say] Assessment. Expansion. Three hundred thousand Points.
-[/system]
-[sfx] sfx_level_up
-[sfx] sfx_level_up +0.6
-[sfx] sfx_level_up +1.2
-[system] LEVEL UP
-Level: 20
-Stat Points available: 40
-Points: 357,300
-[say] Level up. Level twenty.
-[/system]
-N: Twenty. He felt this one differently. Not like doors opening, this time. Like the floor of a building dropping away beneath him, and finding that he did not fall.
-[system] STATUS
-Level: 20
-Strength: 42
-Speed: 50
-Intelligence: 45
-Defence: 36
-Health: 40
-Charisma: 42
-Special: 20
-[say] Status.
-[/system]
-N: Speed fifty. He tested it that night, on an empty service road behind the plant, at two in the morning. He did not run. He simply decided to be at the far end of the road, three hundred metres away, and was — with a sound behind him like a sheet being torn, and a swirl of dust that took a second to catch up.
-[sfx] sfx_whoosh
-[pause 0.8]
-[system] PURCHASE CONFIRMED
-Ability: Boardroom Gravity
-In negotiation, the preferences of others will bend toward yours.
-Cost: 120,000
-Points: 237,300
-[say] Purchase confirmed. Boardroom gravity.
-[/system]
-[pause 1.5]
-
-N: The other voice weighed in.
-[music] m_tension -10
-[amb] amb_night_city
-[img] {WESKER} in the back of a car at night, streetlights sliding over his sunglasses, tense stillness, cinematic
-ADOLF: Now.
-WESKER: Now what?
-N: The other half of him answered.
-ADOLF: Now you have two thousand people in four countries. You have a name that thirteen million people have watched. You have a factory for four hundred million of anything. Now you give them something to believe in.
-WESKER: They believe in their salaries.
-N: Adolf's voice came from somewhere behind his eyes.
-ADOLF: No one ever died for a salary.
-WESKER: That's rather the point. I don't want anyone to die for me. Dead people are a terrible investment.
-N: From inside, the other voice.
-ADOLF: You felt what the break room paid. Four thousand Points, for six frightened people, in five minutes. Imagine what two thousand pay. Imagine what twenty thousand pay. You want the System's money. The System wants belief. Give it belief.
-[pause 1.2]
-N: Wesker said nothing for a long time.
-N: He was, underneath everything, an investor. And the Adolf half had just made — he admitted to himself, in the back of the car, with the streetlights sliding over the glass — an extremely good investment case.
-WESKER: Not a movement.
-N: The voice inside him answered.
-ADOLF: A movement.
-WESKER: A culture. Every great company has one. Apple had one. Google had one. The Jesuits had one, and they ran half the schools in Europe for four hundred years. Nobody ever arrested a Jesuit for having a mission statement.
-N: Adolf, softly, from inside.
-ADOLF: (slow) Call it what you like. I shall write it.
-[pause 1.5]
+[music] m_lo -8
+[img] {EVELYN} in a heavy coat standing on an Antarctic airstrip beside a transport aircraft, white horizon, brutal light
+[loc] The Antarctic Facility — 11 February 2032
+N: He gave Evelyn Marsh the ice.
+N: Fourteen levels, six hundred and eleven staff who could not disobey her, four thousand cryogenic cradles and no oversight of any kind. She was thirty-two years old. Her title was Director of the Progenitor Initiative, and the Initiative had, at that point, precisely one sealed ampoule that she was not permitted to see and a mandate of eleven words:
+WESKER: Find out what a human being is for, and then improve it.
+N: She stood on an airstrip in the interior of Antarctica in a coat with a crimson iris on the shoulder and looked at a horizon with nothing on it in any direction, and she said the thing that the narrator has been waiting fifteen chapters to report, because it is the exact moment the story stops being about a company.
+EVELYN: (soft) There's no one here to tell me no.
+WESKER: (cold) No.
+EVELYN: (fast) In four years of this I have filled in one ethics form. One. For a mouse.
+WESKER: Does that trouble you?
+N: And Dr. Evelyn Marsh looked out at fourteen hundred miles of ice.
+EVELYN: (soft) It stopped troubling me in about 2029 and I have been waiting ever since for someone to notice.
+N: The narrator will note, without comment, that the Umbrella Antarctic Facility produced eleven of the fourteen most important papers in molecular biology published between 2033 and 2041, that every one of them was true, and that nothing in any of them described where the material had come from.
 
 [music] m_scheme -8
-[amb] amb_office_hum
-[img] {TOMAS} at a design workstation showing mockups of lab coats with red and white emblems on the chest, black security uniforms, typography of a short creed on a wall, cinematic
-N: They wrote it together, over three nights, in the corner office.
-N: The Adolf half wrote the rhythm. It knew exactly how long a line had to be for a thousand people to say it at once without stumbling, and where the breath should go, and which word should land at the end so that the room would feel it in the chest. The Wesker half removed every word that a journalist could ever quote in a headline. What was left was eighty-one words long, and it sounded — on the page — like the mission statement of any ambitious company in America.
-N: It only sounded like something else when you heard it said by a crowd.
-[pause 1.0]
-[img] {CATHERINE} reading a framed printed creed on an office wall with her arms folded and a look of deep unease, cinematic
-CATHERINE: It's a cult, Albert.
-WESKER: It's a culture.
-CATHERINE: You've written an oath. You're having new hires recite it. In unison. At orientation.
-WESKER: The Army does that.
-CATHERINE: (cold) We are not the Army.
-WESKER: Not yet.
-[pause 0.8]
-N: She looked at him sharply. He smiled, as if it were a joke. It was, the way he said it, very nearly a joke.
-[pause 1.5]
-
-[music] m_sermon -8
-[amb] stop
-[img] a large modern auditorium in Singapore filled with four hundred new employees in white lab coats with red and white emblems, standing, right hands over hearts, facing a stage, cinematic
-[loc] Singapore — first orientation, June 2029
-N: The first time it was said aloud was in Singapore, in June, in an auditorium full of four hundred new employees on their first morning.
-N: They had been told it was a tradition. They had been given the words on a card. They stood, because the person on the stage asked them to, and they put their right hands on their chests, because the person on the stage did, and they read the card aloud together, a little awkwardly at first, the way people read anything together for the first time.
-[pause 1.0]
-[img] close-up of dozens of faces in an auditorium reciting in unison, some hesitant, some fervent, lit from the stage, cinematic
-[sfx] sfx_applause g-20
-N: By the second line they had found the rhythm. By the fourth, they were not reading it anymore.
-WESKER: (slow) We are the shelter.
-N: And four hundred voices said it back.
-N: We are the shelter. We do not wait for the storm. We make the world safe for those who cannot make it safe for themselves. What we learn, we keep. What we begin, we finish. Where we stand, the rain does not fall. We are not many. We are enough. We are Umbrella.
-[pause 1.5]
-[music] m_sermon -2
-[img] {WESKER} on a stage in an auditorium, head slightly bowed, as four hundred people in white coats finish reciting, the red and white emblem glowing huge behind him, cinematic
-N: The silence afterwards lasted three seconds. It was the kind of silence that happens in churches, when a hymn ends, and nobody wants to be the first to move.
-N: Then they applauded — themselves, and each other, and the man on the stage — and some of them were crying, and none of them could have told you why.
-[sfx] sfx_applause g-4
-[pause 1.0]
-[sfx] sfx_system_open
-[system] ASSESSMENT
-Personnel morale — fervent: 90,000
-Belief — spreading
-[say] Personnel morale, fervent. Belief, spreading.
+[img] {WESKER} standing at a window in a dark office looking at a lit city, glowing panel reflected faintly in the glass
+[loc] Division Seven, sixth floor — 31 December 2032, 11:50 p.m.
+[sfx] sfx_system_chime +0.3
+[system] UMBRELLA — TIER III
+Personnel: 141,000 · Absolute: 14,200
+Territory: Raccoon City, pop. 104,000
+Facilities: 61 · Nations with sovereign contracts: 9
+Market capitalisation: $1,140,000,000,000
+Next tier: CONGLOMERATE
+Requirement: absorb an industry
+[say] Umbrella. Tier three. One hundred and forty-one thousand personnel, fourteen thousand two hundred Absolute. Territory: Raccoon City, population one hundred and four thousand. Sixty-one facilities. Nine nations with sovereign contracts. Market capitalisation: one point one four trillion dollars. Next tier: Conglomerate. Requirement: absorb an industry.
 [/system]
-N: Ninety thousand. For eighty-one words, said by four hundred people, on a Monday morning in Singapore.
-N: The old voice, slowly.
-ADOLF: (soft) Belief, spreading.
-WESKER: It's a word on a panel.
-N: Adolf spoke up.
-ADOLF: It is the word. I spent my whole life trying to make that word true. You made it true with a laminated card.
-[pause 1.5]
-
-[music] m_rain_piano -8
-[amb] amb_office_hum
-[img] {WALTER} standing at the back of a Wilmington auditorium in a security uniform, arms folded, watching rows of employees recite a creed, his old face grim and thoughtful, cinematic
-[loc] Wilmington — July 2029
-N: By July, they said it in Wilmington, and in Cambridge, and in Basel. They said it at every orientation and at the start of every quarterly meeting. It was printed on the wall of every lobby, beneath the emblem, in small, elegant letters that a visitor might easily have mistaken for a mission statement.
-N: Walter Pruitt heard it for the first time at the back of the Wilmington auditorium, where he had been posted for the day because he was retiring in September and Dana had wanted him to see it.
-N: He stood with his arms folded while three hundred people said it together. He had said an oath like that once, in nineteen eighty, in a gymnasium at Fort Jackson, South Carolina, with his hand on his chest, and it had sent him, eventually, to a desert.
-N: He did not say anything to anyone. That evening he took out the little spiral notebook, which was almost full now, and wrote the date, and one line.
-N: They're saying it like soldiers.
-[pause 1.5]
-[img] {EVELYN} in a white coat in a crowd of employees, reciting with eyes closed and tears on her cheeks, a rapturous expression, cinematic
-N: Evelyn Marsh said it with her eyes closed.
-N: Catherine Adeyemi, at the far end of the front row, moved her lips and did not make a sound.
-N: And the four research associates from the Arklay sublevel, and the six Silent Ones, and Pell, and Gus, and Hale — who had never been told to attend, and attended anyway — said it in perfect unison, with no emphasis on any word, like a recording, and stopped at exactly the same instant.
-N: Nobody noticed. Everyone was too busy believing.
-[pause 1.5]
-
-[music] m_tension -8
-[amb] amb_office_hum
-[img] a thick formal federal grand jury subpoena envelope lying on a tidy desk, United States District Court seal, morning light across it, cinematic
-[loc] Wilmington — 14 August 2029, 9:12 a.m.
-N: The subpoena arrived on a Tuesday in August.
-N: It was served in person, at twelve minutes past nine, on Dana Whitfield, chief of staff, at the front desk of the tower, by a tall man in a dark suit with a badge on his belt. He was polite. He apologised for the inconvenience. He said the company would be hearing from the United States Attorney's office shortly, and that he hoped everyone would cooperate, and he gave her his card.
-[img] close-up of a plain FBI business card on a desk reading SPECIAL AGENT OWEN CARRICK, PHILADELPHIA FIELD OFFICE, next to a subpoena, macro, cinematic
-N: She carried both up to the corner office herself, in the lift, holding them in front of her with both hands like something hot.
-[pause 1.0]
-[img] {WESKER} at his desk reading a federal subpoena, a small business card between two gloved fingers, a faint smile, window light, cinematic
-N: The Director read the subpoena once. It was a demand for records — shipping, animal care, facilities, power consumption — from a federal grand jury in the District of Delaware, investigating possible violations of laws he had not heard of before that morning, and would know by heart by the evening.
-N: Then he read the card.
-N: Special Agent Owen Carrick. Federal Bureau of Investigation. Philadelphia Field Office. Weapons of Mass Destruction Coordinator.
-[pause 1.5]
-DANA: (soft) Albert? Is it bad?
-[pause 1.0]
-N: He looked up at her. He was smiling. It was not a nice smile. It was the smile of a man who has been handed a pistol in a room full of people who don't know it's loaded.
-WESKER: It's exactly what I asked for.
-[pause 3.0]
-[music] stop
+N: A trillion dollars. Six years and three months from a leather chair in an empty office.
+N: He stood at the window on the last night of 2032 and looked down at the campus, and at the river, and at the city beyond it, and the narrator would like to record what he was actually thinking, because it was not about money and it was not about the ice.
+WESKER: (soft) *Absorb an industry.*
+ADOLF: Which one?
+WESKER: That is what a smaller man would ask.
+ADOLF: (soft) Then ask a better question.
+WESKER: (cold) How many are there?
+N: Below him, on the plaza, the night shift changed. Somewhere under his feet, ninety feet down, two Tyrants breathed once a minute in the dark. Eleven miles up a valley in Pennsylvania, a hundred thousand people who had been made on a Saturday were setting off fireworks, badly, for a new year.
+N: And in a spare room in a house in Media, Pennsylvania, SSA Owen Carrick took down the nine photographs on his wall and replaced them with forty-one.
+N: End of Part Two.

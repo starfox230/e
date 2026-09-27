@@ -1,163 +1,114 @@
-# 17 | Special Agent Carrick
+# 17 | The Shield
 @movement III | The Agencies
 
 [music] m_tension -8
-[amb] amb_office_hum
-[img] {CARRICK} at a cluttered desk in an FBI field office cubicle, a framed family photo, a promotion application on screen, a coffee mug, fluorescent lights, cinematic
-[loc] FBI Philadelphia Field Office — August 2029
-N: Special Agent Owen Carrick was, at forty-two, exactly the kind of man the Federal Bureau of Investigation was designed to produce: competent, careful, and one promotion away from Washington.
-N: He had joined the Bureau at twenty-nine, after four years as a prosecutor in Harrisburg. He had worked public corruption, and then counter-terrorism, and then — because it looked good on a file, and because nobody else in the field office wanted it — he had become the Weapons of Mass Destruction coordinator for eastern Pennsylvania and Delaware. It was a job that mostly involved hazmat drills, and lectures to university chemistry departments, and anthrax hoaxes, and one man in Scranton who kept trying to buy ricin on the internet.
-[img] a suburban house in Media Pennsylvania at dusk, a basketball hoop on the driveway, a minivan, warm lights in the windows, cinematic
-N: He lived in Media, Pennsylvania, with his wife Laura, who taught eighth-grade science, and two daughters, seventeen and eight. He had applied that summer for a unit chief position at the Weapons of Mass Destruction Directorate at headquarters, and the interview board was in November, and he thought he had a good chance, and he had not told anyone but Laura.
-N: He had not asked for the Umbrella case. It had come to him the way cases come to men in his position — as a referral from another agency, forwarded by a supervisor with a one-line note. CDC plus FDA. Possible select agent issue. Probably nothing. Take a look.
-[pause 1.0]
-N: Probably nothing. That was what Owen Carrick believed, on the fourteenth of August, twenty twenty-nine, when he drove to Wilmington to serve a grand jury subpoena on a biotech company whose chief executive had been on the cover of a magazine.
-N: It was the last time in his life he would believe anything about Albert Wesker so comfortably.
-[pause 1.5]
+[amb] amb_night_city -15
+[img] a narrow medieval square in a European town at night, ambulances, blue lights, people in masks
+[loc] Ravenna, Italy — 4 March 2033, 11:40 p.m.
+N: It began with eleven people in a hospital in Ravenna and a doctor who did the right thing at the right hour.
+N: The presentation was wrong for the season and wrong for the region: a rapid respiratory illness with a four-day incubation and a case fatality that the first cluster put somewhere north of eleven per cent. The doctor, a forty-one-year-old registrar named Chiara Bonetti, ran the samples on the machine in her laboratory — an Umbrella field unit, of the kind given away at cost to public health laboratories since 2027, of which there were by then four hundred thousand on earth.
+N: It came back as nothing. Forty-one targets, all negative, and an internal control that was perfect.
+N: A negative on a panel that good, in a patient that sick, is not an absence. It is a signal.
+[img] a laboratory screen showing a flat negative result, a doctor staring at it, night, blue light
+N: She pressed the button on the instrument that nobody ever presses: *report anomalous negative.*
+N: That button had been in the firmware since 2028. Wesker had specified it personally, over the objection of two product managers who said no clinician would ever use it.
+[sfx] sfx_phone_buzz +0.3
+N: It rang a desk in Singapore at four minutes past midnight.
 
-[music] m_scheme -10
-[img] {HADDAD} stepping off a regional jet at Philadelphia airport with a rolling bag and a thick folder, determined, grey morning, cinematic
-[loc] Philadelphia International Airport — September 2029
-N: Doctor Samira Haddad flew up from Atlanta in September for the joint site visit.
-N: They met in the arrivals hall, and disliked each other on sight, in the way that people from different professions often do. She thought he looked like a man who measured cases by what they would do for his career. He thought she looked like a scientist who had never had to put anything in front of a jury.
-N: They were, it would turn out, both right. And they would, over the next seventeen years, become the closest thing either of them had to a friend.
+[music] m_action -9
+[img] an emergency operations room with wall screens showing maps and case counts, staff at consoles, night
+[loc] Umbrella Global Health Operations, Singapore — 5 March, 12:04 a.m.
+N: The narrator would like to describe Umbrella's pandemic response as it actually was in 2033, because the world only ever saw the tents.
+N: Four hundred thousand instruments in a hundred and sixty countries, all reporting. A cold chain with eleven hundred vehicles and forty-one aircraft. Nine hundred million doses of a dozen things sitting in warehouses at Umbrella's own expense, in four of the largest economies on earth, under contracts that paid nothing until they were used.
+N: And a sequencing turnaround, from a swab anywhere on earth to a published genome, of nineteen hours.
+N: The World Health Organization's was eleven days. That is not incompetence. That is the difference between an institution built of member states and a company built by one man who had asked, four years earlier, what the answer would need to look like.
+N: The genome was public at six o'clock on the evening of the fifth of March, thirty-one hours before the Italian health ministry formally notified anyone.
+[img] {WESKER} standing in a dark operations room watching a wall of screens showing a map with a red cluster
+[loc] Singapore — 5 March, 6:10 p.m.
+N: Wesker had flown in overnight. He stood at the back of the operations room and watched a cluster in Emilia-Romagna go from eleven cases to two hundred and forty in nineteen hours, and he did something that his executives had never seen him do.
+N: He let other people run it.
+WESKER: (cold) Dr. Voss has operational command. Nobody asks me for a decision unless the decision is about money, and Ms. Adeyemi may answer those.
+CATHERINE: (fast) You are the most capable person in this building.
+WESKER: I am the most capable person in this building at eleven things, and this is not one of them. I have never in my life run a containment. I have *broken* four.
+[pause 0.5]
+N: The narrator notes that this is the only occasion in sixty-five years on which Albert Wesker declined to take charge of something, and that it is also, not coincidentally, the single greatest source of public goodwill he ever generated.
+
+[music] m_lo -8
+[img] white medical tents set up in a historic Italian town square, workers in protective suits, morning light
+[loc] Ravenna — 9 March 2033
+N: The tents went up in the Piazza del Popolo on the morning of the ninth.
+N: White, with a crimson iris on the roof panels — placed there, deliberately, so that every aerial shot would carry it — and staffed by four hundred and eleven Umbrella personnel who had been in the air within nine hours of the anomalous negative.
+N: By the twelfth there were tents in six Italian cities, in Ljubljana, in Zagreb, in Munich. By the nineteenth there were eleven hundred sites in thirty-one countries, and Umbrella had run nine million tests, free, without asking any government for permission and without being refused by any.
+N: The antiviral came out of the Epic blueprint line he had pulled in 2027 — the one whose panel had said *this item exists because you will need it* — and Birkin's people at Arklay matched it to the genome in four days.
+N: The narrator will say this plainly: it was a real medicine, it worked, it was manufactured at eleven plants on four continents, and it was given away.
+[img] an elderly patient sitting up in a hospital bed talking to a nurse, warm light, hopeful
+N: Total deaths, worldwide: four thousand one hundred.
+N: The modelling groups' central estimate for an outbreak of that genome and that transmissibility, under the 2019 international system, was between two and eleven million.
+N: It ended on the fourth of May. Sixty-one days.
+
+[music] m_hi -7
+[img] a montage of world news broadcasts, headlines about a pandemic ended, reporters, bright screens
+[sfx] sfx_news_sting +0.2
+ANCHOR: (broadcast) Sixty-one days. I want to say that again, because eleven years ago we lived through the other version of this. Sixty-one days from first cluster to declared containment, and the organisation that did it was not a government.
+REPORTER: (broadcast) The WHO's regional director this morning called Umbrella's response "the finest piece of public health logistics in the history of the field," and then spent nine minutes being asked why his own organisation didn't do it.
+ANCHOR: (broadcast) Did he have an answer?
+REPORTER: (broadcast) He had a budget.
+N: In Ravenna, the tents came down on the eighth of May, and the city council voted unanimously to name the square's eastern colonnade after the company. Wesker declined, in a letter that was read aloud at the meeting, and asked that it be named for Dr. Chiara Bonetti instead, who had pressed a button.
+N: There is a plaque there now. It has her name on it, and under her name, in smaller letters, the name of the company that suggested it. The narrator notes that this cost him nothing, that he thought of it in about four seconds, and that it is quoted in every profile of him written between 2033 and 2050.
+[sfx] sfx_system_chime +0.3
+[system] MISSION — INDISPENSABLE
+Outbreak contained: 61 days
+Lives saved, modelled central estimate: 3,900,000
+Global sentiment: 88% favourable — the highest ever recorded for a private entity
+Points: +2,000,000
+Note: you have not lied, coerced or killed to obtain this position.
+[say] Mission: Indispensable. Outbreak contained in sixty-one days. Lives saved, modelled central estimate: three million nine hundred thousand. Global sentiment: eighty-eight per cent favourable, the highest ever recorded for a private entity. Two million Points. Note: you have not lied, coerced or killed to obtain this position.
+[/system]
+WESKER: (soft) Was that admiration?
+SYSTEM: It was an observation. You have been offered four hundred opportunities to do this the other way since 2026. You have declined all of them, and you are further ahead than any host I have measured.
+WESKER: (cold) Any *host*.
+[pause 0.7]
+SYSTEM: The panel is accurate.
+N: He asked about that one for the next thirty years too.
+
+[music] m_scheme -8
+[img] {WESKER} and {CATHERINE} walking along an empty corridor at night, floor-to-ceiling windows, city below
+[loc] Singapore Tower — 11 May 2033, 9:20 p.m.
+N: Catherine Adeyemi had watched the whole thing from a chair beside a telephone, authorising eleven billion dollars of expenditure that no contract would ever reimburse, and on the last night she asked him the question she had been holding since March.
+CATHERINE: (fast) Eleven billion. Free antiviral, free testing, four hundred and eleven aircraft movements, nine thousand staff in the field for two months. We have taken the largest single-year loss in the history of commerce and the share price has gone up sixty per cent.
+WESKER: Yes.
+CATHERINE: (soft) You planned that.
+WESKER: I planned the instruments in 2027 and the button in 2028 and the stockpile clause in 2030 and the blueprint line came out of a lottery I did not control. I did not plan a virus in Ravenna. I *prepared* for one, for six years, at enormous expense, while every institution that was supposed to be preparing was writing reports about preparing.
+N: They walked in silence for a while.
+CATHERINE: I've been trying for four years to decide whether you are a monster.
+WESKER: (soft) And?
+CATHERINE: (slow) I think you might be the most useful person who has ever lived, and I think that is not the same question, and I think the second question is the one that frightens me.
+N: Wesker stopped at the window.
+WESKER: (cold) Ask it properly.
+CATHERINE: (fast) Three million nine hundred thousand people are alive because of what you built. That is not rhetoric, it's in the modelling, I have read it four times. And every single one of them now lives in a world where one man can do that, and therefore one man can decline to.
 [pause 0.8]
-[img] {CARRICK} and {HADDAD} in a government sedan on a highway, papers spread on her lap, him driving, arguing, cinematic
-HADDAD: You've read the complaint?
-CARRICK: I've read it. I've read the photographs. I've read a table of monkeys and a note in a margin. I've also read that this company's biggest product is a drug that has three hundred senior citizens riding motorcycles, and that its CEO is personally friends with — I'm sorry, is personally photographed with — half the senators on the Health Committee.
-HADDAD: That's not an answer.
-CARRICK: It's the context. I have to know what I'm walking into.
-HADDAD: (cold) You're walking into a building where somebody wrote Select accordingly next to nineteen dead primates.
-[pause 1.0]
-N: Carrick did not answer. He looked at the road. And somewhere at the back of his mind — the part that had once been a prosecutor, before it had become a careerist — a small light came on.
-[pause 1.5]
-[img] a huge stack of legal document boxes delivered to an FBI office, dozens of cartons labeled with a red and white umbrella logo, an agent staring at them, cinematic
-[sfx] sfx_paper g-5
-N: The records had arrived two weeks before. Forty-one thousand pages, in forty-three boxes, delivered to the field office by a courier van on the exact day the subpoena required, indexed, cross-referenced, and bound. Shipping logs. Animal care records. Facility permits. Power bills. Catherine Adeyemi's team had produced everything that had been asked for, and a great deal that had not, and they had produced it perfectly.
-N: It was, Carrick's supervisor said, the most cooperative subpoena response he had seen in thirty years.
-N: It was also, Carrick thought — looking at the forty-three boxes stacked against his cubicle wall — exactly what a company would do if it wanted to bury an investigation in paper.
-[pause 1.5]
-
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] {WESKER} waiting at the glass doors of the Umbrella tower in a black suit and sunglasses, hands folded, a smile, as two visitors approach, bright morning, cinematic
-[loc] Umbrella tower — 11 September 2029, 9:00 a.m.
-N: The Director met them at the door himself.
-N: He had not been asked to. The visit had been arranged through lawyers, as such visits always are. A corporate counsel would escort them, and a compliance officer, and they would be shown the relevant facilities, and they would be given coffee in a conference room. That was the protocol.
-N: Instead, at nine o'clock exactly, as the government sedan pulled into the visitors' bay, Albert Wesker walked out through the glass doors of the tower, alone, and opened Samira Haddad's car door for her.
-[img] {WESKER} shaking hands with {CARRICK} beside a sedan, the agent slightly off balance, {HADDAD} watching, morning light, cinematic
-WESKER: Doctor Haddad. Welcome to Delaware. I read your paper on the Nipah cluster in Kerala. The contact-tracing model in section four was elegant. Agent Carrick — thank you for coming yourself. I know how many hazmat drills you had to cancel.
-[pause 0.8]
-N: Carrick shook the hand he was offered. It was cool and dry and very strong, and it held his a fraction of a second longer than a handshake needs to.
-N: He had been ready for lawyers. He had been ready for obstruction, for delay, for a conference room with bad coffee. He was not ready for this — the chief executive himself, at the kerb, charming, unhurried, and apparently delighted to see them.
-N: That was the point. Hospitality is a weapon. It is the only weapon that the person you use it on will thank you for.
-[pause 1.5]
-
-[music] m_scheme -10
-[img] {WESKER} leading {CARRICK} and {HADDAD} through a gleaming lab floor, scientists working, bright and open, glass walls, cinematic
-[sfx] sfx_elevator_ding g-10
-N: He gave them everything.
-N: He gave them six hours, and every floor of the tower, and every door they asked to open, and several they had not thought to ask about. He took them through the assay programme, and the Aeterna trial ward, where Arthur Kowalczyk — who happened to be in for his monthly check-up that morning — told Samira Haddad at some length about his motorcycle. He took them to the loading dock, and introduced them to Deshawn. He showed them the power bills.
-[img] a sleek glass-cased museum display in a corporate lobby containing a nine-foot grey humanoid sculpture in a frosted cylinder, a small plaque reading THE SENTINEL, visitors looking, cinematic
-N: And then, when Haddad raised the photograph — the grey figure in the capsule — he took them to the lobby of the Singapore annex on the tower's ground floor, where, in a glass case, beneath a spotlight, stood a nine-foot sculpture of a grey, hairless figure in a frosted cylinder, with a small brass plaque beside it.
-N: The Sentinel. A commission by a young sculptor from Rhode Island, for Umbrella's campaign on biosecurity. Resin, steel, and acrylic. Two thousand twenty-eight.
-[pause 1.0]
-HADDAD: (cold) You're telling me that's what's in the photograph.
-WESKER: I'm telling you that's what Doctor Okafor photographed. Doctor Marsh's team used a picture of it on a slide about public perception. The label on the page is a working title. T-zero-zero. The zero-zero is because the sculptor hadn't signed it yet.
-[pause 0.6]
-N: Pell had commissioned the sculpture in April, from a real artist, who had been paid real money and would go on to have a real career. It had taken her ten weeks. The invoice was in box twenty-seven.
-[pause 1.5]
-
-[music] m_tension -10
-[amb] amb_lab
-[img] {EVELYN} in a white coat presenting a folder of documents to {HADDAD} at a conference table, calm and precise, {WESKER} standing by the window, cinematic
-N: The macaques were Evelyn's.
-N: She met them in a conference room on the ninth floor, in a crisp white coat, with a folder, and she explained — clearly, patiently, in the tone of a scientist explaining something slightly embarrassing to a colleague — that the twenty-four rhesus macaques from Singapore had been part of a standard toxicology study for Aeterna, conducted under contract by a licensed research organisation in Maryland. The contract was in box fifteen. The Maryland facility's inspection reports were in box twelve.
-EVELYN: In a toxicology study the animals are humanely euthanised at the end of the dosing period so that their tissues can be examined. That's what deceased means in the table. Nineteen at the scheduled end-point. The five marked enhanced were an enhanced-monitoring cohort — animals kept for a longer observation window. They're still alive. You're welcome to visit them.
-HADDAD: And the note in the margin? Select accordingly?
-EVELYN: Group housing. Macaques are social, and it's better for their welfare if we house them together, but animals with high baseline aggression don't tolerate co-housing well. So we select the calmer ones for the group enclosures. It's in our animal welfare plan. Section six.
-[pause 1.2]
-N: It was a good answer. It was, in fact, word for word, a real section of a real animal welfare plan, which Pell had written and backdated in March, the week after Nadia Okafor resigned.
-N: Samira Haddad wrote it down. She had been an epidemic intelligence officer for four years, and she knew what she was looking at: an answer to every question, before the question had been asked. It did not mean they were lying. It meant they had known she was coming.
-N: Which, of course, they had.
-[pause 1.5]
-
-[music] m_horror -12
-[amb] amb_basement
-[img] the interior of an old freight elevator with a panel showing only two buttons, LOADING DOCK and BASEMENT, an FBI agent's hand hovering near it, dim light, cinematic
-[loc] The old building — 2:40 p.m.
-N: The last stop was the old building. Haddad had insisted on it. The complaint had mentioned a sublevel, and the power bills had been extraordinary, and she wanted to see the basement.
-N: So they went down in the freight elevator — the Director, the two investigators, and a tall man in a black suit who had joined them without introduction in the lobby and who stood in the corner of the elevator with his hands folded in front of him.
-N: The elevator panel had two buttons. Loading dock. Basement. Carrick looked at it for a long moment. There was no third button. There was a smooth, blank steel plate below the basement button, with four screws in it, and a very faint rectangular mark in the paint, as though something had been removed.
-[sfx] sfx_elevator_descend g-6
-[img] a clean modern cold-storage vault in a basement with steel racks of frozen sample boxes, the FBI agent and the CDC officer looking around, frost, cinematic
-N: The basement had the twenty old freezers, and six new ones, and the vault that Pell had bought for eighteen hundred Points to show Catherine eighteen months before. It was clean, and cold, and it used, the Director explained, a great deal of power, because it was holding thirty years of biological samples at minus one hundred and fifty degrees, and because the old building's electrical system was, frankly, a disgrace.
-N: The corner where the grey machine had stood was bare concrete, freshly painted.
-[pause 1.2]
-HADDAD: What was here before?
-WESKER: An air handling unit. Arcturus. We replaced it last year. The state inspected it in twenty twenty-six, if you'd like the report. Mister Delgado was very thorough.
-[pause 1.0]
-N: He had said the name of the inspector. Carrick wrote it down. He did not know why. He would find the report, four months later, in a state database, and read it, and begin to wonder why a small research lab in twenty twenty-six had gone so far out of its way to be inspected.
-[pause 1.5]
-
-[music] m_tension -8
-[amb] amb_office_hum
-[img] {CARRICK} standing in a tower lobby at the end of the day, staring intently at {HALE} who stands motionless by the elevators in a black suit, cinematic
-[sfx] sfx_footsteps g-12
-N: It was at the very end of the day, in the lobby, that Owen Carrick noticed the thing he would think about for the next seventeen years.
-N: He was waiting for Haddad, who had gone to the restroom. The Director had excused himself to take a call. And the tall man in the black suit — the one who had ridden down in the elevator with them without being introduced — was standing by the lifts, twenty feet away, with his hands folded in front of him, looking at nothing.
-N: Carrick watched him. He did not know why. It was a cop's habit, from long before he had become a careerist — you watch the person in the room who isn't doing anything.
-N: He watched him for a minute. Then two. Then three.
-[pause 1.5]
-[img] extreme close-up of {HALE}'s face in profile, perfectly still, eyes open, not blinking, lobby lights reflected in his pupils, uncanny, cinematic
-N: In three minutes, the man in the black suit did not blink.
-N: Carrick knew it was not possible. A human being blinks between fifteen and twenty times a minute. You can stop yourself for a while — thirty seconds, perhaps a minute if you concentrate — but your eyes begin to water and burn. This man's eyes were not watering. They were perfectly clear and perfectly still, and he was not concentrating on anything at all.
-N: At three minutes and forty seconds, as if he had felt himself being counted, the man turned his head and looked directly at Carrick across the lobby.
-N: Then he blinked. Once. Slowly. Like a courtesy.
-[pause 1.5]
+CATHERINE: You didn't save them from a virus. You saved them from a *system*, and then you replaced it with yourself.
+N: The narrator asks you to notice that Albert Wesker did not deny it, did not smile, and did not threaten her. He looked out over eleven million lights and answered her honestly, which he did perhaps four times in his life and always to her.
+WESKER: (soft) Yes.
+CATHERINE: And if you're wrong about something? If you make one bad decision at that scale?
+WESKER: (cold) Then it will be a bad decision made by someone competent, arriving in nineteen hours, instead of a good decision made by a committee, arriving in eleven days. I have run both experiments now. So has everyone else on this planet. They watched the first one from inside their houses for two years.
+N: She did not have an answer. Nobody in the world had an answer, and that is precisely why the next decade went the way it did.
+[sfx] sfx_system_chime +0.2
+[system] LOYALTY
+Catherine Adeyemi: 54% → 70%
+Note: she is not persuaded. She has simply run out of alternatives.
+Those two things look identical from the outside and are not.
+[say] Loyalty. Catherine Adeyemi: fifty-four per cent, to seventy. She is not persuaded. She has simply run out of alternatives. Those two things look identical from the outside and are not.
+[/system]
 
 [music] m_horror -10
-[img] {WESKER} walking {CARRICK} and {HADDAD} to their government sedan at dusk, opening the door, leaning slightly toward Carrick, a polite smile, the tower glowing behind, cinematic
-N: The Director walked them to their car. He opened the door for Haddad again. He thanked them both, sincerely, for their time and their diligence, and said that Umbrella would cooperate with anything else the government needed, and that he hoped they would come back.
-N: Then, as Carrick walked around to the driver's side, the Director said, quite pleasantly, in a voice pitched for no one else:
-WESKER: Good luck with the unit chief board in November, Agent Carrick. I hear it's a strong field.
-[pause 1.5]
-[img] extreme close-up of {CARRICK}'s face through a car windshield at dusk, frozen with his hand on the door, a flicker of fear, cinematic
-N: Carrick stopped with his hand on the car door.
-N: He had told no one. Not his supervisor. Not his partner. Not his friends. He had told his wife, at their kitchen table, one night in June, with the window open.
-N: He looked up. The Director was already walking back toward the glass doors, unhurried, hands in the pockets of his coat. He did not look back.
-[pause 1.5]
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Federal inspection — neutralised: 25,000
-Investigators — disoriented: 10,000
-Total: 35,000
-[say] Assessment. Federal inspection neutralised.
-[/system]
-[pause 1.0]
-
-[music] m_rain_piano -10
-[amb] amb_night_city
-[img] {CARRICK} and {HADDAD} in a car on a highway at night, both silent, dashboard light on their faces, rain beginning, cinematic
-[sfx] sfx_car_pass g-10
-N: They drove north on the interstate in silence for twenty minutes.
-HADDAD: Well. That was the cleanest facility I have ever inspected.
-CARRICK: Yeah.
-HADDAD: Every answer ready. Every document in a numbered box. A sculpture, for God's sake. Owen — they knew we were coming for months.
-CARRICK: They knew we were coming for months because we sent them a subpoena, Samira. That's not a crime.
-[pause 1.0]
-HADDAD: So you're closing it.
-[pause 1.5]
-N: He should have. Every instinct that had got him to where he was — every instinct that was about to get him to Washington — told him to close it. A cooperative company. A disgruntled former employee. A clean inspection. A sculpture in a glass case. A file that would look, to an interview board in November, like a careful agent doing careful work and knowing when to stop.
-CARRICK: (soft) He didn't blink.
-HADDAD: What?
-CARRICK: The guard. The big one, by the lifts. I watched him for almost four minutes. He didn't blink once.
-[pause 1.0]
-HADDAD: That's — people can do that.
-CARRICK: No. They can't.
-[pause 1.5]
-N: He drove on in silence. The rain began, and he turned on the wipers, and watched them for a while.
-N: He did not close the file. He did not decide not to close it, either. He simply did not close it that night, or the next, and the file sat in the tray on his desk, under a stack of hazmat drill reports, for eight days.
-N: On the twelfth day, a man called the Philadelphia field office from a pay phone at a highway rest stop, and asked for Special Agent Carrick by name, and would not give his own.
-[pause 3.0]
-[music] stop
+[img] a spare room at home with dozens of photographs and papers pinned to a wall, red string, a man standing in the dark
+[loc] Media, Pennsylvania — 11 May 2033, 9:20 p.m.
+N: Four hundred miles away and nine time zones back, a man stood in a spare room in front of a wall.
+N: SSA Owen Carrick had been told to close the file in 2029, in 2030 and in 2032. He had not closed it. He had also not opened a formal investigation, because he was not a fool and he knew what the request would look like on paper.
+N: On the wall: forty-one photographs. Eleven of them were buildings. One was a page from a Wilmington planning file with a signature on it. One was a frame from a Swiss loading bay, printed at home, the two-hundred-and-forty-frames-a-second one, the one with the man in it.
+N: And in the middle, a photograph he had taken himself, from a public road, of a white six-storey building on the Christina River.
+N: On the day the world decided Albert Wesker was the finest thing in it, Owen Carrick stood in front of that wall and wrote four words on an index card and pinned it under the picture.
+CARRICK: (soft) *He is not hiding.*
+N: Underneath, later that night, he added one more line, and it is the line that ends his career and begins the rest of his life.
+CARRICK: (soft) He is *recruiting*.

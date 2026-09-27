@@ -1,171 +1,119 @@
-# 11 | Aeterna
-
-[music] m_system -6
-[amb] amb_office_hum
-[img] three glowing crimson holographic puzzle pieces of a molecular blueprint slotting together in the air, forming a complete luminous double helix and molecule diagram, cinematic
-[loc] June 2027
-N: The Shop, it turned out, had been waiting for him to own the first piece.
-N: The day after the ten-pull, a new line had appeared in the blueprint catalogue, greyed out and unpriced. Cellular Renewal Compound — fragment two of three. A week later it had a price. A week after that, fragment three appeared beside it. Twelve thousand Points each.
-N: Adolf spoke up.
-ADOLF: It is baiting you.
-WESKER: It's teaching me. There's a difference. It wants me to learn that the best things come in pieces, and that you pay for the last piece the most.
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Blueprint fragments 2 and 3 of 3
-Cellular Renewal Compound — complete
-Points: 23,000
-[say] Blueprint complete. Cellular renewal compound.
-[/system]
-[img] a computer screen filling with molecular structures, synthesis routes and clinical protocols, a title page reading CRC-1, dark lab, blue glow, cinematic
-N: What arrived, when the three pieces joined, was a medicine.
-N: It was not the Prototype. It was not anything like the Prototype. The Wesker half of the mind read it three times to be sure, because the Wesker half had spent a lifetime designing things that killed people, and he was looking for the trick.
-N: There was no trick. The compound was a small, stable molecule that could be made in any competent chemical plant on Earth. It found cells in the human body that had stopped dividing but refused to die — the old, stubborn, inflamed cells that accumulate with age and poison everything around them — and it told them, gently, to finish dying. And then it told the cells around them to repair.
-N: In mice, according to the documentation, it extended healthy lifespan by forty percent. In the elderly, it would reverse most of the measurable signs of physical decline within a year.
-[pause 1.0]
-N: The second voice broke in.
-ADOLF: You are going to make old men young.
-WESKER: I'm going to make old men grateful. And very rich old men very, very grateful. Do you know who runs every country on this planet, Adolf? Men over sixty-five.
-[pause 1.5]
-
-[music] m_corporate -8
-[img] a sleek modern clinical trial ward with elderly volunteers in armchairs receiving IV infusions, nurses in white, bright hopeful light, cinematic
-N: They called it Aeterna. Tomás suggested the name. Catherine hated it. The Director approved it in four seconds, because the Adolf half of the mind had heard it and said, very quietly, yes.
-N: The first human trial began in September of twenty twenty-seven. Sixty volunteers, all over seventy, all suffering from the slow, grinding frailty that doctors call sarcopenia and everyone else calls getting old. It was a narrow, careful, entirely conventional study, designed by Nadia Okafor's team and approved by an independent ethics board, and nobody involved in it except the man at the top had any idea what it was going to show.
-[img] an elderly man in a hospital gown standing up from a wheelchair unassisted, astonished nurses watching, soft window light, emotional, cinematic
-N: By December, a seventy-eight-year-old retired steelworker named Arthur Kowalczyk, who had arrived at the trial in a wheelchair, walked out of it. He walked to his car. He drove home. He called his daughter in Ohio and cried on the phone for twenty minutes.
-N: By January, the grip strength of the treatment group had increased by thirty-one percent. Their walking speed by twenty-six. Their inflammatory markers had fallen to levels you would expect in people twenty years younger. Two of them had had cataracts clear. One, a woman of eighty-one, had begun — very slightly — to regrow hair that had been white for a decade, in its original colour.
-[pause 1.0]
-[img] {NADIA} in a lab at night alone reviewing clinical data on a screen, one hand pressed to her mouth, the charts climbing, astonished and afraid, cinematic
-N: Nadia Okafor read the interim data at eleven o'clock at night, alone in her office on the eighth floor. She read it twice. Then she took off her glasses and sat for a long time looking at nothing.
-N: She was a good scientist. She knew what she was looking at. It was the most important medical result in fifty years.
-N: And it had come from a compound whose design history she had tried to trace three times, and which led, every time, to a folder of documents that had simply appeared on the server one morning, fully formed, with no author she could find.
-[pause 1.5]
+# 11 | The Umbrella Security Service
 
 [music] m_tension -8
-[img] a financial newspaper front page with a headline about a longevity drug breakthrough, stock chart soaring, coffee cup on a desk, morning, cinematic
-[loc] February 2028
-N: The data went public in February. The world lost its mind.
-N: Umbrella's share price went from eighteen dollars to a hundred and four in nine trading days. The Food and Drug Administration, under an administration that had spent a year promising to cut red tape for American medicine, granted Aeterna breakthrough therapy designation in a record thirty-one days. Every health desk on Earth ran the story of Arthur Kowalczyk walking to his car.
-N: And every television producer on Earth wanted the man in the sunglasses.
-[pause 1.0]
-[img] {TOMAS} and {CATHERINE} arguing in a glass office full of screens showing media requests, Tomás excited, Catherine exasperated, cinematic
-CATHERINE: No television. We're a clinical-stage biotech with one trial and sixty patients. Every word he says on camera is a word the SEC can read back to us. We do a press release, we do an investor call, and we do nothing else.
-TOMAS: With respect, Catherine, that's how you do it if you want to be a biotech. He doesn't want to be a biotech.
-CATHERINE: (cold) What does he want to be?
-TOMAS: I don't know yet. But I know what the internet wants him to be. There are three hundred thousand people in a subreddit right now arguing about whether he's a vampire.
-[pause 0.8]
-[img] {WESKER} standing in the doorway of a glass office, both {CATHERINE} and {TOMAS} turning to look at him, cinematic
-WESKER: One interview.
-CATHERINE: Albert —
-WESKER: One. Live. Your conditions on what I can say. Tomás's conditions on everything else.
-[pause 1.5]
+[amb] amb_night_city -14
+[img] a hijacked lorry abandoned on a wet motorway hard shoulder at night, doors open, police lights in the distance
+[loc] A-14 motorway, Cambridgeshire, England — 3 November 2028
+N: The first thing Umbrella ever lost, it lost on a wet motorway in England at two o'clock in the morning.
+N: A refrigerated lorry carrying four hundred litres of Aeterna intermediate from a contract plant near Cambridge to the port at Felixstowe was stopped by a broken-down van, boarded by six men in under ninety seconds, driven eleven miles, and emptied into a second vehicle. The driver was not hurt. The cargo was worth, at the black-market price a European clinic was quietly paying, about forty-one million dollars.
+N: The Essex police were competent and quick and found the second vehicle burned out by Thursday. They never found the product.
+[img] {WESKER} standing at a window at night holding a tablet, dark office, cold expression
+[loc] Division Seven — 4 November
+N: Wesker read the incident report at six in the morning and did not react to any of the parts of it that upset his executives.
+PELL: (flat) The loss is insured. The insurer will pay within ninety days.
+CATHERINE: (fast) The loss is not the problem. The problem is that we are in forty-one countries with eleven hundred cold-chain movements a month and we are protected by whatever local firm the freight forwarder happened to hire. Umbrella has no security function. It has a man called Hale and twenty-two people who guard four buildings in Delaware.
+WESKER: (soft) You are both discussing the wrong incident.
+N: He put the tablet down.
+WESKER: They knew the route, the schedule and the temperature spec. They knew which of two lorries was worth taking. That is not opportunism; that is procurement. Somebody bought that information from inside this company, and everything we have said since page one of that report has been about the lorry.
+[pause 0.5]
+CATHERINE: (soft) You want an internal investigation.
+WESKER: I want an *instrument*. I have been running a global pharmaceutical concern with a night watchman and a locksmith. That ends this month.
 
-[music] m_scheme -8
-[amb] amb_office_hum
-[img] a bright modern television studio with a glossy desk, three cameras on pedestals, a red tally light, a female anchor preparing notes, crew in shadow, cinematic
-[loc] New York — 14 February 2028, 8:40 a.m.
-N: The interview was on a Wednesday morning, on the flagship programme of a business network that forty million people watched over breakfast.
-N: The anchor was a woman named Miriam Castell, who had interviewed three presidents and most of the world's billionaires, and who had a reputation for making powerful men say one sentence too many. She had prepared for four days. She had a folder.
-[img] {WESKER} sitting across a glossy studio desk from a female news anchor, sunglasses on under bright studio lights, perfectly still, cinematic
-N: He arrived four minutes before air, which gave the makeup department time to do nothing, and sat down across from her in a black suit, with his sunglasses on.
-ANCHOR: The glasses. Would you mind? For the audience.
-WESKER: The lights are very bright.
-ANCHOR: I'm afraid it looks a little —
-WESKER: I know how it looks.
-[pause 0.8]
-N: She let it go. She would say afterwards that it was the first time in twenty years she had let anything go before air, and she never quite worked out why.
-[pause 1.0]
-[sfx] sfx_news_sting
-[img] a studio camera with a glowing red tally light in extreme close-up, the anchor and guest reflected in its lens, cinematic
-[music] m_tension -10
-N: The red light came on.
-N: The first eight minutes were ordinary. She asked about the trial, and he answered, briefly and precisely, in sentences Catherine had approved. She asked about Verdant Axis, and he said that the company's scientists had done excellent work under difficult circumstances. She asked about the Shenzhen licence, and he said that science did not have a nationality, and that he was an American company's chief executive, and that he paid his taxes in Delaware, which was more than some of his critics could say.
-N: And then, at eight minutes and ten seconds, Miriam Castell leaned forward and asked the question she had built the entire interview around.
-[pause 0.6]
-ANCHOR: Doctor Wesker, people are calling Aeterna a fountain of youth. They're saying you've found a way to stop ageing. I have to ask you directly. Is that what this is?
-[pause 1.0]
-[img] extreme close-up of {WESKER}'s face in sunglasses under studio lights, utterly still, not answering, reflection of the red tally light in the lenses, cinematic
-[music] stop
-[amb] stop
-N: He did not answer.
-[pause 2.5]
-N: He did not look away. He did not smile. He simply sat, perfectly still, with the red light of the camera in the lenses of his glasses, and let the silence go on.
-[pause 2.5]
-N: In the control room, the director began to count under his breath. Four. Five. Six. In a live broadcast, three seconds of silence is an accident. Six is a crisis. At eight, a producer reached for the button that would cut to a commercial, and the director slapped her hand away, because he had been in television for twenty-six years, and he knew — the way you know a storm is coming — that he was watching something he would never see again.
-[pause 2.0]
-N: Nine. Ten. Seventeen.
-[pause 1.2]
-[music] m_sermon -14
-[img] {WESKER} at a studio desk slowly leaning forward toward the anchor, the faintest smile, studio lights haloing him, cinematic
-WESKER: No, Miss Castell. It isn't a fountain of youth. A fountain is something you stumble on in the forest. This was built.
-[pause 1.0]
-N: That was all. Seventeen words, after eleven seconds of nothing. Miriam Castell, who had made three presidents say one sentence too many, found she had nothing to follow them with. She thanked him. He thanked her. The red light went off.
-[pause 1.5]
-
-[music] m_corporate -6
-[amb] amb_office_hum
-[img] a phone screen showing a viral video clip of a man in sunglasses in a TV studio, a view counter spinning into millions, comments exploding, cinematic
-N: The clip was online in four minutes. By noon it had been watched ten million times.
-N: By the evening, it had a name. Somebody on the internet had called him the Sunglasses CEO, and the name had stuck the way names stick online — instantly, and forever. There were edits of the eleven seconds set to orchestral music. There were edits set to heartbeat sounds. There was an edit in which someone had slowed the silence down to a full minute, and it had been watched four million times on its own. There were people who counted the seconds out loud in their videos, in the style of a rocket launch. There were T-shirts by Friday.
-[img] {TOMAS} in a dark room full of monitors showing analytics dashboards and trending topics, face lit by the screens, grinning wildly, cinematic
-N: Tomás watched it happen from a room on the tenth floor with six screens and a budget, and he did not sleep for two days.
-N: It was Tomás who found the break room clip — the twenty seconds from November, the room nobody was watching — and released it, the following Tuesday, with a single line of text: where it started. It was Tomás who made sure that every edit of the eleven seconds linked back to the Aeterna trial page. It was Tomás who understood, before anyone else in the company, that the Director was not a chief executive anymore.
-N: He was a story. And stories, on the internet of twenty twenty-eight, were worth more than companies.
-[pause 1.5]
-[img] {WESKER} alone in a dark car in the back of a limousine at night, watching the interview clip on a phone, the glow on his face, city lights sliding past, cinematic
-[amb] amb_night_city
-[music] m_system -10
-N: He watched it himself only once, in the back of the car on the way to the airport, on Tomás's insistence.
-N: The Wesker half of the mind watched the eleven seconds the way a surgeon watches a recording of his own operation: clinically, noting the timing, the light, the angle. It had worked. He had known it would work. The rest was noise.
-N: The other half was not watching the eleven seconds at all. It was watching the numbers underneath them.
-[pause 1.0]
-ADOLF: (soft) Fifteen million.
-WESKER: Twenty million views. Not eight million people. Some of them watched it twenty times.
-N: The old voice stirred inside him.
-ADOLF: I spoke to three hundred thousand people in a stadium in Nuremberg. It was the largest crowd of my life. It took a year of planning and a special train timetable.
-[pause 0.8]
-ADOLF: This morning you sat in a chair and said nothing, and sixteen million people came.
-[pause 1.5]
-N: Wesker did not answer. For a long time there was only the hum of the tyres and the lights of the highway sliding across the glass.
-N: Then the old voice spoke again, very quietly, and there was something in it that Wesker had never heard before, and did not like.
-ADOLF: I have misjudged this world. I thought it was soft. It is not soft. It is waiting.
-[pause 1.5]
-
-[sfx] sfx_bell_stock
-[music] m_triumph -8
-[img] {WESKER} standing on a balcony above a stock exchange floor ringing a large brass opening bell, confetti falling, red and white Umbrella banners on the screens, crowd cheering below, cinematic
-[loc] NASDAQ, Times Square — March 2028
-N: In March, Umbrella Life Sciences rang the opening bell at the NASDAQ in Times Square, on the morning of a secondary share offering that raised three point two billion dollars in a single day.
-N: He rang it with Catherine on one side of him and Evelyn on the other, and Dana, and Tomás, and even Walter, who had been talked into a suit. On the giant screens outside, seven storeys high above the traffic, the red-and-white emblem turned slowly over Times Square, and a crowd on the pavement — who had come because they had seen the eleven seconds on their phones — held up their phones and filmed it.
-[img] a huge crowd in Times Square at dawn looking up at a seven-storey digital billboard showing a red and white umbrella emblem, phones raised, cinematic
-[sfx] sfx_applause g-8
-N: One of them had printed a T-shirt with a pair of black sunglasses on it, and the number thirteen.
-[pause 1.0]
-[sfx] sfx_system_open
-[system] ASSESSMENT
-Market dominance — longevity (emergent): 20,000
-Superior action — regulatory path: 5,000
-Capital raised: 8,000
-Public fascination — rising: 4,000
-Total: 37,000
-[say] Assessment. Thirty-seven thousand Points.
+[music] m_system -7
+[img] a dark room with a glowing violet holographic panel showing a soldier icon, cold light
+[loc] Arklay, the library — 6 November, 11:00 p.m.
+[sfx] sfx_gacha_spin +0.2
+N: He put eighty thousand Points into the Company banner and pulled forty times, and the first thirty-nine produced exactly what the odds said they would: commons, a vehicle fleet, two cohorts of security officers, an Uncommon that turned out to be a logistics planning suite, and a Rare that was a third Tyrant, which he sent to Arklay's cryogenic hall without particular interest.
+N: The fortieth pull came up violet.
+[sfx] sfx_gacha_rare +0.2
+[img] {HUNK} in black tactical gear with a full gas mask standing at attention in a dark room, violet light behind him
+[system] EPIC — OPERATOR AND DOCTRINE
+Designation: HUNK
+Grade: sole survivor · special operations command
+Package: training pipeline · selection standard · tactics library · equipment specification
+Effect: any security cohort you own may be brought to this standard
+[say] Epic. Operator and doctrine. Designation: Hunk. Grade: sole survivor, special operations command. The package includes a training pipeline, a selection standard, a tactics library and an equipment specification. Any security cohort you own may be brought to this standard.
 [/system]
-[sfx] sfx_level_up
-[system] LEVEL UP
-Level: 12
-Stat Points available: 10
-Points: 62,300
-[say] Level up. Level twelve.
+N: He arrived at Arklay the following morning in a black transport with no markings, and he came up the steps in a gas mask, and he did not take it off.
+HUNK: (radio) Director.
+WESKER: Is there a face under that?
+HUNK: (radio) Yes, sir.
+WESKER: Do you intend to show it to anyone?
+HUNK: (radio) No, sir.
+WESKER: (soft) Excellent. Neither do I.
+N: The narrator will note that in eleven years of service, in four continents and one ocean and eventually in vacuum, no photograph of HUNK's face was ever taken, and that this was not a System effect. It was a preference, and Wesker respected it the way one professional respects another's superstition.
+
+[music] m_action -8
+[img] {HALE} and {HUNK} standing over a table covered in maps and equipment in a bare room, fluorescent light
+[loc] Arklay, level two — November 2028
+N: The Umbrella Security Service was founded on the eleventh of November 2028 with two hundred and eighty personnel, of whom two hundred and forty-one were Absolute, and its command structure was drawn on a whiteboard in forty minutes.
+N: Hale commanded it. Hale was Absolute, incapable of doubt, incapable of ambition, and therefore the only man alive whom Wesker was willing to give two hundred and eighty armed people to.
+N: HUNK ran operations, which is a different job, and the difference is the entire reason Umbrella never had a coup.
+WESKER: Mr. Hale. Your doctrine.
+HALE: (flat) Deterrence by presence. Visible protection at every site. Response within eleven minutes.
+WESKER: Wrong. Try again, using Mr. HUNK's material.
+HUNK: (radio) No presence. No response. Interdiction before the event, by knowing the event is coming.
+WESKER: (cold) Yes. I do not want guards, Mr. Hale. Guards are a tax I pay for ever, and a guard tells the world where the valuable thing is. I want a company that appears to have no security at all, and a very small number of people who arrive eleven hours before a thing happens.
+N: That was the doctrine. It never changed. Thirty years later, when the Umbrella Security Service was a hundred and ninety thousand strong and had regiments in orbit, that sentence was still the first line of the manual.
+
+[music] m_scheme -9
+[img] a European industrial estate at night, a low research building, no lights, rain on tarmac
+[loc] Near Leuven, Belgium — 2 December 2028, 1:00 a.m.
+N: The internal leak took Pell nine days and an audit of who had opened which routing file.
+N: It was not a traitor. That is worth saying, because Wesker had expected one and had already decided what to do about it. It was a twenty-six-year-old logistics coordinator in Rotterdam named Bram de Vos who had been socially engineered over four months by a very patient woman at a conference, and who was, when Hale's people finally sat down opposite him, so relieved to be caught that he wept.
+N: The woman worked for a private laboratory near Leuven that had been buying stolen biologics for eleven years and reselling them to clinics in three countries.
+N: The Belgian authorities would have taken nineteen months and would probably have won.
+WESKER: (soft) Mr. HUNK. How long would you need?
+HUNK: (radio) Twenty-two minutes on the ground. Four days of preparation.
+WESKER: Nobody is harmed.
+HUNK: (radio) Understood.
+WESKER: (cold) I mean it precisely, Mr. HUNK. Not one person. Not a broken wrist, not a frightened night porter with a story. If a single human being in that building requires a doctor, the operation has failed regardless of what you bring back.
+HUNK: (radio) Understood, sir.
+[img] {USS} moving in single file through a dark corridor with red emergency lighting, silent and precise
+[loc] The laboratory — 1:40 a.m.
+N: The narrator will tell you how it went, beat by beat, because it is the first time in this story that Umbrella's hand touches the world directly and because everything it becomes is already visible in it.
+N: At one thirty-eight the site's alarm contract lapsed. Not was disabled — *lapsed*, in the monitoring company's records, due to an unpaid invoice, four days earlier, with a letter on file.
+N: At one forty the night porter, a sixty-year-old man named Luc, received a call from his supervisor telling him a gas leak had been reported on the estate and that he should stand at the main gate until the utility arrived. He stood at the main gate. He was there for the entire operation and saw nothing.
+[sfx] sfx_footsteps +0.2
+N: At one forty-one, six people in black entered through a service door that had been fitted with a new lock in October by a contractor nobody at the laboratory could later name.
+N: At one fifty-two they were in the cold store. At two hundred and one, four hundred litres of Aeterna intermediate, still in Umbrella's own drums, went into a refrigerated van.
+N: At two hundred and four, HUNK stopped in the laboratory's server room for ninety seconds and copied eleven years of purchase records.
+N: At two hundred and six they were gone. Total time on the ground: twenty-five minutes. Injuries: none. Shots fired: none. Doors broken: none.
+[sfx] sfx_car_pass +0.4
+N: At nine o'clock that morning the laboratory's director arrived to find an empty cold store, a functioning alarm system that had been off for four days, and no sign of entry whatsoever.
+N: He did not call the police. He could not call the police, because the eleven years of purchase records in his server room explained exactly where the product had come from.
+N: Two months later, an anonymous package of those records reached the Belgian federal prosecutor, and the laboratory's directors were arrested in April, and Umbrella's name appeared nowhere in the file.
+[sfx] sfx_system_chime +0.3
+[system] ACTING WITH INTELLIGENCE
+Asset recovered: $41,000,000
+Adversary removed by lawful process, unattributed
+Injuries caused: 0 · Records generated: 0
+Points: +180,000
+[say] Acting with intelligence. Forty-one million dollars recovered. Adversary removed by lawful process, unattributed. No injuries. No records. One hundred and eighty thousand Points.
 [/system]
-N: Public fascination. The System had never paid him for strangers before.
-N: The Adolf half of the mind read that line, and read it again, and understood something that it would take the Wesker half another three years to accept. The crowds had come back. They had simply moved into the phones.
-[pause 1.5]
-[img] {HANNAH} in a small apartment at night watching a TV interview replay on a laptop, a notebook open beside her with the words ELEVEN SECONDS written and circled, cinematic
-[music] m_rain_piano -10
-N: In a one-bedroom apartment in Wilmington, Hannah Price watched the eleven seconds for the forty-first time, with a notebook on her knee.
-N: She was not watching his face. Everybody else was watching his face. She was watching Miriam Castell's — the anchor's — as the silence went on, and she was watching the precise moment, at about the seventh second, when the most experienced interviewer in American television had stopped being in control of her own programme, and had not even noticed.
-N: She wrote two words in the notebook, and circled them.
-N: Eleven seconds.
-N: Then, underneath, she wrote the first line of a pitch to a national magazine, for a long profile of a man nobody knew anything about.
-[pause 3.0]
-[music] stop
+
+[music] m_lo -8
+[img] {WESKER} and {HALE} watching a bank of surveillance monitors in a dark control room, cold blue light
+[loc] Division Seven, monitoring station — 2 December, 3:30 a.m.
+N: Wesker had watched the whole thing from Wilmington on the Surveillance Suite he had pulled out of a lottery eighteen months earlier, and he had said four words in twenty-five minutes.
+N: The four words were: *"Not the second door."*
+ADOLF: (soft) You enjoyed that.
+WESKER: I did.
+ADOLF: It was a burglary.
+WESKER: It was a *demonstration*. Twenty-five minutes, no blood, no record, and a competitor destroyed by his own paperwork four months later in a court he chose to be in. Do you understand what that is worth? Every intelligence service in Europe will read the Belgian file eventually and find nothing in it. Nothing at all. And the nothing will be so clean that a certain kind of professional will sit up.
+ADOLF: You want them to sit up.
+WESKER: (cold) I want exactly nine people in the world to sit up, and I want all nine of them to work for governments, and I want every one of them to conclude, privately, that whatever this is, it is not worth the career of the man who says it out loud first.
+N: The narrator notes that seven of the nine did exactly that.
+N: The eighth was a woman in Beijing, and she waited three years and then asked him to lunch.
+N: The ninth was an FBI supervisory special agent in Philadelphia named Owen Carrick, who at that moment was in the fourth month of a case about a company with no construction records, and who did not know yet that he had already made the decision that would end his career and begin the rest of his life.
+
+[music] m_horror -10
+[img] rows of {USS} soldiers in black tactical armour standing in perfect silent formation in a hangar, dim light
+[loc] Arklay, the hangar — 20 December 2028
+N: By Christmas the Umbrella Security Service was four hundred strong and had begun to look like the thing it would be.
+N: They trained at Arklay, in the forest, in weather. They wore black without insignia. The Absolute among them — and by December that was nine in ten — did not speak in formation, did not shift their weight, and did not blink at the rate that human beings blink.
+N: And on the twentieth of December a Tyrant walked through the hangar on its way from the transport to the cryogenic lift: two point nine metres, grey, silent, entirely indifferent.
+N: Four hundred trained soldiers watched it go past. Not one of them moved.
+N: HUNK — who had, according to a System panel nobody but Wesker could read, been through eleven things that would break a man, and who feared nothing in any useful sense of the word — stepped one pace to his left as it passed.
+N: Wesker saw it from the gallery. He did not mention it for eleven years, and then he mentioned it once, in a conversation in orbit with a woman who had been afraid of nothing for even longer, and what he said was:
+WESKER: (soft) Everything alive gets out of its way. That is not obedience and it is not fear. It is arithmetic. And the day I stop being the thing that decides where it walks, I will be the arithmetic too.

@@ -1,205 +1,117 @@
-# 12 | The Black Interior
+# 12 | Towers
 
-[music] m_horror -12
-[amb] amb_basement
-[img] {EVELYN} and {WESKER} standing together inside an old freight elevator with a scissor gate, his gloved finger over an unlabeled black button, her face tense with anticipation, cinematic
-[loc] April 2028
-N: He took Evelyn Marsh down on the first of April, which she would later think was a joke, and which was not.
-N: She had asked him, in the week after the bell, what came next. She had asked it the way she asked everything now — quietly, directly, at an hour when nobody else was in the building. And he had looked at her for a long moment and said: come to the old building at midnight. Wear flat shoes.
-[sfx] sfx_elevator_descend
-[img] the inside of an old freight elevator descending, a numberless floor indicator, harsh bulb light, two figures, the gate rattling, cinematic
-N: The freight elevator went down past the basement. She felt it in her stomach first — the drop that went on too long — and then in her ears, which popped twice.
-EVELYN: How deep is this?
-WESKER: Deeper than the ground is.
-EVELYN: That isn't an answer.
-WESKER: It's the only accurate one.
-[pause 1.0]
-[amb] amb_lab
-[sfx] sfx_elevator_ding g-4
-[img] {EVELYN} stepping out of an elevator into a vast white underground laboratory corridor, glass walls, cold light, her face lit with overwhelming wonder, cinematic
-N: The doors opened onto white, and Evelyn Marsh stepped out of the elevator into the rest of her life.
-N: She did not say anything for a long time. She walked. She put her hand on the glass of the first laboratory, and then the second, and then she stopped in front of a rack of positive-pressure suits and touched the sleeve of one, the way you might touch the sleeve of a wedding dress.
-EVELYN: (soft) This is grade four.
-WESKER: Yes.
-EVELYN: There are six grade-four labs in this country outside the government. I've read the inspection reports for all of them. This isn't one of them.
-WESKER: No.
-EVELYN: Who built it?
-[pause 0.8]
-WESKER: I did.
-[pause 1.2]
-N: She did not ask how. That was the thing he would remember. Nadia would have asked how. Catherine would have asked how much. Evelyn simply accepted it, the way a person in a dream accepts that the house has more rooms than it did yesterday, and asked the only question she cared about.
-EVELYN: What's it for?
-[pause 1.5]
+[music] m_corporate -8
+[amb] amb_office_hum -16
+[img] {CATHERINE} presenting at the head of a boardroom table with a map of the world on a screen behind her, executives seated
+[loc] Division Seven, boardroom — 14 January 2029
+N: Catherine Adeyemi's expansion plan was eleven pages long and had taken her three months, and it was, by any ordinary measure, aggressive.
+CATHERINE: (fast) Four regional headquarters. London for Europe and the regulators, Singapore for Asia and manufacturing, Zurich for the Swiss pharmaceutical relationships and the money, Tokyo because our clinical partners are there and because we cannot keep flying people eleven thousand miles to be polite in person.
+CATHERINE: Build-out over five years. Leased floors in year one, purpose-built by 2034. Nine hundred million dollars of capital expenditure, phased. It is the fastest I can make it go without breaking something.
+WESKER: Why buildings?
+CATHERINE: (soft) I beg your pardon?
+WESKER: You have just described four leases, three thousand employees and a great deal of travel. Why does any of that require a tower?
+CATHERINE: Because a company that looks like a laboratory in Delaware cannot negotiate with the Japanese Ministry of Health. Because a regulator in Singapore will not licence a plant for a firm with no address in the country. Because when the Swiss decide whether you are a peer or a supplier, they decide it by looking at your building.
+N: Wesker considered that.
+WESKER: (cold) You are right, and you have under-asked. Take the plan, and remove every word that says *phased*.
+CATHERINE: That's four purpose-built towers in year one. That is not possible. There is no construction schedule on this planet —
+WESKER: (soft) Ms. Adeyemi. In the eighteen months you have worked here, how many times have you told me a thing was not possible?
+[pause 0.5]
+CATHERINE: (flat) Six.
+WESKER: And how many times were you correct?
+N: She did not answer that. She went back to her office and rewrote page nine, and at the bottom of the rewritten page she put a line that had not been in any document she had ever produced in eleven years in London: *Capital expenditure: to be advised by the Director.*
+N: The narrator notes that this is the precise moment Catherine Adeyemi stopped being Umbrella's chief financial officer in the ordinary sense and became something else: the person who wrote down, in a form auditors could accept, whatever had already happened.
 
-[music] m_horror -6
-[amb+] amb_cryo -2
-[img] a cold room at the end of a white corridor, a huge frosted cryogenic cradle bolted to the floor, pipes and cables, a large viewing window, blue-white light, cinematic
-N: He showed her the cold room first.
-N: The grey machine had been stripped of its disguise when it came down. Gus had removed the ducting and the false panels and the service plate that said Arcturus Climate Systems, and what was left was what it had always been: a cryogenic cradle, nine feet tall, frosted white, with a viewing window the size of a door.
-N: He touched a panel. The frost on the window cleared, from the centre outwards, like breath fading from a mirror.
-[sfx] sfx_cryo_hiss g-6
-[img] {EVELYN} standing close to a huge cryogenic viewing window, inside it a towering hairless grey-skinned humanoid giant asleep in pale mist, her hand raised toward the glass, awestruck, cinematic
-N: Inside, in a pale mist, suspended upright, a figure slept.
-N: It was nine feet tall. It was grey — the grey of wet stone, or a winter sky — and hairless, and its body was built along the lines of a man, but a man designed by someone who had found the original too fragile. Its shoulders were too wide. Its hands were too large. Its chest rose and fell once every six seconds, in time with the compressor, in time with the breath the building had been breathing for eighteen months. Its face was calm, and blank, and almost beautiful, the way a statue's face is beautiful, because nothing is behind it.
-[pause 1.5]
-N: Most people, the Director had calculated, would scream. Some would run. A few would simply faint.
-N: Evelyn Marsh stepped closer to the glass.
-EVELYN: (whisper) It's beautiful.
-[pause 1.0]
-N: Behind her, in the quiet of one skull, the Wesker half of the mind made a small note. And the Adolf half — for the first time since they had met her — looked at Evelyn Marsh with something like respect.
-ADOLF: That one is not afraid of the future.
-WESKER: No. She's in love with it. That's much more dangerous.
-[pause 1.2]
-EVELYN: What is it?
-WESKER: A Tyrant. Series T-zero-zero.
-EVELYN: A Tyrant. Is it — was it — a person?
-WESKER: It was never born. It was never anything but this.
-EVELYN: Then what is it for?
-[pause 0.8]
-WESKER: That depends on what we decide the world is for.
-[pause 1.5]
-
-[music] m_system -8
-[img] {WESKER} and {EVELYN} in a white lab at a modern microscope workstation, a large monitor showing crimson-glowing cells, both lit by the screen, cinematic
-N: Then he showed her the blood.
-N: He drew it himself, at a bench in the second laboratory, without a tourniquet, because his veins did not need one. He put a drop under a microscope that cost more than her parents' house, and put the image up on a screen the size of a door, and let her watch.
-[img] microscope image on a large screen of crimson glowing cells weaving tendrils, repairing and rewriting other cells, alien and beautiful, cinematic macro
-N: She watched for seven minutes without speaking. She had spent her twenties studying viruses, and she knew within the first minute that she was looking at something no human laboratory had made. By the fifth minute she understood that it was not an infection — that the cells it moved through were not sick, but improved. By the tenth, she had worked out, with the terrible quickness that was the whole of her talent, where the blood had come from.
-EVELYN: This is Control Seven.
-WESKER: Yes.
-EVELYN: Howard's calibration sample. The one that broke the analyzer.
-WESKER: Yes.
-[pause 0.8]
-EVELYN: It's yours.
-[pause 1.0]
-[img] extreme close-up of {WESKER}'s face in cold lab light as he removes his sunglasses, eyes glowing amber-red with slit pupils, {EVELYN}'s reflection in the glass behind him, cinematic
-[sfx] sfx_impact g-14
-N: He took off his glasses.
-N: Howard Lessing had seen those eyes and been sick in a parking lot. Evelyn Marsh looked into them from two feet away, under the cold light of a laboratory that did not exist, and — the Cold-Read told him, with total clarity — felt no fear at all.
-N: What she felt was vindication. The overwhelming, trembling vindication of a young woman who had always believed, with no evidence, that the world was stranger and larger and more magnificent than the people around her would admit, and who had just been shown that she was right.
-EVELYN: (soft) What are you?
-WESKER: The first one.
-EVELYN: The first what?
-WESKER: That's what you're going to find out.
-[pause 1.5]
-
-[music] m_sermon -12
-[img] {EVELYN} standing in the center of a vast white laboratory looking up, arms slightly open, as if in a cathedral, cold light falling on her, cinematic
-N: He gave her the Arklay sublevel that night.
-N: Not all of it — the cold room and its sleeper would remain his. But the laboratories, the equipment, the budget, and a programme with a name. He had chosen the name before she ever came down, from a sealed black card in the air that only he could see, and a word that the System had told him was not yet.
-WESKER: It's called the Progenitor Initiative. You'll run it. You'll report to me and to no one else. Not Catherine. Not the board. Not the FDA. Nobody.
-EVELYN: What's the work?
-WESKER: Understanding what's in my blood. And then — learning to make more of it. Safely.
-EVELYN: And the — the Tyrant?
-WESKER: Understanding what's in its blood, too.
-[pause 1.0]
-EVELYN: And if I say no?
-WESKER: Then you go back up in the elevator, and you run the assay programme for the rest of your life, and you're very successful and very well paid, and you never come down here again, and you spend every night of the rest of your life knowing that you could have.
-[pause 1.2]
-N: She did not say no. She had never been going to. He had known that since the night at the piano.
-N: But she took a long time to say yes, standing in the middle of the white corridor with her hands open at her sides, like a woman in a cathedral. And when she did, it did not sound like a person accepting a job.
-EVELYN: (whisper) Yes. Thank you. Yes.
-[pause 1.2]
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Personnel conversion — devotion: Evelyn Marsh
-Morale — fervent: 6,000
-[say] Personnel conversion. Devotion.
+[music] m_system -7
+[img] a glowing crimson holographic panel showing four tall towers in wireframe, floating in a dark office
+[loc] 20 January, 11:50 p.m.
+[sfx] sfx_system_open +0.1
+[system] SHOP — FACILITIES, TIER III CATALOGUE
+Regional Headquarters Tower, 41 floors, fitted, staffed: 900,000 each
+Integration: deeds · permits · planning history · skyline record · photographic archive
+Note: this item alters what is remembered by approximately 9,000,000 people per placement.
+[say] Regional Headquarters Tower. Forty-one floors, fitted and staffed: nine hundred thousand each. Integration covers deeds, permits, planning history, the skyline record and the photographic archive. Note: this item alters what is remembered by approximately nine million people per placement.
 [/system]
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Personnel: Research Associate (Loyal) x4
-Assignment: Arklay
-Points: 65,100
-[say] Purchase confirmed. Four research associates.
+N: He read that last line four times.
+WESKER: Nine million people.
+SYSTEM: Approximately. A tower in a photographed skyline is not a building in a field. Every postcard, every establishing shot, every tourist's holiday album, every child's drawing of the city. It is a large edit.
+WESKER: And the cost of a large edit?
+SYSTEM: To me, Points. To you, nothing. To them — a very slight thinning. People whose memories have been extensively revised become marginally less curious. It is not damage. It is the way a much-folded map goes soft at the creases.
+[pause 0.8]
+N: The narrator asks you to notice that Albert Wesker asked that question, and that he got an honest answer, and that he then spent three million six hundred thousand Points.
+WESKER: (cold) Four towers. London, Singapore, Zurich, Tokyo. Place them this weekend.
+ADOLF: (soft) You hesitated.
+WESKER: I priced it.
+ADOLF: That is not the same thing as not caring.
+WESKER: (cold) No. It is better. A man who does not care makes mistakes with the currency.
+
+[music] m_bell -4
+[img] a modern glass tower rising over a London riverfront at dawn, other buildings around it, crimson iris emblem at its base
+[loc] London, Singapore, Zurich, Tokyo — the weekend of 26 January 2029
+N: The narrator will describe one of the four, because all four went the same way and one is enough to break your heart.
+N: On the south bank of the Thames, between Blackfriars and Southwark, there is a plot that had been a car park, then a hoarding with an artist's impression on it, then a hole in the ground with a stalled financing and a crane that had not moved since 2024.
+N: On Saturday morning there was a tower. Forty-one floors of grey glass with a crimson iris at its base, finished in 2019, designed by a practice that had won an award for it, with a public plaza, a coffee franchise on the ground floor and eleven years of weather on the stone.
+N: The crane was gone. The hoarding was gone. The stalled financing had never existed.
+[img] a tourist looking at an old photograph on a phone with a city skyline behind them, confused expression, daylight
+N: And this is the part that matters.
+N: In eleven million photographs — in every panorama of the London skyline taken from Waterloo Bridge since 2019, in every establishing shot in every television drama, in the background of a wedding, in a screensaver, in a school geography textbook, in a painting hanging in a pub in Battersea — the tower was there. It had always been there.
+N: A photographer named Ines Okoro, who had shot that exact view every New Year's Day for nine years as a personal project, sat at her kitchen table on the Sunday with nine photographs in front of her and a tower in all of them, and she put her hand over her mouth.
+N: She knew. For about forty seconds, Ines Okoro knew, completely and without any doubt at all, that something enormous had happened to the world.
+N: And then the doubt came in — not as an argument, but as a softness, a kind of gentle fog at the edge of the thought — and by Monday she had decided she must simply never have noticed it, because how could you not notice a tower, and therefore she had always noticed it, and therefore there was nothing to notice.
+N: She took the photograph again the following New Year. She never looked at the old ones again.
+N: The System had called it *a very slight thinning*. This is what that means, one person at a time, nine million at a stroke, four times in a weekend.
+
+[music] m_tension -9
+[img] a Swiss banker in a grey suit standing at an office window looking at a glass tower across a city, morning light
+[loc] Zurich — 2 February 2029
+N: There was one man who did not let it go, and his profession is the reason.
+N: A credit officer at a Zurich private bank found, in his own institution's loan book, a facility of four hundred and eleven million francs secured on a tower two streets away, drawn in 2018, performing, never once in arrears. His signature was on the third page. He could remember the negotiation. He could remember disliking the borrower's lawyer.
+N: He could not find the file.
+N: He spent eleven days on it. He went to the archive in person. He pulled the microfilm. The microfilm had it. He pulled the committee minutes. The minutes had it. He asked the two colleagues who had sat on that committee and both remembered the deal, and one of them remembered arguing against it.
+N: On the twelfth day he stopped, and the narrator would like to be very clear about why, because it was not fear and it was not fog.
+N: It was that the loan was *performing*. Every quarter, on the day, four million francs of interest arrived from a company that was now the ninth largest in the world. He had a file that was complete, a borrower that was immaculate, and a question that could only damage him.
+BANKER: (soft) What am I supposed to write? That the building is real, the money is real, the signature is mine, and I would like an investigation into my own memory?
+N: He closed the folder. He was promoted in 2031, and he retired in 2044 to a house above Lake Thun, and once, drunk, at a wedding, he told his son-in-law that he had once found a tower that had never been built, and his son-in-law thought it was a joke about Swiss banking, and laughed.
+
+[music] m_corporate -7
+[img] four tall towers in different cities shown as a montage at night, lit windows, crimson emblems
+N: Three regulators opened files in the first month.
+N: The Monetary Authority of Singapore queried the ownership chain of the Marina Boulevard property and received, within nine days, a complete conveyancing history going back to a reclamation grant in 2011, with tax paid every year.
+N: A Tokyo ward office queried the seismic certification of a forty-one-storey building it had no record of inspecting, and found its own inspection reports, with the inspector's stamp, and the inspector — who was sixty-three and had inspected eleven thousand buildings — remembered the job because of an argument about the sprinkler risers.
+N: The British planning authority did not query anything, because in Britain the tower had won an award, and there is no institution on earth less inclined to doubt a building than the one that gave it a prize.
+[sfx] sfx_system_chime +0.3
+[system] EXPANSION
+Umbrella Life Sciences — presence in 61 countries
+Headquarters: Wilmington · London · Singapore · Zurich · Tokyo
+Personnel: 14,900 · Absolute: 1,240
+Points: +900,000
+Level 38 · Intelligence 50
+[say] Expansion. Umbrella Life Sciences, present in sixty-one countries. Headquarters in Wilmington, London, Singapore, Zurich and Tokyo. Fourteen thousand nine hundred personnel, one thousand two hundred and forty of them Absolute. Nine hundred thousand Points. Level thirty-eight.
 [/system]
-[pause 1.5]
+[system] MAIN MISSION — TIER III: AGENCY
+Sovereign-level contracts in two nations
+Operations on a second continent — COMPLETE
+100,000 personnel
+Reward: 3,000,000 Points · Intelligence tab · Agency banner
+[say] Main mission. Tier three: Agency. Sovereign-level contracts in two nations. Operations on a second continent: complete. One hundred thousand personnel. Reward: three million Points, the Intelligence tab, and the Agency banner.
+[/system]
 
-[music] m_tension -10
-[amb] amb_office_hum
-[img] {NADIA} in a busy shipping and receiving office at the tower's loading dock, reading a printed shipping manifest with a frown, forklifts and crates in the background, cinematic
-[loc] May 2028
-N: Nadia Okafor saw the manifest by accident, in May.
-N: She had gone down to the tower's loading dock to chase a delayed shipment of reagents, and the clerk, a young man called Deshawn who liked her because she always said thank you, had handed her the wrong clipboard. It was a manifest from a logistics company in Singapore called Ashford Pacific, for a delivery to an Umbrella subsidiary in Nevada called Arklay Holdings.
-N: The cargo was listed as laboratory animals, rhesus macaques, twenty-four.
-N: The delivery address was the old building on the south bank. Sublevel A.
-[pause 1.0]
-[img] close-up of a shipping manifest with a highlighted line reading DELIVER TO SUBLEVEL A and a cargo line reading RHESUS MACAQUE x24, macro, cinematic
-N: There was no sublevel A. She had been in that building for six years. She knew every room in it. There was a loading dock, a basement, and four floors.
-N: And there was no licensed primate facility anywhere in Umbrella Life Sciences. She knew that, too, because she was the director of virology, and she would have had to sign for one.
-[pause 0.8]
-[sfx] sfx_camera_shutter g-6
-N: She gave the clipboard back to Deshawn, and thanked him, and went back upstairs. But before she did, she took out her phone, and — with her heart going faster than she liked — photographed the manifest.
-N: She did not know why. She told herself she would ask about it. She never did. She kept the photograph in a folder on her phone called Recipes, where no one would ever look.
-[pause 1.5]
-
-[music] m_scheme -8
-[img] {CATHERINE} at a glass desk late at night with three screens showing tangled corporate structure charts, arrows between Ireland, Singapore and Nevada, a highlighted total, cinematic
-N: Catherine Adeyemi found the money in June.
-N: She found it the way good auditors find things — not by looking for fraud, but by looking for symmetry, and noticing where it was missing. The Arklay vault had cost twenty-two million dollars. She had seen it. She had stood in it. But in the spring, Umbrella's Irish subsidiary had licensed intellectual property to Ashford Pacific in Singapore for a fee, and Ashford Pacific had paid a Nevada company for facility services, and the Nevada company had spent, over fourteen months, a hundred and forty million dollars on something that had generated no construction invoices, no building permits, no property taxes, and no depreciation.
-N: A hundred and forty million dollars had gone into the ground, and nothing had come out.
-[pause 1.0]
-[img] {CATHERINE} walking fast down a dim corridor at night toward a lit glass corner office, jaw set, a folder in her hand, cinematic
-[sfx] sfx_footsteps_approach g-8
-N: She went to his office at ten o'clock at night. He was there. He was always there.
-[img] {CATHERINE} standing across a desk from {WESKER} in a glass office at night, city lights behind, a folder open between them, confrontational, cinematic
-CATHERINE: I asked you for one thing that mattered. I asked you to tell me where the money goes. You looked me in the eye and you took me down to a freezer.
-WESKER: The freezer is real.
-CATHERINE: The freezer cost nineteen million. You've spent a hundred and forty. Through three countries. On nothing. I want to know what the nothing is, Albert, and I want to know it now, or I'm walking out of that door and taking my equity with me and I'm going to be very, very interesting to the Securities and Exchange Commission.
-[pause 1.2]
-N: He looked at her for a long time.
-N: The Cold-Read showed him everything, and it was not what he had expected. She was angry, and she was frightened — but beneath the anger, beneath the fear, there was something else. It was not a desire to leave. It was a desire to be told a reason to stay.
-N: So he gave her one. He gave her, precisely, one third of the truth.
-[pause 0.8]
-WESKER: There is a secure research facility. It's under the old building. It's better equipped than anything the government has, and it's working on things that would terrify the FDA and — one day — save more lives than Aeterna ever will. It isn't on any drawing because the people who draw buildings can't be trusted with what's in this one. It's legal in exactly the way that the Manhattan Project was legal.
-CATHERINE: The Manhattan Project was run by a government.
-WESKER: Yes. And look how carefully they spent the money.
-[pause 1.0]
-CATHERINE: Is anyone being hurt?
-WESKER: No.
-[pause 0.8]
-N: That was true, on the tenth of June, twenty twenty-eight. He was careful to notice that it was true, and to say it in a way that made it feel permanent.
-[pause 1.0]
-CATHERINE: If you lie to me again, I'll know.
-WESKER: You'll know I'm lying. You won't always know which part.
-CATHERINE: Is that supposed to reassure me?
-WESKER: It's supposed to be honest. You asked me for that, too.
-[pause 1.5]
-[img] {CATHERINE} standing alone at the window of her own glass office late at night, arms folded, looking at her reflection over the dark river, conflicted, cinematic
-N: She stayed.
-N: She would tell herself, for years, that she stayed because of the equity, which was by then worth two hundred million dollars. She would tell herself she stayed to keep an eye on him — that someone sane should be in the room. She would tell herself a great many things.
-N: The truth, which she only admitted to herself much later, on a very bad night, was simpler. She stayed because it was the most interesting thing that had ever happened to her. Because he was winning, and she had spent her whole career watching men like him win, and she had wanted, just once, to be on the side that did.
-N: That is how it happens. Not with a signature in blood. With a sensible woman, alone in a glass office at midnight, deciding not to ask the next question.
-[pause 1.5]
-
-N: The other voice weighed in.
-[music] m_horror -10
-[amb] amb_night_city
-[img] {WESKER} driving at night, face in shadow, the reflection of city lights on his sunglasses, cinematic
-ADOLF: Replace her.
-WESKER: No.
-N: The voice behind his eyes had something to add.
-ADOLF: Buy a second Pell. A comptroller who cannot ask questions. A woman who asks where the money goes will one day ask where the bodies are.
-WESKER: There are no bodies.
-[pause 1.0]
-N: The old voice, slowly.
-ADOLF: (slow) Yet.
-[pause 1.5]
-N: Wesker did not answer that. He drove. And for the first time, the silence in the car was not the silence of a man who had won the argument.
-[pause 1.5]
-
-[music] m_rain_piano -8
-[amb] amb_lab
-[amb+] amb_cryo -6
-[img] {EVELYN} alone at 3 a.m. in a white underground cold room sitting on the floor in front of a huge frosted viewing window, her palm flat against the glass, a giant grey shape asleep inside, cinematic
-[loc] Arklay — 3:00 a.m.
-N: That night, in the cold room at the end of the white corridor, Evelyn Marsh sat on the floor in front of the viewing window with her knees drawn up, and talked to the Tyrant.
-N: Nobody heard what she said. The four research associates the Director had bought for her that evening worked on in the laboratories without looking up. They did not get tired, and they did not go home, and they did not find it strange that their new director was sitting on the floor of the cold room at three in the morning, speaking softly to the glass.
-N: After a while she stopped talking. She put her palm flat against the window, exactly the way the Director had done in the basement, eighteen months before.
-[img] extreme close-up of a small human hand pressed flat against frosted glass, and behind the glass, very faintly, the huge grey fingers of a sleeping giant twitching, cinematic
-[sfx] sfx_cryo_hiss g-10
-N: Inside, in the pale mist, the sleeping thing did not open its eyes.
-N: But its hand, hanging at its side — its enormous grey hand — moved. Just once. The fingers curled, and uncurled, the way a sleeping child's hand closes around nothing.
-N: Evelyn Marsh saw it. She did not tell anyone. She sat there until the sun came up, a hundred feet above her, over a river she could no longer see, and she smiled.
-[pause 3.0]
-[music] stop
+[music] m_lo -8
+[img] {WESKER} standing alone at the top-floor window of a glass tower at night looking out over a river and a lit city
+[loc] London — 11 February 2029, 10:40 p.m.
+N: He went to London in February, to the forty-first floor of a building that had won an award in a year it did not exist, and stood at the window over the river in the dark.
+ADOLF: (soft) Say it.
+WESKER: Say what?
+ADOLF: You have been standing there for eleven minutes. You are not admiring the view; you have no interest in views. You are counting something.
+N: Wesker did not turn around.
+WESKER: Nine million people per tower. Thirty-six million people have been quietly edited this month so that four buildings could stand in four cities, and not one of them will ever know, and the only measurable effect is that they will be very slightly less likely to ask a question for the rest of their lives.
+ADOLF: And this troubles you.
+WESKER: (cold) It *interests* me. I have spent two lifetimes making people believe things. It required money, and pressure, and in the last case a great deal of blood, and it never held for more than a few years, because a lie has to be maintained. This does not have to be maintained. It is simply *true* now. The tower has always been there.
+ADOLF: (soft) Then what is the difficulty?
+N: And here Albert Wesker turned around, and said the sentence that is the single best description of him in this entire account, and that explains everything he does for the next sixty-two years.
+WESKER: The difficulty is that I did not do it. *It* did it. I spent three million six hundred thousand Points and a machine I do not understand reached into thirty-six million skulls on my behalf, and I have no idea what the exchange rate is, or who is paying it, or what happens to a species that has been folded too many times.
+[pause 0.6]
+WESKER: I am not troubled by the cost. I am troubled by not knowing what it is.
+ADOLF: (soft) Then stop spending.
+WESKER: (cold) Don't be absurd.
+N: He turned back to the window, and the narrator would like to point out that thirty-six million was the largest edit the System had yet made on his behalf, and that within four years the number would be a billion, and that he never did find out the exchange rate.
+N: He simply got better at not asking.

@@ -1,154 +1,117 @@
-# 10 | The Clean Face
-@movement II | The Company That Should Not Exist
-
-[music] m_corporate -6
-[amb] amb_office_hum
-[img] a gleaming biotech tower lobby with a living plant wall and a large new red-and-white umbrella emblem on the wall, morning light, employees with coffee, cinematic
-[loc] Umbrella Life Sciences, Inc. — April 2027
-N: The company that should not exist was born in April, in a lobby with a living wall.
-N: Legally, it was a merger. Umbrella Research Division Seven, of Delaware, and Verdant Axis Therapeutics, of Delaware and the NASDAQ, became a single corporation called Umbrella Life Sciences, Incorporated, trading under the ticker U-M-B-R. The minority shareholders who had not tendered were bought out at the offer price. The green letters were gone. The lawsuit from Graham Tolliver's lawyers was withdrawn, because Graham Tolliver's lawyers now worked, technically, for Umbrella.
-[img] a crowd of about a hundred and forty scientists and office staff gathered in a glass atrium, anxious faces, looking toward a small raised platform, cinematic
-N: And on a Monday morning, the hundred and forty people who had worked for Verdant Axis gathered in their own atrium, beneath their own living wall, to meet the man who now owned them.
-N: They were frightened. They had read the newspaper. They had watched their company collapse in a day, and their chief executive walk out of the building with nothing in his hands, and they had heard — because everybody had heard — that the new man had done it without raising his voice.
-[pause 1.0]
-[img] {WESKER} stepping onto a low platform in a glass atrium in a black suit, sunglasses on, a hundred faces watching, calm, cinematic
-N: He did not give a sermon.
-N: That was a decision, and it had been argued about, in the car, on the drive across the river.
-N: The old voice stirred inside him.
-ADOLF: A hundred and forty. Frightened. Leaderless. You will never have a better audience. Give them what you gave the break room.
-WESKER: The break room was six people who'd already been saved. These people have just been conquered. You don't preach to the conquered on the first day. You reassure them.
-N: The other voice weighed in.
-ADOLF: You make them grateful first. And then you make them believe.
-WESKER: I make them productive first. Belief is expensive.
-[pause 0.8]
-[music] m_corporate -10
-N: So he spoke for ninety seconds, and he said exactly four things.
-WESKER: Nothing you did in this building was wrong, except believing Graham Tolliver. Nobody here will lose their job this year. The work that was good will continue, under better leadership, with more money. And the work that was a lie is over.
-[pause 0.6]
-WESKER: That's all. Go back to work. Your new chief financial officer will be in touch about your salaries. I think you'll like her.
-[pause 1.0]
-[img] relieved employees in a glass atrium turning to each other and exhaling, a few smiling, the crowd dispersing, warm light, cinematic
-N: They went back to work. They were not converted. They were relieved, which is a smaller thing, and a more useful one.
-N: The System paid him for it anyway.
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Corporate integration — Verdant Axis: 8,000
-Personnel absorbed — 140: 5,000
-Total: 13,000
-[say] Assessment. Corporate integration.
-[/system]
-N: The inner voice, almost to itself.
-ADOLF: (slow) It pays for relief. How disappointing.
-WESKER: It pays for order. You should approve.
-[pause 1.5]
-
-[music] m_scheme -6
-[img] a glowing world map with thin crimson lines connecting Delaware, Nevada, Ireland, and Singapore, corporate structure diagram overlay, dark background, cinematic
-N: While Catherine built the company that the world could see, Mister Pell built the one it could not.
-N: He did it in the spring of twenty twenty-seven, in his windowless office on the old building's second floor, with a cheese sandwich and three monitors and a pen he never seemed to need to refill.
-N: A holding company in Nevada, where the owners of a corporation do not have to be named. A research subsidiary in Ireland, where the tax on intellectual property is kind. A logistics company in Singapore called Ashford Pacific, which would one day move a great many things that did not appear on any manifest. A property company in Wilmington that began, quietly, to exercise the right of first refusal in section nine of a contract Dale Kuchar had never read, and bought two more lots in the industrial park, and then a third that had not been in the contract at all.
-[img] an industrial park seen from above at dawn with several old warehouses being fenced and joined into one campus, construction vehicles, cinematic aerial
-N: Beneath the clean public company, like the roots of a tree beneath a lawn, the shells went down into four jurisdictions, and joined, and branched, and joined again, until even Catherine Adeyemi, who was very good at this, could only see the top two layers.
-N: That was, of course, the point.
-[pause 1.5]
-
-[music] m_horror -10
-[amb] amb_basement
-[img] an old industrial freight elevator with a scissor gate in a dim basement, its button panel showing only B and a blank unlabeled button below, cinematic
-N: The Arklay sublevel had arrived on the night of the ten-pull, as promised.
-N: Nobody had heard it arrive. There had been no construction, no excavation, no trucks. Gus had simply come to the Director's office the next morning and said there was a problem with the freight elevator — it had a new button.
-[img] a gloved finger pressing an unlabeled black button on an old freight elevator panel, dim light, macro, cinematic
-[sfx] sfx_elevator_descend
-N: The freight elevator in the basement of the old building had gone to two floors for forty years: the loading dock and the basement. Now, below the basement button, there was a third. It had no label. It was simply a black button with a thin crimson ring around it, and when you pressed it, the elevator went down for a great deal longer than the geology of the Christina River valley should have allowed.
-[pause 1.0]
-[amb] amb_lab
-[img] a vast pristine underground laboratory corridor with white walls, red emergency stripes, glass-walled containment chambers, no windows, cool blue light, cinematic wide shot
-[sfx] sfx_elevator_ding g-4
-N: The doors opened onto white.
-N: A corridor, three hundred feet long, clean enough to operate in, lit by panels in the ceiling that gave off a cold, shadowless light. Glass walls on either side. Behind them, laboratories: benches, hoods, sequencers, cold rooms, airlocks, pressure suits hanging on racks like the skins of astronauts. At the far end, a steel door six inches thick with a painted symbol on it that had been, in another world, the most feared logo on Earth.
-[img] a massive steel containment door at the end of a white corridor with a red and white octagonal umbrella emblem painted on it, cinematic
-N: It was a containment facility of the highest grade — the kind of laboratory where, anywhere else on Earth, you would work on the diseases that had no cure. There were perhaps sixty such facilities in the world. Every one of them was known, licensed, inspected, and mapped.
-N: This one was not. It did not exist. It did not appear on a single drawing or permit, and it did not show on ground-penetrating radar, and the city of Wilmington had no record of it. It was simply there, beneath the building, beneath the basement, beneath the grey machine, the way a thought is beneath a face.
-[pause 1.2]
-[img] {WESKER} walking alone down a long white underground corridor, reflected in glass walls on both sides, footsteps echoing, cinematic
-[sfx] sfx_footsteps g-8
-N: He walked it alone on the first morning, from one end to the other, and did not say a word.
-N: In his old world, he had walked corridors like this beneath a mansion in the Arklay Mountains, when he was young and brilliant and still thought he was the cleverest man in the building. He had been wrong then. There had always been someone above him — some old man with money, some board, some founder. Here, there was no one. For the first time in either of his lives, there was no one at all above him.
-N: Adolf spoke up.
-ADOLF: A fortress.
-WESKER: A laboratory.
-N: From inside, the other voice.
-ADOLF: Every fortress is a laboratory. It is where you find out what men will do.
-[pause 1.5]
-[img] {GUS} and two men in black suits guiding a huge grey industrial machine on heavy-duty dollies out of a freight elevator into a white corridor, cinematic
-[sfx] sfx_cryo_hiss g-10
-N: They moved the Tyrant down on the third night. Gus and two of the Silent Ones, and a set of heavy-duty machine dollies that Gus had, as usual, simply always had.
-N: The cradle breathed the whole way down in the freight elevator, a long slow cycle, and when they rolled it into the cold room at the end of the corridor and bolted it to the floor, it seemed — Gus would have said, if Gus ever said things like that — to settle. As if it knew it had come home.
-[pause 1.5]
-
-[music] m_tension -10
-[amb] amb_office_hum
-[img] six identical men in black suits standing in a perfect row in a lobby, faces oddly smeared and blurred like a motion artifact, uncanny, cinematic
-N: The Silent Ones had arrived the same week.
-N: There were six of them, as promised. Men of the same height and build, in the same black suits, with the same short hair and the same pleasant, forgettable faces. They took up posts around the old building and the tower with no instructions that anyone heard given. They did not go to lunch. They did not seem to talk to one another, and yet they always seemed to know where the others were.
-N: And cameras did not like them.
-[img] a CCTV monitor in a security booth showing grainy lobby footage, one figure in the frame appearing as a dark smear across several frames, timestamp in the corner, cinematic
-N: It was subtle. It was not invisibility — nothing so theatrical. It was simply that on security footage, a Silent One tended to be slightly wrong. A little blurred, even when he was standing still. A little smeared, as if he had moved between frames. Face-recognition software, pointed at one of them, returned a confidence score of nearly zero, and then, occasionally, crashed.
-[pause 1.0]
-[img] {WALTER} alone in a security booth at 3 a.m. leaning toward a monitor, rewinding footage, his reading glasses on, a small notebook beside the keyboard, cinematic
-[loc] Old building — 3:10 a.m.
-N: Walter Pruitt noticed on the fourth night.
-N: He was in the booth, at ten past three, doing the thing that night guards do and nobody else ever does — actually watching the cameras. And on the lobby feed, one of the new men in black walked from the elevator to the door, and for the whole of the walk, his face was a smear.
-N: Walter rewound it. He watched it again. He watched it six times.
-[sfx] sfx_mouse_click g-8
-N: Then he took a small spiral notebook out of his breast pocket — the kind he had carried since the Army, to write down things that were none of his business — and he wrote the date, and the time, and four words.
-N: Camera doesn't see him.
-[pause 1.0]
-N: He said nothing to anyone. That was also a habit from the Army. But he kept writing things in the notebook, over the next two years, whenever he saw something he could not explain. And the notebook would outlive him, and end up, one day, in the hands of exactly the wrong person.
-[pause 1.5]
+# 10 | Raccoon City
 
 [music] m_scheme -8
-[amb] amb_office_hum
-[img] {CATHERINE} in a glass-walled office on a high floor of a tower, surrounded by financial statements on screens, one hand on her chin, frowning thoughtfully, city view, cinematic
-N: Catherine Adeyemi had asked for three things. She got two.
-N: She became chief financial officer on the first of April. She received her equity, on terms Pell drafted and she tore up and redrafted twice, and which were, in the end, extraordinarily generous. She took an office on the eleventh floor of the tower with a view of the river, and hired a team of eight from Verdant's old finance department, and within a month she had rebuilt the public accounts of Umbrella Life Sciences into something she could have shown to a regulator in London with a straight face.
-N: The third thing — where the money actually went — she believed she had as well. That was the beauty of it.
-[img] a financial spreadsheet on a monitor with a highlighted line reading ARKLAY COLD ARCHIVE INFRASTRUCTURE and a large figure, cinematic macro
-N: In May she found a line in the consolidated capital budget that she did not recognise. Arklay: cold archive infrastructure. Six million dollars, capitalised, depreciated over twenty years, booked through a Nevada subsidiary she had not set up.
-N: She went to the Director with it.
-[pause 0.5]
-[img] {CATHERINE} placing a printout on {WESKER}'s desk in a corner office, both looking at each other, direct, cinematic
-CATHERINE: What's Arklay?
-WESKER: The sample vault. The archive — the thing that paid for all of this. It needs better cold storage than a basement full of freezers from the nineteen-nineties. Pell set it up through Nevada for the tax treatment. You can see it any time you like.
-CATHERINE: I'd like to see it now.
-[pause 0.6]
-N: He took her down in the freight elevator — to the basement, and not one button further. He showed her the old freezers, and six new ones, and a gleaming cold vault Pell had bought from the Shop for eighteen hundred Points that very morning, specifically so that it would be there to show her. He showed her the invoices. He showed her the depreciation schedule. Every single thing he showed her was real.
-N: The grey machine was gone from the corner. There was only a clean patch of concrete, and four bolt holes, and a faint smell of cold.
-[img] {CATHERINE} in a clean new cold-storage vault room looking at steel racks of sample boxes, frost on her breath, satisfied but thoughtful, cinematic
-CATHERINE: All right.
-WESKER: All right?
-CATHERINE: All right. Thank you. I don't enjoy asking twice.
-WESKER: You'll never have to.
-[pause 1.2]
-N: It was the first lie he told her. It would not be the last. But it was, in its way, the best one — because it was made entirely of true things, arranged in an order that did not add up to the truth.
-N: Adolf, softly, from inside.
-ADOLF: (slow) You enjoyed that.
-WESKER: I enjoy craftsmanship. She's the only person in the building worth lying to properly.
-[pause 1.5]
+[amb] amb_office_hum -16
+[img] {WESKER} standing over a large paper map spread on a boardroom table, marking a valley with a gloved finger, night
+[loc] Arklay Estate, the library — 2 September 2028
+N: The Territory tab had been open for sixteen months and he had not spent a single Point in it, because for sixteen months he could not afford the cheapest line on it.
+[sfx] sfx_system_open +0.1
+[system] SHOP — TERRITORY, TIER II
+Industrial district, 400 acres, integrated: 180,000
+Small town, population 6,000: 420,000
+Company city, population 100,000 — full civic apparatus: 1,500,000
+Note: a Territory purchase creates citizens. Citizens are not personnel.
+[say] Territory. Industrial district, four hundred acres: one hundred and eighty thousand. Small town, population six thousand: four hundred and twenty thousand. Company city, population one hundred thousand, with full civic apparatus: one and a half million. A Territory purchase creates citizens. Citizens are not personnel.
+[/system]
+N: One and a half million Points. In April he had earned one million four hundred and ten thousand in a single quarter, and the third quarter had been better.
+WESKER: Define "citizens are not personnel".
+SYSTEM: Personnel work for you. Citizens live under you. They have opinions, elections, newspapers, grievances and children. They can dislike you. They cannot easily leave, because leaving is expensive and people are not made of money.
+WESKER: (soft) And what do they generate?
+SYSTEM: Devotion income, continuously, in proportion to how they feel about you. Or its opposite.
+N: The narrator notes that this is the single most important sentence anybody says in this chapter, and that Albert Wesker heard it exactly as it was intended.
+WESKER: Its opposite.
+SYSTEM: A hundred thousand people who resent you would cost you Points every week that they continued to. I do not recommend acquiring a city you do not intend to be good to.
+WESKER: (cold) Noted. Where would you put it?
+N: He already knew. He had chosen the valley in June, from the air, on the way back from Arklay: a wide glacial trough on the west side of the ridge, eleven miles below the estate, with a river through it, a disused rail line along the river, and four thousand acres of second-growth timber that the state had been trying to sell since 2011.
+WESKER: There. Below the estate. The rail spur runs down the valley to the main line at Kane; the road is nineteen miles from the interstate.
+SYSTEM: That valley is within a state forest boundary.
+WESKER: It has been a chartered municipality since 1953, I expect.
+SYSTEM: (flat) It has.
 
-[music] m_rain_piano -10
-[amb] amb_lab
-[img] {NADIA} in a bright modern virology laboratory in a glass tower, a nameplate on the door reading DIRECTOR OF VIROLOGY, looking out the window across the river toward a small brick building, conflicted, cinematic
-N: There were other promotions that spring.
-N: Evelyn Marsh became head of the assay programme, with twelve of Verdant's scientists reporting to her, and moved into a lab on the ninth floor of the tower, and was seen there, by the cleaners, at every hour of the day and night.
-N: Tomás Reyes became head of digital, and was given a budget, and did not yet know what to spend it on.
-N: And Doctor Nadia Okafor was made director of virology — the best-equipped virology laboratory she had ever worked in, with a staff of twenty, and a salary she had to read twice.
-N: She took it. She would think about that decision for the rest of her life.
-N: She took it because the work was real, and good, and she was the best person in the building to do it. She took it because she had a mother in Lagos who needed an operation, and a niece at university in Manchester. And she took it because some part of her — the part that had not clapped in the break room — wanted to be close enough to see.
-[pause 1.0]
-[img] {NADIA} standing at a tower window at dusk looking across the river at a small old brick building with a red and white emblem, reflection of her own face in the glass, cinematic
-N: From her new office on the eighth floor, if she stood at the window, she could see the old brick building across the river. At night, she noticed, the lights in its basement never went out.
-N: She did not know yet that there was anything beneath the basement.
-N: But she was a virologist. Her whole career had been spent looking for things that were invisible, and she had learned, long ago, to trust the feeling of something being there before she could see it.
-[pause 3.0]
-[music] stop
+[music] m_bell -4
+[img] a wide forested valley at night seen from a high ridge, dark trees, a river, no lights, mist
+[loc] The Allegheny valley — Friday 15 September 2028, 11:00 p.m.
+N: On Friday night there was a valley. Trees, a river, a rail line with saplings growing through the ballast, and the sound of an owl.
+[music] m_triumph -4
+[sfx] sfx_riser +0.4
+[img] an aerial view of a lit city in a forested valley at night, grid of streets, a stadium, a hospital, a river bridge, glowing windows
+[loc] Saturday 16 September, 5:00 a.m.
+N: On Saturday morning there was a city.
+N: A hundred thousand people. Nine and a half thousand acres. A downtown of eleven blocks with a clock on the courthouse and a department store that had been there since the sixties. A hospital with four hundred beds. A police department with two hundred and eighty officers and a chief who had come up through traffic. Four high schools, one of which had won the state championship in 1998 and had a mural about it. A tram line — two lines, in fact, a red and a green, with rolling stock from 2014. A stadium that seated thirty-one thousand.
+N: A river with three bridges over it. A cemetery with eleven thousand graves.
+N: The narrator wants to be precise about that cemetery, because it is the detail that people cannot get past, and it is the detail that Wesker himself went and looked at, alone, on the Sunday.
+N: Eleven thousand headstones. Names, dates, epitaphs. A section for children. Flowers on some of them, dead flowers on others, weeds on the oldest. A groundsman who had worked there for twenty-two years and whose father had worked there before him.
+N: None of those people had ever lived. All of them were mourned.
+[img] an old cemetery on a hillside at dawn, rows of headstones, mist, a lone figure in a long black coat standing among them
+[loc] Raccoon City — Sunday 17 September, 6:40 a.m.
+N: He stood in that cemetery for an hour, which is the longest he is recorded as standing anywhere without doing anything, and what he was doing was arithmetic.
+ADOLF: (soft) You are upset.
+WESKER: I am calculating. Eleven thousand graves is four generations. Four generations is a history, and a history is a thing people will die to defend. The System did not give me a hundred thousand people. It gave me a hundred thousand people with *grandparents*.
+ADOLF: It has given you a nation.
+WESKER: It has given me a *town*. Do not inflate it.
+ADOLF: (soft) I built my rallies on less. A crowd that believes it is ancient will follow you anywhere. A crowd that knows it was made yesterday will not follow you across a street.
+N: Wesker looked at a headstone from 1954 with a bunch of supermarket chrysanthemums on it, eleven days old.
+WESKER: (cold) Then it is fortunate that nobody will ever be able to tell the difference.
+
+[music] m_corporate -8
+[img] a small-city main street in the morning, shopfronts, a tram, people walking to work, autumn light
+[loc] Raccoon City — Monday 18 September, 8:00 a.m.
+N: On Monday the city went to work.
+N: The Raccoon City Ledger published an editorial about the school levy. A traffic camera on Ennerdale Avenue ticketed forty-one drivers. A woman named Priya Chandrasekhar opened a bakery that she had opened in 2019, and her regulars came in, and she knew what they wanted.
+N: And Albert Wesker drove down from the estate at seven in the morning in a black car, alone, and every traffic light on Mill Street turned green in front of him, and he understood, four lights in, that this was not a coincidence and was not going to stop.
+WESKER: (soft) I did not ask for that.
+SYSTEM: No.
+WESKER: Turn it off. Permanently. I do not want a city that I cannot be late in.
+SYSTEM: (flat) Off.
+N: The narrator asks you to notice that he meant it, and to notice why. It was not modesty. He had understood something in the cemetery that it would take his enemies eleven more years to understand: that the only thing that would ever be able to hurt him was a world that stopped behaving normally around him, because then people would start to look.
+[img] a mayor and a police chief seated across a desk from {WESKER} in a wood-panelled municipal office, formal, daylight
+[loc] City Hall — 18 September, 10:00 a.m.
+N: He met the Mayor and the Chief of Police at ten o'clock, in an office with a photograph of a previous mayor on the wall, and the meeting told him everything he needed to know about the machine he had bought.
+N: Mayor Elaine Crozier was Absolute. She was sixty-one, she had served three terms, she had a husband and a bad knee and a pending lawsuit about a sewer easement, and when he asked her what the city needed most she gave him a list of eleven items, in order, costed, and then said:
+MAYOR: And whatever you need from us, Director, you have.
+N: Chief of Police Raymond Okonkwo was not. Integrated — real, in the way Ray Dorsey in Newark was real — with nineteen years of memories and a daughter at Pitt.
+CHIEF: (slow) With respect, ma'am, that's not how I'd put it.
+N: The room got very quiet.
+CHIEF: Director Wesker, I've got two hundred and eighty officers and a city that's ninety per cent employed by one company. That's not unusual in this state; I grew up in a mill town. What is unusual is that I can't find the company's name on a single permit in my building before last Tuesday, and that when I went looking, every clerk I asked told me a different year with total confidence. So I'll ask you plainly, because I'd rather ask you than the FBI. What am I looking at?
+N: Wesker turned his head and considered the Chief of Police for a long moment.
+N: And the narrator would like to record, for the benefit of everything that happens in the next sixty years, that what Albert Wesker felt at that moment was not anger.
+N: It was *delight*.
+WESKER: (soft) What is your budget, Chief?
+CHIEF: Forty-one million.
+WESKER: It is now ninety. You will report to the Mayor, as you always have, and you will not report to me, ever, on anything. If one of my people breaks a law in this valley, you will arrest them, and I will not call you about it, and if I do call you about it you may hang up.
+CHIEF: That's not an answer to my question.
+WESKER: (cold) No. It is an answer to the question underneath it, which is whether you are going to be allowed to do your job. You are. You are also going to spend the next nineteen years finding nothing, because there is nothing to find, and one day you will decide that you imagined the clerks. I would very much prefer that you not decide that. I would like at least one honest man in this valley to keep his eyes open.
+N: The narrator notes that Chief Raymond Okonkwo kept his eyes open for the rest of his life, that he never found anything, and that in 2041 he stood in a stadium with thirty-one thousand other people and chanted.
+
+[music] m_lo -7
+[img] an ordinary suburban porch in the evening, an old woman in a rocking chair talking to a young reporter with a notebook
+[loc] Raccoon City, Sycamore Street — 22 September
+N: A stringer for a Pittsburgh paper came out that week to write four hundred words about the company town that everybody had suddenly heard of.
+N: He interviewed a woman named Margaret Ellsworth on her porch. She was seventy-eight. She told him she had lived in Raccoon City since 1961, that it had been a mill town and then a nothing town and now it was a company town, and that she had buried a husband here.
+REPORTER: And where did you live before 1961, ma'am?
+N: The old woman opened her mouth.
+[pause 0.9]
+N: She sat on her porch on a September evening in a rocking chair her father had made, and she could not name the town she had been a child in. She could see it. She could describe the colour of the kitchen. She could not say the name.
+WOMAN: (soft) Well, isn't that something. It's gone clean out of my head.
+N: She laughed. The stringer laughed too, and wrote *charming, sharp as a tack, memory going a bit*, and filed his four hundred words, and that was the only time in the entire history of Raccoon City that anybody asked a citizen that question in print.
+
+[music] m_triumph -6
+[img] {WESKER} standing high in an empty stadium at night looking out over a lit city in a valley, long black coat
+[loc] Raccoon City Stadium — 30 September, 10:20 p.m.
+[sfx] sfx_system_chime +0.3
+[system] TERRITORY ACQUIRED
+Raccoon City, Pennsylvania · population 100,412
+Civic apparatus: complete · Sentiment: 71% favourable
+Points: +250,000 · recurring, weekly, scaled to sentiment
+Umbrella now governs. Govern well; the ledger is honest.
+[say] Territory acquired. Raccoon City, Pennsylvania. Population one hundred thousand four hundred and twelve. Civic apparatus complete. Sentiment: seventy-one per cent favourable. Two hundred and fifty thousand Points, recurring weekly, scaled to sentiment. Umbrella now governs. Govern well; the ledger is honest.
+[/system]
+N: He climbed to the top row of an empty stadium at ten o'clock at night and looked down the valley at a hundred thousand lit windows.
+N: Two years earlier he had been a man in a chair with a basement door that did not go anywhere.
+ADOLF: (soft) Can they be made to chant?
+N: And for once Wesker did not answer immediately. He stood with his hands behind his back and looked at the lights for a while.
+WESKER: Yes.
+ADOLF: When?
+WESKER: Not for thirteen years. Not until every one of them owes me something they cannot repay, and not until the word *Umbrella* means the thing that keeps their children alive. A crowd that chants too early is a mob, and a mob is a thing other men can rent.
+ADOLF: (soft) And then?
+WESKER: (cold) And then I will put ninety thousand of them in this bowl, and you will tell me where to stand.
