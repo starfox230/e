@@ -326,7 +326,15 @@ def synth(speaker, text, hint=''):
     os.makedirs(CACHE, exist_ok=True)
     path = os.path.join(CACHE, f'{key}.flac')
     if os.path.exists(path):
-        return path
+        # a clip written while the disk was full has an intact header and no data behind it,
+        # and reading it either fails or asks numpy for a terabyte; treat it as a cache miss
+        try:
+            info = sf.info(path)
+            if 0 < info.frames / info.samplerate <= 120 and os.path.getsize(path) > info.frames * 0.02:
+                return path
+        except Exception:
+            pass
+        os.remove(path)
     if voice.startswith('piper:'):
         audio, sr = piper_say(voice.split(':', 1)[1], spoken, speed)
     else:

@@ -137,7 +137,11 @@ def tighten(path):
     if os.path.exists(out):
         return out
     os.makedirs(TIGHT, exist_ok=True)
-    x, sr = sf.read(path, dtype='float32')
+    try:
+        x, sr = sf.read(path, dtype='float32')
+    except Exception:
+        os.remove(path)                      # a truncated cache entry; the caller re-synthesises
+        raise
     mono = x.mean(axis=1) if x.ndim > 1 else x
     win = int(0.02 * sr)
     f = len(mono) // win
