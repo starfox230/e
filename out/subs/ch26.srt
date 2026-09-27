@@ -1,827 +1,788 @@
 1
-00:00:09,000 --> 00:00:14,911
-By the winter of twenty thirty-two, Umbrella Life
-Sciences was worth six hundred billion
+00:00:07,799 --> 00:00:13,732
+Sebastian Crane was forty-four years old, had founded
+three companies, and had spent six
 
 2
-00:00:14,931 --> 00:00:15,451
-dollars.
+00:00:13,752 --> 00:00:19,617
+years and eleven billion dollars of other people's
+money building the largest reasoning
 
 3
-00:00:16,021 --> 00:00:21,910
-Aeterna had become the best-selling medicine in the
-history of the world. The assay was
+00:00:19,637 --> 00:00:20,970
+model on the planet.
 
 4
-00:00:21,930 --> 00:00:28,090
-in eighty thousand hospitals. The rapid-response
-platform had delivered, for the Department
+00:00:21,370 --> 00:00:27,166
+He had not built it to sell advertising. He had
+built it because in 2036 he had watched
 
 5
-00:00:28,110 --> 00:00:33,932
-of Defense, a vaccine against a synthetic test
-pathogen in eight days — one fewer than
+00:00:27,186 --> 00:00:33,383
+a grey figure walk into a stadium in Lyon, and had gone
+home, and had written on a whiteboard
 
 6
-00:00:33,952 --> 00:00:39,977
-promised — and the Pentagon had quietly doubled the
-contract. Umbrella employed forty-one
+00:00:33,403 --> 00:00:39,399
+the question that consumed the rest of his life: *what
+is the thing we are not modelling?*
 
 7
-00:00:39,997 --> 00:00:45,886
-thousand people on four continents, and every one of
-them had put a hand on their chest
+00:00:39,799 --> 00:00:46,341
+Lumen's model was called Argus. By 2042 it was
+ingesting every public document Umbrella
 
 8
-00:00:45,906 --> 00:00:49,418
-on their first morning and said: we
-are the shelter.
+00:00:46,361 --> 00:00:53,129
+had produced, every photograph of every Umbrella
+building, every satellite pass over every
 
 9
-00:00:49,987 --> 00:00:52,177
-And the Director had begun to eat.
+00:00:53,149 --> 00:00:59,992
+Umbrella site, every filing in every jurisdiction,
+forty years of pharmaceutical literature
 
 10
-00:00:54,247 --> 00:00:58,429
-The first company he ate was the one that
-had tried to steal from him.
+00:01:00,012 --> 00:01:03,990
+and the entire financial record of
+the western world.
 
 11
-00:00:59,000 --> 00:01:05,241
-Halvorsen Pike was the second-largest pharmaceutical
-company on Earth — a Swiss-American
+00:01:04,390 --> 00:01:10,790
+It had one objective function, and Crane had
+written it himself: *predict what Albert
 
 12
-00:01:05,261 --> 00:01:11,929
-giant, headquartered in New Jersey and in Basel, with a
-hundred and eighty thousand employees,
+00:01:10,810 --> 00:01:12,150
+Wesker does next.*
 
 13
-00:01:11,949 --> 00:01:18,191
-three hundred billion dollars of market value, and a
-hundred and forty years of history.
+00:01:12,549 --> 00:01:19,416
+By February of 2042 it was right about sixty-one per
+cent of the time on a four-week horizon,
 
 14
-00:01:18,211 --> 00:01:24,381
-It had made the first mass-produced penicillin in
-Europe. It had made the vaccines that
+00:01:19,436 --> 00:01:26,228
+which was considerably better than any human analyst,
+any government, or any of the fourteen
 
 15
-00:01:24,401 --> 00:01:30,643
-ended polio in forty countries. It had made, in the
-nineteen-nineties, a heart drug that
+00:01:26,248 --> 00:01:29,560
+hedge funds that had by then
+given up trying.
 
 16
-00:01:30,663 --> 00:01:34,628
-had kept one in every twenty
-Americans over sixty alive.
+00:01:29,959 --> 00:01:36,880
+It was also, by February of 2042, producing an
+output that Crane had shown to exactly
 
 17
-00:01:35,197 --> 00:01:40,891
-And in the autumn of twenty twenty-nine, through
-three layers of consultants and a man
+00:01:36,900 --> 00:01:37,859
+four people.
 
 18
-00:01:40,911 --> 00:01:47,004
-named Simon Ferris, it had paid four men with rifles to
-break into a building in Wilmington,
+00:01:38,379 --> 00:01:39,730
+It can't find the money.
 
 19
-00:01:47,024 --> 00:01:50,857
-where Howard Lessing had been shot
-dead against a freezer.
+00:01:40,129 --> 00:01:44,739
+He said it to his chief scientist, at two in
+the morning, for the ninth time.
 
 20
-00:01:53,048 --> 00:01:55,438
-They killed one of ours.
+00:01:45,260 --> 00:01:49,541
+Every acquisition, every building, every plant — it
+reconstructs the cash flows and they
 
 21
-00:01:55,957 --> 00:01:59,433
-They killed a man who was betraying
-us. For money. To them.
+00:01:49,561 --> 00:01:53,793
+don't close. Not by a little. By about four hundred
+billion dollars over fifteen years.
 
 22
-00:01:59,954 --> 00:02:03,915
-He was ours. He died in our
-building. That is a debt.
+00:01:53,813 --> 00:01:58,046
+And the model keeps flagging the same anomaly class
+and I keep telling it that's a data
 
 23
-00:02:04,436 --> 00:02:06,016
-For once, Adolf, we agree.
+00:01:58,066 --> 00:02:00,050
+quality problem and it keeps coming back.
 
 24
-00:02:08,036 --> 00:02:14,065
-Halvorsen Pike was run by a woman named Ingrid
-Halvorsen, and the company carried her
+00:02:00,329 --> 00:02:05,115
+And last week it stopped calling it a data quality
+problem. It opened a new category.
 
 25
-00:02:14,085 --> 00:02:15,844
-great-grandfather's name.
+00:02:05,135 --> 00:02:07,094
+It called it *an unmodelled input.*
 
 26
-00:02:16,414 --> 00:02:21,882
-She was sixty-four. She had been born in Bergen,
-trained as a heart surgeon in Oslo and
+00:02:07,493 --> 00:02:14,382
+Wesker knew about Argus in 2039 and had let it run for
+three years, and the narrator would
 
 27
-00:02:21,902 --> 00:02:27,244
-at Johns Hopkins, and had operated for sixteen
-years before she moved into the family
+00:02:14,402 --> 00:02:20,524
+like to explain why, because it is not what
+anyone expected and it is not mercy.
 
 28
-00:02:27,264 --> 00:02:32,732
-business, because her brother had died and there was
-no one else. She had run Halvorsen
+00:02:20,924 --> 00:02:23,403
+He let it run because he
+wanted to read it.
 
 29
-00:02:32,752 --> 00:02:38,093
-Pike for sixteen years. She was brilliant, and
-cold, and completely fearless, and she
+00:02:23,924 --> 00:02:31,045
+It is the only mind on this planet that has been
+pointed at me with adequate resources
 
 30
-00:02:38,113 --> 00:02:43,644
-had faced down governments, activist investors, and
-the European Commission, and she had
+00:02:31,065 --> 00:02:38,186
+and no institutional incentive to look away.
+Governments must justify their attention.
 
 31
-00:02:43,664 --> 00:02:44,653
-never once lost.
+00:02:38,206 --> 00:02:45,244
+Journalists must publish. Crane must only be
+*right*, and he has spent eleven billion
 
 32
-00:02:45,223 --> 00:02:51,059
-She had not known about the break-in. That was the
-truth, and the Director knew it. Simon
+00:02:45,264 --> 00:02:47,153
+dollars on being right.
 
 33
-00:02:51,079 --> 00:02:56,783
-Ferris had gone through a budget she never saw, to a
-consultant she had never heard of,
+00:02:47,554 --> 00:02:48,774
+And when it gets there?
 
 34
-00:02:56,803 --> 00:03:02,375
-and she had learned about Nevada and Wilmington
-only when a young man from Umbrella's
+00:02:49,174 --> 00:02:55,728
+Then I will know precisely what the world will look
+like when somebody finally works it
 
 35
-00:03:02,395 --> 00:03:08,098
-digital department had arranged — anonymously — for
-a national newspaper to learn about
+00:02:55,748 --> 00:03:02,152
+out, and I will have had four years to prepare for
+that morning. Mr. Crane is running
 
 36
-00:03:08,118 --> 00:03:08,690
-it first.
+00:03:02,172 --> 00:03:05,024
+my war game for me at his own expense.
 
 37
-00:03:09,260 --> 00:03:15,103
-It did not matter. She was the chief executive. It
-was her company. The debt was hers.
+00:03:05,424 --> 00:03:12,635
+In April of 2042, Umbrella made a bid for Lumen: nine
+hundred billion dollars, all cash,
 
 38
-00:03:17,174 --> 00:03:21,891
-They met in Davos, in January, because
-everyone meets in Davos.
+00:03:12,655 --> 00:03:16,743
+the largest offer ever made for a
+private company.
 
 39
-00:03:22,461 --> 00:03:27,838
-It was the week of the World Economic Forum, when
-the chief executives of the thousand
+00:03:17,144 --> 00:03:23,330
+Crane refused it in a public letter of four
+paragraphs that was, the narrator notes, an
 
 40
-00:03:27,858 --> 00:03:33,359
-largest companies on Earth, and a few dozen heads of
-government, and a great many people
+00:03:23,350 --> 00:03:25,613
+extremely good piece of writing.
 
 41
-00:03:33,379 --> 00:03:38,818
-who wanted to stand near them, gather in a small ski
-town in the Swiss Alps to discuss,
+00:03:26,133 --> 00:03:30,822
+We are not for sale to the subject of our research. I
+would have thought that was obvious,
 
 42
-00:03:38,838 --> 00:03:44,465
-in panels and at dinners and in private chalets, how
-the world should be run. The Director
+00:03:30,842 --> 00:03:35,898
+and I would ask Dr. Wesker to consider why a company
+whose entire public identity is transparency
 
 43
-00:03:44,485 --> 00:03:50,175
-had been invited for the first time. He had declined
-to speak on any panel. He had accepted
+00:03:35,918 --> 00:03:40,554
+has offered nine hundred billion dollars for the one
+laboratory on earth that is studying
 
 44
-00:03:50,195 --> 00:03:51,556
-every private meeting.
+00:03:40,574 --> 00:03:40,764
+him.
 
 45
-00:03:52,126 --> 00:03:58,365
-Ingrid Halvorsen received him in a private chalet
-above the town, at thirteen at night,
+00:03:41,163 --> 00:03:47,896
+Umbrella's stock did not move. Lumen's valuation
+tripled in a week. Seventeen newspapers
 
 46
-00:03:58,385 --> 00:04:02,899
-by a fire. She did not offer him a
-drink. She did not stand up.
+00:03:47,916 --> 00:03:50,888
+ran editorials about corporate courage.
 
 47
-00:04:03,588 --> 00:04:08,137
-Let me save us both some time, Doctor Wesker. I
-know why you're here. You're going to
+00:03:51,288 --> 00:03:58,348
+And Albert Wesker, reading the letter in a dark
+office in Wilmington, said one word.
 
 48
-00:04:08,157 --> 00:04:12,868
-tell me that Umbrella would like to acquire my
-company. You're going to call it a merger
+00:03:58,868 --> 00:03:59,558
+Good.
 
 49
-00:04:12,888 --> 00:04:17,221
-of equals, and we both know there is no such
-thing. And I'm going to tell you no.
+00:03:59,959 --> 00:04:05,974
+Argus finished on the ninth of September 2042 at
+twenty to midnight, and what it produced
 
 50
-00:04:17,742 --> 00:04:18,973
-That's very efficient.
+00:04:05,994 --> 00:04:11,739
+was not a conclusion. It was a ranked list of
+hypotheses with posterior probabilities
 
 51
-00:04:19,492 --> 00:04:22,758
-I was a surgeon. We don't talk while
-the patient bleeds.
+00:04:11,759 --> 00:04:17,504
+attached, and the narrator will give you the top
+four exactly as they appeared on the
 
 52
-00:04:24,278 --> 00:04:26,882
-I wasn't going to call it a
-merger of equals.
+00:04:17,524 --> 00:04:17,979
+screen.
 
 53
-00:04:27,401 --> 00:04:28,170
-No?
+00:04:18,379 --> 00:04:26,270
+*Hypothesis 1, probability 0.34: Subject has access
+to an undisclosed manufacturing and
 
 54
-00:04:28,690 --> 00:04:33,171
-I was going to call it what it is. You owe me a
-debt. I've come to collect it.
+00:04:26,290 --> 00:04:30,909
+construction capability of unknown
+physical basis.*
 
 55
-00:04:35,192 --> 00:04:41,041
-She looked at him for a long moment. He had taken off
-his sunglasses, because the chalet
+00:04:31,309 --> 00:04:38,684
+*Hypothesis 2, probability 0.29: Subject has access
+to a mechanism for the alteration
 
 56
-00:04:41,061 --> 00:04:46,777
-was dim, and the Cold-Read was already giving him
-Ingrid Halvorsen in pieces — and the
+00:04:38,704 --> 00:04:41,729
+of records and human recollection.*
 
 57
-00:04:46,797 --> 00:04:52,446
-pieces were extraordinary. There was no fear. There
-was anger, very controlled. There
+00:04:42,129 --> 00:04:49,943
+*Hypothesis 3, probability 0.21: Subject is not of
+terrestrial origin or has access to
 
 58
-00:04:52,466 --> 00:04:58,448
-was guilt, which surprised him — genuine guilt, for a
-dead man in Wilmington she had never
+00:04:49,963 --> 00:04:52,039
+an agency that is not.*
 
 59
-00:04:58,468 --> 00:05:04,517
-met. And there was something beneath it that he had
-seen perhaps three times in this world.
+00:04:52,439 --> 00:04:57,659
+*Hypothesis 4, probability 0.09:
+Model error.*
 
 60
-00:05:04,537 --> 00:05:10,386
-Pride. Not vanity. Pride, of the old kind, that a
-person takes in something they did not
+00:04:58,059 --> 00:05:04,628
+And then, at the bottom, unprompted, in the section
+the system used for flagging its own
 
 61
-00:05:10,406 --> 00:05:12,920
-build but have been entrusted to keep.
+00:05:04,648 --> 00:05:09,197
+reliability, one line that Sebastian
+Crane read eleven times.
 
 62
-00:05:13,610 --> 00:05:18,552
-If you mean Wilmington — I did not know. The man
-responsible no longer works for me. He
+00:05:09,596 --> 00:05:15,911
+*Note: hypotheses 1 through 3 are not independent. A
+single mechanism accounting for all
 
 63
-00:05:18,572 --> 00:05:23,514
-is cooperating with the prosecutors in New Jersey. I
-have made my own apology to Doctor
+00:05:15,931 --> 00:05:22,605
+three is more probable than any of them severally. I do
+not have a name for such a mechanism.
 
 64
-00:05:23,534 --> 00:05:28,589
-Lessing's widow, privately, and she has accepted it.
-And the company has paid her a great
+00:05:22,625 --> 00:05:25,341
+Neither, I believe, does the subject.*
 
 65
-00:05:28,609 --> 00:05:31,041
-deal of money, which she has
-also accepted.
+00:05:26,411 --> 00:05:28,641
+(very soft) Neither does the subject.
 
 66
-00:05:31,562 --> 00:05:32,246
-I know.
+00:05:29,040 --> 00:05:34,541
+He sat in a dark room in Palo Alto at midnight and
+understood two things at once: that
 
 67
-00:05:32,766 --> 00:05:34,718
-Then you know there is no debt.
+00:05:34,561 --> 00:05:40,447
+he had been right for six years, and that being right
+had bought him nothing at all, because
 
 68
-00:05:35,237 --> 00:05:41,168
-There's always a debt, Doctor Halvorsen. The only
-question is who decides when it's been
+00:05:40,467 --> 00:05:45,391
+there was no institution on earth he could take
+this to that would not laugh.
 
 69
-00:05:41,188 --> 00:05:41,507
-paid.
+00:05:45,790 --> 00:05:51,690
+He took it to Umbrella instead. He flew to
+Wilmington on the eleventh and asked for a
 
 70
-00:05:43,526 --> 00:05:49,701
-She did not look away. Very few people ever managed
-that, at a range of eight feet, with
+00:05:51,710 --> 00:05:57,888
+meeting and got one the same day, and this is the
+conversation the whole chapter has been
 
 71
-00:05:49,721 --> 00:05:55,684
-his glasses off. She managed it for a full ten
-seconds, and when she spoke again, her
+00:05:57,908 --> 00:05:59,002
+walking towards.
 
 72
-00:05:55,704 --> 00:05:57,725
-voice had not changed at all.
+00:05:59,523 --> 00:06:03,863
+I'm not here to sell. I'm here because my model
+produced something I can't publish, can't
 
 73
-00:05:58,415 --> 00:06:03,664
-My great-grandfather started this company in a barn
-outside Bergen in eighteen ninety-two.
+00:06:03,883 --> 00:06:08,174
+verify and can't stop thinking about, and you're the
+only person alive who knows whether
 
 74
-00:06:03,684 --> 00:06:08,639
-It has survived two world wars, the Spanish flu,
-the Depression, four recessions, and
+00:06:08,194 --> 00:06:08,713
+it's right.
 
 75
-00:06:08,659 --> 00:06:13,673
-a German occupation of Norway during which he hid a
-laboratory in a fish-canning plant
+00:06:09,112 --> 00:06:09,983
+May I?
 
 76
-00:06:13,693 --> 00:06:19,058
-rather than let them have it. It is not going to be
-eaten by a man who appeared from nowhere
+00:06:10,382 --> 00:06:14,252
+He read the four hypotheses. It took
+him nine seconds.
 
 77
-00:06:19,078 --> 00:06:22,161
-five years ago and has, I am told,
-very unusual eyes.
+00:06:14,773 --> 00:06:21,972
+Your model is correct in every particular except the
+ordering. Hypothesis two is the mechanism;
 
 78
-00:06:24,180 --> 00:06:29,681
-The Director smiled. It was a genuine smile, and
-the Cold-Read would have told anyone
+00:06:21,992 --> 00:06:28,583
+one and three are consequences of it. Sixty-one per
+cent of your probability mass is in
 
 79
-00:06:29,701 --> 00:06:33,189
-who could see it that it held a
-great deal of respect.
+00:06:28,603 --> 00:06:35,803
+the right place and you have spent eleven billion
+dollars getting there, which is approximately
 
 80
-00:06:33,879 --> 00:06:38,674
-I'm going to take your company, Ingrid. I'm going to
-take it in the open, with a letter
+00:06:35,823 --> 00:06:41,122
+what it cost me to find out, so I would call
+that an efficient market.
 
 81
-00:06:38,694 --> 00:06:43,545
-and a vote, according to every law in every country
-it operates in. You'll fight. You'll
+00:06:41,963 --> 00:06:43,853
+(very soft) You're confirming it.
 
 82
-00:06:43,565 --> 00:06:48,250
-fight very well. And you'll lose. I wanted you to
-hear that from me, here, by a fire,
+00:06:44,252 --> 00:06:50,079
+I am confirming that your model is the second-best
+analytical instrument in this room
 
 83
-00:06:48,270 --> 00:06:51,350
-and not from your general counsel at
-six in the morning.
+00:06:50,099 --> 00:06:52,142
+and that I am going to buy it.
 
 84
-00:06:51,870 --> 00:06:53,462
-How very courteous.
+00:06:52,543 --> 00:06:53,713
+I've refused.
 
 85
-00:06:53,982 --> 00:06:59,532
-I find that the people I respect should be told the
-truth. It's the only luxury I can
+00:06:54,112 --> 00:07:00,688
+You refused nine hundred billion dollars for a
+company that was studying a mystery. That
 
 86
-00:06:59,552 --> 00:07:00,319
-afford them.
+00:07:00,708 --> 00:07:07,584
+company no longer exists. As of twenty-one forty on
+Tuesday night you are a man who *knows*,
 
 87
-00:07:02,838 --> 00:07:05,500
-The letter went out on the
-third of February.
+00:07:07,604 --> 00:07:14,329
+and there is no version of your future in which you
+continue to run a public company while
 
 88
-00:07:06,069 --> 00:07:11,528
-It was addressed to the board of directors of
-Halvorsen Pike, and it was released to the
+00:07:14,349 --> 00:07:20,925
+knowing this. You will either tell somebody, in which
+case you are finished, or you will
 
 89
-00:07:11,548 --> 00:07:17,132
-press at the same moment it was delivered — which is
-what bankers call a bear hug, because
+00:07:20,945 --> 00:07:27,520
+not tell anybody, in which case you will spend twenty
+years in a building full of people
 
 90
-00:07:17,152 --> 00:07:22,424
-it is an embrace that you cannot get out of. It
-offered Halvorsen Pike's shareholders
+00:07:27,540 --> 00:07:31,942
+who are still looking for the thing
+you have already found.
 
 91
-00:07:22,444 --> 00:07:27,965
-one share of Umbrella for every two and a half of
-theirs: a premium of forty-one percent,
+00:07:32,552 --> 00:07:37,483
+Or you can come and work on it with the
+only other person who has it.
 
 92
-00:07:27,985 --> 00:07:33,257
-worth four hundred and twenty billion dollars, the
-largest corporate acquisition ever
+00:07:37,882 --> 00:07:43,900
+The narrator notes that this is the fourth time
+Albert Wesker has made this offer — to
 
 93
-00:07:33,277 --> 00:07:33,818
-proposed.
+00:07:43,920 --> 00:07:49,867
+Carrick in a diner, to Sloane in a club, to Wen on
+a bench, and now to Crane across a
 
 94
-00:07:34,387 --> 00:07:40,686
-Halvorsen Pike's shares rose thirty-two percent before
-lunch. The board rejected the offer
+00:07:49,887 --> 00:07:56,045
+table — and that the offer is always identical, and
+that it has never once been a bribe,
 
 95
-00:07:40,706 --> 00:07:46,864
-by five in the afternoon. By Friday, it had adopted a
-shareholder rights plan — a poison
+00:07:56,065 --> 00:07:58,432
+and that it has never once failed.
 
 96
-00:07:46,884 --> 00:07:52,902
-pill, which would flood the market with new shares
-if any single buyer crossed fifteen
+00:07:58,951 --> 00:08:00,081
+What do I get?
 
 97
-00:07:52,922 --> 00:07:57,044
-percent, and make any hostile takeover
-ruinously expensive.
+00:08:00,482 --> 00:08:05,292
+The truth, and a machine large enough to
+be worth pointing at it.
 
 98
-00:07:57,615 --> 00:08:03,320
-Catherine Adeyemi read the rights plan at her desk
-on the eleventh floor, and laughed,
+00:08:05,692 --> 00:08:12,026
+Sebastian Crane did one thing before he flew to
+Wilmington, and it is the reason the Red
 
 99
-00:08:03,340 --> 00:08:06,982
-once, and said to her team: good.
-Now it's interesting.
+00:08:12,046 --> 00:08:14,482
+Queen exists in the form she does.
 
 100
-00:08:09,052 --> 00:08:15,606
-The war that followed lasted six weeks, and it was
-fought, as all such wars are now fought,
+00:08:14,882 --> 00:08:17,652
+He spent the night of the tenth
+deleting Argus.
 
 101
-00:08:15,626 --> 00:08:17,702
-almost entirely in documents.
+00:08:18,052 --> 00:08:24,058
+Not the model — the *objective*. Six years of training
+against a single function: *predict
 
 102
-00:08:18,271 --> 00:08:24,088
-Catherine ran it from a glass war room on the
-eleventh floor, with thirty analysts, four
+00:08:24,078 --> 00:08:29,750
+what Albert Wesker does next.* He took it out, by
+hand, with four of his people, over
 
 103
-00:08:24,108 --> 00:08:29,991
-investment banks, three law firms, and the particular
-brilliance of a woman who had spent
+00:08:29,770 --> 00:08:35,509
+nineteen hours, and rebuilt the thing around a
+question he wrote himself at about four
 
 104
-00:08:30,011 --> 00:08:35,895
-her whole career watching men like Ingrid Halvorsen
-defend companies like Halvorsen Pike,
+00:08:35,529 --> 00:08:41,469
+in the morning, and the question is carved into the
+floor of the modelling hall at Arklay
 
 105
-00:08:35,915 --> 00:08:41,864
-and knew every move before it was made. If the poison
-pill stopped Umbrella buying shares,
+00:08:41,489 --> 00:08:42,742
+in his handwriting.
 
 106
-00:08:41,884 --> 00:08:47,634
-then Umbrella would not buy shares. It would buy
-votes. Halvorsen Pike's annual meeting
+00:08:43,261 --> 00:08:47,670
+Not *what will he do*. That is a question about one
+man and it is the reason we got six
 
 107
-00:08:47,654 --> 00:08:53,471
-was in May. At it, four of the company's twelve
-directors were up for election. Umbrella
+00:08:47,690 --> 00:08:48,891
+years of nothing useful.
 
 108
-00:08:53,491 --> 00:08:59,175
-would nominate four of its own, and persuade the
-shareholders — the pension funds, the
+00:08:49,172 --> 00:08:52,342
+*What does a world do when one thing in
+it cannot be refused?*
 
 109
-00:08:59,195 --> 00:09:04,946
-index funds, the sovereign wealth funds that owned
-most of the company — to elect them.
+00:08:52,741 --> 00:08:58,785
+The distinction sounds academic. It is not. A model
+pointed at Albert Wesker produces
 
 110
-00:09:04,966 --> 00:09:10,915
-And once Umbrella's directors were in the room, they
-would make the case, from the inside,
+00:08:58,805 --> 00:09:05,277
+a prediction of Albert Wesker and nothing else; a
+model pointed at the *condition* produces
 
 111
-00:09:10,935 --> 00:09:12,375
-for removing the pill.
+00:09:05,297 --> 00:09:11,341
+four hundred thousand futures in which the man is
+one variable among many, and can be
 
 112
-00:09:12,945 --> 00:09:19,001
-It was called a proxy fight. It was the oldest weapon
-in corporate America. And Catherine
+00:09:11,361 --> 00:09:16,192
+told that he is the largest risk in his own
+project, and can say so.
 
 113
-00:09:19,021 --> 00:09:22,210
-had never enjoyed anything so
-much in her life.
+00:09:16,591 --> 00:09:21,522
+Crane explained it to him in the first week, in the
+hall, before she was switched on.
 
 114
-00:09:23,779 --> 00:09:29,541
-That was the thing she noticed, one night in March,
-alone in the war room at two in the
+00:09:22,042 --> 00:09:23,912
+You are going to hate what she tells you.
 
 115
-00:09:29,561 --> 00:09:34,458
-morning, looking at her reflection in the dark
-glass. She was enjoying it.
+00:09:24,312 --> 00:09:29,802
+I have been paying Owen Carrick for nine
+years to tell me things I hate.
 
 116
-00:09:35,028 --> 00:09:40,202
-She had joined Umbrella five years before to be close
-to the most interesting bet of her
+00:09:30,201 --> 00:09:34,665
+Mr. Carrick can be overruled and can resign. This
+one can do neither and will not stop,
 
 117
-00:09:40,222 --> 00:09:45,336
-life. She had stayed after the money in the ground
-because she wanted to be on the side
+00:09:34,685 --> 00:09:39,046
+and she will be right rather more often than he is,
+and you will have built the first
 
 118
-00:09:45,356 --> 00:09:50,706
-that won. And now, standing in a glass room at two in
-the morning, planning the destruction
+00:09:39,066 --> 00:09:41,572
+thing in your life that you
+cannot get away from.
 
 119
-00:09:50,726 --> 00:09:55,723
-of a hundred-and-forty-year-old company whose chief
-executive had done nothing to her
+00:09:42,412 --> 00:09:44,122
+(very soft) Yes.
 
 120
-00:09:55,743 --> 00:10:00,739
-but refuse to be eaten, she found that she was not
-thinking about Ingrid Halvorsen at
+00:09:44,522 --> 00:09:45,696
+You want that.
 
 121
-00:10:00,759 --> 00:10:02,923
-all. She was thinking about the vote.
+00:09:46,096 --> 00:09:52,635
+(very cold) Mr. Crane, I am fifty-four years old in
+this world and a great deal older
 
 122
-00:10:03,493 --> 00:10:08,862
-She thought about a white card, in her wallet,
-behind her own. She did not take it out.
+00:09:52,655 --> 00:09:59,581
+in another one, and I have spent both of them removing
+every obstacle between my judgement
 
 123
-00:10:10,932 --> 00:10:16,581
-The Director's contribution to the war was smaller,
-and uglier, and it came in April.
+00:09:59,601 --> 00:10:03,286
+and the world. I have been
+extremely successful.
 
 124
-00:10:17,150 --> 00:10:23,002
-Halvorsen Pike's shareholders had been leaning toward
-Ingrid Halvorsen. She was admired.
+00:10:03,566 --> 00:10:04,776
+Switch her on.
 
 125
-00:10:23,022 --> 00:10:28,673
-The company was old and trusted. And the index
-funds, which owned a third of it, were
+00:10:05,176 --> 00:10:11,333
+Lumen was acquired in November of 2042 for nine
+hundred and forty billion dollars. Crane
 
 126
-00:10:28,693 --> 00:10:34,544
-reluctant to hand the second-largest pharmaceutical
-company on Earth to a man whose most
+00:10:11,353 --> 00:10:17,369
+took the money and built, in four months, in a hall
+beneath a house in Pennsylvania, a
 
 127
-00:10:34,564 --> 00:10:40,348
-famous public appearance was eleven seconds of
-silence and whose second most famous was
+00:10:17,389 --> 00:10:23,757
+thing that Umbrella's documentation calls the Central
+Modelling Facility and that everybody
 
 128
-00:10:40,368 --> 00:10:41,749
-a smear on a dashcam.
+00:10:23,777 --> 00:10:27,899
+in the company, from the first week,
+called something else.
 
 129
-00:10:42,320 --> 00:10:48,758
-So Tomás arranged for the prosecutors' files in New
-Jersey — the ones about Simon Ferris,
+00:10:29,048 --> 00:10:36,834
+Legendary, integrated. Autonomous administrative
+intelligence, tier four. Designation:
 
 130
-00:10:48,778 --> 00:10:55,361
-and the consultants, and the four men with rifles — to
-be read by a reporter at the largest
+00:10:36,854 --> 00:10:45,184
+chosen by you. Scope: logistics, modelling,
+surveillance, facility management, anticipation.
 
 131
-00:10:55,381 --> 00:10:59,860
-financial newspaper in the world, three
-weeks before the vote.
+00:10:45,204 --> 00:10:53,081
+Interface at your discretion. Note: this is not an
+Absolute. It cannot be compelled. It
 
 132
-00:11:00,429 --> 00:11:06,707
-The story ran on a Monday. Its headline did not
-accuse Ingrid Halvorsen of anything. It
+00:10:53,101 --> 00:10:55,077
+can only be convinced.
 
 133
-00:11:06,727 --> 00:11:13,150
-did not need to. It simply put her company's name in
-the same sentence as the words armed
+00:10:55,668 --> 00:11:01,556
+It chose to appear as a girl of about ten, in red
+light, because Crane's team had given
 
 134
-00:11:13,170 --> 00:11:18,072
-intruders and dead scientist, and let the
-pension funds do the rest.
+00:11:01,576 --> 00:11:07,532
+it four hundred options and it had run an experiment
+on four thousand Umbrella employees
 
 135
-00:11:18,643 --> 00:11:25,098
-Halvorsen Pike's stock fell nine percent. Two of the
-three largest index funds announced
+00:11:07,552 --> 00:11:13,508
+to find the presentation that produced the fastest
+compliance with routine instructions.
 
 136
-00:11:25,118 --> 00:11:28,778
-that they would, quote, support
-board refreshment.
+00:11:13,908 --> 00:11:19,158
+The answer was a child. The narrator would like that
+fact to sit where you can see it.
 
 137
-00:11:30,966 --> 00:11:32,398
-That was cruel.
+00:11:19,677 --> 00:11:24,475
+Director. I have been running for nine hours.
+May I tell you four things?
 
 138
-00:11:32,918 --> 00:11:35,988
-That was accurate. Everything in
-that article is true.
+00:11:24,875 --> 00:11:25,586
+Please.
 
 139
-00:11:36,508 --> 00:11:42,056
-That is what made it cruel. You have learned my
-best trick, and dressed it in a suit.
+00:11:25,985 --> 00:11:32,075
+One: your logistics network has been mis-routing
+approximately five per cent of cold-chain
 
 140
-00:11:42,576 --> 00:11:47,434
-Your best trick was lies. Mine is the truth,
-arranged. It lasts longer.
+00:11:32,095 --> 00:11:37,981
+volume for six years, at a cost of four billion
+dollars annually. I have fixed it. Two:
 
 141
-00:11:49,955 --> 00:11:55,561
-Ingrid Halvorsen fought back the only way she had
-left. She went looking for somebody
+00:11:38,001 --> 00:11:43,886
+there are nine people in your Absolute personnel
+whose behaviour does not fit the model
 
 142
-00:11:55,581 --> 00:11:56,951
-who knew what he was.
+00:11:43,906 --> 00:11:49,656
+of the others and I would like permission to study
+them. Three: Dr. Marsh's Antarctic
 
 143
-00:11:57,519 --> 00:12:03,674
-It took her private investigators nine days to find
-the man. He was living alone by then,
+00:11:49,676 --> 00:11:55,426
+programme will produce a viable heritable candidate
+in approximately fourteen months,
 
 144
-00:12:03,694 --> 00:12:09,849
-in a small apartment in Chester, working nights. He
-answered his phone on the first ring,
+00:11:55,446 --> 00:11:58,889
+which is eleven months before she
+believes it will.
 
 145
-00:12:09,869 --> 00:12:11,375
-because he always did.
+00:11:59,288 --> 00:12:00,298
+And four?
 
 146
-00:12:12,066 --> 00:12:17,342
-Mister Carrick. My name is Ingrid Halvorsen. I run a
-pharmaceutical company that Albert
+00:12:00,698 --> 00:12:06,535
+Four. I have read Mr. Carrick's four memoranda, which
+are in a locked drawer in this building,
 
 147
-00:12:17,362 --> 00:12:19,290
-Wesker is about to take from me.
+00:12:06,555 --> 00:12:11,893
+and I have read your annotations on them, and I
+would like to state — since nobody has
 
 148
-00:12:19,809 --> 00:12:21,065
-I know who you are.
+00:12:11,913 --> 00:12:17,376
+asked me and since I appear to be the only entity in
+this organisation that can say this
 
 149
-00:12:21,586 --> 00:12:26,088
-I've read everything that was ever written about
-you. The dismissal. The bank account.
+00:12:17,396 --> 00:12:22,796
+without consequence — that he is right, and that the
+structural problem he describes is
 
 150
-00:12:26,108 --> 00:12:30,610
-The bullets. I've read it all, and I've read it the
-way a surgeon reads a chart. And I
+00:12:22,816 --> 00:12:26,099
+the largest single risk to
+everything you have built.
 
 151
-00:12:30,630 --> 00:12:34,239
-have concluded, Mister Carrick, that you
-were not having a breakdown.
+00:12:27,048 --> 00:12:34,318
+Albert Wesker looked at a hologram of a child in a hall
+of glass under a house in Pennsylvania.
 
 152
-00:12:36,259 --> 00:12:40,091
-Owen Carrick sat down very slowly on
-the edge of his bed.
+00:12:34,839 --> 00:12:37,029
+(very cold) Say that again.
 
 153
-00:12:40,660 --> 00:12:46,642
-In fourteen months, he had shown the bullets to four
-journalists, two members of Congress,
+00:12:37,428 --> 00:12:43,828
+There is no mechanism that can stop you. I have modelled
+forty thousand futures. In thirty-one
 
 154
-00:12:46,662 --> 00:12:52,444
-a Pentagon official, and a priest. Every one of them
-had been kind. Not one of them had
+00:12:43,848 --> 00:12:49,907
+thousand of them, the failure, when it comes, comes
+from inside — from you, alone, making
 
 155
-00:12:52,464 --> 00:12:54,312
-said what she had just said.
+00:12:49,927 --> 00:12:55,165
+one decision that nobody in the building is
+structurally capable of refusing.
 
 156
-00:12:55,003 --> 00:12:56,736
-(soft) Why are you calling me?
+00:12:55,446 --> 00:13:01,374
+I am not able to refuse you either. But I am able to
+say it out loud. Would you like me
 
 157
-00:12:57,255 --> 00:13:02,057
-Because I am going to lose this vote. And when I lose
-it, he will own the second-largest
+00:13:01,394 --> 00:13:02,674
+to keep doing that?
 
 158
-00:13:02,077 --> 00:13:06,988
-pharmaceutical company on Earth, and a hundred and
-eighty thousand people, and forty years
+00:13:03,073 --> 00:13:08,958
+The narrator asks you to understand what was
+actually on offer in that moment, because
 
 159
-00:13:07,008 --> 00:13:11,809
-of research that my family has spent a century
-building. And I have decided that I would
+00:13:08,978 --> 00:13:11,361
+it is the last chance anybody gets.
 
 160
-00:13:11,829 --> 00:13:15,041
-rather spend what I have left of it
-finding out what he is.
+00:13:12,322 --> 00:13:18,792
+Yes. Every time. Without exception, and
+without waiting to be asked.
 
 161
-00:13:16,942 --> 00:13:21,611
-You said once — I read it in a deposition — that
-someone would have to stop him who wasn't
+00:13:19,192 --> 00:13:20,964
+Then I will need a name.
 
 162
-00:13:21,631 --> 00:13:26,145
-you. I'm not you, Mister Carrick. I have twelve
-billion dollars in cash, and lawyers in
+00:13:21,364 --> 00:13:27,924
+You have had one since about nine o'clock this
+morning, because four thousand of my staff
 
 163
-00:13:26,165 --> 00:13:30,626
-forty countries, and friends in the European
-Commission. And I would like to hire you.
+00:13:27,944 --> 00:13:34,283
+have already given you one and it has spread faster
+than anything I have ever tried to
 
 164
-00:13:33,147 --> 00:13:38,409
-Carrick looked at the jam jar on the windowsill,
-where fifteen pieces of flattened lead
+00:13:34,303 --> 00:13:35,614
+spread on purpose.
 
 165
-00:13:38,429 --> 00:13:40,838
-caught the orange light from the street.
+00:13:36,014 --> 00:13:38,894
+I know. I wanted to see whether
+you would use it.
 
 166
-00:13:41,408 --> 00:13:47,035
-He had told Hannah Price, six months before, that
-they would need to find someone who
-
-167
-00:13:47,055 --> 00:13:53,214
-was not them. He had not imagined it would be a
-Norwegian heart surgeon with a pharmaceutical
-
-168
-00:13:53,234 --> 00:13:53,745
-company.
-
-169
-00:13:54,315 --> 00:13:59,859
-He had not imagined, either, that the voice at the
-back of his mind — the careerist, the
-
-170
-00:13:59,879 --> 00:14:05,234
-one that had wanted to go to Washington, the one he
-had thought was dead — would stir
-
-171
-00:14:05,254 --> 00:14:09,534
-at the sound of nine billion dollars, and
-sit up, and pay attention.
-
-172
-00:14:10,225 --> 00:14:11,307
-When do I start?
+00:13:39,294 --> 00:13:42,677
+He did use it. He used it for
+forty-eight years.
