@@ -16,8 +16,9 @@ fi
 WANT=$(python3 -c "
 import json, glob
 ids = {s['id'] for p in glob.glob('work/ch*/timeline.json') for s in json.load(open(p))['shots']}
-print(2 * len(ids))")
-HAVE=$(ls "$SRC"/*.jpg 2>/dev/null | wc -l)
+print(len(ids))")
+# one photograph per shot: second takes (_v1) are spares and are not counted
+HAVE=$(ls "$SRC"/*.jpg 2>/dev/null | grep -v -c '_v1\.jpg$')
 log "generated $HAVE of $WANT frames"
 if [ "$HAVE" -lt "$WANT" ]; then
   log "ABORT: generation incomplete; the procedural art is still in place and nothing was swapped"

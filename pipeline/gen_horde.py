@@ -53,8 +53,11 @@ def main():
     look = gen_images.looks()
     jobs = deque()
     total = 0
+    # one photograph per shot is all the film uses (see video.build_plan); second takes are
+    # only generated on request, as spares for replacing a bad frame
+    takes = ('',) if '--base-only' in sys.argv else ('', '_v1')
     for sid, p, yr in gen_images.shots():
-        for v in ('', '_v1'):
+        for v in takes:
             total += 1
             name = sid + v
             if not os.path.exists(os.path.join(OUT, name + '.jpg')):

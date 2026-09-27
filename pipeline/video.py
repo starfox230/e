@@ -193,18 +193,41 @@ def variants_of(shot):
     return out
 
 
+def punch_in(seed, dur):
+    """A tighter framing of the same photograph for the next beat of a long shot: the move a
+    documentary editor makes when a still has to hold for a minute."""
+    r = np.random.default_rng(int(hashlib.md5(seed.encode()).hexdigest()[:8], 16))
+    z0 = r.uniform(1.24, 1.32)
+    z1 = z0 + r.uniform(0.04, 0.07) * (1 if r.random() < 0.7 else -1)
+    fx0, fy0 = r.uniform(-0.35, 0.35), r.uniform(-0.3, 0.1)        # subjects sit centre-high
+    fx1, fy1 = fx0 + r.uniform(-0.12, 0.12), fy0 + r.uniform(-0.06, 0.06)
+
+    def at(t):
+        u = ease(t / max(dur, 1e-3)) * 0.85 + (t / max(dur, 1e-3)) * 0.15
+        return z0 + (z1 - z0) * u, fx0 + (fx1 - fx0) * u, fy0 + (fy1 - fy0) * u
+    return at
+
+
 def build_plan(tl):
-    """Split shots into sub-shots and build per-sub-shot camera moves."""
+    """Split shots into sub-shots and build per-sub-shot camera moves.
+
+    A shot is one photograph for its whole length. Long shots are broken into beats that cut
+    between framings of it -- wide, then a tighter punch-in, then wide again -- rather than
+    dissolving to a second generated take: two photographs of "the same" building or person
+    are two different buildings and people, and cutting between them mid-shot reads as a
+    continuity error. Crossfades are kept for the joins between shots, where the picture
+    really does change."""
     subs = []
     for s in tl['shots']:
         dur = s['end'] - s['start']
-        vs = variants_of(s)
+        path = image_path(s)
         n = max(1, int(round(dur / SUBSHOT)))
         seg = dur / n
         for k in range(n):
             st = s['start'] + k * seg
-            subs.append({'start': st, 'end': st + seg, 'path': vs[k % len(vs)], 'id': s['id'],
-                         'move': motion_for(f"{s['id']}_{k}", seg + XFADE), 'first': k == 0})
+            move = (punch_in if k % 2 else motion_for)(f"{s['id']}_{k}", seg + XFADE)
+            subs.append({'start': st, 'end': st + seg, 'path': path, 'id': s['id'],
+                         'move': move, 'first': k == 0, 'cut': k > 0})
     return subs
 
 
@@ -255,7 +278,7 @@ class Composer:
             cur = subs[si]
             src = Source.get(cur['path'], self.grade)
             frame = render_still(src, *cur['move'](t - cur['start']))
-            if si > 0 and t - cur['start'] < XFADE:
+            if si > 0 and t - cur['start'] < XFADE and not cur.get('cut'):
                 prev = subs[si - 1]
                 psrc = Source.get(prev['path'], self.grade)
                 pframe = render_still(psrc, *prev['move'](t - prev['start']))
