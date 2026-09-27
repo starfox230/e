@@ -42,7 +42,7 @@ WESKER: (very cold) No.
 [pause 0.5]
 ADOLF: (soft) I have not suggested anything.
 WESKER: You have suggested it for four years, in a dozen different ways, about a dozen different people, and the answer has been the same every time and will be the same when we are running four planets. Nobody dies for being clever near me. Not because I have a conscience — you of all things know I do not — but because a corpse is a *permanent* document, and I have spent seven years making sure this company has never generated one.
-N: The narrator notes, for the record, that this rule held for thirty-eight years, that it was broken once, in 2064, in another star system, and that Wesker regarded the breaking of it as the worst professional error of his second life.
+N: The narrator notes, for the record, that this rule held for seventy-seven years, that it was broken once, in 2110, in another star system, and that Wesker regarded the breaking of it as the worst professional error of his second life.
 WESKER: (soft) Find out where he drinks.
 N: Owen Carrick did not drink.
 

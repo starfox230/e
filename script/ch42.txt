@@ -1,120 +1,70 @@
-# 42 | The Administration
+# 42 | The Broker
 @movement VI | The Sky
 
-[music] m_corporate -10
-[amb] amb_office_hum
-[img] a vast quiet operations floor with hundreds of analysts at terminals, world maps and supply charts on the walls, orderly and calm, cinematic
-[loc] Arklay Free Territory — 2048
-N: Nobody tells you what it is like the day after you win.
-N: The stories all stop at the balcony. The crowd chants, the banner goes up, the panel says integration complete, and the curtain comes down — because the interesting part, in a story, is the getting. Nobody writes the part where the man who has taken the world sits down on a Tuesday morning in front of nine hundred pages about water.
-N: That is what the first years of the Umbrella Directorate actually were. Water. Grain. Antibiotics. Power grids in four hundred cities that had been deferred for forty years by governments that would not be in office when the bill came due.
-[pause 1.5]
-[img] {WESKER} at a plain desk reading a thick technical report, a wall of screens behind him showing infrastructure data, no ceremony, cinematic
-[sfx] sfx_keyboard g-10
-N: He was good at it. That is the part the narrator has to say plainly, because it is the reason none of it was ever undone.
-N: In the first decade of the Directorate, global childhood mortality fell by seventy-one percent. Four hundred million people were connected to a reliable electricity supply for the first time. The Sahel water programme, which nineteen international bodies had been unable to fund for thirty years, was built in six, because one entity decided to build it and no committee was permitted to slow it down.
-N: He did not do it out of compassion. He had said so from a balcony, in front of six billion people, and nobody had listened. He did it because a badly-run world offended him, and because a population that is fed, watered, and healthy produces more, resists less, and — the System was very clear on this point, in panels he read every morning — pays better.
-[pause 2.0]
-[sfx] sfx_system_chime
-[system] ASSESSMENT — QUARTERLY
-Population under direction: 8,900,000,000
-Fanaticism: stable, high
-Dissent: 0.4%
-Reward: 11,000,000,000 Points
-[say] Assessment. Quarterly.
+[music] m_alien -8
+[amb] amb_space -14
+[img] a strange elegant alien vessel drifting near a human orbital dock, stars, cold light
+[loc] Trans-Neptunian space — 11 August 2103
+N: They were not looking for us. That is the first thing, and the whole of the next fifty years turns on it.
+N: The Tollhouse Compact is a trading association of nineteen species, about four thousand years old, that operates on a principle so simple it took human diplomats a decade to believe it: *a market is cheaper than a war, always, at every scale, without exception.* It has no military. It has never held territory. It has been extinguished twice and rebuilt both times by the people who missed it.
+N: In August of 2103 a Compact survey vessel, on a route it had flown for nine hundred years, detected something that had not been there on the previous pass: four hundred and eleven artificial objects in a system that had been catalogued as *pre-contact, industrial, no traffic.*
+N: The Compact's rules for that situation are four thousand years old and take up eleven words. *Approach slowly, transmit continuously, offer first, and never arrive armed.*
+[img] {BROKER} a slender four-armed alien in ornate trade robes standing in a docking bay, many-lensed eyes
+[loc] Dock One — 4 September 2103
+N: The broker's name has nine syllables and the human record renders it as Ashet. It came aboard Dock One alone, unarmed, in a translucent envelope of its own atmosphere, and it brought — because the Compact's protocol requires a gift and because four thousand years of practice have made them extremely good at choosing one — a functioning cure for a human disease.
+N: Not a cure the Compact had developed. A cure it had synthesised in eleven days from broadcast medical literature it had intercepted on the approach, for a rare neurological condition that Umbrella's own people had failed to crack for forty years, and that affected about nine thousand people.
+N: The narrator notes that this was a deliberate choice: not a cure for something large, which would have looked like a demonstration of power, but for something small, which looked like *attention*.
+BROKER: (slow) You are the authority here.
+WESKER: (cold) I am an authority here. There are four hundred and eleven others and you will meet nine of them this week.
+BROKER: (slow) That is not what your own people say.
+WESKER: (soft) No. It is what our constitutional instruments say, and I have spent twenty years making the two converge, and you have arrived in the middle of the argument.
+N: Ashet's report to the Compact, which was published in the human record in 2119, contains a line that four generations of human historians have found unbearable.
+BROKER: (slow) *The subject's species appears to be governed by a single individual who is actively attempting to reduce his own authority and has been doing so, unsuccessfully, for approximately forty years. I have not encountered this configuration before. I recommend extreme caution: a power that is trying to give itself away is the most difficult kind to price.*
+
+[music] m_scheme -9
+[img] {BROKER} and {WESKER} seated across a low table in a bare bright room, translucent atmosphere envelope
+[loc] Dock One, the neutral room — September to December 2103
+N: The negotiation lasted four months and the narrator will give you the shape of it, because it is the last time in this account that Albert Wesker is the second most powerful thing in the room and he knows it.
+N: The Compact wanted three things: a trade station in the system, most-favoured terms on human biological science — which was, they said without embarrassment, the finest they had encountered in nine hundred years — and an undertaking that humanity would not arm.
+N: That last one was not a threat. It was a *sales pitch*. The Compact's entire proposition, four thousand years refined, is that a species which does not arm gets the Compact's protection, and the protection has held nineteen times in four thousand years, and the two occasions it failed are in every Compact schoolroom.
+BROKER: (slow) You have four kilometre hulls. You have a drive that we did not sell you and that your physics did not produce. You have an organism in cold storage at your ninth facility that I will not discuss in this room.
+BROKER: (slow) We are not asking you to disarm. We are asking you to stop, at the point you have reached, in exchange for four thousand years of accumulated reasons why every species that did not stop is a ruin that we trade over.
+[pause 0.8]
+WESKER: (very cold) And if we decline?
+BROKER: (slow) Then nothing whatsoever happens, Director. That is the part your people keep failing to hear. We do not punish. We simply do not shelter, and in about ninety years the Veth will arrive, and you will discover what that means without us standing between you.
+N: He accepted two of the three.
+N: The trade station was placed at the fourth Lagrange point in 2104 and is still there. The science agreement made Umbrella, within a decade, the largest single exporter of biological knowledge in nine hundred light years, and the narrator notes that it also gave eleven species access to Aeterna and that the Compact's own actuaries had to be rebuilt.
+N: He declined the third.
+WESKER: (cold) I am not going to promise that my species will not arm, because I am not entitled to promise it. There are eleven billion human beings, four hundred thousand of them in the Free Territory, and about nine hundred of them build ships in orbit, and I have spent forty years making it possible for them to refuse me.
+WESKER: (slow) You are asking me to use an authority that I have been trying to dismantle, in order to guarantee something for four hundred years, on behalf of people who are not born.
+[pause 0.6]
+WESKER: (very cold) You have been talking to me for four months. Tell me honestly: is that a refusal, or is it the only trustworthy answer you have had from this system?
+N: Ashet's reply was eleven words and it is carved, in Compact script and in nine human languages, on the wall of the station at L4.
+BROKER: (slow) It is the first answer I have not had to discount.
+
+[music] m_lo -9
+[img] a vast human fleet of ships in orbit around a blue planet, many hulls, floodlights, stars
+[loc] The solar system — 2104 to 2141
+N: The narrator will now cover thirty-seven years in a page, because this is a story about one man and because for thirty-seven years the story is not about him.
+N: Humanity went out. Not in an exodus and not in an empire: in about four hundred separate attempts, most of them badly funded, nine of which failed with loss of life, and eleven of which became something.
+N: The *Christina* made landfall in 2098 at a system the catalogue calls Kiln and its people call, for reasons that involve a joke about a welder, Ochoa. Mira Halder was its first elected administrator, and resigned after one term because she said the job should never be held by the person who built the place, and then spent forty years building other things and arguing with the people who did hold it.
+N: Raccoon City sent nine thousand people. The Arcology sent forty thousand, which was ten per cent of its population, and the Tuesday problem in the Free Territory — the consequence deficit, the four-times suicide rate — fell by two thirds inside a generation and nobody has ever entirely agreed why.
+N: The Progenitor lineage went out too. There were about four hundred of them by 2110: Evelyn Marsh's family and the families of the eleven people she had, after nine years of argument with the Directorate and the Hangzhou tribunal, been permitted to offer it to. Mira Reiss-Marsh, who was twenty-one, went to Ochoa on the second wave and did not tell anybody what she was for eleven years.
+N: And Umbrella stopped growing.
+[sfx] sfx_system_chime +0.3
+[system] UMBRELLA — AUDIT
+Territories: 19 · Population under administration: 11,400,000
+Population of the human sphere: 11,900,000,000
+Share administered by Umbrella: 0.09% and falling
+Absolute personnel remaining: 141,000 · release programme: 66%
+Points: +4,000,000 this quarter, the lowest since 2029
+[say] Umbrella, audit. Nineteen territories. Eleven million four hundred thousand people under administration, out of a human sphere of eleven point nine billion. Umbrella's share: nought point nought nine per cent, and falling. One hundred and forty-one thousand Absolute personnel remaining; the release programme is at sixty-six per cent. Four million Points this quarter, the lowest since 2029.
 [/system]
-N: Nought point four percent.
-N: Thirty-five million people, spread across a planet of nearly nine billion, who did not agree. The System counted them every quarter, in a line of small text, and never once suggested what to do about them.
-[pause 2.0]
-
-[music] m_rain_piano -10
-[img] a modest apartment in Lagos with books and framed photographs, an elderly woman at a desk writing by hand, warm evening light, cinematic
-[loc] Lagos — 2049
-N: Doctor Nadia Okafor was sixty-four years old and had been writing the same book for nineteen years.
-N: She had left Umbrella in twenty twenty-nine, walked out into the rain without opening an umbrella, and filed a complaint that had started everything — the CDC, the Bureau, Carrick, all of it. She had been right about every single thing in it. She had also been, from the moment the Court of Chancery wrote footnote fourteen, a woman that serious people were careful not to be photographed with.
-N: She had gone home to Lagos in twenty thirty-four. She had taught virology at a university for fifteen years, and been an excellent teacher, and been quietly passed over for every chair she applied for, because the university's new science faculty had been built by the Umbrella Foundation and nobody had to be told anything.
-[img] {NADIA} elderly, writing at a desk, a thick handwritten manuscript beside her, a window open to a noisy city, cinematic
-N: The book was called The Thing In The Basement. It was four hundred pages long. It was meticulous, and sourced, and unhysterical, and it named dates and shipping manifests and a black binder on a bench on the ninth floor in February twenty twenty-nine.
-N: Nine publishers read it. Four of them said it was the most important manuscript they had ever been sent. None of them published it. Two said so honestly, over a drink, off the record, in words that amounted to the same thing: we would not survive it, and neither would you.
-[pause 1.5]
-[img] {NADIA} at an open window at night looking out over a huge city of lights, the manuscript on the desk behind her, cinematic
-[sfx] sfx_mouse_click g-8
-N: She published it herself, in twenty fifty-one, as a file, for nothing, from a server in a country that no longer exists.
-N: It was downloaded four million times in the first month. It was never taken down — the Directorate did not take things down; Tomás's successors had understood for a generation that suppression is what makes a document holy. It was simply surrounded, within nine days, by four hundred thoughtful articles explaining its context, and by a documentary, and by the recollections of eleven of her former colleagues, all of whom spoke about her with enormous warmth and visible sadness.
-N: By twenty fifty-four, if you searched her name, the fourth result was a serious, sympathetic, scrupulously sourced account of a brilliant scientist whose career had been destroyed by an obsession.
-N: She lived to ninety-one. She is in every history of the period. She is always in the same paragraph, and the paragraph always contains the word tragic.
-[pause 2.0]
-N: He caught himself waiting for an answer.
-N: There was none to have. He had asked the question out of habit — what do we do about the woman in Lagos — and had noticed, four seconds later, that there had been nobody to ask for two years.
-N: He did nothing about the woman in Lagos. He had never needed to.
-[pause 2.5]
-
-[music] m_sad -8
-[amb] amb_night_city
-[img] {TOMAS} in his sixties, greying, standing alone on a balcony above a river at night with a glass of water, city lights, cinematic
-[loc] The Brandywine, Delaware — 2058
-N: Tomás Reyes stopped taking the therapy in the spring of twenty fifty-eight, and told nobody, and it was four years before anyone noticed.
-N: He was sixty. He had been chief narrative officer for twenty-six years, and then, from twenty forty-nine, Director of Public Understanding for the Umbrella Directorate, which was the same job with a title that made him tired.
-N: He had shaped what nine billion people believed for a generation. Everything he had ever put out had been true — that had been his rule since twenty thirty, and he had kept it, and it had cost him more than lying would have. He had simply chosen, four thousand times, which true things nine billion people would see first.
-[pause 1.5]
-[img] {TOMAS} sitting alone in a dim room watching an old grainy twenty-second phone clip on a screen, his face lit blue, cinematic
-N: He still played the break-room clip. He had played it, by his own count, forty-one thousand times.
-N: In twenty sixty-two, when he was sixty-four and visibly ageing among colleagues who were not, the Director came to the house on the Brandywine.
-[pause 1.5]
-WESKER: You've stopped.
-TOMAS: Four years ago.
-WESKER: Why?
-[pause 2.0]
-TOMAS: (soft) Because I'm the only one left who was in the room, Doc. Dana's gone. Walter's gone. Evelyn's — Evelyn's whatever Evelyn is now. Catherine's in Ireland refusing to answer her phone. And I look around a table and every single person on it has been made by us, and none of them has ever been in a room where we couldn't make payroll.
+WESKER: (soft) The lowest since 2029.
+SYSTEM: (flat) Yes.
+WESKER: (cold) Am I doing badly?
 [pause 1.0]
-TOMAS: I've spent thirty-six years explaining you to the human race. I'd quite like to stop before I stop being able to tell whether I'm explaining or just — saying.
-[pause 2.0]
-N: The Director sat with him on the balcony for a long time. It was the only recorded instance of him cancelling an Accord Council session, other than one, sixty-seven years later, in the Keel of Arklay.
-WESKER: You could have asked me for anything. In thirty-six years you never asked me for one thing.
-TOMAS: (soft) I know. That's how I knew I still worked for you and not the other thing.
-[pause 2.5]
-N: Tomás Reyes died in twenty sixty-six, at sixty-eight, in the house on the Brandywine, with the sound off.
-N: He left instructions that there was to be no public observance of any kind, and the Directorate honoured them exactly, which was itself the most enormous public observance imaginable: nine billion people noticed, on the same afternoon, that nothing at all was being said.
-[pause 2.5]
-
-[music] m_tension -10
-[img] a modern debating chamber with rows of empty seats and a handful of delegates speaking to each other, sunlight, a sense of pointlessness, cinematic
-[loc] The problem of dissent — 2055 to 2070
-N: There was opposition. It is important to record what happened to it, because what happened to it was not violence.
-N: In twenty fifty-five a coalition of eleven national parliaments — the last eleven in which a genuine opposition still sat — proposed the Sovereignty Restoration Compact, which would have withdrawn its signatories from Article Nine and rebuilt independent manufacturing capacity over thirty years.
-N: It was a serious proposal, written by serious people, and the Directorate's response was the most sophisticated thing it ever did.
-[img] a government minister at a press conference standing in front of a detailed cost projection chart, looking uncomfortable, cinematic
-[sfx] sfx_paper g-8
-N: It published the numbers.
-N: Every one of them. The complete cost of rebuilding parallel pharmaceutical capacity in eleven countries — honestly costed, by the only organisation on Earth that actually knew, with no exaggeration whatsoever, because exaggeration would have been catastrophic if caught. The projected interruption in supply. The projected excess mortality during transition, by country, by age band, with the methodology attached in full for any expert to check.
-N: The number for the eleven countries, over thirty years, was four hundred thousand additional deaths. It was accurate. Four independent academies checked it, including two that loathed Umbrella, and all four confirmed it within nine percent.
-[pause 1.5]
-N: The Directorate did not campaign against the Compact. It published the figure, offered to fund the transition itself if the parliaments voted for it, and said nothing else.
-N: Nine of the eleven parliaments voted it down within a year. The two that passed it held referendums, as their constitutions required. Both referendums failed, by margins of sixty-one and seventy-four percent.
-[pause 1.5]
-N: The voice inside him, barely a murmur.
-ADOLF: (soft) You did not even have to lie.
-N: He had not thought that. It had simply arrived, in his own voice, in a room on the fourth floor with no name on the door, and he had noticed it arriving, and had not been able to decide whether it was a memory or a habit.
-[pause 2.5]
-
-[music] m_horror -10
-[img] a classroom of teenagers on an ocean city, bright and engaged, a teacher at a board, a red and white emblem small in the corner, cinematic
-[loc] The first generation — 2061
-[sfx] sfx_creed_crowd g-18
-N: In twenty sixty-one, the first human beings who had been born after the Accord turned fourteen.
-N: They had never lived in a world with more than one answer in it. They had never seen an election that decided anything, or a shortage, or a war, or a pandemic, or a border that mattered. They were healthier, taller, better educated, and by every instrument anyone could devise, happier than any generation in the history of the species.
-N: The Directorate's own longitudinal study — four hundred thousand subjects, run honestly, published in full — found one statistically significant anomaly in that cohort, and the Director read the paper himself, four times, on the night it was published.
-[img] a research paper page on a screen with a single highlighted finding and a chart showing a flat line where variation would be expected, cinematic
-N: Under stress, when asked to make a decision in conditions of genuine uncertainty, the cohort's response time was markedly slower than every preceding generation's, and its confidence markedly lower.
-N: The paper's authors — who were Umbrella scientists, and who published it because the Director had personally established in twenty forty-nine that Directorate science would publish everything or it would not be science — offered four possible explanations, and concluded that more work was needed.
-N: He knew exactly what it was. He had built it deliberately, over thirty-four years, and it had worked, and a research group had just measured it in the children.
-[pause 2.0]
-[img] {WESKER} alone at night in a dark office with one paper open on a screen, his face lit by it, unreadable, cinematic
-N: He read the paper four times, and then he sat in the dark for a while.
-N: There was a version of this story in which he did something about that finding. The narrator has looked for it, in four hundred years of Directorate records, and it is not there. He funded the follow-up study generously. He read every one of them for the next three centuries. He never once acted on any of them.
-N: Because the alternative was to reintroduce, deliberately, into a species that had finally stopped fighting itself, the thing that had made it fight: disagreement. Real disagreement, with real stakes, and real mistakes, and real consequences, and a hundred million people dead somewhere down the line of it, because that is what disagreement costs and always has.
-N: He had done the arithmetic. He always did the arithmetic. It came out the same way every time, for three hundred and sixty years.
-[pause 2.0]
-N: Evelyn Marsh had once told him she was the only person in the building who had actually counted. She had been wrong about that. There were two of them.
-[pause 3.0]
-[music] stop
+SYSTEM: (flat) You are doing something I have no measure for. Your species is growing at a rate that has no precedent in my record. Your organisation is shrinking, deliberately, at your own instruction. I pay for consequence and the consequence is enormous and almost none of it is now attributable to you.
+SYSTEM: (flat) In four hundred and eleven worlds, no host has ever run this experiment. I would like to see how it ends.
+N: The narrator notes that in 2141 the Veth Hegemony arrived thirty-nine years ahead of the Compact's estimate, and that it did not find a single man with an empire.
+N: It found eleven billion people spread across four hundred worlds who had spent forty years learning how to argue, and one very old thing in a black coat standing quietly at the back of the argument, who had been waiting for them since 2103.

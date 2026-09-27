@@ -1,138 +1,69 @@
-# 43 | Dock One
+# 43 | The Veth
 
-[music] m_space -8
-[amb] amb_space -10
-[img] Earth seen from orbit at night with the terminator line, city lights below, and a long white structure being assembled in the dark above, cinematic
-[loc] Low Earth orbit — 2049
-N: While the Directorate learned to govern a planet, its Director was looking in the other direction.
-N: The BEYOND tab had four items in it on the first night. He could afford none of them.
-N: Eighty-four billion Points had bought a world. The cheapest thing behind the seventh tab cost nine hundred billion.
-N: That was, he understood immediately, the answer to a question he had been carrying for twenty-one years — why the System had ever bothered with a dying laboratory in Delaware. It had not been building a businessman. It had been raising the capital.
-[pause 1.5]
-[img] a glowing crimson holographic list of four impossible items with vast prices, floating in a dark room, cinematic
-[system] BEYOND
-Orbital Dock — 900,000,000,000
-Void-Cutter hull pattern — 4,000,000,000,000
-Immunity: vacuum, short duration — 1,200,000,000,000
-Immunity: radiation, broad spectrum — 1,400,000,000,000
-[say] Beyond.
-[/system]
-N: And beneath them, greyed out, without prices, eleven more lines that he could not read at all.
-[pause 2.0]
+[music] m_horror -8
+[amb] amb_space -14
+[img] an immense armoured alien warship emerging from darkness near a small human colony, stars, cold light
+[loc] The Ochoa system — 4 April 2141
+N: The Veth Hegemony is older than the oceans of Earth. It has four hundred thousand worlds, a caste structure that has not changed in nine hundred thousand years, and a founding doctrine that the human record translates, imperfectly, as *the settled question.*
+N: The settled question is this: every species that reaches the void either submits to an order or imposes one, and the Veth reached the void first, and therefore the order exists, and therefore submission is not a defeat but an administrative formality that has already taken place and merely needs to be acknowledged.
+N: They have annexed eleven hundred species. They have fought four wars in ninety thousand years. The wars are short.
+N: They arrived at Ochoa — a human colony of nine hundred thousand people, forty-three years old, with a dock, two ships and a hydroponic economy — on the fourth of April 2141, with eleven vessels, and they did not fire.
+[img] a colonial administrator and officials facing a huge holographic alien figure in a colony council chamber
+VETH: (slow) You are informed. The system is within the settled order. Your administration continues. Your production is assessed at one part in nine. Your vessels will be registered. A garrison will arrive in four hundred days.
+N: The colony's administrator — a woman of sixty-one named Theresa Okonkwo-Vance, who had been elected eleven months earlier on a platform about water rights — asked the question that every annexed species has asked and that the Veth have a standard answer for.
+WOMAN: (slow) And if we decline?
+VETH: (slow) Then the system is within the settled order, your administration does not continue, and a garrison arrives in four hundred days.
+N: She transmitted the exchange to Earth and to every human world, in the clear, unencrypted, within the hour, which was not in any protocol and which is the reason the next fifty years went the way they did.
+N: Nine hundred and eleven human settlements received it inside four months. By the time it reached Earth the argument had already been running for a third of a year on four hundred worlds, in public, and Albert Wesker had not said a word.
 
-[music] m_corporate -10
-[img] a vast industrial complex under construction on a desert plain with launch gantries and enormous fabrication halls, cranes and rail lines, cinematic
-[loc] 2047 – 2053
-N: What followed was the largest industrial mobilisation in the history of the species, and it was not done with Points.
-N: He had, in twenty forty-seven, four hundred and eighty thousand employees, a hundred and ninety million people in territories of association, the executing authority of a hundred and forty-one governments, and the accumulated manufacturing capacity of four of the six largest industrial groups on Earth. He also had, from the moment the Accord was signed, the thing that no private enterprise had ever had before: the ability to decide what the human race would build next, and to make that decision stick for thirty years.
-N: He decided on space.
-[img] enormous rocket first stages standing in rows at a spaceport, hundreds of them, workers dwarfed beneath, dawn, cinematic
-N: The public reason was true, and good, and had been worked out by Tomás's department over four months so that every word of it would survive a century of quotation: that a species with one planet is a species with one point of failure, and that the Accord's entire purpose was the removal of points of failure.
-N: The private reason was that he had seen eleven greyed-out lines that he could not read.
-[pause 1.5]
-N: The Directorate built launch capacity the way the nineteen-forties had built ships. Not one vehicle at a time — an assembly line, in the Atacama, and another in Queensland, and a third at Kourou, turning out a reusable heavy-lift stage every nine days. By twenty fifty-one, Umbrella was putting more mass into orbit every month than the human race had put up in its entire previous history.
-[pause 1.5]
-[img] a colossal white structure in orbit, kilometres long, with ships docked along its spine and Earth turning below, cinematic wide shot
-[sfx] sfx_docking_clamp g-9
-N: Dock One was assembled between twenty fifty-one and twenty fifty-six, in a four-hundred-kilometre orbit, from four hundred thousand tonnes of material that had been lifted from Earth and thirty-one million tonnes that had not.
-N: The second number is the one that mattered, and it is the reason the Belt came before the Moon. Umbrella did not go to space to plant flags. It went to eat.
-[pause 2.0]
-
-[music] m_corporate -10
-[amb] amb_office_hum
-[img] a crowded launch viewing area at a spaceport, families and workers watching a heavy lift vehicle rise, children on shoulders, dawn, cinematic
-[loc] Atacama — 2053
-N: There is a thing about the space programme that the Directorate's own historians tend to bury in an annex, and it deserves better, because it is the closest Albert Wesker ever came to doing something for a reason he could not justify on a spreadsheet.
-N: He made it public. All of it.
-N: Every launch was broadcast. Every failure was broadcast — and in the first four years there were nine, and four of them killed people, and every single one was carried live, with the names released within the day, over the objections of four separate bodies of the Directorate who pointed out, correctly, that no state space programme in history had ever done this.
-[img] a grim control room after a launch failure, engineers with their heads in their hands, a screen showing a debris trail, cinematic
-[sfx] sfx_explosion_distant g-6
-N: The first was the Coronado in twenty fifty-two, which broke up at forty kilometres with four crew aboard. The broadcast did not cut away. The Directorate's public feed carried the telemetry, and the silence in the control room, and then, nine minutes later, the flight director — a woman of thirty-four named Priya Ramanathan, who had not slept in two days — reading the four names into an open microphone because nobody had told her not to.
-N: Four billion people watched it. It is the single most-viewed piece of Directorate footage that does not involve the Director himself.
-[pause 1.5]
-N: He was asked about it once, years later, by an engineer who had been in that control room, and who had the nerve to ask why.
-WESKER: Because in four hundred years there will be nine billion human beings living off this planet, and every one of them will be there because somebody's grandmother watched a rocket fall apart on a screen in twenty fifty-two and put her hand over her mouth and then, the following week, applied for the programme anyway.
+[music] m_tension -9
+[img] a vast assembly hall with delegates from many worlds on screens, a crowded chamber, formal
+[loc] The Human Assembly, the Arcology — 19 September 2141
+N: The narrator wants to describe the body that decided this, because it did not exist in 2091 and because building it is the only thing Albert Wesker ever did that he could not do quickly.
+N: The Human Assembly had four hundred and eleven seats, elected from the worlds by population, meeting on Earth and by relay. It had existed for nineteen years. It controlled the shared defence budget, the Compact treaties, the drive registry and the Progenitor protocols, and it had no executive at all: the Directorate implemented what it voted, and the Hangzhou tribunal ruled on whether the Directorate had.
+N: Umbrella held no seats. Albert Wesker had a chair on the floor, not on the benches, with the status of a witness who may be called and may not vote, and he had proposed that arrangement himself in 2119 and the Assembly had spent four years arguing about whether it was too generous or an insult before adopting it unchanged.
+N: On the nineteenth of September 2141 the Assembly called him.
+[img] {WESKER} standing alone on a debating floor facing tiers of seated delegates, formal chamber
+SENATOR: (slow) Director, the Assembly has four proposals before it. Submit. Refuse and negotiate. Refuse and fight. Evacuate Ochoa.
+SENATOR: (slow) You are the only person alive who has fought anything. You are also, by your own repeated statement, not entitled to decide this. So I am going to ask you the only question the Assembly can properly ask a witness. What is true?
 [pause 1.0]
-WESKER: You cannot build that with a press release. You can only build it by letting them watch the real thing, including the parts that are unbearable.
-[pause 1.5]
-N: The engineer, who had spent nineteen years assuming the policy was a calculation, said that he had always wondered whether it was for the families.
-N: The Director looked at him for a moment and said: it was a calculation. And then he walked away, which the engineer recorded in his memoirs, and which he said, forty years later, he had never been able to interpret.
-[pause 2.5]
-
-[music] m_space -6
-[img] a mining vessel with enormous grapples clamped onto a dark asteroid, refinery flares, stars and blackness around it, cinematic
-[loc] The Belt — 2054
-N: The first asteroid Umbrella captured was called 1993 UB, and it was six hundred metres across, and it contained more nickel and iron than the human race had mined since the Bronze Age.
-N: By twenty fifty-nine there were four hundred and eleven Umbrella vessels working the Belt, and the price of structural metal on Earth had fallen by ninety-one percent, and eleven national economies that had depended on mining had been absorbed into association agreements, which was not an accident, and which Catherine Adeyemi had modelled in twenty forty-eight and put in a memo that was read and answered courteously and in full.
-[pause 1.5]
-[img] a Martian settlement of white domes and buried habitats on red rock under a dusty pink sky, a red and white emblem on a landing pad, cinematic
-N: Mars was settled in twenty sixty-one, because by then it was cheap, and because a hundred and ninety million people in the territories of association had been told for a decade that they were building a future off-world, and the Directorate required that this be true.
-N: Nineteen thousand people went in the first wave. Four hundred thousand had volunteered. The selection criteria were published in full, and were scrupulously fair, and one of the eleven criteria was loyalty, and it was listed fourth, and nobody objected, because by twenty sixty-one nobody objected to anything.
-[pause 2.0]
-
-[music] m_horror -10
-[amb] amb_lab -8
-[img] a white laboratory in orbit with a woman in a lab coat floating beside a tank of pale fluid, Earth visible through a window behind her, cinematic
-N: Evelyn Marsh moved her laboratory to orbit in twenty fifty-eight. She was sixty-two years old and looked perhaps thirty-five.
-N: The Progenitor Initiative had eleven hundred staff by then, and the great majority of them had never been human in the way that word is usually meant. Its work had three branches. The first was the quiet ones, and there were now four hundred of them, in positions across the Directorate, and none of them had ever disobeyed anything.
-N: The second was the Tyrant line, which had moved on considerably from a grey giant in a cradle. There were nine variants by twenty fifty-eight. Four of them were not humanoid.
-N: The third branch had no name in any document, and its purpose was to answer a question that Evelyn Marsh had first asked in twenty twenty-eight, standing in front of a frosted window with her palm flat against the glass: what happens to a human being who is given all of it, and does not die?
-[pause 2.0]
-[img] {EVELYN} looking at her own reflection in a dark laboratory window with Earth turning behind it, her eyes faintly bright, cinematic
-N: She was the third branch. She had been for nineteen years. She reported it to him every time, in memos of four lines, exactly as she had promised in a white corridor in twenty thirty-six.
-N: He read every one. He never once told her to stop.
-[pause 2.0]
-
-[music] m_space -8
-[amb] amb_ship_hum -8
-[img] a vast dark ship hull under construction in orbit, angular and wrong-looking, no windows, no markings, dwarfing the workers, cinematic
-[loc] Dock One — 2066
-N: He bought the hull pattern in twenty sixty-six. Four trillion Points, accumulated over nineteen years from the dependency of a species.
-[sfx] sfx_reactor_hum g-14
-N: The first void-cutter was two point eight kilometres long, and it was not shaped like anything human beings had built before. Every ship the species had ever made had been an argument with physics that ended in a compromise: fuel here, crew there, radiators, symmetry. The pattern from the seventh tab did not compromise. It was a long dark wedge with no windows and no markings and no visible drive, and the engineers who assembled it — the human ones — found that they could follow the instructions perfectly well and could not, afterwards, explain what most of it did.
-[img] a colossal dark wedge-shaped vessel hanging in orbit with Earth reflected dully on its surface, no lights, ominous, cinematic
-N: It was called the Wilmington.
-N: Tomás's department had prepared a list of four hundred names, drawn from a public competition that eleven million people had entered. The Director read the list, and did not use it, and named the first ship of the human race's first fleet after an industrial park on the south bank of a river in Delaware where six people had once been unable to make the payroll.
-N: Nobody understood. It became, over the following century, the most sacred word in the language.
-[pause 2.0]
+WESKER: (slow) Four things.
+WESKER: (cold) One. If we fight them with what we have, we lose. Not narrowly. I have had the Red Queen on it since April and the model does not have an outcome in which a human fleet engages a Veth battle group and anything human survives the engagement. Anyone who tells this Assembly otherwise is selling you something.
+WESKER: (slow) Two. If we submit, we survive, and the terms are genuinely one part in nine, and the Veth have honoured that assessment for ninety thousand years, and eleven hundred species live under it and most of them are not unhappy. I want that on the record honestly. Submission is not extinction. It is a tax and a garrison and a ceiling.
+WESKER: (very cold) Three. The ceiling is the point. Under the settled order no species may hold a drive it did not receive from the Hegemony, may not exceed an assessed production, and may not — this is the clause that matters — alter its own biology without licence. Aeterna is unlicensed. The Progenitor lineage is unlicensed. There are four hundred thousand human beings alive today who would be, under Veth law, a category the translation renders as *unpermitted persons*.
+[pause 0.8]
+SENATOR: (slow) And the fourth thing?
+WESKER: (very soft) The fourth thing is that they have made a mistake, and I do not think anybody in this chamber has seen it yet, and I have been looking at it for five months.
+N: The narrator asks you to notice that Albert Wesker, at this point, had been alive in this world for one hundred and fifteen years, and had not personally won anything since 2077.
+WESKER: (cold) The Veth have annexed eleven hundred species. In every case they have approached a species' *authority* — a throne, a council, a hierarch — and informed it, and the authority has either acknowledged or been removed and replaced with one that would.
+WESKER: (slow) Their protocol has no procedure for a species that cannot be informed, because it does not have a single point that speaks for it.
+WESKER: (very cold) There are four hundred and eleven worlds, eleven billion people, nine hundred settlements, four legal systems and this Assembly, which cannot bind a colony that votes against it. If every one of those bodies answers the Veth separately, at its own pace, in its own words, with different answers, the Hegemony is confronted with an administrative condition it has not encountered in ninety thousand years.
+SENATOR: (slow) You are proposing that we defeat an interstellar empire with *paperwork*.
+[pause 0.6]
+WESKER: (soft) Senator, I built a company that owned half this planet's infrastructure and no government ever laid a finger on it, and I did it with nothing else.
 
 [music] m_alien -8
-[amb] amb_space -6
-[img] a radio telescope array on the far side of the Moon at night, dishes angled at a black sky full of stars, cinematic
-[loc] Farside Array, the Moon — 11 March 2071, 04:00 UTC
-N: The signal arrived on the eleventh of March, twenty seventy-one, at four in the morning, and it was not a message.
-N: That was the first thing the Directorate's astronomers established, and it took them nine days, and it was the only thing about it that was ever comforting. It had no structure of the kind a message has. It did not repeat. It was not aimed at Earth.
-N: It was a carrier — a continuous, extremely narrow, extraordinarily powerful transmission at a frequency nobody had ever bothered to watch, passing through the solar system on its way somewhere else, the way a searchlight passes across a field without stopping.
-[img] a waveform display of an unnatural signal on a dark screen, perfectly smooth and impossible, scientists frozen watching it, cinematic
-[sfx] sfx_radio_static g-8
-N: They traced its origin in four months. It came from a direction thirty-one degrees off the plane of the ecliptic, and from very far away, and from something that was moving.
-N: And in the ninth month, having listened to it continuously, the Farside Array established the thing that ended the human race's childhood.
-N: The carrier was modulated. Not with information — with load. It flickered, very slightly, in a pattern that the array's engineers recognised immediately because they had seen it a thousand times in their own systems.
-N: It was the signature of something drawing power. Enormous amounts of it, in bursts, irregularly.
-N: Whatever was out there was not broadcasting. It was working.
-[pause 3.0]
-
-[music] m_horror -6
-[img] {WESKER} standing alone in a darkened orbital observation deck looking out at the stars, Earth's limb glowing below, tiny against the void, cinematic
-N: He read the report alone, in an observation deck on Dock One, with the Earth going past underneath.
-N: He was eighty years old and looked thirty-five. He had ruled the human species for twenty-four years, and had, in that time, done a very great deal of good, which the narrator will not take away from him, and which does not cancel anything.
-N: And he stood at the window and looked out at a sky that had, four hours earlier, stopped being empty.
-[pause 2.0]
-N: There was nobody to say it to. That was the thing.
-N: For twenty-one years there had been another voice in that skull, and it would have had something to say about this — something historical, and contemptuous, and probably wrong. It had been silent for twenty-four years. He had stopped expecting it. He had stopped, mostly, remembering that it had ever been there, in the way you stop hearing a clock.
-N: But standing at that window, looking at a sky with something working in it, Albert Wesker found that he wanted, very much, to turn to somebody and say: do you see?
-[pause 2.0]
-N: And he did turn. Physically. In an empty observation deck, at four in the morning, three hundred kilometres above the Earth, an eighty-year-old man in a black coat turned his head to speak to somebody who had not been there for twenty-four years.
-N: Nobody answered.
-[pause 2.5]
-[sfx] sfx_system_chime
-[system] BEYOND
-Access: expanded
-Eleven entries unlocked
-[say] Beyond. Access expanded.
-[/system]
-[pause 1.5]
-N: The greyed-out lines resolved.
-N: He read them, standing at the window, with the Earth turning below and the stars going past. And for the first time since a washroom in the rain in September twenty twenty-six, Albert Wesker had absolutely no idea what he was looking at.
-[pause 3.0]
-[music] stop
+[img] a vast alien command chamber with an armoured admiral among ranks of officers, cold light
+[loc] Veth flagship, the Ochoa system — 2142 to 2149
+N: It took seven years and it is the most-studied campaign in human history, and not one human being died in it.
+N: Ochoa acknowledged the settled order in 2142, unanimously, and then filed four hundred and eleven procedural queries about the assessment, which the Veth protocol requires be answered individually before a garrison may be seated.
+N: The Free Territory refused outright and invited a garrison, which arrived and found a platform city of four hundred thousand that had voted, nine days earlier, to dissolve its own administration, so that there was nothing for the garrison to be seated over. It sat there for eleven years.
+N: Sixty-one colonies acknowledged. Forty refused. Nineteen acknowledged and then seceded from the Assembly, which under Veth law made their acknowledgement void and required a fresh approach.
+N: The Compact — which has no military and has never held territory and which had spent thirty-eight years watching humanity with an interest that its own historians called *unseemly* — filed nine hundred trade objections, every one of them valid under a treaty the Veth had signed in the human year 1611.
+N: And the Veth admiral, whose name renders as Sethra-Ka and who had annexed forty species in her career without ever raising her voice, requested a summit.
+[img] {VETH} an armoured reptilian alien admiral seated across a table from {WESKER}, cold alien chamber
+[loc] The flagship — 4 June 2149
+VETH: (slow) You are the cause of this.
+WESKER: (cold) No. I proposed it. Eleven billion people decided to do it, in about four hundred separate votes, over seven years, and about a third of them did it wrong and two colonies did it in a way I strongly advised against.
+VETH: (slow) You are the authority.
+WESKER: (very cold) Admiral, that is the assumption your entire order rests on, and it is the only thing you have got wrong. I have been trying to stop being the authority since I was a hundred and eleven years old. It has taken me seventy years and it is not finished and it is the hardest thing I have ever done.
+[pause 1.0]
+VETH: (slow) Why.
+N: The narrator records that the question was one word, that the translation software rendered it without punctuation, and that Albert Wesker took a long time over the answer.
+WESKER: (slow) Because I was given a catalogue and no oversight when I was young, in another world, and I built something magnificent out of it, and then I did it again here, and both times the thing I built was perfect and nobody in it could say no to me.
+WESKER: (cold) The first one ended in a volcano. This one is going to end in an argument that will run for nine hundred years and that I will not win, and I have come to prefer the second outcome, and it took me about sixty years to arrive at that and I am not certain I would arrive there again.
+[pause 0.8]
+VETH: (slow) The settled order has held for ninety thousand years.
+WESKER: (very cold) Yes. And in ninety thousand years it has produced eleven hundred species that have never once surprised you, and one afternoon in a system of no importance you were surprised by a hydroponic colony with two ships. I would ask you to consider what that is worth, because it is the only thing in this room that neither of us can manufacture.
+N: The Hegemony withdrew from the Ochoa system in 2151 under an instrument it insisted on calling a *deferral of assessment*, and which every species in nine hundred light years read correctly.
+N: It is the only recorded case of a Veth withdrawal without combat in ninety thousand years, and the Veth have never permitted it to be called anything else, and the Compact has a word for it that the human record renders as *the long polite no*.

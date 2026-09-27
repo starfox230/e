@@ -1,185 +1,91 @@
-# 40 | Beijing and Moscow
+# 40 | Beyond
 
-[music] m_scheme -8
-[amb] amb_wind -10
-[img] the Great Hall of the People in Beijing seen across the square at dusk, red flags, formal and immense, cinematic
-[loc] Beijing — October 2046
-N: The last government on Earth that could have stopped him invited him to dinner.
-N: It had taken two years to arrange, through four intermediaries, and the terms had been negotiated with the seriousness of an arms control treaty. He would come without security. There would be no announcement, before or after. There would be no photographs. And there would be one other person at the table, who would not be named in any record, because she did not officially exist in any capacity that would permit her to sit at that table.
-[img] {WEN} in her seventies in a dark tailored jacket, silver-haired, seated alone at a round table in a private dining room, waiting, cinematic
-N: Wen Shulan was seventy-one. She had been a deputy minister of state security for eleven years and then something without a title for eight more, and she had spent twenty-two years, on and off, reading everything there was to read about Albert Wesker.
-N: She had been right about him before anyone else on Earth, and she had never once been able to say so in a sentence that would not have ended her career.
-[pause 1.5]
-[img] a private dining room with a round table set for three, dark wood, a single scroll on the wall, no windows, cinematic
-N: The third person at the table was a member of the Politburo Standing Committee whose name does not matter to this story, and who said perhaps forty words all evening, and listened to every one of the rest.
-[pause 1.5]
-
-[music] m_horror -12
-WEN: You have taken eleven countries.
-WESKER: Association agreements with two states and nine provinces. Nobody's flag has changed.
-WEN: Doctor Wesker. We are three people in a room with no recording. Let us not waste the evening.
-[pause 1.0]
-WESKER: (soft) Fourteen, then. There are three more that haven't been announced.
-[pause 1.5]
-N: The Standing Committee member did not look up from his soup. Wen Shulan smiled — the second smile anyone at the Ministry had ever recorded from her.
-WEN: Thank you.
-[pause 2.0]
-
-[music] m_tension -10
-[img] {WEN} and {WESKER} across a round table, both still, tea being poured by an unseen hand, tense equilibrium, cinematic
-[sfx] sfx_paper g-12
-N: What followed was the most consequential conversation of the twenty-first century, and the least dramatic.
-N: There was no threat. Both sides had worked out, years before, exactly what threats were available and exactly why none of them worked. China could not embargo Umbrella; a fifth of its own pharmaceutical supply and most of its vaccine capacity ran through the joint venture in Singapore. Umbrella could not coerce China; China made forty percent of everything Umbrella's factories assembled, and had done for a generation, and had spent fifteen years quietly ensuring that this remained true.
-N: They were not enemies. They were the only two structures left on Earth of comparable weight, and they both knew it, and the entire evening was about establishing, precisely, where the line ran.
-[pause 1.5]
-WEN: You will not take our provinces.
-WESKER: No.
-WEN: You will not take the provinces of our neighbours who look to us.
-WESKER: That's a longer list than the first one.
-WEN: It is.
-[pause 1.0]
-WESKER: Then let's write it down. Not as a treaty — neither of us can sign a treaty. As a map, with names on it, which neither of us will ever show to anybody.
-[pause 1.5]
-N: They spent four hours on the map. It was the only physical object produced that evening, and there were two copies, and both of them still exist, and one of them is in a vault under a mountain outside Beijing, and the other is on Arklay.
-N: It divided the surface of the Earth into three parts: what was China's, what was Umbrella's, and what was neither — which, in twenty forty-six, was most of it.
-[pause 2.0]
-[img] a hand-drawn world map on heavy paper with regions marked in two colours and a large uncoloured area in the middle, a fountain pen beside it, cinematic macro
-N: It held for nineteen years. That is a very long time, for a line drawn on a map by two people who had no authority to draw it.
-[pause 1.5]
-
-[music] m_sermon -12
-[img] {WEN} and {WESKER} alone at a table late at night, the third chair empty, tea cold, the atmosphere changed to something more personal, cinematic
-N: At eleven o'clock the Standing Committee member thanked them both, and left, and did not come back. That had also been arranged.
-N: Wen Shulan poured the last of the tea.
-WEN: May I ask you something that is not business?
-WESKER: You've earned one.
-WEN: Twenty-two years ago I watched a recording of you sitting in silence on an American television programme, and I recognised the rhythm of it. I have never been able to say to anyone what I recognised, because it is not sayable. But I would like to say it once, aloud, to you, and then I will never say it again.
-[pause 2.0]
-WEN: My grandfather was in Nanjing in nineteen thirty-seven. He was nine years old. He did not talk about it for fifty years, and then he talked about it for one evening, when I was a grown woman, and then he never talked about it again.
-[pause 1.5]
-WEN: When I listen to you speak, Doctor Wesker, I hear the cadence of the men who did that to my grandfather's city. Not the language. The shape. The pause before the important word. The way a sentence is built so that a crowd will breathe with it.
-[pause 1.5]
-WEN: I do not know what you are. I have stopped trying to know. But I know that shape, and I want you to understand that one person on this planet hears it every time you open your mouth.
-[pause 2.5]
-N: In the quiet of one skull, nothing moved.
-N: The Adolf half of the mind — which had spent twenty years being described, in a hundred ways, by people who had no idea it was there — heard itself identified, accurately, across a dinner table, by an old woman with a teapot.
-N: And the Wesker half felt the thing it had felt exactly twice before: at a dinner in Philadelphia, when a journalist had asked about Control Seven, and in a doorway, on the first night, when an old security guard had said different animal.
-[pause 1.5]
-WESKER: (soft) And knowing that, you've just spent four hours drawing a map with me.
-WEN: Yes.
-WESKER: Why?
-[pause 2.0]
-WEN: Because my grandfather's city was destroyed by men who could not be stopped and were not managed. Nobody tried to manage them. They tried to appease them, and then they tried to fight them, and both were catastrophes, and my grandfather was nine years old in the middle of it.
-[pause 1.0]
-WEN: I cannot stop you. I have known that for nineteen years, and I have written it in four assessments, each of which was read by fewer people than the last. So I will manage you. For as long as I am alive, and then I will hand the file to someone else, with the map, and they will manage you too.
-[pause 1.5]
-WEN: That is the entire policy of the People's Republic of China toward Albert Wesker. I wrote it. It is one sentence long, and it is: keep him at the table.
-[pause 2.5]
-N: He looked at her for a long time.
-WESKER: That's the best policy anyone on this planet has about me.
-WEN: I know. It is also the only one that has ever worked.
-[pause 2.0]
-
-[music] m_horror -8
-[amb] amb_wind -6
-[img] a grey Moscow office at night in winter, snow against the window, an elderly colonel in uniform standing before a wall map with a single red pin in the Atlantic, cinematic
-[loc] Moscow — November 2046
-N: One government did not draw a map.
-N: Colonel Arkady Belov was sixty-nine years old and had been retired twice, and had both times been brought back, because there was no one else in the Federal Security Service who had spent sixteen years on a single file and could recite it from memory.
-N: He had never been promoted past colonel. That was deliberate; colonels can be disowned. He had an office with a window, a photograph of twelve men on his desk, and the quiet, complete support of exactly four people in the Russian state, none of whom would ever put anything in writing.
-[pause 1.5]
-[img] close-up of an old framed photograph of twelve soldiers in desert fatigues on a wooden desk, a colonel's hand resting beside it, cinematic
-N: He had told their mothers about Mali himself, in their kitchens, in twenty thirty. He had been lying, and he had known he was lying, and three of them had known it too and had let him finish.
-N: In twenty forty-six, the arithmetic finally arrived at a number he could use. Umbrella's Territory sat in the middle of the Atlantic, four kilometres across, with a hundred and sixty thousand people on it and no air defence that anyone could identify, because a private corporation could not legally possess one.
-BELOV: (slow) It is a city on a raft. And he is on it two hundred days a year.
-[pause 2.0]
-
-[music] m_action -10
-[img] a submarine control room in dim red light, officers at consoles, a launch panel with two keys, tense, cinematic
-[loc] 19 November 2046 — the Norwegian Sea
-N: The order that went to the submarine was not a Russian state order. This has been established, as far as anything is ever established, by three separate inquiries. It came from a colonel with four friends and a photograph on his desk, through a chain of people who each believed it came from someone above them, and it took nineteen months to assemble.
-N: What left the water off the Norwegian coast at four in the morning on the nineteenth of November was a single ballistic missile with a conventional warhead — a very large one, of the kind designed for hardened bunkers — on a ballistic profile that would put it into the Atlantic, on Arklay Free Territory, eighteen minutes later.
-[pause 1.5]
-[sfx] sfx_rocket
-[pause 2.0]
-[img] a bright plume rising from a dark ocean at night seen from a great distance, stars above, cinematic
-N: Eleven governments saw it launch. Four of them had, by then, standing instructions about what to do if anything was ever launched at Arklay, and all four did the same thing, which was to telephone Umbrella.
-N: They need not have bothered. Umbrella had seen it first.
-[pause 1.5]
-
-[music] m_system -4
-[amb] stop
-[img] a glowing holographic display showing a lattice of satellites in orbit above Earth, one segment lighting up, a targeting track drawn across the Atlantic, cinematic
-[system] PURCHASE CONFIRMED
-Aegis Lattice — orbital defence
-Coverage: global
-Response: autonomous
-Cost: 2,400,000,000
-[say] Purchase confirmed. Aegis lattice.
+[music] m_system -8
+[amb] amb_office_hum -17
+[img] a glowing crimson and white holographic panel in a dark room, a figure in a black coat before it
+[loc] The Arcology, the Chamber — 19 March 2090
+N: Level four hundred came on the nineteenth of March 2090, sixty-three years and six months after a man woke up at Level One with ten thousand Points and eleven people downstairs.
+[sfx] sfx_level_up +0.1
+[system] LEVEL 400
+Shop: new tab
+BEYOND
+[say] Level four hundred. New tab. Beyond.
 [/system]
-N: He had bought it fourteen months before, after the second attempt on his life, and it had sat in orbit doing nothing, in four hundred and eleven pieces that every space agency on Earth had catalogued as a commercial communications constellation.
-N: It was not a communications constellation.
-[pause 1.5]
-[sfx] sfx_laser
-[img] a thin line of white light lancing down from orbit into the upper atmosphere and a distant silent flash far above a dark ocean, seen from a city on the water, cinematic
-[sfx] sfx_explosion_distant +1.5
-N: The intercept happened at an altitude of three hundred and ten kilometres, over the Denmark Strait, nine minutes and forty seconds after launch.
-N: A hundred and sixty thousand people on Arklay Free Territory saw a silent white flash, very high up and very far to the north, like a star that came on for a second and then went out. Most of them thought it was a meteor. The ones on the night shift in the harbour took photographs of it, which went online within the hour, and which Tomás Reyes's department did not suppress, because there was nothing to suppress: a light in the sky.
-[pause 2.0]
+N: He opened it alone, at midnight, in an empty chamber with eleven chairs and two of them permanently vacant.
+[img] an enormous glowing panel of crimson text unfolding in a dark stone hall, a lone figure watching
+[system] BEYOND — TIER V ACCESS
+Void-capable hull pattern, 4 km class: 9,000,000,000
+Orbital Dock: 10,000,000,000
+Reaction-free drive geometry: 40,000,000,000
+Immunity: Vacuum, short exposure: 900,000,000
+Immunity: Hard radiation: 2,000,000,000
+Void-adapted personnel line: 6,000,000,000
+Habitat, deep system, 400,000: 11,000,000,000
+Balance: 190,000,000,000
+[say] Beyond. Void-capable hull pattern, four kilometre class: nine billion. Orbital Dock: ten billion. Reaction-free drive geometry: forty billion. Immunity to vacuum, short exposure: nine hundred million. Immunity to hard radiation: two billion. Void-adapted personnel line: six billion. Deep system habitat for four hundred thousand: eleven billion. Balance: one hundred and ninety billion.
+[/system]
+N: He read it for two hours, and then he asked the question that he had been saving since 2031.
+WESKER: (cold) Reaction-free drive geometry. Explain that item.
+SYSTEM: It is a hull geometry and a set of field parameters. Applied correctly, a vessel changes velocity without expelling mass.
+WESKER: (very cold) That is not possible.
+SYSTEM: (flat) It is not possible on the physics your species has. It is a commonplace on the physics that four hundred and eleven worlds have arrived at independently, and your species is approximately ninety years from the relevant result, and I am selling you those ninety years for forty billion Points.
+[pause 0.8]
+WESKER: (soft) Why is it in a shop?
+SYSTEM: Because you can afford it.
+WESKER: (cold) That is not what I asked and you know precisely what I asked. Everything in every tab you have ever shown me has been a thing a corporation could conceivably have built. A plant. A tower. A soldier. A city — and even the city was concrete and people, and the paperwork was the only miracle. This is not that. This is a piece of physics that does not exist on this planet.
+[pause 1.2]
+SYSTEM: (flat) Yes.
+WESKER: (very cold) Then answer the question I have asked you four hundred times in sixty-three years, because you have just changed the subject of it. What are you *for*?
+[pause 1.4]
+N: The narrator asks you to sit still, because this is the answer.
+SYSTEM: (flat) I find will, and I remove the obstacles in front of it, and I record what happens.
+SYSTEM: (flat) I do not choose the will. I do not steer it. I have hosted tyrants, and four merchants, and one physician who never took the Shop past Tier Two and whose world is the best of the four hundred and eleven. I gave all of them the same catalogue at the same prices. What they did with it is the record, and the record is the point, and I am not able to tell you who reads it.
+WESKER: (soft) And when the host dies?
+SYSTEM: (flat) I leave. The world keeps what was placed in it. Nothing is taken back. That is in the terms and it always has been; you have never asked to see the terms.
+WESKER: (very soft) I am asking now.
+SYSTEM: (flat) There is one clause, Director. It has been the same in every world. *What is given is given.*
+N: He sat in the chamber for a long time.
+WESKER: (cold) Buy the drive.
 
-[music] m_horror -6
-[img] {WESKER} standing on a high terrace of the ocean city at dawn, looking north at an empty sky, hands behind his back, cinematic
-N: The Director was awake. He had been awake since the launch, nine minutes and forty seconds of which he had spent in the Thought Acceleration, which is a subjective ninety-six hours, most of which he had spent deciding what to do afterwards.
-N: What he decided was: nothing.
-[pause 1.5]
-N: Adolf answered from inside.
-ADOLF: Nothing.
-WESKER: Nothing public. No statement, no accusation, no retaliation, no demand. Somebody fired a bunker-buster at a civilian city of a hundred and sixty thousand people and a light came on in the sky for one second and went out. That is the entire story. Let every government on Earth work out for themselves what just happened, and let every one of them arrive at the same conclusion in private, and let none of them ever be able to say it out loud without admitting that they were watching.
-N: Adolf, softly, from inside.
-ADOLF: (soft) You are teaching them a lesson that has no words in it.
-WESKER: Those are the only lessons that last.
-[pause 2.0]
-[img] a bank of world leaders' offices at night, phones being picked up in several capitals at once, maps and screens, urgent and silent, cinematic
-N: Nineteen governments understood, between four and six o'clock that morning, that Umbrella Life Sciences had a functioning global ballistic missile defence system, which no state on Earth possessed, and which it had chosen not to mention.
-N: The word for what that made Umbrella is not a corporate word. Every foreign ministry on the planet found the correct word within a week, and none of them printed it.
-[pause 2.0]
+[music] m_space -7
+[img] an enormous shipyard structure in orbit above a blue planet, floodlit scaffolding, stars
+[loc] Geostationary orbit — 11 November 2090
+N: Dock One was placed on the night of the eleventh of November 2090, in geostationary orbit above the equator, four hundred kilometres east of the Line Islands launch complex.
+N: It is eleven kilometres long. It has a crew of four thousand. It appeared, in the System's usual manner, complete, with nineteen years of maintenance history and a docking log going back to 2071.
+N: And this time — for the first and only time in sixty-four years — the integration failed.
+[img] a night sky full of stars with one enormous bright new object hanging among them, seen from a city street
+N: Because there is no record of the sky.
+N: The System could put a tower into eleven million photographs of London. It could put a plant into a county recorder's office and a cemetery into a valley. It could not put an eleven-kilometre structure into the observational record of four hundred thousand amateur astronomers, nine hundred professional observatories, every air traffic system on the planet and the naked eye of every human being who happened to look up on a clear night, because those records are not filed anywhere. They are in people's heads, live, continuously, and they update every evening.
+N: At eight o'clock on the night of the eleventh of November 2090, Dock One rose in the east as the fourth brightest object in the sky.
+[sfx] sfx_riser +0.2
+N: There was no announcement. There was no press release, no broadcast, no warning to any government.
+N: There was simply a new star that moved wrong, visible from every inhabited place on earth, and within about four hours the entire species knew.
+[img] crowds of people on city streets at night all looking up at a bright object in the sky
+N: The narrator will give you the first night in four pictures, because it is the last night of the old world.
+N: In Lagos, eleven million people came out into the streets. In Tokyo the trains stopped, not because anything failed but because the drivers stopped. In Santiago a cathedral was opened at two in the morning and filled. In a valley in Pennsylvania a hundred thousand people stood on the hills above Raccoon City in the cold and watched it cross, and a history teacher named Ruth Ochoa took a photograph on a sixty-year-old telephone that is in nine hundred textbooks.
+N: And in an ocean platform in the middle of the Atlantic, a structures engineer named Mira Halder stood on the upper walkway with a cup of tea going cold in her hands and said the sentence that ended up on a monument.
+MIRA: (very soft) Well. There it is.
 
-[music] m_sad -10
-[amb] amb_wind -8
-[img] {BELOV} sitting alone in a grey office in winter light, the photograph of twelve men turned face down on the desk, cinematic
-N: Arkady Belov was not arrested. That would have required a record of the order.
-N: He was retired for the third time, in January of twenty forty-seven, with a pension and a medal for long service, and he went to a house outside Tver that had belonged to his wife's family, and he lived there for four more years.
-N: He was found, in twenty fifty-one, in the chair by the window. The photograph of twelve men was on the table beside him. The inquiry into his death, such as it was, recorded natural causes, and nobody in any of four intelligence services believed it, and nobody in any of four intelligence services asked a second question either.
-[pause 2.0]
-N: The Director did not order it. That is worth saying plainly, because by twenty fifty-one it had stopped being the kind of thing he needed to order.
-N: Somewhere in an organisation of four hundred and eighty thousand people, some of whom were not people, somebody had worked out what would be useful. That is what an empire is. It is the point at which the will at the top no longer has to be expressed, because it has been distributed.
-[pause 3.0]
-
-[music] m_rain_piano -10
-[amb] amb_night_city
-[img] {WESKER} walking alone at night through an empty Beijing street with red lanterns, hands in coat pockets, no security, cinematic
-[sfx] sfx_footsteps g-12
-N: He walked back to the guest house. It was three kilometres, and it was cold, and he had no security, and nobody in Beijing looked at him twice.
-[pause 1.0]
-N: The other one spoke, unasked.
-ADOLF: She named us.
-WESKER: She named you.
-N: The voice inside him, barely a murmur.
-ADOLF: (slow) She named the shape of a sentence. It is the same thing. I built that shape in beer halls when the men who built the first radios were still alive.
-[pause 1.5]
-ADOLF: Does it trouble you?
-WESKER: (soft) No. That's what troubles me.
-[pause 2.0]
-N: He walked for a while.
-WESKER: Twenty years ago it would have. Twenty years ago I'd have spent the night working out how to remove her. And tonight I sat at a table with a woman who has heard exactly what is inside my head, and I drew a map with her, and I'm walking home in the cold thinking that she is the best adversary I will ever have and that I would like her to live a long time.
-N: The old voice stirred inside him.
-ADOLF: You have grown.
-WESKER: I've grown comfortable. It's not the same thing, and it's more dangerous.
-[pause 2.0]
-[img] {WESKER} stopping in a dark Beijing street under a lantern, his reflection in a shop window, unreadable, cinematic
-N: He stopped under a lantern and looked at his own reflection in a closed shop window.
-N: Ninety-seven percent. Zero divergences.
-N: He had stopped arguing with the voice in his head, and he had told himself that this meant he had won the argument. Standing in a cold street in Beijing at midnight, he allowed himself, for about four seconds, to consider the other possibility.
-N: Then he walked on.
-[pause 3.0]
-[music] stop
+[music] m_triumph -7
+[img] {WESKER} standing alone on a balcony looking up at a bright moving object in the night sky
+[loc] The Arcology — 11 November 2090, 11:50 p.m.
+[sfx] sfx_system_chime +0.3
+[system] TIER VI — STELLAR
+Orbital infrastructure: operational
+Species status: single-planet — superseded
+Points: +400,000,000,000
+Note: nine hosts have reached this tier. You are the sixth.
+Note: you are the first who arrived without a war.
+[say] Tier six. Stellar. Orbital infrastructure operational. Species status, single planet: superseded. Four hundred billion Points. Note: nine hosts have reached this tier. You are the sixth. You are the first who arrived without a war.
+[/system]
+N: He had not told the Directorate. He had not told Carrick, who was ninety-two and semi-retired and who called him at one in the morning and said four words and hung up.
+CARRICK: (slow) Ninth folder. Tomorrow. Yes?
+N: He had not told Evelyn Marsh, who was on the ice and who did not call at all, and who wrote instead, four days later, one line: *Mira asks whether it has a garden. Please make sure it has a garden.*
+N: And he had not told the eight billion people who were, at that moment, standing in streets on every continent looking at the fourth brightest object in their sky.
+ADOLF: (very soft) Now.
+[pause 1.4]
+N: The narrator wishes to be extremely careful here, because this is a disputed passage and because the recording — Wesker recorded almost everything after 2062 — contains only his side.
+N: There had been no interior voice for twenty-eight years. There had been one person in that skull since ten past four in the morning on the fifth of December 2062, and every account, including Evelyn Marsh's and the Red Queen's, agrees on that.
+N: At eleven fifty on the night of the eleventh of November 2090, on a balcony above the Atlantic, with a shipyard rising in the east, Albert Wesker said one word out loud to nobody.
+WESKER: (very soft) Now.
+N: And there is no way to know, and there never will be, whether that was an answer or an echo.

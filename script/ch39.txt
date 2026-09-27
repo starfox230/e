@@ -1,143 +1,63 @@
-# 39 | Washington
+# 39 | Mira
 
-[music] m_tension -10
-[amb] amb_office_hum
-[img] the White House seen from across the South Lawn on a grey winter morning, bare trees, a helicopter on the pad, cinematic
-[loc] Washington, D.C. — February 2046
-N: By the winter of twenty forty-six, the President of the United States had two problems, and they were the same problem.
-N: The first was that forty-one million Americans took a medicine that only one company made, and that ninety-one percent of them, in every poll her office ran, said they trusted that company more than they trusted their government. The second was that she had been elected, eighteen months before, on a promise to do something about it.
-N: She was sixty-three. She had been a governor, and a prosecutor before that, and she was nobody's fool, and she had spent her first year discovering, department by department, exactly how deep the roots had gone while everyone was arguing about something else.
-[pause 1.5]
-[img] a woman president in her sixties at the Resolute desk reading a thick classified briefing folder, alone, morning light, serious, cinematic
-N: In January, her national security adviser had given her a document that four people had read. It was an assessment of what would happen if the United States government attempted to seize Umbrella Life Sciences' domestic assets under emergency powers.
-N: The conclusion was on the first page, in one sentence: the United States does not possess the capacity to do this without causing the deaths of a number of its own citizens greater than any war it has fought since eighteen sixty-five.
-[pause 2.0]
+[music] m_lo -9
+[amb] amb_night_city -15
+[img] a young woman in work overalls standing on a sea platform walkway at dusk, ocean beyond
+[loc] The Umbrella Free Territory — 4 September 2089
+N: Mira Halder was thirty-nine years old in 2089 and had been a citizen of nowhere since the day she was born.
+N: The narrator introduced her in Chapter Twenty-Nine, in one line, as the first child born in the Arcology: a Bangladeshi structural engineer and a Peruvian marine biologist who had met in a canteen, and a hospital in the middle of an ocean.
+N: This chapter is hers, and it is here because everything else in this account is told from inside the room where the decisions are made, and because a story told only from that room is a lie.
+[img] a crowded canteen on an ocean platform, workers of many nationalities eating, big windows onto the sea
+N: What it is like to be an Umbrella citizen, in 2089, from the inside:
+N: You have never paid for anything. Not power, not water, not medicine, not your education, not the apartment you live in. You have a currency and you use it for the things people use currency for — a better coffee, a boat, a holiday on an actual continent — but the floor beneath you has never once moved.
+N: You are thirty-nine and you look twenty-six, because you have been on Aeterna since you were eleven, along with everyone you know. Your parents are seventy-one and look forty. You have met exactly four people in your life who have died, and three of them chose to.
+N: You have voted in nineteen elections for the Arcology's assembly, which controls the schools, the housing, the ports, the courts and about nine per cent of the budget. You have never voted for a First Director and neither has anybody else. The assembly has twice passed resolutions asking for that to change, and both times the Directorate has replied, politely, that the question is under review.
+N: It has been under review since 2064.
+[img] {MIRA} a young woman with dark hair in work overalls looking out over the sea at dusk, thoughtful
+MIRA: (slow) I want to be careful how I say this, because everybody from outside wants me to either denounce him or thank him, and I'm not going to do either.
+MIRA: (slow) He is the reason my mother is alive. She had a cardiac thing at forty-four and the hospital here fixed it in an afternoon and it cost nobody anything. He's the reason I was born in a city that shouldn't exist, and the reason I've got a job building the second one, and the reason I'll probably see the year 2300.
+[pause 0.6]
+MIRA: (slow) And I have never once been asked whether I wanted any of it. Not once, in thirty-nine years, about anything that mattered. We get to vote on the ferry timetable.
+N: She was, in 2089, the chief structures engineer on the Arcology's second platform, a hundred and forty kilometres south, which was being built the slow way — with contractors, with steel, over eleven years — because the assembly had asked for it to be built that way and the Directorate had, to everyone's surprise, agreed.
+MIRA: (slow) That's the thing people outside don't understand about the argument here. We're not oppressed. Nobody's got a boot on us. It's that we're *comfortable*, permanently, and we didn't build it, and we can't lose it, and there's nothing any of us can ever do that will matter as much as one decision he makes on a Tuesday.
+MIRA: (very slow) Do you know what the suicide rate is in the Free Territory? It's four times the world average, and it's all people between thirty and sixty, and the Directorate's own report says the cause is what it calls *consequence deficit*.
+MIRA: (slow) We call it the Tuesday problem.
 
-[music] m_scheme -8
-[img] {CARRICK} in his late fifties in a plain suit sitting in a White House waiting room, a worn folder on his knees, tense, cinematic
-[sfx] sfx_footsteps g-12
-N: Owen Carrick was fifty-eight when he finally got into the building.
-N: It had taken him sixteen years. He had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest, and then to a Norwegian heiress, and then to a task force that had been dismantled around him. And in February of twenty forty-six, a deputy national security adviser who had read every Lantern report and had a daughter on Aeterna asked him to come in on a Tuesday morning and tell the President of the United States what he thought was true.
-N: He had forty minutes. He had prepared for eleven days. He did not bring the jam jar; they would not let him through the gate with it.
-[img] {CARRICK} standing before a seated president in the Oval Office, gesturing at a folder on the table, two aides watching, tense, cinematic
-CARRICK: Ma'am, I'm going to say four things that sound insane, and then I'm going to give you the evidence for each one, and then you can throw me out.
-N: He said them. He was very clear, and very calm, and he had rehearsed it so many times that he did not stumble once.
-N: One: Albert Wesker was not a human being, in the ordinary sense. Two: he had been in possession of capabilities that no institution on Earth could account for since at least twenty twenty-six. Three: everything Umbrella had built — the medicines, the Foundation, the Territory, the frameworks of association — was not the goal, but the method. And four: he intended, and had always intended, to rule.
-[pause 1.5]
-PRESIDENT: Mister Carrick. Do you know what the worst part of this briefing is?
-CARRICK: Ma'am?
-PRESIDENT: (soft) That I already believe you.
-[pause 2.0]
-[img] the president standing at a window looking out over the South Lawn, her back to the room, folder in hand, cinematic
-PRESIDENT: I've had this conversation four times in fourteen months, with four different people, each of whom thought they were the first. The Bureau believes you. Half of Langley believes you. My science adviser believes you and can't say so, because the moment she does, she's a crank.
-PRESIDENT: And it doesn't matter.
-CARRICK: (soft) Why not?
-PRESIDENT: Because I asked the Joint Chiefs to give me options in January, and they gave me a page that says a hundred and twenty thousand Americans die in the first eleven weeks. Because forty-one million people would rather have their medicine than their sovereignty and I cannot say that out loud. Because he has never broken a law in this country that we can prove, and because he owns the only factory on Earth that makes eight things my citizens need to stay alive.
-[pause 1.5]
-PRESIDENT: You caught him, Mister Carrick. Sixteen years ago, on a dashcam, in a parking lot. You were right about all of it, and nobody believed you, and by the time we did, it was already too late to matter.
-[pause 2.0]
-N: Owen Carrick sat in the Oval Office and understood, at last, the thing that he had spent his whole adult life refusing to understand.
-N: He had always believed that the problem was that nobody knew. That if he could only get the evidence in front of the right person, the machinery of the world would turn, and something would be done.
-N: The machinery knew. It had known for years. It simply could not move.
-[pause 2.5]
-
-[music] m_horror -8
-[img] a long black car pulling up to a White House entrance in winter, a tall figure in a black coat getting out, no entourage, Secret Service watching, cinematic
-[loc] The same week
-[sfx] sfx_car_door g-10
-N: The Director came to Washington eleven days later, at the President's invitation, and he came alone.
-N: That was a decision, and it was the whole meeting. He had a security force of nineteen thousand, a private air fleet, and a personal risk profile that four intelligence services had assessed as the highest of any individual alive. He arrived in one car, with a driver, and walked through the North Portico with his hands in his coat pockets, and let the Secret Service search him, and stood there while they did it.
-[img] {WESKER} seated across from a woman president in the Oval Office, two chairs by the fireplace, no aides, winter light, cinematic
-N: They met alone. No aides, no notetaker, no recording — which was itself unprecedented, and which her chief of staff argued against for two days, and lost.
-PRESIDENT: I'll be direct, Doctor Wesker. I've been advised that my government cannot compel you to do anything. I've also been advised that any attempt to try would kill a great many of my citizens. I don't enjoy being in that position.
-WESKER: No. I wouldn't either.
-PRESIDENT: So I'm going to ask you a question, and I'd like an honest answer, and I have nothing to trade for it. What do you want?
-[pause 2.0]
-[img] extreme close-up of {WESKER} in the Oval Office, sunglasses off, pale grey eyes, perfectly calm, firelight, cinematic
-N: He took off his sunglasses. He did that, in this world, perhaps four times a year, and every single time it was a decision.
-WESKER: I want the same thing you do, Madam President. I want it to work.
-PRESIDENT: Want what to work?
-WESKER: All of it. The species. You've been in office for eighteen months. You've seen the actual numbers — the water tables, the heat, the debt, the demographics, the four wars nobody can stop. You know what your grandchildren's century looks like on the current trajectory. Everyone in this building knows. And every one of you has worked out, privately, that your system cannot fix it, because your system is designed to produce a new set of temporary people every four years, each of whom is punished for doing anything that takes longer than that.
+[music] m_scheme -9
+[img] a public meeting hall on a sea platform, rows of seated citizens, a raised speaking floor
+[loc] The Arcology Assembly — 19 September 2089
+N: On the nineteenth of September 2089 the Arcology Assembly debated a motion, tabled by Mira Halder and eleven others, entitled *On the Question of Consent.*
+N: It asked for four things: an elected First Director; a right of the territories to amend the Directorate's charter; the publication of the System's existence, whatever it was, in plain language; and a timetable.
+N: It is the single most important document produced by anyone in this account who is not Albert Wesker, and it passed the Assembly by three hundred and eleven votes to nine.
+N: He came to answer it himself, eleven days later, which nobody expected, and he took questions for four hours, which nobody had ever seen.
+[img] {WESKER} standing alone on a speaking floor facing rows of seated citizens, formal hall
+MIRA: (slow) Director. My motion asks for a timetable. Not a promise, not a review — a date. Will you give us one?
 [pause 1.0]
-WESKER: I am not a temporary person. That is the entire difference between us.
-[pause 1.5]
-PRESIDENT: And what does that make you?
-WESKER: Patient.
-[pause 2.0]
-N: She did not say anything for a while. The fire made the only noise in the room.
-PRESIDENT: (soft) My mother is eighty-nine. She's been on Aeterna for nine years. She gardens.
-WESKER: I know.
-PRESIDENT: Of course you do.
+WESKER: (cold) No.
+MIRA: (slow) Then I'd like you to explain why to four hundred thousand people, rather than to a committee.
+WESKER: (slow) Because an elected First Director cannot hold what I hold.
+WESKER: (cold) I want to be very precise, because this is the answer to everything you have asked and you are entitled to the real version. It is not that an elected person would be less capable. It is that there are four hundred thousand human beings alive today who cannot refuse an instruction from me, and nine years ago twelve governments proved what happens when somebody else tries to give them one.
+WESKER: (slow) The release programme is at eleven per cent. When it reaches one hundred — and it will, and I have committed to it in a treaty that a tribunal I do not control enforces — then the thing I hold becomes a thing that can be handed over, and on that day you may elect whoever you like.
+MIRA: (slow) That's ninety years.
+WESKER: (cold) Sixty-one, on the current rate.
+MIRA: (very slow) I'll be a hundred years old.
+WESKER: (soft) You will be a hundred years old and you will look thirty, and you will still be building things, and you will be at that election. That is the difference between your generation and every generation that came before you, and it is the reason your argument is better than any argument anybody made in the first sixty years of this.
+[pause 0.8]
+MIRA: (slow) That's not an answer to the Tuesday problem.
+N: The narrator notes that the hall went quiet, and that the Red Queen's minute records a pause of eleven seconds, and that it is the last long pause in this account.
+WESKER: (very slow) No. It is not.
+WESKER: (cold) I have read your report. I read it in July. *Consequence deficit* is the correct diagnosis and it was written by your own people, not mine, and the Directorate has no treatment for it because the disease is the Directorate.
+WESKER: (slow) So I am going to give you the only thing I have ever been able to give anybody that was worth having, which is not safety, and is not medicine, and is certainly not an election.
+[pause 0.6]
+WESKER: (very cold) In eleven years there will be a shipyard in orbit, and after that there will be places to go that nobody has built yet, and no floor beneath anybody, and every single one of them will be somewhere I have never been and cannot administer.
+WESKER: (slow) You want consequence, Ms. Halder. I cannot vote one into existence for you. I can only open a door that has a great deal of nothing on the other side of it, and let four hundred thousand comfortable people decide whether they are the kind of creature that walks through it.
+N: Mira Halder was, the narrator records, the fourth human being to be recruited by Albert Wesker in a single conversation, and the only one of the four who never worked for him.
+MIRA: (slow) Then I want first refusal on the hull.
+[pause 0.8]
+WESKER: (very soft) On which hull?
+MIRA: (slow) The first one. Whatever it is. I'm a structures engineer, I've built a city in an ocean, and if you're going to open a frontier to solve a philosophical problem you've created, then somebody from the problem should be holding the pen.
 [pause 1.0]
-PRESIDENT: When you take this country — and I've read enough to know that you intend to, and that you'll do it with frameworks and water systems and not with soldiers — how long do you think it takes?
-[pause 1.5]
-WESKER: If I am careless? Forty years. If I am not? You won't be able to point at the day it happened.
-[pause 2.0]
-PRESIDENT: (soft) That's the most honest thing anyone has said to me in this office.
-WESKER: It's the most honest thing anyone will say to you in this office. That's not a boast. It's the nature of the job.
-[pause 2.5]
-
-[music] m_sad -8
-[amb] amb_night_city
-[img] {CARRICK} in a small apartment at night, sitting at a kitchen table with a jam jar of flattened bullets in front of him, an old photograph of two daughters on the wall, cinematic
-[loc] Chester, Pennsylvania — the following week
-N: Owen Carrick went home and did not get out of the chair for two days.
-N: He was fifty-eight. He had been an FBI agent for seventeen years and a man who knew for sixteen. He had lost his badge, his pension, his marriage, and eleven years of two daughters' childhoods, which was the loss that actually mattered and which he had never once allowed himself to add up.
-N: Laura had remarried. She had told him about it kindly, on the phone, in twenty forty-one. His elder daughter was a doctor in Portland. She had taken Aeterna, as a precaution, at twenty-nine, because everyone in her hospital did.
-[pause 1.5]
-[img] close-up of a jam jar of fifteen flattened bullets on a kitchen table in dim light, a man's hands on either side of it, cinematic
-N: He looked at the jam jar for a long time.
-N: And he found — this is the part he never told anyone, not Haddad, not Halvorsen, not Hannah Price — that what he felt was not despair.
-N: It was relief.
-N: For sixteen years he had believed that he was the only thing standing between the world and Albert Wesker. It had been the worst kind of loneliness, and the most complete kind of purpose, and it had eaten his entire life. And in an office in Washington, a woman with a nuclear arsenal had told him: we know, we all know, and there is nothing to be done.
-N: He was not the only thing standing anymore. He was not standing at all. Nobody was.
-[pause 2.0]
-[img] {CARRICK} at dawn packing a small bag, the jam jar sitting on a shelf, morning light through a window, calm, cinematic
-[sfx] sfx_engine_start g-12
-N: On the third morning he got up, and showered, and packed a bag, and drove to Portland, Oregon, and knocked on his daughter's door on a Saturday morning without calling ahead.
-N: She let him in. It took eleven months before she stopped being angry with him and four years before they could talk about anything that mattered, and he had both. Aeterna had given him thirty more years, and he had started taking it in twenty forty-one, like everyone else, because everyone else did.
-N: That is how Owen Carrick's war ended. Not in a courtroom, or a desert, or a corridor under a brick building. In a kitchen in Portland, with a daughter who did not want to talk to him, and a jam jar left on a shelf in Pennsylvania.
-[pause 2.0]
-N: He lived a long time. He saw all of it. He saw the Accord, and the ships, and the things that came back from the dark with Umbrella's mark on them, and he told his grandchildren, when they were old enough, that he had once shot a man fifteen times and been handed back the bullets.
-N: They thought it was a story. He let them.
-[pause 3.0]
-
-[music] m_horror -10
-[amb] amb_office_hum
-[img] {WESKER} standing at a window of a dark aircraft cabin at night, the lights of Washington falling away below, reflective, cinematic
-N: On the flight back to Arklay, the Director sat in the dark and did not work.
-N: The inner voice interrupted.
-ADOLF: She capitulated.
-WESKER: She didn't. She surveyed the ground, found it indefensible, and told me so to my face. That isn't capitulation. That's the first competent thing any government has done about us in twenty years.
-N: The old voice, slowly.
-ADOLF: (slow) You liked her.
-WESKER: I respected her. It's rarer.
-[pause 1.5]
-N: The second voice came back.
-ADOLF: Do you remember what you said to me? In the car, in the rain, in the first week. You said: you lost because they saw you coming.
-WESKER: I remember.
-N: Adolf answered from inside.
-ADOLF: They see you coming. That woman sees you coming. The policeman saw you coming sixteen years ago, in four frames of a dashboard camera. The Chinese woman has seen you coming since she listened to your silences. They all see you coming.
-[pause 1.0]
-ADOLF: And they cannot do anything about it. Which means it was never about being seen at all.
-[pause 2.0]
-N: The Wesker half of the mind sat with that for a long time, over the dark Atlantic, at forty-one thousand feet.
-N: It was, he realised, the first thing the old voice had ever taught him that he had not already known.
-N: It had never been about being unseen. Hiding had only ever been a way of buying time. The thing that actually mattered — the thing he had been building for twenty years without ever quite saying it to himself — was to become necessary. And a necessary thing can stand in a cathedral square in broad daylight, in front of four hundred cameras, and brush the dust off its shoulder, and ask whether everyone is all right.
-[pause 1.5]
-WESKER: (soft) Huh.
-N: The inner voice, almost to itself.
-ADOLF: (soft) Yes.
-[pause 1.0]
-[sfx] sfx_system_chime
-[system] INTEGRATION
-Host coherence: 97%
-Divergence events (12 months): 0
-[say] Integration. Host coherence, ninety-seven percent.
-[/system]
-[pause 2.0]
-N: Zero.
-N: He looked at that number for a long time, in the dark, with the ocean going past underneath.
-N: In the first year there had been four hundred arguments. Last year there had been two. This year there had been none at all — and he had not noticed, which was the part that should have frightened him, and did not.
-[pause 3.0]
-[music] stop
+N: There is no recording of Albert Wesker laughing. The narrator has said so twice in this account: once in a dark office in 2027 when a lottery gave him a monster, and once in a library in 2031.
+N: The Assembly's minute of the thirtieth of September 2089 records, in the clerk's own handwriting, at four hours and eleven minutes into the session: *The First Director appeared to be amused.*
+WESKER: (cold) Ms. Halder, you may have the pen. You will find it is extremely heavy and that nobody will thank you.
+MIRA: (slow) I've lived here my whole life, Director. Nobody thanks anybody. That's the entire complaint.

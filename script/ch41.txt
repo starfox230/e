@@ -1,147 +1,83 @@
-# 41 | The Chant
+# 41 | The Pen
 
-[music] m_march -12
-[amb] amb_wind -10
-[img] the city of Geneva on the lake in early spring, the Palace of Nations, flags of many countries, crowds gathering, cinematic
-[loc] Geneva — 14 March 2047
-N: They called it the Accord, and the negotiation took four years, and the signing took nineteen minutes.
-N: It was not a surrender, and it was not a conquest, and every government that signed it went home able to explain to its own people why it had not lost anything. That was the whole design. The Director had spent four years making sure that every single signatory could tell a true story about why signing was good for them.
-[img] a vast hall inside the Palace of Nations with a long curved table, delegations from a hundred and forty countries, screens, cameras, cinematic
-N: The Global Framework Accord on Biosecurity, Longevity and Infrastructure was signed by a hundred and forty-one states. It established a joint authority — the Accord Council — with binding powers over the manufacture and distribution of a defined list of essential medicines, over pandemic response, over biosafety standards, and over a fund for water, power, and health infrastructure in any signatory state that requested it.
-N: The Council had thirty-one seats. Fourteen were held by states, rotating. Nine were held by regional blocs. Four were held by the World Health Organization and other international bodies. And four were held by Umbrella Life Sciences, which also, under Article Nine, served as the Council's sole executing agent, because it was the only body on Earth with the capacity to execute anything.
-[pause 1.5]
-N: Four seats out of thirty-one. That was the number in every newspaper. Every government could point at it.
-N: Article Nine was in the annexes.
-[pause 2.0]
+[music] m_corporate -9
+[amb] amb_ship_hum -15
+[img] a huge orbital shipyard interior with scaffolding around an unfinished hull, workers in suits, floodlights
+[loc] Dock One — 4 June 2091
+N: The first ship took seven months to build and it was not built by the System.
+N: The narrator wishes to be exact, because it is the point of this chapter and the reason Albert Wesker gave an engineer from the Arcology a pen.
+N: The System sold him the hull pattern and the drive geometry: nine billion Points and forty billion Points, delivered as specification — thousands of pages of it, in a form that Crane's people described as *written by somebody who has never had to explain anything to anybody twice*.
+N: It did not sell him a ship. He could have bought one. There was a line in the BEYOND tab that would have put a finished four-kilometre vessel in orbit overnight, crewed, with a maintenance log going back nineteen years.
+N: He did not buy it. And when Mira Halder asked him why, in the second week, on a gantry, in a pressure suit, he gave her the only fully honest answer of the whole account.
+[img] {MIRA} and {WESKER} in pressure suits standing on a gantry inside a vast shipyard, an unfinished hull behind them
+WESKER: (cold) Because everything I have ever been given arrived finished, and because I have spent sixty-four years watching what that does to people.
+WESKER: (slow) There are four hundred thousand human beings on this planet who cannot refuse an instruction, and there are four hundred thousand more in an ocean who have never had a consequence, and the common cause of both is that I was in a hurry and the catalogue was open.
+WESKER: (very cold) So this one gets built. By people. Slowly. With arguments about the budget.
+MIRA: (slow) It's going to take seven months and it's going to have a flaw in it.
+WESKER: (soft) Yes. And in four hundred years somebody will find the flaw and know that a person put it there, and that will be worth more to them than a ship that came out of a catalogue.
 
-[music] m_scheme -10
-[img] {CATHERINE} at a desk in Geneva with the Accord text open to the annexes, a pencil in her hand, her face hollow, cinematic
-N: Catherine Adeyemi had drafted Article Nine. She was fifty-nine.
-N: She had argued against it for two years, in memos that were read and answered courteously and in full, and then she had drafted it, because she was the best in the world at that kind of drafting and because if she had not done it, one of the quiet ones would have, and it would have been worse.
-N: She had, by then, developed a private test. Before she signed anything, she asked herself: if I explain this, in plain language, to the woman I was in twenty twenty-seven, sitting in a hedge fund in Manhattan, would she understand it?
-N: Article Nine failed the test. She drafted it anyway. It was the eleventh thing that year to fail the test.
-[pause 2.0]
+[music] m_space -8
+[img] a vast dark ship hull under construction in orbit, ribs and plating, earth beyond the frame
+N: They called it the *Christina*, after a river in Delaware that four hundred thousand people in the middle of the Atlantic had never seen.
+N: Four kilometres. Crew of eleven hundred. A drive that changed velocity without expelling mass, built to a geometry nobody on earth understood and four people could operate. Nine hundred and forty habitation decks, a hospital, four hydroponic halls — and a garden, on deck eleven, laid out by a woman on an ice shelf who had sent one line in a letter.
+N: Mira Halder was chief of structures. She argued with the Directorate about the budget nineteen times and won eleven, which she described afterwards as *the best nineteen arguments of my life*.
+N: The narrator will give you one of them, because it is the moment the story changes hands.
+[loc] Dock One, construction office — 11 September 2091
+MIRA: (slow) I want the redundancy on the drive spars doubled.
+WESKER: (cold) The System's specification does not require it.
+MIRA: (slow) The System's specification assumes a hull that was placed rather than welded. Mine has four thousand human welds in it and I know exactly how good my welders are, which is very, and not perfect.
+WESKER: (soft) It is eleven billion Points and four months.
+MIRA: (slow) Then it's eleven billion Points and four months.
+[pause 0.8]
+WESKER: (very cold) Ms. Halder, are you aware that you are the only person alive who argues with me?
+MIRA: (slow) Yes. Everybody's aware. There's a rota — I'm joking. There isn't a rota.
+[pause 0.6]
+MIRA: (slow) Director, I've thought about this a lot, because people keep telling me I'm brave and I'm not. I argue with you because you have never once, in two years, made me pay for it. Mr. Carrick told me you've been like this since 2033 and that it's the only reason he stayed.
+MIRA: (very slow) I think you've spent sixty-five years building an empire that cannot say no to you and hiring, one at a time, the four or five people who can. And I don't think you ever noticed you were doing it.
+N: The narrator notes that Albert Wesker approved the doubled redundancy without further discussion, that it cost eleven billion Points and four months, and that in 2134 a spar failure on a sister ship killed nine hundred people and the *Christina* class was the only design in the fleet that survived the same fault.
 
-[music] m_sermon -8
-[amb] amb_crowd_murmur -6
-[img] an enormous crowd filling a city square and the streets beyond, hundreds of thousands of people, screens showing a stage, spring evening, cinematic wide shot
-[loc] Geneva — the evening of the signing
-N: The crowd was not planned. That has been disputed for two centuries and it is true.
-N: Tomás Reyes's department had organised a public broadcast of the signing on screens in the Place des Nations, expecting perhaps twenty thousand people. By four in the afternoon there were two hundred thousand in the square and the streets around it, and by six there were four hundred thousand, and the city of Geneva had closed the bridges and given up.
-N: They had come from everywhere. A great many of them had come from the association territories, on buses and ferries, at their own expense. There were, by the estimate of the Swiss police, people from a hundred and nine countries in that square.
-[pause 1.5]
-[img] faces in an enormous evening crowd lit by screens, people of every nation, some crying, some holding children up, cinematic
-N: Why they came is the question that matters, and the answer is the least dramatic thing in this entire story.
-N: Most of them were not fanatics. Most of them had never said the Creed. They came because in twenty forty-seven the world had been frightening for a very long time, and because a single organisation had, in their own direct experience, vaccinated them, and rebuilt their hospital, and put their water back on, and made their grandmother walk — and because something was being signed in their city that felt, for the first time in their lives, like the adults had arrived.
-N: That is how it happens. Not with hatred. With relief.
-[pause 2.0]
-
-[music] stop
-[amb] amb_crowd_murmur -8
-[img] {WESKER} stepping out onto a floodlit balcony above an ocean of four hundred thousand people at dusk, alone, tiny against the crowd, cinematic
-N: He came out onto the balcony at seven.
-N: He had not been scheduled to speak. The programme had the Secretary-General, and the President of the Swiss Confederation, and then the anthem. But the crowd had begun, at about half past six, to make a noise that the people on the balcony could feel through the stone, and the Secretary-General of the United Nations — who was seventy-four, and who had spent his entire career in rooms exactly like the one behind him — looked out at four hundred thousand people and understood that if somebody did not go out onto that balcony, something would happen in Geneva that night.
-N: So he turned to the man in the black coat and said: they are calling for you.
-[pause 2.0]
-[sfx] sfx_crowd_cheer
-[pause 2.0]
-[img] a sea of four hundred thousand people roaring, arms raised, screens showing a man on a balcony, floodlights, dusk, overwhelming, cinematic
-N: The roar when he stepped out lasted four minutes.
-N: He stood at the rail and let it. He did not raise a hand. He did not smile. He stood perfectly still in the floodlights, and four hundred thousand people shouted themselves hoarse, and nineteen thousand kilometres of network carried it live to an audience that the measurement companies afterwards put at six point one billion — which is to say, everyone on Earth who was awake and had a screen.
-[pause 2.0]
-
-[music] m_sermon -6
-WESKER: Twenty-one years ago I sat in a chair in a building nobody had ever heard of, in a town nobody writes songs about, and I watched the rain.
+[music] m_lo -9
+[img] {CARRICK} a very old man in a chair by a window with a blanket over his knees, afternoon light
+[loc] Media, Pennsylvania — 19 October 2091
+N: Owen Carrick died on the nineteenth of October 2091, aged ninety-three, at home, having declined Aeterna for the last twenty-two years of his life for reasons he never explained to anyone except his wife, who had taken it and who outlived him by eleven decades.
+N: Wesker came on the Thursday. It was the ninth folder, and it was four sentences, and Carrick made him read it out loud in the room.
+CARRICK: (very slow) Read it.
+WESKER: (soft) *Fifty-eight years. He never once removed a person for telling him the truth, and he never once changed course because of it either.*
+WESKER: (soft) *I have concluded that these are the same fact and not two, and that a man who cannot be angered also cannot be reached.*
+WESKER: (soft) *I was the mechanism that should have stopped this and I did not work, and I am not sure any mechanism would have, and I am too tired now to know whether that is an excuse.*
+WESKER: (soft) *Tell Mira. She is the one who might.*
+[pause 1.2]
+CARRICK: (very slow) You didn't argue.
+WESKER: (very soft) No.
+CARRICK: (very slow) Fifty-eight years and that's the first time.
+WESKER: (cold) Mr. Carrick, in 2033 you sat in a diner and told me you were taking the job so that you could be the one who told me no. You have done it nine times. I have overruled you eight.
+CARRICK: (very slow) Eight?
+WESKER: (soft) The ninth was in January 2040 and I wrote *you are correct and I have no answer* at the bottom of it, and I have never told you, and I am telling you now because there is no longer any tactical reason not to and I have discovered that I would like you to know.
 [pause 1.0]
-WESKER: There were six of us. We could not make the payroll.
-[pause 1.5]
-N: Four hundred thousand people laughed — a strange, enormous, loving sound.
-WESKER: Today a hundred and forty-one governments signed a piece of paper that says something very simple. It says that the things which keep human beings alive are too important to be left to chance, or to markets, or to the electoral calendar of any one country.
-WESKER: It says that when the storm comes — and it is coming, and all of you know it, and you have known it your whole lives — there will be something over your heads.
-[pause 1.5]
-[img] enormous crowd with hundreds of thousands of phone lights raised in the dusk, an ocean of small lights, cinematic
-WESKER: I did not build that for you. I want to be honest with you tonight, because you have given me something that nobody gives anybody anymore, and I will not repay it with a lie.
-[pause 1.0]
-WESKER: I did not build it out of love for you. I built it because the world was badly run, and it offended me, and I believed I could do it better.
-[pause 1.5]
-WESKER: But it is over your heads now. And it does not matter in the slightest why I built it.
-[pause 2.5]
-N: That was the most dangerous thing anyone said in the twenty-first century, and six billion people heard it, and almost nobody noticed.
-N: He had told them the truth. He had told them, from a balcony, in front of the entire species, that he did not love them, that he considered the world his to correct, and that their opinion of his motives was irrelevant.
-N: And four hundred thousand people in the Place des Nations heard a man being honest with them, which nobody in power had been in their lifetimes, and they loved him for it so completely that the sound they made cracked two windows on the façade of the Palace of Nations.
-[pause 2.0]
+N: The narrator records that Owen Carrick laughed, which hurt him, and that he said four more words, and that Albert Wesker sat in that room for another two hours after he had stopped speaking.
+CARRICK: (very slow) Fifty-eight years. One.
+N: He is buried in Media, Pennsylvania, in an ordinary cemetery, under an ordinary stone. The Umbrella Directorate flew its flag at half mast for the second time in its existence.
+N: His nine folders are in a drawer in a desk in a building on the Christina River that appeared out of nothing on the fourteenth of September 2026. They were published, in full, in 2094, on Wesker's instruction, without commentary.
+N: They are the primary source for about a third of this account.
 
-[music] m_march -4
-[sfx] sfx_chant_umbrella_long
-[img] four hundred thousand people chanting in unison in a vast square at night, fists and phone lights rising and falling in rhythm, terrifying and beautiful, cinematic
-N: The chant began in the south-west corner, among the buses from the association territories.
-N: Um. Brel. La.
-N: It went across four hundred thousand people in about ninety seconds. It was audible in France. Seismographs at the university recorded it. In the Palace behind him, a hundred and forty-one delegations stood at the windows and watched their century end.
-[pause 3.0]
-[img] {WESKER} alone on a balcony with his eyes closed and his head tilted slightly back, the roar washing over him, floodlit, cinematic
-N: And on the balcony, in the floodlights, a man who had died in a bunker in nineteen forty-five and a man who had died in a volcano in another world stood in one body and listened to four hundred thousand people chant, and for the first time in twenty-one years there was no argument between them at all.
-N: No disagreement. No friction. Not one word.
-[pause 1.5]
-WESKER: (slow) Now.
-N: The other voice, quietly.
-ADOLF: (slow) Now.
-[pause 1.0]
-N: They said it at the same instant, in the same cadence, in the quiet of one skull.
-N: And then, for the first time, they said the next sentence together — one voice, in two registers, perfectly aligned, the way a chord is one sound.
-[pause 1.0]
-WESKER: (slow) This is what it was for.
-[pause 3.0]
-[sfx] sfx_system_open
-[system] INTEGRATION COMPLETE
-Host coherence: 100%
-Designation: Wesker
-[say] Integration complete. Host coherence, one hundred percent.
+[music] m_space -7
+[img] an enormous ship hanging in orbit above a blue planet, lit windows along its length, stars
+[loc] Dock One — 31 December 2091
+[sfx] sfx_system_chime +0.3
+[system] VESSEL — CHRISTINA
+Constructed: not placed
+Human welds: 4,110,000 · Crew: 1,100 · Drive: operational
+Points expended: 71,000,000,000 · Points that would have been required to place it finished: 40,000,000,000
+Note: you have paid thirty-one billion Points for the privilege of having built something.
+Note: this is the first time in four hundred and eleven worlds that I have recorded that transaction.
+[say] Vessel: Christina. Constructed, not placed. Four million one hundred and ten thousand human welds. Crew of eleven hundred. Drive operational. Points expended: seventy-one billion. Points that would have been required to place it finished: forty billion. Note: you have paid thirty-one billion Points for the privilege of having built something. This is the first time in four hundred and eleven worlds that I have recorded that transaction.
 [/system]
-[pause 2.0]
-N: He read the panel on the balcony, in the floodlights, with the chant going on underneath him like weather.
-N: Designation: Wesker. The System had stopped listing a secondary imprint. It had stopped, at some point that it did not specify, treating them as two things.
-N: He waited to feel something about that. A loss, perhaps. The old voice had been in there for twenty-one years; it had argued with him in a thousand cars on a thousand drives home; it had been wrong about almost everything and honest about it exactly once.
-N: He felt nothing at all. There was nobody left in there to miss.
-[pause 3.0]
-
-[music] m_triumph -8
-[img] a montage of the Umbrella Directorate's first offices, maps of the world with association territories in red, the emblem on public buildings, cinematic
-[loc] The Directorate
-N: The Umbrella Directorate was established eleven weeks later, and it was not announced, because it was not an announceable thing. It was simply the name that people inside the organisation began to use, in twenty forty-seven, for the body that made the decisions — the Accord Council's executing agent, plus the Territory, plus the association territories, plus the Security Service, plus the Foundation, plus the Progenitor Initiative, plus four hundred and eighty thousand employees and a hundred and ninety million people in territories of association.
-N: It had one Director. The title had been on his office door in a four-storey brick building in twenty twenty-six, and he had never changed it, and now it meant something else.
-[pause 2.0]
-[sfx] sfx_level_up
-[sfx] sfx_gacha_gold +1.0
-[system] LEVEL UP
-Level: 100
-Points: 84,000,000,000
-[say] Level one hundred.
-[/system]
-[pause 1.5]
-[system] STATUS
-Strength: 140
-Speed: 180
-Intelligence: 155
-Defence: 130
-Health: 150
-Charisma: 120
-Special: 110
-[say] Status.
-[/system]
-[pause 1.5]
-[img] a glowing crimson holographic shop interface in a dark room, and at the edge of it a new tab appearing, unlit, labelled with a single word, cinematic
-[sfx] sfx_system_chime
-N: And on the night of the twenty-second of June, twenty forty-seven, alone in a white room two hundred metres below the Atlantic, the Shop that he had been buying from for twenty-one years grew a new tab.
-N: It had been the same six categories since the first night in a washroom in the rain. Facilities. Personnel. Blueprints. Powers. Immunities. Vehicles.
-N: There was a seventh now. It was not lit. It had one word on it, and when he looked directly at it, the word did not resolve into anything he could read — except that he knew, the way you know things in dreams, exactly what it said.
-[pause 2.0]
-[system] BEYOND
-[say] Beyond.
-[/system]
-[pause 3.0]
-N: He looked at it for a long time.
-N: Behind him, in a cradle that had been breathing for twenty-one years, something enormous slept. Above him, two hundred metres of ocean, and a city of a hundred and sixty thousand people, and a world that had just signed.
-N: He had ruled the Earth for four hours.
-N: He reached out, and touched the tab, and it opened.
-[pause 3.0]
-[music] stop
+WESKER: (soft) Was it a good trade?
+[pause 0.8]
+SYSTEM: (flat) I do not evaluate.
+WESKER: (cold) I know. Answer anyway.
+[pause 1.2]
+SYSTEM: (flat) The physician I mentioned, in the world that is the best of the four hundred and eleven. She never bought a facility. She built nine clinics with her own hands and her own money over forty years and spent her Points on medicine that she gave away, and I closed that world at Tier Two with a host who died at eighty-one of something ordinary.
+SYSTEM: (flat) I have thought about her four hundred million times, Director, which is not a figure of speech, and it is the closest thing to an evaluation that I possess.
+N: The narrator notes that this is the last exchange between Albert Wesker and the System recorded in this Part, that the *Christina* left Dock One on the fourth of March 2092 with eleven hundred people aboard and Mira Halder on the bridge, and that it was the first object made by human hands to leave the solar system under its own power.
+N: End of Part Five.

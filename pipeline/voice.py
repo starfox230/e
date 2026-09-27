@@ -20,6 +20,7 @@ VOICES = {
     'WESKER':    ('am_fenrir', 0.88, 'wesker', 0.0),
     'ADOLF':     ('bm_george', 0.86, 'adolf', -1.5),
     'SYSTEM':    ('af_nicole', 0.98, 'system', -1.0),
+    'MIRA':      ('af_nova*0.5+af_kore*0.5', 0.98, 'dialog', 0.0),
     'COLONEL':   ('bm_lewis*0.4+am_eric*0.6', 0.95, 'dialog', 0.0),
     'BANKER':    ('bm_daniel*0.5+am_eric*0.5', 0.96, 'dialog', 0.0),
     'CHIEF':     ('am_onyx*0.6+am_eric*0.4', 0.94, 'dialog', 0.0),
