@@ -56,6 +56,8 @@ def encode(job):
     mix = os.path.join(ROOT, 'work', f'ch{ch:02d}', 'mix.wav')
     video = os.path.join(ROOT, 'out', 'video', f'ch{ch:02d}.mp4')
     src = mix if os.path.exists(mix) else video
+    if not os.path.exists(src):
+        return None                  # not rendered yet; a later run picks it up
     # The video's track is already the mastered mix as AAC; copying it avoids a second
     # generation of lossy encoding. Only a mix, which is still WAV, has to be encoded.
     codec = ['-c:a', 'aac', '-b:a', bitrate] if src == mix else ['-c:a', 'copy']
@@ -85,8 +87,13 @@ def main():
         tl = json.load(open(os.path.join(ROOT, 'work', f'ch{ch:02d}', 'timeline.json')))
         jobs.append((ch, tl['title'], tl['movement'], art, bitrate))
     with ThreadPoolExecutor(max_workers=jobs_n) as ex:
+        done = 0
         for dst in ex.map(encode, jobs):
+            if dst is None:
+                continue
+            done += 1
             print(f'  {os.path.basename(dst)}  {os.path.getsize(dst) / 1e6:.1f} MB', flush=True)
+    print(f'{done} of 50 tracks written')
 
 
 if __name__ == '__main__':
