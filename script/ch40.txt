@@ -81,6 +81,18 @@ N: In Lagos, eleven million people came out into the streets. In Tokyo the train
 N: And in an ocean platform in the middle of the Atlantic, a structures engineer named Mira Halder stood on the upper walkway with a cup of tea going cold in her hands and said the sentence that ended up on a monument.
 MIRA: (very soft) Well. There it is.
 
+[music] m_lo -10
+[img] a crowded observatory control room at night, astronomers at screens, one pointing at a display
+[loc] Mauna Kea, Paranal, La Palma, Xinglong — 11 November 2090, 20:00 to 23:00
+N: The narrator will give you the three hours between the placement and the announcement, because they are the last three hours in which the human race did not know, and they were spent by about nine hundred professional astronomers having the worst evening of their careers.
+N: The object was detected at 20:04 by an automated survey in Chile and flagged as an artefact. It was detected again at 20:06 by two others. By 20:19 there were eleven independent detections, a magnitude of minus four point one, and a position that was geostationary, which is not a thing that natural objects are.
+N: The first person to say it out loud was a postdoctoral fellow in La Palma named Núria Bastida, aged thirty-one, on an open channel, at 20:41, and the recording is in every documentary made since.
+WOMAN: (fast) It's not an artefact and it's not a satellite and it's not ours. It's eleven kilometres long and it's *parked*.
+N: At 21:00 the four major observatories opened a conference line, which is a thing that happens about once a decade. At 21:40 they agreed, unanimously, to notify their governments before publishing, and at 21:44 somebody on the line — who has never been identified and whom the narrator declines to condemn — posted the coordinates and four images to a public forum.
+N: By 22:10 there were nineteen thousand amateur telescopes on it.
+N: By 22:30 the governments of four nations had contacted Umbrella, which said nothing, because there was nobody awake at the Directorate who had been told anything.
+N: And at 23:00, a hundred and forty minutes after a postdoc in La Palma said the word *parked*, an eleven-kilometre structure rose over the Atlantic seaboard of North America in a clear November sky and four hundred million people walked outside to look at it without being told to, having heard about it from each other.
+N: The narrator notes that Albert Wesker had planned an announcement for the following morning, that he never made it, and that in the Red Queen's log for that night there is a single entry at 22:52 which reads: *Director instructs: no statement. They are doing it themselves.*
 [music] m_triumph -7
 [img] {WESKER} standing alone on a balcony looking up at a bright moving object in the night sky
 [loc] The Arcology — 11 November 2090, 11:50 p.m.

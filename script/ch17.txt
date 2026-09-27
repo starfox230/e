@@ -71,6 +71,19 @@ WESKER: (cold) Any *host*.
 SYSTEM: The panel is accurate.
 N: He asked about that one for the next thirty years too.
 
+[music] m_lo -10
+[img] a field hospital tent interior at night with rows of beds, staff moving quietly, warm lamps
+[loc] Ravenna — 19 March 2033
+N: The narrator would like to put you inside one of the tents, because the rest of this chapter is logistics and the tents were not.
+N: Umbrella's field teams were a mixture: about a third Absolute, about a third integrated staff from the plants, and about a third ordinary recruits who had answered an advertisement. They did not wear rank. They worked eleven-hour shifts and were rotated out at fourteen days without exception, which was a rule Wesker had written personally in 2029 after reading the occupational literature on aid work, and which the medical directors had fought and lost.
+N: A nurse from Bologna named Paola Rinaldi worked four rotations in that outbreak and gave an interview in 2041 that is the most-quoted first-hand account of the Umbrella response.
+WOMAN: (slow) They were not kind, exactly. That is the thing people get wrong. They were *competent*, at a level I had never seen, and competence at that level looks like coldness until you have been in it for a week.
+WOMAN: (slow) The supplies arrived before we asked. The rota was correct. Nobody ever told me something would be fixed and then it was not fixed. In nineteen years of hospital work that had never once happened to me.
+[pause 0.6]
+WOMAN: (very slow) And there was a man in my tent on the fourth night, in a black coat, at about three in the morning, who spent two hours moving oxygen cylinders because we were short-handed and a delivery had gone to the wrong square.
+WOMAN: (slow) I did not know who he was. He did not say anything except to ask where they went. I found out four days later, from a photograph, and I have thought about it ever since, and I still cannot tell you whether that was a man helping or a man making sure the cylinders got to the right tent.
+N: The narrator has checked the logistics record. The delivery did go to the wrong square. Wesker's movements that night are in the Surveillance Suite log and are consistent with her account.
+N: He never mentioned it to anybody, it appears in no Umbrella publication, and the narrator has been unable to determine whether that is modesty or the most efficient piece of public relations in the company's history, and suspects that Albert Wesker could not have told you either.
 [music] m_scheme -8
 [img] {WESKER} and {CATHERINE} walking along an empty corridor at night, floor-to-ceiling windows, city below
 [loc] Singapore Tower — 11 May 2033, 9:20 p.m.

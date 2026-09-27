@@ -90,6 +90,18 @@ Presence: 34 → 46
 [say] Devotion, institutional. Audience: one hundred and forty-one million. Approval among United States adults: seventy-nine per cent. Legislative risk reduced for approximately eleven years. One million nine hundred thousand Points. Level sixty-six. Presence: thirty-four to forty-six.
 [/system]
 
+[music] m_lo -10
+[img] a senator in a quiet office at night watching a screen, papers on the desk, lamp light
+[loc] Washington — 9 April 2034, 11:00 p.m.
+N: Senator Grace Kowal watched her own hearing that night, alone, with the sound off for the last twenty minutes, and then telephoned the one person she had promised herself she would not telephone.
+N: Her chief of staff's note of the call is four lines and was published in her papers in 2061.
+SENATOR: (slow) He gave me everything I asked for. Everything. The requisition clause, the plants, the escrow. My bill will pass with eighty votes and it will be the biggest thing I ever do.
+SENATOR: (slow) And I have been sitting here for two hours trying to work out why I feel as though I have just been *handled*, and the answer is that every single one of those concessions was drafted before I subpoenaed him. The escrow instrument is forty-one pages. Nobody writes forty-one pages in a hearing.
+[pause 0.8]
+SENATOR: (very slow) He came to Washington with the concessions in his pocket and waited for me to ask the right question so that he could hand them over as though I had won them.
+SENATOR: (slow) And here is the part I cannot get past. If I had asked a worse question, he would have kept them in his pocket, and my bill would have been nothing, and he would have let me fail.
+SENATOR: (very slow) He made me earn it. Do you understand what I am saying? The most powerful man alive made the United States Senate *earn* a concession he had already decided to give, because he thinks we are better at holding things we had to work for.
+SENATOR: (slow) He is right about that. That is what I cannot get past. He is right, and it is the most patronising thing that has ever been done to me, and I am going to spend the next twenty years being grateful for it.
 [music] m_scheme -8
 [img] {WESKER} alone in the back of a car at night, papers on the seat beside him, city lights
 [loc] The road to Wilmington — 9 April, 8:30 p.m.

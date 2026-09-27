@@ -48,6 +48,22 @@ LAURA: (slow) A company came, and built a wall, and did not ask me to vote a par
 [pause 0.8]
 N: Nobody did.
 
+[music] m_corporate -10
+[img] an engineering office with drawings spread across a table, engineers in discussion, daylight
+[loc] Teraina — 2046
+N: The sea wall is worth four paragraphs, because it is the only thing Umbrella built in the 2040s that was not placed, and because of what that cost.
+N: The System would have put it there in a night for about nine hundred thousand Points, complete, with eleven years of maintenance records and a tender process that had never happened.
+N: Wesker paid instead: four billion dollars, fourteen months, eleven hundred workers, of whom six hundred were from the islands and were trained for it at Umbrella's expense at a school Umbrella built for the purpose and then handed to the Republic.
+N: Catherine Adeyemi asked him why, in writing, because by 2045 she asked everything in writing.
+CATHERINE: (fast) We are spending four billion dollars and fourteen months on an asset we could have for nine hundred thousand Points and no time at all. Explain the difference, because I have to sign it.
+WESKER: (cold) The difference is six hundred islanders who will know how to build a sea wall.
+CATHERINE: (fast) That is sentiment.
+WESKER: (very cold) It is *infrastructure*. In eleven years the sea will be higher than this wall and it will need another one, and I intend for the people who build that one to be the grandchildren of the people who built this one, and for none of them ever to have to ask me.
+[pause 0.6]
+WESKER: (soft) I have placed four cities, Ms. Adeyemi, and I will place a great many more. Every one of them arrives with the skills already inside it, in people who cannot teach them, because the knowledge came with the paperwork and does not live in anybody's hands.
+WESKER: (very cold) Teraina is the first thing I have ever built that leaves something behind when I go.
+N: The wall was finished in 2047. In 2071 the Republic built the second one itself, with its own money, using a contractor from the islands, and Umbrella's involvement was an invoice for four hundred thousand dollars of materials that was paid in full.
+N: The narrator notes that Albert Wesker flew out for the opening of the second wall and was not on the platform, and that the photographs of that day show a row of local engineers and, at the back of the crowd, a man in a black coat that nobody in the photograph is looking at.
 [music] m_lo -9
 [img] {WESKER} and {CARRICK} walking along a sea wall at dusk, ocean on one side, low island on the other
 [loc] Teraina — 22 November 2049

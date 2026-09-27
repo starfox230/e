@@ -61,6 +61,19 @@ N: There is no expression on it. There has been no expression on it in sixty yea
 [sfx] sfx_camera_flashes +0.4
 N: They chanted louder. That is on the recording too.
 
+[music] m_corporate -10
+[img] a school classroom with a teacher at a desk marking papers, evening light through windows
+[loc] Raccoon City, Mill Street School — 19 September 2086
+N: Ruth Ochoa went back to work on the Monday and found four hundred and eleven letters in her school's post, and a camera crew outside, and a class of eleven-year-olds who wanted to know whether she was famous.
+N: She gave one interview and then refused every other request for the rest of her life, which was long.
+WOMAN: (slow) I taught the history of this valley for twenty-six years. I taught it from the Directorate's own curriculum, which is honest — I want to say that, because people assume it is not. It says the city was placed. It gives the date. It uses the word *made* about the people.
+WOMAN: (slow) And every year, for twenty-six years, there is a child in that class who works out in the middle of the lesson that it means their grandmother, and puts their hand up, and asks me if their grandmother was real.
+[pause 0.8]
+WOMAN: (very slow) I have answered that question about three hundred times. The answer I give is *yes*, and it is true, and it is not enough, and every single one of those children knows it is not enough, and they are eleven.
+WOMAN: (slow) That is why I wrote to him. Not for the stadium. For the answer. I have been giving the best answer I can for twenty-six years and I wanted the man who made the question to come and stand in front of a hundred thousand people and give one himself.
+N: Asked whether he had, she thought about it for some time.
+WOMAN: (very slow) He said we were more real than he was. It is a good line. I have used it in class and it works, and the children like it.
+WOMAN: (slow) But I have thought about it for a month now, and I notice that he answered the question about *us* and not the question about *him*, and that nobody in ninety-one thousand people noticed either, including me, until I got home.
 [music] m_lo -9
 [img] {WESKER} sitting alone in an empty stadium at night after the crowd has gone, seats empty
 [loc] The stadium — 15 September, 1:40 a.m.

@@ -56,6 +56,28 @@ HUNK: (radio) No presence. No response. Interdiction before the event, by knowin
 WESKER: (cold) Yes. I do not want guards, Mr. Hale. Guards are a tax I pay for ever, and a guard tells the world where the valuable thing is. I want a company that appears to have no security at all, and a very small number of people who arrive eleven hours before a thing happens.
 N: That was the doctrine. It never changed. Thirty years later, when the Umbrella Security Service was a hundred and ninety thousand strong and had regiments in orbit, that sentence was still the first line of the manual.
 
+[music] m_lo -10
+[img] {HALE} a tall shaven-headed man in black tactical gear standing alone in an empty corridor
+[loc] Arklay, level two — 19 November 2028
+N: The narrator would like one scene with Hale, who has been in this story since the lobby in Chapter One and has said perhaps twenty words.
+N: Wesker found him at two in the morning standing in a corridor outside the armoury, doing nothing, which is what the Absolute did when they had no instruction and nowhere to be.
+WESKER: (soft) How long have you been standing here, Mr. Hale?
+HALE: (flat) Four hours, Director.
+WESKER: (cold) Doing what?
+HALE: (flat) Waiting, sir.
+WESKER: (very cold) For what?
+[pause 0.8]
+HALE: (flat) I hadn't got that far, sir.
+N: The narrator asks you to sit with that, because it is the clearest description anybody ever gives of what the Absolute were, and it is given by one of them, cheerfully, in a corridor, at two in the morning.
+WESKER: (soft) Mr. Hale, I am going to give you a standing instruction and it will be the only one of its kind in this organisation. When you have nothing to do, you will do something you have chosen. Anything at all. Read, walk, sleep, take the car out. I do not care what it is and I will never ask.
+[pause 1.0]
+HALE: (flat) Yes, sir.
+[pause 0.6]
+HALE: (flat) Director — may I ask what I should choose?
+WESKER: (very cold) No. That is the entire point of the instruction and it is why it will not work.
+N: It did not work. Hale complied, as he complied with everything: for eleven years he went for a walk at the same time every night, four kilometres, the same route, and reported nothing, and enjoyed nothing, and when he was released in the seventh cohort in 2085 at the age of eighty-one the first thing he did was walk the same route.
+N: He walked it for another nine years. Then, in 2094, at eighty-nine, he stopped, and went a different way, and got lost, and the Directorate's duty officer received a call at eleven at night from a man who had been the head of its security service for forty years, standing at a road junction four kilometres from his house, saying — and it is in the log, and Wesker read it, and the log records that he read it eleven times —
+HALE: (slow) I don't know where I am. It's all right. I did it on purpose. Could somebody come and get me?
 [music] m_scheme -9
 [img] a European industrial estate at night, a low research building, no lights, rain on tarmac
 [loc] Near Leuven, Belgium — 2 December 2028, 1:00 a.m.

@@ -42,6 +42,21 @@ SENATOR: (slow) You are proposing that we defeat an interstellar empire with *pa
 [pause 0.6]
 WESKER: (soft) Senator, I built a company that owned half this planet's infrastructure and no government ever laid a finger on it, and I did it with nothing else.
 
+[music] m_lo -10
+[img] a colonial council chamber with a few dozen people arguing, plain room, alien landscape beyond
+[loc] Ochoa — 11 May 2142
+N: The narrator will give you one of the four hundred separate answers, because the campaign is usually described from the Assembly and it did not happen there.
+N: Ochoa acknowledged the settled order in 2142, unanimously, and Theresa Okonkwo-Vance — who had transmitted the Veth's demand in the clear and started all of it — voted for acknowledgement, which nine hundred thousand people found difficult to understand.
+WOMAN: (slow) I'll say it plainly because the recording goes out at six. We are acknowledging. We are not submitting; there is a difference and it is the whole of our position.
+WOMAN: (slow) Their protocol requires us to acknowledge that the system is within the settled order. We do acknowledge that. It is a statement about where their maps say we are. It is not a statement about who we take instruction from, and I have read all four hundred pages of their annexation law twice and it does not say that it is.
+WOMAN: (very slow) And then we are going to file four hundred and eleven procedural queries about the assessment, which their own law requires them to answer individually, in writing, before a garrison may be seated.
+COUNCILLOR: (slow) How long does that take them?
+WOMAN: (slow) Their fastest recorded response to a single query is nine days. We have four hundred and eleven. And every colony that files behind us adds its own.
+[pause 0.8]
+COUNCILLOR: (slow) That's not a defence. That's *filibustering an empire*.
+WOMAN: (very slow) Yes. We have nine hundred thousand people, two ships and a hydroponic economy, and the only weapon that has ever been available to anybody in our position is that the people who came to take our system have rules and we have read them.
+N: The Veth answered eleven of the four hundred and eleven queries. The twelfth required them to state the basis of the assessment in a form that Ochoa's council was able to appeal, and the appeal required a hearing, and there had not been a hearing in the settled order in nine thousand years.
+N: The narrator notes that Theresa Okonkwo-Vance had been a fisheries lawyer.
 [music] m_alien -8
 [img] a vast alien command chamber with an armoured admiral among ranks of officers, cold light
 [loc] Veth flagship, the Ochoa system — 2142 to 2149

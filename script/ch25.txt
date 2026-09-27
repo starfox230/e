@@ -40,6 +40,23 @@ WESKER: (very cold) You are all, therefore, in a new situation. I would encourag
 N: He walked off the field. There were no questions taken.
 [sfx] sfx_camera_flashes +0.3
 
+[music] m_lo -10
+[img] a soldier in black armour standing alone in an empty field in the rain, seen from a distance
+[loc] Allegheny Ridge — 24 May 2040, after
+N: Officer Dray stood on that field for ninety minutes in the rain while eleven defence ministers looked at her, and the narrator has her file, and it is four lines long and it is the most disturbing document in this chapter.
+N: *DRAY, K. Acquired 2036, Security Cohort, Absolute. Four years' service. No sick leave. No grievance. No disciplinary record. No leave taken.*
+N: No leave taken. Four years.
+N: Wesker read that file on the aircraft home and the Red Queen's predecessor logged what he said, which was nothing for eleven minutes, and then one instruction.
+WESKER: (cold) Every Absolute employee of this organisation is to be *placed on leave*. Not offered it. Placed. Four weeks a year, mandatory, enforced by the roster, beginning immediately.
+N: It was the single largest administrative undertaking in Umbrella's history at that point: fourteen thousand people who had never had a day off, sent away for four weeks, with pay, with nowhere to go and nothing they wanted to do.
+N: The Directorate's internal review of the first year, in 2041, is a document the narrator would recommend to anybody who thinks this story is about a company.
+N: Of fourteen thousand: nine thousand six hundred spent the four weeks in their quarters. Two thousand one hundred travelled to a place their file said they were from, looked at it, and came back early. Four hundred and eleven asked, formally, in writing, to be given a task. Nineteen had what the medical staff called an adjustment crisis and two of those required admission.
+N: And one hundred and forty-one — one per cent — did something.
+N: The report lists them individually, which is unusual, and the narrator suspects it was done at Wesker's instruction. A man who drove to the Atlantic coast and sat on a beach for four weeks. A woman who bought a violin and could not play it and kept it. Nine who went to the same town in Pennsylvania and did not know why and found out, from a clerk, that it was in all their files as their birthplace, and spent four weeks in a bar together working out that they had been made in the same week.
+WESKER: (very soft) One per cent.
+REDQUEEN: (soft) One per cent, Director. In four weeks. From a standing start, with no model of what wanting something is.
+WESKER: (cold) Then do it every year and let us find out what the number is in twenty.
+N: It was eleven per cent in 2061. It was forty per cent in 2081, the year before the first release cohort, and every single person on the committee that designed the release programme cited that number as the reason they believed it could work at all.
 [music] m_scheme -8
 [img] a montage of newspapers and defence journals with headlines, a stock ticker falling
 N: The narrator will give you the consequences in the order they arrived.

@@ -51,6 +51,18 @@ N: She considered that.
 WEN: (slow) You have just told me how you handle every person who gets close to you. I do not think you meant to.
 WESKER: (cold) I meant to.
 
+[music] m_scheme -10
+[img] a quiet office in beijing at night, a woman at a desk with a single lamp and a paper file
+[loc] Beijing — 11 April 2036
+N: Wen Shulan went back to her office after the park and wrote the assessment that got her the eleven years, and the narrator has it, and it is not what her ministry expected.
+WEN: (slow) He offered me one thing I did not ask for and I have been thinking about it for a week.
+WEN: (slow) I told him that curious officials would be transferred. He asked me instead to send them to him, so that he could offer them employment, and said that if they refused they should go back to their posts with their careers intact.
+WEN: (very slow) My first reading was that he wishes to collect our people. That reading is wrong and it took me four days to see why.
+WEN: (slow) Consider what he actually asked for: that the people in this service who are clever enough to notice him should not be punished for noticing. He has protected them from *me*. He has made it safer, inside the Ministry of State Security, to be right about Albert Wesker.
+WEN: (slow) In nine years those officers will be senior. Every one of them will owe their career to a rule he asked for. Not one of them will have taken a coin.
+[pause 0.8]
+WEN: (very slow) I have read four thousand recruitment operations. I have never seen one conducted by asking the target's employer to stop firing the good ones.
+WEN: (slow) Recommendation unchanged: build the wall. But record, so that whoever holds this desk in twenty years knows it, that the wall is not to keep him out. It is to keep our own best people from walking towards him, and it will not work, and I do not have a better idea.
 [music] m_corporate -8
 [img] a large pharmaceutical plant under construction with cranes and scaffolding, daylight, workers
 [loc] Suzhou Industrial Park — 2036 to 2039

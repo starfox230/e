@@ -72,6 +72,18 @@ N: It was that the loan was *performing*. Every quarter, on the day, four millio
 BANKER: (soft) What am I supposed to write? That the building is real, the money is real, the signature is mine, and I would like an investigation into my own memory?
 N: He closed the folder. He was promoted in 2031, and he retired in 2044 to a house above Lake Thun, and once, drunk, at a wedding, he told his son-in-law that he had once found a tower that had never been built, and his son-in-law thought it was a joke about Swiss banking, and laughed.
 
+[music] m_lo -10
+[img] a young man in a small flat at night looking at photographs on a laptop, city lights outside
+[loc] London, Battersea — 2 February 2029
+N: Marcus Reese was in this story once, in 2027, as a nineteen-year-old with a drone and eleven hundred photographs of a riverfront in Wilmington.
+N: He was twenty-one in 2029, and living in London, and on the Sunday morning after the towers he opened a folder of his own photographs of the Thames skyline, and sat and looked at them for about four hours.
+MAN: (slow) I'd done this before. That's the thing. I'd been through it in Delaware two years earlier and I'd talked myself out of it, and I'd promised myself that if it ever happened again I would not talk myself out of it.
+MAN: (slow) So I sat there with nine photographs and a tower in all of them, and I did not talk myself out of it, and it was the worst four hours of my life.
+N: What he did next is the reason he matters. He did not post. He did not go to a journalist, or a forum, or a professor.
+N: He started a file. He photographed the skyline on the same date every year, from the same place, and wrote down the weather. He collected other people's — not screenshots; originals, with cameras, with metadata, bought where he had to buy them. He built, over four decades, the largest independent photographic archive of the built environment in the world, and he never once published a theory about it.
+N: When Albert Wesker published the catalogue in 2212, Marcus Reese had been dead for ninety-one years, and his archive — nineteen million images, willed to a university that had not wanted it and had accepted it out of embarrassment — became the single most valuable corroborating source in the Assembly's inquiry.
+N: Four hundred and eleven placements were confirmed from it, including nine that Umbrella's own ledger had recorded incorrectly.
+N: The narrator notes that there is a room named after him in the Assembly's archive, that nobody in it ever met him, and that in his own lifetime he was best known to eight people on a forum as a man who was slightly odd about buildings.
 [music] m_corporate -7
 [img] four tall towers in different cities shown as a montage at night, lit windows, crimson emblems
 N: Three regulators opened files in the first month.

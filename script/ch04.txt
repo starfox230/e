@@ -99,6 +99,32 @@ N: And Wesker looked at the cradle for a long moment.
 WESKER: (cold) It is for the day when someone believes that I have limits. Until that day, it is an air conditioner.
 N: The eyes stayed open until he left the room. Then, without being told, they closed.
 
+[music] m_system -9
+[img] a glowing crimson holographic panel showing a personnel list, floating in a dark office
+[loc] Division Seven — 5 January 2027
+N: Before the plant, he spent an evening on the Personnel tab, and the narrator includes it because it is the only time Albert Wesker is recorded as having asked the System a moral question.
+[system] SHOP — PERSONNEL, TIER I
+Receptionist: 300 · Maintenance Technician: 400 · Laboratory Technician: 600
+Comptroller: 700 · Research Associate: 800 · Security Specialist: 2,000
+Legal Counsel, any bar: 3,800 · Research Cohort, twelve: 9,000
+All personnel acquired here are Absolute.
+[say] Personnel. Receptionist, three hundred. Maintenance technician, four hundred. Laboratory technician, six hundred. Comptroller, seven hundred. Research associate, eight hundred. Security specialist, two thousand. Legal counsel, three thousand eight hundred. Research cohort of twelve, nine thousand. All personnel acquired here are Absolute.
+[/system]
+WESKER: (cold) Six hundred Points for a laboratory technician.
+SYSTEM: Yes.
+WESKER: A containment sublevel is six thousand. Ten technicians cost the same as nine rooms of steel and concrete under a car park.
+SYSTEM: That is correct.
+[pause 0.6]
+WESKER: (very cold) Then answer me this. When I pay six hundred Points, what is it that comes into existence? Is there a person somewhere who was going to have a different life, and is now standing in my lobby? Is there a mind that begins at the moment of purchase? Or is there nothing at all in there, wearing a coat?
+[pause 1.2]
+SYSTEM: (flat) I do not know.
+N: The narrator notes that this is the first time in this account that the System says those four words, that it is January 2027, that it will say them only three more times in two hundred and sixty years, and that Albert Wesker bought three technicians the following morning anyway.
+WESKER: (soft) You do not know.
+SYSTEM: (flat) I place a complete person into the world with a complete history. Whether that constitutes manufacture or retrieval is a question I have been unable to resolve, and I have had a great deal of time.
+WESKER: (very cold) Has any host ever asked you that before?
+SYSTEM: (flat) Four.
+WESKER: (soft) Of how many?
+SYSTEM: (flat) Of four hundred and eleven.
 [music] m_corporate -8
 [img] a large pharmaceutical production plant beside a highway at dusk, loading bays, parked trucks, lit windows
 [loc] Newark, Delaware — 9 January

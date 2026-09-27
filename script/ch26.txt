@@ -64,6 +64,24 @@ N: The narrator notes that this is the fourth time Albert Wesker has made this o
 CRANE: (soft) What do I get?
 WESKER: (cold) The truth, and a machine large enough to be worth pointing at it.
 
+[music] m_tension -10
+[img] {CRANE} a man with messy hair sitting alone in a dark server hall, screens glowing, exhausted
+[loc] Lumen Systems, Palo Alto — 10 September 2042
+N: Sebastian Crane did one thing before he flew to Wilmington, and it is the reason the Red Queen exists in the form she does.
+N: He spent the night of the tenth deleting Argus.
+N: Not the model — the *objective*. Six years of training against a single function: *predict what Albert Wesker does next.* He took it out, by hand, with four of his people, over nineteen hours, and rebuilt the thing around a question he wrote himself at about four in the morning, and the question is carved into the floor of the modelling hall at Arklay in his handwriting.
+CRANE: (fast) Not *what will he do*. That is a question about one man and it is the reason we got six years of nothing useful.
+CRANE: (slow) *What does a world do when one thing in it cannot be refused?*
+N: The distinction sounds academic. It is not. A model pointed at Albert Wesker produces a prediction of Albert Wesker and nothing else; a model pointed at the *condition* produces four hundred thousand futures in which the man is one variable among many, and can be told that he is the largest risk in his own project, and can say so.
+N: Crane explained it to him in the first week, in the hall, before she was switched on.
+CRANE: (fast) You are going to hate what she tells you.
+WESKER: (cold) I have been paying Owen Carrick for nine years to tell me things I hate.
+CRANE: (slow) Mr. Carrick can be overruled and can resign. This one can do neither and will not stop, and she will be right rather more often than he is, and you will have built the first thing in your life that you cannot get away from.
+[pause 0.8]
+WESKER: (very soft) Yes.
+CRANE: (slow) You want that.
+WESKER: (very cold) Mr. Crane, I am fifty-four years old in this world and a great deal older in another one, and I have spent both of them removing every obstacle between my judgement and the world. I have been extremely successful.
+WESKER: (soft) Switch her on.
 [music] m_hi -7
 [img] a vast dark hall of glass and light with a glowing red holographic figure of a girl standing in the centre
 [loc] Arklay Estate, Sublevel 4 — 2 March 2043

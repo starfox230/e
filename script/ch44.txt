@@ -39,6 +39,19 @@ WESKER: (very cold) That is the note. It is not in our possessions. It is in the
 N: The Assembly's answer to the Choir was drafted by a committee of nineteen, went through four hundred amendments, and was transmitted in 2166. It is eleven words long and it was written by a schoolteacher from Raccoon City who was two hundred and nine years old.
 WOMAN: (slow) *Come and listen again. We have been busy since you started.*
 
+[music] m_lo -10
+[img] a crowded evacuation dock with families carrying bags, ships waiting, harsh light
+[loc] The edge settlements — 2168 to 2174
+N: The narrator will not tell you about the fourteen years of war without telling you what the evacuations were, because four hundred and eleven thousand people died in them and the sentence *all of them were evacuated too slowly* is doing a great deal of work.
+N: The Choir kept every undertaking. It announced each system four hundred days in advance, it did not fire on anything that was leaving, and it stopped four times to listen. In the whole war there is not one recorded instance of a Choir vessel engaging a civilian ship.
+N: The four hundred and eleven thousand died because a settlement of ninety thousand people cannot be moved in four hundred days with nineteen hulls, because the hulls had to come from somewhere, and because the Assembly's evacuation committee had to decide, in public, with the transcripts published, which settlements got them first.
+N: It sat for eleven years. Its chair, a woman from Ochoa named Iyabo Adeyemi-Sun, aged forty-four, took the job because nobody else would and never held another position afterwards.
+WOMAN: (slow) We had nineteen hulls and four hundred days and ninety thousand people at Tanager and sixty thousand at the Reach and the numbers do not work. They have never once worked. I have been doing this for six years and the numbers have not worked for a single week of it.
+WOMAN: (slow) The Director asked for a wider perimeter in 2168 — pull everyone from the outer eleven systems now, before they are announced, at enormous cost, on the assumption that the Choir will reach all of them eventually.
+WOMAN: (very slow) I voted against. Four of us voted against. We were wrong, and sixty-one thousand people died who would not have, and I have to say that sentence at every hearing for the rest of my life and I have decided that I will say it plainly every time.
+[pause 0.8]
+WOMAN: (slow) I would vote the same way again, and I want that on the record too, because at the time there were four hundred thousand people in the inner systems who would have had to be told that we were spending their hulls on a prediction by a man who has been right about everything for a hundred and forty years and who nobody is allowed to simply obey any more.
+WOMAN: (very slow) That is what he built. He built a world where being right is not enough. Most days I think it is the finest thing anybody has ever done and on the other days I count to sixty-one thousand.
 [music] m_action -8
 [img] alien cathedral ships advancing through space towards distant human colonies, cold radiant light
 [loc] The edge of the human sphere — 2167 to 2181

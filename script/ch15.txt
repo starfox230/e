@@ -56,6 +56,24 @@ N: Denise Ferrand looked at him for a long moment.
 DENISE: (soft) That's the most honest thing anyone has said to me in this building.
 WESKER: It is the most honest thing anyone will say to you in any building. Goodnight.
 
+[music] m_lo -10
+[img] {GUS} a maintenance man in navy coveralls talking to a woman in a grey suit in a corridor
+[loc] The Umbrella campus, Building One — 11 July 2030
+N: The narrator promised you Gus in a corridor and owes you the whole of it, because the review turned on it and neither party ever knew.
+N: Denise Ferrand had been in that building for four months and had developed the habit that every good auditor develops, which is to ask the questions in corridors rather than in rooms.
+DENISE: (slow) Mr. Gus. How long have you worked here?
+GUS: (slow) Since the building went up, ma'am. Nineteen ninety-eight.
+DENISE: (slow) And the garage. Three levels?
+GUS: (slow) Three, ma'am.
+DENISE: (slow) Anything under it?
+[pause 0.8]
+GUS: (slow) Just dirt, ma'am, and about nine miles of conduit.
+N: He was telling the truth. That is the thing that has to be understood about that exchange and about the entire four hundred million pages that Umbrella handed over: Gus had been down to Sublevel B4 four thousand times. He had a key to it on the ring in his pocket while he was speaking. He serviced its air handler monthly, including the one that was not an air handler.
+N: And he had never been told that any of it was unusual, and nobody had ever instructed him to conceal it, and so when a federal auditor asked him a question in a corridor his mind produced the answer that four hundred people in that building would have produced, which is that the garage has three levels and there is dirt under it, because that is what is on the drawings and Gus was a man who worked from drawings.
+N: The narrator notes that if Denise Ferrand had asked *how many buttons are in the lift*, she would have had the entire thing in about nine seconds, and that she has said so, publicly, twice, and that she describes it as the great regret of a thirty-one-year career.
+DENISE: (slow) Thank you.
+GUS: (slow) Ma'am. You want anything found in this building, you ask me. I know where everything is.
+N: He meant it. That is the worst part. He meant it completely.
 [music] m_corporate -8
 [img] a printed government report on a desk with a headline on a newspaper beside it, morning light
 [loc] Washington — 14 October 2030

@@ -74,6 +74,22 @@ EVELYN: (soft) Do you know what that does to a person like me?
 WESKER: (cold) Yes. I have been counting on it for eleven years.
 N: The narrator asks you to remember that exchange, because in 2043 Dr. Evelyn Marsh does build it, and it does work, and she is the first person to take it, and she does not ask him first.
 
+[music] m_horror -10
+[img] a containment corridor with heavy doors and observation windows, dim red light, empty
+[loc] Rockfort, Level 11 — 14 March 2039
+N: The narrator has an obligation here and is going to discharge it in one page, because it would be dishonest to spend fifty chapters on a man's manners and skip what was in the building.
+N: The B.O.W. programme at Rockfort between 2037 and 2044 produced eleven organism lines. Four were soldiers. Three were tools — searchers, carriers, things for hard vacuum. Two were failures that had to be ended, and the record of how is sealed and the narrator has not been permitted to read it.
+N: The remaining two are the reason the Hangzhou Accord has a clause about biology at all.
+N: Every one of them was grown from a defined line. None was made from a person. Wesker's instruction on that, issued in 2037 and never amended, is four words long — *nothing that was human* — and Birkin argued against it every year for a decade on the entirely correct grounds that the human substrate was more capable, and lost every year.
+BIRKIN: (fast) The T-103 line tops out because we are building from scratch. If I take a volunteer —
+WESKER: (very cold) No.
+BIRKIN: (fast) A *volunteer*, Albert, an informed adult, we have four hundred applications from people who —
+WESKER: (very cold) I have read the applications. Nine of them are from people with terminal diagnoses, and one is from a man whose daughter needs money, and every one of them is the reason the answer is no.
+[pause 0.8]
+WESKER: (cold) Will. In the other place, I did this. I did it for eleven years with a research budget and an ethics board I had dissolved, and every single one of them was a volunteer, and I can still tell you their names, and I have no idea why I can.
+[pause 0.6]
+WESKER: (very soft) Nothing that was human. Put it on the wall of the wing.
+N: It is on the wall of the wing. It is still there, in a facility on an island in the South Atlantic that is now a Compact xenobiology station, and every species that has worked in that building for two hundred years has asked what it means, and been told.
 [music] m_scheme -9
 [img] a sealed vault door deep in a laboratory, a small black case on a pedestal inside, cold light
 [loc] Arklay, Level 9 — 31 December 2038

@@ -61,6 +61,22 @@ N: Not everyone. The chief executive of the Swiss house remained seated, and so 
 N: Albert Wesker stood up, nodded once, and left the stage while they were still clapping. He did not do a press line. He did not take questions.
 N: He was in a car on the way to the airport before the session ended.
 
+[music] m_tension -10
+[img] a hotel suite at night with two chairs, one occupied, city lights beyond the window
+[loc] Basel, the night before — 18 June 2029
+N: There is one more piece of the Basel preparation and the narrator has held it back, because it is the only time the passenger in Albert Wesker's skull asks for something for himself.
+ADOLF: (soft) When you go out there tomorrow. There will be four thousand people in that hall.
+WESKER: Yes.
+ADOLF: (soft) I want you to look at them.
+WESKER: (cold) I intend to look at them. You have spent two hours telling me where to look.
+ADOLF: (very soft) That is not what I said. I said *look* at them. You will walk out, and you will deliver a hundred and forty-one seconds with the timing I have given you, and you will not see a single face, because you never do. You see a room. You have seen a room since 2026 and you saw a room in the other place before that.
+[pause 0.8]
+ADOLF: (soft) I had twelve years of halls. I could tell you, in the first thirty seconds, which part of a crowd was with me and which part had come to see what the noise was. Not as a technique. It was simply what the room felt like, the way a temperature feels.
+ADOLF: (very soft) I have not felt a room in eighty-four years and I am not going to feel one again. You will be standing in the middle of the best one either of us has ever had, and you will not notice it, and that is the part I find hard.
+[pause 1.0]
+WESKER: (very cold) Is that self-pity?
+ADOLF: (soft) Yes. You may have it back tomorrow with interest; I am giving you a keynote.
+N: The narrator records that Albert Wesker walked out onto that stage the following morning, and stopped for four seconds before he began — one second longer than the passenger had drilled into him — and that when he was asked about it years later he said he had simply been looking at the room.
 [music] m_hi -6
 [img] a montage of news broadcasts on screens, headlines and reporters, a lit newsroom
 N: The clip was eleven million views by Wednesday and two hundred and eleven million by the following Monday.

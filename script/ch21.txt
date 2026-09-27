@@ -92,6 +92,22 @@ WESKER: (cold) Yes. And in four days a philosophy professor in Berlin would writ
 N: Umbrella's stock fell eleven per cent on the Monday and recovered all of it by Thursday. The United Nations Security Council held an emergency session on the Tuesday and produced nothing. Nineteen governments opened files.
 N: And four hundred million people looked at a photograph of a line of children and a grey giant, and understood, without anyone having to say it, that the world had changed and that it had changed in a direction nobody had voted for.
 
+[music] m_lo -10
+[img] a school corridor with children's drawings pinned to the wall, one large crayon drawing of a grey figure
+[loc] Lyon — November 2035
+N: The narrator will give you the part of Lyon that the Directorate never quoted, because it appeared in a local newspaper in November and was reprinted four thousand times and is the reason the word *Tyrant* never once appeared in an Umbrella document.
+N: A primary school four streets from the Stade Belloy asked its pupils, as schools do, to draw something about the week. Eleven of the nineteen children in one class drew the same thing: a tall grey man in a coat, standing still, with small figures walking past him in a line.
+N: One of them, aged eight, wrote underneath it, in the careful handwriting of somebody who has just learned to join letters: *le monsieur qui attend* — the gentleman who waits.
+N: It was on the front page of a regional paper on the ninth of November. By the fourteenth it had been reproduced in nine countries. By Christmas there were toys.
+[pause 0.6]
+N: Umbrella issued no statement, licensed nothing, and sued nobody, which Catherine Adeyemi argued about for four days and lost.
+CATHERINE: (fast) There are nine manufacturers in three countries making an unlicensed plush toy of a biological weapon, and our legal position is unanswerable, and you are telling me to do nothing.
+WESKER: (cold) I am telling you to do nothing.
+CATHERINE: (fast) Why?
+WESKER: (very cold) Because a company that sues a child's drawing has told the world what the drawing is. In four years every seven-year-old in Europe will own a grey man who stands in front of them and waits, and in twenty years those children will be voters, and in forty they will be ministers, and not one of them will ever be able to be properly frightened of us again.
+[pause 0.8]
+WESKER: (soft) I could not buy that, Ms. Adeyemi. It cost me eleven dead men and four minutes and it was free.
+N: The narrator notes that he was correct, that the toy is still manufactured, and that the Assembly's 2141 debate on the Veth included a speech in which a delegate from Lyon held one up.
 [music] m_system -8
 [img] {WESKER} standing alone in a dark hangar looking up at a huge grey figure standing motionless in a restraint frame
 [loc] Arklay, the hangar — 22 October 2035, 3:00 a.m.

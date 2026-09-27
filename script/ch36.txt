@@ -43,6 +43,22 @@ WEN: (slow) It is the only kind of reason anybody has ever had. You have been wa
 [pause 1.2]
 N: He signed it in Hangzhou on the fourth of January 2080, with forty-one signatory states, in a room with four cameras in it.
 
+[music] m_lo -10
+[img] a small kitchen with a man and a woman at a table, a letter open between them, morning light
+[loc] Newark, Delaware — 11 February 2082
+N: The Registry's letter went to four hundred and eleven thousand people over thirty years, in the order in which their cohorts came up, and the narrator has read the fourth draft, which is the one that was used, and which Albert Wesker wrote himself in 2081 and rewrote three times.
+N: It is nine paragraphs. It does not apologise, which was the most argued-about decision in the Directorate for a decade.
+N: It says: that the recipient was placed into the world on a specific date, which is given; that their memories before that date were provided rather than lived; that everything since is entirely their own; that the people in their life are real and their feelings for them are real; that they are, in law and in every way the Directorate is able to determine, a person; that they have never been able to refuse an instruction from Umbrella and that this will end on a date, which is given; that they are entitled to see every record about themselves, and to compensation, and to leave with a pension at any time; and that the man responsible is named, and is alive, and will answer any letter they send him personally.
+N: About sixty-one thousand of them wrote.
+N: He answered all sixty-one thousand, over thirty-nine years, in longhand, at a rate of about eleven a week, and the archive of those replies is four hundred volumes and is the other reason this account exists.
+[img] a man in his fifties reading a handwritten letter at a kitchen table, plain room, daylight
+N: Ray Dorsey — the plant supervisor from Chapter Four, who had telephoned his wife on his first Monday and told her he had been doing this for eleven years — was in the second cohort, at the age of fifty-five, in 2082.
+N: He wrote four lines. The reply is in volume nine.
+MAN: (slow) *I don't want compensation and I don't want to leave. I want to know one thing. The holiday in Ocean City. Did it happen?*
+WESKER: (slow) *Mr. Dorsey. No. It did not happen, and I am sorry to be the one to confirm it. You were given it complete, including the rain on the Thursday, on the eighth of January 2027, because a system I do not fully understand decided that a man of your age would have had one.*
+WESKER: (slow) *I have thought about your question for some days. I think the honest answer is that the holiday is the only thing in your life that is not yours, and that everything you have done with your wife since that Monday is, and that there is rather a lot of it.*
+WESKER: (very slow) *You are entitled to be angry with me and I will read anything further you send. — A. Wesker.*
+N: Ray Dorsey took his wife to Ocean City in the spring of 2083. He wrote once more, two lines, and the reply in volume nine is one line, and the narrator will not print either of them, because there are four hundred volumes of this and some of it belongs to the people who wrote it.
 [music] m_lo -9
 [img] a long registration hall with desks and queues of ordinary people in uniform overalls, daylight
 [loc] The Umbrella Registry, Raccoon City — 2080 to 2091

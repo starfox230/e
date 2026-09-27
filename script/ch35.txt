@@ -63,6 +63,26 @@ MINISTER: (very slow) And if we give it back?
 OFFICER: (flat) Then nobody dies, sir, and he is exactly where he was on the third of March, except that eight billion people have now watched us try and fail, and every government in this room has demonstrated, on camera, that it will take the water away from an island to make a point about sovereignty.
 N: The vote was on the fifteenth of March. Nine of the twelve voted to withdraw. Two abstained. One voted to continue and its government fell in April.
 
+[music] m_lo -10
+[img] a dim cell-like office with a bed and a chair, a man sitting on the edge of the bed, night
+[loc] The Arcology, level four — 12 March 2077, day 9
+N: On the ninth day the French colonel came back, off duty, without his camera, which was a court-martial offence, and sat on a chair in a room where the most powerful man on earth was being held with a guard on the door and four books he had asked for.
+COLONEL: (slow) I have three thousand people on this platform and I cannot get the water plant at Teraina to start, and a girl at that plant has been sitting at a console for six days apologising to me.
+COLONEL: (slow) You have not asked me for anything in nine days. Not a lawyer, not a telephone. You have asked for four books.
+WESKER: (cold) I have read them.
+COLONEL: (slow) Why are you not fighting me?
+[pause 1.0]
+WESKER: (very soft) Colonel, what do you think I am?
+COLONEL: (slow) Nine days ago I would have said a man with a private army.
+WESKER: (soft) And now?
+COLONEL: (slow) Now I think you are the only piece of infrastructure in this building that cannot be seized, and that you have known it for about fifty years, and that you have spent nine days letting my government find it out at the cost of some water.
+[pause 0.8]
+WESKER: (very cold) That is very close to correct and there is one thing in it that is wrong, and I would like to give it to you because you have been decent to my people and because you will be blamed for this.
+WESKER: (slow) I did not let you find it out. I have been trying to explain it since 2034 and nobody has been able to hear it, because it is not a threat and it cannot be drawn on a map. *There is no mechanism by which this can be handed to anybody.* Not to you, not to a tribunal, not to the United Nations. I did not build it that way to keep it. I built it that way because in 2026 it was faster, and I have been unable to undo it for fifty-one years.
+WESKER: (very cold) You were right to come. Your governments were right. The only thing anybody got wrong was believing there was a key.
+N: Colonel Émile Roux was retired in 2078 at his own request, having declined to give evidence to the Coalition's inquiry on the grounds that he had gone off duty to a detainee's room without authorisation.
+N: He is the sole named source for that conversation. He published it in 2091, four pages, in a memoir that sold badly, and its last line is the epigraph of the Hangzhou Accord.
+COLONEL: (slow) We went to take the keys and found the locks had been grown.
 [music] m_dawn -8
 [img] {WESKER} walking out of a doorway into daylight on a sea platform, soldiers standing aside
 [loc] The Arcology — 16 March 2077, 06:00

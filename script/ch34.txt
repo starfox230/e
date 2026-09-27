@@ -47,6 +47,22 @@ WESKER: (soft) My plan is to lose.
 CARRICK: (very soft) Say that again.
 WESKER: (cold) Sit down, Mr. Carrick. I am going to tell you what happens in March, and you are the only person I am going to tell, and the reason is that you have spent forty-three years being the one man in this building who says no to me, and I want the record to show that you were told.
 
+[music] m_scheme -10
+[img] {WESKER} sitting alone at a long stone table in an empty hall at night, papers in front of him
+[loc] The Arcology, the Chamber — 2 March 2077, 11:00 p.m.
+N: He spent the two days before LANTERN writing, alone, and the narrator has the documents because they were published in 2079 by the Coalition itself, which had found them on the table.
+N: There were four. The first was the instruction to the Security Service: *do not resist, do not assemble, do not arm, assist the visiting personnel with anything they request*, dated the second of March, transmitted at seven o'clock on the evening of the third.
+N: The second was the authorisation for every Absolute employee to take instruction from the officer commanding at their site.
+N: The third was a four-page memorandum to the Directorate explaining what he had done and why, sealed, to be opened in eleven days.
+N: And the fourth was a single sheet, handwritten, addressed to nobody, which the Coalition's inventory clerk logged as *personal papers, one sheet, contents not evidential*, and which is the only document in two hundred and sixty years in which Albert Wesker writes to himself.
+WESKER: (slow) *Twelve governments have decided that this cannot be permitted to become permanent. They are right. I have been saying so in public since 2034 and I have done nothing about it in forty-three years except build the release programme, which is at nought per cent because it does not exist yet.*
+WESKER: (slow) *I could stop them in an afternoon. I have one hundred and ninety thousand personnel and six thousand Tyrants and the medical supply of nine countries and I could stop them without a shot by turning off four things.*
+WESKER: (very slow) *If I do, the question is settled for ever: I am a power that cannot be moved, and every government on this planet will spend the next century preparing for the day I decide something. Nobody will ever try again and nobody will ever need to, because there will be nothing left to try for.*
+WESKER: (slow) *If I let them, they will find out in about nine days that they cannot hold it, and the reason will be something I did in 2026 out of impatience, and four hundred thousand people will be the exhibit.*
+[pause 0.8]
+WESKER: (very slow) *I do not know how to make that not a manipulation. I have been at this desk since Sunday and I cannot find the version where I am not arranging an outcome, and I think that is the whole of what is wrong with me and I do not expect to fix it at a hundred and fifty-one.*
+WESKER: (slow) *Carrick would say: then ask them first. Tell the Directorate, tell the Assembly, let them choose whether to resist. He would be right, and they would choose to resist, and people would die who are presently going to live.*
+WESKER: (very slow) *So I am going to do the thing that is correct and arrange it, as usual, alone, and put this in a drawer.*
 [music] m_horror -9
 [img] a wide night sky over an ocean with distant moving lights, warships silhouetted on the horizon
 [loc] The Free Territory and nineteen protectorates — 4 March 2077, 04:00

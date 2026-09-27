@@ -70,6 +70,24 @@ N: He is buried in Media, Pennsylvania, in an ordinary cemetery, under an ordina
 N: His nine folders are in a drawer in a desk in a building on the Christina River that appeared out of nothing on the fourteenth of September 2026. They were published, in full, in 2094, on Wesker's instruction, without commentary.
 N: They are the primary source for about a third of this account.
 
+[music] m_lo -10
+[img] a ship's bridge with engineers and crew at stations, a woman in overalls at the centre, cold light
+[loc] The Christina, Dock One — 4 March 2092
+N: The narrator will give you the departure, because it is the last scene in this Part and because of who was not on the bridge.
+N: Eleven hundred people. Nineteen thousand had applied. The manifest was published in full four months in advance, as everything on that ship was published, and the Assembly debated it for two days and changed four names.
+N: Mira Halder took the ship out at nine in the morning on the fourth of March 2092. Her last transmission from inside the solar system, eleven days later, is four sentences and it is on the wall of the Assembly.
+MIRA: (slow) We have the garden. It is not doing well; the soil is the one thing nobody argued about enough.
+MIRA: (slow) To the people who built the spars twice: thank you, and I am sorry about the four months.
+MIRA: (slow) To the Assembly: we are not a colony of anywhere. We are eleven hundred people who have gone somewhere, and when we arrive we will decide what we are, and you will find out with everybody else.
+MIRA: (very slow) To the First Director, who is listening and who did not come to the dock because he thought it would make the day about him, and who was right: we built it. Not you. That is the whole of the message and you know exactly what it cost you to let it be true.
+[pause 1.0]
+N: He had watched it from a window on Dock One, four kilometres away, with the Red Queen relaying.
+REDQUEEN: (soft) You could have gone to the dock.
+WESKER: (cold) There were eleven hundred people saying goodbye to their families. The addition of the oldest man alive would have made the photographs about him.
+REDQUEEN: (soft) That is what she said you would say. She wagered four hundred credits with her chief engineer.
+[pause 0.8]
+WESKER: (very soft) Did she win?
+REDQUEEN: (soft) She did, Director.
 [music] m_space -7
 [img] an enormous ship hanging in orbit above a blue planet, lit windows along its length, stars
 [loc] Dock One — 31 December 2091
