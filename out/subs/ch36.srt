@@ -1,886 +1,792 @@
 1
-00:00:07,799 --> 00:00:13,713
-Basel is a small city. Two hundred thousand people,
-on a bend in the Rhine where three
+00:00:07,799 --> 00:00:14,810
+Wen Shulan was ninety-nine years old in 2077. She had
+retired from the Ministry of State
 
 2
-00:00:13,733 --> 00:00:20,061
-countries meet, with a cathedral, a fifteenth-century
-university, and a carnival in February
+00:00:14,830 --> 00:00:21,680
+Security in 2061, had taken Aeterna in 2065 at the
+insistence of her daughter, and had
 
 3
-00:00:20,081 --> 00:00:25,926
-that the people who live there take more seriously
-than anything else in their lives.
+00:00:21,700 --> 00:00:28,791
+spent sixteen years in a house outside Hangzhou
+writing a history that she did not intend
 
 4
-00:00:26,496 --> 00:00:32,063
-It is also, and has been for a century and a half,
-the capital of the world's medicines.
+00:00:28,811 --> 00:00:29,669
+to publish.
 
 5
-00:00:32,083 --> 00:00:37,650
-The great houses grew up there in the
-eighteen-hundreds — dye works that discovered that
+00:00:30,070 --> 00:00:35,709
+She had not been consulted about the Coalition. Her
+country had not joined it; that had
 
 6
-00:00:37,670 --> 00:00:43,236
-the chemistry of colour and the chemistry of the body
-are cousins — and they never left.
+00:00:35,729 --> 00:00:41,629
+been her doing, from retirement, in four conversations
+over two years, and it is the reason
 
 7
-00:00:43,256 --> 00:00:48,823
-By twenty forty-two, four of the six largest
-pharmaceutical companies on Earth had their
+00:00:41,649 --> 00:00:45,728
+China was one of the two abstentions on
+the fifteenth of March.
 
 8
-00:00:48,843 --> 00:00:52,758
-headquarters within five kilometres of
-that bend in the river.
+00:00:46,128 --> 00:00:52,424
+In September Albert Wesker came to see her, and it
+was the fifth time they had met in
 
 9
-00:00:53,329 --> 00:00:55,036
-Three of them were Umbrella.
+00:00:52,444 --> 00:00:53,613
+forty-one years.
 
 10
-00:00:57,106 --> 00:01:03,585
-Halvorsen Pike had brought the first, in twenty
-thirty-two. The second came in thirty-eight,
+00:00:54,134 --> 00:00:56,163
+You look precisely the same.
 
 11
-00:01:03,605 --> 00:01:09,730
-and the third in forty-one, and neither was a
-hostile takeover; by then, being acquired
+00:00:56,564 --> 00:00:59,653
+You look better than in 2036.
 
 12
-00:01:09,750 --> 00:01:15,945
-by Umbrella was less like being conquered than like
-being adopted by a wealthier family.
+00:01:00,054 --> 00:01:06,101
+I am better than in 2036. That is your doing and I
+have never thanked you for it and I
 
 13
-00:01:16,516 --> 00:01:22,824
-By twenty forty-two, Umbrella employed thirty-one
-thousand people in the canton of Basel-Stadt,
+00:01:06,121 --> 00:01:07,724
+do not intend to start.
 
 14
-00:01:22,844 --> 00:01:29,218
-which had a working population of a hundred and twenty
-thousand. It paid, directly, thirty-eight
+00:01:08,123 --> 00:01:14,159
+She poured tea. The narrator notes that neither of
+them had said anything about the Eleven
 
 15
-00:01:29,238 --> 00:01:35,147
-percent of the canton's corporate tax. Its foundation
-had rebuilt the university hospital
+00:01:14,179 --> 00:01:19,070
+Days for four minutes, which was, for both of
+them, a form of politeness.
 
 16
-00:01:35,167 --> 00:01:40,876
-and endowed nineteen chairs. It had bought the
-football club, which was how you really
+00:01:19,590 --> 00:01:21,430
+They should not have done it.
 
 17
-00:01:40,896 --> 00:01:44,673
-take a Swiss city, and the club had
-won the league twice.
+00:01:21,831 --> 00:01:23,181
+They were right to do it.
 
 18
-00:01:46,742 --> 00:01:52,183
-The Basel Compact was eighteen pages long and
-did not mention sovereignty once.
+00:01:23,581 --> 00:01:29,518
+Both of those are true, which is the whole
+difficulty. I told four ministers in 2073 that
 
 19
-00:01:52,754 --> 00:01:59,244
-It was an agreement between Umbrella Life Sciences and
-the canton of Basel-Stadt, negotiated
+00:01:29,538 --> 00:01:35,341
+it would fail and that the failure would make him
+unassailable, and I was told I was an
 
 20
-00:01:59,264 --> 00:02:05,684
-over two years, and it was, on its face, a perfectly
-ordinary piece of Swiss administrative
+00:01:35,361 --> 00:01:39,491
+old woman who had been compromised by a
+personal relationship.
 
 21
-00:02:05,704 --> 00:02:11,912
-law — the sort of arrangement between a canton and a
-major employer that Switzerland has
+00:01:40,100 --> 00:01:45,232
+I was an old woman who had watched you for forty-one
+years and had noticed that you have
 
 22
-00:02:11,932 --> 00:02:14,813
-been making since the nineteenth century.
+00:01:45,252 --> 00:01:50,441
+never once been beaten by anyone who came at you
+directly, and that on the four occasions
 
 23
-00:02:15,383 --> 00:02:21,669
-Umbrella undertook to invest forty billion francs
-over ten years. It undertook to keep
+00:01:50,461 --> 00:01:54,071
+you were beaten it was by someone who
+asked you for something.
 
 24
-00:02:21,689 --> 00:02:27,974
-thirty-one thousand jobs in the canton, and to add
-nine thousand. It undertook to fund
+00:01:54,471 --> 00:01:55,921
+She put the pot down.
 
 25
-00:02:27,994 --> 00:02:33,326
-the hospital, the university, the tram
-extension, and the flood defences.
+00:01:56,441 --> 00:01:59,031
+So I am going to ask you for something.
 
 26
-00:02:33,895 --> 00:02:40,256
-In exchange, the canton agreed to a single joint
-body — the Basel Life Sciences Council
+00:01:59,430 --> 00:02:05,748
+What Wen Shulan proposed on the eleventh of
+September 2077 became, after two years and
 
 27
-00:02:40,276 --> 00:02:46,857
-— which would have binding authority over licensing,
-planning, research permits, biosafety
+00:02:05,768 --> 00:02:12,012
+four months of negotiation, the Hangzhou Accord,
+and the narrator will give it to you
 
 28
-00:02:46,877 --> 00:02:53,677
-inspection, and the training curriculum of the
-university's medical and scientific faculties.
+00:02:12,032 --> 00:02:14,371
+in the four clauses that matter.
 
 29
-00:02:54,248 --> 00:03:00,515
-The Council had nine members. Four were appointed by
-the canton. Four were appointed by
+00:02:14,770 --> 00:02:20,641
+One. The Umbrella Directorate is recognised, by
+every signatory, as a legal person in
 
 30
-00:03:00,535 --> 00:03:06,657
-Umbrella. The ninth was the Rector of the
-University of Basel, whose chair was funded
+00:02:20,661 --> 00:02:26,531
+international law with the capacity to hold
+territory, conclude treaties and be sued.
 
 31
-00:03:06,677 --> 00:03:08,608
-by the Umbrella Foundation.
+00:02:26,551 --> 00:02:32,630
+Not a state. A new category, and the argument about
+what to call it lasted eleven months
 
 32
-00:03:11,176 --> 00:03:17,162
-The canton put it to a referendum, because
-Switzerland puts everything to a referendum.
+00:02:32,650 --> 00:02:35,540
+and was settled with the word *Authority*.
 
 33
-00:03:17,182 --> 00:03:19,509
-The turnout was sixty-one percent.
+00:02:35,941 --> 00:02:42,268
+Two. Umbrella's core functions — medicine, energy,
+water, the strategic reserves — are
 
 34
-00:03:20,080 --> 00:03:22,991
-It passed with seventy-four
-percent in favour.
+00:02:42,288 --> 00:02:48,984
+placed under a standing obligation of supply. It may
+not withhold them from any population,
 
 35
-00:03:23,562 --> 00:03:29,460
-Nobody was coerced. Nobody was paid. Seventy-four
-percent of the people of Basel looked
+00:02:49,004 --> 00:02:55,479
+for any reason, ever. The obligation is enforceable
+in a tribunal that Umbrella does not
 
 36
-00:03:29,480 --> 00:03:35,583
-at the hospital, and the trams, and the jobs, and the
-flood defences, and their children's
+00:02:55,499 --> 00:02:57,251
+appoint and cannot veto.
 
 37
-00:03:35,603 --> 00:03:41,570
-tuition, and voted, freely, to hand the oversight of
-the most dangerous science on Earth
+00:02:57,651 --> 00:03:04,027
+Three. Every Umbrella territory retains the right to
+leave, by referendum, on two years'
 
 38
-00:03:41,590 --> 00:03:47,353
-to a council on which the people doing the science
-had four seats out of nine and the
+00:03:04,047 --> 00:03:09,260
+notice, and the signatories guarantee the
+independence of any that does.
 
 39
-00:03:47,373 --> 00:03:48,578
-chairman's salary.
+00:03:09,661 --> 00:03:16,172
+Four — and this is Wen's clause, the one she wrote
+herself in a garden in Hangzhou, and
 
 40
-00:03:50,768 --> 00:03:51,778
-A vote.
+00:03:16,192 --> 00:03:20,450
+the one that Albert Wesker argued
+about for nine months —
 
 41
-00:03:52,300 --> 00:03:53,004
-A vote.
+00:03:20,969 --> 00:03:26,886
+The Authority shall maintain no capacity to compel
+the obedience of any human being by
 
 42
-00:03:53,525 --> 00:03:59,224
-I took a country with a vote. They have never
-forgiven me for it, and they have spent
+00:03:26,906 --> 00:03:33,237
+means that the person cannot perceive, refuse or
+report. Existing personnel in that category
 
 43
-00:03:59,244 --> 00:04:02,252
-a hundred years pretending it
-was only tanks.
+00:03:33,257 --> 00:03:37,379
+shall be enumerated, registered, and
+progressively released.
 
 44
-00:04:02,771 --> 00:04:05,900
-The difference is that you had to burn
-the parliament first.
+00:03:38,330 --> 00:03:42,300
+(very cold) You are asking me to
+give up the Absolute.
 
 45
-00:04:06,420 --> 00:04:09,621
-Yes. You did not even need to visit.
+00:03:42,699 --> 00:03:48,464
+I am asking you to stop *making* them, and to let the
+four hundred thousand you have made
 
 46
-00:04:12,141 --> 00:04:16,377
-The people who tried to kill him had been
-planning it for nineteen months.
+00:03:48,484 --> 00:03:50,609
+go, over whatever period is safe.
 
 47
-00:04:16,947 --> 00:04:22,926
-It was not a government. That mattered a great deal,
-afterwards. It was four people in
+00:03:51,009 --> 00:03:57,788
+Half of them will not survive it. You have read the
+Coalition's own analysis; you know
 
 48
-00:04:22,946 --> 00:04:29,483
-an apartment in Oslo: a Norwegian pharmaceutical heiress
-who had lost her company; a dismissed
+00:03:57,808 --> 00:04:04,903
+what happened at Teraina in eleven days. These are not
+slaves I can free with a signature.
 
 49
-00:04:29,503 --> 00:04:35,481
-American FBI agent; a former officer of the British
-Secret Intelligence Service; and a
+00:04:04,923 --> 00:04:11,938
+They are people who have never once in their lives
+held their own reins, and some of them
 
 50
-00:04:35,501 --> 00:04:41,689
-woman from Basel named Ursula Frey, whose younger
-brother had been one of the two hundred
+00:04:11,958 --> 00:04:13,519
+are forty years old.
 
 51
-00:04:41,709 --> 00:04:43,014
-and sixty thousand.
+00:04:13,919 --> 00:04:19,338
+I know. That is why the clause says *progressively*,
+and why there is no deadline in it,
 
 52
-00:04:43,584 --> 00:04:49,505
-Julian Ashcombe — who had taken early retirement in
-twenty forty and told his colleagues
+00:04:19,358 --> 00:04:22,490
+and why I have given you the right
+to set the pace.
 
 53
-00:04:49,525 --> 00:04:55,378
-he intended to write a book about fly-fishing — had
-spent four years building a picture
+00:04:23,209 --> 00:04:28,178
+(very slow) Albert. I have watched you for forty-one
+years, and in all that time there
 
 54
-00:04:55,398 --> 00:05:01,183
-out of money, and then four more building one out of
-people, because a chief financial
+00:04:28,198 --> 00:04:33,283
+is exactly one thing you have built that I would call
+evil, and it is not the virus, and
 
 55
-00:05:01,203 --> 00:05:06,515
-officer had told him on a satellite phone that
-the money was the wrong picture.
+00:04:33,303 --> 00:04:37,053
+it is not the soldiers, and it is not the
+monster in the stadium.
 
 56
-00:05:07,086 --> 00:05:12,688
-He had concluded three things. First, that Albert
-Wesker was not a human being in any
+00:04:37,334 --> 00:04:42,766
+It is that you solved the oldest problem of power —
+that people can say no to you — and
 
 57
-00:05:12,708 --> 00:05:18,311
-sense that mattered. Second, that no institution on
-Earth would ever act against him,
+00:04:42,786 --> 00:04:47,904
+you solved it so completely that you have
+forgotten it was a problem worth having.
 
 58
-00:05:18,331 --> 00:05:24,530
-because every institution on Earth now depended on him —
-a conclusion he had reached formally,
+00:04:48,305 --> 00:04:54,688
+The narrator will record that Albert Wesker did not
+answer for a long time, and that what
 
 59
-00:05:24,550 --> 00:05:30,153
-in writing, in his last month of service, in a
-paper that four people had read before
+00:04:54,708 --> 00:04:57,134
+he finally said was not agreement.
 
 60
-00:05:30,173 --> 00:05:35,842
-it disappeared into a vault. And third, that the
-only remaining option was murder, and
+00:04:57,654 --> 00:05:03,822
+(very soft) If I sign that clause, I will spend
+forty years dismantling the thing that
 
 61
-00:05:35,862 --> 00:05:41,597
-that it would not work, and that it should be
-attempted anyway, because the alternative
+00:05:03,842 --> 00:05:10,081
+made all of it possible, and there is a real chance
+that it kills a great many of them,
 
 62
-00:05:41,617 --> 00:05:44,442
-was to do nothing for the rest
-of his life.
+00:05:10,101 --> 00:05:16,413
+and the only reason I would do it is that a
+ninety-nine-year-old woman in a garden asked
 
 63
-00:05:46,132 --> 00:05:47,261
-It won't work.
+00:05:16,433 --> 00:05:16,844
+me to.
 
 64
-00:05:47,781 --> 00:05:48,625
-No.
+00:05:17,245 --> 00:05:18,206
+Yes.
 
 65
-00:05:49,144 --> 00:05:54,002
-I put fifteen rounds in him from eight feet. He
-gave them back to me in my hand.
+00:05:18,605 --> 00:05:20,695
+That is a very poor reason.
 
 66
-00:05:54,523 --> 00:05:57,056
-I know, Owen. I've held one.
+00:05:21,095 --> 00:05:26,991
+It is the only kind of reason anybody has ever had.
+You have been waiting since 2026 for
 
 67
-00:05:59,076 --> 00:06:00,080
-Then why?
+00:05:27,011 --> 00:05:32,907
+somebody to be able to make you do something. Nobody
+can. So it will have to be somebody
 
 68
-00:06:02,100 --> 00:06:06,523
-Because in seventeen years he has never once been
-surprised in public. Everything the
+00:05:32,927 --> 00:05:33,580
+you *let*.
 
 69
-00:06:06,543 --> 00:06:11,072
-world knows about him, he has arranged. If we cannot
-kill him, we can at least make him
+00:05:34,639 --> 00:05:41,292
+He signed it in Hangzhou on the fourth of January
+2080, with forty-one signatory states,
 
 70
-00:06:11,092 --> 00:06:14,680
-do something in front of four hundred
-cameras that he has not chosen.
+00:05:41,312 --> 00:05:43,870
+in a room with four cameras in it.
 
 71
-00:06:17,199 --> 00:06:22,833
-The signing was in the Münsterplatz, in front of the
-cathedral, on a bright cold morning
+00:05:44,269 --> 00:05:50,375
+The Registry's letter went to four hundred and eleven
+thousand people over thirty years,
 
 72
-00:06:22,853 --> 00:06:23,411
-in March.
+00:05:50,395 --> 00:05:56,500
+in the order in which their cohorts came up, and the
+narrator has read the fourth draft,
 
 73
-00:06:23,980 --> 00:06:29,672
-There were four hundred cameras. There were nine
-thousand people in the square. There
+00:05:56,520 --> 00:06:02,695
+which is the one that was used, and which Albert
+Wesker wrote himself in 2081 and rewrote
 
 74
-00:06:29,692 --> 00:06:35,853
-were the canton's executive council, and the Rector,
-and the mayor, and a federal councillor
+00:06:02,715 --> 00:06:03,531
+three times.
 
 75
-00:06:35,873 --> 00:06:41,498
-from Bern, and a stage with a long table on it, and
-behind the table a row of flags.
+00:06:03,930 --> 00:06:09,974
+It is nine paragraphs. It does not apologise, which
+was the most argued-about decision
 
 76
-00:06:42,069 --> 00:06:47,921
-The Director signed at ten eighteen. He stood up. He
-shook the hand of the President of
+00:06:09,994 --> 00:06:12,230
+in the Directorate for a decade.
 
 77
-00:06:47,941 --> 00:06:51,499
-the Cantonal Executive. He turned
-to face the square.
+00:06:12,630 --> 00:06:18,345
+It says: that the recipient was placed into the world
+on a specific date, which is given;
 
 78
-00:06:55,569 --> 00:07:01,300
-The narrator will not tell you what was in the van,
-or how it came to be there, or who
+00:06:18,365 --> 00:06:23,822
+that their memories before that date were provided
+rather than lived; that everything
 
 79
-00:07:01,320 --> 00:07:07,052
-signed for what. Those details exist in a Swiss
-federal file that runs to nine hundred
+00:06:23,842 --> 00:06:29,364
+since is entirely their own; that the people in
+their life are real and their feelings
 
 80
-00:07:07,072 --> 00:07:13,005
-pages, and they are nobody's business now. It is
-enough to say that it was parked fifteen
+00:06:29,384 --> 00:06:35,485
+for them are real; that they are, in law and in every
+way the Directorate is able to determine,
 
 81
-00:07:13,025 --> 00:07:17,820
-metres from the stage, and that it had been
-the work of nineteen months.
+00:06:35,505 --> 00:06:41,156
+a person; that they have never been able to refuse an
+instruction from Umbrella and that
 
 82
-00:07:18,391 --> 00:07:24,202
-It killed four people. A sound engineer named Peter
-Aebi. Two members of the cantonal
+00:06:41,176 --> 00:06:46,891
+this will end on a date, which is given; that they
+are entitled to see every record about
 
 83
-00:07:24,222 --> 00:07:30,170
-police. And Ursula Frey, who had been standing much
-closer than she had told the others
+00:06:46,911 --> 00:06:52,432
+themselves, and to compensation, and to leave with a
+pension at any time; and that the
 
 84
-00:07:30,190 --> 00:07:36,001
-she would be, which Julian Ashcombe understood the
-moment he heard the casualty list,
+00:06:52,452 --> 00:06:58,360
+man responsible is named, and is alive, and will answer
+any letter they send him personally.
 
 85
-00:07:36,021 --> 00:07:38,540
-and which he never spoke about again.
+00:06:58,761 --> 00:07:01,081
+About sixty-one thousand of them wrote.
 
 86
-00:07:39,110 --> 00:07:44,725
-It injured a hundred and nine. It took the front off
-the stage, and the first four rows
+00:07:01,480 --> 00:07:07,676
+He answered all sixty-one thousand, over
+thirty-nine years, in longhand, at a rate of
 
 87
-00:07:44,745 --> 00:07:48,612
-of chairs, and every window on the
-north side of the square.
+00:07:07,696 --> 00:07:13,965
+about nine a week, and the archive of those replies
+is four hundred volumes and is the
 
 88
-00:07:51,682 --> 00:07:54,282
-The smoke took about forty
-seconds to thin.
+00:07:13,985 --> 00:07:16,378
+other reason this account exists.
 
 89
-00:07:54,851 --> 00:08:00,811
-Four hundred cameras were still running. Most of
-them were on the ground, or pointed at
+00:07:16,778 --> 00:07:22,932
+Ray Dorsey — the plant supervisor from Chapter Four,
+who had telephoned his wife on his
 
 90
-00:08:00,831 --> 00:08:07,066
-the sky, or being carried by people who were running.
-Twenty of them were still on tripods,
+00:07:22,952 --> 00:07:29,388
+first Monday and told her he had been doing this for
+twenty-seven years — was in the second
 
 91
-00:08:07,086 --> 00:08:13,252
-still framed on the stage, still broadcasting live to
-an audience that had by then become,
+00:07:29,408 --> 00:07:32,369
+cohort, at the age of fifty-five, in 2082.
 
 92
-00:08:13,272 --> 00:08:16,826
-in the space of a minute, most of
-the human species.
+00:07:32,769 --> 00:07:36,419
+He wrote four lines. The reply is
+in volume nine.
 
 93
-00:08:17,396 --> 00:08:23,268
-And as the smoke thinned, on eight live feeds at once,
-the world saw a tall figure standing
+00:07:36,939 --> 00:07:41,769
+*I don't want compensation and I don't want to leave.
+I want to know one thing. The holiday
 
 94
-00:08:23,288 --> 00:08:25,535
-in the middle of the wrecked stage.
+00:07:41,789 --> 00:07:43,369
+in Ocean City. Did it happen?*
 
 95
-00:08:26,105 --> 00:08:31,662
-He was covered in grey dust. His coat was torn at
-the left shoulder. There was no blood
+00:07:43,769 --> 00:07:51,712
+*Mr. Dorsey. No. It did not happen, and I am sorry to
+be the one to confirm it. You were
 
 96
-00:08:31,682 --> 00:08:32,560
-on him at all.
+00:07:51,732 --> 00:07:59,403
+given it complete, including the rain on the
+Thursday, on the eighth of January 2027,
 
 97
-00:08:33,129 --> 00:08:38,933
-He reached up and brushed the dust off his shoulder.
-Twice. The way you would after brushing
+00:07:59,423 --> 00:08:07,366
+because a system I do not fully understand decided
+that a man of your age would have had
 
 98
-00:08:38,953 --> 00:08:39,692
-past a wall.
+00:08:07,386 --> 00:08:07,819
+one.*
 
 99
-00:08:40,263 --> 00:08:45,865
-Then he bent down, and picked up a chair that had
-been blown over, and set it upright,
+00:08:08,098 --> 00:08:14,471
+*I have thought about your question for some days. I
+think the honest answer is that the
 
 100
-00:08:45,885 --> 00:08:51,488
-and looked out at the square — at the nine thousand
-people, at the sixteen cameras, at
+00:08:14,491 --> 00:08:20,717
+holiday is the only thing in your life that is not
+yours, and that everything you have
 
 101
-00:08:51,508 --> 00:08:57,699
-the world — and said, in a voice that the microphone on
-the fallen lectern picked up perfectly:
+00:08:20,737 --> 00:08:26,528
+done with your wife since that Monday is, and
+that there is rather a lot of it.*
 
 102
-00:08:59,889 --> 00:09:01,148
-Is everyone all right?
+00:08:26,809 --> 00:08:34,807
+(very slow) *You are entitled to be angry with me
+and I will read anything further you
 
 103
-00:09:03,668 --> 00:09:09,145
-He walked down off the front of the stage, which
-was four feet high and no longer had
+00:08:34,827 --> 00:08:36,579
+send. — A. Wesker.*
 
 104
-00:09:09,165 --> 00:09:14,836
-steps, and went to a member of the cantonal police
-who was lying against the base of it,
+00:08:36,979 --> 00:08:42,866
+Ray Dorsey took his wife to Ocean City in the
+spring of 2083. He wrote once more, two
 
 105
-00:09:14,856 --> 00:09:20,010
-and knelt, and put his hand on the man's chest,
-and said something nobody heard.
+00:08:42,886 --> 00:08:48,912
+lines, and the reply in volume nine is one line, and
+the narrator will not print either
 
 106
-00:09:20,581 --> 00:09:26,666
-Then he stood, and looked around the square, and found
-the President of the Cantonal Executive
+00:08:48,932 --> 00:08:54,819
+of them, because there are four hundred volumes of
+this and some of it belongs to the
 
 107
-00:09:26,686 --> 00:09:32,251
-being helped up by two aides, and said — and this is
-the sentence that would be quoted
+00:08:54,839 --> 00:08:56,209
+people who wrote it.
 
 108
-00:09:32,271 --> 00:09:37,837
-for the next thousand years, in every language, on
-every world that human beings would
+00:08:56,609 --> 00:09:01,485
+The enumeration took four years. Four hundred
+and eleven thousand names.
 
 109
-00:09:37,857 --> 00:09:38,552
-ever reach:
+00:09:01,884 --> 00:09:07,803
+The release programme took the rest of the century
+and is not finished at the end of this
 
 110
-00:09:40,741 --> 00:09:42,257
-Shall we continue the meeting?
+00:09:07,823 --> 00:09:13,742
+account. The narrator will give you its shape,
+because it is the only thing Albert Wesker
 
 111
-00:09:45,778 --> 00:09:48,946
-It is difficult, now, to explain
-what that did.
+00:09:13,762 --> 00:09:19,481
+ever did that he did badly, and he did it badly for
+twenty-seven years before it began
 
 112
-00:09:49,515 --> 00:09:55,428
-Thirteen billion views in four days — the largest
-single event in the history of human
+00:09:19,501 --> 00:09:20,015
+to work.
 
 113
-00:09:55,448 --> 00:10:01,291
-attention. It was watched more than the Moon
-landing had been watched by everyone who
+00:09:20,414 --> 00:09:26,610
+The first cohort was nine hundred volunteers at
+Raccoon City in 2081: Absolute personnel
 
 114
-00:10:01,311 --> 00:10:07,775
-had ever lived. Every news organisation on Earth ran the
-same four seconds: the dust thinning,
+00:09:26,630 --> 00:09:32,614
+in non-critical roles, released in the only way
+anyone could think of, which was that
 
 115
-00:10:07,795 --> 00:10:11,363
-the figure standing, the hand
-brushing the shoulder.
+00:09:32,634 --> 00:09:38,618
+Wesker issued a final instruction saying *from this
+date you will take no instruction
 
 116
-00:10:11,932 --> 00:10:17,513
-And what people felt, overwhelmingly, was not
-suspicion. That came later, from a small
+00:09:38,638 --> 00:09:44,904
+from me or from anyone in my name*, and then the
+Directorate waited to see what happened.
 
 117
-00:10:17,533 --> 00:10:23,049
-number of them, and they were shouted down. What
-people felt was awe, and love, and a
+00:09:45,304 --> 00:09:51,086
+Fourteen of the nine hundred could not tolerate it.
+The narrator will not describe what
 
 118
-00:10:23,069 --> 00:10:26,045
-kind of relief that they could
-not have named.
+00:09:51,106 --> 00:09:57,021
+that means; the medical literature calls it terminal
+executive vacancy and there are four
 
 119
-00:10:26,615 --> 00:10:32,088
-Because the world of twenty forty-two was
-frightened. It had been frightened for a very
+00:09:57,041 --> 00:09:59,754
+papers about it and all of them are grim.
 
 120
-00:10:32,108 --> 00:10:37,834
-long time — of storms, and of wars, and of a disease
-that had killed a quarter of a million
+00:10:00,154 --> 00:10:06,312
+The other eight hundred and eighty-six were, within
+about nine months, indistinguishable
 
 121
-00:10:37,854 --> 00:10:43,201
-people, and of the slow visible failure of every
-institution that had once claimed to
+00:10:06,332 --> 00:10:12,489
+from any other citizen of Raccoon City, and one of
+them opened a bakery, and one of them
 
 122
-00:10:43,221 --> 00:10:48,757
-be in charge. And here, in a cathedral square, under
-four hundred cameras, was a man who
+00:10:12,509 --> 00:10:17,965
+ran for the city council in 2086 and lost by
+four hundred votes and ran again.
 
 123
-00:10:48,777 --> 00:10:54,440
-had been bombed at six metres and had stood up and
-brushed the dust off his coat and asked
+00:10:18,365 --> 00:10:24,539
+Evelyn Marsh's group rebuilt the programme four
+times. The version that worked — from
 
 124
-00:10:54,460 --> 00:10:56,398
-whether everyone was all right.
+00:10:24,559 --> 00:10:30,879
+2087 — was not medical at all. It was an
+apprenticeship: two years in which an Absolute
 
 125
-00:10:56,967 --> 00:11:02,947
-Nine thousand people in the Münsterplatz did not run
-away. They stayed, and some of them
+00:10:30,899 --> 00:10:37,729
+employee was required, daily, to make one small decision
+that nobody had authorised, beginning
 
 126
-00:11:02,967 --> 00:11:08,810
-wept, and some of them began, raggedly, without
-anyone leading them, to say eighty-one
+00:10:37,749 --> 00:10:39,769
+with what to have for lunch.
 
 127
-00:11:08,830 --> 00:11:09,220
-words.
+00:10:40,169 --> 00:10:42,639
+The failure rate fell to under
+one per cent.
 
 128
-00:11:11,789 --> 00:11:13,732
-Catherine Adeyemi had known.
+00:10:43,039 --> 00:10:49,374
+Gus was in the ninth cohort, in 2088, at his own
+request, at the age of sixty-two years
 
 129
-00:11:14,302 --> 00:11:19,693
-Not the detail. Not the date, or the van, or the
-woman from the quarry office. She had
+00:10:49,394 --> 00:10:55,509
+and one hundred and thirty-one days, all of which
+he had spent in the same building.
 
 130
-00:11:19,713 --> 00:11:25,481
-known, from one sentence in one call, that Julian
-Ashcombe had stopped gathering information
+00:10:55,909 --> 00:11:02,291
+Wesker came to Wilmington for it. He had come for
+all nine cohorts; he came for every
 
 131
-00:11:25,501 --> 00:11:31,143
-and started planning something, and she had not asked
-what, and she had not warned anyone,
+00:11:02,311 --> 00:11:09,220
+cohort until the end of the account, and it is the only
+appointment he never once delegated.
 
 132
-00:11:31,163 --> 00:11:36,554
-and she had flown to Basel for the signing and stood
-at the back of the delegation and
+00:11:09,740 --> 00:11:15,313
+Director. They tell me I'm to ask you a question,
+and I've had eleven days to think of
 
 133
-00:11:36,574 --> 00:11:40,455
-waited to find out whether she was a
-person who could do that.
+00:11:15,333 --> 00:11:17,070
+one, and I haven't got one.
 
 134
-00:11:41,024 --> 00:11:43,090
-She found out at fourteen eighteen.
+00:11:17,470 --> 00:11:20,740
+Then ask me the one you had on
+the first morning.
 
 135
-00:11:45,159 --> 00:11:50,915
-He was waiting for her in the suite. He had not
-changed his coat. It was on the back of
+00:11:21,470 --> 00:11:28,634
+That lift button. In 2026. I cleaned the contacts on
+a Tuesday and I've never once known
 
 136
-00:11:50,935 --> 00:11:54,367
-a chair, torn at the shoulder,
-still grey with dust.
+00:11:28,654 --> 00:11:29,777
+whether I did.
 
 137
-00:11:56,057 --> 00:11:58,105
-I didn't know what they were going to do.
+00:11:30,177 --> 00:11:36,413
+(very soft) You did not. The sublevel did not exist
+until three o'clock on the Wednesday
 
 138
-00:11:58,625 --> 00:11:59,309
-I know.
+00:11:36,433 --> 00:11:42,527
+morning, and you were given the memory of cleaning
+it along with the keys, and I stood
 
 139
-00:11:59,830 --> 00:12:01,730
-I knew they were going to do something.
+00:11:42,547 --> 00:11:48,569
+in the lobby on the Wednesday and watched you tell
+me about it and I knew, and I said
 
 140
-00:12:02,250 --> 00:12:03,360
-I know that too.
+00:11:48,589 --> 00:11:53,688
+nothing, and I have thought about that
+conversation for sixty-two years.
 
 141
-00:12:05,880 --> 00:12:07,176
-He turned around.
+00:11:54,638 --> 00:11:55,339
+Right.
 
 142
-00:12:07,745 --> 00:12:13,517
-The Cold-Read had been reading her for sixteen years.
-He knew what she would do next before
+00:11:55,618 --> 00:11:58,854
+Well. It's a good building,
+whatever's under it.
 
 143
-00:12:13,537 --> 00:12:19,181
-she did. She would tell him. All of it — the card in
-the wallet, the phone from the mall,
+00:11:59,254 --> 00:12:05,406
+The narrator notes that Gus took the apprenticeship,
+that he passed it in fourteen months,
 
 144
-00:12:19,201 --> 00:12:24,590
-the twelve reports, the satellite call from a boat.
-She had decided on the flight. He
+00:12:05,426 --> 00:12:11,440
+that he stayed on at the campus as head of
+maintenance at a salary he negotiated himself
 
 145
-00:12:24,610 --> 00:12:28,918
-could see the decision sitting in her face
-like a stone in a stream.
+00:12:11,460 --> 00:12:17,885
+and won four per cent on, and that when he died in 2103
+— actually died, of being ninety-seven
 
 146
-00:12:29,488 --> 00:12:30,832
-He did not let her.
+00:12:17,905 --> 00:12:23,713
+and having declined Aeterna twice — the Directorate
+flew its flag at half mast, which
 
 147
-00:12:31,522 --> 00:12:32,697
-Sit down, Catherine.
+00:12:23,733 --> 00:12:26,524
+it had done for exactly one other person.
 
 148
-00:12:34,096 --> 00:12:38,927
-You've been talking to Julian Ashcombe since May of
-twenty thirty-three. You called him
+00:12:27,674 --> 00:12:35,677
+The Hangzhou Accord. Forty-one signatory states.
+Recognition: Authority. Obligation of
 
 149
-00:12:38,947 --> 00:12:44,002
-from a phone you bought at the Christiana mall. You've
-sent him nine reports in four years.
+00:12:35,697 --> 00:12:43,607
+supply: binding, enforceable, not vetoable. Four
+hundred and eleven thousand Absolute
 
 150
-00:12:44,022 --> 00:12:48,742
-In the last one you told him the money was the
-wrong picture, and he agreed with you,
+00:12:43,627 --> 00:12:50,510
+personnel enumerated; release programme begun.
+Points: minus nine billion.
 
 151
-00:12:48,762 --> 00:12:52,144
-and that is why four people died in
-that square this morning.
+00:12:51,650 --> 00:12:54,620
+(very cold) You have taken Points off me.
 
 152
-00:12:54,663 --> 00:12:56,179
-How long have you known?
+00:12:55,020 --> 00:12:55,831
+Yes.
 
 153
-00:12:56,700 --> 00:13:02,143
-Since the morning after you bought the phone. You
-said good morning to me in the corridor
+00:12:56,230 --> 00:13:00,740
+In fifty-four years you have never once
+taken Points off me.
 
 154
-00:13:02,163 --> 00:13:05,275
-on the eleventh floor and your
-face was — relieved.
+00:13:01,140 --> 00:13:08,862
+(flat) You have surrendered compelled obedience,
+which is the largest single asset I have
 
 155
-00:13:07,794 --> 00:13:09,587
-Then why am I still alive?
+00:13:08,882 --> 00:13:16,255
+ever recorded a host holding, and the ledger is
+honest. I told you that in 2028 about
 
 156
-00:13:12,609 --> 00:13:18,593
-He handed her a glass of water. She did not take it.
-He set it down on the table beside
+00:13:16,275 --> 00:13:19,125
+a city and it is true about this.
 
 157
-00:13:18,613 --> 00:13:18,870
-her.
+00:13:19,966 --> 00:13:21,803
+Was it the wrong decision?
 
 158
-00:13:19,559 --> 00:13:23,443
-Because you are the only person left who
-tells me when I am wrong.
+00:13:22,863 --> 00:13:25,949
+(flat) I do not evaluate. I price.
 
 159
-00:13:25,344 --> 00:13:29,728
-Evelyn is a zealot. Tomás is exhausted. Crane is in
-love with me in a way that makes him
+00:13:26,229 --> 00:13:33,067
+Nine billion is the price of what you gave away. I
+would draw your attention to the fact
 
 160
-00:13:29,748 --> 00:13:34,033
-useless. Wyatt and the quiet ones cannot disagree
-with me — not will not, cannot, they
+00:13:33,087 --> 00:13:39,925
+that it is the only transaction in fifty-four years
+in which you have paid for something
 
 161
-00:13:34,053 --> 00:13:38,438
-are physically incapable of it, and there are more of
-them every year. Pell and Hale and
+00:13:39,945 --> 00:13:42,107
+that does not belong to you.
 
 162
-00:13:38,458 --> 00:13:42,943
-Gus have never once had an opinion. Dana is grateful.
-The Territory is a hundred and sixty
+00:13:42,508 --> 00:13:48,015
+The narrator notes that Albert Wesker stood at that
+window for some time, in a building
 
 163
-00:13:42,963 --> 00:13:45,697
-thousand people who would walk into
-the sea if I asked.
+00:13:48,035 --> 00:13:53,480
+that had appeared out of nothing on the fourteenth
+of September 2026, and that what he
 
 164
-00:13:46,096 --> 00:13:51,528
-And you sat in a glass office in twenty twenty-eight
-and told me you would know if I lied
+00:13:53,500 --> 00:13:59,071
+said at the end of it was addressed to nobody in the
+room, because the only other person
 
 165
-00:13:51,548 --> 00:13:54,653
-to you. You were right. You have
-known. Every time.
+00:13:59,091 --> 00:14:04,472
+who would have understood it had been silent inside
+his own skull for eighteen years.
 
 166
-00:13:57,173 --> 00:13:58,384
-So you keep me.
+00:14:04,993 --> 00:14:09,143
+(very soft) She asked me for it, and
+I let her have it.
 
 167
-00:13:58,903 --> 00:13:59,779
-I keep you.
-
-168
-00:14:00,299 --> 00:14:01,858
-And the channel to London?
-
-169
-00:14:02,379 --> 00:14:07,676
-Stays open. You'll go on sending your reports. I'd
-prefer you didn't tell Julian anything
-
-170
-00:14:07,696 --> 00:14:12,755
-that gets people killed, but I won't stop you. I
-would only have to find out what you
-
-171
-00:14:12,775 --> 00:14:17,954
-were doing all over again, and that took four days
-the first time, and I am busier now.
-
-172
-00:14:20,972 --> 00:14:23,153
-She sat in the chair for a long time.
-
-173
-00:14:23,724 --> 00:14:29,314
-She understood, sitting there, that she had not been
-caught. She had been kept. That he
-
-174
-00:14:29,334 --> 00:14:35,053
-had known for nine years, and had let her go on
-believing that she was a spy in the house
-
-175
-00:14:35,073 --> 00:14:40,727
-of a monster, because a spy who believes she is free
-is more honest than a prisoner, and
-
-176
-00:14:40,747 --> 00:14:42,081
-he needed her honest.
-
-177
-00:14:42,652 --> 00:14:48,597
-She was fifty-one years old. She had been his chief
-financial officer for fifteen years.
-
-178
-00:14:48,617 --> 00:14:54,495
-She had a hundred and eighty million dollars, four
-homes, and a seat at the table where
-
-179
-00:14:54,515 --> 00:14:55,987
-the world was decided.
-
-180
-00:14:56,557 --> 00:15:02,566
-And she understood, in a hotel suite in Basel, with
-his torn coat on the back of a chair,
-
-181
-00:15:02,586 --> 00:15:08,460
-that she was the most thoroughly owned human being
-in his entire empire — because every
-
-182
-00:15:08,480 --> 00:15:14,354
-single one of the others was owned by something that
-had been done to them, and she had
-
-183
-00:15:14,374 --> 00:15:19,300
-done it to herself, one reasonable decision
-at a time, for fifteen years.
-
-184
-00:15:22,489 --> 00:15:23,887
-I want to resign.
-
-185
-00:15:24,408 --> 00:15:25,302
-No, you don't.
-
-186
-00:15:27,822 --> 00:15:31,686
-She did not resign. Not that year, or
-the next, or ever.
+00:14:09,423 --> 00:14:13,853
+That is twice now. It had better
+not become a habit.

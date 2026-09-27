@@ -1,758 +1,851 @@
 1
-00:00:07,799 --> 00:00:12,216
-This chapter is about the people. The narrator
-has put it off long enough.
+00:00:07,799 --> 00:00:14,354
+LANTERN had planned for four scenarios. Armed
+resistance at the Arcology; sabotage of
 
 2
-00:00:12,785 --> 00:00:18,909
-It is easy to tell a story like this from the top —
-from boardrooms and stadiums and the
+00:00:14,374 --> 00:00:20,929
+the fusion plants; a decapitation attempt against
+the Coalition's own leadership; and
 
 3
-00:00:18,929 --> 00:00:25,122
-inside of one extraordinary skull. It is easy because
-the top is where the decisions are,
+00:00:20,949 --> 00:00:23,250
+a deniable biological release.
 
 4
-00:00:25,142 --> 00:00:31,126
-and decisions make a story move. But an empire is
-not made of decisions. It is made of
+00:00:23,649 --> 00:00:29,604
+It had not planned for hospitality, and by nine in the
+morning on the first day the planning
 
 5
-00:00:31,146 --> 00:00:36,361
-a hundred and sixty thousand ordinary
-mornings, and the people having them.
+00:00:29,624 --> 00:00:34,409
+staff had a problem that nobody in that
+building had the training to name.
 
 6
-00:00:38,432 --> 00:00:44,143
-Her name was Mireille Achebe. She was twenty-six,
-from Lyon, and she taught the second
+00:00:34,810 --> 00:00:41,026
+They had captured everything. All thirty-one objectives,
+in ninety minutes, with no casualties
 
 7
-00:00:44,163 --> 00:00:49,941
-grade at the Third Ring school on Arklay, and she
-was one of the happiest people alive.
+00:00:41,046 --> 00:00:46,732
+on either side. They held the plants, the launch
+complex, the Arcology, the ridge, the
 
 8
-00:00:50,511 --> 00:00:55,997
-She had grown up in a suburb where her mother cleaned
-offices at night. She had a degree
+00:00:46,752 --> 00:00:52,769
+ice, the island, and the man himself, who was sitting
+in an office on the Arcology's fourth
 
 9
-00:00:56,017 --> 00:01:01,317
-she had been told would never pay for itself. She
-had applied to Arklay on a whim, in
+00:00:52,789 --> 00:00:58,076
+level with a guard on the door and had asked only
+for coffee and a pad of paper.
 
 10
-00:01:01,337 --> 00:01:06,949
-a queue of two and a half million, and been chosen,
-and arrived on a ferry at twenty-three
+00:00:58,476 --> 00:01:02,316
+And by noon they had started to understand
+what they were holding.
 
 11
-00:01:06,969 --> 00:01:12,456
-with one suitcase, and been given a two-bedroom
-apartment with a balcony over the water,
+00:01:02,837 --> 00:01:07,319
+(flat) Sir, the Teraina desalination plant has gone
+into a hold state. Not a fault — a
 
 12
-00:01:12,476 --> 00:01:13,207
-for nothing.
+00:01:07,339 --> 00:01:12,083
+*hold*. The operators are sitting at their consoles.
+They're polite, they answer questions,
 
 13
-00:01:13,777 --> 00:01:19,290
-Her class had nineteen children from seven
-countries. The school had a swimming pool,
+00:01:12,103 --> 00:01:15,067
+they'll show you anything. They will
+not start the plant.
 
 14
-00:01:19,310 --> 00:01:24,823
-a telescope, and a rule that no class could have
-more than twenty children in it. She
+00:01:15,466 --> 00:01:17,397
+Then have our people start it.
 
 15
-00:01:24,843 --> 00:01:30,617
-was paid four times what she would have earned in
-Lyon. Her mother had a residency permit
+00:01:17,796 --> 00:01:22,674
+(flat) Our people are trying. The plant is asking for
+an authorisation code from a management
 
 16
-00:01:30,637 --> 00:01:35,825
-and an apartment on the same ring, and had not
-cleaned an office in three years.
+00:01:22,694 --> 00:01:27,150
+system that only accepts instructions from
+personnel it recognises, and the personnel
 
 17
-00:01:37,394 --> 00:01:42,692
-At eight o'clock every morning, Mireille's class
-said the Creed. She had not been told
+00:01:27,170 --> 00:01:31,732
+it recognises are the ones sitting at the consoles
+refusing to give it, and they're not
 
 18
-00:01:42,712 --> 00:01:48,134
-to do it. She had started it herself, in her first
-week, because the class next door did
+00:01:31,752 --> 00:01:36,209
+refusing out of loyalty — I've had four interviews
+now — they genuinely appear unable
 
 19
-00:01:48,153 --> 00:01:49,989
-it and the children had asked.
+00:01:36,229 --> 00:01:36,366
+to.
 
 20
-00:01:50,558 --> 00:01:53,677
-We are the shelter. We do not
-wait for the storm.
+00:01:36,977 --> 00:01:41,027
+(flat) Sir, one of them cried. He wanted to do
+it. He said he wanted to do it.
 
 21
-00:01:54,248 --> 00:01:59,557
-If you had asked Mireille Achebe whether she
-worshipped Albert Wesker, she would have
+00:01:41,427 --> 00:01:46,479
+By the end of the first day there were eleven such
+holds. By the end of the second there
 
 22
-00:01:59,577 --> 00:02:04,949
-laughed at you. She had seen him twice, both times
-at a distance. She thought he was a
+00:01:46,499 --> 00:01:47,517
+were four hundred.
 
 23
-00:02:04,969 --> 00:02:10,467
-strange, cold, brilliant man who had built a city
-where her mother did not have to clean
+00:01:47,917 --> 00:01:53,316
+The narrator wants to be exact about the mechanism,
+because every account since has got
 
 24
-00:02:10,487 --> 00:02:13,539
-offices. She did not think about
-him much at all.
+00:01:53,336 --> 00:01:55,246
+it wrong in the same direction.
 
 25
-00:02:14,109 --> 00:02:18,801
-If you had asked her whether she would leave Arklay,
-she would have looked at you as if
+00:01:55,647 --> 00:02:02,113
+Albert Wesker did not order anybody to sabotage
+anything. He had ordered the precise opposite:
 
 26
-00:02:18,821 --> 00:02:21,563
-you had asked whether she would
-leave her own body.
+00:02:02,133 --> 00:02:07,978
+*assist the visiting personnel with anything they
+request*, in writing, in front of a
 
 27
-00:02:24,133 --> 00:02:30,383
-His name was Danilo Ferreira. He was thirty-four,
-from São Paulo, and he was a sergeant
+00:02:07,998 --> 00:02:14,187
+camera, and he had signed a second instrument at five
+forty-one authorising every Absolute
 
 28
-00:02:30,403 --> 00:02:32,761
-in the Umbrella Security Service.
+00:02:14,207 --> 00:02:19,086
+employee to take instruction from the
+officer commanding at their site.
 
 29
-00:02:33,331 --> 00:02:39,659
-He had been a military policeman at home, in a city
-where that job meant something complicated,
+00:02:19,486 --> 00:02:25,060
+And it did not work, and the reason it did not work
+is the single most important fact
 
 30
-00:02:39,679 --> 00:02:45,539
-and he had left it because of a thing he had been
-ordered to do and had done. Arklay was
+00:02:25,080 --> 00:02:29,206
+about the Absolute, and the Coalition
+discovered it on day two.
 
 31
-00:02:45,559 --> 00:02:51,619
-a fresh start. On Arklay there was no violent crime to
-speak of; his job was lost children,
+00:02:29,727 --> 00:02:32,096
+Explain it to me again. Slowly.
 
 32
-00:02:51,639 --> 00:02:57,098
-drunk engineers, and the occasional journalist
-trying to get in on a fishing boat.
+00:02:32,497 --> 00:02:39,163
+They can take an instruction from you. They cannot
+take *responsibility* from you. A man
 
 33
-00:02:57,669 --> 00:03:03,207
-Four of the six officers in his section had come
-from the Shop. He did not know that.
+00:02:39,183 --> 00:02:46,154
+who was made on a Saturday in 2039 with a wife and
+seventeen years of memories is a complete
 
 34
-00:03:03,227 --> 00:03:08,831
-He knew that four of the six were very good at the
-job, never complained, never drank,
+00:02:46,174 --> 00:02:52,688
+human being in every respect except one: he has
+never in his life made a decision that
 
 35
-00:03:08,851 --> 00:03:13,605
-never asked for leave, and never quite looked
-at him when he made a joke.
+00:02:52,708 --> 00:02:59,147
+mattered on his own account, because there has
+never been a moment when there was not
 
 36
-00:03:14,175 --> 00:03:20,247
-He had tried, once, in his second year, to raise it
-with his lieutenant — not as a complaint,
+00:02:59,167 --> 00:03:01,046
+an instruction available.
 
 37
-00:03:20,267 --> 00:03:26,143
-just as a thing he had noticed. He had said: they're
-strange, aren't they, the quiet ones.
+00:03:01,326 --> 00:03:08,082
+You have removed the instruction. Not the giver of it
+— I am still here, and I have signed
 
 38
-00:03:26,711 --> 00:03:32,954
-His lieutenant had looked at him for a moment too long,
-and said: they're excellent officers,
+00:03:08,102 --> 00:03:14,782
+everything you have put in front of me — the
+*structure*. They are not refusing you. They
 
 39
-00:03:32,974 --> 00:03:39,217
-Sergeant. And Danilo Ferreira had understood, the way a
-man who has been a military policeman
+00:03:14,802 --> 00:03:21,180
+are standing at their consoles in a condition that
+your medical people are, I gather,
 
 40
-00:03:39,237 --> 00:03:45,143
-in a complicated city understands things, that there
-was a door in this conversation and
+00:03:21,200 --> 00:03:27,805
+calling dissociative, and for which they have no
+precedent, because there has never been
 
 41
-00:03:45,163 --> 00:03:46,085
-it was closed.
+00:03:27,825 --> 00:03:29,536
+a population like this.
 
 42
-00:03:46,656 --> 00:03:52,330
-He had a wife on the Fourth Ring and a son of six
-who wanted to be an oceanographer. He
+00:03:29,937 --> 00:03:31,766
+And you knew this would happen.
 
 43
-00:03:52,350 --> 00:03:55,473
-never mentioned it again. He was
-promoted twice.
+00:03:32,167 --> 00:03:39,094
+(very soft) I have known since 2027. It is in the
+second panel I was ever shown. *Personnel
 
 44
-00:03:58,043 --> 00:04:04,022
-And his name was Tomás Reyes, and by twenty
-forty-one he was one of the most powerful
+00:03:39,114 --> 00:03:45,737
+acquired through this interface cannot disobey.* I
+understood on the first morning what
 
 45
-00:04:04,042 --> 00:04:07,693
-men on Earth, and he was hollow all
-the way through.
+00:03:45,757 --> 00:03:52,532
+that would mean at scale and I built the scale
+anyway, and I have had fifty years to find
 
 46
-00:04:08,263 --> 00:04:13,941
-He was thirty-nine. He ran a department of four
-thousand people in nine countries. He
+00:03:52,552 --> 00:03:55,356
+a way out of it and there is not one.
 
 47
-00:04:13,961 --> 00:04:19,706
-had, without exaggeration, more influence over what
-eight billion people believed than
+00:03:56,197 --> 00:03:58,026
+Then why are you so calm?
 
 48
-00:04:19,726 --> 00:04:25,472
-any single human being in history — more than any
-newspaper baron, more than any state
+00:03:58,426 --> 00:04:04,648
+Because you are about to learn the thing I learned
+in 2033, Colonel, and it is going to
 
 49
-00:04:25,492 --> 00:04:31,237
-broadcaster, because he did not own the channels. He
-owned the shape of the water they
+00:04:04,668 --> 00:04:10,890
+be a great deal worse for you than it was for me,
+and there is nothing whatsoever I can
 
 50
-00:04:31,257 --> 00:04:32,242
-flowed through.
+00:04:10,910 --> 00:04:12,396
+do to make it easier.
 
 51
-00:04:32,812 --> 00:04:38,619
-He had done it well. Pale Horse had been his
-greatest work: nineteen days from sequence
+00:04:12,796 --> 00:04:13,733
+Which is?
 
 52
-00:04:38,639 --> 00:04:44,580
-to vaccine, and eighteen weeks in which he had taken
-the most frightened planet in living
+00:04:14,133 --> 00:04:20,723
+(very soft) That there is no version of this in which
+you give it back to somebody else.
 
 53
-00:04:44,600 --> 00:04:50,406
-memory and given it, gently, patiently, a
-red-and-white umbrella to look at. People had
+00:04:21,124 --> 00:04:24,974
+The water ran out at Teraina on the
+morning of the fifth day.
 
 54
-00:04:50,426 --> 00:04:54,893
-cried at his advertisements. He had won
-awards he had not attended.
+00:04:25,374 --> 00:04:31,602
+It ran out at four protectorates within the week, and
+in every case the Coalition's engineers
 
 55
-00:04:56,963 --> 00:05:02,323
-At three in the morning, when the building was empty,
-he sometimes played the break-room
+00:04:31,622 --> 00:04:37,380
+had the plant running again inside thirty-six hours
+by bypassing the management system
 
 56
-00:05:02,343 --> 00:05:02,629
-clip.
+00:04:37,400 --> 00:04:43,090
+entirely, and in every case there was a gap, and in
+the gap there were people with no
 
 57
-00:05:03,199 --> 00:05:09,280
-Twenty seconds, shot on a phone in November twenty
-twenty-six, by a twenty-four-year-old
+00:04:43,110 --> 00:04:43,494
+water.
 
 58
-00:05:09,300 --> 00:05:15,242
-lab technician who thought he was being funny. Six
-frightened people. A man in a black
+00:04:43,894 --> 00:04:49,868
+Nobody died. The narrator wants that on the record,
+because it was the closest thing to
 
 59
-00:05:15,262 --> 00:05:21,621
-shirt saying: every great thing that has ever happened
-in this world began in a room exactly
+00:04:49,888 --> 00:04:55,931
+a mass casualty in the entire affair and it did not
+happen: the Coalition flew water in,
 
 60
-00:05:21,641 --> 00:05:22,591
-like this one.
+00:04:55,951 --> 00:05:01,994
+at enormous cost, with genuine competence and genuine
+urgency, and four hundred thousand
 
 61
-00:05:23,161 --> 00:05:28,601
-He had four hundred million views on that file. He
-had made it the founding document of
+00:05:02,014 --> 00:05:07,024
+people were inconvenienced and frightened and
+not one of them was harmed.
 
 62
-00:05:28,621 --> 00:05:34,122
-a civilisation. And he sat in the dark and watched
-it, over and over, trying to remember
+00:05:07,423 --> 00:05:13,983
+But there is footage, from Teraina, on the fifth day, of
+a queue of people at a dry standpipe.
 
 63
-00:05:34,142 --> 00:05:39,895
-what it had felt like the first time, when he had been
-a kid with a hundred and six thousand
+00:05:14,003 --> 00:05:20,073
+And a Coalition press officer, doing her job,
+explaining to a camera that the situation
 
 64
-00:05:39,915 --> 00:05:44,538
-dollars of student debt and no idea what he
-was standing in the middle of.
+00:05:20,093 --> 00:05:24,693
+was under control and that the water would
+be restored by evening.
 
 65
-00:05:46,728 --> 00:05:48,370
-He is exhausted.
+00:05:25,093 --> 00:05:29,093
+And behind her, in the queue, an old
+woman looking at the camera.
 
 66
-00:05:48,891 --> 00:05:51,260
-He's the most valuable man in the company.
+00:05:29,494 --> 00:05:35,516
+That was the image. Not a massacre. A queue, and an
+old woman's face, and a foreign officer
 
 67
-00:05:51,779 --> 00:05:58,400
-Those are not contradictions. I had one like him. A very
-clever, very tired man who understood
+00:05:35,536 --> 00:05:37,044
+saying *under control*.
 
 68
-00:05:58,420 --> 00:06:04,759
-crowds better than I did, and who could not stop, and
-who in the end took his whole family
+00:05:37,444 --> 00:05:42,906
+The demonstrations began on the sixth day, and they
+were not organised by Umbrella, and
 
 69
-00:06:04,779 --> 00:06:05,395
-with him.
+00:05:42,926 --> 00:05:48,452
+the narrator has checked this more carefully than
+anything else in this account, because
 
 70
-00:06:05,915 --> 00:06:07,474
-Tomás has no family.
+00:05:48,472 --> 00:05:52,234
+it is the single most consequential
+question of the century.
 
 71
-00:06:07,994 --> 00:06:11,835
-No. He does not. Have you never
-wondered why?
+00:05:52,634 --> 00:05:58,964
+The Red Queen was in Coalition custody, powered down,
+from the fourth of March. The asset
 
 72
-00:06:14,355 --> 00:06:20,279
-The Director did not answer. But he gave Tomás Reyes
-six months' leave the following week,
+00:05:58,984 --> 00:06:05,529
+network of forty-one people in government and media,
+purchased in 2034, was never activated;
 
 73
-00:06:20,299 --> 00:06:26,291
-with his salary and his stock and his title, and told
-him to go somewhere without a screen.
+00:06:05,549 --> 00:06:11,736
+the Coalition's own forensic review found it and
+confirmed it had never once been used,
 
 74
-00:06:26,860 --> 00:06:32,977
-Tomás went to Patagonia. He came back after nine
-days, because he could not sleep there
+00:06:11,756 --> 00:06:15,804
+which was the most damaging finding
+in the entire report.
 
 75
-00:06:32,997 --> 00:06:33,471
-either.
+00:06:16,204 --> 00:06:21,870
+What happened is simpler and worse. Four billion
+people who took a free medicine every
 
 76
-00:06:36,041 --> 00:06:42,298
-And below all of it — below the schools and the
-promenades and the Fourth Ring apartments,
+00:06:21,890 --> 00:06:27,557
+sixteen weeks from a company that had never asked
+them for anything watched a queue at
 
 77
-00:06:42,318 --> 00:06:48,574
-in the keel of the arcology, two hundred metres
-beneath the waterline — was Evelyn Marsh's
+00:06:27,577 --> 00:06:31,724
+a dry standpipe, and made up their own
+minds, and went outside.
 
 78
-00:06:48,594 --> 00:06:49,341
-laboratory.
+00:06:32,124 --> 00:06:38,804
+Eleven million in Lagos. Nine million in Jakarta.
+Four million in São Paulo, in Mexico
 
 79
-00:06:49,911 --> 00:06:56,109
-It had moved from Delaware in twenty thirty-nine.
-Arklay Free Territory was in international
+00:06:38,824 --> 00:06:45,426
+City, in Cairo, in Manila. In Europe and North
+America it was smaller and angrier and
 
 80
-00:06:56,129 --> 00:07:01,854
-waters, which meant that it was subject to no
-nation's law on what might be done in a
+00:06:45,446 --> 00:06:46,673
+had more police.
 
 81
-00:07:01,874 --> 00:07:07,803
-laboratory, and the Progenitor Initiative had
-outgrown a sublevel under a brick building
+00:06:47,072 --> 00:06:53,612
+The demand was four words, and it was on every sign
+in nineteen languages, and it was
 
 82
-00:07:07,823 --> 00:07:09,966
-in Wilmington some years before.
+00:06:53,632 --> 00:06:55,002
+not *free Wesker*.
 
 83
-00:07:10,536 --> 00:07:16,185
-She was forty-one. She had taken the longevity
-therapy at thirty-five, and something else
+00:06:55,401 --> 00:06:57,502
+It was: *give us our doctor back.*
 
 84
-00:07:16,205 --> 00:07:21,663
-at thirty-eight that she had designed herself and
-reported to the Director afterwards,
+00:06:57,901 --> 00:07:03,450
+The Coalition held for eleven days, and the narrator
+would like to say clearly that it
 
 85
-00:07:21,683 --> 00:07:27,078
-as agreed, in a memo of four lines. She looked
-perhaps thirty. She slept two hours in
+00:07:03,470 --> 00:07:09,018
+held for eleven days under conditions no government
+in history has faced, and that the
 
 86
-00:07:27,098 --> 00:07:33,130
-every forty-eight. Her staff of two hundred and
-seventeen included sixty humans, who worshipped
+00:07:09,038 --> 00:07:11,413
+people in that room were not cowards.
 
 87
-00:07:33,150 --> 00:07:38,290
-her, and a hundred and fifty-one who had come
-from the Shop, and did not need to.
+00:07:11,814 --> 00:07:18,209
+What broke it was not the protests. It was the
+arithmetic, presented on day nine by the
 
 88
-00:07:38,860 --> 00:07:44,456
-She had, by then, made ten more of what the System's
-panels called Personnel conversion
+00:07:18,229 --> 00:07:22,708
+same French analyst who had drawn the
+dependency map in 2072.
 
 89
-00:07:44,476 --> 00:07:50,267
-— Progenitor (human). Thomas Wyatt had been the first.
-The others had all been volunteers,
+00:07:23,228 --> 00:07:25,498
+Read the last paragraph aloud.
 
 90
-00:07:50,287 --> 00:07:55,883
-and all been dying, and all been told the truth, and
-all been given, on the far side of
+00:07:25,898 --> 00:07:30,295
+(flat) *We can operate the infrastructure. We
+cannot operate the personnel. Restoring
 
 91
-00:07:55,903 --> 00:08:01,436
-it, thirty or forty more years and a brightness in
-the eyes and a total, unquestioning
+00:07:30,315 --> 00:07:35,128
+full function requires either the replacement of
+approximately four hundred thousand Absolute
 
 92
-00:08:01,456 --> 00:08:07,311
-devotion to the Director that none of them experienced
-as devotion at all. They experienced
+00:07:35,148 --> 00:07:39,597
+employees with trained conventional staff — a
+programme we estimate at seventeen years
 
 93
-00:08:07,331 --> 00:08:08,214
-it as clarity.
+00:07:39,617 --> 00:07:44,118
+and nine hundred billion dollars — or the
+restoration of the command structure they are
 
 94
-00:08:08,785 --> 00:08:14,863
-Three of them sat on the boards of Umbrella
-subsidiaries. One was a deputy health minister
+00:07:44,138 --> 00:07:45,002
+contingent upon.*
 
 95
-00:08:14,883 --> 00:08:20,285
-in a country in southern Europe. One was the
-chief executive of a shipping line.
+00:07:45,281 --> 00:07:50,099
+(flat) *There is no third option. In the interim,
+we estimate excess mortality across
 
 96
-00:08:20,855 --> 00:08:26,295
-Evelyn kept their files in a cabinet she had made
-herself, because she did not trust the
+00:07:50,119 --> 00:07:55,050
+the protectorates and the medical distribution
+network at between four hundred thousand
 
 97
-00:08:26,315 --> 00:08:31,755
-network, and on the front of the cabinet, in her
-small neat handwriting, she had written
+00:07:55,070 --> 00:07:59,887
+and two million persons over twenty-four months,
+depending on how quickly the Aeterna
 
 98
-00:08:31,775 --> 00:08:32,252
-a label.
+00:07:59,907 --> 00:08:00,911
+network degrades.*
 
 99
-00:08:32,822 --> 00:08:34,065
-The quiet ones.
+00:08:01,862 --> 00:08:03,072
+Two million.
 
 100
-00:08:36,634 --> 00:08:42,796
-Catherine Adeyemi spent three weeks a year on Arklay
-after twenty thirty-nine, and hated
+00:08:03,471 --> 00:08:06,401
+(flat) At the upper bound. If we
+hold for two years.
 
 101
-00:08:42,816 --> 00:08:48,697
-every one of them, and could not have said, in
-public, a single specific reason why.
+00:08:06,802 --> 00:08:08,932
+(very slow) And if we give it back?
 
 102
-00:08:49,267 --> 00:08:54,875
-That was the genius of it. There was nothing to
-point at. The city was beautiful. The
+00:08:09,331 --> 00:08:14,032
+(flat) Then nobody dies, sir, and he is exactly where
+he was on the third of March, except
 
 103
-00:08:54,895 --> 00:09:00,769
-people were happy. The hospital was free and
-excellent. Crime was almost nil. The schools
+00:08:14,052 --> 00:08:18,648
+that eight billion people have now watched us try and
+fail, and every government in this
 
 104
-00:09:00,789 --> 00:09:06,597
-got children into every university on Earth. Nobody
-was forced to stay, and nobody left.
+00:08:18,668 --> 00:08:23,317
+room has demonstrated, on camera, that it will take
+the water away from an island to make
 
 105
-00:09:06,617 --> 00:09:12,689
-There was no secret police, because there was no need
-for one; the Umbrella Security Service
+00:08:23,337 --> 00:08:24,681
+a point about sovereignty.
 
 106
-00:09:12,709 --> 00:09:15,802
-spent most of its time returning
-lost property.
+00:08:25,081 --> 00:08:31,563
+The vote was on the fifteenth of March. Nine of the
+twelve voted to withdraw. Two abstained.
 
 107
-00:09:16,371 --> 00:09:22,444
-She sent Ashcombe fifteen reports in four years. She
-could feel, reading them back, how
+00:08:31,583 --> 00:08:35,451
+One voted to continue and its
+government fell in April.
 
 108
-00:09:22,464 --> 00:09:28,396
-they must sound in London: a highly paid chief
-financial officer complaining that the
+00:08:35,850 --> 00:08:41,358
+On the ninth day the French colonel came back, off
+duty, without his camera, which was
 
 109
-00:09:28,416 --> 00:09:31,198
-residents of a utopia were too cheerful.
+00:08:41,378 --> 00:08:47,143
+a court-martial offence, and sat on a chair in a room
+where the most powerful man on earth
 
 110
-00:09:31,769 --> 00:09:37,452
-In her fourth year she wrote one that was
-different. It was three sentences long, and
+00:08:47,163 --> 00:08:51,770
+was being held with a guard on the door and
+four books he had asked for.
 
 111
-00:09:37,472 --> 00:09:43,491
-she sent it from a boat, on a satellite phone, twenty
-miles outside the Territory's water.
+00:08:52,291 --> 00:08:57,964
+I have three thousand people on this platform and I
+cannot get the water plant at Teraina
 
 112
-00:09:44,061 --> 00:09:50,277
-It said: There is no coercion here. There is no
-dissent here either. Julian, I have finally
+00:08:57,984 --> 00:09:03,657
+to start, and a girl at that plant has been sitting
+at a console for six days apologising
 
 113
-00:09:50,297 --> 00:09:56,445
-understood what he is building, and it is not a
-company or a country — it is a place where
+00:09:03,677 --> 00:09:04,041
+to me.
 
 114
-00:09:56,465 --> 00:09:59,391
-nobody has ever needed to be
-made to agree.
+00:09:04,321 --> 00:09:09,515
+You have not asked me for anything in nine days. Not
+a lawyer, not a telephone. You have
 
 115
-00:10:01,961 --> 00:10:08,102
-He walked the city at night, sometimes, alone, without
-security, because there was nothing
+00:09:09,535 --> 00:09:10,760
+asked for four books.
 
 116
-00:10:08,122 --> 00:10:13,717
-on Arklay that could hurt him and because the
-Banner-Sense worked better outdoors.
+00:09:11,160 --> 00:09:12,430
+I have read them.
 
 117
-00:10:14,287 --> 00:10:19,630
-A hundred and sixty thousand small steady lights. He
-could feel them all. A teacher on
+00:09:12,831 --> 00:09:14,541
+Why are you not fighting me?
 
 118
-00:10:19,650 --> 00:10:25,305
-the Third Ring who had fallen asleep marking. A
-sergeant on the Fourth doing a night patrol
+00:09:15,490 --> 00:09:18,841
+(very soft) Colonel, what do
+you think I am?
 
 119
-00:10:25,325 --> 00:10:30,606
-and thinking about his son. Four thousand quiet
-ones who burned with a light that was
+00:09:19,240 --> 00:09:22,551
+Nine days ago I would have said a man
+with a private army.
 
 120
-00:10:30,626 --> 00:10:35,906
-not light at all, but something more like a wire.
-And two hundred metres down, in the
+00:09:22,951 --> 00:09:24,061
+And now?
 
 121
-00:10:35,926 --> 00:10:41,083
-keel, a woman who burned so bright that he had
-learned not to look directly at her.
+00:09:24,461 --> 00:09:29,502
+Now I think you are the only piece of infrastructure in
+this building that cannot be seized,
 
 122
-00:10:43,273 --> 00:10:48,478
-This is what I meant. All those years, in
-the car, going home. This.
+00:09:29,522 --> 00:09:34,509
+and that you have known it for about fifty years, and
+that you have spent nine days letting
 
 123
-00:10:48,999 --> 00:10:49,682
-I know.
+00:09:34,529 --> 00:09:37,370
+my government find it out at the
+cost of some water.
 
 124
-00:10:50,202 --> 00:10:55,963
-I could not build it. I had the crowds and the
-banners and a continent, and I could not
+00:09:38,211 --> 00:09:43,413
+(very cold) That is very close to correct and there
+is one thing in it that is wrong,
 
 125
-00:10:55,983 --> 00:10:58,886
-build one street like this. Do
-you know why?
+00:09:43,433 --> 00:09:48,820
+and I would like to give it to you because you have
+been decent to my people and because
 
 126
-00:11:00,407 --> 00:11:03,267
-Because you gave them an enemy
-instead of a roof.
+00:09:48,840 --> 00:09:50,541
+you will be blamed for this.
 
 127
-00:11:03,787 --> 00:11:04,752
-Yes.
+00:09:50,821 --> 00:09:58,404
+I did not let you find it out. I have been trying
+to explain it since 2034 and nobody
 
 128
-00:11:06,652 --> 00:11:12,408
-I gave them someone to hate, because hate is quick,
-and I was in a hurry, and I thought
+00:09:58,424 --> 00:10:06,007
+has been able to hear it, because it is not a
+threat and it cannot be drawn on a map.
 
 129
-00:11:12,428 --> 00:11:18,052
-a people could be held together by what it was
-against. And it held. For eight years,
+00:10:06,027 --> 00:10:14,415
+*There is no mechanism by which this can be handed to
+anybody.* Not to you, not to a tribunal,
 
 130
-00:11:18,072 --> 00:11:23,165
-it held beautifully, and then it burned, and
-everything I built went with it.
+00:10:14,435 --> 00:10:22,107
+not to the United Nations. I did not build it that
+way to keep it. I built it that way
 
 131
-00:11:23,565 --> 00:11:29,749
-You have given them a roof. And a school. And a
-doctor. And they will hold for a thousand
+00:10:22,127 --> 00:10:29,711
+because in 2026 it was faster, and I have been
+unable to undo it for fifty-one years.
 
 132
-00:11:29,769 --> 00:11:30,168
-years.
+00:10:29,990 --> 00:10:36,376
+(very cold) You were right to come. Your governments
+were right. The only thing anybody
 
 133
-00:11:32,687 --> 00:11:38,036
-The Wesker half of the mind stood on the terrace in
-the wind and looked down at the lights.
+00:10:36,396 --> 00:10:39,321
+got wrong was believing there was a key.
 
 134
-00:11:38,725 --> 00:11:39,879
-Say the rest of it.
+00:10:39,721 --> 00:10:46,297
+Colonel Émile Roux was retired in 2078 at his own
+request, having declined to give evidence
 
 135
-00:11:40,399 --> 00:11:46,469
-The rest of it is that I was wrong. About all of
-it. Not about the goal — never about
+00:10:46,317 --> 00:10:52,676
+to the Coalition's inquiry on the grounds that he had
+gone off duty to a detainee's room
 
 136
-00:11:46,489 --> 00:11:52,631
-the goal. About the method. Everything I did was too
-fast and too loud and too hungry,
+00:10:52,696 --> 00:10:54,270
+without authorisation.
 
 137
-00:11:52,651 --> 00:11:59,008
-and it cost me the world, and a boy from a Wilmington
-laboratory did it better in fifteen
+00:10:54,671 --> 00:11:01,324
+He is the sole named source for that conversation.
+He published it in 2091, four pages,
 
 138
-00:11:59,028 --> 00:12:02,089
-years with a medicine and a
-laminated card.
+00:11:01,344 --> 00:11:07,921
+in a memoir that sold badly, and its last line is
+the epigraph of the Hangzhou Accord.
 
 139
-00:12:04,610 --> 00:12:10,224
-It was the first and only time, in twenty-one years,
-that the old voice admitted it had
+00:11:08,441 --> 00:11:11,771
+We went to take the keys and found the
+locks had been grown.
 
 140
-00:12:10,244 --> 00:12:11,908
-been wrong about anything.
+00:11:12,171 --> 00:11:17,755
+They released him at six o'clock in the morning on
+the sixteenth of March, eleven days
 
 141
-00:12:12,477 --> 00:12:18,525
-And the Wesker half of the mind — who had spent
-fifteen years using that voice's failures
+00:11:17,775 --> 00:11:23,684
+and two hours after they had taken him, and they did
+it without any ceremony at all because
 
 142
-00:12:18,545 --> 00:12:24,865
-as a whetstone, who had defined himself entirely as the
-man who would not make those mistakes
+00:11:23,704 --> 00:11:26,487
+nobody had any idea how to do
+it with some.
 
 143
-00:12:24,885 --> 00:12:27,592
-— found that he did not feel triumphant.
+00:11:26,886 --> 00:11:32,316
+He walked out onto the causeway in the same coat, in
+front of four hundred thousand people
 
 144
-00:12:28,163 --> 00:12:33,712
-He felt, standing on the terrace above a hundred and
-sixty thousand sleeping people, the
+00:11:32,336 --> 00:11:37,462
+who had been told at midnight that he was coming
+out, and who had been standing there
 
 145
-00:12:33,732 --> 00:12:39,346
-specific loneliness of a man who has just won an
-argument he has been having with himself
+00:11:37,482 --> 00:11:38,430
+since about two.
 
 146
-00:12:39,366 --> 00:12:41,498
-since he was a corpse in a bunker.
+00:11:38,831 --> 00:11:44,301
+The narrator will describe the next ninety seconds
+as precisely as the record allows.
 
 147
-00:12:44,317 --> 00:12:48,927
-Integration. Host coherence,
-ninety-one percent.
+00:11:44,701 --> 00:11:50,785
+He stopped. He looked at the crowd for a long moment.
+And he raised one hand, flat, palm
 
 148
-00:12:52,017 --> 00:12:57,209
-It was the first time the System had ever shown him
-that panel. He had not known there
+00:11:50,805 --> 00:11:56,680
+out — not a wave; the gesture a man makes to a room
+that is about to start shouting —
 
 149
-00:12:57,229 --> 00:12:57,997
-was a number.
+00:11:56,700 --> 00:12:01,259
+and four hundred thousand people went
+quiet in about four seconds.
 
 150
-00:12:58,567 --> 00:13:04,682
-Ninety-one percent. Two divergences in a year — two
-arguments, out of a thousand, in which
+00:12:01,778 --> 00:12:03,148
+Nobody died.
 
 151
-00:13:04,701 --> 00:13:08,363
-the two of them had genuinely wanted
-different things.
+00:12:03,977 --> 00:12:10,083
+I want that to be the first sentence, and I want it
+to be the one you remember, because
 
 152
-00:13:08,932 --> 00:13:11,553
-In the first year there had been
-four hundred.
+00:12:10,103 --> 00:12:16,138
+in about an hour there will be four hundred people
+telling you what this was, and most
 
 153
-00:13:14,124 --> 00:13:17,850
-He stood on the terrace for a long
-time and did not go in.
+00:12:16,158 --> 00:12:17,687
+of them will be wrong.
 
 154
-00:13:18,421 --> 00:13:23,965
-He was not afraid of very much by then. But he
-understood, looking at that number, that
+00:12:17,967 --> 00:12:25,152
+Twelve governments believed that no species should
+depend on the goodwill of one man.
 
 155
-00:13:23,985 --> 00:13:29,402
-there was a day coming — not soon, but coming —
-when the panel would read one hundred
+00:12:25,172 --> 00:12:32,526
+They were right. They have been right since 2034,
+when I said so myself, under oath, in
 
 156
-00:13:29,422 --> 00:13:34,200
-percent, and there would be no more arguments
-in the car on the drive home.
+00:12:32,546 --> 00:12:39,137
+front of a Senate committee, and asked them to
+build something better than me.
 
 157
-00:13:34,769 --> 00:13:39,857
-And he could no longer say, with any confidence at
-all, which of them would be left.
+00:12:39,418 --> 00:12:45,702
+(very cold) They did not build it. They came to take
+it instead, and they took it without
+
+158
+00:12:45,722 --> 00:12:51,866
+hurting anyone, and then they discovered what I have
+known since I was forty years old:
+
+159
+00:12:51,886 --> 00:12:57,958
+that the thing they were taking cannot be held by
+anybody else, because I built it out
+
+160
+00:12:57,978 --> 00:13:01,288
+of people who cannot be given to
+another owner.
+
+161
+00:13:02,008 --> 00:13:09,735
+That is my fault. Not theirs. Mine. I built it that
+way because it was faster, and because
+
+162
+00:13:09,755 --> 00:13:17,224
+it worked, and because every year for fifty years
+the alternative would have cost lives
+
+163
+00:13:17,244 --> 00:13:23,078
+that I could count and the risk would have
+been a thing I could not.
+
+164
+00:13:23,357 --> 00:13:30,411
+Go home. Drink something. The water is on everywhere
+as of four o'clock this morning and
+
+165
+00:13:30,431 --> 00:13:33,867
+the medicine did not stop for
+a single day.
+
+166
+00:13:34,268 --> 00:13:40,296
+He did not say anything else. He did not smile, or
+thank anybody, or raise a fist, and
+
+167
+00:13:40,316 --> 00:13:46,274
+when they began to chant his name anyway he stood
+there until it stopped, and it took
+
+168
+00:13:46,294 --> 00:13:47,117
+a long time.
+
+169
+00:13:48,268 --> 00:13:56,819
+Event: the Eleven Days. Twelve Coalition states, all
+withdrawn. Deaths, all causes, attributable:
+
+170
+00:13:56,839 --> 00:14:04,419
+zero. Global sentiment: ninety-six per cent
+favourable, the highest figure I have ever
+
+171
+00:14:04,439 --> 00:14:12,019
+recorded. Forty billion Points. Note: you did not
+defend yourself. You have never been
+
+172
+00:14:12,039 --> 00:14:12,814
+stronger.
+
+173
+00:14:13,405 --> 00:14:19,117
+And in a cell of an office on the fourth level, on
+the eleventh night, Owen Carrick —
+
+174
+00:14:19,137 --> 00:14:24,915
+who had been detained with the rest of the
+Directorate and had spent the entire eleven
+
+175
+00:14:24,935 --> 00:14:30,714
+days refusing to speak to his own former colleagues
+from the Bureau — wrote the eighth
+
+176
+00:14:30,734 --> 00:14:33,815
+folder on hotel notepaper, and
+it is one line.
+
+177
+00:14:34,336 --> 00:14:40,086
+He let them take it so that they would find out it
+cannot be taken. That is not a defence.
+
+178
+00:14:40,106 --> 00:14:44,895
+That is a demonstration, and every government
+on earth has just watched it.

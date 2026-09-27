@@ -1,732 +1,672 @@
 1
-00:00:09,000 --> 00:00:12,406
-The narrator is not going to
-describe the disease.
+00:00:09,000 --> 00:00:15,248
+Ninety-nine days after he walked out of a vault
+under a house in Pennsylvania, Albert
 
 2
-00:00:12,976 --> 00:00:18,039
-You have lived through one. You remember what it was
-to watch a number climb on a screen,
+00:00:15,268 --> 00:00:20,410
+Wesker gave away the second-largest thing
+anybody has ever given away.
 
 3
-00:00:18,059 --> 00:00:23,179
-and to learn the words for things you had never needed
-words for, and to stand at a window
+00:00:20,809 --> 00:00:25,859
+The largest is in Chapter Forty-Six and it is
+not a thing he was praised for.
 
 4
-00:00:23,199 --> 00:00:28,319
-and see a street with nothing in it. You do not need
-me to build you another. It is enough
+00:00:26,260 --> 00:00:32,886
+What he gave away in March of 2063 was Aeterna. Not
+the patent — the patent had four years
 
 5
-00:00:28,339 --> 00:00:33,288
-to say that in the spring of twenty thirty-six a new
-illness appeared in nine countries
+00:00:32,906 --> 00:00:40,123
+to run and was in escrow with the United States government
+anyway. He gave away the *manufacture*:
 
 6
-00:00:33,308 --> 00:00:38,142
-in the same week, and that the world's doctors took
-one look at the pattern of it and
+00:00:40,143 --> 00:00:44,259
+the process, the plants, the
+distribution, and the cost.
 
 7
-00:00:38,162 --> 00:00:41,341
-understood that it had not come from
-anywhere in nature.
+00:00:44,658 --> 00:00:51,144
+From the first of January 2064, Aeterna would be
+free. Not subsidised, not means-tested,
 
 8
-00:00:41,911 --> 00:00:48,620
-They called it Pale Horse. A journalist chose the name,
-from Revelation, in a Sunday newspaper,
+00:00:51,164 --> 00:00:57,650
+not rationed by queue. Free, to every human being on
+the planet who wanted it, for ever,
 
 9
-00:00:48,640 --> 00:00:53,082
-and by the following weekend it was the
-only name anybody used.
+00:00:57,670 --> 00:01:04,007
+manufactured by Umbrella at Umbrella's expense and
+distributed through whatever health
 
 10
-00:00:55,154 --> 00:01:01,485
-What matters, for this story, is what it did to
-people. Schools closed in forty countries.
+00:01:04,027 --> 00:01:10,808
+system existed in the country in question, or, where
+none existed, by Umbrella's own people.
 
 11
-00:01:01,505 --> 00:01:07,484
-Borders shut. Two hundred and sixty thousand people
-died in seven weeks, most of them
+00:01:11,209 --> 00:01:14,459
+He announced it in four minutes.
+There were no slides.
 
 12
-00:01:07,504 --> 00:01:12,777
-in the first six, most of them before anyone
-had agreed on what to call it.
+00:01:14,978 --> 00:01:22,332
+The compound costs eleven dollars a course to make. We
+have been selling it for four hundred,
 
 13
-00:01:13,346 --> 00:01:17,403
-And on the eleventh day, Umbrella
-announced that it had a vaccine.
+00:01:22,352 --> 00:01:29,072
+and we have sold it to about nine hundred million
+people, and there are seven billion
 
 14
-00:01:19,974 --> 00:01:26,699
-Twenty-two days. From the publication of the first
-genetic sequence to a finished, tested,
+00:01:29,092 --> 00:01:36,129
+people who have not had it, and the entire difference
+between those two numbers is money.
 
 15
-00:01:26,719 --> 00:01:28,423
-manufacturable vaccine.
+00:01:36,409 --> 00:01:43,406
+I have enough money. I would like to be extremely
+clear that this is not a moral position.
 
 16
-00:01:28,992 --> 00:01:34,846
-The rapid-response platform had been built for the
-Pentagon, under Martin Sloane's first
+00:01:43,426 --> 00:01:50,112
+It is an arithmetic one. There is no longer any
+quantity of currency that changes what
 
 17
-00:01:34,866 --> 00:01:40,987
-contract, and paid for by the American taxpayer, and it
-had promised nine days and delivered
+00:01:50,132 --> 00:01:57,286
+I can do, and there has not been since about 2044, and
+I have spent nineteen years wondering
 
 18
-00:01:41,007 --> 00:01:46,060
-eight in a test. This was the first time it had
-been used on something real.
+00:01:57,306 --> 00:02:00,639
+what the correct thing to do
+about that is.
 
 19
-00:01:46,631 --> 00:01:52,423
-Umbrella gave it away. That was Catherine's idea,
-and Tomás's, and it was the correct
+00:02:01,248 --> 00:02:08,980
+So: from January, it is free. Everywhere. For
+everyone. The plants are already built;
 
 20
-00:01:52,443 --> 00:01:58,442
-one, and it was also — as Catherine said in the
-meeting where it was decided, in a voice
+00:02:09,000 --> 00:02:16,731
+we built forty-one of them last year without
+announcing it. The first shipments leave
 
 21
-00:01:58,462 --> 00:02:04,665
-that made three people look at the table — the single
-most profitable decision in corporate
+00:02:16,751 --> 00:02:18,098
+in eleven days.
 
 22
-00:02:04,685 --> 00:02:10,615
-history. Not one dollar for the vaccine. Cost price,
-to every government on Earth, with
+00:02:18,378 --> 00:02:24,609
+I am not going to take questions about what this
+costs us, because the answer is that
 
 23
-00:02:10,635 --> 00:02:16,564
-the Umbrella Foundation covering the cost for the
-forty poorest countries. Four hundred
+00:02:24,629 --> 00:02:31,449
+it costs us nothing that matters, and any journalist
+who leads on the money has misunderstood
 
 24
-00:02:16,584 --> 00:02:22,856
-million doses from the plant in Singapore in the first
-month, which was exactly the capacity
+00:02:31,469 --> 00:02:33,728
+the century they are living in.
 
 25
-00:02:22,876 --> 00:02:29,011
-that a man had built in twenty twenty-nine and been
-asked about by his own chief financial
+00:02:34,128 --> 00:02:39,736
+The narrator will now describe what happens to a
+species that stops getting old, and will
 
 26
-00:02:29,031 --> 00:02:32,498
-officer, and had said: I believe
-in being prepared.
+00:02:39,756 --> 00:02:44,478
+try to do it without either of the two lies
+that are usually told about it.
 
 27
-00:02:33,068 --> 00:02:39,267
-By June it was over. By August the schools were open.
-By the autumn of twenty thirty-six,
+00:02:44,878 --> 00:02:48,448
+The first lie is that it was a
+paradise. It was not.
 
 28
-00:02:39,287 --> 00:02:45,486
-in every country on Earth, Umbrella's emblem had
-stopped meaning a pharmaceutical company
+00:02:48,848 --> 00:02:53,098
+The second lie is that it was a
+catastrophe. It was not that either.
 
 29
-00:02:45,506 --> 00:02:51,496
-and started meaning something closer to what it
-looked like: a red-and-white umbrella,
+00:02:53,498 --> 00:02:59,507
+What it was, was *enormous*, and slow, and unevenly
+distributed in ways that had nothing
 
 30
-00:02:51,516 --> 00:02:53,312
-held over you, in a storm.
+00:02:59,527 --> 00:03:03,343
+to do with the medicine and
+everything to do with roads.
 
 31
-00:02:53,883 --> 00:02:59,600
-The Umbrella Foundation was given the Nobel Peace
-Prize the following year. The Director
+00:03:03,743 --> 00:03:10,270
+By 2071, four point one billion people had taken
+Aeterna. Life expectancy at birth in
 
 32
-00:02:59,620 --> 00:03:05,142
-did not attend. He sent Evelyn Marsh, who did not
-speak, and stood at the back of the
+00:03:10,290 --> 00:03:17,279
+the countries with functioning distribution went from
+eighty-one to a hundred and forty-one
 
 33
-00:03:05,162 --> 00:03:10,163
-photographs, and looked, in every one of them,
-as if she were somewhere else.
+00:03:17,299 --> 00:03:23,902
+within a decade, and the projections kept moving
+because nobody had any idea where the
 
 34
-00:03:12,733 --> 00:03:18,497
-He found out in October, five months after it
-ended, and he found out by accident.
+00:03:23,922 --> 00:03:24,826
+ceiling was.
 
 35
-00:03:19,068 --> 00:03:24,822
-It was a shipping record. Not even a real one — an
-internal reconciliation, one of the
+00:03:25,228 --> 00:03:31,605
+Population growth collapsed, not rose, which every
+demographer except four had got wrong:
 
 36
-00:03:24,842 --> 00:03:30,663
-thousands that Pell's systems generated every week
-and that nobody read. It showed that
+00:03:31,625 --> 00:03:38,145
+people who expect to live two hundred years do not
+have children at twenty-five. The global
 
 37
-00:03:30,683 --> 00:03:36,437
-in the autumn of twenty thirty-five, four months
-before the first case in Frankfurt, a
+00:03:38,165 --> 00:03:44,255
+fertility rate fell below one point one by 2075 and
+the world's population began, for
 
 38
-00:03:36,457 --> 00:03:42,144
-sealed container had gone from the Arklay sublevel
-to the Basel vault, and from Basel
+00:03:44,275 --> 00:03:48,064
+the first time since the fourteenth
+century, to fall.
 
 39
-00:03:42,164 --> 00:03:48,119
-to three laboratories that Umbrella had acquired with
-Halvorsen Pike, in three countries.
+00:03:48,463 --> 00:03:54,761
+Pension systems in nineteen countries failed outright
+and were rebuilt from nothing. The
 
 40
-00:03:48,689 --> 00:03:54,609
-The three countries were not random. He looked at them
-for a long time. Then he went down.
+00:03:54,781 --> 00:04:01,078
+retirement age became a joke, then an insult, then a
+memory. Four hundred million people
 
 41
-00:03:56,680 --> 00:04:01,984
-She did not pretend. That was the thing he would
-remember. He put the page down on the
+00:04:01,098 --> 00:04:04,094
+went back to education in a single decade.
 
 42
-00:04:02,004 --> 00:04:07,371
-bench beside her, and she looked at it, and then she
-looked up at him, and her face was
+00:04:04,493 --> 00:04:10,543
+And a generation of young people found every senior
+position on earth occupied by someone
 
 43
-00:04:07,391 --> 00:04:08,299
-perfectly calm.
+00:04:10,563 --> 00:04:16,680
+who was not going to vacate it, and the political
+consequences of that ran for forty years
 
 44
-00:04:08,990 --> 00:04:11,227
-You weren't supposed to find that
-for another year.
+00:04:16,700 --> 00:04:22,476
+and were, the narrator notes, the single largest
+source of genuine hatred of Umbrella
 
 45
-00:04:13,247 --> 00:04:13,974
-Tell me.
+00:04:22,496 --> 00:04:23,704
+that ever existed.
 
 46
-00:04:14,492 --> 00:04:15,704
-You'll want to sit down.
+00:04:24,103 --> 00:04:29,654
+They called themselves the Term. Their founding
+argument was four words long and it was
 
 47
-00:04:16,225 --> 00:04:17,230
-Tell me, Evelyn.
+00:04:29,674 --> 00:04:32,151
+a good one: *nobody consented to this.*
 
 48
-00:04:19,750 --> 00:04:24,734
-You built a machine that could make a cure for
-anything in eight days, and you sold it
+00:04:32,550 --> 00:04:38,376
+They were not wrong. There had been no vote. Four
+point one billion people had individually
 
 49
-00:04:24,754 --> 00:04:29,797
-to the Pentagon, and it sat in a building in
-Maryland doing nothing for four years. You
+00:04:38,396 --> 00:04:44,607
+chosen to take a medicine, which is not the same as a
+species choosing to change its relationship
 
 50
-00:04:29,817 --> 00:04:34,743
-built a factory for four hundred million doses and
-you told Catherine you believed in
+00:04:44,627 --> 00:04:50,324
+with death, and the difference between those two
+things is the entire subject of the next
 
 51
-00:04:34,763 --> 00:04:39,748
-being prepared. You built clinics in forty-one
-countries. You built all of it, and you
+00:04:50,344 --> 00:04:52,701
+twenty years of political philosophy.
 
 52
-00:04:39,768 --> 00:04:40,504
-were waiting.
+00:04:53,100 --> 00:05:00,690
+Wesker's response, in 2069, to a direct question from a
+Term delegation that he had personally
 
 53
-00:04:40,904 --> 00:04:42,079
-I didn't want to wait.
+00:05:00,710 --> 00:05:04,091
+invited to the Arcology, is on the record:
 
 54
-00:04:44,098 --> 00:04:46,425
-Two hundred and sixty thousand people.
+00:05:04,610 --> 00:05:11,457
+You are correct. I did not ask you. There was no
+mechanism by which I could have asked
 
 55
-00:04:46,946 --> 00:04:47,501
-Yes.
+00:05:11,477 --> 00:05:18,243
+you — there is no body on this planet with the
+authority to answer a question of that
 
 56
-00:04:48,021 --> 00:04:48,918
-Say the number.
+00:05:18,263 --> 00:05:25,109
+size, and if there had been, it would have taken
+forty years to convene and twenty-one
 
 57
-00:04:49,439 --> 00:04:51,403
-Two hundred and sixty thousand.
+00:05:25,129 --> 00:05:29,180
+million people a year would have
+died while it sat.
 
 58
-00:04:52,802 --> 00:04:57,806
-And forty million a year from frailty and age,
-before Aeterna. And nine million a year
+00:05:29,461 --> 00:05:37,349
+So I did it, and I did it unilaterally, and it is
+irreversible, and I will not pretend
 
 59
-00:04:57,826 --> 00:05:02,947
-from the diseases we're going to take next, now that
-every government on Earth will sign
+00:05:37,369 --> 00:05:42,591
+that a distribution network is the
+same thing as consent.
 
 60
-00:05:02,967 --> 00:05:07,913
-anything we put in front of them. I did the
-arithmetic, Albert. I did it for nineteen
+00:05:42,870 --> 00:05:49,195
+(very cold) What I will say is this: the alternative
+on the table was that four billion
 
 61
-00:05:07,933 --> 00:05:13,287
-months before I did anything else. I am not a monster.
-I am the only person in this building
+00:05:49,215 --> 00:05:55,613
+people continue to die on schedule in order to
+preserve a principle about procedure, and
 
 62
-00:05:13,307 --> 00:05:14,747
-who has actually counted.
+00:05:55,633 --> 00:06:01,885
+I have never met anyone willing to defend that
+sentence out loud with the dying person
 
 63
-00:05:17,266 --> 00:05:22,994
-The Cold-Read gave him her face, and it was the
-worst thing it had ever given him. No
+00:06:01,905 --> 00:06:02,761
+in the room.
 
 64
-00:05:23,014 --> 00:05:28,742
-guilt. No fear. No doubt. Only the terrible,
-luminous calm of a person who has worked
+00:06:03,161 --> 00:06:10,045
+The delegation's leader — a twenty-six-year-old from
+Lagos named Adaeze Kalu, who becomes,
 
 65
-00:05:28,762 --> 00:05:33,745
-something out to the last decimal place and
-found that it comes out right.
+00:06:10,065 --> 00:06:16,873
+in twenty years, the most important person in this
+account who is not a Wesker or a Marsh
 
 66
-00:05:34,317 --> 00:05:40,101
-He had made her. That was the part he could not put
-down. He had found a young woman in
+00:06:16,893 --> 00:06:23,471
+— said the thing that Umbrella's own internal
+analysis had been saying for four years.
 
 67
-00:05:40,121 --> 00:05:46,106
-a dying laboratory who had never once been seen by
-anybody, and he had seen her, and shown
+00:06:23,990 --> 00:06:28,763
+You keep telling us what the alternative was. You
+never tell us who gets to decide what
 
 68
-00:05:46,126 --> 00:05:51,844
-her a sleeping giant behind glass, and given her a
-programme with a name, and reported
+00:06:28,783 --> 00:06:30,361
+the alternative is next time.
 
 69
-00:05:51,864 --> 00:05:57,582
-to nobody, and told her — over nine years, in a
-hundred small ways — that the ordinary
+00:06:30,761 --> 00:06:33,031
+Wesker did not answer her.
 
 70
-00:05:57,602 --> 00:05:59,918
-rules were for the people upstairs.
+00:06:33,430 --> 00:06:39,136
+The narrator notes that he did not answer her, that
+the Red Queen's minute of the meeting
 
 71
-00:06:00,487 --> 00:06:05,878
-She had listened to every word. She had simply gone
-further than he had, because she was
+00:06:39,156 --> 00:06:44,732
+records a nine-second pause at that point, and that
+it is the longest recorded pause of
 
 72
-00:06:05,898 --> 00:06:09,567
-younger, and because she had never had
-a bunker to remember.
+00:06:44,752 --> 00:06:46,340
+his life outside a stage.
 
 73
-00:06:12,137 --> 00:06:17,739
-The edge of the steel bench bent under his hand. He
-did not notice until afterwards.
+00:06:46,740 --> 00:06:52,573
+The narrator will give you the first year of free
+Aeterna as the people who administered
 
 74
-00:06:18,428 --> 00:06:19,932
-You did this without orders.
+00:06:52,593 --> 00:06:58,692
+it saw it, because the Assembly debates are about
+consent and the clinics were about queues.
 
 75
-00:06:20,451 --> 00:06:21,007
-Yes.
+00:06:59,091 --> 00:07:04,981
+Umbrella had built forty-one plants in secret over
+four years and had nine hundred million
 
 76
-00:06:21,526 --> 00:06:26,758
-Do you understand what that means? Not morally. I
-don't care about that. Do you understand
+00:07:05,001 --> 00:07:11,021
+courses in warehouses on the day of the announcement.
+It was not enough. It was not remotely
 
 77
-00:06:26,778 --> 00:06:28,392
-what it means operationally?
+00:07:11,041 --> 00:07:16,734
+enough: there were seven billion people who had not
+had it and the manufacturing ran at
 
 78
-00:06:29,791 --> 00:06:34,851
-It means I did not know. For five months, the most
-important thing happening on this planet
+00:07:16,754 --> 00:07:19,491
+about four hundred million courses a year.
 
 79
-00:06:34,871 --> 00:06:39,596
-was happening inside my own company, and I did not
-know. Every government on Earth is
+00:07:19,891 --> 00:07:26,052
+Which meant an order, and the order was the most
+consequential administrative decision
 
 80
-00:06:39,616 --> 00:06:44,453
-looking for who made that, Evelyn. They will look
-for years. They are better at it than
+00:07:26,072 --> 00:07:29,141
+of the century, and Wesker did
+not make it.
 
 81
-00:06:44,473 --> 00:06:48,416
-you think, and one of them is Wen Shulan,
-and she is not going to stop.
+00:07:29,541 --> 00:07:35,327
+He gave it to the World Health Organization — an
+institution that had spent thirty years
 
 82
-00:06:48,937 --> 00:06:49,985
-They'll never find it.
+00:07:35,347 --> 00:07:41,397
+being politely outperformed by Umbrella and that had,
+by 2064, almost no budget and enormous
 
 83
-00:06:50,504 --> 00:06:55,795
-They found the Russians in Nevada. They found the
-money in Ireland. They found a smear
+00:07:41,417 --> 00:07:47,136
+moral authority — and he gave it to them with one
+line of instruction and no oversight:
 
 84
-00:06:55,815 --> 00:07:01,044
-on a dashcam. They find everything eventually. The
-only thing that has ever protected
+00:07:47,156 --> 00:07:52,942
+*You will decide who is first. We will manufacture
+and deliver. We will not be consulted
 
 85
-00:07:01,064 --> 00:07:05,491
-us is that when they find it, I have already
-decided what they will see.
+00:07:52,962 --> 00:07:54,591
+and we will not comment.*
 
 86
-00:07:07,391 --> 00:07:10,225
-You have made a fact about me that
-I did not choose.
+00:07:54,992 --> 00:08:01,240
+They chose oldest-first, globally, without regard to
+nation, income or politics. It took
 
 87
-00:07:12,745 --> 00:07:14,218
-Let her alone.
+00:08:01,260 --> 00:08:07,437
+nine years to clear the backlog. It was administered
+by four hundred thousand people in
 
 88
-00:07:14,737 --> 00:07:15,614
-Not now.
+00:08:07,457 --> 00:08:13,705
+a hundred and ninety countries and there was, by the
+WHO's own audit in 2074, corruption
 
 89
-00:07:16,134 --> 00:07:22,219
-Listen to me. You are angry because she moved
-without you. That is the only reason. Not
+00:08:13,725 --> 00:08:19,759
+in the distribution chain in about five per cent of
+districts and theft of about four
 
 90
-00:07:22,239 --> 00:07:25,799
-the dead. You have never once
-cared about the dead.
+00:08:19,779 --> 00:08:21,042
+per cent of stock.
 
 91
-00:07:26,319 --> 00:07:27,771
-I care about the variables.
+00:08:21,442 --> 00:08:28,561
+Wesker was asked about the four per cent at a press
+conference in 2071 and gave an answer
 
 92
-00:07:28,290 --> 00:07:35,293
-She has just handed you the world. Every border on
-this planet opened for your aircraft
+00:08:28,581 --> 00:08:32,572
+that is in every textbook on
+institutional design.
 
 93
-00:07:35,313 --> 00:07:42,880
-this year. Every health ministry signs what your lawyers
-write. The Foundation is in forty-one
+00:08:33,091 --> 00:08:40,448
+Four per cent is theft. Ninety-six per cent is the
+highest delivery efficiency ever achieved
 
 94
-00:07:42,900 --> 00:07:49,984
-countries and the people in them cheer when your
-trucks arrive. In one year she has done
+00:08:40,468 --> 00:08:46,622
+by any humanitarian programme in history, by a
+margin of about thirty points.
 
 95
-00:07:50,004 --> 00:07:54,019
-what your contracts would not have
-done in twenty.
+00:08:46,902 --> 00:08:53,493
+If Umbrella had run it, the theft would have been
+nearer nought point one, because we
 
 96
-00:07:54,540 --> 00:07:56,312
-At a cost I did not authorise.
+00:08:53,513 --> 00:09:00,104
+do not have elections or ministries or cousins. And
+the programme would have belonged
 
 97
-00:07:56,831 --> 00:08:03,228
-Do you know what I would have given for one officer
-like her? One. Someone who understood
+00:09:00,124 --> 00:09:07,105
+to me, and in forty years there would have been no
+institution left on this planet capable
 
 98
-00:08:03,248 --> 00:08:09,356
-the objective so completely that they did not need
-to be told. I had a continent full
+00:09:07,125 --> 00:09:09,594
+of distributing anything at all.
 
 99
-00:08:09,376 --> 00:08:11,447
-of men who waited to be told.
+00:09:09,875 --> 00:09:16,519
+(very cold) I bought ninety-six per cent, and an
+institution that still exists. It was
 
 100
-00:08:13,346 --> 00:08:19,383
-She is the most dangerous person in your empire. She
-is also the only one who has ever
+00:09:16,539 --> 00:09:20,704
+the cheapest thing I have ever paid
+four per cent for.
 
 101
-00:08:19,403 --> 00:08:21,637
-surprised you. Do not waste her.
+00:09:21,105 --> 00:09:24,787
+Director, I have the seventy-year
+projection you asked for.
 
 102
-00:08:24,156 --> 00:08:29,851
-Wesker stood in the white laboratory for a long time
-with his hand on a bent steel bench.
+00:09:25,187 --> 00:09:26,697
+Give me the headline.
 
 103
-00:08:30,420 --> 00:08:35,861
-And the thing that frightened him — the thing he
-would take out and look at, alone, in
+00:09:27,096 --> 00:09:33,821
+The species does not survive this in its present form,
+and the mechanism is not the medicine.
 
 104
-00:08:35,881 --> 00:08:41,259
-the Memory Palace, for years afterwards — was not
-what she had done. It was that when
+00:09:33,841 --> 00:09:39,405
+It is that you have removed death and left
+everything else exactly as it was.
 
 105
-00:08:41,279 --> 00:08:45,640
-the old voice finished speaking, he had
-found that he agreed with it.
+00:09:39,684 --> 00:09:45,292
+Every structure human beings have — inheritance,
+tenure, marriage, monarchy, promotion,
 
 106
-00:08:48,331 --> 00:08:52,293
-You will never do anything like this again
-without telling me first.
+00:09:45,312 --> 00:09:50,789
+mortgages, criminal sentencing, the Security
+Council — is a machine with mortality as
 
 107
-00:08:52,813 --> 00:08:53,860
-Is that an order?
+00:09:50,809 --> 00:09:56,352
+its clock. You have taken the clock out and left the
+machinery running. In forty years
 
 108
-00:08:54,379 --> 00:08:57,239
-It's the only one I will ever give
-you that matters.
+00:09:56,372 --> 00:10:01,849
+nothing seizes and nothing breaks; it simply *stops
+moving*, everywhere, all at once,
 
 109
-00:08:59,259 --> 00:09:00,475
-Then I'll tell you first.
+00:10:01,869 --> 00:10:03,014
+and stays stopped.
 
 110
-00:09:01,996 --> 00:09:07,819
-She meant it. That was the tragedy of Evelyn Marsh,
-and it took another eighteen years
+00:10:03,413 --> 00:10:04,740
+And the correction?
 
 111
-00:09:07,839 --> 00:09:13,729
-to finish. She never lied to him, and she never
-disobeyed a direct order, and she never
+00:10:05,139 --> 00:10:11,117
+There are four. Three of them are catastrophic. The
+fourth is that the species acquires,
 
 112
-00:09:13,749 --> 00:09:14,748
-once needed to.
+00:10:11,137 --> 00:10:17,183
+in the next fifty years, somewhere else to go —
+enough room that a stopped hierarchy does
 
 113
-00:09:17,317 --> 00:09:23,255
-Samira Haddad had been at the World Health
-Organization for four years by then. She had
+00:10:17,203 --> 00:10:22,907
+not matter, because anyone who cannot rise in one
+place can leave and build another.
 
 114
-00:09:23,275 --> 00:09:29,212
-left the CDC after her suspension, and spent two
-years in the field in three countries,
+00:10:23,628 --> 00:10:29,544
+(very soft) Director. I want to be careful, because
+I have modelled you as well as the
 
 115
-00:09:29,232 --> 00:09:35,374
-and been hired in Geneva by a Norwegian assistant
-director-general who had read her buried
+00:10:29,564 --> 00:10:35,756
+species, and I am aware that what I have just said is
+also the thing you have wanted since
 
 116
-00:09:35,394 --> 00:09:38,730
-report from twenty thirty and
-never forgotten it.
+00:10:35,776 --> 00:10:40,243
+2026 and have been waiting thirty-seven
+years for a reason to do.
 
 117
-00:09:39,301 --> 00:09:45,050
-She ran the outbreak-origins unit. It was her job to
-find out where Pale Horse had come
+00:10:40,523 --> 00:10:46,542
+I have checked my own work four hundred thousand
+times for that bias. I cannot find it.
 
 118
-00:09:45,070 --> 00:09:48,830
-from, and she gave it everything she
-had for three years.
+00:10:46,562 --> 00:10:48,694
+The answer is still the answer.
 
 119
-00:09:49,399 --> 00:09:55,382
-She never proved it. She got close enough that she
-stopped sleeping. Fifteen simultaneous
+00:10:49,094 --> 00:10:55,449
+Albert Wesker stood in a hall of glass in the middle of
+the Atlantic and looked at a hologram
 
 120
-00:09:55,402 --> 00:10:01,318
-introductions in twenty countries is not how nature
-behaves; nature starts in one place.
+00:10:55,469 --> 00:11:01,345
+of a child who had just told him, with every caveat
+she could construct, that the only
 
 121
-00:10:01,338 --> 00:10:07,456
-She mapped the eight. She found that all sixteen were
-within forty kilometres of a facility
+00:11:01,365 --> 00:11:02,374
+way out was up.
 
 122
-00:10:07,476 --> 00:10:13,189
-that Umbrella had acquired with Halvorsen Pike, and
-she wrote that down, and then she
+00:11:02,894 --> 00:11:05,204
+(very soft) Say it plainly.
 
 123
-00:10:13,209 --> 00:10:19,327
-sat and looked at what she had written for a long
-time, because she also knew that Umbrella
+00:11:05,604 --> 00:11:11,195
+You have made a species that cannot die on a planet
+that is finite. Either you take it
 
 124
-00:10:19,347 --> 00:10:23,374
-had facilities within forty kilometres
-of almost everywhere.
+00:11:11,215 --> 00:11:17,068
+off the planet, or in a hundred years you will have
+built the largest and most comfortable
 
 125
-00:10:23,942 --> 00:10:29,737
-She sent it up anyway. It went to the Director-General,
-and then to the Emergency Committee,
+00:11:17,088 --> 00:11:22,745
+stagnation in the history of intelligent life, and
+it will last for ten thousand years,
 
 126
-00:10:29,757 --> 00:10:35,236
-and then into a process, and the process took
-thirteen months, and at the end of it the
+00:11:22,765 --> 00:11:25,028
+and nothing will ever happen again.
 
 127
-00:10:35,256 --> 00:10:40,924
-World Health Organization published a report which
-concluded that the origin of Pale Horse
+00:11:26,059 --> 00:11:34,133
+Orbital. Heavy launch complex: four hundred million.
+Orbital habitat for forty thousand:
 
 128
-00:10:40,944 --> 00:10:45,918
-could not be determined with available evidence,
-and recommended further study.
+00:11:34,153 --> 00:11:42,411
+two billion. Void-capable hull pattern: nine billion.
+Orbital Dock: locked, requires level
 
 129
-00:10:46,488 --> 00:10:52,675
-Umbrella funded the further study. Nobody found that
-strange. Umbrella funded everything
+00:11:42,431 --> 00:11:47,653
+four hundred. Beyond: locked.
+Balance: sixty-one billion.
 
 130
-00:10:52,695 --> 00:10:53,240
-by then.
+00:11:48,243 --> 00:11:50,373
+He read that tab for a long time.
 
 131
-00:10:55,311 --> 00:11:01,511
-Owen Carrick came to Geneva that winter. He was fifty
-now, and he worked for a Norwegian
+00:11:50,893 --> 00:11:57,799
+Buy the launch complex. Place it in the Line Islands,
+on the equator, on the water, with
 
 132
-00:11:01,531 --> 00:11:07,660
-foundation that existed, as far as its filings
-showed, to fund investigative journalism
+00:11:57,819 --> 00:12:01,263
+the Republic's consent and
+under their flag.
 
 133
-00:11:07,680 --> 00:11:09,286
-in the public interest.
+00:12:01,663 --> 00:12:04,230
+They will consent in about four days.
 
 134
-00:11:09,855 --> 00:11:12,768
-They sat on a bench outside the
-building in the snow.
+00:12:04,630 --> 00:12:11,587
+They will consent in about four minutes. Ask them
+anyway, properly, in writing, and make
 
 135
-00:11:13,457 --> 00:11:18,950
-I can't prove it, Owen. I've got six dots and a
-company that's within forty kilometres
+00:12:11,607 --> 00:12:14,520
+certain their parliament votes on it.
 
 136
-00:11:18,970 --> 00:11:20,360
-of every dot on Earth.
+00:12:14,921 --> 00:12:17,863
+Why, Director? You have never
+once needed to.
 
 137
-00:11:20,880 --> 00:11:21,753
-I know.
+00:12:18,263 --> 00:12:24,710
+(very cold) Because a young woman from Lagos asked
+me in this building who decides what
 
 138
-00:11:22,273 --> 00:11:27,502
-And even if I could — who do I give it to? The
-Security Council is four governments that
+00:12:24,730 --> 00:12:31,102
+the alternative is next time, and I did not have an
+answer, and I have had four months
 
 139
-00:11:27,522 --> 00:11:32,991
-need his vaccines and one that needs his money. The
-press won't touch it without a document.
+00:12:31,122 --> 00:12:33,852
+to think about it and I still do not.
 
 140
-00:11:33,011 --> 00:11:33,946
-And the public —
-
-141
-00:11:35,346 --> 00:11:41,080
-Owen, half the people I work with have a photograph
-of their grandmother on a motorcycle.
-
-142
-00:11:41,100 --> 00:11:43,278
-Taken last year. She's ninety-one.
-
-143
-00:11:45,298 --> 00:11:46,334
-So we wait.
-
-144
-00:11:46,854 --> 00:11:47,538
-For what?
-
-145
-00:11:48,057 --> 00:11:54,015
-For him to do something he can't explain. He's never
-done one yet. But he's getting bigger,
-
-146
-00:11:54,035 --> 00:11:58,612
-Samira, and the bigger a thing gets, the
-harder it is to stand behind.
-
-147
-00:12:01,763 --> 00:12:05,370
-Assessment. Global dependency. Total.
-
-148
-00:12:10,028 --> 00:12:14,625
-A hundred and forty-eight governments out of
-a hundred and ninety-three.
-
-149
-00:12:15,195 --> 00:12:20,944
-He read that line in a dark office, alone, in the
-autumn of twenty thirty-six, and did
-
-150
-00:12:20,964 --> 00:12:26,848
-not feel triumph. He felt what a man feels when he
-comes home and finds that someone has
-
-151
-00:12:26,868 --> 00:12:32,684
-tidied his house, and moved everything, and that it
-is all in better places than he had
-
-152
-00:12:32,704 --> 00:12:36,039
-it, and that he no longer knows
-where anything is.
-
-153
-00:12:36,609 --> 00:12:41,915
-For nine years he had been the only person in the
-world who knew what the next move was.
-
-154
-00:12:42,485 --> 00:12:44,045
-He was not anymore.
+00:12:34,462 --> 00:12:38,432
+The least I can do is make somebody
+vote on the rocket.
