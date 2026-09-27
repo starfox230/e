@@ -1,716 +1,775 @@
 1
-00:00:07,799 --> 00:00:11,850
-Sebastian Crane had never lost at anything
-that could be measured.
+00:00:07,799 --> 00:00:14,751
+The first country that asked to belong to Albert Wesker
+had a population of eleven thousand,
 
 2
-00:00:12,419 --> 00:00:18,206
-He had built his first company at nineteen, sold it
-at twenty-three, and founded Lumen
+00:00:14,771 --> 00:00:21,269
+a gross domestic product smaller than a mid-sized
+American hospital, and four years of
 
 3
-00:00:18,226 --> 00:00:24,417
-at twenty-five, in a rented house in Seattle with four
-friends and a line of credit. Fifteen
+00:00:21,289 --> 00:00:22,330
+dry land left.
 
 4
-00:00:24,437 --> 00:00:30,223
-years later, Lumen ran a third of the world's cloud
-computing, and trained the largest
+00:00:22,730 --> 00:00:28,630
+The Republic of the Line Islands is a real place
+with a real parliament and a real seat
 
 5
-00:00:30,243 --> 00:00:36,231
-artificial intelligence systems on Earth, and was
-worth two trillion dollars. Crane owned
+00:00:28,650 --> 00:00:34,483
+at the United Nations, and in 2045 its highest point
+was two point nine metres above a
 
 6
-00:00:36,251 --> 00:00:42,172
-ten percent of it. He wore black T-shirts and a watch
-that tracked his sleep, and he did
+00:00:34,503 --> 00:00:40,608
+sea that had risen twenty-two centimetres in a decade.
+Its government had spent nine years
 
 7
-00:00:42,192 --> 00:00:45,615
-not believe in anything that could
-not be modelled.
+00:00:40,628 --> 00:00:46,393
+asking the world for money to build defences and
+had been given four per cent of what
 
 8
-00:00:46,185 --> 00:00:52,048
-In the spring of twenty thirty-three, he became
-obsessed with Albert Wesker. It was not
+00:00:46,413 --> 00:00:49,115
+it needed, in tranches, with conditions.
 
 9
-00:00:52,068 --> 00:00:56,308
-personal. Crane did not really do
-personal. It was the numbers.
+00:00:49,515 --> 00:00:56,643
+In February of 2045 its Prime Minister, a
+forty-one-year-old former fisheries lawyer named
 
 10
-00:00:56,878 --> 00:01:02,434
-Umbrella had gone from nothing to the most valuable
-company on Earth in six and a half
+00:00:56,664 --> 00:01:03,792
+Teuea Rabaere, flew to Singapore and asked for a
+meeting with Umbrella's regional director
 
 11
-00:01:02,454 --> 00:01:08,204
-years. Nothing had ever done that. Not Lumen, not
-Apple, not Standard Oil. And when Crane
+00:01:03,812 --> 00:01:07,366
+and was given one with Albert
+Wesker instead.
 
 12
-00:01:08,224 --> 00:01:13,715
-had asked his own systems why — when he had fed
-them every public record Umbrella had
+00:01:07,885 --> 00:01:12,980
+I have nothing to offer you. I want to be honest
+about that in the first minute, because
 
 13
-00:01:13,735 --> 00:01:19,226
-ever produced, every patent, every filing, every
-trade, every speech, every second of
+00:01:13,000 --> 00:01:17,281
+everybody else I have met in nine years has
+let me talk for an hour first.
 
 14
-00:01:19,246 --> 00:01:24,802
-every video — his systems had come back with an
-answer that he did not understand, and
+00:01:17,682 --> 00:01:24,572
+You have a seat in the General Assembly, a maritime
+exclusive economic zone of seven hundred
 
 15
-00:01:24,822 --> 00:01:26,747
-could not stop thinking about.
+00:01:24,592 --> 00:01:30,957
+thousand square kilometres, and the legal
+personality of a sovereign state. Those are
 
 16
-00:01:28,816 --> 00:01:34,681
-The system was called Oracle. It was the most
-powerful model Lumen had ever built, and
+00:01:30,977 --> 00:01:37,342
+three of the four most valuable things on this
+planet, and you are the only person in
 
 17
-00:01:34,701 --> 00:01:40,840
-Crane had spent fifteen billion dollars teaching it to
-predict how companies would behave.
+00:01:37,362 --> 00:01:39,972
+that building who does not know it.
 
 18
-00:01:40,860 --> 00:01:47,203
-It was very, very good at it. It could predict, with
-uncanny accuracy, what a chief executive
+00:01:40,701 --> 00:01:41,727
+And the fourth?
 
 19
-00:01:47,223 --> 00:01:53,225
-would do next — because chief executives, Oracle had
-learned, were human, and humans are
+00:01:42,128 --> 00:01:46,918
+Time, which you do not have, which
+is why you are here.
 
 20
-00:01:53,245 --> 00:01:53,841
-patterns.
+00:01:47,317 --> 00:01:52,636
+The arrangement they made over the following
+fifteen months has been studied in every
 
 21
-00:01:54,411 --> 00:01:56,564
-It could not predict Albert Wesker.
+00:01:52,656 --> 00:01:58,163
+school of international law since, and the narrator
+will describe it plainly because its
 
 22
-00:01:57,254 --> 00:02:02,500
-Subject decisions are not consistent with a human
-utility function. Subject decisions
+00:01:58,183 --> 00:02:00,048
+plainness was the whole trick.
 
 23
-00:02:02,520 --> 00:02:08,014
-are consistent with optimisation against an external
-reward signal that is not observable
+00:02:00,447 --> 00:02:06,199
+Umbrella did not buy the Line Islands. You cannot
+buy a country; the attempt would have
 
 24
-00:02:08,034 --> 00:02:13,466
-in public data. Timing of subject actions correlates
-with reward events at a probability
+00:02:06,219 --> 00:02:11,970
+been struck down in nine jurisdictions and would
+have made him a colonial administrator
 
 25
-00:02:13,486 --> 00:02:18,857
-exceeding chance by a factor of ten to the eleventh.
-Sixty-three patent filings exhibit
+00:02:11,990 --> 00:02:13,828
+in every newspaper on earth.
 
 26
-00:02:18,877 --> 00:02:24,247
-discontinuous capability gain with no antecedents.
-Conclusion: subject has access to an
+00:02:14,228 --> 00:02:20,632
+What Umbrella did was sign a Treaty of Association — an
+instrument that exists in international
 
 27
-00:02:24,267 --> 00:02:26,726
-optimiser. Nature of optimiser: unknown.
+00:02:20,652 --> 00:02:26,651
+law, that four real countries already had with larger
+neighbours, and that had never once
 
 28
-00:02:28,746 --> 00:02:33,301
-Crane read that paragraph perhaps a thousand
-times over the next month.
+00:02:26,671 --> 00:02:28,478
+been signed with a company.
 
 29
-00:02:33,872 --> 00:02:40,084
-An external reward signal. An optimiser. Something was
-paying Albert Wesker for his decisions
+00:02:28,877 --> 00:02:34,778
+Under it: Umbrella assumed the defence, the coastal
+engineering, the power generation,
 
 30
-00:02:40,104 --> 00:02:45,914
-— something invisible, something that could not be
-seen in any data — and paying him in
+00:02:34,798 --> 00:02:40,904
+the health system and the currency of the Republic.
+The Republic retained its parliament,
 
 31
-00:02:45,934 --> 00:02:51,745
-capabilities that appeared from nowhere. Oracle had
-not said what. Oracle could not say
+00:02:40,924 --> 00:02:47,306
+its flag, its seat at the UN, its courts and its laws.
+Umbrella got a nineteen-year renewable
 
 32
-00:02:51,765 --> 00:02:57,508
-what. But it had described, with the flat precision
-of a machine, the shape of a thing
+00:02:47,326 --> 00:02:53,364
+lease on four hundred hectares, the right to
+incorporate under Line Islands law, and one
 
 33
-00:02:57,528 --> 00:02:58,982
-that should not exist.
+00:02:53,384 --> 00:02:59,353
+clause that the world's foreign ministries spent two
+years arguing about: *the Republic
 
 34
-00:02:59,552 --> 00:03:04,221
-It had described, although Sebastian Crane
-would never know it, the System.
+00:02:59,373 --> 00:03:05,617
+may, by resolution of its parliament, extend the
+protection of this treaty to any territory
 
 35
-00:03:06,290 --> 00:03:10,486
-And Crane — being Crane — did not feel
-afraid. He felt envy.
+00:03:05,637 --> 00:03:06,856
+that requests it.*
 
 36
-00:03:12,556 --> 00:03:13,997
-He tried to build one.
+00:03:07,257 --> 00:03:13,024
+The sea wall went up in fourteen months. It is
+eleven kilometres long, it is built of
 
 37
-00:03:14,568 --> 00:03:21,113
-It was the most expensive secret project in the history
-of his company. Four hundred engineers,
+00:03:13,044 --> 00:03:19,152
+a mineral composite that Birkin's people grew rather
+than poured, and it cost four billion
 
 38
-00:03:21,133 --> 00:03:27,057
-a data centre in Oregon, and a single goal: to
-build, for Sebastian Crane, what Oracle
+00:03:19,172 --> 00:03:24,667
+dollars, which was approximately what Umbrella
+spent that year on staff catering.
 
 39
-00:03:27,077 --> 00:03:33,415
-believed Albert Wesker had. An artificial optimiser
-that would watch Crane's every decision,
+00:03:25,067 --> 00:03:31,801
+The islands' power became free in 2046. The health
+system, which had had four doctors,
 
 40
-00:03:33,435 --> 00:03:39,704
-reward the good ones, and — somehow, from the sum of
-all human knowledge in Lumen's servers
+00:03:31,821 --> 00:03:38,713
+had thirty-one by 2047 and a hospital that was better
+than anything within four thousand
 
 41
-00:03:39,724 --> 00:03:42,814
-— hand him capabilities that
-nobody else had.
+00:03:38,733 --> 00:03:39,576
+kilometres.
 
 42
-00:03:43,384 --> 00:03:49,285
-It did not work. It could not work. It produced very
-good advice, and several patents,
+00:03:39,977 --> 00:03:47,262
+And in November 2047 the Republic held a referendum — a
+real one, monitored by nine international
 
 43
-00:03:49,305 --> 00:03:55,481
-and a great deal of analysis. But it did not produce a
-single orphan idea — a single thing
+00:03:47,282 --> 00:03:53,663
+observers, which Umbrella did not fund — on whether
+to make the Treaty of Association
 
 44
-00:03:55,501 --> 00:04:01,333
-that had not been, somewhere, in the data it had
-learned from. Everything it gave him
+00:03:53,683 --> 00:03:54,417
+permanent.
 
 45
-00:04:01,353 --> 00:04:02,159
-had parents.
+00:03:54,817 --> 00:04:00,306
+The turnout was ninety-one per cent. The result was
+seventy-four per cent in favour.
 
 46
-00:04:02,729 --> 00:04:08,444
-The thing that Albert Wesker had did not come from
-the data. It came from outside. And
+00:04:01,456 --> 00:04:08,569
+Territory: protectorate. The Republic of the Line
+Islands, population eleven thousand
 
 47
-00:04:08,464 --> 00:04:14,246
-Sebastian Crane, who did not believe in anything
-that could not be modelled, spent four
+00:04:08,589 --> 00:04:15,702
+four hundred. Instrument: a Treaty of Association
+ratified by referendum. Sovereignty
 
 48
-00:04:14,266 --> 00:04:19,981
-months and nine billion dollars proving to himself
-that it could not be modelled — and
+00:04:15,722 --> 00:04:23,170
+retained by the Republic. Sentiment: ninety-one per
+cent favourable. Nine million Points,
 
 49
-00:04:20,001 --> 00:04:22,849
-then refused to believe what
-he had proved.
+00:04:23,190 --> 00:04:30,554
+recurring. Note: this is the first population that
+chose you. I did not place them. They
 
 50
-00:04:24,918 --> 00:04:30,841
-They met in June, on a rooftop in San Francisco,
-after a conference at which they had
+00:04:30,574 --> 00:04:31,057
+voted.
 
 51
-00:04:30,861 --> 00:04:34,617
-both been scheduled to speak and
-only one of them had.
+00:04:31,648 --> 00:04:37,696
+The world's reaction took three years and went
+through four stages, and the narrator will
 
 52
-00:04:35,187 --> 00:04:40,613
-Crane walked straight up to him at the railing,
-without introduction, and without small
+00:04:37,716 --> 00:04:43,559
+name them because the same four stages recur, at
+larger scale, every time for the next
 
 53
-00:04:40,633 --> 00:04:42,930
-talk, which the Director appreciated.
+00:04:43,579 --> 00:04:44,378
+forty years.
 
 54
-00:04:43,620 --> 00:04:44,923
-What's feeding you?
+00:04:44,778 --> 00:04:51,008
+The first was ridicule. A company with a
+protectorate; a corporate flag; eleven thousand
 
 55
-00:04:45,442 --> 00:04:46,297
-I'm sorry?
+00:04:51,028 --> 00:04:53,849
+people on an atoll. There were cartoons.
 
 56
-00:04:46,817 --> 00:04:51,267
-I've modelled you. I've put everything you've ever
-done into the largest predictive system
+00:04:54,249 --> 00:05:00,777
+The second was legal panic, which began when the
+Marshall Islands opened negotiations
 
 57
-00:04:51,287 --> 00:04:55,539
-on Earth, and it can predict everyone except you. It
-says your decisions are optimised
+00:05:00,797 --> 00:05:08,018
+in 2046, and turned into something else entirely when
+Fiji — population nine hundred thousand,
 
 58
-00:04:55,559 --> 00:04:59,959
-against an external reward function. It says
-sixty-three of your patents have no parents.
+00:05:08,038 --> 00:05:11,639
+a genuine state with an army —
+asked for terms.
 
 59
-00:04:59,979 --> 00:05:03,288
-It says something is giving you answers. I
-want to know what it is.
+00:05:12,038 --> 00:05:18,399
+The third was the counter-offer. Between 2046 and
+2049 the United States, the European
 
 60
-00:05:05,307 --> 00:05:11,666
-The Director looked at him for a long time. The
-Cold-Read gave him Sebastian Crane in
+00:05:18,419 --> 00:05:24,779
+Union, China, Australia and Japan collectively
+committed one hundred and forty billion
 
 61
-00:05:11,686 --> 00:05:18,571
-a single glance, and it was an almost comically simple
-face to read. Intelligence, enormous.
+00:05:24,799 --> 00:05:31,234
+dollars in climate adaptation finance to the
+Pacific, which was twenty-seven times what
 
 62
-00:05:18,591 --> 00:05:24,949
-Curiosity, enormous. Ego, larger than both. And
-envy — raw, childish, total envy — of
+00:05:31,254 --> 00:05:35,389
+they had provided in the previous
+twenty years combined.
 
 63
-00:05:24,969 --> 00:05:28,476
-the kind a boy feels for another
-boy's bicycle.
+00:05:35,788 --> 00:05:41,528
+The narrator asks you to notice that this happened,
+that it was good, that four million
 
 64
-00:05:29,166 --> 00:05:32,069
-Ambition, Mister Crane. It's what
-feeds all of us.
+00:05:41,548 --> 00:05:47,419
+people's lives were materially improved by it, and
+that it happened solely because Albert
 
 65
-00:05:32,589 --> 00:05:37,009
-Don't. I know it isn't. Oracle knows it isn't. I've
-spent nine billion dollars trying
+00:05:47,439 --> 00:05:51,259
+Wesker had made it clear that if they
+would not, he would.
 
 66
-00:05:37,029 --> 00:05:40,142
-to build what you have, and I can't,
-and I need to know why.
+00:05:51,658 --> 00:05:57,443
+The fourth stage was accommodation. By 2049 the
+Treaty of Association had been signed
 
 67
-00:05:40,663 --> 00:05:43,709
-Then you've already learned the most
-important thing about it.
+00:05:57,463 --> 00:06:03,589
+by four states and was being negotiated by nine. The
+General Assembly debated a resolution
 
 68
-00:05:44,228 --> 00:05:45,083
-Which is?
+00:06:03,609 --> 00:06:10,213
+declaring such treaties incompatible with the Charter. It
+failed, sixty-one votes to ninety-four,
 
 69
-00:05:45,603 --> 00:05:46,532
-That it's mine.
+00:06:10,233 --> 00:06:16,086
+because ninety-four countries had worked out that
+the resolution's real purpose was to
 
 70
-00:05:49,052 --> 00:05:55,024
-He finished his drink, and set down the glass on the
-railing, and walked away. And Sebastian
+00:06:16,106 --> 00:06:19,569
+stop poor states from choosing
+their own protector.
 
 71
-00:05:55,044 --> 00:06:01,017
-Crane stood on the rooftop for a long time, looking at
-the lights of the bridge, and decided
+00:06:19,968 --> 00:06:25,716
+The delegate from the Line Islands spoke for four
+minutes in that debate and the narrator
 
 72
-00:06:01,037 --> 00:06:06,554
-— as men like him always decide, when they are told
-something is not theirs — to take
+00:06:25,736 --> 00:06:31,354
+will quote the end of it, because it is the single
+most damaging thing anyone ever said
 
 73
-00:06:06,574 --> 00:06:06,750
-it.
+00:06:31,374 --> 00:06:34,918
+about the international system and
+because it was true.
 
 74
-00:06:09,569 --> 00:06:13,511
-Ability upgrade. Thought acceleration two.
+00:06:35,439 --> 00:06:40,795
+For nine years I stood in this chamber and asked
+this body for twenty-two centimetres
 
 75
-00:06:15,764 --> 00:06:21,444
-He bought it on the flight home. Six hundred to one.
-A single second became ten minutes.
+00:06:40,815 --> 00:06:46,299
+of concrete. I was given speeches. I was given
+frameworks. I was given a working group.
 
 76
-00:06:21,464 --> 00:06:27,338
-And, stranger still, he could run three of them at
-once — three separate trains of thought,
+00:06:46,579 --> 00:06:51,822
+A company came, and built a wall, and did not ask me
+to vote a particular way, and has
 
 77
-00:06:27,358 --> 00:06:33,103
-in three separate rooms of the Memory Palace, each
-with its own ten minutes, each unaware
+00:06:51,842 --> 00:06:57,207
+not asked me for anything since. You may tell me this
+is dangerous. I am sure it is. But
 
 78
-00:06:33,123 --> 00:06:36,471
-of the others until he chose to
-bring them together.
+00:06:57,227 --> 00:07:02,838
+nobody in this room has ever offered my people an
+alternative, and I would ask the delegates
 
 79
-00:06:37,040 --> 00:06:39,581
-He used all three on Sebastian Crane.
+00:07:02,858 --> 00:07:08,040
+who are about to vote for this resolution to name
+the year in which they intended to.
 
 80
-00:06:41,771 --> 00:06:45,911
-Why not simply buy him? Or break him,
-like the policeman?
+00:07:08,880 --> 00:07:09,990
+Nobody did.
 
 81
-00:06:46,430 --> 00:06:51,695
-Because he has a machine that can see the shape of
-what we are. Buying him won't turn
+00:07:10,391 --> 00:07:16,549
+The sea wall is worth four paragraphs, because it
+is the only thing Umbrella built in
 
 82
-00:06:51,715 --> 00:06:57,476
-off the machine. Breaking him won't turn it off. The
-only way to beat a machine that predicts
+00:07:16,569 --> 00:07:20,983
+the 2040s that was not placed, and
+because of what that cost.
 
 83
-00:06:57,496 --> 00:06:59,962
-you is to teach it the wrong prediction.
+00:07:21,382 --> 00:07:26,590
+The System would have put it there in a night for
+about nine hundred thousand Points,
 
 84
-00:07:00,483 --> 00:07:02,657
-You intend to lie to it.
+00:07:26,610 --> 00:07:31,879
+complete, with eleven years of maintenance records
+and a tender process that had never
 
 85
-00:07:03,177 --> 00:07:09,110
-I intend to be honest with it. For six months.
-Perfectly, predictably honest. And then,
+00:07:31,899 --> 00:07:32,432
+happened.
 
 86
-00:07:09,130 --> 00:07:11,711
-once, at the moment that matters, not.
+00:07:32,833 --> 00:07:38,749
+Wesker paid instead: four billion dollars, fourteen
+months, thirteen hundred workers,
 
 87
-00:07:14,230 --> 00:07:18,702
-For six months, the Director made decisions
-that Oracle could predict.
+00:07:38,769 --> 00:07:44,825
+of whom six hundred were from the islands and were
+trained for it at Umbrella's expense
 
 88
-00:07:19,271 --> 00:07:25,124
-He did it deliberately. Every time he acted, he acted
-in a way that fit the pattern Oracle
+00:07:44,845 --> 00:07:50,063
+at a school Umbrella built for the purpose and
+then handed to the Republic.
 
 89
-00:07:25,144 --> 00:07:30,997
-had drawn of him — the external reward, the optimiser,
-the leap. And Oracle, which learned
+00:07:50,463 --> 00:07:58,533
+Catherine Adeyemi asked him why, in writing, because by
+2045 she asked everything in writing.
 
 90
-00:07:31,017 --> 00:07:36,674
-from everything, learned from this. Its predictions
-of Umbrella improved. Sixty percent
+00:07:59,052 --> 00:08:03,280
+We are spending four billion dollars and fourteen
+months on an asset we could have for
 
 91
-00:07:36,694 --> 00:07:42,547
-accuracy, then seventy, then eighty-five. By December,
-Oracle was predicting Albert Wesker
+00:08:03,300 --> 00:08:07,577
+nine hundred thousand Points and no time at all.
+Explain the difference, because I have
 
 92
-00:07:42,567 --> 00:07:48,289
-with ninety-one percent confidence, and Sebastian
-Crane was sleeping four hours a night,
+00:08:07,597 --> 00:08:08,121
+to sign it.
 
 93
-00:07:48,309 --> 00:07:49,267
-and very happy.
+00:08:08,521 --> 00:08:13,731
+The difference is six hundred islanders who will
+know how to build a sea wall.
 
 94
-00:07:49,838 --> 00:07:55,771
-And in December, Oracle made its biggest prediction
-of all. It said, with ninety-seven
+00:08:14,130 --> 00:08:15,360
+That is sentiment.
 
 95
-00:07:55,791 --> 00:08:02,416
-percent confidence, that Umbrella was about to launch a
-bid for the world's largest manufacturer
+00:08:15,761 --> 00:08:22,027
+(very cold) It is *infrastructure*. In eleven years
+the sea will be higher than this wall
 
 96
-00:08:02,436 --> 00:08:08,577
-of the specialised chips used to train artificial
-intelligence — a company in Taiwan that
+00:08:22,047 --> 00:08:28,102
+and it will need another one, and I intend for the
+people who build that one to be the
 
 97
-00:08:08,597 --> 00:08:14,600
-Lumen depended on for everything. The pattern was
-unmistakable. Every move the Director
+00:08:28,122 --> 00:08:34,319
+grandchildren of the people who built this one, and
+for none of them ever to have to ask
 
 98
-00:08:14,620 --> 00:08:17,231
-had made for six months pointed at it.
+00:08:34,339 --> 00:08:34,531
+me.
 
 99
-00:08:17,802 --> 00:08:19,401
-So Crane moved first.
+00:08:35,140 --> 00:08:41,971
+I have placed four cities, Ms. Adeyemi, and I will
+place a great many more. Every one
 
 100
-00:08:19,970 --> 00:08:26,881
-On the ninth of January, twenty thirty-four, Lumen
-announced a two-hundred-and-forty-billion-dollar
+00:08:41,991 --> 00:08:49,306
+of them arrives with the skills already inside it, in
+people who cannot teach them, because
 
 101
-00:08:26,901 --> 00:08:33,112
-offer for the Taiwanese chip manufacturer. It was the
-largest technology deal in history.
+00:08:49,326 --> 00:08:55,350
+the knowledge came with the paperwork and does
+not live in anybody's hands.
 
 102
-00:08:33,132 --> 00:08:39,063
-It committed every dollar Lumen had and a great
-many it did not. It was designed — as
+00:08:55,630 --> 00:09:02,366
+(very cold) Teraina is the first thing I have ever
+built that leaves something behind
 
 103
-00:08:39,083 --> 00:08:44,315
-Crane told his board, with shining eyes — to
-get there before Umbrella did.
+00:09:02,386 --> 00:09:03,161
+when I go.
 
 104
-00:08:44,884 --> 00:08:46,393
-Umbrella never bid.
+00:09:03,561 --> 00:09:09,789
+The wall was finished in 2047. In 2071 the Republic
+built the second one itself, with
 
 105
-00:08:48,962 --> 00:08:54,917
-Umbrella had never been going to bid. Umbrella had
-spent six months making every public
+00:09:09,809 --> 00:09:16,037
+its own money, using a contractor from the islands,
+and Umbrella's involvement was an
 
 106
-00:08:54,937 --> 00:09:00,891
-move that a company about to bid would make, and had
-not made a single private one. And
+00:09:16,057 --> 00:09:21,697
+invoice for four hundred thousand dollars of
+materials that was paid in full.
 
 107
-00:09:00,911 --> 00:09:06,728
-in the week after Lumen's announcement, when the
-governments of Taiwan and the United
+00:09:22,096 --> 00:09:27,680
+The narrator notes that Albert Wesker flew out for
+the opening of the second wall and
 
 108
-00:09:06,748 --> 00:09:12,565
-States and China all realised at the same moment
-that the company that ran a third of
+00:09:27,700 --> 00:09:33,678
+was not on the platform, and that the photographs of
+that day show a row of local engineers
 
 109
-00:09:12,585 --> 00:09:18,608
-the world's cloud was about to own the chips that ran
-the rest, the deal became the most
+00:09:33,698 --> 00:09:39,281
+and, at the back of the crowd, a man in a black
+coat that nobody in the photograph is
 
 110
-00:09:18,628 --> 00:09:21,699
-politically radioactive
-transaction on Earth.
+00:09:39,301 --> 00:09:40,006
+looking at.
 
 111
-00:09:22,269 --> 00:09:28,412
-It was blocked in March. Lumen had spent twenty
-billion dollars on advisors, committed
+00:09:40,407 --> 00:09:46,136
+Carrick went out there in 2049 because he did not
+believe it, and he spent eleven days
 
 112
-00:09:28,432 --> 00:09:34,576
-its balance sheet, and lost the confidence of every
-regulator on three continents. Its
+00:09:46,156 --> 00:09:50,817
+on the island with a notebook, and he came
+back with the fifth folder.
 
 113
-00:09:34,596 --> 00:09:40,740
-stock fell forty-four percent. Its board removed
-Sebastian Crane as chief executive on
+00:09:51,336 --> 00:09:52,937
+I couldn't find anything.
 
 114
-00:09:40,760 --> 00:09:42,173
-the second of April.
+00:09:53,336 --> 00:09:55,027
+You sound disappointed.
 
 115
-00:09:42,745 --> 00:09:49,029
-And in the same week, Umbrella quietly bought Lumen's
-life-sciences cloud division — the
+00:09:55,427 --> 00:10:01,075
+(flat) I am, and I've spent three weeks working out
+why, and it's this. There is no coercion
 
 116
-00:09:49,049 --> 00:09:55,404
-servers that ran half the world's drug discovery —
-for a price Crane's successor accepted
+00:10:01,095 --> 00:10:06,744
+on that island. The hospital is real, the wall is real,
+the referendum was clean — I watched
 
 117
-00:09:55,424 --> 00:09:59,129
-without negotiating, because Lumen
-needed the money.
+00:10:06,764 --> 00:10:12,167
+the observers, I interviewed four of them. Ninety-one
+per cent turnout. Nobody was paid,
 
 118
-00:10:01,950 --> 00:10:05,642
-Assessment. Adversarial model defeated.
+00:10:12,187 --> 00:10:17,466
+nobody was threatened, and the Prime Minister argues
+with your regional director about
 
 119
-00:10:13,245 --> 00:10:19,061
-Sebastian Crane came to Wilmington in April. Not to
-the tower. To the old building on
+00:10:17,486 --> 00:10:20,916
+fishing quotas every month and wins
+about half the time.
 
 120
-00:10:19,081 --> 00:10:25,379
-the south bank, with its faded bricks and its small
-red-and-white sign, where he had somehow
+00:10:21,197 --> 00:10:26,976
+And in eleven days I did not meet a single person
+who could tell me what they would do
 
 121
-00:10:25,399 --> 00:10:31,421
-learned — Oracle, perhaps, one last time — that the
-Director still kept an office on the
+00:10:26,996 --> 00:10:28,797
+if they changed their mind.
 
 122
-00:10:31,441 --> 00:10:32,245
-third floor.
+00:10:29,581 --> 00:10:37,505
+They would hold another referendum. The treaty is
+terminable on two years' notice by resolution
 
 123
-00:10:32,816 --> 00:10:37,596
-He stood in the parking lot in the rain until
-Hale came out and brought him in.
+00:10:37,525 --> 00:10:44,612
+of their parliament. I insisted on that clause;
+their negotiators did not ask for it.
 
 124
-00:10:38,285 --> 00:10:42,486
-It was a trap. The whole six months. You taught it
-to predict you, so you could make it
+00:10:45,011 --> 00:10:50,666
+I know. I read it. And then I asked eleven people
+on that island whether they thought
 
 125
-00:10:42,506 --> 00:10:42,777
-wrong.
+00:10:50,686 --> 00:10:56,408
+their parliament would ever vote to give up free
+power, a hospital and a sea wall, and
 
 126
-00:10:43,298 --> 00:10:43,937
-Yes.
+00:10:56,428 --> 00:10:59,011
+every single one of them laughed at me.
 
 127
-00:10:44,457 --> 00:10:48,921
-I spent nine billion dollars trying to build what you
-have. And you beat me with the one
+00:10:59,292 --> 00:11:04,976
+That's the thing you've built. Not a cage. A *door
+that nobody will ever walk through*.
 
 128
-00:10:48,941 --> 00:10:51,977
-thing I never thought to model. You
-beat me by being boring.
+00:11:04,996 --> 00:11:09,042
+It's voluntary in exactly the way that
+breathing is voluntary.
 
 129
-00:10:52,499 --> 00:10:58,580
-Everyone underestimates boring, Sebastian. It's the
-most dangerous thing a man can be.
+00:11:09,442 --> 00:11:13,492
+They walked along the wall for a while with
+the sea on one side of it.
 
 130
-00:11:00,600 --> 00:11:01,689
-What are you?
+00:11:14,011 --> 00:11:20,201
+Mr. Carrick, is there a difference between that
+and any government on earth?
 
 131
-00:11:03,708 --> 00:11:09,791
-The Director did not answer. He looked at the young
-man dripping on his carpet — brilliant,
+00:11:20,601 --> 00:11:26,296
+Yes. The difference is that a government is a thing
+people can throw out in an afternoon
 
 132
-00:11:09,811 --> 00:11:15,625
-arrogant, ruined, and still, even now, even here,
-burning with that childish total envy
+00:11:26,316 --> 00:11:32,205
+and that has to survive being hated. You have built
+something that cannot be hated, because
 
 133
-00:11:15,645 --> 00:11:21,324
-— and the Cold-Read showed him something that he
-had seen before, in a break room, in
+00:11:32,225 --> 00:11:38,050
+it has never once done anything hateful, and you have
+therefore removed the only mechanism
 
 134
-00:11:21,344 --> 00:11:23,806
-the face of a young woman at a piano.
+00:11:38,070 --> 00:11:41,232
+our species has ever had for
+correcting anything.
 
 135
-00:11:24,376 --> 00:11:28,961
-Crane did not want revenge. He wanted to be
-near it. Whatever it was.
+00:11:41,951 --> 00:11:47,133
+I'm not going to write this one up. There's no
+finding. It's just the shape of it, and
 
 136
-00:11:29,650 --> 00:11:31,251
-He wants to serve.
+00:11:47,153 --> 00:11:50,761
+the shape is the problem, and I don't
+have a recommendation.
 
 137
-00:11:31,773 --> 00:11:35,677
-He wants to understand. For a man like
-him, it's the same thing.
+00:11:51,162 --> 00:11:53,451
+(very cold) Write it anyway.
 
 138
-00:11:37,577 --> 00:11:42,584
-I can't tell you what I am. But I can offer you a
-job. Umbrella has just acquired half
+00:11:53,851 --> 00:11:54,481
+Why?
 
 139
-00:11:42,604 --> 00:11:47,610
-the drug-discovery servers on Earth, and it has no
-one who understands them as well as
+00:11:54,881 --> 00:12:01,399
+Because in about forty years somebody is going to ask
+how this happened, and I would prefer
 
 140
-00:11:47,630 --> 00:11:52,578
-you do. You'd report to me. You'd have no board.
-And you would be close enough, every
+00:12:01,419 --> 00:12:06,932
+that the answer be in the handwriting of the
+one man who told me at the time.
 
 141
-00:11:52,598 --> 00:11:55,734
-day, to keep trying to model me —
-and to keep failing.
+00:12:07,331 --> 00:12:13,576
+The fifth folder is four pages long. It is the only
+one in the drawer with no annotation
 
 142
-00:11:58,254 --> 00:12:04,114
-Sebastian Crane stood in the corner office with the
-water stain shaped like Florida, and
+00:12:13,596 --> 00:12:14,502
+on it at all.
 
 143
-00:12:04,134 --> 00:12:10,129
-laughed. It was a strange laugh — half despair, half
-delight — and it went on for a while.
+00:12:14,902 --> 00:12:18,182
+And then, in 2050, Umbrella built its own.
 
 144
-00:12:10,818 --> 00:12:12,078
-When do I start?
+00:12:18,581 --> 00:12:24,469
+The Arcology was placed — not built; placed, over
+the night of the eleventh of June, in
 
 145
-00:12:14,099 --> 00:12:19,980
-It was the third time someone had offered themselves
-to him in exactly that way. The Adolf
+00:12:24,489 --> 00:12:30,241
+four hundred metres of water thirteen hundred
+kilometres from the nearest coast — and
 
 146
-00:12:20,000 --> 00:12:22,276
-half of the mind was keeping count.
+00:12:30,261 --> 00:12:34,111
+it is the largest single object the
+System ever gave him.
 
 147
-00:12:22,846 --> 00:12:28,983
-Evelyn Marsh, at a piano: can I help? Sir Martin
-Ellery, in front of the glass: when do
+00:12:35,261 --> 00:12:43,118
+Territory: the Arcology. An ocean platform city with
+a capacity of four hundred thousand,
 
 148
-00:12:29,003 --> 00:12:35,283
-I start? And now a boy who had built a machine to see
-God, and seen it, and wanted a desk
+00:12:43,138 --> 00:12:51,171
+currently sixty-one thousand resident. Four fusion
+units. Unlimited desalination. A charter
 
 149
-00:12:35,303 --> 00:12:35,991
-beside it.
+00:12:51,191 --> 00:12:58,782
+written by you. A currency issued by you. Legal
+basis: none whatsoever. Note: this one
 
 150
-00:12:36,562 --> 00:12:42,163
-The old voice had once built a movement from men
-like these. It knew what they became.
+00:12:58,802 --> 00:13:04,091
+has no parliament. Consider carefully
+what you are building.
+
+151
+00:13:04,682 --> 00:13:10,532
+Sixty-one thousand people moved there in the first
+year: researchers, engineers, their
+
+152
+00:13:10,552 --> 00:13:16,335
+families, and about nine thousand who simply
+applied because the housing was free and
+
+153
+00:13:16,355 --> 00:13:18,451
+the schools were extraordinary.
+
+154
+00:13:18,851 --> 00:13:24,913
+Twenty-nine states recognised it as a legal entity
+within four months, not because they
+
+155
+00:13:24,933 --> 00:13:30,854
+approved, but because the alternative was to have
+sixty-one thousand stateless people
+
+156
+00:13:30,874 --> 00:13:37,075
+and eight fusion reactors floating in international
+water with no legal framework at all.
+
+157
+00:13:37,475 --> 00:13:43,645
+The first child born a citizen of the Umbrella Free
+Territory arrived on the fourth of
+
+158
+00:13:43,665 --> 00:13:50,195
+September 2050, in a hospital that was better than any
+on land, to a Bangladeshi structural
+
+159
+00:13:50,215 --> 00:13:54,945
+engineer and a Peruvian marine biologist
+who had met in a canteen.
+
+160
+00:13:55,346 --> 00:14:01,466
+Her name was Mira. She is nineteen when the sky
+opens, and she is still alive at the end
+
+161
+00:14:01,486 --> 00:14:07,676
+of this account, and she is one of the eleven people
+who sees what Albert Wesker becomes.
