@@ -103,11 +103,17 @@ A private interface only Wesker (and the voice inside him) can perceive. It has 
 **Summoned from the Gacha:**
 | Tag | Who | When |
 |---|---|---|
-| BIRKIN | Dr. William Birkin — his old colleague from the other world, summoned loyal. Brilliant, twitchy, devoted. | Ch 8 (Legendary package) |
-| ANNETTE | Dr. Annette Birkin, William's wife, sharp and cold. | Ch 8 |
-| HUNK | Commander of the Umbrella Security Service. Gas mask, calm radio voice. | Ch 11 (Epic) |
-| REDQUEEN | The Red Queen, Umbrella's AI, a girl's hologram in red light. | Ch 27 (Legendary package) |
-| TYRANT | T-103 Tyrants. Silent. The first appears in Ch 4 (Rare). | |
+| BIRKIN | Dr. William Birkin — his colleague from the other world, summoned loyal, talks too fast. | Ch 8 (Legendary package) |
+| ANNETTE | Dr. Annette Birkin — sharp, cold, and the first Absolute to warn him off something. | Ch 8 |
+| HUNK | Commander of the Umbrella Security Service. Gas mask, radio voice, no photograph exists. | Ch 11 (Epic) |
+| REDQUEEN | Umbrella's modelling intelligence, a girl in red light; keeps a list of everything she has told him and been overruled on. | Ch 26 (Legendary, integrated) |
+| TYRANT | T-103. The first is a Rare in Ch 4 and spends eight years as an air conditioner. | |
+
+**Also standing:** REISS (Absolute scientist, the first to refuse an instruction, Ch 30) ·
+MIRA Halder (born in the Arcology, builds the first ship, argues with him and wins, Ch 39–41) ·
+TESH (host of the ninth world, three thousand years old, Ch 48) · RUTH Ochoa (schoolteacher
+whose letter puts him in a stadium, Ch 37) · DENISE Ferrand (federal auditor, Ch 15) ·
+MARGUERITE (receptionist in Ch 1, protectorate representative in Ch 31).
 
 **Opposition (brief):** TOLLIVER (Verdant Axis CEO, Ch 3 & 7) · CARRICK (FBI, Ch 18, becomes an asset) · SENATOR (Ch 19) · HALVORSEN, WYATT, CRANE (Part IV, one chapter each) · a coalition of fictional heads of state (Ch 35–36) · aliens in Part VI: the Tollhouse BROKER, the VETH admiral, the CHOIR, the MYRIAD.
 
@@ -132,16 +138,20 @@ A private interface only Wesker (and the voice inside him) can perceive. It has 
 
 ## 6. Timeline
 
+As written. The scripts are canon; `story/ledger.md` is generated from them.
+
 | Part | Title | Dates | Chapters |
 |---|---|---|---|
 | I | The Garage Empire | Sep – Dec 2026 | 1–8 |
-| II | The Company That Should Not Exist | 2027 – 2028 | 9–16 |
-| III | The Agencies | 2029 – 2030 | 17–24 |
-| IV | Corporate Conquest | 2031 – 2033 | 25–32 |
-| V | The Visible King | 2034 – 2046 | 33–42 |
-| VI | The Sky | 2047 – 2091 | 43–50 |
+| II | The Company That Should Not Exist | 2027 – 2032 | 9–16 |
+| III | The Agencies | 2033 – 2040 | 17–24 |
+| IV | Corporate Conquest | 2040 – 2062 | 25–32 |
+| V | The Visible King | 2063 – 2092 | 33–41 |
+| VI | The Sky | 2103 – 2294 | 42–50 |
 
----
+Wesker is thirty-eight at the start and two hundred and sixty-eight when he dies in 2294. The
+Progenitor strain in the Arklay vault is opened on 4 December 2062, at Viral Affinity 40, and
+the interface is withdrawn on 18 September 2286 after he declines the final panel.
 
 ## 7. Audio and picture language
 
