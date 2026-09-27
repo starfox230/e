@@ -257,7 +257,7 @@ if __name__ == '__main__':
     p, boxes, txt = system_panel('Status', ['Level: 1', 'Strength: 34', 'Speed: 38', 'Intelligence: 22', 'Charisma: 24'])
     p.alpha_composite(txt)
     p.save('/tmp/claude-0/gfx/panel.png')
-    movement_card('I', 'The Garage Empire').save('/tmp/claude-0/gfx/movement.png')
+    movement_card('I', 'The Founding').save('/tmp/claude-0/gfx/movement.png')
     chapter_card(1, 'Two Deaths and a Chair').save('/tmp/claude-0/gfx/chapter.png')
     main_title().save('/tmp/claude-0/gfx/title.png')
     loc_caption('Wilmington, Delaware — 14 September 2026, 3:12 a.m.')[0].save('/tmp/claude-0/gfx/loc.png')

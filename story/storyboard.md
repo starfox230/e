@@ -3,7 +3,7 @@
 Generated from `script/chNN.txt` by `pipeline/make_index.py`. Fifty chapters, six Parts.
 
 
-## Part I | The Garage Empire
+## Part I | The Founding
 
 **1. The Building That Was Always There** — Wilmington, Delaware — 14 September 2026, 5:57 a.m.  
 Before any of it — before the building, before the city, before the ships — there was a room that was not a room, and a voice in it that had never needed a mouth.…  

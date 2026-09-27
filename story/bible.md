@@ -142,7 +142,7 @@ As written. The scripts are canon; `story/ledger.md` is generated from them.
 
 | Part | Title | Dates | Chapters |
 |---|---|---|---|
-| I | The Garage Empire | Sep – Dec 2026 | 1–8 |
+| I | The Founding | Sep – Dec 2026 | 1–8 |
 | II | The Company That Should Not Exist | 2027 – 2032 | 9–16 |
 | III | The Agencies | 2033 – 2040 | 17–24 |
 | IV | Corporate Conquest | 2040 – 2062 | 25–32 |

@@ -5,7 +5,7 @@ One file per chapter: `script/chNN.txt`. The renderer builds the timeline strict
 ## Headers
 ```
 # 1 | Two Deaths and a Chair          chapter number and title (title card)
-@movement I | The Garage Empire        movement card (only on the first chapter of a movement)
+@movement I | The Founding        movement card (only on the first chapter of a movement)
 ```
 
 ## Spoken lines (one paragraph per line)
