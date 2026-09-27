@@ -100,16 +100,78 @@ HINT_SPEED = {'phone': 1.0, 'slow': 0.9, 'fast': 1.08, 'soft': 0.95, 'whisper': 
 HINT_GAIN = {'soft': -3.0, 'whisper': -5.0, 'shout': 2.0}
 
 PRON = {
-    r'\bTomás\b': 'Tomas', r'\bAdeyemi\b': 'Addeh-yemmy', r'\bKuchar\b': 'Koo-car', r'\bAeterna\b': 'Ay-turna',
-    r'\bTianhe\b': 'Tyen-huh', r'\bShulan\b': 'Shoo-lahn', r'\bBelov\b': 'Byeh-loff', r'\bOkafor\b': 'Oh-kah-for',
-    r'\bB\.O\.W\.s\b': 'B O Ws', r'\bB\.O\.W\.\b': 'B O W', r'\bBSL-(\d)': r'B S L \1', r'\bT-00\b': 'T zero zero',
-    r'\bDr\.': 'Doctor', r'\bMr\.': 'Mister', r'\bMrs\.': 'Missus', r'\bMs\.': 'Miz', r'\bSt\. ': 'Saint ',
-    r'\ba\.m\.': 'A M', r'\bp\.m\.': 'P M', r'\bvs\.': 'versus', r'\bU\.S\.': 'U S', r'\bU\.K\.': 'U K',
-    r'\bHaddad\b': 'Ha-dahd', r'\bAshcombe\b': 'Ash-cum', r'\bHalvorsen\b': 'Hal-vor-sen', r'\bVeth\b': 'Veth',
-    r'\bWen\b': 'Wen', r'\bLessing\b': 'Lessing', r'\bArklay\b': 'Ark-lay', r'\bOk\b': 'okay',
+    # Respellings for the names and terms the synthesisers get wrong. Both engines are good at
+    # ordinary English; what they guess at is Igbo, Yoruba, Mandarin, Kiribati and invented
+    # words, and a mispronounced character name is noticed every single time it recurs.
+    r'\bAdeyemi\b': 'Ah-deh-YEH-mee', r'\bOkonkwo\b': 'Oh-KON-kwoh', r'\bOdhiambo\b': 'Oh-dee-AM-boh',
+    r'\bAchieng\b': 'Ah-chee-ENG', r'\bAdaeze\b': 'Ah-dah-EH-zeh', r'\bIyabo\b': 'Ee-YAH-boh',
+    r'\bKalu\b': 'KAH-loo', r'\bAbayomi\b': 'Ah-bah-YOH-mee',
+    r'\bWen Shulan\b': 'Wen Shoo-LAHN', r'\bShulan\b': 'Shoo-LAHN',
+    r'\bHangzhou\b': 'Hahng-joh', r'\bSuzhou\b': 'Soo-joh', r'\bBeihai\b': 'Bay-hi',
+    r'\bKisumu\b': 'Kih-SOO-moo', r'\bTeraina\b': 'Teh-rah-EE-nah', r'\bRabaere\b': 'Rah-bah-EH-reh',
+    r'\bOchoa\b': 'Oh-CHOH-ah', r'\bBastida\b': 'Bah-STEE-dah', r'\bFerrand\b': 'Feh-RAHN',
+    r'\bKowal\b': 'KOH-val', r'\bChandrasekhar\b': 'Chan-druh-SAY-kar', r'\bRinaldi\b': 'Ree-NAHL-dee',
+    r'\bBonetti\b': 'Boh-NET-tee', r'\bMarguerite\b': 'Mar-guh-REET', r'\bAnnette\b': 'Ah-NET',
+    r'\bCatherine\b': 'KATH-rin', r'\bEvelyn\b': 'EV-uh-lin', r'\bWesker\b': 'WES-ker',
+    r'\bBirkin\b': 'BUR-kin', r'\bCarrick\b': 'KA-rick', r'\bTolliver\b': 'TOL-ih-ver',
+    r'\bHalder\b': 'HAHL-der', r'\bTesh\b': 'Tesh', r'\bVoss\b': 'Voss', r'\bReiss\b': 'Rice',
+    r'\bHUNK\b': 'Hunk', r'\bPell\b': 'Pell', r'\bSloane\b': 'Slone', r'\bWyatt\b': 'WY-ut',
+    r'\bArklay\b': 'ARK-lay', r'\bAeterna\b': 'Ay-TUR-nah', r'\bProgenitor\b': 'proh-JEN-ih-tor',
+    r'\bVeth\b': 'Veth', r'\bSethra-Ka\b': 'SETH-rah Kah', r'\bAshet\b': 'AH-shet',
+    r'\bMyriad\b': 'MIH-ree-ad', r'\bTollhouse\b': 'Toll-house', r'\bKelpie\b': 'KEL-pee',
+    r'\bRavenna\b': 'Rah-VEN-nah', r'\bBasel\b': 'BAH-zul', r'\bLyon\b': 'Lee-ON',
+    r'\bWilmington\b': 'WIL-ming-ton', r'\bChristina\b': 'Kris-TEE-nah',
+    r'\bAllegheny\b': 'Al-uh-GAY-nee', r'\bDelaware\b': 'DEL-uh-ware',
+    r'\bLANTERN\b': 'Lantern', r'\bORIGIN\b': 'Origin', r'\bBEYOND\b': 'Beyond',
+    # abbreviations and units
+    r'\bB\.O\.W\.s\b': 'B O Ws', r'\bB\.O\.W\.\b': 'B O W', r'\bBSL-(\d)': r'B S L \1',
+    r'\bT-103\b': 'T one oh three', r'\bT-00\b': 'T zero zero',
+    r'\bDr\.': 'Doctor', r'\bMr\.': 'Mister', r'\bMrs\.': 'Missus', r'\bMs\.': 'Miz',
+    r'\bSt\. ': 'Saint ', r'\ba\.m\.': 'A M', r'\bp\.m\.': 'P M', r'\bvs\.': 'versus',
+    r'\bU\.S\.': 'U S', r'\bU\.K\.': 'U K', r'\bOk\b': 'okay',
+    r'\bWHO\b': 'W H O', r'\bGAO\b': 'G A O', r'\bFBI\b': 'F B I', r'\bCIA\b': 'C I A',
+    r'\bMSS\b': 'M S S', r'\bNATO\b': 'NAY-toh', r'\bU\.S\.S\.\b': 'U S S',
+    r'\bL4\b': 'L four', r'\bB4\b': 'B four',
 }
 
 _kokoro = None
+_piper = {}
+
+PIPER_DIR = '/home/user/e/work/models/piper'
+PIPER_VOICES = {
+    'ryan':   'en/en_US/ryan/high/en_US-ryan-high.onnx',
+    'lessac': 'en/en_US/lessac/high/en_US-lessac-high.onnx',
+    'alan':   'en/en_GB/alan/medium/en_GB-alan-medium.onnx',
+}
+
+
+def piper(name):
+    """A Piper voice, loaded once. Piper is slower than Kokoro (about two times realtime on
+    four cores) and clearer: it phonemises through espeak-ng, so it does not mispronounce the
+    names and the abbreviations that Kokoro guesses at."""
+    if name not in _piper:
+        from piper import PiperVoice
+        _piper[name] = PiperVoice.load(os.path.join(PIPER_DIR, PIPER_VOICES[name]))
+    return _piper[name]
+
+
+def piper_say(name, text, speed=1.0):
+    """Mono float32 at this module's sample rate."""
+    import io
+    import wave
+    v = piper(name)
+    buf = io.BytesIO()
+    with wave.open(buf, 'wb') as w:
+        try:
+            from piper import SynthesisConfig
+            v.synthesize_wav(text, w, syn_config=SynthesisConfig(length_scale=1.0 / speed))
+        except Exception:
+            v.synthesize_wav(text, w)
+    buf.seek(0)
+    a, sr = sf.read(buf, dtype='float32')
+    if a.ndim > 1:
+        a = a.mean(axis=1)
+    return (signal.resample_poly(a, SR, sr) if sr != SR else a).astype(np.float32), SR
 
 
 def kokoro():
@@ -241,9 +303,13 @@ def synth(speaker, text, hint=''):
     path = os.path.join(CACHE, f'{key}.flac')
     if os.path.exists(path):
         return path
-    lang = 'en-gb' if voice.startswith('b') else 'en-us'
-    audio, sr = kokoro().create(spoken, voice=style(voice), speed=speed, lang=lang, sentence_pause=0.32, clause_pause=0.12)
-    audio = signal.resample_poly(audio.astype(np.float32), SR // sr, 1) if SR % sr == 0 else signal.resample(audio, int(len(audio) * SR / sr))
+    if voice.startswith('piper:'):
+        audio, sr = piper_say(voice.split(':', 1)[1], spoken, speed)
+    else:
+        lang = 'en-gb' if voice.startswith('b') else 'en-us'
+        audio, sr = kokoro().create(spoken, voice=style(voice), speed=speed, lang=lang, sentence_pause=0.32, clause_pause=0.12)
+        audio = (signal.resample_poly(audio.astype(np.float32), SR // sr, 1) if SR % sr == 0
+                 else signal.resample(audio, int(len(audio) * SR / sr)))
     x = np.stack([audio, audio]).astype(np.float32)
     if hint == 'phone':
         x = Pedalboard([HighpassFilter(cutoff_frequency_hz=320), LowpassFilter(cutoff_frequency_hz=3400),
