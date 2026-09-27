@@ -142,6 +142,7 @@ SYSTEM: (flat) It has.
 [img] a wide industrial plant complex seen from a highway at dawn, steam from vents, faded company sign, parked cars in rows
 N: The plant appeared over the night of the ninth.
 N: Two hundred and eighty thousand square feet of it: a sterile fill suite, four cartridge assembly lines, a warehouse with racking to the roof, a truck yard, a staff car park with faded painted numbers, and a sign at the gate that had been bleached by fourteen summers.
+[sfx] sfx_engine_start +0.3
 N: Three hundred and eleven people went to work there on Monday morning. They had badges, lockers, favourite parking spaces and a union local that had negotiated a contract in 2019. Forty-one of them had been employed there for more than a decade. Two had met each other on the line and married. One was three months from retirement and had a card going round the break room.
 N: None of them had existed on Friday.
 [img] a night shift supervisor in a hard hat talking on a phone outside a lit factory door, warm light, dark yard

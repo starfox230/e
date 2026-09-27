@@ -36,6 +36,7 @@ N: The narrator notes that this is the only occasion in sixty-five years on whic
 [music] m_lo -8
 [img] white medical tents set up in a historic Italian town square, workers in protective suits, morning light
 [loc] Ravenna — 9 March 2033
+[sfx] sfx_siren -1.0
 N: The tents went up in the Piazza del Popolo on the morning of the ninth.
 N: White, with a crimson iris on the roof panels — placed there, deliberately, so that every aerial shot would carry it — and staffed by four hundred and eleven Umbrella personnel who had been in the air within nine hours of the anomalous negative.
 N: By the twelfth there were tents in six Italian cities, in Ljubljana, in Zagreb, in Munich. By the nineteenth there were six hundred sites in thirty-one countries, and Umbrella had run nine million tests, free, without asking any government for permission and without being refused by any.

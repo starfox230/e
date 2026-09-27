@@ -75,6 +75,7 @@ N: They are the primary source for about a third of this account.
 [loc] The Christina, Dock One — 4 March 2092
 N: The narrator will give you the departure, because it is the last scene in this Part and because of who was not on the bridge.
 N: Eleven hundred people. Nineteen thousand had applied. The manifest was published in full four months in advance, as everything on that ship was published, and the Assembly debated it for two days and changed four names.
+[sfx] sfx_docking_clamp +0.3
 N: Mira Halder took the ship out at nine in the morning on the fourth of March 2092. Her last transmission from inside the solar system, eleven days later, is four sentences and it is on the wall of the Assembly.
 MIRA: (slow) We have the garden. It is not doing well; the soil is the one thing nobody argued about enough.
 MIRA: (slow) To the people who built the spars twice: thank you, and I am sorry about the four months.

@@ -88,6 +88,7 @@ WESKER: (soft) No. It has *issued* them to me. That is not the same thing, and I
 [img] a vast stone mansion at dawn in a deep forest of pines, mist in the valley, a private road winding up to iron gates
 [loc] Allegheny Forest, western Pennsylvania — 7 May, 6:20 a.m.
 N: He flew out at first light.
+[sfx] sfx_ship_pass +0.2
 N: The helicopter came in over eleven thousand acres of Pennsylvania pine, over a private road that the state highway department's map showed as an unimproved service track maintained by a timber trust since 1969, and over a gate with a crimson iris on it.
 N: And then the house.
 N: Grey stone, three wings, sixty-one rooms, a slate roof steep enough to shed a winter, and a carriage sweep in front of it with the gravel raked. Ivy on the west face, established — twenty years of ivy. A garage with four cars in it. Smoke from a chimney, because somebody had lit a fire that morning, because somebody lived there.
@@ -126,6 +127,7 @@ N: Wesker filed that. He filed it very carefully indeed, and it is the first cra
 N: Nine levels.
 N: Containment wings on three and four. A biologics suite on five that made Division Seven's B4 look like a school laboratory. On six, an animal facility with things in it that Voss would have needed a year of ethics paperwork to look at.
 N: And on seven, the cryogenic hall.
+[sfx] sfx_cryo_hiss +0.6
 N: It was the size of a cathedral nave and it was mostly empty, which was somehow worse than full. Four hundred and eleven cradles in ranks, of which nine were occupied: six by tissue banks, two by the T-103s he had shipped up that morning from Wilmington, and one — at the far end, alone, under a light that was slightly brighter than the others — by nothing at all.
 WESKER: What is that cradle for?
 BIRKIN: (soft) I don't know. It was in the drawings. It's plumbed and powered and it's rated for something a great deal heavier than a Tyrant. I've asked.

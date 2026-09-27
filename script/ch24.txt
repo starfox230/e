@@ -105,6 +105,7 @@ SYSTEM: (flat) They have.
 [img] rows of soldiers in black tactical armour standing in perfect formation on a parade ground at dawn, mist, mountains
 [loc] Umbrella Training Facility, Allegheny Ridge — 3 January 2040, 7:00 a.m.
 N: He went to look at it on the third of January at seven in the morning, in the cold, with Hale and HUNK and nobody else.
+[sfx] sfx_footsteps +0.3
 N: Six thousand men and women in black, in square formation, on a parade ground that had not existed on the first of January, in front of hangars with fourteen years of weather on the roofs.
 N: They did not cheer. They did not present arms. They stood, six thousand of them, and every single one of them was looking at him, and none of them blinked at the rate that human beings blink.
 [pause 0.8]

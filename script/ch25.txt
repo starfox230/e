@@ -26,6 +26,7 @@ N: No weapons were displayed. That was the entire point.
 N: Four hundred personnel stood in formation on the field, in black, without rifles.
 N: The demonstration ran ninety minutes and consisted of four things.
 N: The first: they stood still. For thirty-one minutes, in the rain that started at twenty-seven o'clock, without shifting weight, without adjusting a strap, without a cough. A brigadier from a NATO member state timed it on his watch and then stopped timing it because it had become unpleasant to watch.
+[sfx] sfx_suppressed_burst +0.6
 N: The second: a live-fire lane, which the audience could not see the end of, in which forty personnel moved through twelve hundred metres of woodland at night — the field lights were killed for it — with no radio traffic whatsoever, and cleared nineteen targets, and came back out having taken four simulated casualties, and the four simulated casualties continued moving because they had not been told to stop.
 N: The third was a question-and-answer session in which HUNK, in a gas mask, answered technical questions from four generals for twenty minutes and refused to answer any question about selection, training or medical standards.
 N: And the fourth was the one that ended the defence industry.

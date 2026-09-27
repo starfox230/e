@@ -49,6 +49,7 @@ WESKER: (cold) No. It is better. A man who does not care makes mistakes with the
 [loc] London, Singapore, Zurich, Tokyo — the weekend of 26 January 2029
 N: The narrator will describe one of the four, because all four went the same way and one is enough to break your heart.
 N: On the south bank of the Thames, between Blackfriars and Southwark, there is a plot that had been a car park, then a hoarding with an artist's impression on it, then a hole in the ground with a stalled financing and a crane that had not moved since 2024.
+[sfx] sfx_riser +0.3
 N: On Saturday morning there was a tower. Forty-one floors of grey glass with a crimson iris at its base, finished in 2019, designed by a practice that had won an award for it, with a public plaza, a coffee franchise on the ground floor and twenty-six years of weather on the stone.
 N: The crane was gone. The hoarding was gone. The stalled financing had never existed.
 [img] a tourist looking at an old photograph on a phone with a city skyline behind them, confused expression, daylight

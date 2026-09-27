@@ -36,6 +36,7 @@ N: On Friday night there was a valley. Trees, a river, a rail line with saplings
 [sfx] sfx_riser +0.4
 [img] an aerial view of a lit city in a forested valley at night, grid of streets, a stadium, a hospital, a river bridge, glowing windows
 [loc] Saturday 16 September, 5:00 a.m.
+[sfx] sfx_riser +0.3
 N: On Saturday morning there was a city.
 N: A hundred thousand people. Nine and a half thousand acres. A downtown of eighteen blocks with a clock on the courthouse and a department store that had been there since the sixties. A hospital with four hundred beds. A police department with two hundred and eighty officers and a chief who had come up through traffic. Four high schools, one of which had won the state championship in 1998 and had a mural about it. A tram line — two lines, in fact, a red and a green, with rolling stock from 2014. A stadium that seated thirty-one thousand.
 N: A river with three bridges over it. A cemetery with twenty-four thousand graves.
@@ -57,6 +58,7 @@ WESKER: (cold) Then it is fortunate that nobody will ever be able to tell the di
 [img] a small-city main street in the morning, shopfronts, a tram, people walking to work, autumn light
 [loc] Raccoon City — Monday 18 September, 8:00 a.m.
 N: On Monday the city went to work.
+[sfx] sfx_car_pass +0.4
 N: The Raccoon City Ledger published an editorial about the school levy. A traffic camera on Ennerdale Avenue ticketed forty-one drivers. A woman named Priya Chandrasekhar opened a bakery that she had opened in 2019, and her regulars came in, and she knew what they wanted.
 N: And Albert Wesker drove down from the estate at seven in the morning in a black car, alone, and every traffic light on Mill Street turned green in front of him, and he understood, four lights in, that this was not a coincidence and was not going to stop.
 WESKER: (soft) I did not ask for that.

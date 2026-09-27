@@ -7,6 +7,7 @@
 N: The Veth Hegemony is older than the oceans of Earth. It has four hundred thousand worlds, a caste structure that has not changed in nine hundred thousand years, and a founding doctrine that the human record translates, imperfectly, as *the settled question.*
 N: The settled question is this: every species that reaches the void either submits to an order or imposes one, and the Veth reached the void first, and therefore the order exists, and therefore submission is not a defeat but an administrative formality that has already taken place and merely needs to be acknowledged.
 N: They have annexed eleven hundred species. They have fought four wars in ninety thousand years. The wars are short.
+[sfx] sfx_alien_call +0.6
 N: They arrived at Ochoa — a human colony of nine hundred thousand people, forty-three years old, with a dock, two ships and a hydroponic economy — on the fourth of April 2141, with thirteen vessels, and they did not fire.
 [img] a colonial administrator and officials facing a huge holographic alien figure in a colony council chamber
 VETH: (slow) You are informed. The system is within the settled order. Your administration continues. Your production is assessed at one part in nine. Your vessels will be registered. A garrison will arrive in four hundred days.

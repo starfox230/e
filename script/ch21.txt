@@ -55,12 +55,15 @@ N: There were nine hundred police officers, four television crews with long lens
 N: What walked in was three metres tall, wore a grey overcoat, and did not hurry.
 [sfx] sfx_tyrant_footstep +0.2
 N: Four minutes. The narrator will account for all of them.
+[sfx] sfx_gunfire_burst +0.4
 N: In the first minute it crossed the tunnel and entered the north concourse, where three of the six were positioned. They fired. The footage — and there is footage, from a police camera on a pole outside, of the muzzle flashes through the tunnel mouth — shows the flashes stop, one by one, over about eleven seconds.
 N: In the second minute it went up the internal stair to the executive level and took the two who were holding the stadium's control room, and turned off the public address system, which had been playing the same recorded message for eight hours.
 N: In the third minute it went along the second tier, where three of them had spread out above the crowd, and this is the part that the world argued about for a decade: not one shot was fired into the stands. Not one. Forty-one thousand people sat in the dark, under a stadium roof, and heard, over the sound of their own weeping, a series of very brief, very definite noises above them that they could not identify.
+[sfx] sfx_metal_clang +0.5
 N: In the fourth minute it went to the vehicle gates and dealt with the two who were sitting with the devices, and it did that part in such a way that the devices did not function, and the narrator does not know how, and neither did the French, and neither did anybody at Umbrella except one man in Singapore watching on a handheld camera relay.
 [pause 0.8]
 [sfx] sfx_crowd_silence +0.2
+[sfx] sfx_crowd_gasp +0.6
 N: At five fifteen and forty seconds, the stadium lights came on.
 [img] a stadium interior with lights coming up, thousands of people standing and looking down, a tall grey figure in a coat on the pitch
 N: And forty-one thousand people saw what was standing in the centre circle.

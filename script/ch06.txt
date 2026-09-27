@@ -48,6 +48,7 @@ WESKER: Then I will be four hundred Points and five buildings richer than I was,
 [music] m_bell -4
 [img] a riverfront industrial block at dawn seen from above, five white and brick buildings with a walled service road, a crimson iris emblem on each door
 [loc] Wilmington riverfront — Saturday, 20 March, 6:00 a.m.
+[sfx] sfx_riser +0.4
 N: On Friday night the riverfront south of Division Seven was four derelict lots and a weed patch.
 N: On Saturday morning it was a campus.
 N: A four-storey research building in white stone that matched the first, with its glass already grimy at the corners the way glass gets. A data hall with a transformer yard and a chain-link fence that had been repaired twice. A logistics building with a loading apron, bay numbers painted on the concrete and a fork-lift charging inside. An auditorium on the water with five hundred seats in dark red fabric, three of them stained. A service road with a gatehouse, a striped barrier and a logbook with eight months of entries in four different hands.

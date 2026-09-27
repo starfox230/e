@@ -119,5 +119,6 @@ What is given is given.
 [/system]
 [pause 1.4]
 [music] m_dawn -6
+[sfx] sfx_system_chime -6
 N: At six o'clock in the morning on the eighteenth of September 2286, in a corner office on the sixth floor of a building that had appeared out of nothing two hundred and sixty years earlier, the panels went out.
 N: There is no record of what Albert Wesker did for the following hour, because for the following hour there was, for the first time since he was thirty-eight years old, nothing in the room that was recording him.

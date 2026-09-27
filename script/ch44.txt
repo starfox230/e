@@ -55,6 +55,7 @@ WOMAN: (very slow) That is what he built. He built a world where being right is 
 [music] m_action -8
 [img] alien cathedral ships advancing through space towards distant human colonies, cold radiant light
 [loc] The edge of the human sphere — 2167 to 2181
+[sfx] sfx_alien_choir +0.4
 N: The Choir came anyway. Doctrine is doctrine.
 N: The narrator will describe the war of the edges in one page, because it is the only shooting war in this account and because Albert Wesker did not command it.
 N: It was fought by the Assembly's defence council, under a doctrine written in 2144 by a committee, and executed by admirals who had been colonial engineers. It lasted fourteen years. It was fought at the edges, as the Choir had promised, and the Choir kept every single one of its undertakings, because it has never in eleven thousand years told a lie.

@@ -94,12 +94,14 @@ HUNK: (radio) Understood, sir.
 [img] {USS} moving in single file through a dark corridor with red emergency lighting, silent and precise
 [loc] The laboratory — 1:40 a.m.
 N: The narrator will tell you how it went, beat by beat, because it is the first time in this story that Umbrella's hand touches the world directly and because everything it becomes is already visible in it.
+[sfx] sfx_alarm -0.4
 N: At one thirty-eight the site's alarm contract lapsed. Not was disabled — *lapsed*, in the monitoring company's records, due to an unpaid invoice, four days earlier, with a letter on file.
 N: At one forty the night porter, a sixty-year-old man named Luc, received a call from his supervisor telling him a gas leak had been reported on the estate and that he should stand at the main gate until the utility arrived. He stood at the main gate. He was there for the entire operation and saw nothing.
 [sfx] sfx_footsteps +0.2
 N: At one forty-one, six people in black entered through a service door that had been fitted with a new lock in October by a contractor nobody at the laboratory could later name.
 N: At one fifty-two they were in the cold store. At two hundred and one, four hundred litres of Aeterna intermediate, still in Umbrella's own drums, went into a refrigerated van.
 N: At two hundred and four, HUNK stopped in the laboratory's server room for ninety seconds and copied nineteen years of purchase records.
+[sfx] sfx_car_door +0.2
 N: At two hundred and six they were gone. Total time on the ground: twenty-five minutes. Injuries: none. Shots fired: none. Doors broken: none.
 [sfx] sfx_car_pass +0.4
 N: At nine o'clock that morning the laboratory's director arrived to find an empty cold store, a functioning alarm system that had been off for four days, and no sign of entry whatsoever.

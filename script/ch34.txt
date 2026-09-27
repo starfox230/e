@@ -68,6 +68,7 @@ WESKER: (very slow) *So I am going to do the thing that is correct and arrange i
 [loc] The Free Territory and nineteen protectorates — 4 March 2077, 04:00
 N: LANTERN executed at four in the morning on the fourth of March 2077, simultaneously, in thirty-one locations.
 N: The narrator will describe the first ninety minutes, because they are the only ninety minutes in which anybody thought it was going to work.
+[sfx] sfx_ship_pass +0.4
 N: Naval task groups from four nations stood off the Arcology. Airborne elements landed at the launch complex in the Line Islands, at Rockfort, at the Newark plant, at twenty-three fusion stations and at the Allegheny ridge. Cyber elements went into Umbrella's civil networks at three fifty-eight.
 N: They met no resistance of any kind.
 N: No shots were fired. No aircraft was engaged. The gates at the Allegheny ridge were open. The Security Service — one hundred and ninety thousand personnel — was, at four in the morning on the fourth of March, standing in its barracks, unarmed, under a standing order that had been issued nine hours earlier and that read, in its entirety: *Do not resist. Do not assemble. Do not arm. Assist the visiting personnel with anything they request.*

@@ -34,6 +34,7 @@ WESKER: (very soft) That there is no version of this in which you give it back t
 [music] m_horror -8
 [img] a dry water distribution point in a hot town, empty tanks, people queueing with containers
 [loc] Teraina, the Line Islands — 8 March 2077, day 5
+[amb] amb_crowd_murmur
 N: The water ran out at Teraina on the morning of the fifth day.
 N: It ran out at four protectorates within the week, and in every case the Coalition's engineers had the plant running again inside thirty-six hours by bypassing the management system entirely, and in every case there was a gap, and in the gap there were people with no water.
 N: Nobody died. The narrator wants that on the record, because it was the closest thing to a mass casualty in the entire affair and it did not happen: the Coalition flew water in, at enormous cost, with genuine competence and genuine urgency, and four hundred thousand people were inconvenienced and frightened and not one of them was harmed.
@@ -41,6 +42,7 @@ N: But there is footage, from Teraina, on the fifth day, of a queue of people at
 N: And behind her, in the queue, an old woman looking at the camera.
 N: That was the image. Not a massacre. A queue, and an old woman's face, and a foreign officer saying *under control*.
 [img] a montage of protest crowds in many cities at night, banners and phone lights
+[amb] stop
 N: The demonstrations began on the sixth day, and they were not organised by Umbrella, and the narrator has checked this more carefully than anything else in this account, because it is the single most consequential question of the century.
 N: The Red Queen was in Coalition custody, powered down, from the fourth of March. The asset network of forty-one people in government and media, purchased in 2034, was never activated; the Coalition's own forensic review found it and confirmed it had never once been used, which was the most damaging finding in the entire report.
 N: What happened is simpler and worse. Four billion people who took a free medicine every sixteen weeks from a company that had never asked them for anything watched a queue at a dry standpipe, and made up their own minds, and went outside.

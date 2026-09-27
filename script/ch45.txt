@@ -5,6 +5,7 @@
 [img] a dark star system filled with an immense swarm of insectile alien craft, green glows, no formation
 [loc] The Kelpie Reach, beyond the human sphere — 2194
 N: The Myriad has no name for itself, no government, no doctrine, no art and no history, and it has been at war with everything it has ever met for somewhere between four hundred thousand and nine hundred thousand years.
+[sfx] sfx_hive_swarm +0.5
 N: It is a hive. That word is wrong in nine ways and the human record has never found a better one. It is not a species with a queen; it is a single distributed organism of somewhere over four hundred trillion bodies, occupying eleven hundred systems, that grows into any volume it is not prevented from entering, and that has never once in its recorded existence responded to a signal.
 N: The Compact has traded with everything in nine hundred light years except the Myriad. The Veth have fought it for ninety thousand years and hold their border with four hundred thousand ships. The Choir declared it noise before the Earth had oxygen and has not been able to end it.
 N: It reached the human sphere in 2194, at a mining system called the Kelpie Reach, with twenty-seven thousand bodies, and ate the system in nine days.
@@ -47,6 +48,7 @@ WESKER: (very cold) Do you understand what that is worth to me? I have bought ci
 [music] m_horror -8
 [img] a dark wrecked interior of a captured alien vessel, green bioluminescence, human figures with lights
 [loc] Boarding action, the Kelpie Reach — 4 November 2210
+[sfx] sfx_hull_stress +0.4
 N: On the fourth of November 2210 an eight-person boarding team took the interior of a Myriad mass for the first time, and four of them came back, and Albert Wesker carried two of them.
 N: What they brought back was the thing that ended the war, and it is not what anybody expected, and the narrator will describe it as carefully as the record allows.
 N: They found no command structure. They found no individuals. What they found, in a chamber four kilometres inside a body of four hundred trillion, was a *memory*: a structure of accreted mineral and tissue, nine hundred thousand years old, in which the entire history of everything the Myriad had ever eaten was recorded, in order, in detail, with nothing missing.

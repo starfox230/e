@@ -15,7 +15,9 @@ N: He said yes in the same week.
 [music] m_sermon -8
 [img] an enormous stadium interior at night packed with people, a small lit stage at the centre
 [loc] The stadium — 14 September, 8:00 p.m.
+[amb] amb_crowd_murmur -6
 N: Ninety-one thousand people. Another four hundred thousand in the streets outside on screens. Nine hundred million watching live, which was not a record — the Eleven Days had been four billion — but which was the largest audience any human being had ever had for something that was not a catastrophe.
+[amb] stop
 N: There was no support programme. No music, no warm-up, no video. The stadium lights came up at eight o'clock and a man in a black coat walked out to a single microphone at the centre circle, alone, and the narrator would like you to understand that he had prepared this for eleven weeks.
 N: For sixty years there had been a voice in his skull that knew how to do this. It had told him in a hotel in Basel in 2029 that the pause was everything. It had told him in a car in 2034 to let a senator's question sit in the air. It had been silent since ten past four in the morning on the fifth of December 2062, and it was not coming back, because it was not a passenger any more and had not been for twenty-four years.
 N: He had to do it himself, and he knew exactly how, and that is the horror of it.
