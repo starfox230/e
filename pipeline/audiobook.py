@@ -1,10 +1,13 @@
-"""Package the finished chapter mixes as an audiobook: one AAC track per chapter.
+"""Package the finished film as an audiobook: one AAC track per chapter.
 
-The mixes are the film's soundtrack as-is -- narration, dialogue, music and effects, already
-mastered to -15 LUFS -- so the audiobook is exactly what the film sounds like. One file per
-chapter keeps every track under the 30 MiB file-transfer limit (the longest chapter comes to
-about 18 MB at 128 kbps) and gives players natural chapter navigation. Tracks carry title,
-album, track number and the title card as cover art.
+Each track is lifted straight out of the rendered chapter video with the stream copied, not
+re-encoded, so the audiobook is bit-for-bit the film's soundtrack -- narration, dialogue,
+music and effects, already mastered to -15 LUFS. Taking it from the video also means the
+audiobook does not need the chapter mixes, which are deleted as the render consumes them to
+keep the session's disk inside its allowance. One file per chapter gives players natural
+chapter navigation and keeps every track inside the file-transfer limit; a chapter whose
+copied track would exceed it is the one that gets re-encoded, at --bitrate. Tracks carry
+title, album, track number and the title card as cover art.
 
 Usage: python3 pipeline/audiobook.py [--bitrate 128k] [--jobs 3]
 """
@@ -20,6 +23,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'out', 'audiobook')
 ALBUM = 'UMBRELLA: What If Hitler Was Reborn as Albert Wesker'
+LIMIT = 29 * 1024 * 1024  # the file-transfer ceiling a single track has to fit under
 PARTS = {'I': 'One', 'II': 'Two', 'III': 'Three', 'IV': 'Four', 'V': 'Five', 'VI': 'Six'}
 
 
@@ -42,7 +46,6 @@ def safe(name):
 
 def encode(job):
     ch, title, part, art, bitrate = job
-    src = os.path.join(ROOT, 'work', f'ch{ch:02d}', 'mix.wav')
     dst = os.path.join(OUT, f'{ch:02d} - {safe(title)}.m4a')
     tmp = dst + '.part.m4a'
     meta = ['-metadata', f'title=Chapter {ch}: {title}', '-metadata', f'album={ALBUM}',
@@ -50,10 +53,23 @@ def encode(job):
             '-metadata', f'track={ch}/50', '-metadata', 'genre=Audiobook']
     if part:
         meta += ['-metadata', f'comment=Part {PARTS[part[0]]}: {part[1]}']
-    subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', src, '-i', art,
-                    '-map', '0:a', '-map', '1:v', '-c:a', 'aac', '-b:a', bitrate,
-                    '-c:v', 'mjpeg', '-disposition:v', 'attached_pic', *meta,
-                    '-movflags', '+faststart', tmp], check=True)
+    mix = os.path.join(ROOT, 'work', f'ch{ch:02d}', 'mix.wav')
+    video = os.path.join(ROOT, 'out', 'video', f'ch{ch:02d}.mp4')
+    src = mix if os.path.exists(mix) else video
+    # The video's track is already the mastered mix as AAC; copying it avoids a second
+    # generation of lossy encoding. Only a mix, which is still WAV, has to be encoded.
+    codec = ['-c:a', 'aac', '-b:a', bitrate] if src == mix else ['-c:a', 'copy']
+    cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', src, '-i', art,
+           '-map', '0:a:0', '-map', '1:v', *codec,
+           '-c:v', 'mjpeg', '-disposition:v', 'attached_pic', *meta,
+           '-movflags', '+faststart', tmp]
+    subprocess.run(cmd, check=True)
+    if os.path.getsize(tmp) > LIMIT:
+        # Too big to send as one file: re-encode this chapter down instead of copying.
+        cmd[cmd.index('-c:a') + 1:cmd.index('-c:a') + 2] = ['aac']
+        if '-b:a' not in cmd:
+            cmd[cmd.index('-c:a') + 2:cmd.index('-c:a') + 2] = ['-b:a', bitrate]
+        subprocess.run(cmd, check=True)
     os.replace(tmp, dst)
     return dst
 
