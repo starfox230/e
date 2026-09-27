@@ -6,3 +6,4 @@ out/*.mp4
 *.log
 __pycache__/
 out/_concat*.txt
+out/preview/
