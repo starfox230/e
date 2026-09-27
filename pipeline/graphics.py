@@ -80,12 +80,16 @@ def system_panel(title, lines):
     """Return (panel RGBA, list of text-row boxes (x0, y0, x1, y1) for the type-on reveal, text RGBA layer)."""
     ft = font('mono_b', 40)
     fl = font('mono', 32)
-    pad, width = 50, 1060
+    # 1060 was narrow enough that a third of the Shop's rows wrapped mid-number; the panel is
+    # centred in a 1920 frame, so 1320 still leaves a 300 px margin either side
+    pad, width = 50, 1320
     probe = ImageDraw.Draw(Image.new('RGBA', (10, 10)))
     rows = []
     for ln in lines:
         if ':' in ln and not ln.endswith(':'):
-            k, v = (x.strip() for x in ln.split(':', 1))
+            # split at the last colon, so "Immunity: Vacuum, short exposure: 900,000,000"
+            # puts the price in the value column rather than the middle of the label
+            k, v = (x.strip() for x in ln.rsplit(':', 1))
             # a "Label: value" line is a ruled row when label and value fit side by side with
             # room for the leader dots; judged in pixels, since Shop items run long
             if len(k) <= 44 and probe.textlength(k, font=fl) + probe.textlength(v, font=fl) + 60 <= width - 2 * pad:
