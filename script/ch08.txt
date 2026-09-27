@@ -1,159 +1,171 @@
-# 8 | Verdant Axis
+# 8 | Arklay
 
-[music] m_tension -8
-[amb] amb_office_hum
-[img] a legal complaint document with a court seal of the Delaware Court of Chancery on a desk, stamped FILED, harsh office light, cinematic
-[loc] December 2026
-N: Graham Tolliver struck back in the first week of December, and he struck the way frightened rich men always strike: with lawyers, with money, and with gossip, all at once.
-N: The lawyers came first. A complaint filed in the Delaware Court of Chancery, forty-one pages long, alleging that Doctor Albert Wesker had induced Verdant Axis to sign the archive licence through fraudulent oral representations of exclusivity. It was a weak case. Everyone who read it knew it was a weak case. It was not meant to win. It was meant to cost.
-[img] a crisp job offer letter on expensive letterhead with a large salary figure highlighted, lying on a lab bench beside a pipette, cinematic macro
-N: The money came second. On the same Tuesday, two members of Umbrella's staff received job offers from Verdant Axis. Tomás Reyes was offered a senior technician's role at nearly twice his salary. Evelyn Marsh was offered a position as associate director of research, with her own lab, her own budget, and a signing bonus larger than everything she had earned in the previous three years combined.
-[img] {EVELYN} at her desk calmly forwarding an email with a single word typed in the reply box, NO, cinematic
-N: Evelyn forwarded hers to the Director within four minutes of receiving it. She added one word above it.
-N: No.
-[pause 0.8]
-N: Tomás did not forward his.
-[pause 1.0]
-[img] {TOMAS} sitting alone in his parked car in a lot at night, staring at a phone showing a job offer and a student loan balance, conflicted, cinematic
-N: He sat in his car in the parking lot that evening for forty minutes, looking at the offer, and at the banking app that told him he still owed a hundred and six thousand dollars for a degree in biology he had been told would change his life. He liked Umbrella. He liked the Director, in the way you like a thunderstorm. But a hundred and six thousand dollars is a very specific number, and it does not care what you like.
-[sfx] sfx_door_knock g-6
-N: At nine o'clock there was a knock on his car window. He jumped so hard he hit his head on the roof.
-[img] {WESKER} standing beside a car window at night in the rain, sunglasses on, holding a folded sheet of paper, {TOMAS} inside looking up startled, cinematic
-N: The Director was standing in the rain, beside the car, holding a folded sheet of paper. He had no umbrella. He did not seem to be getting wet in any way that bothered him.
-WESKER: Roll the window down, Tomás.
-TOMAS: I — Doc, I was going to tell you, I swear —
-WESKER: I know. Read this.
-[img] a folded letter with a job title HEAD OF DIGITAL and a loan repayment clause, raindrops on the paper, macro, cinematic
-N: It was a letter. It gave Tomás Reyes a new title, head of digital, which did not yet mean anything. It gave him a salary exactly one dollar higher than Verdant's. And it contained a clause, drafted by Pell, under which Umbrella would pay off the full balance of his student loans over three years, provided he was still employed at the end of each one.
-TOMAS: This is — Doc. This is more than —
-WESKER: Verdant is offering you a job. I'm offering you a job that doesn't exist yet. There's a difference. One of them has a ceiling.
-[pause 0.8]
-N: Tomás signed it on the steering wheel, in the dome light, with a pen the Director handed him. The ink ran a little in the rain.
-N: It was, the Director would later calculate, the cheapest loyalty he ever bought with money. Every other kind he bought with something worse.
-[pause 1.2]
-
-[music] m_scheme -8
-[img] an online financial forum and social media feed filled with rumors about a Chinese-linked biotech, anonymous posts, thumbnails, cinematic
-N: The gossip came third, and it was the cleverest. Someone at Verdant had noticed the Shenzhen licence, and by the middle of December, a certain kind of website had begun to ask a certain kind of question: who was this Albert Wesker, with no American history, who had appeared from nowhere, and sold American biological samples to a company in China?
-N: The second voice broke in.
-ADOLF: That is good work. He is making you foreign. It is the oldest trick there is.
-WESKER: You'd know.
-N: The voice inside him, without warmth.
-ADOLF: (cold) I would. And I know how it ends when you do nothing about it.
-WESKER: I'm not going to do nothing. I'm going to let someone else do something.
-[pause 1.5]
-
-[music] m_tension -6
-[amb] amb_office_hum
-[img] {HANNAH} in a newsroom at dawn, a front page on her screen with a bold headline about a biotech trial and a CEO's family ties, coffee in hand, triumphant and exhausted, cinematic
-[loc] Thursday, 17 December, 6:00 a.m.
-N: Hannah Price's story ran on the seventeenth of December.
-N: It was the best piece of journalism the Wilmington Ledger had published in a decade, and she had checked every line of it three times, because she knew who had pointed her at it, and she was determined that nothing in it would be his.
-N: Nothing in it was. Every fact was her own. The three trial sites with impossibly low dropout rates. The Maryland clinic network that ran them. The limited partnership that owned the network. And the general partner of the limited partnership: Curtis Vane, brother-in-law of Graham Tolliver, who had been paid four point two million dollars in trial fees over two years, and who had, according to three former nurses Hannah had found in two weeks of phone calls, quietly removed patients from the study who were not responding to the drug.
-[img] a stock trading screen with a biotech ticker plunging in a steep red line, minus sixty percent, alarms, cinematic
-[sfx] sfx_phone_ring g-8
-N: By noon, the story had been picked up by two national wire services. By one, the Food and Drug Administration had announced that it was, quote, reviewing the data. By the close of trading, Verdant Axis Therapeutics had lost sixty-one percent of its value.
-[img] {TOLLIVER} in a glass corner office staring at a wall of screens showing his stock collapsing, one hand over his mouth, dusk light, cinematic
-N: Graham Tolliver watched it happen from his corner office, on four screens, with his hand over his mouth. At four o'clock his general counsel came in and closed the door. At four-fifteen, his wife called to ask why her brother was not answering his phone.
-[pause 1.0]
-[img] {WESKER} standing calmly at a third-floor window of an old brick building looking across a grey river at a distant glass tower, hands behind his back, dusk, cinematic
-N: Across the river, in a corner office with a water stain shaped like Florida on the ceiling, Albert Wesker watched the same line fall on a nine-year-old monitor, and did not smile.
-N: Smiling was for amateurs. He was doing arithmetic.
-[pause 1.5]
-
-[music] m_scheme -6
-[img] a sleek hedge fund office high above Manhattan at night, a woman analyst alone at a desk surrounded by screens, city lights, cinematic
-[amb] amb_night_city
-N: The arithmetic was simple, and it was impossible. At the close on the seventeenth, the whole of Verdant Axis — its glass building, its hundred and forty employees, its laboratories, its drug pipeline, and ninety million dollars in cash — could be bought on the open market for about a hundred and seventy million dollars.
-N: Umbrella had two million.
-N: He was still considering the problem at ten o'clock that night when his phone rang, from a number in Manhattan he did not know.
-[sfx] sfx_phone_ring
-CATHERINE: (phone) Doctor Wesker. My name is Catherine Adeyemi. I'm a partner at Keel Harbour Capital. We specialise in distressed life sciences. I won't keep you long. I only have one question.
-WESKER: Go on.
-CATHERINE: (phone) You wrote that article, didn't you?
-[pause 1.2]
-[img] {CATHERINE} at a glass desk in a dark Manhattan office holding a phone to her ear, a printout of a newspaper article in front of her, sharp and amused, cinematic
-N: He did not answer immediately. It was the first time in three months that a question had arrived before he expected it.
-WESKER: Hannah Price wrote that article. It's very good.
-CATHERINE: (phone) Hannah Price wrote it. You aimed it. Your company signs a licence with Verdant in September. Verdant tries to take your building in October. Tolliver's lawyers sue you in December. And three weeks later, a local reporter nobody's heard of finds a four-million-dollar family scheme buried in a clinic network in Maryland. I've been doing this for fifteen years, Doctor Wesker. Nothing in this business happens three weeks later by accident.
-WESKER: And if I did?
-CATHERINE: (phone) Then I'd like to buy you a very expensive dinner and discuss how you intend to pay for the rest of the company you've just broken.
-[pause 1.5]
-
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] {CATHERINE} walking into a shabby research building lobby in a sharp charcoal suit and long coat, looking around with raised eyebrows, {HALE} at the security desk, cinematic
-[loc] Monday, 21 December
-N: She came to Wilmington herself, on the Monday, on the eight o'clock train.
-N: Catherine Adeyemi was thirty-eight, born in Lagos, raised in South London, educated at Cambridge and on the trading floors of the City, and she had left a very senior job at a very old bank after she had reported one of its partners to the regulator, and discovered what happens to people who do that. She had been at Keel Harbour for four years. She was very good at it. She was also, though she did not tell people this, very bored.
-[img] {CATHERINE} and {WESKER} facing each other across a small shabby office desk, coffee in paper cups, winter light, cinematic
-N: She looked around the lobby, and at the water stain, and at the nine-year-old monitors, and at the man in black who rose to meet her, and she said:
-CATHERINE: Well. This is either the worst investment I've ever seen, or the best one.
-WESKER: Which do you think?
-CATHERINE: I think I'll know after lunch.
-[pause 1.0]
-N: They talked for three hours. It was not the kind of meeting he was used to.
-N: The Command Presence did not work on her — or not properly. He felt it reach for her, the way a hand reaches for a railing in the dark, and he felt it slide off. The Cold-Read worked, but what it showed him was a woman reading him back with nearly the same precision: amusement, calculation, and something else, flickering in and out, that took him a long time to identify, because he had so rarely seen it aimed at himself.
-N: It was respect. And, beneath it, a small bright thread of alarm, that she was choosing — consciously, deliberately — to ignore.
-[pause 0.8]
-[img] a whiteboard covered in neat financial calculations, a share structure diagram, arrows to a glass building labelled VA, a hand holding a marker, cinematic
-CATHERINE: Here's the structure. Keel Harbour lends Umbrella sixty million on a bridge, secured against your archive licences and the building, at a rate I'll describe to my partners as punitive and you'll describe to your staff as generous. You buy just under five percent of Verdant on the open market this week, quietly, below the reporting line. Then you cross it, file, and in January you launch a tender for control at a premium to a price that's still on the floor. The board will be desperate. Half of them will be facing shareholder suits over the trial data. You offer them a clean exit. They take it.
-WESKER: And Tolliver?
-CATHERINE: Tolliver is a man whose brother-in-law is about to be indicted. Tolliver is not your problem. Tolliver is his own problem.
-[pause 0.8]
-WESKER: And what do you want?
-CATHERINE: Three things. If it closes, I want to be your chief financial officer. I want equity. And I want to know, at all times, where the money actually goes.
-[pause 1.0]
-N: He looked at her for a long moment.
-N: The Adolf half of him did not like her at all. She was clever, and she was not afraid, and the old voice noticed — with the reflexes of the poison it had once preached — that she was not the kind of person it had ever allowed at its table. Wesker noticed it noticing, and found it contemptible. Not as a matter of morality, which interested him very little. As a matter of intelligence. And the Wesker half understood what he was being offered — a first-rate financial mind who could not be summoned, could not be ordered, and could therefore do the one thing none of his loyal purchases ever could.
-N: She could tell him when he was wrong.
-WESKER: Done.
-CATHERINE: Just like that?
-WESKER: I don't negotiate with people I've already decided to hire.
-[pause 1.0]
-N: She laughed — a short, surprised laugh — and shook his hand. His grip was very cool. She noticed that, too, and filed it with the other things she was deciding not to think about.
-N: He had agreed to all three of her conditions. He would honour two of them.
-[pause 1.5]
-
-[music] m_horror -10
-[amb] amb_basement
-[amb+] amb_cryo -6
-[img] two middle-aged men in dark jackets with flashlights and a camera forcing a basement fire door of an old brick building at night, cinematic
-[loc] Tuesday, 22 December, 2:40 a.m.
-N: Graham Tolliver's last move was the stupidest one, and he made it the night after Catherine Adeyemi's visit.
-N: He had heard, from Dale Kuchar, a rambling story about a machine in a basement that had not been there before. He had decided — in the way that desperate men decide things at two in the morning — that if he could prove Umbrella was running an unlicensed biological facility, he could take the whole thing to the state and bury it. So he paid two retired police officers who did private work, and they went to the building, and they forced the basement fire door with a pry bar at two-forty in the morning.
-[img] a dark basement corridor lit by two flashlight beams sweeping across rows of old freezers toward a huge grey machine in the corner, dust, cinematic
-[sfx] sfx_footsteps g-10
-N: They had flashlights and a camera. They found the freezers. They found the grey unit in the corner, breathing.
-N: One of them lifted the camera.
-[pause 1.0]
-[sfx] sfx_whoosh g-8
-[img] {HALE} and {GUS} standing silently in the dark directly in front of two startled men with flashlights, faces half-lit, utterly calm, uncanny, cinematic
-N: Hale was standing in front of him.
-N: Neither man had heard him arrive. Neither man had heard Gus, either, who was standing two feet to Hale's left, holding a mop, with an expression of mild professional interest. Neither of them blinked.
-HALE: Good morning, gentlemen.
-[pause 1.2]
-N: What happened in the next four minutes, the two men never told anyone. Nobody was hurt. The Director had been very clear about that, and Hale did not do things he had not been told to do. There was no violence. There were only four minutes in a dark basement with two men who did not blink, and a machine that breathed, and — one of the men would say, years later, drunk, to a bartender in Arizona who did not believe him — a small frosted window in the side of the machine, through which, for a moment, something had looked back.
-[sfx] sfx_tyrant_growl g-18
-[pause 1.0]
-N: They left without the camera. Both of them resigned from private work the next morning. One moved to Arizona. The other joined a church.
-N: Neither of them ever called Graham Tolliver again.
-[pause 1.5]
-
-[music] m_scheme -6
-[amb] amb_office_hum
-[img] {WESKER} standing in front of a Christmas-lit window in a dark office on a phone, the city beyond, calm, cinematic
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Rival exposed — Verdant Axis: 2,500
-Enemy incursion repelled: 1,000
-Personnel retained under pressure: 600
-Strategic ally acquired — Catherine Adeyemi: 1,500
-Total: 5,600
-Points: 7,800
-[say] Assessment. Five thousand six hundred Points.
+[music] m_system -5
+[amb] amb_office_hum -16
+[img] {WESKER} alone in a dark office before a tall glowing crimson holographic panel, dramatic backlight, night
+[loc] Division Seven — 6 May 2027, 12:01 a.m.
+[sfx] sfx_level_up +0.1
+[system] TIER II — COMPANY
+Umbrella Life Sciences, Inc.
+Points: +25,000 · Balance: 62,000
+Territory tab: unlocked
+Company banner: available
+Shop: 211 new items
+[say] Tier two. Company. Umbrella Life Sciences, Incorporated. Twenty-five thousand Points. Balance, sixty-two thousand. Territory tab unlocked. The Company banner is available. Two hundred and eleven new items in the Shop.
 [/system]
-N: On Christmas Eve, Umbrella filed with the Securities and Exchange Commission that it had acquired five point two percent of Verdant Axis Therapeutics, and intended to seek control.
-N: On Christmas Day, Graham Tolliver read the filing at his dining table, in front of his wife, and his children, and his brother-in-law's empty chair, and understood, at last, who he had been fighting.
-[pause 3.0]
+N: Eight months. From a chair in an empty office to the second tier of six, in eight months, with a balance of sixty-two thousand Points and a company that employed one thousand six hundred and eleven people, three hundred and eleven of whom had been manufactured on a Saturday.
+N: He read the new tabs for two hours. Territory, which was locked at a price he could not yet reach and which made his hands very still when he read what it contained. Facilities, which now offered things with words like *secure estate* and *subsurface complex* in them. Personnel, which now offered cohorts rather than individuals.
+N: And the Company banner.
+[system] GACHA — THE COMPANY BANNER
+Ten-pull: 20,000 · one Epic or better guaranteed
+Common 41% · Uncommon 34% · Rare 19% · Epic 5.4% · Legendary 0.6%
+Legendary pool at this tier: packages. A place, and everything in it.
+[say] The Company banner. Ten-pull, twenty thousand, with one Epic or better guaranteed. Legendary pool at this tier: packages. A place, and everything in it.
+[/system]
+WESKER: (soft) A place, and everything in it.
+SYSTEM: Yes.
+WESKER: Twenty thousand.
+SYSTEM: You have sixty-two.
+N: And Albert Wesker, who had emptied his pockets in September and emptied them again in March, looked at a balance of sixty-two thousand Points and did the arithmetic of a man who has finally worked out what game he is playing.
+WESKER: (cold) Sixty. Three pulls of ten, then a fourth. If the fourth is junk I will still be the only man on this planet who can afford to be disappointed by a miracle.
+
+[music] m_hi -4
+[img] rings of coloured light spinning above a desk in a dark office, grey green and blue glows, a man in black watching, dramatic
+[sfx] sfx_gacha_spin +0.1
+N: The first ten took four minutes.
+[sfx] sfx_gacha_common +0.2
+N: Commons: two research associates, a fleet of vehicles, a cold-chain shipping contract, an industrial autoclave. Uncommons: a *Rapid Assay production licence for the European Union*, which Pell would later describe as the single most valuable piece of paper in the building; a cohort of six security officers; a patent portfolio in protein chemistry.
+[sfx] sfx_gacha_rare +0.3
+N: Rare, in blue: a second Tyrant, T-103, cradled. It went into B4 beside the first, and Gus filed the service tag without being asked.
+N: Rare again: **Ocular Control.** A small thing, and the only item in three hundred pulls that made him genuinely grateful — the ability to keep his eyes ordinary when the virus wanted otherwise. He had worn the glasses for eight months for a reason.
+N: The second ten: junk, mostly. The third ten produced the guaranteed Epic.
+[music] m_lo -6
+[img] a glowing violet holographic panel showing a chemical structure, floating in a dark room
+[system] EPIC — ANTI-SERUM BLUEPRINT LINE
+A universal countermeasure platform for engineered pathogens
+Note: this item exists because you will need it.
+[say] Epic. Anti-Serum Blueprint Line. A universal countermeasure platform for engineered pathogens. Note: this item exists because you will need it.
+[/system]
+WESKER: Explain that note.
+SYSTEM: No.
+N: He asked four more times over the following eleven years. The answer did not change.
+N: And then he spent the last twenty thousand.
+[sfx] sfx_gacha_spin +0.2
+N: Nine commons. Grey, grey, grey — a reagent lot, a service contract, three technicians, an office lease in Dover he did not need — and Wesker was already reaching for the panel to close it when the room turned gold.
 [music] stop
+[pause 0.8]
+[sfx] sfx_gacha_gold +0.1
+[music] m_triumph -3
+[img] a dark office flooded with golden light from an enormous floating holographic panel, a man in a black coat standing in it, dramatic
+[system] LEGENDARY
+THE ARKLAY ESTATE
+[say] Legendary. The Arklay Estate.
+[/system]
+N: The panel did not scroll. It unfolded, line by line, and the System took its time, because the System had a sense of theatre that it would never admit to.
+[system] THE ARKLAY ESTATE — PACKAGE
+Residence: 61 rooms, Allegheny forest, western Pennsylvania
+Subsurface complex: nine levels · BSL-4 throughout · containment hall · cryogenic hall
+Power: dedicated · Water: dedicated · Access: private road, helipad, rail spur
+Security detachment: 24, Absolute
+Research staff: 41, Absolute
+Senior personnel: Dr. William Birkin · Dr. Annette Birkin
+Sealed vault, level nine: PROGENITOR — not yet
+[say] The Arklay Estate. A residence of sixty-one rooms in the Allegheny forest of western Pennsylvania. A subsurface complex of nine levels, B S L four throughout, with a containment hall and a cryogenic hall. Dedicated power. Dedicated water. A private road, a helipad and a rail spur. A security detachment of twenty-four, Absolute. Research staff of forty-one, Absolute. Senior personnel: Doctor William Birkin. Doctor Annette Birkin. Sealed vault, level nine: Progenitor. Not yet.
+[/system]
+[pause 1.2]
+N: The narrator will now describe the only time in sixty-five years that Albert Wesker sat down twice.
+N: He read the last four lines of that panel standing up. Then he read the two names again. Then he put one hand on the back of the leather chair, and turned it, and sat in it, and did not say anything at all for a minute and ten seconds.
+ADOLF: (soft) Who are they?
+N: And for once — the only time, in the entire record — he answered honestly and immediately.
+WESKER: They are dead. They died in a city I destroyed, in a world that is not this one, thirty years ago and eighteen years from now.
+ADOLF: Friends?
+WESKER: (cold) No. Nothing so useful. Will was the only mind I have ever met that I could not simply out-work. He was a genius, he was a child, and he betrayed me, and I betrayed him, and both of us thought we had planned it. Annette hated me accurately for eleven years.
+ADOLF: And the machine has simply given them back to you.
+WESKER: (soft) No. It has *issued* them to me. That is not the same thing, and I intend to keep the difference in front of me for as long as I live.
+
+[music] m_dawn -6
+[amb] amb_wind -14
+[img] a vast stone mansion at dawn in a deep forest of pines, mist in the valley, a private road winding up to iron gates
+[loc] Allegheny Forest, western Pennsylvania — 7 May, 6:20 a.m.
+N: He flew out at first light.
+N: The helicopter came in over eleven thousand acres of Pennsylvania pine, over a private road that the state highway department's map showed as an unimproved service track maintained by a timber trust since 1969, and over a gate with a crimson iris on it.
+N: And then the house.
+N: Grey stone, three wings, sixty-one rooms, a slate roof steep enough to shed a winter, and a carriage sweep in front of it with the gravel raked. Ivy on the west face, established — twenty years of ivy. A garage with four cars in it. Smoke from a chimney, because somebody had lit a fire that morning, because somebody lived there.
+N: It was not his house from the other world. It was not the Spencer mansion; it did not have the staircase, or the water treatment plant hidden in the hillside, or the thousand-yard gallery of a dead man's vanity. It was a plain, enormous, unpretentious stone house in the wrong forest in the right decade.
+N: And the way he looked at it, from the air, for ninety seconds, is the only thing in this account the narrator cannot tell you with certainty, because his face was turned away from the only other person in the aircraft.
+[sfx] sfx_door_open +0.3
+[img] {BIRKIN} in a rumpled white lab coat coming down stone steps talking excitedly, a stone mansion behind him, morning light
+[loc] The carriage sweep
+N: William Birkin came down the steps before the rotors had stopped, in a lab coat he had slept in, holding a tablet, talking.
+BIRKIN: (fast) Albert. Albert — good, you're here, I need eleven minutes and then you can do whatever it is you came to do. The cryogenic hall's drawing four per cent over spec and Annette says it's the chillers but it isn't the chillers, it's that somebody plumbed the return on level six through the same riser as the containment scrubbers, which works, which is the problem, because it works until it doesn't and then we lose forty years of stock in an afternoon —
+N: He stopped, because he had finally looked up.
+BIRKIN: You look strange. Are you ill? You're never ill.
+N: Wesker stood on the gravel in front of a man who had been dead for eighteen years in a world that no longer existed, who was talking to him about a chiller riser.
+WESKER: (soft) How long have you worked for me, Will?
+BIRKIN: (fast) Six years. Seven in August. Why? Is this an audit thing? Annette said there'd be an audit thing.
+WESKER: No.
+BIRKIN: Good, because I have seven hundred and forty samples in level nine that I would rather not explain to an auditor. Can I show you the chiller?
+N: And Albert Wesker — who had tested Marguerite's obedience with a threat to break her finger, who had priced a man's destruction in a boardroom eleven days earlier and enjoyed it — said:
+WESKER: Yes. Show me the chiller.
+N: He spent four hours down there. Not one of them on the chiller.
+[img] {ANNETTE} in a white lab coat standing in a doorway with arms folded, cold expression, corridor of a laboratory
+N: Annette Birkin met him at the level-three airlock with her arms folded and a look he remembered so precisely that he had to take a half-second to arrange his own face.
+ANNETTE: You've never come here unannounced before.
+WESKER: I own it.
+ANNETTE: You own a great many things you don't visit. Whatever you've come to take, take it, and don't let him give you level nine.
+WESKER: Why not?
+ANNETTE: (cold) Because he'll give you anything you ask for, Dr. Wesker. He always has. Someone in this house has to say no to you, and it is not going to be him, and it is certainly not going to be the forty-one people downstairs who agree with everything anybody says.
+N: The narrator notes that Annette Birkin was, per the System's own roster, Absolute — incapable of disobedience, incapable of doubt.
+N: And she was standing in a doorway telling him to be careful with her husband.
+N: Wesker filed that. He filed it very carefully indeed, and it is the first crack in the story of what the Absolute actually are, and it does not open again for eleven years.
+
+[music] m_horror -9
+[amb] amb_cryo -14
+[img] an enormous underground cryogenic hall with hundreds of vertical frosted cradles in rows, blue light, vast and cold
+[loc] Arklay, level seven
+N: Nine levels.
+N: Containment wings on three and four. A biologics suite on five that made Division Seven's B4 look like a school laboratory. On six, an animal facility with things in it that Voss would have needed a year of ethics paperwork to look at.
+N: And on seven, the cryogenic hall.
+N: It was the size of a cathedral nave and it was mostly empty, which was somehow worse than full. Four hundred and eleven cradles in ranks, of which nine were occupied: six by tissue banks, two by the T-103s he had shipped up that morning from Wilmington, and one — at the far end, alone, under a light that was slightly brighter than the others — by nothing at all.
+WESKER: What is that cradle for?
+BIRKIN: (soft) I don't know. It was in the drawings. It's plumbed and powered and it's rated for something a great deal heavier than a Tyrant. I've asked.
+WESKER: Who did you ask?
+BIRKIN: (fast) The System. Obviously.
+[pause 1.0]
+N: The narrator would like you to understand that in that moment, in a cold hall a hundred and forty metres under a Pennsylvania forest, Albert Wesker experienced something that he had not experienced since he had opened his eyes in a leather chair in September.
+N: He experienced surprise.
+WESKER: (very cold) Say that again.
+BIRKIN: I asked the System. The interface. The — Albert, why are you looking at me like that? It's been answering my requisitions since 2021. How else do you think I've been buying anything?
+N: He could see it. He could not perceive the Shop or the Gacha or the roster or the Points — Wesker established that within about ninety seconds, with four questions in a flat voice — but Dr. William Birkin could open a panel, request equipment, and receive it, and had been doing so for six years, and had never once thought it was strange, because nobody in that house had ever thought anything was strange.
+WESKER: (soft) You are a *terminal*.
+BIRKIN: (fast) That's rude.
+WESKER: It was not an insult.
+N: Later, on the surface, alone, he put the question to the System directly, and the System answered it in eleven words that he turned over for the next forty years.
+SYSTEM: Absolute personnel are part of the estate. You are not.
+
+[music] m_lo -6
+[img] {WESKER} standing on a stone terrace above a forest valley filled with morning fog, long black coat, alone
+[loc] The terrace — 7 May, 7:40 p.m.
+N: He stood on the terrace at dusk with the valley below him full of fog and eleven thousand acres of pine going black at the edges.
+N: Behind him, through a window, William Birkin was arguing with a screen about a chiller riser. Below him, a hundred and forty metres down, four hundred and eleven cradles were cold, and nine of them were occupied, and one was waiting for something that had not been named.
+N: Eight months ago he had woken in a chair with ten thousand Points, eleven people and a basement door that did not go anywhere.
+ADOLF: This is the part where a man says something sentimental.
+WESKER: (cold) Yes.
+ADOLF: (soft) Then say it. I will not use it against you today.
+N: And Albert Wesker, Director of Umbrella Life Sciences, Tier II, looked out over the fog.
+WESKER: Last time, there was a board of directors. There was an old man in a chateau who thought he had made me. There were eleven committees, two governments, a chain of command, and thirty years of asking permission from men I could have killed with one hand.
+WESKER: (slow) This time there is no Spencer. There is no board. There is no one above me.
+[pause 0.8]
+[sfx] sfx_system_chime +0.3
+[system] UMBRELLA — TIER II
+Director: Albert Wesker
+Personnel: 1,611 · Absolute: 87
+Facilities: 11 · Territory: none
+Next tier: AGENCY
+[say] Umbrella. Tier two. Director: Albert Wesker. One thousand six hundred and eleven personnel, eighty-seven of them Absolute. Eleven facilities. No territory. Next tier: Agency.
+[/system]
+N: *Territory: none.*
+N: He read that line, on a terrace above a valley he owned, in front of a house that had been given to him with two ghosts inside it.
+WESKER: (soft) Not for long.
+[img] a vast stone mansion at night in a dark forest, lit windows, a crimson iris emblem on the iron gate below
+N: End of Part One.

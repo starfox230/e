@@ -1,119 +1,93 @@
 # Continuity ledger
 
-Running state after each chapter. Check this before writing the next one.
+Running canon numbers. The scripts must never contradict this table. Points are cumulative earned; balance is what he has left after spending.
 
-## Level thresholds (lifetime Points earned)
-L2 1,500 · L3 4,000 · L4 9,000 · L5 14,000 · L6 20,000 · L7 27,000 · L8 35,000 · L9 45,000 · L10 60,000 ·
-L15 150,000 · L20 400,000 · L30 1.5M · L40 5M · L50 15M · L60 40M · L80 250M · L100 2B. Level-up bonus: level × 100 Points (×10 after L20, ×1000 after L50). +5 SP per level.
+## Levels, stats, Points
 
-## After Ch 1
-- L1 · Points 0 · Stability 71% (−1%/day) · Mission *The Director's Chair* (7 days)
+| Ch | Date | Level | Balance after | Key spend | Stats after |
+|---|---|---|---|---|---|
+| 1 | 14 Sep 2026 | 1 | 10,000 | — | STR 28 · AGI 34 · VIT 26 · INT 24 · PRE 16 · WIL 30 · AFF 12 |
+| 2 | Sep 2026 | 3 | 1,400 | Sublevel B4 (6,000), 2 technicians (1,200), +900 earned | INT 27 |
+| 3 | Oct 2026 | 4 | 12,900 | Rapid Pathogen Assay (2,500); +14,000 earned | INT 30 |
+| 4 | Oct 2026 | 6 | 3,600 | Ten-pull (9,000) → T-103 Tyrant; Newark Plant (12,000); +12,700 earned | AFF 16 |
+| 5 | Nov 2026 | 5→8 | 9,800 | Command Presence I (5,000); +21,000 earned | PRE 16→21, INT 33 |
+| 6 | Nov 2026 | 10 | 6,200 | Campus, four buildings (38,000); +34,400 earned | PRE 21 |
+| 7 | Dec 2026 | 12 | 46,000 | — ; Verdant Axis acquired +40,000 | INT 36 |
+| 8 | Dec 2026 | 15 | 62,000 | Tier II reward 25,000; ten-pull 20,000 → **Arklay Estate** (Legendary), Birkins | AFF 20 |
+| 9 | 2027 | 20 | 1.4M | Aeterna launch; valuation $61B | INT 42 |
+| 10 | Oct 2027 | 28 | 190,000 | **Raccoon City** (1.5M); +250,000/quarter devotion income | WIL 38 |
+| 11 | 2027 | 32 | 700,000 | U.S.S. doctrine pull (Epic, HUNK) | — |
+| 12 | 2028 | 38 | 900,000 | Four Umbrella Towers (4M) | INT 50 |
+| 13 | Mar 2028 | 44 | 1.6M | Basel keynote: +900,000 | PRE 21→34 |
+| 14 | 2028 | 47 | 2.1M | Mundane Immunity (hidden mission) | VIT 44 |
+| 15 | 2028 | 50 | 3.0M | Intelligence tab unlocked | INT 56 |
+| 16 | Dec 2028 | 55 | 11M | Tier III; twenty-pull (Antarctic Facility, ORIGIN ampoule sealed) | AFF 24 |
+| 17 | 2029 | 58 | 13M | Mission *Indispensable* +2M | — |
+| 18 | 2029 | 62 | 13.4M | Carrick recruited +500,000 | INT 62 |
+| 19 | 2029 | 60→66 | 14M | — | PRE 34→46 |
+| 20 | 2029 | 70 | 15M | Asset Network I | — |
+| 21 | 2030 | 78 | 20M | Viral Dominion I | AFF 28 |
+| 22 | 2030 | 84 | 24M | — | INT 70 |
+| 23 | 2030 | 90 | 21M | Rockfort + Antarctic build-out | AFF 28 |
+| 24 | Dec 2030 | 100 | 60M | Tier IV; fifty-pull → **U.S.S. First Division** (Legendary) | WIL 50 |
+| 25 | 2031 | 120 | 72M | Halvorsen Pike absorbed +12M | INT 84 |
+| 26 | 2031 | 135 | 90M | Aegis Dynamics absorbed | — |
+| 27 | 2032 | 150 | 120M | Lumen → **Red Queen** (Legendary) | INT 96 |
+| 28 | 2032 | 165 | 150M | Pale Horse (deterrent, never used) | AFF 34 |
+| 29 | 2032 | 180 | 210M | Helios fusion plants | — |
+| 30 | 2033 | 195 | 300M | Protectorates | PRE 58 |
+| 31 | 2033 | 210 | 400M | **The Arcology** (250M) | WIL 60 |
+| 32 | Dec 2033 | 230 | 900M | Tier V; **ORIGIN opened**, Affinity 40 | AFF 40, STR 60, AGI 70, VIT 64 |
+| 33 | 2034 | 240 | 1.1B | Directorate | PRE 66 |
+| 34 | 2036 | 255 | 1.4B | Progenitor Initiative: the Matriarch | AFF 46 |
+| 35 | 2038 | 265 | 1.6B | — | INT 120 |
+| 36 | 2038 | 280 | 3.0B | Coalition war won in 36 hours | WIL 74 |
+| 37 | 2039 | 300 | 5.0B | The Accord +2B | PRE 80 |
+| 38 | 2041 | 320 | 6.0B | The chant; the voices fuse | PRE 90 |
+| 39 | 2043 | 340 | 8.0B | Aeterna Two, free to all | — |
+| 40 | 2045 | 360 | 10B | — | INT 150 |
+| 41 | 2046 | 400 | 14B | **BEYOND** tab; first void hull | AFF 55 |
+| 42 | 2046 | 420 | 9B | **Dock One** (10B); Tier VI | — |
+| 43 | 2047 | 440 | 12B | Tollhouse ship bought | INT 180 |
+| 44 | 2052 | 480 | 20B | The fleet | — |
+| 45 | 2061 | 520 | 30B | Veth summit | WIL 100 |
+| 46 | 2068 | 560 | 40B | Choir war | AFF 70 |
+| 47 | 2074 | 590 | 45B | The Myriad; first defeat | — |
+| 48 | 2079 | 640 | 60B | Viral Dominion IV | AFF 90 |
+| 49 | 2086 | 700 | — | Progenitor ascension | beyond scale |
+| 50 | 2091 | — | — | — | — |
 
-## After Ch 2 (Fri 18 Sep 2026)
-- Umbrella Research Division Seven LLC (Delaware) owns the division, archive, IP, lease, and the UMBRELLA trademark worldwide.
-- Verdant Axis paid $1.2M for a **non-exclusive** licence; Fenwick (Harrow & Lisle) got $400k.
-- L2 (lifetime 1,500) · +3 INT, +2 HP → STR 34 · SPD 38 · INT 25 · DEF 26 · HP 32 · CHA 24 · SPE 6 · Points 1,700 · Stability 66%.
-- Evelyn: seen (her paper). Nadia: suspicious, didn't clap. Dana: announced the rescue.
+## Roster milestones
 
-## After Ch 3 (Fri 25 Sep)
-- Bought Prototype Stabilization I (1,000): decay halted at **65%**. Bought Comptroller **Pell** (700). Points 0.
-- Cash $481k + $290k receivable (UK claim) + R&D tax credit filed.
-- Lessing has the Control Seven data on a blue USB drive on his keychain.
-- Evelyn at the piano plays the motif; asks to help: "Not yet."
-- Landlord problem opens (Kuchar).
+| Ch | Roster |
+|---|---|
+| 1 | 11 Absolute (Hale +2 officers, Gus +1, Pell, Voss +3 scientists, Marguerite) |
+| 2 | 13 Absolute |
+| 4 | 22 Absolute · 311 integrated (Newark Plant) · 1 Tyrant |
+| 5 | +Evelyn (human, 61%) +Catherine (human, 22%) |
+| 8 | +Arklay: 41 research staff, security detachment, Birkin, Annette |
+| 10 | 100,000 citizens (Raccoon City) |
+| 11 | U.S.S. founded; HUNK |
+| 16 | 140,000 employees |
+| 24 | U.S.S. First Division: 6,000 soldiers, 40 Tyrants |
+| 27 | Red Queen |
+| 31 | 400,000 citizens of the Free Territory |
+| 42 | Umbrella Directorate: eleven directors |
 
-## After Ch 4 (early Oct)
-- Points awarded: debt recovery 600, restructuring 400, tax credit 300, staff morale 500, rival outmanoeuvred (Verdant Axis silent about the clause) 1,200 → lifetime 4,500 → **L3** (+300, +5 SP → CHA +3, SPE +2). CHA 27, SPE 8.
-- Gacha ×3 (3,000): Common **Gus** (maintenance, summoned); Rare **Microexpression Cold-Read**; Legendary **Tyrant T-00 in cryo-cradle** (basement, disguised as an "Arcturus Climate Systems TX-00" industrial HVAC unit). Points 300.
-- Landlord Kuchar: Verdant Axis offered him double rent; the lease's change-of-control clause gives Umbrella 60 days. He photographed the new unit's service tag.
-- Cold-Read on Lessing: guilt, hunger, theft.
+## Human loyalty
 
-## After Ch 5 (mid Oct)
-- Second non-exclusive archive licence sold to the Shenzhen CRO ($1.5M). Building bought from Kuchar for $2.9M ($1.5M down, seller note), with a right of first refusal on his two adjoining lots (section nine).
-- Points: territory 1,500 + landlord 800 + pre-empt 300 = 2,600 → bought **Hale** (2,000). Then press redirected 700 + regulator 400 → **Points 2,000**. Lifetime 8,200 (L3; L4 at 9,000).
-- Hale: never blinks, never looks at the door. Dana calls him "Mister Hale". Walter: "nobody home but the orders."
-- Delgado's DNREC report: exemplary; solvent store fixed; complaint closed. (FBI finds it in ~4 years.)
-- Hannah Price met Wesker at the Hollywood Diner; he pointed her at Verdant Axis's Phase II dropout pattern (3 of 9 sites). Her notebook: "Who is he." Hale watched her.
+| Character | First | Path |
+|---|---|---|
+| Evelyn Marsh | Ch 5, 61% | 78% (Ch 9) · 96% (Ch 14) · Absolute in all but the System's wording (Ch 23) · Matriarch (Ch 34) |
+| Catherine Adeyemi | Ch 5, 22% | 54% (Ch 9) · 70% (Ch 15) · 81% (Ch 31) · refuses longevity, dies (Ch 40) |
+| Owen Carrick | Ch 18, 34% | 66% (Ch 21) · 88% (Ch 30) |
+| Martin Sloane | Ch 20, 40% | 75% (Ch 28) |
 
-## After Ch 6 (late Oct – Nov 2026)
-- Lessing's preprint + email to Simon Ferris (Verdant VP of research) deleted by Lessing himself; blue drive crushed; analyzer memory wiped ("firmware update", Gus's ticket); Tomás's written note says Control Seven was a failed calibration. Lessing saw the eyes and heard the cryo "breath". Converted by fear; not loyal. Adolf: "We shall see who is right about Howard Lessing." (Pays off Ch 18–19.)
-- Points: traitor contained 1,200 + evidence 600 → lifetime 10,000 → **L4** (+400). INT 28, DEF 28. Points 4,200.
-- Hannah: Verdant's 3 good sites belong to a clinic network whose GP is **Curtis Vane**, Tolliver's brother-in-law.
-- Evelyn envies Lessing's "revelation".
+## Fixed facts
 
-## After Ch 7 (Nov 2026)
-- Tomás taught Wesker the 2026 internet ("aura farming"). Adolf: "a rally that never ends."
-- Bought **Rapid Pathogen Assay** blueprint (3,000) — documentation in Evelyn's handwriting; Evelyn leads it ("Is it now?" "It's now.").
-- Friday break-room speech: "I bought it to make it inevitable." Morale fervent +4,000; conversion 2 of 6 (Evelyn, Tomás). Lifetime 14,000 → **L5** (+500; CHA 30, SPE 10). Bought **Command Presence I** (3,500). Points 2,200.
-- Tomás's 20-second clip hit 40k views overnight; taken down; 200 downloads survive ("The First Speech", "Watch His Hands"). Nadia didn't clap (revival-tent memory, Lagos).
-
-## After Ch 8 (Dec 2026)
-- Tolliver: Chancery suit (fraudulent inducement), poaching offers (Evelyn: "No."; Tomás kept via Head of Digital + student-loan payoff clause), "Chinese front" whisper campaign.
-- Hannah's story 17 Dec: Curtis Vane paid $4.2M; nurses say non-responders removed; FDA reviewing; VA −61% (≈$170M market cap; $90M cash, 140 staff).
-- **Catherine Adeyemi** (Keel Harbour Capital partner, Lagos/South London/Cambridge, reported a partner at an old bank): $60M bridge; conditions CFO + equity + "where the money actually goes" (he'll honour two). Command Presence slides off her.
-- Tolliver's two ex-cop PIs broke into the basement 22 Dec; met Hale and Gus; left the camera; one moved to Arizona, one joined a church.
-- Points +5,600 → 7,800. Lifetime 19,600. Christmas Eve: Umbrella files 5.2% of VA.
-
-## After Ch 9 (Jan – Feb 2027) — END OF MOVEMENT I
-- Tender $4.10 (4 Jan). Vane indicted (9 Jan). Board meeting 19 Jan: Tolliver talks himself into admitting he knew; Wesker's eleven words: "You'll resign today, Graham. The only question is how you're remembered." Board 8–0.
-- Corporate conquest +41,000 → lifetime 60,600 → **L10** (bonuses +4,000). Points 52,800.
-- Stats L10: STR 37 · SPD 42 (+2 conditioning → 44) · INT 34 · DEF 30 · HP 35 · CHA 34 · SPE 13.
-- Bought **Prototype Stabilization II** (8,000) — stability 100%, permanent, serum-independent.
-- Ten-pull (9,000) in the basement: office supplies, black sedan, receptionist (Loyal), industrial coffee machine; Rare deep identity (Swiss schooling, tax returns, mother's grave near Basel — "too perfect", FBI notices in ~4 yrs), speed conditioning, **Cellular Renewal blueprint fragment 1/3**; Epic **Silent Security Squad ×6**, Epic **ARKLAY** sublevel (grade-4 containment, freight elevator that "goes nowhere"); **Progenitor Seed** (black card, sealed, NOT YET).
-- Points 35,800.
-- Signs up Feb 2027 on the VA tower (north bank) and the old building. Walter laughed. Hannah photographed them and felt cold.
-
-## After Ch 10 (Apr–May 2028... see note) — MOVEMENT II
-Note: Ch 10 is April 2027 (merger), Ch 11 June 2027 – March 2028, Ch 12 April–June 2028, Ch 13 March–June 2028, Ch 14 July 2028 – Jan 2029, Ch 15 winter 2028 – March 2029, Ch 16 spring – 14 Aug 2029.
-- Ch10: Umbrella Life Sciences Inc. (UMBR). 140 VA staff absorbed (+13,000). Pell's shells: Nevada (Arklay Holdings), Ireland (IP), Singapore (**Ashford Pacific**), Wilmington property co. (bought Kuchar's lots + one more). Tyrant moved to Arklay cold room. Silent Ones smear on cameras; **Walter's spiral notebook** begins ("Camera doesn't see him"). Catherine CFO 1 Apr 2027; saw the $11M "Arklay cold archive" line; shown the real Pell vault (1,800 Points). Nadia made Director of Virology (mother in Lagos, niece in Manchester). Points 47,000.
-- Ch11: Blueprint fragments 2+3 (24,000) → **Aeterna** (senolytic + repair; +40% healthy lifespan in mice). Trial Sept 2027, 60 volunteers >70; **Arthur Kowalczyk** (78, steelworker) walks out. Feb 2028 data; stock $11→$104; breakthrough designation in 31 days. Interview 14 Feb 2028 with anchor **Miriam Castell**: the **eleven seconds**; "This was built." "Sunglasses CEO." Tomás releases the break-room clip ("where it started"). NASDAQ bell March 2028; $3.2B secondary. +37,000 → **L12**. Points 62,300. Hannah writes "Eleven seconds".
-- Ch12 (April–June 2028): Evelyn taken below; "It's beautiful."; sees his eyes; runs the **Progenitor Initiative** (reports only to him). 4 Research Associates (3,200). Nadia photographs the Ashford Pacific manifest (24 rhesus macaques → "Sublevel A") into her "Recipes" folder. Catherine finds $140M through Ireland→Singapore→Nevada; told one third of the truth ("Manhattan Project"); "Is anyone being hurt?" "No." (true, 10 June 2028). She stays. Adolf: "Yet." The Tyrant's hand moved for Evelyn. Points 65,100.
-- Ch13 (spring 2028): 22 human recruits incl. **Imogen Carter** (Oxford), **Lukas Ammann** (Basel), **Tan Wei Lin** (Singapore), **Sir Martin Ellery** (Nobel immunologist; MND diagnosis arranged-to-be-found; arrives June 2028: "Dear God… When do I start?"). **Research Cohort ×12** (12,000). Ten-pull (9,000): pens, jet-lag immunity, exec assistant (Loyal), assay gen-2 blueprint, German/French/Mandarin fluency, **Thought Acceleration I** (60:1). Company jet (Catherine, April). Points 44,100.
-- Ch14 (July 2028 – Jan 2029): Hannah quits the Ledger for a national magazine. **Lessing's burner call** from St. Anthony's lot ("Ask him about Control Seven"; "never lets anyone see his eyes") — the first thing Hale did not see. **Rick Dorsey** (ex-cop, deacon, Lancaster Co.): "It breathed." Six weeks' access; Silent One smeared in her photos. Dinner in Philadelphia: Wesker names Lessing; "I was born in September 2026. Everything before that is paperwork." Notebook moved one inch. Profile ran January 2029 (no Control Seven, no breathing machine).
-- Ch15 (winter 2028 – March 2029): LN2 every 9 days; old building draws more power than the tower; Evelyn's 9-hour descents. Feb 2029: Evelyn's black binder — T-00 photo ("Week eighty-one"), 24 macaques: 19 deceased, 5 enhanced, "Tolerance correlates with baseline aggression. Select accordingly." Wesker refuses Adolf's threat to Nadia's family (arithmetic: martyr vs. page nine; "controlled burn"). Nadia resigns in person; he takes off the glasses; she pities him. Dana: "Be careful." March 2029: **Dr. Samira Haddad** (CDC EIS, 39) → FDA friend → "Who do you know at the Bureau?"
-- Ch16 (2029): Cambridge lab (last Umbrella Holdings asset, via Fenwick), Basel rock vault, Singapore plant (400M doses/yr). +300,000 → **L20**. Stats L20: STR 42 · SPD 50 · INT 45 · DEF 36 · HP 40 · CHA 42 · SPE 20 (2 SP held). **Boardroom Gravity** (120,000). **The Creed** (81 words; "We are the shelter… We are Umbrella."), first said in Singapore June 2029 (+90,000, "Belief — spreading"). Walter retiring Sept 2029; notebook: "They're saying it like soldiers." Subpoena served on Dana 14 Aug 2029 by **SA Owen Carrick** (FBI Philadelphia, WMD Coordinator). Points ≈ 327,300. Lifetime ≈ 500,600.
-
-## Threshold revision
-Thresholds are internal only (never on screen): L30 1.2M · L40 2.2M · L50 8M · L60 25M · L80 250M · L100 2B lifetime.
-
-## MOVEMENT III (Aug 2029 – Oct 2031)
-- Ch17 (Aug–Sept 2029): Carrick (42; wife **Laura**, science teacher; daughters 11 & 8; Media PA; unit-chief board Nov). 41,000 pages ("the wall"). Joint visit 11 Sept 2029 with Haddad: Wesker at the kerb; **The Sentinel** sculpture (resin, RI artist, commissioned April 2029) explains the T-00 photo; Evelyn explains macaques (Maryland CRO tox study; "enhanced monitoring cohort"; welfare plan §6, backdated by Pell). Elevator shows a blank plate; Delgado named. Carrick watches Hale not blink for 3:40; Hale blinks once "like a courtesy". "Good luck with the unit chief board." +35,000.
-- Ch18 (Sept–Dec 2029): Lessing calls from Maryland House rest stop; diner in Havre de Grace; CHS "**CALIBRATOR**"; ASAC **Janet Kowal**. Umbrella quashes subpoenas; Carrick loses the board (a board member courted by the Umbrella Foundation). Wesker lets Lessing wear the wire, feeds him real-but-empty leads (+40,000). Lessing's phone photos never show the black button. 18 Dec: **Simon Ferris** (now Halvorsen Pike, head of external innovation) calls Lessing about the 2026 draft (recovered from VA's server). Lessing doesn't tell Carrick.
-- Ch19 (13 Jan 2030): Halvorsen Pike via Virginia security firm; 4 operators; Lessing lets them in (paid, Cyprus account). Thermal: heat 30–40 m below. The black button lights (Wesker coming up); a Tennessee operator shoots **Lessing** (dies "satisfied" — he was right). Thought Acceleration; 3 killed inside, 4th in the lot. **Keisha Bell**'s dashcam: frames 1110–1115; **frame 1,114** = figure beside the runner; 40 m in 133 ms (≈300 m/s). Wesker calls police himself. "I'm so sorry about your informant." Assessment incl. **Deniability − 30,000**. Bought **Immunity: mundane disease & toxins** (50,000). Video posted Mon 14 Jan; 9M views by Tuesday.
-- Ch20 (Jan–Apr 2030): Quantico: file authentic; "rolling-shutter artefact". Tomás's narrative: heroic CEO, corporate espionage (leak ties intruders to a big pharma). T-shirt "don't touch his lab". Carrick finds the **too-perfect Swiss past** and the **Delgado report**; visits Delgado. April: Hannah and Carrick meet at a Philadelphia bar; share Dorsey, Arcturus ("it went somewhere").
-- Ch21 (May–Sept 2030): "the three" (Carrick, Hannah, Haddad). Carrick's 41-page memo → Kowal suggests EAP. July: senator's hearing on FBI spending ($2.3M; 141 hours overtime) → Carrick reassigned. Haddad's audit report buried at HHS (Umbrella Foundation $300M rural clinics). **Aeterna approved 18 June 2030** (Kowalczyk punches the air). +400,000 → L26. **Memory Palace** (150,000) built as the old building; Adolf given a nameless door on the 4th floor. 2 Sept 2030: **Martin Sloane** (CIA) walks in: "from the government… the other part of it."
-- Ch22 (Sept–Nov 2030): Sloane warns of Russian interest ("ghost"). **Desert Complex** (Mojave; Ashford Pacific data centre; 4 sublevels; 250,000). Tyrant moved by produce truck with Evelyn. Russians allowed to "find" it via hacked Ashford logistics. 19 Nov 2030, 2:04 a.m.: 12 ex-special-forces Russians; "Wake it."; 90 seconds; narrator declines to describe; helicopter flees to Mexico. Wesker to Adolf: "Stop." "An army of these is a war… We are ready for a market." Adolf: "But you enjoyed it." Sloane sees satellite thermal: "I want to meet it." +450,000. Families told "accident in Mali".
-- Ch23 (Jan 2031): Vauxhall Cross meeting: **Julian Ashcombe** (MI6, 54), **Katrin Mauer** (BND; 411 patents, 63 "orphans"), **Col. Lucien Ferrand** (DGSE; the 12 Russians), Dutch (Ashford ships), US liaison. Downing Street reception 29 Jan 2031: £2B Cambridge campus, 1,100 jobs; PM handshake (unnamed). Adolf: "I tried to burn this city." Ashcombe gives **Catherine a card** (knows about **Ashworth Grey**); she keeps it 2 yrs 4 months (→ ~May 2033). **Wen Shulan** (MSS deputy minister, 56) watches the eleven seconds 19×, opens file UMBRELLA ("older recordings"). **Col. Arkady Belov** (FSB, Lubyanka): photo of the 12; "tell me how to kill it."
-- Ch24 (Apr–May 2031): Haddad's air sampling of the 4th exhaust stack proves grade-4 containment. 11 Apr 2031: Gus opens the roof door; Carrick goes down; Tyrant back in Arklay since Feb 2031; Carrick fires 15 rounds; Wesker returns 15 flattened bullets ("Keep those"). Cyprus account forged in Carrick's name ($400k). Adolf: "They listened to me." Wesker feels doubt. Carrick dismissed 22 May 2031; bullets in a **jam jar** on the windowsill; Laura stays 3 more years. Haddad suspended, resigns (→ WHO later). +280,000.
-- Ch25 (June–Oct 2031): Georgetown club, Sloane's deal (classified procurement; protection from DoD/DoE/NSC). +700,000 → **L40**: STR 55 · SPD 64 · INT 60 · DEF 48 · HP 52 · CHA 55 · SPE 36. **Viral Dominion I** (500,000) — the Tyrant turns its head south in its sleep. Fort Detrick, Sept 2031: rapid-response vaccine platform (promised 9 days). Hannah finds the DoD contract line; Carrick (night security consultant, hospital in Chester): "somebody who isn't us." Points 1,332,300.
-
-## MOVEMENT IV (2032 – Sept 2035)
-- Ch26 (Jan–Apr 2032): Umbrella $600B; 41,000 staff; DoD vaccine in 8 days. **Halvorsen Pike** ($300B; Basel + NJ; 180,000 staff; founded 1892 in a barn outside Bergen; hid a lab in a fish-canning plant during the occupation). **Ingrid Halvorsen** (64, Bergen-born heart surgeon; didn't know about the break-in; apologised to Lessing's widow). Davos chalet confrontation. Bear-hug letter 3 Feb 2032 (1 UMBR : 2.5 HP, +41%, $420B). Poison pill (15%). Catherine's proxy war; she enjoys it. Tomás leaks the NJ prosecutors' Ferris files. 21 Apr: Ingrid hires Carrick.
-- Ch27 (May–Oct 2032): Chancery hearing 12 May 2032, **Chancellor Margaret Oduya**. Exhibits 19 (Carrick affidavit) and 20 (bullets). "If I could run at the speed of sound, do you imagine I would spend my afternoons in Delaware?" Removes glasses: ordinary grey eyes ("mild photosensitivity"). Footnote 14: speculative; "no view on Mr Carrick's sincerity, which it did not doubt." Vote 21 May 2032 (incl. Norway's fund). Pill redeemed; offer closed 9 Oct 2032 (81%). Blue logo down in Basel Nov 2032. +3,000,000 → **L45**; "Territory of influence — Basel". Ingrid resigns, flies to Bergen; Carrick: "Where do we start?" Ingrid: "Basel."
-- Ch28 (2032–Apr 2033): **Aegis Dynamics** ($80B drones; Arlington). DoD aerial countermeasure delivery. **Gen. Thomas Wyatt** (66; Iraq/Afghanistan; McLean; wife **Eleanor**, m. 1990; 3 children; grandchild due March). Stage-4 pancreatic cancer. Evelyn (33) proposes P-strain derivative (80–85%); Potomac bench, Sept 2032; Arklay Oct–Dec 2032: tumour gone in 19 days; hair darkens; HR 40; sleeps 2 hrs; stands for the Director: "Whatever you think is best." Adolf: "A general who obeys" (July 20 plot memory). Offer $94B Feb 2033, closed April. **Personnel conversion — Progenitor (human): 1**. +1,900,000. Eleanor finds Ingrid's Oslo card (April 2033).
-- Ch29 (2033–Apr 2034): **Sebastian Crane** (40; Lumen, $2T; Oracle). "Unmodeled optimizer." Nine-billion-dollar attempt to build his own. SF rooftop June 2033: "What's feeding you?" "That it's mine." **Thought Acceleration II** (600:1, 3 threads; 2,000,000). Six months of predictability; Lumen bids $240B for a Taiwanese chip maker 9 Jan 2034; blocked March; Crane removed 2 Apr 2034; Umbrella buys Lumen's life-sciences cloud. +3,500,000. Crane joins Umbrella ("When do I start?").
-- Ch30 (2034): **Tianhe Genomics** (Shenzhen; 400M genomes). Nine MSS "radios" at the Singapore plant; Beijing asks where the Director's blood is kept. Hong Kong hotel, May 2034, 2:10 a.m.: 11 MSS operatives zip-tied, none killed, sedative capped on the leader's chest. Tea house in Sheung Wan: **Wen** (59) — "You speak like a man who learned his craft in front of crowds… from long ago." "Order." "For everyone." Umbrella–Tianhe Singapore genomic medicine JV. System: **Rival recognised — Wen Shulan: peer**. +2,700,000.
-- Ch31 (May 2033 – Oct 2034): Catherine sees Wyatt smile; Evelyn: "He's better than himself." Catherine calls **Ashcombe** from a cash phone at Christiana mall (May 2033) → MI6 source. Wesker lets the channel run ("own the route their betrayal travels"); privately doesn't want to lose her. 2034: Umbrella $2.5T, 420,000 staff; **company towns** (Wilmington, Singapore, Basel); children recite the Creed at school. +6,000,000 ("Children — belief: forming"). **Walter dies Oct 2034** (72, Elsmere); Wesker at the back of the church, glasses off. Dana gets **Walter's notebook** ("If something happens to me, give this to the reporter. Price."); mails it anonymously from Newark DE to **Hannah** — the one betrayal he never learns of.
-- Ch32 (11 Sept 2035): **Umbrella Congress**, South Philadelphia stadium; 60,000; Tomás (33, chief narrative officer; not sleeping since the ghost video). 3,000 Aegis drones form the emblem. Crowd recites the Creed unprompted. Speech: "Look around you." / storm and shelter / "We are not many." → "We are enough." Chant **Um-brel-la** — ▲ third threshold. Adolf weeps; Wesker: "It was too easy." +20,000,000 → **L60**; **Banner-Sense** (feels Catherine close to breaking). Headlines: "Cult or company?" Hannah writes under Walter's last line: "They're saying it like soldiers." Points ≈ 36.4M.
-
-## MOVEMENT V (2036 – 2047)
-- Ch33 (2036–37): **Pale Horse** — engineered outbreak, 11 countries, 260,000 dead in ~11 weeks. Umbrella's vaccine in 11 days (platform built for DoD). Given at cost; Foundation covers the 40 poorest; 400M doses/month from Singapore (the capacity built in 2029). Nobel Peace Prize 2037 to the Foundation (Evelyn attends, silent). Oct 2036: Wesker finds a reconciliation record (autumn 2035: sealed container Arklay → Basel → 3 labs). Evelyn admits it: "I didn't want to wait… I am the only person in this building who has actually counted." He bends a steel bench. Adolf: "Do not waste her." Order: never again without telling him first. Haddad (WHO origins unit) maps 11 introductions, all within 40 km of ex-Halvorsen sites; WHO report: origin undetermined. Governments' leverage 148/193. +40,000,000.
-- Ch34 (2038–39): **Arklay Free Territory** (90,000,000 Points): 41M tonnes, 4 km, 240 nm west of the Azores, flagged to a Pacific state; 140,000 residents by 2042; 2.5M waiting list; free apartments by lottery. UNSC study (China proposes it, drafted by Wen). Catherine's week there: 400 joggers in step; satellite call to Ashcombe — "the money is the wrong picture." Wesker feels her flicker on Banner-Sense and lets it run ("I'd like to be surprised once more"). **U.S.S.** 19,000 strong under Hale (4,000 summoned). System: "Territory — sovereign in practice." +120,000,000.
-- Ch35 (2041): the believers — **Mireille Achebe** (teacher, Lyon), **Danilo Ferreira** (U.S.S. sergeant, São Paulo), Tomás hollow (39, chief narrative officer, plays the break-room clip at 3 a.m.; 6 months' leave, back in 9 days). Evelyn 41, looks 30, 2 hrs' sleep/48; lab in the keel; **"the quiet ones"** — 11 more human Progenitor conversions (3 on subsidiary boards, 1 deputy health minister, 1 shipping CEO). Catherine's 3-sentence report: "a place where nobody has ever needed to be made to agree." Adolf admits he was wrong about method. **Integration panel first appears: 91%, 2 divergences.**
-- Ch36 (2042): **Basel Compact** (14 March 2042): 40bn francs; Basel Life Sciences Council 9 seats (4 canton, 4 Umbrella, 9th = Rector, chair funded by the Foundation); referendum 61% turnout, **74% yes**. Oslo cell: Halvorsen, Carrick, Ashcombe (retired 2040), **Ursula Frey**. Bomb in the Münsterplatz: 4 dead (incl. Frey), 109 injured. Wesker brushes dust off his shoulder: **"Is everyone all right?" / "Shall we continue the meeting?"** 11bn views in 4 days. That night: he reveals he has known about Catherine since 2033 and **keeps** her ("you are the only person left who tells me when I am wrong"). She doesn't resign.
-- Ch37 (Nov 2042 – June 2044): **Joint Task Force Lantern** (US, UK, FR, DE, JP, CA); Carrick senior investigator (jam jar on the table); Haddad seconded; Halvorsen funds outside investigators; Ashcombe sends everything uninvited. 3 June 2044: warranted raid on the Mojave complex, 240 personnel, live TV; 9 days' warning via a lobbyist. 6:11 a.m. firefight: 2 agents wounded, **11 unarmed summoned U.S.S. officers killed**. A **Tyrant** steps down from a transport on live television and does nothing. Wesker: "Lower your weapons… Shall we continue the inspection?" Framed as a DoD contract (Sloane confirms it). Scandal lands on the government; Lantern gutted. Burial at sea, Arklay: **"They stood in the open, unarmed, because I asked them to. I will not ask it again."** 400,000 applications to the U.S.S. Leverage 171/193. +400,000,000.
-- Ch38 (2044–46): **the quiet war** — 11 July 2044 "review of supply commitments" (411 words). 4 of 6 Lantern states fold in 9 days; regulatory-stability annexes. US and Japan hold out; Tomás's 9-month campaign (all true facts); US healthcare approval 19%; Japanese PM resigns; both successors sign. April 2045: 13-day cyber assault by 4 state actors, defeated by Crane's predictive defence; he maps their command net and feeds it to a third country. **First Framework of Association** (coastal province, 4.1M people, Jan 2046) — "not one soldier". 11 more frameworks in 4 years, two of them whole countries. Catherine keeps a 2025 photo of the old building on her desk as a control.
-- Ch39 (Feb 2046): President (63, ex-governor/prosecutor) told seizure would kill ~120,000 Americans. **Carrick finally briefs the Oval Office at 58** — "I already believe you… by the time we did, it was already too late to matter." Wesker visits alone; "I am not a temporary person"; "you won't be able to point at the day it happened." Carrick drives to Portland to his daughter; takes Aeterna; lives long; grandchildren think the bullets are a story. **Coherence 97%, 0 divergences.**
-- Ch40 (Oct–Nov 2046): **Beijing** — dinner with Wen (71) and one Standing Committee member; the hand-drawn **map** (two copies; holds 19 years). Wen: her grandfather was 9 in Nanjing in 1937; "I hear the cadence"; policy: **"keep him at the table."** **Moscow** — Belov (69) sends a single conventional ballistic missile at Arklay, 19 Nov 2046; **Aegis Lattice** (2.4bn Points, bought 14 months earlier, catalogued as a comms constellation) intercepts at 310 km. Wesker says nothing publicly. Belov retired; found dead 2051; Wesker did not order it ("it has stopped being the kind of thing he needed to order").
-- Ch41 (14 March 2047): **The Accord** — 141 states; Accord Council 31 seats (Umbrella 4) with **Article Nine** (Umbrella as sole executing agent), drafted by Catherine against her own test. Geneva: 400,000 in the Place des Nations, 6.1bn watching. "I did not build it out of love for you… And it does not matter in the slightest why I built it." The chant; **Integration complete — 100%**; "This is what it was for." The **Umbrella Directorate**. **L100**, Points 84bn. STR 140 · SPD 180 · INT 155 · DEF 130 · HP 150 · CHA 120 · SPE 110. The Shop grows a seventh tab: **BEYOND**.
-
-## MOVEMENT VI (2047 – 2411)
-- Ch42 **The Administration** (2048–61): governing is water, grain, grids. Childhood mortality −71%; Sahel water programme in 6 yrs. Quarterly System panel: 8.9bn under direction, dissent **0.4%** (35M people). **Nadia** (64, Lagos) writes *The Thing In The Basement*; 9 publishers decline; self-published 2051, 4M downloads, surrounded rather than suppressed; dies at 91, always "tragic". **Tomás** stops the therapy 2058, dies 2066 at 68, no public observance. Sovereignty Restoration Compact (2055): Directorate publishes honest costs (400,000 excess deaths over 30 yrs, confirmed by 4 academies); 9 of 11 parliaments vote it down; 2 referendums fail. First post-Accord generation (2061): slower decisions under genuine uncertainty; he funds the follow-ups for 300 years and never acts.
-- Ch43 **Dock One** (2047–71): BEYOND's four items (900bn–4tn Points). Launch lines in the Atacama, Queensland, Kourou; a heavy stage every 9 days. **Public failures broadcast** — the *Coronado*, 2052, flight director **Priya Ramanathan** reading 4 names on an open mic. Dock One 2051–56. Belt mining from 2054 (1993 UB); structural metal −91%. Mars 2061 (19,000 of 400,000 volunteers; loyalty is criterion four). Evelyn to orbit 2058: quiet ones (400), 9 Tyrant variants, and herself as the third branch. Void-cutter hull 2066 (4tn) → the **Wilmington**. 11 Mar 2071: the Farside Array hears a carrier that is *working*.
-- Ch44 **The Tollhouse** (2073–75): **Catherine dies** in County Clare at 85, refusing the therapy ("I'm the last person alive who remembers what you looked like when you were small enough to be stopped"); her endowment audits the Directorate 19 times and is never allowed to finish; 14 people at the funeral. Nine Compact vessels at 41 AU; "Name one who may speak for your world"; Accord Council votes **131–10**. The Broker's offer (exclusivity, non-development list, surety over the system) refused: "You are offering us dependency, on a schedule, with a lien on our home as collateral." The Broker's honest sentence about the Veth. Parting transmission: *We have met your kind before. We did not like them either.*
-- Ch45 **The Long Preparation** (2075–90): 36 devices bought, 4 cracked in 19 years; the storage medium still unexplained; the Mars institute that withholds the theory until year four. Fleet: 9 (2078) → 29 (2082) → 91 (2090), 4% of human output, no vote. The Broker's sentence published on every frequency does the persuading. **Crew conditioning**: 400,000 volunteers, 9M applicants, consent §4 ("this will change your relationship to command… permanent and not reversible"). The **empty wall** on Arklay: no rank, no decoration, no distinction between summoned and volunteer — "They stood where I put them."
-- Ch46 **The Hegemony** (2091): Veth registry entry opened by a 1936 Olympic broadcast. 411 vessels, 1/2000th of their force. **Sethra-Vel** (406 yrs, 9 systems administered, 2 cleared). 91 void-cutters wait 4 days dark at the heliopause. 9-minute engagement; 111 Veth lost in 90 seconds; 4 human ships lost. Terms: withdraw, leave the beacon. Her report: *They do not broadcast… Their ships feel wrong.*
-- Ch47 **The Choir War** (2103–19): the Choir listens 4 years and names him a **Plague**, humanity *a silence wearing the shape of a people*. 15 years, 9 systems. Their four moral prohibitions are read out of their own published liturgy and used against them. **Sethis Passage** (2111): 41 vessels held 19 hours, singing; 3 of 4 crews weep while obeying — the only documented deviation. Consent §4 amended: *you will grieve… we have decided not to try.* Nine systems cleared, **400 million dead**, published in the Choir's own languages. 41,000 human dead read aloud over 4 days at the wall — his last speech on Earth.
-- Ch48 **The Matriarch** (2121–34): the Myriad — 9 trillion units, no self, no fear; the only enemy immune to every instrument he has. Four captured units survive because Choir instruments at Sethis had been *addressing* them for 4,000 years. Evelyn (129) builds the bridge and is the host: *It's me.* 4 June 2129, the sealed chamber; "you were the only thing I ever made that got away from me." 140 billion units become **subject to direction**; the Myriad *flinches* — the only recorded instance. Her notebook: **It was worth it. Tell him.** He takes it; nobody sees it again.
-- Ch49 **Peer or Plague** (2136–40): Veth registry amended EMERGENT → **PEER** (the only such amendment). Sethra-Vel (451) leads the delegation: the beacon ended her ascent and ended the argument. Accord 2137: 400 Veth worlds, 11 human, joint commitment against the Myriad. **The embassy** (2138): 40 observers each way, 19 years, 4 million words; **Oreth-Vanu**: *a hundred and sixty thousand people who have each, separately and freely, decided to stop deciding.* His three-word annotation: *Nor do I.* The Choir's restatement: *we owe our lives to a Plague, and both things are true.* **Immunity: Memetic Panic** (9tn) — the System has priced the day the species screams. 2140: the preserved building, the piano, four notes.
-- Ch50 **The Banner** (2411): 409 systems, 900bn people, lifespan 411 years, no elections in 271 years. **The Quiet Thing** beyond the Serat Reach: a 900,000-km structure, *the one that finished* — a predecessor host, 1.4M years, 9M systems, **Host request: cessation. Request granted.** He sits on the floor for 19 hours and argues with a voice that is now only his own. Order: **"We stop here."** The frontier has not moved since. Last scene: the break room, the piano, four notes, and the narrator's verdict — he won, and it cost the species its arguments.
+- The building appeared 14 September 2026 at 5:58 a.m.; Wilmington believes it was built in 1998.
+- Wesker's public biography: PhD Zurich 2011, fifteen years in European contract research, appointed Director of Umbrella Research Division Seven in 2019.
+- He never explains the System to anyone except Evelyn (Ch 14, partially) and Carrick (Ch 18, fully).
+- The System's ding is small and quiet, once per panel.
+- Adolf never gets his way except on matters of public performance, and never speaks of his own past, politics or beliefs.
+- Wesker's stat spending priority: Intelligence, then Will, then Affinity. Presence only when the System forces it.

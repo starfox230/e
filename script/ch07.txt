@@ -1,204 +1,128 @@
-# 7 | Sermon in a Break Room
+# 7 | The Man Who Would Not Sell
 
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] {TOMAS} sitting on a break-room counter holding a phone up to {WESKER}, showing a vertical video feed, both lit by the screen, playful vs serious, cinematic
-[loc] November 2026
-N: In November, Tomás Reyes taught Albert Wesker the internet.
-N: It began by accident. The Director had come into the break room at lunchtime for coffee, and found Tomás scrolling, and asked him — in the tone of a man asking about a rash — what he was looking at.
-TOMAS: It's just — it's a guy who restores old knives. He finds them in rivers. Like, rusty. And then he fixes them.
-WESKER: How many people are watching him fix them?
-TOMAS: This one? Uh. Four million.
-[pause 0.6]
-[img] a phone screen showing a rusty knife restoration video with a view counter reading 4.1M and a stream of comments, macro, cinematic
-WESKER: Four million people. Watching a stranger clean a knife.
-TOMAS: I mean, it's really satisfying.
-N: The Director sat down.
-N: He did not do that. In two months, nobody had seen him sit in the break room. He sat down across from Tomás, and took off his sunglasses, and said:
-WESKER: Show me everything.
-[pause 1.0]
-[img] montage of glowing phone screens in a dark room, short videos, comment sections, trending hashtags, like counters, a sea of faces, cinematic
-N: So Tomás showed him.
-N: Short videos, ninety seconds long, served by a machine that learned what you wanted before you did. Feeds that never ended. Comment sections where strangers who would never meet decided, in their thousands, who was a hero and who was a villain before lunch. Men who had become famous for being angry. Women who had become famous for being calm. Children who had become famous for nothing at all. Numbers everywhere — views and likes and followers and shares — ticking upward like the odometer of a car driven by the whole human race at once.
-[pause 0.8]
-N: Adolf's voice came back, low.
-ADOLF: (slow) Oh.
-N: It was a very small word. Wesker had never heard that voice make it before.
-ADOLF: They have built it. They have built the machine. A rally that never ends. A crowd in every pocket. And no one is in charge of it.
-WESKER: Someone's always in charge of it. They just don't stand on a balcony.
-N: The voice behind his eyes had something to add.
-ADOLF: I spent a year of my life writing speeches for a radio set in every kitchen. This — this is a radio set in every hand, that listens back.
-[pause 1.0]
-TOMAS: You okay, Doc? You've gone kind of still.
-WESKER: How does it decide what to show them?
-TOMAS: Honestly? Whatever makes them feel something. Angry works best. Then scared. Then, like, awe. Anything with awe does numbers.
-[pause 0.6]
-N: The Director put his sunglasses back on.
-[pause 0.4]
-TOMAS: You know you do that thing, right?
-WESKER: What thing?
-TOMAS: The — okay, don't be mad. On the internet it's called aura farming. When somebody does something so effortlessly cool that everyone watching kind of loses their mind a little. Like, the way you just sat down and took the glasses off and said show me everything. That's aura. You're farming it. Constantly. It's actually kind of insane to watch.
-[img] {WESKER} in sunglasses in a shabby break room, a faint dry smile at one corner of his mouth, {TOMAS} grinning nervously, cinematic
-WESKER: And aura can be farmed.
-TOMAS: I mean — it's a joke. Kind of.
-N: Adolf's voice came from somewhere behind his eyes.
-ADOLF: It is called charisma. We had it before the telephone.
-WESKER: (soft) They've turned it into a number. How very efficient of them.
-[pause 1.5]
+[music] m_tension -8
+[amb] amb_office_hum -16
+[img] {TOLLIVER} sitting alone in a dark executive office late at night, a glass on the desk, city lights behind him
+[loc] Verdant Axis Therapeutics, Trenton, New Jersey — 6 April 2027
+N: Graham Tolliver had saved his company, and everybody had told him so.
+N: The licence had cut his run time to thirty-one minutes. The trade press had called him decisive. His lender had stopped calling on Fridays. And every quarter, nine million dollars left his accounts and went to Wilmington, and four per cent of every panel he sold went with it, and at the end of the first quarter his chief financial officer put a slide in front of him showing the five-year projection, which was a straight line going down at a polite angle.
+N: It is one thing to lose. It is another thing entirely to be kept.
+N: On the sixth of April, Tolliver stopped negotiating with Albert Wesker and started fighting him, and the narrator would like to say, before any of this begins, that he was not a fool. He was a competent chief executive with eleven hundred employees who depended on him, and every single thing he tried was the correct thing to try.
+[img] a busy corporate legal office, documents in stacks, lawyers working at a long table, daylight
+N: He tried three moves in eleven days.
+N: The first was legal: a suit in the District of Delaware alleging that the archive licence Verdant Axis had bought in 2019 had been exclusive in substance if not in form, and that Umbrella's entire instrument line was built on material it had no right to commercialise. It was a stretch. It was also the kind of stretch that takes two years and eleven million dollars to unstretch.
+N: The second was people: offers to Evelyn Marsh and to two of Voss's process engineers, at two and a half times their salaries, with signing bonuses and titles.
+N: The third was quieter. He hired a firm in Virginia — the kind with a two-word name and no website — to find out what was in the building in Wilmington. What he said, on a call that was later read into evidence in a hearing that went nowhere, was: *I don't want dirt. I want to know how they did it in ninety days. Because nobody does it in ninety days.*
+N: And that, of the three, was the one that ended him.
 
-[music] m_system -8
-[amb] amb_office_hum
-[img] a glowing crimson holographic blueprint of a small handheld diagnostic device with a cartridge and swab, floating in a dark office, cinematic
-N: The Shop had a blueprint that week that he had been watching since October.
-[system] BLUEPRINT
-Rapid Pathogen Assay
-Point-of-care. Nasal swab. Twelve minutes.
-Identifies forty respiratory and bloodborne pathogens.
-Manufacturable with commercially available reagents.
-Cost: 3,000 Points
-[say] Blueprint. Rapid pathogen assay.
-[/system]
-N: It was not a weapon. It was not a power. It was a small plastic cartridge and a reader the size of a paperback, that could tell a nurse in a rural clinic what was making a child sick in the time it took to make tea — and it did not exist anywhere on Earth.
-N: The other half of him answered.
-ADOLF: A medical device. You are buying a thermometer.
-WESKER: I'm buying a face. Every empire needs one. Yours had a uniform. Mine will have a hospital.
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Blueprint: Rapid Pathogen Assay
-Documentation: delivered
-Points: 1,200
-[say] Purchase confirmed.
-[/system]
-[img] a computer screen in a dark office filling with folders of technical documents, schematics and protocols appearing one after another, blue glow, cinematic
-N: The documentation arrived the way Pell had arrived — as if it had always been there. A folder on the division's server, dated across eighteen months, containing the complete design history of a device that nobody in the building had designed. Protocols. Reagent lists. Failure analyses. Two rejected prototypes. Lab notebooks, scanned, in handwriting that matched, with unnerving precision, the handwriting of Evelyn Marsh.
-[pause 1.5]
+[music] m_scheme -8
+[img] {WESKER} standing over a desk covered with printed documents in a dark office, {PELL} beside him, night
+[loc] Division Seven — 9 April
+N: Wesker did not defend.
+N: This is the thing that everyone who ever fought him got wrong, at every scale, for sixty-five years, right up to a hive at the edge of a dead system: they expected a defence, and prepared for a defence, and what arrived instead was a man who had already decided that the fight was a distraction from the acquisition.
+PELL: (flat) The complaint is served. Our counsel believes we would win at summary judgment, but not before March of next year.
+WESKER: Don't answer it yet. What does their paper look like?
+PELL: Two hundred and eleven million in senior debt held by a syndicate. Lead is Merrick Trust — a regional lender, conservative, and unhappy. They wrote the facility in 2023 when the panel was still the best in the market. There is a covenant tested on trailing twelve-month revenue, and a change-of-control clause, and a provision permitting assignment of the debt without borrower consent.
+WESKER: (soft) They may sell his loan to anyone at all, and he cannot stop them.
+PELL: They may.
+WESKER: What would it take?
+PELL: The syndicate would part with the paper at ninety-one cents. A hundred and ninety-two million dollars. We have thirty-nine in cash.
+N: Wesker looked at the number for a moment.
+WESKER: Catherine.
+[img] {CATHERINE} on a phone at a desk covered in documents, laptop open, lit office at night
+N: Catherine Adeyemi spent six days on the telephone and did what eleven years in London had been for.
+N: She did not raise a hundred and ninety-two million dollars. She raised thirty — a bridge from a Boston credit fund against Umbrella's own receivables and the Verdant Axis licence stream, which was the single most reliable cash flow in the industry precisely because Tolliver could not stop paying it. Then she took the thirty and bought the *lead* position in the syndicate: not the whole loan, but the seat at the table, with the amendment rights that came with it.
+CATHERINE: (fast) I want to be clear about what I've done, because when this is over I will have to explain it to an auditor. We have not bought his company. We have bought the right to be in the room when his company is discussed.
+WESKER: That is all I have ever needed.
+CATHERINE: There's something else. I met the Merrick people twice. The second time, their credit officer asked me — carefully, the way you ask a question you've been told to ask — whether Umbrella had any interest in acquiring Verdant Axis outright. It was not an idle question. Someone at that bank has already run the numbers on you as an owner and liked them better.
+N: Wesker was quiet for a moment, and the narrator would like to note that this is the closest anybody came, in the whole of that first year, to catching the machinery at work.
+WESKER: (soft) Did they say why?
+CATHERINE: They said your paper is clean.
+WESKER: (cold) Yes. It is.
 
-[music] m_rain_piano -8
-[amb] amb_lab
-[img] {EVELYN} at her lab bench late in the evening looking up as {WESKER} approaches holding a thick binder, surprise, lamp light, cinematic
-N: He gave it to her that evening.
-N: She was at her bench, at seven, alone, running the same sequencing job she had been running for three weeks. He put a binder down beside her keyboard, and when she opened it, and saw her own handwriting on page one, she went very pale.
-EVELYN: This is — I didn't write this.
-WESKER: No.
-EVELYN: It's my hand. It's my notation. I use that little arrow for rate-limiting steps. Nobody else does that. I didn't write this.
-WESKER: I know. It's still yours. If you want it.
-[pause 1.0]
-[img] {EVELYN} turning pages of a technical binder with trembling hands, schematics of a handheld device, her face lit with awe and fear, cinematic
-N: She read for a while without speaking. She was a good enough scientist to understand what she was reading, and to understand that it worked, and to understand that nothing in her education could explain how it had come to be sitting on her bench.
-N: She could have asked. A more careful person would have. Nadia Okafor would have asked forty questions and then called a lawyer.
-N: Evelyn Marsh closed the binder, and put both hands flat on the cover, and looked up at him.
-EVELYN: You said not yet.
-WESKER: I did.
-EVELYN: Is it now?
-[pause 0.8]
-WESKER: It's now.
-[pause 1.2]
-N: It is worth recording what she felt, because it mattered later. It was not gratitude. Gratitude is something you feel toward an equal. It was not quite love, though it looked like it from the outside. It was the thing people feel in cathedrals — the dizzy, total surrender of a person who has spent her whole life believing she was alone in the dark, and has suddenly been shown that someone was watching, and that the someone had a plan.
-N: It was, in other words, the beginning of a faith.
-[pause 1.5]
+[music] m_horror -10
+[amb] amb_night_city -14
+[img] a dark walled service road at night beside an industrial building, chain-link fence, a single security light, rain on asphalt
+[loc] The campus, service road — Tuesday 13 April, 1:50 a.m.
+N: On the night of the thirteenth, four men came over the wall.
+N: They were not criminals, particularly. Two were ex-military, one was a former Delaware state trooper, and the fourth carried a camera with a low-light sensor worth more than the car they had arrived in. Their instructions were to photograph the loading dock, the transformer yard, and anything on the south side of the building that looked newer than the paperwork said it should.
+N: They came over the wall at one fifty. They were on the ground for eleven seconds.
+[sfx] sfx_footsteps_approach +0.3
+N: Hale was standing on the service road when they landed. Not running towards it — standing on it, with his hands at his sides, having been in that exact spot since one thirty-eight.
+HALE: (flat) This is private property. You will leave the way you came.
+N: The man with the camera — his name was Wendell Tarr, and he is the only one of the four who ever spoke about it on the record — later described what happened next in a deposition, and then in a psychiatrist's office, and then never again.
+[img] a dark empty service road under a security light, rain, a tall figure in a long black coat standing motionless at the far end
+N: There was a man at the far end of the road, about forty metres away, in a long black coat. Tarr saw him clearly. He raised the camera.
+[sfx] sfx_whoosh +0.2
+N: Between the moment the shutter opened and the moment it closed — which, at the setting he was using, was one one-hundred-and-sixtieth of a second — the man was no longer forty metres away.
+N: He was standing beside Wendell Tarr, close enough to touch, with one gloved hand resting on the top of the camera, looking at him through a pair of black glasses in the dark.
+[pause 0.7]
+WESKER: (soft) That is an excellent lens. What is it for?
+N: Tarr could not answer. One of the others — the trooper — went for something at his waist, and Hale's hand closed over his wrist, and that was the whole of the violence: a hand on a wrist, which stayed there.
+WESKER: I am going to tell you four things, and then you are going to go home.
+WESKER: The first is that nobody here is going to hurt you. The second is that there is nothing on this campus that would interest your client, and he knows it, or he would have sent people he was willing to lose. The third is that Mr. Tolliver is paying you a great deal of money out of a company that will not exist in ninety days, so I would encourage you to invoice him promptly.
+N: He lifted his hand off the camera.
+WESKER: (cold) And the fourth is that you will find, when you try to describe this, that the sentence does not survive being spoken aloud. Try it in the car. You will get about half of it out, and then you will hear yourself, and you will stop. Everyone does.
+N: They went back over the wall. The memory card was not taken from them — that is the part that stayed with Tarr the longest. Nobody took the card. They got to the car and looked at the frame, and the frame showed an empty road with a smear of black at the left-hand edge, which any competent person would call motion blur.
+N: Three of the four quit the firm inside a month. Wendell Tarr kept the photograph.
+[sfx] sfx_system_chime +0.3
+[system] ACTING WITH INTELLIGENCE
+Intrusion resolved without injury, arrest, or record
+Witnesses: 4 · Credible accounts produced: 0
+Points: +6,000
+[say] Acting with intelligence. Intrusion resolved without injury, arrest or record. Four witnesses. Zero credible accounts produced. Six thousand Points.
+[/system]
+ADOLF: You let them go.
+WESKER: I let them *carry* it. Four men who cannot repeat what they saw, working in an industry of three hundred people who all drink together. By June every private intelligence firm on this coast will have heard a story they do not believe about a building in Wilmington, and every one of them will quote a price for it that no client will pay.
+ADOLF: (soft) You have made yourself a rumour.
+WESKER: I have made myself an *expensive* rumour. It is the cheapest security money can buy.
 
-[music] m_tension -10
-[amb] amb_office_hum
-[img] a shabby break room on a Friday afternoon, nine people seated and standing, harsh fluorescent light, an old piano in the corner, everyone looking toward the front, cinematic
-[loc] Friday, 4:45 p.m.
-N: The speech happened on a Friday.
-N: It was not planned as a speech. He had called everyone into the break room at a quarter to five to tell them about the assay — all of them, the six who had been there before him and the three who had arrived since. Dana, Lessing, Evelyn, Tomás, Nadia, Walter, who had come in early for it. Pell, standing perfectly still by the fridge. Gus, by the door. Hale, by the other door.
-N: He had meant to talk for two minutes. He talked for five. He did not use notes. Afterwards, none of them could remember exactly what he had said, only how it had felt, and when they tried to explain it to their families, they sounded, even to themselves, a little mad.
-[music] m_sermon -6
-[img] {WESKER} standing at the front of a small break room, no sunglasses, speaking quietly, one hand resting on the back of a chair, faces turned up to him, dramatic side light, cinematic
-WESKER: Two months ago, you were told something about yourselves. You were told it by a letter from London, and by a frozen bank account, and by every empty chair in this building. You were told that you were what was left over.
-[pause 0.4]
-WESKER: The leftovers of a dead company. In a building nobody visits. In a town nobody writes songs about. Doing work that nobody reads.
-N: He let that sit.
-[img] close-up faces in a break room listening: {DANA} with wet eyes, {TOMAS} leaning forward, {WALTER} with arms folded, cinematic
-WESKER: I'd like you to remember that feeling. Not because it was true. Because every great thing that has ever happened in this world began in a room exactly like this one. A room nobody was watching. With a few people nobody had counted.
-[pause 0.5]
-WESKER: The men in glass buildings across that river don't believe that. That's why they're going to lose to us.
-[pause 0.8]
-N: His voice had not risen. That was the uncanny thing. It had not risen at all. But something in the rhythm of it had changed — a cadence, a pulse, a way of stepping from one sentence to the next that made each one feel like a stair. And behind his eyes, in the quiet of the skull, the other half of him had leaned forward, the way an old musician leans toward an instrument he has not touched in eighty years.
-[img] {WESKER} speaking, his shadow cast huge on the break room wall behind him by a low lamp, faces in silhouette, dramatic, cinematic
-WESKER: In twelve months, there will be a device in hospitals that tells a doctor what is killing a child in twelve minutes. It will have our name on it. Not Verdant's. Not London's. Ours. Umbrella. And every nurse who uses it will know that it came from here — from this building, from this room, from you.
-[pause 0.4]
-WESKER: That is the first thing. It is not the last thing. I will not tell you tonight what the last thing is, because you would not believe me. But I will tell you this. I did not buy this company to keep it alive.
-[pause 0.8]
-WESKER: I bought it to make it inevitable.
-[pause 1.5]
-[music] m_sermon -2
-[img] a small group of lab workers in a shabby break room rising to their feet and clapping, faces lit with emotion, fluorescent light, cinematic
-[sfx] sfx_applause g-4
-N: Tomás was the first on his feet. Then Dana. Then, to his own surprise, Walter Pruitt, who had sworn on the day he took off the uniform never to stand up for an officer again.
-N: Evelyn did not clap. She was crying, without seeming to notice, her hands pressed together in front of her mouth.
-N: Pell, Gus, and Hale clapped in perfect unison, exactly the same number of times, and stopped at exactly the same moment. Nobody noticed. They were all too busy.
+[music] m_corporate -6
+[img] a corporate boardroom with a long table and directors seated, tense faces, a door opening at the far end
+[loc] Verdant Axis Therapeutics — board meeting, 4 May, 2:00 p.m.
+N: The board met at two o'clock on the fourth of May to consider a proposal from its lead lender.
+N: The proposal was simple. Merrick Trust and the syndicate would support a recapitalisation in which Umbrella Life Sciences would acquire Verdant Axis Therapeutics for a dollar a share, assume the debt, retain the workforce, and drop the litigation. The alternative was to test the covenant in July, which the company would fail.
+N: Nine directors. They had been arguing for fifty minutes when the door at the end of the room opened and Wesker came in alone, twenty minutes after he had been due, and sat down in the empty chair without apologising.
+N: He let them finish. That is the thing that the two surviving directors both mentioned, independently, years apart, to two different people. He let them finish arguing, for six more minutes, about a company he had already bought.
+TOLLIVER: (fast) You've had this planned since November.
+WESKER: Since the twelfth of November, yes.
+TOLLIVER: You gave me a licence so I'd survive long enough to be worth taking.
+WESKER: I gave you a licence so that you would spend six months proving, in public, with audited numbers, that my chemistry is worth nine million a quarter to a competitor. You have been my best salesman since Christmas. It would have been discourteous to interrupt you.
+N: Tolliver stood up. He was not a small man, and he had been a serious person for thirty years, and the narrator would like to record that what he said next was the truest thing anyone said in that room.
+TOLLIVER: What *are* you? Nobody moves like this. Nobody builds a plant in a night — I have the aerial photographs, I have *satellite*, I have a picture of that lot from 2023 and there is a plant in it and I stood on that lot in 2023 and there was nothing there —
+N: And Albert Wesker took off the sunglasses.
 [pause 1.0]
-[img] {NADIA} standing at the back of the room with her arms folded, not clapping, watching the room with unease, cinematic
-[music] m_sermon -10
-N: Nadia Okafor did not clap.
-N: She stood at the back with her arms folded, and she watched the room. Not the man at the front — the room. The faces. The way the applause had come not from agreement, but from something underneath agreement. She had seen that look before, once, a long time ago, at a church revival her grandmother had taken her to in Lagos, when a preacher had made a whole tent full of sensible people fall to their knees.
-N: It had frightened her then. It frightened her more now, because this time there was no God in the room. Only a man in a black shirt, standing very still, with his hand on the back of a plastic chair.
-[pause 1.5]
+[img] a close view of a man's face with the eyes hidden in shadow, faint red glow, dark boardroom, dramatic light
+N: There is no record of what Graham Tolliver saw. The minutes note only that the chief executive sat down. The two directors who spoke about it afterwards both said the same thing in slightly different words: that the room went very quiet, and that Tolliver's hand was shaking against the table, and that neither of them looked directly at the man in the chair for the remaining four minutes of the meeting.
+N: The vote was nine to nothing.
+[sfx] sfx_pen_sign +0.4
+N: He put the glasses back on before he stood up.
+WESKER: (soft) Mr. Tolliver. Your contract has eleven months to run and I intend to honour it. There is an office for you in Trenton and a title with the word *emeritus* in it. You will keep your health plan and your pension and your parking space, and you will never make another decision as long as you live.
+TOLLIVER: (soft) Why?
+WESKER: Because you fought me competently, and because in four months, when people ask what happens to men who fight me, I would like the answer to be *nothing interesting*. It is a far more frightening answer than the other one.
 
-[music] m_system -4
-[sfx] sfx_system_open
-[img] a burst of crimson and gold holographic light filling a dark office, multiple panels cascading, cinematic, awe
-[system] ASSESSMENT
-Personnel morale — fervent: 4,000
-Personnel conversion — belief: 2 of 6
-[say] Assessment. Personnel morale, fervent. Four thousand Points.
+[music] m_triumph -8
+[img] workers on a lift removing a company sign from a glass office building, a crimson iris emblem waiting on the ground
+[loc] Trenton — 5 May, 9:30 p.m.
+[sfx] sfx_system_chime +0.3
+[system] RIVAL ABSORBED ENTIRE
+Verdant Axis Therapeutics — acquired
+Headcount: 1,108 · Facilities: 3 · Patents: 61
+Points: +40,000 · Level 12
+[say] Rival absorbed entire. Verdant Axis Therapeutics, acquired. One thousand one hundred and eight staff. Three facilities. Sixty-one patents. Forty thousand Points. Level twelve.
 [/system]
-[sfx] sfx_level_up
-[system] LEVEL UP
-Level: 5
-Stat Points available: 5
-Points: 5,700
-[say] Level up. Level five.
+[system] MAIN MISSION — TIER II: COMPANY
+All requirements complete
+Tier advancement will resolve at the next reward window
+[say] Main mission, tier two: all requirements complete. Tier advancement will resolve at the next reward window.
 [/system]
-N: Four thousand. For five minutes of talking in a break room. More than the System had paid him for the building, or the landlord, or the traitor. More than everything else he had done in two months put together.
-N: The Wesker half of the mind noted the number, and filed it, the way an investor files a return. The Adolf half did not note it at all. It was elsewhere. It was remembering beer halls, and stadiums, and the roar of a crowd coming back at it like surf — and it was, for the first time in this new life, completely happy.
-[pause 0.8]
-ADOLF: (soft) Two of six.
-WESKER: Which two?
-N: The second voice came back.
-ADOLF: You know which two.
-[pause 1.0]
-[system] PURCHASE AVAILABLE
-Command Presence I
-Weaker wills in your vicinity will be inclined to defer to you.
-Cost: 3,500
-[say] Command presence.
-[/system]
-[sfx] sfx_mouse_click
-N: He bought it before he left the building.
-[system] PURCHASE CONFIRMED
-Command Presence I
-Points: 2,200
-[say] Purchase confirmed.
-[/system]
-[pause 1.5]
-
-[music] m_corporate -10
-[amb] amb_night_city
-[img] {TOMAS} in a dark bedroom lit by a phone screen, eyes wide, a video view counter climbing into tens of thousands, cinematic
-[loc] Saturday, 7:20 a.m.
-N: At seven twenty the next morning, Tomás Reyes called the Director's cell phone for the first time in his life.
-TOMAS: (phone) Okay, so, please don't kill me. I kind of filmed a bit of it. Yesterday. Just, like, twenty seconds. The bit about the room nobody was watching. And I put it on my page, which has, like, four hundred people, and I went to bed, and — Doc, it's got forty thousand views. It's got forty thousand views and people are asking who you are.
-[pause 1.0]
-[img] a phone screen showing a short shaky video of a man in black speaking in a break room, subtitles, comments pouring in asking who he is, macro, cinematic
-N: The Director did not answer immediately.
-N: The voice inside him, barely a murmur.
-ADOLF: (soft) Forty thousand. In one night. From a break room.
-WESKER: Take it down, Tomás.
-TOMAS: (phone) Yeah. Yeah, totally. I'm sorry, I'm — taking it down now. I'm sorry.
-WESKER: Don't be sorry. It was good work. It was just early.
-[pause 0.6]
-TOMAS: (phone) Early?
-WESKER: Keep the file. We'll need it.
-[pause 1.2]
-N: Tomás took it down. By then it had been downloaded two hundred times, and three of those copies would still be circulating on the internet seven years later, in a very different world, under titles like The First Speech, and Where It Started, and Watch His Hands.
-[pause 1.0]
-[img] {EVELYN} alone in a lab at 2 a.m. assembling a small plastic device under a magnifier lamp, humming, an old piano visible through the door behind her, cinematic
-[music] m_rain_piano -10
-N: In lab two, at two in the morning, Evelyn Marsh was building the first prototype of the assay with her own hands, from a set of instructions in her own handwriting that she had never written.
-N: She was humming as she worked. Four notes. Falling, and falling, and falling, and landing somewhere unresolved.
-N: She did not know she was doing it.
-[pause 3.0]
-[music] stop
+N: The sign came down the same night. Wesker had specified it: not in the morning, when the staff would gather and photograph it and feel something, but at half past nine at night, with two men and a lift and nobody watching.
+N: In the morning there was simply a crimson iris on a building in Trenton, and eleven hundred people arriving at work for a company whose name had changed while they slept, which — by the standards of what had happened to the three hundred and eleven in Newark — was an unusually gentle thing to do to a person.
+[img] {WESKER} standing alone in an empty corporate car park at night looking up at a building with a crimson emblem, long black coat
+N: He stood in the car park for a while afterwards.
+ADOLF: Eleven hundred more.
+WESKER: Eleven hundred who can quit, complain, sue, or talk to a journalist. It is the largest liability I have ever voluntarily acquired.
+ADOLF: (soft) And yet you are pleased.
+WESKER: (cold) I am pleased because eight months ago I was a man in a chair with nine thousand Points and a laboratory full of nothing, and tomorrow morning I will own the second-best diagnostics company on this continent as well as the best.
+N: He looked up at the iris on the wall.
+WESKER: And because tomorrow the System pays me for it, and I have decided what I am going to spend it on.

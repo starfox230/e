@@ -1,189 +1,137 @@
-# 6 | The Leak
+# 6 | The Campus
 
-[music] m_tension -10
-[amb] amb_office_hum
-[img] {LESSING} at a home desk late at night typing on an old laptop, a manuscript draft on screen, a glass of whiskey, a blue USB drive plugged in, cinematic
-[loc] Sunday night — Lessing's house, Brandywine Hundred
-N: Howard Lessing wrote the paper in four nights.
-N: He wrote it at his kitchen table after his wife had gone to bed, with a glass of Scotch he did not drink and the blue drive plugged into the side of his laptop, and he wrote it better than anything he had written in twenty years. It was twenty-two pages long. It had four figures. Its title was A Novel Replication-Competent Viral Signature Associated With Extreme Proliferative Repair in Human Peripheral Blood.
-N: It did not mention whose blood.
-[img] a laptop screen showing an email draft with a subject line about confidential data of extraordinary commercial interest, dim kitchen light, cinematic
-N: He also wrote an email. It was shorter. It was addressed to a vice-president of research at Verdant Axis Therapeutics, a man named Simon Ferris who had once tried to hire him, and it said that Doctor Lessing had come into possession of data of extraordinary scientific and commercial interest, and would welcome a confidential conversation about his future.
-N: He told himself these were two separate things. The paper was for science, and for history, and for the prize that had been promised to him at a conference in nineteen ninety-four. The email was for his pension.
-N: He saved them both as drafts. He would send them on Tuesday night, from the lab, after the preprint server's weekly update.
-[pause 1.2]
+[music] m_corporate -8
+[amb] amb_office_hum -16
+[img] {WESKER} and {CATHERINE} standing at a wide window looking down at an industrial riverfront, daylight, office interior
+[loc] Division Seven, sixth floor — 10 March 2027
+N: The problem with the building that had always been there was that it was full.
+N: Fifty-one staff in a laboratory designed for thirty. Evelyn's archive work had spread across two floors and a corridor. Voss's vector platform — four constructs, eleven weeks, exactly as he had said — needed a suite of its own, and the regulatory group was working out of what had been a break room.
+N: Catherine Adeyemi, four weeks into the job, brought him a plan for a leased facility in the New Castle corridor: nine months, twenty-two million dollars, a construction schedule and a risk register.
+WESKER: No.
+CATHERINE: (fast) It's the only available shell space of that size within thirty miles. I have looked at eleven.
+WESKER: I don't want a shell. I want the block.
+N: He turned the window into a map with one gloved finger: the four brick buildings along the riverfront south of their own — a dead cold-storage warehouse, a machine shop that had folded in 2019, a two-storey office nobody had leased in six years, and a lot with weeds in it.
+CATHERINE: Those are four separate owners, two of them estates, one of them in litigation. That is two years of conveyancing, if it can be done at all.
+WESKER: (soft) Then it will be a busy weekend.
+
+[img] a glowing crimson and white holographic panel showing a list of facilities, floating in a dark office at night
+[loc] 12 March, 11:50 p.m.
+[sfx] sfx_system_open +0.1
+[system] SHOP — FACILITIES, TIER I
+Research Building, four storeys, fitted: 9,000
+Logistics and Warehouse: 6,000
+Data Hall, 400 racks, powered: 11,000
+Auditorium, 500 seats: 5,000
+Service road, perimeter wall, gatehouse: 3,000
+Campus integration — deeds, permits, utilities, local record: included
+[say] Facilities. Research Building, four storeys, fitted: nine thousand. Logistics and Warehouse: six thousand. Data Hall, four hundred racks, powered: eleven thousand. Auditorium, five hundred seats: five thousand. Service road, perimeter wall and gatehouse: three thousand. Campus integration — deeds, permits, utilities, local record — included.
+[/system]
+N: Thirty-four thousand Points. He had thirty-four thousand four hundred, because the quarter had been very good and because the System paid for growth the way a furnace pays for coal.
+WESKER: All of it.
+SYSTEM: That will leave you four hundred Points.
+WESKER: I am aware of what subtraction is.
+SYSTEM: Confirm placement.
+WESKER: The four parcels south of this building and the vacant lot. Research on the corner, the data hall behind it where nobody can see the transformers, logistics against the rail spur, the auditorium on the water.
+SYSTEM: The estate in litigation will require the record to be adjusted in three counties and one probate court.
+WESKER: (cold) Then adjust it in three counties and one probate court.
+[pause 0.4]
+SYSTEM: Confirmed. Placement will complete between Friday 01:00 and Saturday 04:00.
+N: He stood at the window for a while after the panel closed.
+ADOLF: You have spent everything.
+WESKER: Yes.
+ADOLF: Again. As you did in September. You are a man who empties his pockets every time he is given anything.
+WESKER: I am a man who understands that Points are not money. Money compounds if you leave it alone. Points do not. They are a voucher, and vouchers expire the moment someone else builds the thing you were saving for.
+ADOLF: (soft) And if something is needed next week and there is nothing left?
+WESKER: Then I will be four hundred Points and five buildings richer than I was, and I will earn more, because that is what the machine pays me for. It does not pay me to be careful. Read the terms.
+
+[music] m_bell -4
+[img] a riverfront industrial block at dawn seen from above, five white and brick buildings with a walled service road, a crimson iris emblem on each door
+[loc] Wilmington riverfront — Saturday, 20 March, 6:00 a.m.
+N: On Friday night the riverfront south of Division Seven was four derelict lots and a weed patch.
+N: On Saturday morning it was a campus.
+N: A four-storey research building in white stone that matched the first, with its glass already grimy at the corners the way glass gets. A data hall with a transformer yard and a chain-link fence that had been repaired twice. A logistics building with a loading apron, bay numbers painted on the concrete and a fork-lift charging inside. An auditorium on the water with five hundred seats in dark red fabric, three of them stained. A service road with a gatehouse, a striped barrier and a logbook with eight months of entries in four different hands.
+N: And on every door, in crimson, six curved blades folded into a circle.
+[img] a city planner at a desk looking at building permits on a screen, confused, an ordinary municipal office
+N: The narrator will now tell you what this actually looked like from the inside of a normal human life, because this is the part of the story that people always skip and it is the part that matters.
+N: On Monday morning, a planner in the City of Wilmington's Department of Licenses and Inspections opened her file on the riverfront overlay district, because a colleague had asked a routine question about parking ratios. In the file were the permits for the Umbrella campus: four buildings, phased between 2004 and 2011, signed off by her predecessor and, in two cases, by her.
+N: She recognised her own handwriting. She recognised her own initials. She could remember the argument about the auditorium's height, and losing it.
+N: She sat and looked at that for about forty seconds. Then she closed the file, and finished her coffee, and answered the question about parking ratios, because there was nothing in the file that was wrong, and because the alternative to believing the file was believing something that no one in the world would have believed her about.
+N: This is how it went, every time, for sixty-five years. Not one person was fooled by an argument. They were simply handed an unbroken record, and left alone with it, and the human mind does the rest without being asked.
+[img] a young man flying a camera drone by a river at dusk, laptop open on a car bonnet, city skyline
+N: There was one exception, and he was nineteen.
+N: A hobbyist called Marcus Reese had been flying a drone along the Christina for two years and had eleven hundred photographs of that stretch of water. On the Sunday he went out to shoot the tide and came home and looked at his own archive, and the buildings were in it. In shots from 2024. In shots from the summer before that. In a photograph he had taken on his birthday with his own hands.
+N: He posted about it. Eight people replied. Three explained he had mislabelled his folders, four made jokes, and one — an account with a cartoon frog for a picture — told him it was happening everywhere and had been for years, and sent him a forum link, and that was worse than being laughed at, because that was the moment Marcus Reese understood that being right and being believed were going to be two different things for the rest of his life.
+N: He went quiet for four years. He comes back in 2031, and by then he is very good at this, and by then it does not matter at all.
+
+[music] m_sermon -7
+[img] a large auditorium filled with several hundred staff, a single figure in a long black coat alone on a dark stage under one light
+[loc] The auditorium — Monday 22 March, 9:00 a.m.
+N: On Monday morning, four hundred and six people — everyone from Division Seven and everyone from the Newark plant, bussed down at company expense — sat in a five-hundred-seat auditorium that had not existed on Friday, and waited for the Director to explain the campus.
+N: Wesker stood backstage in the dark with his hands behind his back, and did something he had not done since the volcano, and would not do again for a decade.
+N: He asked for help.
+WESKER: (cold) Say something useful.
+ADOLF: You will walk out there and tell them the facts.
+WESKER: I will tell them the truth, which is that we are the fastest-growing diagnostics company in North America and that there is a great deal of work to do.
+ADOLF: And they will clap, and they will go back to their benches, and by Thursday it will be as though you had sent an email. Listen to me. What do they feel this morning?
+WESKER: Frightened. The plant workers think the Wilmington staff look down on them. The Wilmington staff think the plant means the science is over. Everyone in that room saw four buildings appear over a weekend and has decided not to ask about it.
+ADOLF: Then do not reassure them.
+WESKER: (soft) Go on.
+ADOLF: Reassurance is what a manager gives. Give them the fear itself, out loud, in your own mouth, before any of them dares say it. A crowd will forgive you for anything except pretending that the thing in the room is not in the room. Name it. Then stand still and say nothing for as long as you can bear it. Then give them something enormous to be afraid of instead — something that is not themselves.
+N: A pause.
+WESKER: And the pause is how long?
+ADOLF: Until it hurts. Then two seconds more.
+[sfx] sfx_crowd_silence +0.2
+[img] a single figure in a long black coat standing under one spotlight on a dark stage, hundreds of silhouetted heads watching
+N: He walked out. No slides. No notes. No introduction — he had told Catherine to cut it.
+WESKER: There are four buildings outside that were not there on Friday.
+[pause 1.4]
+N: Four hundred and six people stopped moving.
+WESKER: Nobody in this room is going to ask me how. I know that, because it is Monday and not one of you has asked. You have all decided, privately, to be adults about it, and to be grateful, and to go back to work. I want you to know that I noticed.
+[pause 0.8]
+WESKER: I am not going to explain it to you today. I am going to tell you what it is for.
+N: And then he gave them the enormous thing.
+WESKER: Four hundred million people on this planet will be infected this year with something that a nineteen-dollar test could have caught in nineteen minutes. Roughly one and a half million of them will die of it — not of anything exotic, not of anything incurable, but of a diagnosis that arrived three days late. Every one of those deaths is an *administrative* death. Somebody, somewhere, decided that the test was too expensive.
+WESKER: (slow) I have made it thirty-one dollars. I will make it eleven. I intend to make it free, everywhere, and I intend for that to be the least interesting thing this company ever does.
+WESKER: You are not going to be thanked for it. There will be no parade. In ten years, people will use what you built here the way they use tap water, and they will complain about it, and they will not know your names.
+[pause 0.6]
+WESKER: (cold) I will know your names. I know all of them now. That is the arrangement I am offering, and it is the only one I have ever found worth making.
+N: He stopped talking. He did not say thank you, and he did not wait to be applauded, and he was three steps towards the wing before the room came apart.
+[sfx] sfx_applause +0.3
+[img] hundreds of staff standing and applauding in a large auditorium, a lone figure in black walking off a dark stage
+N: They stood. All of them, in about a second and a half, including three hundred and eleven people who had been alive for nine weeks and fifty-one who had not, and a British chief financial officer at the back who found that she had got to her feet without having decided to.
+[sfx] sfx_system_chime +0.4
+[system] DEVOTION
+Personnel addressed: 406 · Morale: transformed
+Points: +34,400 · Level 10
+Presence: 21 (Command Presence I sustaining)
+Note: the passenger's craft is operationally significant. Recommend continued use.
+[say] Devotion. Four hundred and six personnel addressed. Morale: transformed. Thirty-four thousand four hundred Points. Level ten. Note: the passenger's craft is operationally significant. Recommend continued use.
+[/system]
+N: In the wing, in the dark, Albert Wesker stood with his back against a wall and read that panel twice, and what he felt was not triumph.
+WESKER: (soft) *Recommend continued use.*
+ADOLF: You are welcome.
+WESKER: I had them in eleven sentences.
+ADOLF: You had them in the *pause*. You would have talked through it. You have talked through every silence you have ever been given, because silence is the one room you cannot control.
+[pause 0.5]
+WESKER: (cold) Noted.
+N: And the narrator would like to point out, because nobody in that building could have, that this was the single most dangerous minute in the first year of Umbrella's existence. Not the Tyrant. Not the plant. This: the moment the man who could not be moved discovered that the passenger in his skull was carrying the one tool he did not have, and decided — coldly, without pleasure, the way he decided everything — that he was going to start using it.
 
 [music] m_scheme -8
-[img] a staff meeting around a break-room table on a Monday morning, {LESSING} sitting stiffly with a coffee, {WESKER} at the head of the table in sunglasses, cinematic
-[loc] Monday, 9:00 a.m.
-N: On Monday morning, the Director held his weekly meeting in the break room, and Howard Lessing sat at the far end of the table and tried to look like a man who had spent the weekend gardening.
-N: It did not work. It would not have worked on anyone paying attention. It certainly did not work on a man who could now read the human face the way other people read subtitles.
-[img] extreme close-up of {LESSING}'s face under fluorescent light, a tiny muscle tensing beside his eye, faint analytical overlay lines, cinematic
-N: Guilt, in the crease beside his eye. Fear, in the way he held his cup with both hands. And under them both, a thing the Cold-Read had no single word for — a kind of trembling exultation, like a man standing on the edge of a high diving board, about to jump, and sure the water would catch him.
-N: The Director said nothing. He talked about the solvent store, and the Shenzhen licence, and the new coffee. He did not look at Lessing once.
-[pause 1.0]
-[img] {HALE} in a dark server closet standing before a monitor showing scrolling email logs, expressionless, blue light, cinematic
-N: At noon, Hale came to his office and closed the door.
-HALE: Doctor Lessing has two drafts saved to the building's mail server, Director. One is addressed to a preprint service. One to a Simon Ferris, at Verdant Axis. He's also copied fourteen gigabytes from analyzer three to a removable drive. I have the logs.
-WESKER: Of course you do.
-HALE: Shall I take the drive?
-WESKER: No. Let him bring it.
-[pause 1.2]
-
-[music] m_horror -12
-[img] {WESKER} in a car at night on a highway, dashboard light, face in shadow, sunglasses reflecting streetlights, cinematic
-[amb] amb_night_city
-N: The argument happened on the drive home that night. It was the first real one.
-N: The second voice broke in.
-ADOLF: He is a traitor.
-WESKER: He's a disappointed old man with a thumb drive.
-N: The voice inside him answered.
-ADOLF: He stole from you. He is going to sell you to your enemy. In my time a man like that was not dismissed. He was made an example. So that the next man would not try.
-WESKER: In your time you had a secret police and a country that didn't ask questions. Here, if Howard Lessing disappears, his wife calls the Wilmington police on Wednesday morning, and the Wilmington police call his colleagues, and one of his colleagues is Nadia Okafor, who is already measuring me for a coffin.
-N: The inner voice interrupted.
-ADOLF: Then do it so that nobody calls.
-WESKER: (cold) Listen to me very carefully. We are not doing that. Not now. Not for this.
-[pause 0.8]
-[img] a dark highway at night seen through a windshield, headlights, a green highway sign, rain beginning, cinematic
-N: For a while there was only the road.
-N: Then the other one, from inside.
-ADOLF: Then what?
-WESKER: A dead man is a problem. A frightened man is an asset. I don't want Howard Lessing gone. I want him mine.
-N: Adolf's voice rose in his head.
-ADOLF: A man who is afraid of you is not yours. He is only afraid.
-WESKER: That's what you never understood. For most men, it's the same thing.
-[pause 1.5]
-
-[music] stop
-[amb] amb_lab
-[img] an empty dark laboratory at night, only one desk lamp on, a single figure hunched at a computer at the far end, long shadows, cinematic
-[loc] Tuesday, 11:52 p.m.
-N: On Tuesday night, at eight minutes to midnight, Howard Lessing sat alone in lab two with the blue drive plugged in and both drafts open on the screen.
-N: The building was empty. He had checked. Tomás had left at six, Evelyn at ten — early, for her. Walter was off. The new security man, Hale, was supposedly doing rounds, but Lessing had not seen him since eight, and had decided that the new man was lazy.
-[img] close-up of {LESSING}'s finger hovering over a laptop trackpad above a glowing SEND button, sweat on his temple, cinematic
-[sfx] sfx_heartbeat g-8
-N: His finger was on the trackpad. The cursor was on the button. He had imagined this moment for thirty years, and in all thirty years it had looked like a stage in Stockholm, and not like a dim lab in an industrial park with a flickering tube and the smell of old bleach.
-N: He took a breath.
-[pause 1.0]
-WESKER: (soft) It's a good paper, Howard.
-[sfx] sfx_whoosh g-6
-[img] {WESKER} suddenly standing right behind a seated {LESSING} in a dark lab, having appeared from nowhere, one hand resting on the back of the chair, sunglasses on, terrifying calm, cinematic
-[music] m_horror -6
-N: Lessing made a sound that was not quite a word, and spun the chair around.
-N: The Director was standing directly behind him. Close enough to touch. Lessing had been facing the lab door, which was the only door, which was forty feet away across an empty room, and which had not opened. He knew it had not opened. He had been watching it.
-LESSING: How — I didn't — how long have you —
-WESKER: Figure three is the one that matters. The division curve. Lymphocytes doubling every ninety minutes, and you measured telomere length at every time point, which nobody else would have thought to do. That's what makes it undeniable. You didn't just see fast division. You saw division without ageing.
-WESKER: Your discussion is where it goes wrong. You call the virus the trigger for the repair. It isn't the trigger. It's the repair. It carries its own telomerase — that's why the ends never shorten. You found a virus that has made itself the cell's maintenance crew, and you described it better than anyone alive could have. It's a very good paper.
-[pause 0.6]
-WESKER: It's also my blood.
-[pause 1.5]
-[img] {LESSING} frozen in a desk chair, face drained of color, staring up at {WESKER} standing over him in darkness, desk lamp light, cinematic
-N: Lessing did not understand him at first. Then he did.
-N: Control Seven. The calibration sample. The tube the Director had handed Tomás with his own hand.
-LESSING: That's — no. That's not possible. Those cells — nothing human does that. Nothing —
-N: The Director took off his sunglasses.
-[sfx] sfx_impact g-10
-[img] extreme close-up of {WESKER}'s face in darkness, sunglasses removed, eyes glowing amber-red with vertical slit pupils, faint light on cheekbones, terrifying, cinematic
-[pause 1.0]
-N: His eyes were red.
-N: Not bloodshot. Red, the way a coal is red. And the pupils were not round. They were narrow and vertical, like a cat's, like a snake's, and they widened, very slightly, as they found Howard Lessing's face in the lamplight.
-N: Lessing had been a scientist for thirty-four years. He did not believe in monsters. And in that moment, looking up into those eyes from a cheap office chair, some part of his mind older than science — older than language — understood exactly what it was looking at, and screamed at him to run.
-N: He did not run. He could not make his legs work.
-[pause 1.5]
-WESKER: Nothing human does that. You're right.
-[pause 1.0]
-WESKER: So let me tell you what happens next, Howard, and then you're going to choose.
-[img] {WESKER} pulling a chair around and sitting down facing {LESSING} knee to knee in a dark lab, calm, conversational, eyes glowing faintly, cinematic
-N: He pulled a second chair around, and sat down facing Lessing, knee to knee, the way a doctor sits when he has news.
-WESKER: If you press that button, the preprint goes live tomorrow at nine. It will be the most-read paper in the world for about nineteen days. Then someone will ask for the sample. And there won't be one. The analyzer's memory was wiped this afternoon — a firmware update, very routine, Gus has the ticket. Tomás remembers running a calibration that failed because the reagents were bad. He's told Dana so, in writing. There's no Control Seven. There's no data. There's a fifty-eight-year-old scientist who was passed over his whole career, who stole files from his employer, emailed a competitor for a job the same night, and fabricated the most extraordinary result in the history of biology.
-[pause 0.8]
-WESKER: Simon Ferris will forward your email to Verdant's lawyers inside an hour. Your pension goes. Your name goes. And every obituary they eventually write about you will mention it in the second paragraph.
-[pause 1.0]
-LESSING: (whisper) And — the other choice?
-[pause 0.6]
-WESKER: You delete them. Both. Yourself, now, while I watch. You give me the drive. And you stay. You keep your job, and your salary goes up in January, and one day — not soon, but one day — you get to see what that blood becomes. You get to be in the room.
-[pause 1.2]
-[amb+] amb_cryo -6
-[sfx] sfx_cryo_hiss g-12
-N: Somewhere below them, very faint through the floor, a compressor cycled. A long, slow breath.
-N: Lessing did not know what was in the basement. He would not know for years. But he heard the sound, and he saw the Director glance down toward it, just once, with something that looked almost like affection — and for the rest of his life, when he could not sleep, Howard Lessing would hear that breath.
-[pause 1.5]
-N: He turned back to the laptop.
-[sfx] sfx_mouse_click
-[img] a laptop screen showing a dialog asking to permanently delete a draft, the cursor clicking yes, dim lab light, cinematic macro
-N: He deleted the paper. He deleted the email. He emptied the trash folder without being asked, and then he opened the mail server's drafts folder and deleted it from there as well, because he was a thorough man, and because he wanted — he did not know why — for the thing in front of him to see that he was being thorough.
-N: Then he pulled the blue drive out of the laptop and held it out. His hand was shaking so badly that the drive rattled against his wedding ring.
-[img] a small blue USB drive being crushed flat between two gloved fingers, plastic splintering, macro, cinematic
-[sfx] sfx_bone_snap g-6
-N: The Director took it between his thumb and forefinger, and squeezed. The casing split. The chip inside folded like foil.
-WESKER: Thank you, Howard. Go home. Kiss your wife. Come in at nine tomorrow. Don't be late.
-[pause 1.5]
-
-[music] m_rain_piano -12
-[amb] amb_night_city
-[img] {LESSING} leaning against his old sedan in a dark empty parking lot, bent over, one hand on the car roof, sodium streetlight, cinematic
-N: Howard Lessing walked out to the parking lot, and put one hand on the roof of his car, and was sick on the tarmac.
-N: Then he drove home, very carefully, under the speed limit the whole way, and got into bed beside his wife, and lay on his back in the dark until the sky went grey.
-N: He came in at nine. He was not late. He was never late again.
-[pause 1.0]
-N: He was never loyal, either. That is important, and it is the thing the Director misjudged. Howard Lessing would never love Umbrella, or believe in it, or want it to win. He would only be afraid of it. And fear, in a man with nothing left to lose, has a half-life. It decays. Slowly. Like everything.
-[pause 1.5]
-
-[music] m_system -10
-[amb] amb_night_city
-[img] {WESKER} driving at night, face lit by a glowing crimson holographic panel above the dashboard, calm, cinematic
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Traitor contained: 1,200
-Superior action — evidence neutralised: 600
-Total: 1,800
-[say] Assessment. Traitor contained.
-[/system]
-[sfx] sfx_level_up
-[system] LEVEL UP
-Level: 4
-Stat Points available: 5
-Points: 4,200
-[say] Level up. Level four.
-[/system]
-N: Three into Intelligence. Two into Defence.
-N: The other one spoke, unasked.
-ADOLF: You have made a man who hates you.
-WESKER: I've made a man who obeys me. Hate's a hobby. It doesn't show up to work.
-N: The old voice stirred inside him.
-ADOLF: In my experience, hate shows up to everything eventually.
-WESKER: In your experience, you were surrounded by men who hated you and you had them shot. And then you still lost.
-[pause 1.0]
-N: The voice inside him, barely a murmur.
-ADOLF: (slow) We shall see who is right about Howard Lessing.
-N: They would. It would take three years.
-[pause 1.5]
-
-[music] m_scheme -10
-[amb] amb_lab
-[img] {EVELYN} at a lab bench glancing across the room at {LESSING}, who is working mechanically with hollow eyes, morning light, cinematic
-[loc] Wednesday, 9:40 a.m.
-N: Evelyn Marsh noticed the next morning.
-N: She noticed because she noticed everything about the building now — she had started to think of it, privately, as hers. Howard Lessing had come in at nine exactly. He had said good morning to everyone, including Tomás, whom he had not said good morning to since two thousand twenty-two. He was working on a routine assay with the concentration of a man defusing a bomb, and every few minutes, without seeming to know he was doing it, he looked at the floor.
-[img] {EVELYN} standing in the doorway of a corner office speaking to {WESKER}, who is reading papers at his desk, curious expression, cinematic
-EVELYN: Is Howard all right?
-WESKER: Howard's had a revelation.
-EVELYN: What kind of revelation?
-WESKER: The religious kind.
-[pause 0.8]
-N: She looked at him for a long moment. He looked back, perfectly pleasant, sunglasses on, and did not elaborate.
-N: A more cautious person might have been frightened by that answer. Evelyn Marsh was not a cautious person. She went back to her bench feeling something she would not have been able to name, but which was, if she had been honest, very close to envy.
-[pause 1.5]
-
-[music] m_tension -10
-[img] {HANNAH} in a cramped newsroom at night pinning printouts to a corkboard, clinic names connected with red string to a photo of {TOLLIVER}, cinematic
-[amb] amb_office_hum
-N: Across town, in the eighteen-person newsroom of the Wilmington Ledger, Hannah Price had found the name of the man who ran Verdant Axis's three good trial sites.
-N: It was a private clinic network in Maryland. Its registered owner was a limited partnership. The limited partnership's general partner was a man named Curtis Vane.
-N: Curtis Vane was Graham Tolliver's brother-in-law.
-[img] a corkboard covered in documents and red string converging on a single photograph of a smiling tanned CEO, desk lamp, noir, cinematic
-N: She sat back in her chair and looked at the board for a long time. Then she picked up her phone, and scrolled to a number she had saved as Umbrella, and did not call it.
-N: She was not a fool. She knew she was being used. She had known it in the diner. The question she could not stop asking herself — the question that would drive the next two years of her life — was not whether Albert Wesker was using her.
-N: It was how he had known.
-[pause 3.0]
-[music] stop
+[img] {WESKER} and {CATHERINE} on a rooftop at night above a lit campus, river and city lights beyond
+[loc] The roof — 22 March, 10:40 p.m.
+N: Catherine found him on the roof that night with a drawing of the campus.
+CATHERINE: Four hundred Points.
+WESKER: I beg your pardon?
+CATHERINE: That's what you said to Pell on the phone. "Four hundred left." He assumed you meant thousand. I don't think you did.
+N: Wesker looked out at five buildings that had cost him everything he had.
+WESKER: No. I did not.
+CATHERINE: I've stopped asking where the money comes from. I want you to know that's a decision I made, not a thing I failed to notice.
+WESKER: I know.
+CATHERINE: (soft) I want to know what you're going to do with it.
+N: And he told her — not all of it, not the volcano or the merge or the panel that hung in the air where nobody else could see it, but the shape of the next ten years, in about ninety seconds, in the flat tone of a man reading out a train timetable.
+N: When he had finished, Catherine Adeyemi stood on the roof of a building that had appeared out of nothing, and heard a man describe a company larger than any state on earth, and believed every word, and understood in that moment that she had already chosen, weeks ago, in a boardroom, over a cup of coffee.
+CATHERINE: That's monstrous.
+WESKER: (cold) Yes. Is it wrong?
+N: She thought about it for a long time. That is the detail. She thought about it.
+CATHERINE: Ask me in five years.
+WESKER: (soft) I intend to.

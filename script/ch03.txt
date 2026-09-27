@@ -1,242 +1,146 @@
-# 3 | The First Purchase
+# 3 | A Product Worth Owning
 
-[music] m_system -6
-[amb] amb_office_hum
-[img] a dark office at night lit only by rows of floating crimson and white holographic shop panels, a man in a leather chair silhouetted before them, cinematic
-[loc] Division Seven — Friday, 11:20 p.m.
-N: The Shop did not look like a shop.
-N: It looked like a war room drawn in light. Panel after panel unfolded in the dark of the corner office, each one ruled with thin crimson lines, each one scrolling quietly, patiently, like a catalogue written by something that had all the time in the world and knew exactly what he wanted.
-[system] THE SHOP
-Points: 1,700 · Level 2
-Tabs: Viral · Personnel · Blueprints · Abilities · Facilities · Assets
-Territory: locked
-Items available: 41 · Items locked: 318
-Prices scale with the host's level.
-[say] The Shop. Six tabs open. One locked. Forty-one items available.
-[/system]
-N: He did not browse. He read it the way an analyst reads a balance sheet — top to bottom, every line, looking for the thing the seller did not want him to notice.
-[system] VIRAL
-Prototype Stabilization I: 1,000
-Prototype Stabilization II: 8,000
-Regeneration Tuning I: 4,500
-Adaptive Metabolism: 3,000
-Ocular Control (pupil masking): 1,200
-Viral Dominion I: locked · Level 30
-[say] Viral.
-[/system]
-[img] holographic blueprint of a hidden underground laboratory level beneath an old brick building, glowing wireframe, crimson lines, cinematic
-[system] FACILITIES
-Concealed Containment Retrofit, BSL-3: 4,000
-Automated Sequencing Suite: 2,500
-Cold Archive Vault: 1,800
-Freight Elevator (destination unlisted): 3,200
-Subsurface Expansion, one level: 12,000
-Arklay Sublevel: locked · Level 8
-[say] Facilities.
-[/system]
-N: A containment laboratory that would appear, overnight, behind a wall that had always been there. An entire underground level, drawn in glowing wireframe beneath the building, with a price attached like a tag on a coat.
-[system] PERSONNEL — ALL LOYAL
-Receptionist: 300
-Maintenance Technician: 400
-Laboratory Technician: 600
-Comptroller: 700
-Research Associate: 800
-Security Specialist: 2,000
-Legal Counsel (Delaware bar): 3,800
-Silent Security Squad, six: locked · Level 8
-Research Cohort, twelve: locked · Level 10
-Personnel acquired through the System cannot disobey.
-[say] Personnel. Every item on this tab is loyal. Personnel acquired through the System cannot disobey.
-[/system]
-[img] a row of faceless human silhouettes standing at attention inside glowing holographic frames, like products on a shelf, eerie, cinematic
-N: That line he read three times.
-N: Cannot disobey. Not will not. Cannot. Human beings — or things shaped exactly like them — delivered with their loyalty already installed, the way a car arrives with its engine.
-N: The voice inside him, barely a murmur.
-ADOLF: (soft) A guard. Buy a guard. Every movement begins with men who will stand at the door.
-WESKER: Every movement you started ended with men standing at a door in a bunker. Let's try something new.
-[system] BLUEPRINTS
-Veterinary Antiviral, canine parvovirus: 1,500
+[music] m_corporate -8
+[amb] amb_office_hum -15
+[img] {WESKER} standing at a whiteboard covered in molecular diagrams in a bright meeting room, scientists seated and watching
+[loc] Umbrella Research Division Seven — Monday, 21 September 2026
+N: On the Monday of his second week, Albert Wesker called a meeting, and told nine people what the company they worked for was going to sell.
+N: They had been expecting a strategy session. What they got was closer to a weather report: brief, factual, and about a storm that had already been decided upon somewhere else.
+WESKER: We make diagnostics. Specifically, we make one: a pathogen panel. Blood or swab in, forty-one organisms out, under twenty minutes, on a benchtop box a clinic in Ohio can afford without a grant.
+N: A hand went up. One of Voss's juniors, twenty-six years old, brave for four more seconds.
+MAN: Director — that's a crowded market. Everyone has a panel.
+WESKER: Everyone has a panel that takes ninety minutes, costs four hundred dollars a run, and is wrong about coinfections. Ours will take nineteen minutes, cost thirty-one dollars a run, and will not be wrong.
+MAN: (soft) How do you know?
+N: And Wesker looked at him, for rather longer than was comfortable, with the flat patience of a man watching a dog work out a door handle.
+WESKER: Because I have read the literature, Mr. Aldridge, and because I have read what the literature was careful not to say. Sit down.
+[sfx] sfx_system_open +0.2
+[system] SHOP — BLUEPRINTS, TIER I
+Rapid Pathogen Assay — 41-target syndromic panel: 2,500
 Stable Protein Scaffold Library: 2,200
-Rapid Pathogen Assay: 3,000
-Thermostable mRNA Formulation: 4,800
-Cellular Renewal, fragment: locked · Level 8
-Prototype Serum, human-safe: locked · Level 25
-Blueprints include full documentation, reproducible by the host's staff.
-[say] Blueprints. Full documentation, reproducible by your staff.
+Veterinary Antiviral, canine parvovirus: 1,500
+Cellular Renewal Compound — locked, Tier II
+[say] Blueprints. Rapid Pathogen Assay, a forty-one target panel: two thousand five hundred. Stable Protein Scaffold Library: two thousand two hundred. Veterinary Antiviral: fifteen hundred.
 [/system]
-[img] a glowing human brain made of crimson light threads suspended in a dark void, holographic interface, cinematic
-[system] ABILITIES
-Language Pack, one language: 1,000
-Speed Conditioning: 1,800
-Perfect Recall: 2,000
-Microexpression Cold-Read: 2,500
-Command Presence I: 3,500
-Thought Acceleration I: locked · Level 10
-Disease and Toxin Immunity: locked · Level 15
-Boardroom Gravity: locked · Level 18
-[say] Abilities.
+WESKER: Purchase.
+[system] PURCHASE
+Rapid Pathogen Assay — 2,500
+Balance: 2,400
+Delivered to: Sublevel B4, bench 2
+[say] Purchase. Rapid Pathogen Assay. Two thousand five hundred. Balance, two thousand four hundred. Delivered to Sublevel B4, bench two.
 [/system]
-[system] ASSETS
-Office Supplies, one year: 50
-Corporate Shell, any jurisdiction: 600
-Vehicle, black sedan: 900
-Clean Identity, documented history: 2,400
-Company Jet: locked · Level 12
-[say] Assets.
-[/system]
-N: The other voice had gone straight past all of it, to the one tab that would not open.
-ADOLF: And that one? Territory?
-WESKER: Locked. Which tells you what it thinks we'll become. It isn't selling us a company. It's selling us a progression.
-N: He sat back. And then, because he had read every line, he saw it.
-WESKER: Look at the prices. Personnel are cheap — cheaper than a real hire's first month. Facilities cost roughly what they'd cost in the world. Abilities are expensive, and get steeply more expensive by level. That's a normal price curve. Except for one tab.
-WESKER: Blueprints. A thermostable vaccine formulation for forty-eight hundred. A diagnostic assay for three thousand. It's pricing them like parts. But a blueprint is the only thing on this entire list that earns Points after you've bought it. Every patient it treats, every company it beats, every contract it wins pays back into the machine. Everything else is a cost.
-WESKER: It's selling compounding interest at retail. That's where this goes. Not guards. Products.
-[pause 0.6]
-N: He had seventeen hundred Points. The stability meter in the corner of his vision read sixty-five percent.
-[pause 1.0]
-[img] {WESKER} in a dark office, jaw tight, staring at a small glowing crimson gauge floating in the air, face half in shadow, cinematic
-N: He wanted everything. That was the first honest feeling he had in the Shop, and it was so strong it was almost physical. He wanted the containment lab and the underground level and the guard and the immunity and the power to read a man's face like a newspaper. He wanted, if he was honest, to buy the whole catalogue in one night and wake up on Monday a king.
-N: Instead, he bought the cheapest thing on the list that would keep him alive.
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Prototype Stabilization I
-Viral decay: halted at 65%
-Points: 700
-[say] Purchase confirmed. Viral decay halted.
-[/system]
-[sfx] sfx_heartbeat_slow g-4
-[img] macro shot of glowing crimson veins beneath pale skin slowly calming and dimming, cinematic, bio-luminescent
-N: He felt it immediately. A tightness under the sternum he had not known was there, like a fist he had been holding for five days, opened. The virus in his blood did not become tame. It simply stopped eating.
-N: It was, the narrator is obliged to record, the only time in this entire story that Albert Wesker spent Points on humility.
-[pause 1.0]
-N: Adolf chimed in.
-ADOLF: And the rest?
-WESKER: The rest buys the most dangerous man in the building.
-N: Then the other one, from inside.
-ADOLF: A soldier.
-WESKER: An accountant.
-[pause 0.5]
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Personnel: Comptroller (Loyal)
-Arrival: Monday, 8:00 a.m.
-Integration: complete
-Points: 0
-[say] Purchase confirmed. Comptroller. Arrival, Monday, eight A M.
-[/system]
-N: The old voice stirred inside him.
-ADOLF: You have spent our fortune on a clerk.
-WESKER: Money is the only army that works in peacetime. And I've just hired its general.
-[pause 1.5]
+N: It did not appear in a flash of light. It appeared the way everything appeared: as though it had been there for a year.
+[img] a laboratory bench covered with binders, a benchtop diagnostic instrument, printed protocols, cold blue light
+N: Six binders of process documentation. Validation data from two hundred and eleven clinical samples. A manufacturing specification down to the grade of the plastic. A cartridge design. A reagent formulation. Three years of somebody's meticulous work, in a lab that had never done it, signed off by scientists who did not exist.
+N: Wesker read all of it in a night, which is not a figure of speech.
+N: And then, because he was who he was, he improved it.
 
-[music] m_scheme -6
-[amb] amb_office_hum
-[img] {PELL} standing perfectly still at a reception desk at 8 a.m. sharp, briefcase in hand, morning light, cinematic
-[loc] Monday, 8:00 a.m.
-N: On Monday morning, at eight o'clock exactly, a man named Mister Pell walked into Division Seven and asked for his desk.
-N: He was thin and pale, somewhere in his fifties, in a grey suit so neat it looked ironed onto him. He carried a leather briefcase and a paper bag containing, it would turn out, the same lunch he would eat every day for the next thirteen years: a cheese sandwich on white bread, an apple, and a bottle of still water.
-[img] {DANA} at her desk looking at a computer screen with confused surprise, an HR file open showing a new employee record, cinematic
-N: Dana looked him up in the payroll system, because she had never heard of him.
-N: He was there. Hired in March. Chartered accountant, certified in three states, with a clean background check, a signed contract, a parking space with his name painted on it that she could have sworn had been blank on Friday, and a performance review from June that she did not remember writing, but that was unmistakably in her own words.
-DANA: I — sorry. I'm so sorry, Mister Pell. I don't know why I didn't —
-PELL: It's quite all right, Mrs. Whitfield. It's been a difficult month for everyone.
-[pause 0.6]
-[img] close-up of {PELL}'s face, pale, unblinking, polite, faint too-perfect smile, fluorescent light, uncanny, cinematic
-N: His voice was pleasant. His manners were perfect. He remembered her name, and her late son's name, and the fact that she took her coffee with oat milk. And there was something about the way he stood — absolutely still, his weight exactly even on both feet, like a coat on a hanger — that made her want, very slightly, to step back.
-N: She told herself it was nothing. She would tell herself that for a long time.
-[pause 1.0]
-[img] {PELL} alone in a small windowless office surrounded by neat stacks of ledgers and three monitors of spreadsheets, working in perfect stillness, cinematic
-N: Pell went to work.
-N: By lunchtime on Monday he had found a claim that Division Seven held against its own dead parent company — six years of unpaid intercompany charges, two hundred and ninety thousand dollars that Umbrella Holdings in London had owed to Umbrella Delaware and never paid, now filed as a creditor claim with Harrow and Lisle, ahead of half the other creditors.
-N: By Tuesday he had found a research tax credit the division had been entitled to since two thousand nineteen and had never claimed, because nobody had known how.
-N: By Wednesday he had renegotiated the electricity contract, the waste-disposal contract, the equipment leases, and the coffee.
-[sfx] sfx_keyboard g-6
-N: He did not raise his voice once. He did not seem to get tired. When Tomás asked him, as a joke, whether he ever went home, Pell looked at him with polite puzzlement, as if he had been asked whether he ever turned into a bird.
-PELL: I live quite close.
-N: Nobody ever found out where.
-[pause 1.2]
+[music] m_system -9
+[img] {WESKER} alone at a laboratory bench at night, one lamp, pipette in a gloved hand, glass vials, deep shadows
+[loc] Sublevel B4 — 2:40 a.m.
+N: The System's design ran its reaction in twenty-two minutes and called it twenty. The limiting step was the lysis: getting a virus or a bacterium open fast enough to read what was inside it without destroying what you wanted to read.
+N: The blueprint used heat and a chaotropic salt. Everybody used heat and a chaotropic salt.
+WESKER: (soft) And everybody has the same three failures. Enveloped virus at low titre. Mycobacteria. Spores.
+N: He spent four nights on it, alone, with the vault open and a rack of the archive's stranger cell lines thawing beside him, and on the fourth night he cut the reaction to nineteen minutes by doing something that no competitor's chemist would have dared put in a regulatory filing: he stopped trying to open everything at once.
+N: Two chambers instead of one. A gentle enzymatic step for the fragile organisms, running in parallel with a brutal mechanical one for the tough ones, and the two streams recombined at the amplification stage with an internal control that corrected for the difference. It was inelegant. It was, in the phrase Voss used when she saw it, *offensively practical.* And it made the panel correct about the exact cases that every other panel on the market got wrong: the patient with two infections, one of them hiding.
+VOSS: (soft) Who thinks like this?
+WESKER: Someone who has been on the other end of a false negative.
+N: He said it without any particular weight, and Dr. Lena Voss did not ask what he meant, and the narrator will simply note that Albert Wesker had once, in another world, watched a containment protocol fail because a test came back clean on a Tuesday, and that he had learned from it, and that the thing he had learned was not compassion.
+[sfx] sfx_system_chime +0.3
+[system] PATENT FILED
+Two-stream lysis with cross-normalised internal control
+Inventor: A. Wesker
+Acting with intelligence: +1,200
+[say] Patent filed. Two-stream lysis with cross-normalised internal control. Inventor: A. Wesker. Acting with intelligence: twelve hundred Points.
+[/system]
 
-[music] m_rain_piano -10
-[amb] amb_lab
-[img] {TOMAS} in a lab loading a blood sample tube labelled CONTROL 7 into an old hematology analyzer, screens glowing, cinematic
-N: There was one other thing that happened that week, and it happened quietly, and nobody except Albert Wesker understood how much it mattered.
-N: On Tuesday morning, the Director had handed Tomás a sample tube with a white label that said, in neat handwriting, Control Seven, and asked him to run the full panel on it — to calibrate the analyzers, he said, after the power cuts.
-N: It was his own blood.
-[img] a vintage laboratory analyzer screen flashing red ERROR messages and impossible numbers, a printout curling out of it, cinematic macro
-[sfx] sfx_heart_monitor g-8
-N: The analyzer had not liked it. It flagged a white-cell count it described as implausible, a division rate it described as impossible, and a viral signature it could not match against anything in its library. It printed three pages of errors, and then it crashed.
-TOMAS: Yeah, so — Control Seven broke the machine. I think the reagents are bad. I'll re-order.
-WESKER: Don't. Throw the printout away. The reagents are fine.
-[pause 0.6]
-[img] {LESSING} in a dim lab late in the day picking a crumpled printout out of a waste bin, reading it with growing shock under a desk lamp, cinematic
-N: Tomás threw the printout away.
-N: And at six fifteen that evening, Doctor Howard Lessing, who had spent thirty years going through other people's garbage looking for the thing that would finally make him famous, took it out of the bin.
-[pause 1.0]
-N: He read it standing up. Then he sat down and read it again.
-N: He did not know whose blood it was. He did not know what the signature meant. But he knew, with a certainty that made his hands cold, that he was looking at something no human cell was supposed to do — cells dividing and repairing at a rate that should have been cancer, and was not. A viral genome that the database did not recognise, because the database had never seen it. Because nobody had.
-LESSING: (whisper) My God.
-[img] {LESSING}'s trembling hand plugging a small USB drive into an old lab computer at night, reflection of data in his glasses, cinematic
-N: That night he stayed late. He told his wife he was running an overnight assay. He went into the analyzer's memory, where the raw data from Control Seven was still sitting in a folder nobody had thought to delete, and he copied it onto a small blue drive that he kept on his keychain.
-N: Then he put the drive in his pocket, and drove home very carefully, the way a man drives when he believes he is carrying his whole future in his coat.
-[pause 1.5]
-
-[music] m_system -10
-[amb] amb_lab
-[img] {WESKER} alone in a dark lab at 2 a.m. looking into an old binocular microscope, a single lamp, blue monitor glow, cinematic
-[loc] Wednesday, 2:14 a.m.
-N: The Director, of course, already knew. But that week he was busy with something more interesting than Howard Lessing.
-N: He was busy with himself.
-N: Every night, after the building emptied, he took the old microscope in lab three, and a fresh sample of his own blood, and he looked.
-[img] microscope view of strange crimson-glowing cells dividing and weaving thread-like tendrils, fictional virus, beautiful and alien, macro, cinematic
-N: He had done this before, in another life. In another world he had watched this same virus under far better lenses, in laboratories deep beneath the Arklay Mountains, built with a budget that could have bought this whole city. But he had never looked at it like this — from inside the body it had rebuilt.
-N: The Prototype was beautiful. That was the Wesker half's opinion, and he did not hold it lightly. It moved through the sample like a patient army, finding damaged cells and rewriting them, finding healthy cells and improving them, never wasting anything, never hurrying. Everything it touched became stronger. Everything that could not be made stronger, it consumed.
-[pause 0.8]
-N: Adolf spoke up.
-ADOLF: It is like an idea.
-WESKER: It's a virus.
-N: Adolf answered from inside.
-ADOLF: It is like an idea. It enters. It finds what is weak. It rewrites it, or it removes it, and everything that remains is stronger than before.
-WESKER: (cold) You're describing a disease, you realise.
-N: The second voice came back.
-ADOLF: I am describing a nation.
-[pause 1.0]
-N: Wesker did not answer. In the dark lab, the man at the microscope sat very still, while two minds shared one set of eyes, and looked at the same thing, and saw it completely differently. And the most frightening thing about the next fifty years was that, in the end, it would not matter which of them was right.
-[pause 1.5]
-
-[music] m_rain_piano -6
-[amb] amb_office_hum
-[img] an old dusty upright piano in the corner of a shabby break room at night, one lamp on, a young woman in a lab coat sitting at it, cinematic
-N: At three in the morning, walking back to his office, he heard a piano.
-N: There was one in the break room. Nobody knew where it had come from. It had been there since the building was built, badly out of tune, and Tomás occasionally played the first half of a video game theme on it to annoy Lessing.
-[img] {EVELYN} sitting alone at an old upright piano at 3 a.m., touching the keys absent-mindedly, lamp light, melancholy, cinematic
-N: Evelyn Marsh was sitting at it, alone, in her lab coat, playing four notes over and over. Falling, and falling, and falling, and landing somewhere unresolved.
-[music] stop
+[img] {PELL} sitting across a desk from {WESKER} holding an open folder, an office with a river view, daylight
+[loc] Sixth floor — 1 October
+N: Mr. Pell did the rest, and Mr. Pell, it turned out, was a kind of weapon.
+N: He never raised his voice. He never appeared to hurry. He arrived each morning at seven twelve with a folder, and over six weeks that folder quietly turned a certified blueprint into a business.
+PELL: The device qualifies as a moderate-complexity panel. There is a predicate on the market, which means clearance rather than approval: four months, not four years. I have filed. The submission is complete and correct and there is nothing in it for a reviewer to want.
+WESKER: Manufacturing.
+PELL: Contracted in Puerto Rico for the first eighteen months, at a price that is high because we are unknown. I have taken the high price and a clause that lets us leave on thirty days' notice, because we will not be unknown for eighteen months.
+WESKER: Price to the customer.
+PELL: The market is three hundred and eighty dollars a run. Our cost at volume is nine. I would suggest one hundred and ninety.
+WESKER: Thirty-one.
+N: Pell's pen stopped.
+PELL: Director. At thirty-one dollars we make twenty-two dollars a cartridge instead of a hundred and eighty-one.
+WESKER: At thirty-one dollars every hospital network in the mid-Atlantic replaces its instruments inside a year, and the instrument they replace them with is ours, and the cartridges only fit ours, and in four years there is no such thing as a three-hundred-and-eighty-dollar panel because I will have made the price of being wrong about a patient too obvious to defend.
 [pause 0.4]
-[music] m_title -14
-N: It was not a tune he knew. And yet it was, somehow, exactly the sound of the building. Of the rain, and the freezers, and the dead company, and whatever it was about to become.
-WESKER: You're here late, Doctor Marsh.
-[pause 0.3]
-N: She jumped a little. Then she didn't apologise, which he noticed.
-EVELYN: So are you. I couldn't sleep. The sequencer's free at night. Are you — can I ask what you're working on? Every night. The light in lab three.
-WESKER: Something that will make your paper look like a footnote.
-[pause 0.6]
-[img] {EVELYN} looking up at {WESKER} standing in the dark doorway of a break room, lamp light between them, intense, cinematic
-EVELYN: (soft) Can I help?
-N: He looked at her for a long moment. The Wesker half of him saw a talented young woman with no loyalties, no family nearby, nothing to lose, and an enormous hunger to be seen. The other half saw something else. Something it had seen before, in other rooms, in another century, in the faces of young people in crowds.
-N: Both halves agreed on the answer.
-WESKER: Not yet.
-[pause 1.5]
-[music] m_scheme -8
+PELL: (flat) Thirty-one dollars.
+WESKER: And, Mr. Pell — at cost to any public health laboratory that asks. Every one of them. No paperwork, no negotiation, no press release.
+PELL: That is a considerable amount of money to give away.
+WESKER: It is a considerable amount of money to *lend*. They will have our boxes on their benches when something frightening happens, and when something frightening happens they will call the number on the box.
+N: The narrator notes, for the record, that the first genuinely evil thing Albert Wesker did in this world was to give away a very good medical test to the people who most needed it, for free, on purpose, ten years early.
 
-[img] {PELL} at the door of a dark office holding a single sheet of paper, expressionless, {WESKER} at his desk in shadow, dawn light, cinematic
-[loc] Friday, 7:59 a.m.
-N: On Friday morning, at one minute to eight, Mister Pell knocked on the door of the corner office with a single sheet of paper in his hand. He read it aloud without looking at it, in a voice as flat and pleasant as a hotel carpet.
-PELL: Division Seven's cash position is now four hundred and eighty-one thousand dollars, with a further two hundred and ninety thousand receivable from the London administration, expected in the first quarter. Operating costs have been reduced by nineteen percent. The research tax credit claim has been filed. I've moved the coffee to a different supplier. It's better.
-WESKER: Good.
-PELL: There is one problem, Director.
-[pause 0.6]
-WESKER: Go on.
-[img] a heavyset man in a windbreaker and baseball cap standing in a parking lot, glaring up at an old brick building, holding a phone, overcast, cinematic
-PELL: There is a problem with the landlord.
-[pause 2.5]
-[music] stop
+[music] m_tension -8
+[img] {TOLLIVER} in an expensive open-collar shirt sitting stiffly in a boardroom chair, a lawyer beside him, tense
+[loc] Boardroom, Division Seven — 12 November
+N: The clearance came through on the fourth of November. The first orders came in on the ninth. On the twelfth, a man named Graham Tolliver drove up from Trenton with his general counsel and asked for a meeting, and was given one at four o'clock, and was kept waiting until four twenty.
+N: Tolliver was the chief executive of Verdant Axis Therapeutics: eleven hundred employees, a listed stock, and a syndromic panel that had taken his company nine years and two hundred million dollars to build. It ran in ninety minutes and cost three hundred and eighty dollars, and until the fourth of November it had been the best in its class.
+N: He had come to buy the patent. He had a number in his pocket and a threat behind it, and he had rehearsed both in the car.
+N: Wesker came in at four twenty, alone, with no folder.
+WESKER: Mr. Tolliver.
+TOLLIVER: You've kept me waiting twenty minutes.
+WESKER: Yes.
+N: He sat down. He did not apologise and he did not explain, and the silence that followed lasted long enough that Tolliver's counsel began the pitch himself, out of sheer discomfort, four minutes before he had planned to.
+LAWYER: My client is prepared to acquire the two-stream lysis patent and the associated instrument line for forty million dollars. To be frank, Dr. Wesker, that is a generous number for a company that shipped its first unit nine days ago. And I should say that we have reviewed your filings and we believe there are — overlaps — with our own portfolio, which would be expensive for a firm of your size to litigate.
+N: Wesker looked at him with what appeared to be polite interest.
+WESKER: Which claim?
+LAWYER: I'm sorry?
+WESKER: You have asserted an overlap. Tell me which claim of which patent. You have eleven in this space. Nine of them are amplification chemistry, which I do not use. One is a cartridge geometry that expired in March, and one is the ninety-minute thermal protocol, which I would not want if you paid me to take it.
+[pause 0.5]
+N: The counsel opened his folder. Wesker had not brought a folder, and the counsel's was suddenly the loudest thing in the room.
+WESKER: (cold) You came here with a number and a bluff, and the number is an insult and the bluff is a question you cannot answer in front of your own chief executive. Let us not spend the afternoon on it.
+TOLLIVER: Then let's talk seriously. Eighty million.
+WESKER: No.
+TOLLIVER: A hundred and twenty. That's more than your entire —
+WESKER: Mr. Tolliver. Your Q3 statement shows a hundred and ninety million in panel revenue, which is sixty-one per cent of your business, and a debt covenant that tests against trailing revenue every quarter. You have already lost the Christiana network, and you will lose Jefferson within the month, because I have priced a better test at eight per cent of yours and I have no shareholders to explain it to. By March your trailing revenue will breach that covenant. Your lender will not renegotiate, because your lender has spent four years looking for a reason not to. You did not come here to buy a patent. You came here because you have a fuse and you have read the length of it.
+N: Nobody spoke.
+N: The narrator would like to record what was actually happening in that room, because it happened at every scale for the next sixty-five years and the mechanism never changed. Wesker had not threatened anyone. He had not lied. He had simply arrived in possession of every fact about the other man's life, arranged them on the table in the order that hurt most, and then waited, without expression, for the other man to look at them.
+WESKER: I will not sell you the patent. I will license it to you.
+TOLLIVER: (soft) License it.
+WESKER: Non-exclusive, five years, for your instrument line. It will let you cut your run time to thirty-one minutes and your price to sixty dollars, which will save your covenant and your job. The fee is nine million a year, and four per cent of the panel revenue, and one further term.
+TOLLIVER: Which is?
+WESKER: Verdant Axis withdraws from the public-health tender in Pennsylvania, New Jersey and Delaware. You will not bid against me for government work again.
+N: The general counsel started to say something about restraint of trade. Tolliver put a hand on his arm without looking at him — the gesture of a man who has stopped listening to advice — and stared across the table at a face he could not see behind a pair of black glasses.
+TOLLIVER: You're letting me live.
+WESKER: I am letting you *work*. There is a difference, and you will feel it every quarter when the payment goes out.
+[sfx] sfx_pen_sign +0.3
+N: He signed on the twenty-second of November. Verdant Axis's stock went up eleven per cent on the announcement of the licence, and Graham Tolliver was praised in two trade journals for his decisiveness.
+[sfx] sfx_system_chime +0.4
+[system] SUBJUGATION OF A RIVAL
+Verdant Axis Therapeutics — licensed, constrained, retained
+Revenue secured: $9,000,000 per annum
+Points: +14,000
+Balance: 17,600 · Level 4
+[say] Subjugation of a rival. Verdant Axis Therapeutics: licensed, constrained, retained. Fourteen thousand Points. Balance, seventeen thousand six hundred. Level four.
+[/system]
+ADOLF: You should have taken the company.
+WESKER: I have taken the company. I have merely left him in it to run it for me, at his own expense, while he tells everyone it was his idea.
+ADOLF: (soft) That is not a victory anyone can see.
+WESKER: (cold) Correct.
+
+[music] m_corporate -6
+[img] a hospital laboratory bench with a small benchtop diagnostic instrument, technicians in scrubs working, bright clinical light
+[loc] Mid-Atlantic — December 2026
+N: By the middle of December, the boxes were in ninety-one hospitals.
+N: A charge nurse in Chester told a reporter she had found two infections in one child on a Sunday night with nobody senior in the building, and that the old test would have found one. A public health laboratory in Dover ran four hundred samples in a week on instruments it had not paid for. An infectious disease physician in Baltimore wrote an editorial titled *The Thirty-One Dollar Question*, which was not about Umbrella at all, and which mentioned Umbrella once.
+N: Nobody, anywhere, was frightened.
+[img] {PELL} reading from a folder, {WESKER} standing at a dark window with the city behind him, night, office
+[loc] Sixth floor — 31 December, 11:20 p.m.
+N: On the last night of the year Pell came up with the folder, as he did every night, and read the numbers aloud in the flat voice of a man reciting a shopping list.
+PELL: Units placed: four hundred and six. Cartridges shipped in December: two hundred and nine thousand. Licence income from Verdant Axis: nine million, first instalment received. Cash: thirty-one million, four hundred thousand. Headcount: thirty-eight. Total assets, on the balance sheet as it will be filed: fifty-two million.
+N: Wesker had been standing at the window with his back to the room. He turned around.
+WESKER: Read that last figure again, Mr. Pell. Slowly.
+PELL: (flat) Fifty-two million dollars.
+[sfx] sfx_system_chime +0.2
+[system] MAIN MISSION — TIER II: COMPANY
+A product worth selling — COMPLETE
+Fifty million dollars in assets — COMPLETE
+Fifty staff — 38 of 50
+[say] Main mission, tier two. A product worth selling: complete. Fifty million dollars in assets: complete. Fifty staff: thirty-eight of fifty.
+[/system]
+N: Twelve people short. Fifteen weeks from a chair in an empty office to twelve people short of a tier.
+N: He looked at the panel for a moment with his hands behind his back, and then he said the thing that the System, in all its billions of candidates and all its criteria, had chosen him for.
+WESKER: (cold) Then we will hire twelve people tomorrow, and the day after that I would like to discuss the Gacha.

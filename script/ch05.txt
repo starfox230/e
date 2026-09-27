@@ -1,190 +1,144 @@
-# 5 | The Landlord, the Inspector, and the Reporter
+# 5 | Two Humans
 
-[music] m_scheme -6
-[amb] amb_office_hum
-[img] {PELL} laying out three documents in a neat row on a desk, a property deed, a license agreement, a bank statement, desk lamp, cinematic
-N: The solution to Dale Kuchar arrived, like most of Mister Pell's solutions, in three documents laid out in a perfectly straight line.
-PELL: The first is an email from Shenzhen, Director. The contract research company that asked about the archive in August. They are still interested.
-WESKER: Of course they are.
-PELL: The second is a licence agreement. Non-exclusive. One point five million dollars. They have indicated they will sign it this week.
+[music] m_corporate -9
+[amb] amb_lab -16
+[img] a university laboratory with cluttered benches, a young woman in a white lab coat working alone at night, blue monitor light
+[loc] University of Pennsylvania, Philadelphia — 19 January 2027
+N: There are two kinds of people in an organisation, and Albert Wesker had spent four months working with only one of them.
+N: The Absolute did whatever he said. They did it perfectly, instantly and without a flicker, and by the third week of January he had established the shape of their limitation, which was this: they never once surprised him. Ask Hale to secure a building and the building was secure. Ask Hale how it might be attacked and he would give you a competent, complete, entirely unimaginative list. Voss would run any experiment he designed. She would not design a better one.
+N: A company of such people can execute anything. It cannot *invent* anything. And so, in the third week of January, Wesker went shopping for the other kind — the kind that could leave.
+[img] {EVELYN} in a white lab coat standing beside a bench looking up in surprise, cluttered university laboratory, late night
+N: He found the first one in a paper nobody had read.
+N: *Marsh, E. — Serotype-independent persistence of adenoviral vectors in primate airway epithelium: a failure analysis.* Forty-one citations, all of them by people politely disagreeing. Published eleven months ago and buried, because it was a paper about why something had not worked, and nobody gets a professorship for those.
+N: Wesker read it twice on a Sunday and drove to Philadelphia on a Tuesday.
+[loc] 9:50 p.m.
+N: Dr. Evelyn Marsh was twenty-seven, four years into a postdoctoral position that had two months left in it, and alone in the lab at ten o'clock at night, which was where she generally was.
+EVELYN: (fast) We're closed — I mean, the building's closed, you need a card, how did you —
+WESKER: Your negative controls are wrong.
+N: That stopped her.
+EVELYN: I'm sorry?
+WESKER: Figure four. You ran your uninfected controls in the same incubator as your infected plates, on the same day, on a shared gas line. Your control wells are not clean. They are simply less dirty.
+EVELYN: (soft) That's — the lab's protocol, everyone runs —
+WESKER: Everyone is wrong, which is why your figure four looks like noise, which is why three reviewers told you that your effect was not real. It is real. You have simply been measuring it against a contaminated floor.
+N: She stood there with a pipette in her hand, in a lab coat that had somebody else's name stitched on it because hers had never come, looking at a man in black sunglasses at ten at night in a locked building.
+EVELYN: Who are you?
+WESKER: Look at figure six.
+N: She looked at figure six.
+WESKER: Your vectors cleared at twenty-eight days in four animals and persisted past ninety in two. You reported a mean. You buried the most interesting result in your own paper under an average, because a mean is what your supervisor asked for.
+EVELYN: The two that persisted were —
+WESKER: Both female. Both from the second cohort. Both, if I have read your supplementary table correctly, housed separately after a ventilation fault in March.
 [pause 0.5]
-N: Graham Tolliver had been terrified that Umbrella would sell his archive to the Chinese. It had not been true. By Friday, it would be.
-N: There is a kind of cruelty that only exists in business, where you punish a man simply by making his worst fear accurate.
-[img] a property deed and a purchase agreement on a desk, one small clause circled in faint pencil, fountain pen, macro, cinematic
-PELL: The third is a purchase agreement for the building. Two point nine million. One point five down, the rest carried by the seller over five years. Mister Kuchar owes a great deal of money on his other properties. Verdant Axis has offered him rent. We will be offering him a way out.
-WESKER: And the clause?
-PELL: Section nine. A right of first refusal on the two adjoining lots he owns in the park.
-[pause 0.5]
-WESKER: He won't read it.
-PELL: He has not read anything since nineteen ninety-four, Director.
-[pause 1.2]
-
-[music] m_tension -8
-[img] {KUCHAR} sitting in a cramped diner booth staring at a purchase contract, sweating, a cup of coffee going cold, {WESKER} across from him in sunglasses, cinematic
-[loc] Wednesday, 7:15 a.m. — The Hollywood Diner
-N: They met at a diner on the edge of the park, because Kuchar did not want to go back into the building.
-N: He had not slept well since his visit to the basement. He did not know why. He told his wife it was the heartburn.
-KUCHAR: Two point nine.
-WESKER: Two point nine.
-KUCHAR: Verdant's offering double rent.
-WESKER: Verdant is offering you rent, Mister Kuchar, on a building you'll still own, with a roof that leaks and a boiler that's older than your grandson, while your bank is calling you about the property on Heald Street every Tuesday and Thursday.
-[pause 0.6]
-N: Kuchar's face went through three expressions in half a second. The Director read all three. Shock. Shame. And then — relief, the particular relief of a drowning man who has been told exactly how deep the water is.
-KUCHAR: How do you know about Heald Street?
-WESKER: I read. Two point nine, and you never have to walk into that basement again.
-[pause 1.0]
-[img] a heavy hand signing a contract with a cheap ballpoint pen on a diner table, coffee ring stain, cinematic macro
-[sfx] sfx_pen_sign
-N: He signed.
-N: He did not read section nine. He did not, in fact, read anything past the number on the first page. He signed where the little yellow flags told him to sign, and he shook the Director's hand, and he drove away from the industrial park for the last time with a feeling that he would describe to his wife that evening as having dodged a bullet.
-N: He was more right than he knew.
-[pause 1.0]
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Territory secured — Division Seven: 1,500
-Adversary neutralised — landlord: 800
-Rival pre-empted — Verdant Axis: 300
-Total: 2,600
-[say] Assessment. Territory secured. Two thousand six hundred Points.
+EVELYN: (soft) Oh my God.
+WESKER: Yes. You did not discover a failure, Dr. Marsh. You discovered that persistence is conditional, and then you apologised for it for thirty-one pages.
+N: The narrator would like to record that this conversation lasted ninety seconds, that Albert Wesker had prepared for it for six hours, and that he had not said one single word that was untrue.
+N: That is the whole trick. He never needed to lie to a clever person. He needed only to be the first human being in their life who had read them properly.
+EVELYN: What do you want?
+WESKER: I have a facility in Wilmington with a BSL-4 sublevel, a freezer archive nobody has catalogued, and no one in it who can think. Your contract expires on the thirty-first of March. Come on the first of February. You will report to me. You will not write grants. You will not teach. You will not explain yourself to a committee ever again.
+EVELYN: (fast) What's the salary?
+WESKER: Whatever you ask for. It is the least interesting question you could have asked and I will forgive you for it once.
+N: She came on the first of February. She gave four weeks' notice the next morning and spent the last of them barely sleeping.
+[sfx] sfx_system_chime +0.3
+[system] ROSTER — NEW
+Dr. Evelyn Marsh · human · Loyalty 61%
+Human loyalty is earned, and is visible to you at all times.
+Consider what you are willing to spend to raise it.
+[say] Roster. New. Doctor Evelyn Marsh. Human. Loyalty, sixty-one per cent. Human loyalty is earned, and is visible to you at all times. Consider what you are willing to spend to raise it.
 [/system]
-N: Territory, the System called it. Not property. Not real estate. Territory.
-N: The Adolf half of the mind noticed that word, and liked it very much.
-[pause 1.2]
+WESKER: (cold) I am willing to spend nothing at all.
+SYSTEM: Noted.
+WESKER: You misunderstand. I do not intend to *buy* her. Money buys a floor, not a ceiling. She has spent four years being the cleverest person in every room she has entered and being told to wait her turn. I am going to give her work that frightens her and an audience of one that is impossible to impress.
+SYSTEM: And that will be enough?
+WESKER: That will be *everything*. You have the wrong model of people, System. They do not follow what pays them. They follow whatever makes them feel like the version of themselves they always suspected they were.
 
-[music] m_system -8
-[img] {WESKER} at a desk at night selecting a glowing holographic card showing a silhouette of a tall broad-shouldered man in a black suit, cinematic
-N: That night he bought the guard.
-N: The second voice broke in.
-ADOLF: Finally.
-WESKER: Not because you asked. Because we now own a building with a monster in the basement, and the only security is a sixty-four-year-old man with a flashlight and a paperback.
-N: The inner voice, almost to itself.
-ADOLF: (slow) Walter is a soldier.
-WESKER: Walter is a man. That's the problem. Men can be frightened. Men can be bribed. Men can be asked questions by the FBI and answer them.
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Personnel: Security Specialist (Loyal)
-Designation: Hale
-Arrival: tomorrow, 6:00 a.m.
-Points: 900
-[say] Purchase confirmed. Security specialist. Designation, Hale.
+[music] m_tension -9
+[img] {CATHERINE} in a sharp charcoal suit standing in an airport arrivals hall with a phone to her ear, cold morning light
+[loc] Philadelphia International — 3 February
+N: The second one came to destroy him.
+N: Catherine Adeyemi was thirty-eight, British, eleven years in London private equity and two in a fund that had recently taken an interest in American diagnostics. She flew into Philadelphia on the third of February with a folder of numbers and a firm intention to build a short position, because the numbers were impossible.
+N: They were, in fact, impossible. That was the trouble with everything the System did. The paperwork was perfect, the history was perfect, the witnesses were perfect — and the *rates* were wrong. A company does not go from nothing to four hundred and six placed instruments in ninety days. A plant does not appear in a filing with fourteen years of depreciation and no capital expenditure to match. Every individual document was flawless. The shape they made together was a lie, and Catherine Adeyemi read shapes for a living.
+[img] {CATHERINE} and {WESKER} facing each other across a boardroom table, folders and coffee, tall windows, daylight
+[loc] Division Seven — 4 February
+N: She came to the building expecting to be stonewalled by a general counsel. She was shown into the boardroom and given coffee, and eleven minutes later Wesker came in alone and sat down opposite her.
+CATHERINE: Dr. Wesker. I'll be direct. I think your accounts are fraudulent and I intend to say so in public.
+WESKER: Which line?
+CATHERINE: (fast) The Newark plant. Two hundred and eighty thousand square feet, booked at a carrying value of thirty-one million with accumulated depreciation from 2011, and I cannot find the acquisition. I have the county recorder. I have fourteen years of filings. I have your predecessor's accounts, which I obtained legally, and there is no plant in them, and then in the third quarter there is a plant, and it has always been there.
+N: Wesker did not blink. He had known this question would arrive; he had merely expected it from a government.
+WESKER: You are correct.
+CATHERINE: (soft) I'm sorry?
+WESKER: You are correct that it cannot be accounted for. You are wrong about the conclusion. Fraud is a claim about value, Ms. Adeyemi. Go to Route 72. Stand in the truck yard. Count the vehicles. Watch a cartridge come off the line and put it in your handbag and take it to any laboratory you like. The plant is *there*. It works. It made nine hundred thousand cartridges last month. Whatever you believe about where it came from, there is no version of the story in which shorting my stock makes you money.
+N: She sat very still for a moment.
+CATHERINE: Where did it come from?
+WESKER: (cold) That is the one question I will not answer today. Ask me again in five years and I may.
+N: And then he did the thing that neither the lawyers nor the System nor Adolf would have advised, and that is the reason Catherine Adeyemi worked for him for the next fourteen years.
+WESKER: You are going to publish. You have four hundred hours of work and a thesis and you are not a coward, so you will publish, and it will be wrong, and it will cost you your reputation — because in six weeks I will report a quarter that makes your note look like a tantrum. Or.
+CATHERINE: Or.
+WESKER: Or you take the chair at the end of this table. Chief Financial Officer. You build the public company: the listing, the controls, the auditors, all of it, properly, to a standard nobody can attack. And you argue with me about money whenever you like — loudly, in front of others, and you will win perhaps one time in four.
+CATHERINE: And the other things I might want to argue about?
+WESKER: (soft) You will not argue with me about those.
+N: The pause that followed was eleven seconds long. The narrator has counted it on the recording that Hale made, which Wesker knew was being made, which is a detail worth keeping.
+CATHERINE: That's the most honest offer I've ever been made.
+WESKER: It is the only honest offer you have ever been made. Everyone else told you that you would be a partner.
+[sfx] sfx_system_chime +0.3
+[system] ROSTER — NEW
+Catherine Adeyemi · human · Loyalty 22%
+Note: this one will never reach 100%.
+[say] Roster. New. Catherine Adeyemi. Human. Loyalty, twenty-two per cent. Note: this one will never reach one hundred per cent.
 [/system]
-[pause 1.2]
+WESKER: I should hope not. I have twenty-two people who cannot say no. I have precisely one who can.
 
-[music] m_tension -10
-[amb] amb_office_hum
-[img] {HALE} standing motionless in the lobby of an old research building at dawn, hands clasped in front, facing the door, cinematic
-[loc] Thursday, 6:00 a.m.
-N: Hale was waiting in the lobby when the building opened.
-N: He was tall and broad through the shoulders, with a shaved head and a black suit cut to hide the fact that he was built like a door. He had a folder of credentials that said he had spent seventeen years in the Army and six in private security, all of it verifiable, all of it perfect. He had a firm handshake and a pleasant enough face.
-N: It was just that nobody could remember seeing him blink.
-[img] {DANA} shaking hands with {HALE} in a lobby, her polite smile slightly frozen, his face expressionless, cinematic
-DANA: Mister — Hale, is it? Welcome. I'll get you a badge.
-HALE: I have one, Mrs. Whitfield. Thank you.
-N: He did. It was clipped to his breast pocket. She had not made it. It had her signature on the back.
-N: From that day on, Dana Whitfield called him Mister Hale. She called Pell by his name, and Gus by his first name, and she had called Doctor Lessing Howard for nineteen years. But the man in the black suit was always, without her ever deciding it, Mister Hale.
-[pause 1.0]
-[img] {WALTER} and {HALE} standing side by side at a security booth at shift change, the old guard studying the younger man's face, dawn light, cinematic
-N: Walter Pruitt met him at shift change.
-N: The two of them stood in the security booth for a few minutes, going over the rota and the cameras, two soldiers of very different vintage. Walter was polite. Hale was polite. And the whole time, Walter watched the younger man's eyes, the way he had once watched the eyes of men on patrol.
-N: He had known a lot of soldiers. Good ones and bad ones, brave ones and broken ones. Every one of them, sooner or later, had looked at the door. Checked the exit. Wondered, for a second, about going home.
-N: Hale never looked at the door.
-WALTER: Where'd you serve, son?
-HALE: Wherever I was sent.
-[pause 0.6]
-N: Walter nodded slowly. Then he went home, and sat in his kitchen with a cup of coffee he didn't drink, and thought, not for the first time that month, that there was nobody home behind those eyes except the orders.
-[pause 1.5]
-
-[music] m_scheme -8
-[amb] amb_lab
-[img] {DELGADO} in a polo shirt and lanyard stepping out of a white state government car with a clipboard, looking up at an old brick building, cinematic
-[loc] Friday, 10:00 a.m.
-N: The inspector came on Friday.
-N: Kuchar, before he had sold the building, had made one phone call out of spite — to the state environmental office, to report what he described as, quote, unauthorised industrial equipment and possible chemical hazards. It was the most effective thing he had ever done, and he did not live to find that out, because he died of a heart attack in a Florida condo nine years later, never having thought about Division Seven again.
-N: The inspector's name was Ray Delgado. He was forty-seven, and he had spent nineteen years walking around buildings that did not want him there, being lied to by men in better shoes.
-[img] {WESKER} walking beside {DELGADO} through a lab corridor, gesturing openly at equipment, the inspector surprised, cinematic
-N: Albert Wesker did not lie to him.
-N: That was the thing Delgado would remember afterwards. The director met him at the door, walked him through every room himself, opened every cabinet before he was asked, and took him to the basement first.
-DELGADO: That the unit? The one in the complaint?
-WESKER: That's the unit. Arcturus. Industrial air handling for the cold archive. Gus has the maintenance log. You're welcome to the manual.
-N: Delgado looked at the log. He looked at the anchor bolts, and the service plate, and the permits on the wall, which were all there, and all in order, and all — though he had no way of knowing this — less than two weeks old.
-[pause 0.6]
-WESKER: But you should see the solvent store on the second floor. It's a disgrace.
-[pause 0.4]
-[img] an old cramped chemical storage cupboard with rusted shelves and outdated solvent bottles, a dim bulb, cinematic
-DELGADO: I'm sorry?
-WESKER: The flammables cabinet in room two-oh-four is from the nineteen-nineties. It isn't vented. The spill kit's expired. My predecessor ignored it for years, because nobody ever made him fix it. I'd like you to make me fix it. In writing.
-[pause 0.8]
-[img] {DELGADO} writing on his clipboard with a small surprised smile, fluorescent light, cinematic
-N: Delgado stared at him.
-N: In nineteen years, nobody had ever asked him to write them up.
-N: The Cold-Read gave the Director the rest of the man in a single glance: a decent public servant, underpaid and overworked, who had given his career to a job most people treated as a nuisance, and who wanted — more than money, more than promotion — simply to be taken seriously.
-N: So Albert Wesker took him seriously. It cost nothing. It never does.
-[pause 1.0]
-N: Delgado's report was filed the following Wednesday. It noted one deficiency — the solvent store, corrected within forty-eight hours — and described the facility as, quote, exemplary in its cooperation. The complaint about unauthorised industrial equipment was closed as unfounded.
-N: It would sit in a state database for three and a half years, until someone from the FBI found it, and read it, and began to wonder why a small research lab had gone out of its way to be inspected.
-[pause 1.5]
-
-[music] m_rain_piano -10
-[amb] amb_night_city
-[img] a small crowded local newsroom at night, stacks of papers, a young woman journalist at a desk with two monitors showing property records, cinematic
-N: Hannah Price found him through the property records.
-N: She was thirty-one, a reporter at the Wilmington Ledger, which had once had a newsroom of ninety and now had ten. She covered business, courts, the city council, and anything else that happened when the other ten were busy. She had been writing a short piece about the collapse of a British company called Umbrella Holdings — local angle, jobs at risk, the usual — when she noticed that a building on the south bank had just sold for two point nine million dollars to an LLC that was nine days old.
-[img] {HANNAH} studying a printout of a real estate transaction under a desk lamp, pen in her teeth, focused, cinematic
-N: Then she noticed that the same LLC had just signed a licence with a Chinese contract research company. Then she noticed that Verdant Axis — the biggest biotech in the county — had quietly booked a one-point-two-million-dollar charge in its latest filing for, quote, research access.
-N: Then she called the number on the LLC's registration, and a woman named Dana said the Director would be happy to have coffee.
-[pause 1.2]
-
-[music] m_scheme -10
-[amb] amb_night_city
-[img] {HANNAH} and {WESKER} facing each other across a diner booth at night, coffee cups, neon sign reflected on the window, rain outside, noir atmosphere, cinematic
-[loc] The Hollywood Diner — Saturday, 8:00 p.m.
-N: They met at the same diner. He took the same booth. He had, she noticed, already ordered for both of them, and what he had ordered for her was what she would have ordered.
-HANNAH: You've read my stuff.
-WESKER: All of it. Your piece on the port authority contracts was very good. They should have let you run the second half.
-HANNAH: (cold) How do you know there was a second half?
-WESKER: Because the first half ended on a question, and you don't strike me as someone who asks a question you can't answer.
-[pause 0.8]
-[img] close-up of {HANNAH}'s face, sharp eyes, half-smile of reluctant respect, neon light, cinematic
-N: She smiled despite herself. She would think about that later, and be annoyed.
-N: The Cold-Read gave him Hannah Price in pieces. Intelligence, first, bright and quick. Hunger — not for money, for the story that would get her out of an fifteen-person newsroom before it became a six-person one. Suspicion, which he liked. And something rarer, that took him a moment to name, because he had so seldom seen it in his old world: she was not afraid of him.
-N: Not yet.
-HANNAH: So. Who are you, Doctor Wesker? Nine days ago, a dead British company's lab in an industrial park. Today, a building, a licence in China, and Verdant Axis's money. That's a very good nine days.
-WESKER: It's a very good story. It's not the best one in this town.
-[pause 0.6]
-HANNAH: I'm listening.
-[pause 0.5]
-[img] a printed clinical trial results chart with patient dropout lines, a pen circling a strange cluster of data points, diner table, cinematic macro
-WESKER: Verdant Axis published the results of a Phase Two trial in April. Their lead compound. The one that doubled their stock price. Look at the dropout rate by trial site. Three of their nine sites lost almost no patients. The other six lost a third of theirs. Then look at who ran the three good sites.
-HANNAH: And who ran them?
-WESKER: That's your job, Miss Price. I'm just a man with a spreadsheet.
-[pause 1.0]
-HANNAH: Why are you giving me this?
-WESKER: Because Graham Tolliver tried to take my building. I'd like him to be busy.
-[pause 0.8]
-N: She had expected him to lie. Everyone lied at this stage — everyone had a noble reason, a public interest, a concern for the patients. He simply told her the truth. It was the most disarming thing he could possibly have done, and he knew it, and she knew he knew it, and it worked anyway.
-HANNAH: You know I'm going to look at you too.
-WESKER: I'd be disappointed if you didn't.
-[pause 1.2]
-[img] {HANNAH} standing alone on a wet sidewalk outside a neon-lit diner at night, notebook in hand, looking back through the window, rain, noir, cinematic
-[sfx] sfx_door_open g-8
-N: She left first. On the sidewalk she stopped, and took out her notebook, and wrote three words under the name Umbrella. Then she underlined them twice.
-N: Who is he.
-[pause 0.6]
-N: Across the street, in the shadow of a closed tyre shop, a tall man in a black suit stood with his hands clasped in front of him, watching the diner door. He had been there for an hour. He had not moved. Hannah Price did not see him.
-N: It would be two years before she learned his name. By then she would have learned a great many things, and would have wished she had not.
-[pause 1.5]
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Superior action — press redirected: 700
-Superior action — regulator satisfied: 400
-Total: 1,100
-Points: 2,000
-[say] Assessment. One thousand one hundred Points.
+[music] m_system -10
+[img] {EVELYN} in a white lab coat standing in an underground laboratory corridor looking at sealed steel doors, red status lights
+[loc] Sublevel B4 — 14 February
+N: Evelyn Marsh was cleared to the fourth floor. She was not cleared to the fourth button.
+N: She found out about it in the way that everybody in that building eventually found out about everything, which is to say she noticed something and was told nothing and drew her own conclusions, and her own conclusions were more flattering to Wesker than the truth.
+N: What she was given instead was the archive: forty-one vials marked *ODD — DO NOT DISCARD*, thirty years of collected accidents, and one instruction.
+WESKER: Find out what is in them. You will have no deadline, no oversight and no obligation to publish. If anything in that freezer is interesting, I want to know before anyone else on the planet does.
+EVELYN: (soft) That's not a project. That's a dream.
+WESKER: It is a test. I do not know what is in those vials either. When you tell me, I will learn two things — what is in them, and whether you are worth the floor space.
+N: She worked ninety hours that week. She did not tell anyone that she had gone back at two in the morning on the Saturday, or that when she found the first thing — a cell line from 2004 that should have senesced in forty passages and had reached three hundred — she sat in the cold room and cried for a minute and a half, and then went and found a whiteboard.
+[sfx] sfx_system_chime +0.2
+[system] LOYALTY
+Dr. Evelyn Marsh: 61% → 78%
+Cost to you: nothing
+[say] Loyalty. Doctor Evelyn Marsh: sixty-one per cent, to seventy-eight. Cost to you: nothing.
 [/system]
-[img] {WESKER} standing at a dark window of an old brick building at night, looking down at a rainy street, hands behind his back, cinematic
-N: The Director watched her go from a window on the third floor.
-N: The other half of him answered.
-ADOLF: She will be a problem.
-WESKER: She'll be a weapon. Problems and weapons are the same thing, pointed in different directions.
-[pause 3.0]
-[music] stop
+ADOLF: You are good at this.
+WESKER: I am adequate at this. You would have given her a banner and a title.
+ADOLF: (soft) And she would have wept for that too.
+WESKER: For a year. Then she would have wanted a bigger title, and you would have had to give it to her, and in five years you would have had a woman with a title and no results and no way to remove her without insulting the banner. This way she has nothing but the work and my attention, and I can withdraw either one at any time.
+N: The narrator notes that this is the cruellest thing said aloud in this chapter, and that it was said calmly, in a lift, by a man who genuinely admired her.
+
+[music] m_corporate -7
+[img] {WESKER} at the head of a boardroom table with {CATHERINE} and {PELL} seated on either side, documents spread, daylight
+[loc] Boardroom — 28 February
+[system] SHOP — ABILITIES
+Command Presence I — 5,000
+Effect: in any room you address, attention settles and does not wander. Doubt is delayed, not removed.
+[say] Abilities. Command Presence, level one: five thousand. In any room you address, attention settles and does not wander. Doubt is delayed, not removed.
+[/system]
+N: He bought it on the twenty-eighth, out of a balance that had climbed back to fourteen thousand eight hundred on the strength of two recruitments, a quarter, and what the System called *the acquisition of instruments that can refuse you.*
+N: It was, he noted, the first thing he had ever purchased that improved him rather than his company, and it was also an admission — the first of very few — that there was a part of this that he could not simply out-think.
+[system] PURCHASE
+Command Presence I — 5,000 · Balance: 9,800
+Presence: 16 → 21
+Note: this raises the floor. It does not raise the ceiling.
+[say] Purchase. Command Presence, level one. Balance, nine thousand eight hundred. Presence: sixteen to twenty-one. This raises the floor. It does not raise the ceiling.
+[/system]
+ADOLF: (soft) You bought what I could have taught you.
+WESKER: I bought five points. You will have to supply the rest, and you will do it when I ask and not before.
+ADOLF: And if I refuse?
+WESKER: (cold) Then you will spend the next sixty years watching me do it badly, which I believe you would find more painful than I would.
+N: There was no answer to that. There was rarely an answer to that.
+[img] {EVELYN} and {CATHERINE} standing together waiting at a lift in a corporate corridor, evening light
+[loc] Fourth floor lift lobby — 3 March, 7:40 p.m.
+N: At the end of the first week of March, the two of them ended up at the same lift at the same time: the postdoc who had been rescued and the banker who had come to destroy him.
+CATHERINE: You've been here a month. What do you make of him?
+EVELYN: (soft) He's the only person I've ever met who isn't wasting my time.
+CATHERINE: That isn't what I asked.
+EVELYN: No. I know.
+N: The lift came. They got in.
+CATHERINE: He is the most dangerous person who has ever paid me, and I have been paid by some genuinely appalling men.
+EVELYN: Yes.
+N: And the way she said it — the narrator would like this noted, because it is the first time it appears in the record, and it will appear again and again for sixty-five years, in a hundred languages, from millions of throats —
+N: the way she said it was not agreement.
+N: It was gratitude.

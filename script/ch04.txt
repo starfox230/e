@@ -1,250 +1,151 @@
-# 4 | Fate, or Variance
+# 4 | Rare
 
-[music] m_scheme -6
-[amb] amb_office_hum
-[img] {PELL} standing in front of a desk holding a lease document with one paragraph circled, {WESKER} seated, listening, morning light, cinematic
-N: The problem with the landlord was a paragraph.
-PELL: Clause fourteen of the building lease, Director. A change-of-control provision. When the ownership of the tenant changes, the landlord may terminate on sixty days' notice. Your purchase of the division last week was a change of control. Mister Kuchar has noticed.
-WESKER: Mister Kuchar reads leases?
-PELL: Mister Kuchar does not. But someone has read it for him. On Tuesday, a property agent acting for Verdant Axis Therapeutics offered him double the current rent for the building, starting in December.
-[pause 0.8]
-[img] {TOLLIVER} standing at the floor-to-ceiling window of his glass office, jaw clenched, a contract crumpled in his fist, grey river below, cinematic
-N: So Graham Tolliver had finally read page three.
-N: He had read the word non-exclusive. He had understood that he had paid one point two million dollars of his shareholders' money for a thing that Umbrella could sell again tomorrow to anyone it liked. And he had understood that if he said so to his board, he would have to explain why he had signed it.
-N: So he had said nothing. He had simply decided to take the building instead.
-N: Adolf's voice rose in his head.
-ADOLF: He is attacking the ground beneath your feet. It is what I would do.
-WESKER: It's what a child would do. He's too angry to be clever. That's useful.
-[pause 1.0]
-WESKER: Thank you, Mister Pell. Leave it with me.
-PELL: Of course, Director.
-N: Pell left. He closed the door so quietly that the latch did not click.
-[pause 1.2]
+[music] m_scheme -8
+[amb] amb_office_hum -15
+[img] {WESKER} standing alone in a dark office facing a tall glowing crimson and white holographic panel, dramatic backlight
+[loc] Sixth floor — 2 January 2027, 9:40 p.m.
+N: Twelve people were hired in the first week of January. Real people, with families and student loans and opinions: two process engineers, a quality manager, a regulatory associate, four manufacturing technicians for the plant they did not yet have, and four more for Voss.
+N: On the second of January the headcount passed fifty, and the System put up a panel, and the panel was not what he expected.
+[sfx] sfx_system_open +0.1
+[system] MAIN MISSION — TIER II: COMPANY
+A product worth selling — COMPLETE
+Fifty million dollars in assets — COMPLETE
+Fifty staff — COMPLETE
+Hidden requirement, now revealed: one rival absorbed entire
+[say] Main mission, tier two. A product worth selling: complete. Fifty million in assets: complete. Fifty staff: complete. Hidden requirement, now revealed: one rival absorbed entire.
+[/system]
+WESKER: (cold) Explain.
+SYSTEM: A company at tier two does not merely sell. It eats. You have leased a rival his own survival. That is a tier one manoeuvre and it was an excellent one.
+WESKER: You did not disclose this requirement.
+SYSTEM: You did not ask what tier two means. You asked what it costs.
+N: There was a pause of perhaps four seconds, which in the private history of Albert Wesker's relationship with the System was a long time.
+WESKER: (soft) You are going to do that to me for sixty years, aren't you.
+SYSTEM: Yes.
+WESKER: Good. I would think less of you otherwise.
+N: And then he said the thing he had been turning over since the twelfth of November.
+WESKER: The Gacha. Explain the mathematics. Not the theatre. The mathematics.
+[system] GACHA — THE COMPANY POOL
+Single pull: 1,000 · Ten-pull: 9,000, one Rare or better guaranteed
+Common 62% · Uncommon 27% · Rare 9.4% · Epic 1.4% · Legendary 0.2%
+A Rare is a specialist, an ability, or one biological weapon.
+An Epic is a named asset, a major facility, or a power.
+A Legendary is a package. Odds are not improved by belief.
+[say] The Company pool. Single pull, one thousand. Ten-pull, nine thousand, with one Rare or better guaranteed. Common, sixty-two per cent. Uncommon, twenty-seven. Rare, nine point four. Epic, one point four. Legendary, one in five hundred. A Legendary is a package. Odds are not improved by belief.
+[/system]
+N: He read the table twice, and the narrator will tell you what he was doing, because it was not what any other man in the world would have been doing.
+N: He was not calculating whether to pull. He was calculating what the numbers implied about the thing offering them. Sixty-two per cent junk. One in five hundred for something that could change his year. Those were not the odds of a machine that wanted to help him. Those were the odds of a machine that wanted him to *keep pulling* — and a machine that wants something can be read, and a machine that can be read can be used.
+ADOLF: It is a lottery.
+WESKER: It is a lottery run by an entity that requires me to grow in order to justify its own existence. Which makes it a lottery that cannot afford to bankrupt me.
+ADOLF: Fate does not audit itself.
+WESKER: (cold) Then it is fortunate for both of us that I do.
+N: He spent nine thousand of his seventeen thousand six hundred Points.
 
-[music] m_system -6
-[img] {WESKER} sitting in a parked car at night in rain, face lit by crimson holographic text reflected on the windshield, cinematic
-[amb] amb_rain_window
-[loc] Wilmington — Friday night
-N: The System paid him for Graham Tolliver's silence on the drive home.
-N: He had stopped at a red light on Market Street, with the wipers going and the radio off, when the air above the steering wheel lit up and began, very neatly, to itemise his week.
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Corporate action — debt recovery: 600
-Corporate action — cost restructuring: 400
-Corporate action — tax recovery: 300
-Personnel morale — rising: 500
-Rival outmanoeuvred — Verdant Axis: 1,200
-Total: 3,000
-[say] Assessment. Total, three thousand Points.
+[music] m_system -4
+[img] a dark office filled with spinning rings of light in grey blue and gold above a desk, a man in black watching, dramatic
+[sfx] sfx_gacha_spin +0.1
+[system] TEN-PULL — RESOLVING
+[say] Ten-pull. Resolving.
 [/system]
-[sfx] sfx_level_up
-[system] LEVEL UP
-Level: 3
-Stat Points available: 5
-Points: 3,300
-[say] Level up. Level three.
+N: It took ninety seconds, and it was designed — deliberately, shamelessly — to be enjoyable.
+[sfx] sfx_gacha_common +0.2
+N: Grey light. *Common: Laboratory Technician.* Grey again: *Common: Laboratory Technician.* A third: *Common: Security Officer.* A fourth, and this one at least useful: *Common: Fleet, four vehicles, black, maintained.*
+N: Three more Commons. A stat token, worth two points of Vitality. A crate of reagents he could have bought for ninety dollars. A service contract on an autoclave.
+ADOLF: This is a market stall.
+WESKER: Wait.
+[sfx] sfx_gacha_rare +0.3
+[img] a floating green holographic panel showing a surveillance camera icon, cold light in a dark room
+N: Green. *Uncommon: Surveillance Suite* — cameras, microphones, and a monitoring station for the entire campus, installed, and installed in such a way that the building's own documented history included an upgrade in 2022.
+N: Green again. *Uncommon: Legal Counsel, Delaware bar, twenty-two years' experience, absolute.*
+N: And then the room went blue.
+[music] m_hi -3
+[sfx] sfx_riser +0.2
+[img] a towering figure sealed inside a frosted cryogenic cradle in a dark laboratory, blue light, frost on glass, imposing silhouette
+[system] RARE — T-103
+Tyrant, Series T-103, in cryogenic cradle
+Height 2.9 m · Mass 340 kg
+Obedience: absolute, within the limits of its conditioning
+Manifests as: industrial air handling unit, Sublevel B4
+[say] Rare. Tyrant, Series T one oh three, in cryogenic cradle. Two point nine metres. Three hundred and forty kilograms. Obedience: absolute, within the limits of its conditioning. It will manifest as an industrial air handling unit in Sublevel B4.
 [/system]
-N: He put three points into Charisma, and two into Special. He wanted to know what the second one did. The System, as usual, did not explain.
-[img] a traffic light turning from red to green in the rain at night, reflections on wet asphalt, a lone car waiting, cinematic
-[sfx] sfx_car_pass g-10
-N: The light turned green. He did not move. A car behind him honked, and then thought better of it, and went around.
-[pause 0.4]
-[sfx] sfx_system_open
-[img] a glowing crimson and gold holographic wheel of cards turning slowly in the dark interior of a car, mysterious, cinematic
-[system] DRAW
-Standard pool
-Cost: 1,000 Points per draw
-Rewards are randomised.
-Possible outcomes include personnel, abilities, facilities, and assets of every rarity.
-[say] Draw. Standard pool. One thousand Points per draw. Rewards are randomised.
-[/system]
-N: It had been there since the Shop unlocked. A second tab, beside the catalogue, that he had been very carefully not opening.
-[pause 0.6]
-N: Adolf answered from inside.
-ADOLF: Open it.
-WESKER: It's a slot machine.
-N: Adolf spoke up.
-ADOLF: It is fate. You bought your life, and you bought a clerk. You have never once in this world let fate speak.
-WESKER: Fate is what losers call variance. You know what variance does to a man with three thousand Points? It turns him into a man with no Points.
-N: The second voice came back.
-ADOLF: I crossed a border in nineteen thirty-six with three battalions and orders to retreat if the French so much as fired. They did not fire. Everything after began with that roll of the dice.
-WESKER: And everything after ended in a bunker.
-N: The inner voice, almost to itself.
-ADOLF: (slow) But not at first.
-[pause 1.2]
-N: The rain drummed on the roof.
-N: And the Wesker half of the mind — the scientist, the cynic, the man who had despised gamblers all his life — found, with considerable irritation, that he wanted to press it too.
-WESKER: Once.
-[pause 0.5]
-[music] stop
-[sfx] sfx_gacha_spin
-[pause 3.2]
-[img] a single grey glowing card flipping over in the dark revealing the silhouette of a man in work coveralls holding a toolbox, cinematic
-[sfx] sfx_gacha_common
-[system] DRAW RESULT — COMMON
-Personnel: Maintenance Technician (Loyal)
-Designation: Gus
-Arrival: tomorrow, 6:00 a.m.
-[say] Common. Maintenance technician.
-[/system]
-N: A janitor.
-N: He had gambled a thousand Points on the wheel of fate, and fate had given him a man with a mop.
-N: The old voice, slowly.
-ADOLF: (soft) Again.
-WESKER: Absolutely not.
-N: Adolf chimed in.
-ADOLF: Again.
-[pause 0.8]
-N: He drew again.
-[sfx] sfx_gacha_spin
-[pause 3.2]
-[img] a blue glowing card flipping over in darkness revealing a stylized human face covered in glowing thin analytical lines, cinematic
-[sfx] sfx_gacha_rare
-[system] DRAW RESULT — RARE
-Ability: Microexpression Cold-Read
-The involuntary movements of the human face will be legible to you.
-[say] Rare. Microexpression cold-read.
-[/system]
-[sfx] sfx_heartbeat g-6
-N: It went in through the eyes.
-N: There was a pressure behind them, and then a headache like a nail, and then — nothing. The rain. The wipers. The dashboard.
-N: He did not understand what he had bought until he looked in the rear-view mirror at his own face, and read it, the way he might have read a paragraph of text.
-N: Contempt. Curiosity. And underneath, bright as a warning light, hunger.
-[pause 1.0]
-WESKER: (soft) That's enough.
-N: The voice behind his eyes had something to add.
-ADOLF: One more.
-WESKER: I said that's enough.
-N: The second voice broke in.
-ADOLF: You have thirteen hundred Points and a clerk and a janitor and a party trick. One more. And then I will not ask again tonight.
-[pause 1.5]
-N: Later — years later — when people asked Albert Wesker whether he believed in destiny, he would smile and say that he believed in statistics. It was a good line. It was also a lie, because he could remember the exact moment he had stopped believing only in statistics.
-N: It was a red light on Market Street, in the rain, at twenty minutes past eight, when he pressed the draw one more time.
-[sfx] sfx_gacha_spin
-[pause 3.0]
-[music] m_horror -2
-[sfx] sfx_gacha_gold
-[img] a blinding gold light exploding outward inside a dark car in the rain, a card of burning gold turning, divine and terrifying, cinematic
-N: The light was gold.
-N: It filled the inside of the car. It was so bright that for an instant he was sure the people in the other cars could see it, that the whole of Market Street was lit like a stage.
-[system] DRAW RESULT — LEGENDARY
-Biological Asset: TYRANT
-Series T-00
-Status: dormant, cryogenic cradle
-Obedience: absolute
-Location: Division Seven, sublevel
-[say] Legendary. Biological asset. Tyrant.
-[/system]
-[img] a glowing gold holographic silhouette of a towering humanoid giant in a long coat, standing inside a frost-covered capsule, terrifying, cinematic
-[pause 1.2]
-N: And for half a second — no more — Albert Wesker was afraid.
-N: He knew what a Tyrant was. In his old world he had helped design them. Eight feet of engineered flesh, a heart that could keep beating through a rocket strike, hands that could put a fist through a steel door and a man through a wall. A weapon that walked. A thing that did not stop. He had seen what one could do to a room full of trained soldiers in the time it took them to decide to run.
-N: And it was his. Asleep, in the dark, under a building on the wrong side of an industrial park in Delaware. His.
-[pause 1.0]
-N: The fear lasted half a second. What replaced it lasted a great deal longer.
-N: Adolf, softly, from inside.
-ADOLF: (soft) Fate.
-WESKER: (soft) Variance.
-N: But he was smiling. They both were.
-[sfx] sfx_car_pass g-8
-[pause 2.0]
-
-[music] m_rain_piano -10
-[amb] amb_office_hum
-[img] {GUS} unlocking a side door of an old brick building at dawn with a large ring of keys, fog in the parking lot, cinematic
-[loc] Saturday, 6:00 a.m.
-N: Gus arrived at six the next morning, with his own keys.
-N: He was stocky and quiet, somewhere in his fifties, in navy coveralls with a tool belt and a name tag that had been sewn on long enough to fade. He knew where every duct in the building went. He knew which fuse tripped when the autoclave and the kettle ran at the same time. He knew the code to the basement door, which had been changed on Thursday.
-[img] {GUS} fixing a flickering fluorescent tube in a corridor on a ladder, completely calm, as if he had worked there forever, cinematic
-N: When Walter Pruitt came to relieve the weekend guard, he found Gus up a ladder on the second floor, replacing a tube that had flickered for three years, and said good morning to him the way you say good morning to a man you have known for a decade.
-N: It was only on the drive home that Walter realised he had never seen him before in his life.
-[pause 1.0]
-WALTER: (soft) Huh.
-N: He thought about it for a long time. Then, being the kind of man he was, he decided it was none of his business, and went to bed.
-[pause 1.2]
-
-[music] m_horror -12
-[amb] amb_basement
-[amb+] amb_cryo -4
-[img] a dark concrete basement with old freezers, and in the corner a hulking new industrial HVAC unit twice the height of a man, frost on its vents, pipes into the ceiling, cinematic
-N: The Tyrant was in the basement.
-N: That is to say — the thing it slept in was in the basement, and the thing it slept in looked, to anyone who did not know better, exactly like an industrial air-handling unit.
-[img] close-up of a metal service tag riveted to an industrial unit reading ARCTURUS CLIMATE SYSTEMS MODEL TX-00, frost, dim light, cinematic
-N: It stood in the corner beyond the freezers, sixteen feet tall and painted a dull, municipal grey, with ducting that ran up into the ceiling and a riveted service plate that read Arcturus Climate Systems, Model T X zero zero. It was bolted to the floor with anchors that looked twenty years old. It had a maintenance log in a plastic sleeve on its side, and the log was filled in, in Gus's handwriting, going back to two thousand and nine.
-N: And it breathed.
-[sfx] sfx_cryo_hiss g-6
-N: Every six seconds, somewhere deep inside it, a compressor cycled. A long, slow draw. A pause. A long, slow release. To anyone who walked past, it was machinery. To the man standing in front of it that Saturday morning, it was the sound of something enormous, asleep.
-[pause 1.0]
-[img] a small frosted glass inspection window on the side of an industrial unit, ice crystals, darkness inside, a gloved hand reaching toward it, cinematic
-N: There was a small inspection window on its side, the size of a paperback, frosted white.
-N: He did not open it. Not yet.
-[pause 1.2]
-
-[music] m_tension -8
-[amb] amb_office_hum
-[img] {KUCHAR} in a windbreaker and cap standing in the lobby of an old building holding a clipboard and a printed electric bill, suspicious scowl, cinematic
-[loc] Tuesday, 10:30 a.m.
-N: Dale Kuchar came on Tuesday.
-N: He was sixty, heavyset, in a windbreaker and a Phillies cap, with a clipboard he had bought specifically for this visit and a printout of the building's electric bill, which had gone up by a figure he had circled three times in red pen.
-KUCHAR: I'm just saying, Doc, that's a lot of juice. I get the bill. My name's on the meter. And I got a right under the lease to inspect for, uh —
-N: He looked at his clipboard.
-KUCHAR: — for unauthorised alterations to the premises.
-WESKER: Of course, Mister Kuchar. Inspect whatever you like. Gus will show you the basement.
-[pause 0.5]
-[img] {KUCHAR} in a dim basement pointing a flashlight at a huge grey industrial HVAC unit, frowning, {GUS} standing calmly beside him, cinematic
-N: Kuchar went down to the basement with Gus. He came back up twenty minutes later with the expression of a man who has been shown a magic trick, and is trying very hard to work out where the card went.
-KUCHAR: That unit down there. The big grey one. That's new.
-GUS: Been here since oh-nine, Mister Kuchar.
-KUCHAR: It has not been there since oh-nine. I been down there. I did the flood in twenty-one. That corner was empty.
-GUS: It's in the log, Mister Kuchar.
-[pause 0.6]
-N: Gus said it with no emphasis at all. Not defensive. Not amused. The way a clock says it's ten-thirty.
-[img] extreme close-up of {KUCHAR}'s face as he looks at {WESKER}, a flicker of doubt and fear, analytical overlay lines faintly visible around his eyes, cinematic
-N: And Albert Wesker, standing in the lobby with his hands folded behind his back, watched the landlord's face — and for the first time, he could read it.
-N: The narrowing around the eyes: suspicion. The tightening at the corner of the mouth: greed. The quick, involuntary glance toward the exit, there and gone in a fifth of a second: fear. Dale Kuchar did not know what he had seen in the basement. But some very old part of his brain did, and it wanted to leave.
-N: And beneath all three, clear as print: he had already made up his mind to take Verdant Axis's money.
-WESKER: Was there anything else, Mister Kuchar?
-KUCHAR: I'm gonna — yeah. I'm gonna be in touch.
-[sfx] sfx_camera_shutter
-N: On his way out, standing in the parking lot, he took a photograph of the building on his phone, as if he wanted proof it was still there.
-[pause 1.5]
-
-[img] {LESSING} at a lab bench glancing nervously over his shoulder toward the doorway, a hand in his coat pocket closed around keys, cinematic
-[music] m_rain_piano -10
-N: The Cold-Read found other things that week.
-N: It found that Dana Whitfield had started to trust him, and was ashamed of how much. It found that Tomás Reyes wanted, more than anything, to be told he was good at something. It found that Nadia Okafor was still measuring the distance to the door.
-N: And it found Howard Lessing.
-N: It found him in the corridor on Wednesday, coming out of lab two with a coffee, saying good morning without looking up. Guilt, the Cold-Read said, in the tiny tension of the muscles around his eyes. Guilt, and fear — and underneath them, like a coal under ash, hunger.
-N: Lessing's right hand was in his coat pocket. It was closed around his keys. And on his key ring, the Director noticed, there was a small blue drive that had not been there the week before.
-N: The other one spoke, unasked.
-ADOLF: He has taken something.
-WESKER: He's taken Control Seven.
-N: The other voice cut in.
-ADOLF: Then he is a thief. And a thief in a small kingdom is a traitor.
-WESKER: A thief is an opportunity. He just doesn't know it yet.
-[pause 1.5]
+N: Albert Wesker sat down.
+N: He would have denied it afterwards, and there was no one in the room to contradict him, and the System does not keep that kind of record. But he sat down — slowly, into the leather chair, still looking at the panel — and for about two seconds the most controlled man in the western hemisphere was not entirely in control of his face.
+N: Because in the other world, a Tyrant had cost eleven years, a research facility in a mountain, four hundred million dollars of another man's money, and an ethics review board that had to be first deceived and then dissolved. In this world it had cost him a lottery ticket.
+WESKER: (soft) Nine thousand points.
+SYSTEM: Nine thousand for the pull. The Tyrant was free. That is what a Rare is.
+N: He began, very quietly, to laugh, and it is the only time in this entire account that he does.
 
 [music] m_horror -8
-[amb] amb_basement
-[amb+] amb_cryo -2
-[img] {WESKER} alone in a dark basement at night, one hand resting flat on the frosted inspection window of a huge grey machine, his face lit faintly from within the glass, cinematic
-[loc] Thursday, 3:00 a.m.
-N: On Thursday night, at three in the morning, when even Evelyn Marsh had gone home, Albert Wesker went down to the basement alone.
-N: He stood in front of the grey machine for a long time, listening to it breathe.
-N: Then he took off his glove, and laid his bare hand flat against the frosted inspection window.
-[sfx] sfx_cryo_hiss g-4
-[img] extreme close-up through frost on glass, a huge pale eye slowly opening in darkness behind the ice, inhuman, cinematic
-N: The frost was so cold it burned. He didn't move his hand. And after a while the heat of his palm made a small, clear circle in the ice, and through it, in the dark inside the machine, he saw something.
-[pause 1.0]
-N: It was an eye.
-N: It was pale, and enormous, and it was open. It had not been open a moment before.
-[sfx] sfx_tyrant_growl g-10
-[pause 1.5]
-N: It looked at him through the glass. It did not blink. And somewhere inside the unit, too low to be a sound so much as a pressure in the concrete, something that had never been born, and was his, recognised its master.
-WESKER: (whisper) Not yet.
-[pause 1.0]
-N: The eye closed.
-N: The compressor cycled. A long, slow breath. A pause.
-N: And the most dangerous thing in the state of Delaware went back to sleep in its box, and dreamed whatever things like that dream about, beneath a building whose landlord had just decided to sell it out from under them.
-[pause 3.0]
-[music] stop
+[amb] amb_cryo -13
+[img] {WESKER} standing with one gloved hand flat on the frosted glass of a huge cryogenic cradle in a dark underground laboratory, blue light
+[loc] Sublevel B4 — 3 January, 5:15 a.m.
+N: It was there in the morning.
+N: Gus had already filed the paperwork he did not remember filing: a Trane industrial air handler, three tonnes, installed March 2019, serviced last February, with a maintenance schedule and a part number and a sticker with a barcode. It stood against the end wall of B4 behind a mesh cage, and it hummed, and the hum cycled every sixty seconds like a compressor.
+N: It was not a compressor. It was breathing.
+N: Wesker had the cage opened and the panel drawn back, and behind the panel was frosted glass, and behind the glass, folded into a cradle designed to hold it the way a hand holds an insect, was two point nine metres of something that had been a man for about nine days a very long time ago.
+N: Grey skin. A bald head, the skull faintly ridged. A face with the expression of a closed door. Hands that would go round a car tyre.
+N: He put his palm flat against the glass. The frost melted away from his hand in a slow circle.
+[sfx] sfx_cryo_hiss +0.6
+N: The eyes opened.
+[pause 0.6]
+N: They were pale, and they were not stupid, and they did not search the room. They found him immediately — through frost, through glass, in the dark — and stopped, and stayed.
+WESKER: (soft) Hello.
+N: The narrator wishes to be clear that nothing happened in the next thirty seconds. The thing in the cradle did not move, or strain, or make a sound. It simply looked at Albert Wesker with absolute, uncomplicated recognition, the way a hammer would look at a hand if a hammer could.
+ADOLF: (soft) What is it?
+WESKER: A soldier. The end of a programme that in another life cost me eleven years and a mountain.
+ADOLF: It is a weapon you cannot use. If it walks into daylight, every government on this continent will be in your basement inside a week.
+WESKER: Yes.
+ADOLF: Then what is it for?
+N: And Wesker looked at the cradle for a long moment.
+WESKER: (cold) It is for the day when someone believes that I have limits. Until that day, it is an air conditioner.
+N: The eyes stayed open until he left the room. Then, without being told, they closed.
+
+[music] m_corporate -8
+[img] a large pharmaceutical production plant beside a highway at dusk, loading bays, parked trucks, lit windows
+[loc] Newark, Delaware — 9 January
+N: The Rare had been free. The rest of the week was not.
+[system] SHOP — FACILITIES
+Production Plant, pharmaceutical, mid-scale: 12,000
+Sterile fill line · cartridge assembly · warehouse · 311 personnel, integrated
+[say] Production Plant, pharmaceutical, mid-scale: twelve thousand. Sterile fill line, cartridge assembly, warehouse, and three hundred and eleven integrated personnel.
+[/system]
+N: Twelve thousand Points, against a balance of fifteen thousand six hundred — the eight thousand six hundred he had left after the pull, plus seven thousand the System had paid him for the week: for the headcount, for the licence, and for what it described, without elaborating, as *the correct use of a lottery.*
+WESKER: Purchase. Place it on the vacant industrial parcel on Route 72, north of the interchange.
+SYSTEM: That parcel is owned by a Delaware holding company.
+WESKER: Yes. It has been owned by us since 2011, I expect.
+SYSTEM: (flat) It has.
+[img] a wide industrial plant complex seen from a highway at dawn, steam from vents, faded company sign, parked cars in rows
+N: The plant appeared over the night of the ninth.
+N: Two hundred and eighty thousand square feet of it: a sterile fill suite, four cartridge assembly lines, a warehouse with racking to the roof, a truck yard, a staff car park with faded painted numbers, and a sign at the gate that had been bleached by fourteen summers.
+N: Three hundred and eleven people went to work there on Monday morning. They had badges, lockers, favourite parking spaces and a union local that had negotiated a contract in 2019. Forty-one of them had been employed there for more than a decade. Two had met each other on the line and married. One was three months from retirement and had a card going round the break room.
+N: None of them had existed on Friday.
+[img] a night shift supervisor in a hard hat talking on a phone outside a lit factory door, warm light, dark yard
+[loc] Newark Plant — night shift
+N: A man called Ray Dorsey, plant supervisor, second shift, stood in the doorway at eleven o'clock on Monday night and called his wife, as he did every night.
+MAN: Yeah. Same as always. Marcy's off sick, so I've got the line short. No — no, it's fine. Eleven years I've been doing this, honey, I can run a short line.
+N: He had been alive since Saturday.
+N: His wife existed. His house existed. The eleven years existed in the payroll system, in his own memory, in the callus on his right hand and in a photograph on his fridge of a holiday in Ocean City that had never happened and that he could describe in detail, including the rain on the Thursday.
+N: The narrator asks you to sit with that for a moment, because nobody in this story ever does. Ray Dorsey is a good man. He is kind to his people. He is, in every way that can be measured from the outside, entirely real.
+N: He simply belongs to someone.
+
+[music] m_lo -7
+[img] {WESKER} standing on a rooftop at night looking out over a lit industrial landscape, long black coat, city lights beyond
+[loc] Sixth floor roof — 11 January, 11:55 p.m.
+[sfx] sfx_system_chime +0.3
+[system] ROSTER
+Absolute: 22
+Integrated: 311
+Employees, ordinary: 50
+Total under your direction: 383
+[say] Roster. Twenty-two Absolute. Three hundred and eleven integrated. Fifty ordinary employees. Three hundred and eighty-three under your direction.
+[/system]
+WESKER: Define the difference. Precisely.
+SYSTEM: Absolute personnel cannot disobey you. Integrated personnel can. They will not wish to, because you have given them no reason, but they may resign, complain, testify, or fail to come to work. They are people. They were simply not people last week.
+WESKER: And if I gave one of them a reason?
+SYSTEM: Then you would find out what a man made on a Saturday does when he is frightened on a Wednesday. I do not have that data. Neither does anyone.
+N: Wesker stood on the roof in the cold with his hands behind his back and looked north-west, towards the glow of a plant on Route 72 where three hundred and eleven people were making cartridges on a Sunday-born memory of eleven years.
+ADOLF: You are troubled.
+WESKER: I am *interested*. There is a difference, and you have never understood it.
+ADOLF: They are yours. That is all that matters.
+WESKER: (cold) No. What matters is that the world has now been rewritten twice, for me, without so much as a dropped signal on a traffic camera, and nobody has noticed, and there is no upper limit on the page count.
+N: He looked down at the empty plaza, six floors below, where a parking apron had been four months ago.
+WESKER: (soft) I have a lottery ticket and a printing press. Let us see how large this can get before anybody looks up.
