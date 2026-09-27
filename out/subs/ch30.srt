@@ -1,655 +1,744 @@
 1
-00:00:07,799 --> 00:00:13,418
-There was one company on Earth that Albert Wesker
-could not buy, and it was the only one
+00:00:07,799 --> 00:00:14,573
+On the ninth of June 2047, at twenty to three in the
+morning, Dr. Evelyn Marsh sat down
 
 2
-00:00:13,438 --> 00:00:15,596
-that frightened Catherine Adeyemi.
+00:00:14,593 --> 00:00:21,367
+in a chair in a laboratory she had run for fifteen
+years, put a cannula in her own arm,
 
 3
-00:00:16,167 --> 00:00:22,432
-Tianhe Genomics was headquartered in Shenzhen, in a
-tower of green glass that looked across
+00:00:21,387 --> 00:00:23,320
+and did not tell anybody.
 
 4
-00:00:22,452 --> 00:00:28,442
-the water at Hong Kong. It had begun, twenty years
-before, as a gene-sequencing company
+00:00:23,719 --> 00:00:30,243
+She was forty-five. She had been asking Albert Wesker
+for the thing in that vial for eighteen
 
 5
-00:00:28,462 --> 00:00:34,797
-that sold its services cheaply to hospitals across
-China, and it had grown, with the patient
+00:00:30,263 --> 00:00:36,365
+years, and he had said no four times, and the fourth
+time — in 2038, on the ice, in the
 
 6
-00:00:34,817 --> 00:00:41,290
-support of the Chinese state, into something that the
-American intelligence services described
+00:00:36,385 --> 00:00:42,346
+wind — he had told her the condition: *a version
+that I would be willing to give to a
 
 7
-00:00:41,310 --> 00:00:47,783
-in their classified reports as a national champion, and
-that Tianhe's own employees described,
+00:00:42,366 --> 00:00:43,049
+stranger.*
 
 8
-00:00:47,803 --> 00:00:50,408
-on their first morning, as the future.
+00:00:43,450 --> 00:00:49,213
+She had built it. That is the part that matters and
+the part that everyone forgets. The
 
 9
-00:00:50,978 --> 00:00:57,383
-It had sequenced the genomes of four hundred million
-people. It had the largest biological
+00:00:49,233 --> 00:00:55,063
+heritable line worked. Eleven primates, four
+generations, no tumours, no drift, no cost.
 
 10
-00:00:57,403 --> 00:01:03,592
-database in human history. And it answered, in the
-end, not to its shareholders, but to
+00:00:55,083 --> 00:01:00,780
+She had run it for four years and it was clean, and
+she had written the paper, and the
 
 11
-00:01:03,612 --> 00:01:04,164
-Beijing.
+00:01:00,800 --> 00:01:05,500
+paper was on his desk in Wilmington that
+night waiting for the morning.
 
 12
-00:01:06,233 --> 00:01:10,629
-It had also, since twenty thirty-one, been
-trying to steal from Umbrella.
+00:01:05,900 --> 00:01:08,980
+What she had not done was wait for
+him to read it.
 
 13
-00:01:11,200 --> 00:01:16,986
-Not with rifles. With patience. Umbrella's Singapore
-plant employed four thousand people.
+00:01:09,500 --> 00:01:16,245
+Log entry. Marsh, E. Zero two forty, ninth June.
+Self-administration, four millilitres,
 
 14
-00:01:17,006 --> 00:01:22,532
-Nine of them, Hale's people had discovered over
-three years, were reporting — through
+00:01:16,265 --> 00:01:18,190
+lineage candidate K-nine.
 
 15
-00:01:22,552 --> 00:01:28,339
-relatives, through friends, through a very old and
-very careful network — to the Ministry
+00:01:18,469 --> 00:01:23,549
+I'm doing this now, and not in the morning, because
+in the morning he will say no again,
 
 16
-00:01:28,359 --> 00:01:33,951
-of State Security in Beijing. Hale had not removed
-them. The Director had told him not
+00:01:23,569 --> 00:01:28,823
+and he will be right to, and I will agree with him,
+and then it will be another four years.
 
 17
-00:01:33,971 --> 00:01:40,019
-to. It was the same principle as Howard Lessing: a spy
-you have found is a radio you control.
+00:01:29,487 --> 00:01:34,180
+(very soft) I've worked for that man for twenty
+years and he has never once been wrong
 
 18
-00:01:40,588 --> 00:01:46,798
-But in the spring of twenty thirty-four, the radio
-began to receive something the Director
+00:01:34,200 --> 00:01:38,837
+about anything, and I would like to find out what I
+am when I am not waiting for him.
 
 19
-00:01:46,818 --> 00:01:52,959
-had not put there. Somebody in Beijing had begun
-asking the nine to find out one specific
+00:01:39,237 --> 00:01:45,236
+The narrator notes that this is the only genuinely
+rebellious act in this entire account,
 
 20
-00:01:52,979 --> 00:01:57,182
-thing. Not the formula for Aeterna. Not
-the vaccine platform.
+00:01:45,256 --> 00:01:51,053
+that it was committed by the most loyal human being
+in the company, and that its cause
 
 21
-00:01:57,751 --> 00:02:00,966
-They wanted to know where the
-Director's blood was kept.
+00:01:51,073 --> 00:01:52,338
+was not resentment.
 
 22
-00:02:03,537 --> 00:02:06,704
-Wen Shulan had been watching him
-for three years.
+00:01:52,737 --> 00:01:58,268
+It was that Albert Wesker had spent twenty years
+making a woman believe that his approval
 
 23
-00:02:07,274 --> 00:02:13,305
-She had watched the eleven seconds, and the ghost
-video, and the Court of Chancery, where
+00:01:58,288 --> 00:02:04,006
+was the only currency in the world, and had then
+withheld it, and had done so *on principle*
 
 24
-00:02:13,325 --> 00:02:19,289
-he had taken off his sunglasses and shown a courtroom
-a pair of perfectly ordinary eyes.
+00:02:04,026 --> 00:02:09,370
+— and the narrator would like you to consider
+whether there is a meaningful difference
 
 25
-00:02:19,310 --> 00:02:25,069
-She had read Owen Carrick's affidavit, and Exhibit
-Twenty, and footnote fourteen. She
+00:02:09,390 --> 00:02:14,859
+between that and cruelty, because Owen Carrick spent
+the rest of his life deciding there
 
 26
-00:02:25,090 --> 00:02:30,849
-had read the German patent analysis and the French
-report on the twelve Russians. And
+00:02:14,879 --> 00:02:15,358
+was not.
 
 27
-00:02:30,870 --> 00:02:36,765
-she had read, from the Ministry's own sources in
-Moscow, a copy of an order that an FSB
+00:02:16,307 --> 00:02:17,647
+It took nine days.
 
 28
-00:02:36,786 --> 00:02:42,614
-colonel named Arkady Belov had given in January of
-twenty thirty-one. Find out what he
+00:02:18,048 --> 00:02:23,898
+The narrator will not give you the clinical course.
+It is in the literature; Evelyn wrote
 
 29
-00:02:42,634 --> 00:02:46,421
-is. And when you have found out, tell
-me how to kill it.
+00:02:23,918 --> 00:02:29,703
+it herself afterwards, in the clearest prose of her
+life, and it is the most-cited paper
 
 30
-00:02:46,991 --> 00:02:52,450
-Wen did not want to kill it. She was not a
-sentimental woman, and she did not believe
+00:02:29,723 --> 00:02:31,417
+in the history of biology.
 
 31
-00:02:52,470 --> 00:02:57,928
-in revenge. She believed in advantage. And she had
-concluded, after three years, that
+00:02:31,818 --> 00:02:37,747
+What matters here is the eleventh of June, when her
+staff — six hundred Absolute personnel
 
 32
-00:02:57,948 --> 00:03:03,536
-whatever made Albert Wesker what he was — whatever
-let him move at three hundred metres
+00:02:37,767 --> 00:02:43,367
+who could not disobey her, and who had been
+instructed on the ninth to take no action
 
 33
-00:03:03,556 --> 00:03:09,143
-a second, and choose the colour of his own eyes, and
-file patents with no parents — was
+00:02:43,387 --> 00:02:49,316
+and inform no one — stood in a corridor outside a
+sealed room and watched a woman convulse
 
 34
-00:03:09,163 --> 00:03:11,334
-in him. In his body. In his blood.
+00:02:49,336 --> 00:02:51,168
+for four hours on a monitor.
 
 35
-00:03:12,024 --> 00:03:17,298
-If we cannot buy the company, and we cannot copy the
-company, then we take the source.
+00:02:51,568 --> 00:02:53,908
+What matters is that one of them broke.
 
 36
-00:03:19,818 --> 00:03:25,733
-The Director went to Hong Kong in May, for a
-medical conference at which Umbrella was
+00:02:54,307 --> 00:03:01,212
+His name was Dr. Anton Reiss. He had been summoned
+into existence in 2039. He was, by
 
 37
-00:03:25,753 --> 00:03:31,667
-the principal sponsor. He knew what was waiting for
-him. The nine radios in Singapore
+00:03:01,232 --> 00:03:06,832
+every measure the System had ever offered,
+incapable of disobedience.
 
 38
-00:03:31,687 --> 00:03:36,554
-had told him, three weeks before, exactly
-what Beijing had asked them.
+00:03:07,233 --> 00:03:13,383
+At eighteen minutes past four in the morning on the
+eleventh of June, Anton Reiss walked
 
 39
-00:03:37,245 --> 00:03:41,894
-You are walking into their city. Into
-their net. With two guards.
+00:03:13,403 --> 00:03:19,553
+to a terminal and sent a nine-word message to
+Wilmington against a standing instruction,
 
 40
-00:03:42,413 --> 00:03:47,530
-I'm walking into a conference, with two guards and a
-keynote. And I'd like to meet the
+00:03:19,573 --> 00:03:25,092
+and the message said: *Director. Dr. Marsh has
+dosed herself. Nine days. Come.*
 
 41
-00:03:47,550 --> 00:03:52,607
-woman who's been watching me for three years. She's
-the only one of them who's clever
+00:03:26,242 --> 00:03:34,110
+Anomaly. Absolute personnel, designation Reiss, A.:
+instruction refused. This has not
 
 42
-00:03:52,627 --> 00:03:54,100
-enough to be interesting.
+00:03:34,131 --> 00:03:40,143
+occurred before. I do not have an
+explanation. I am recording it.
 
 43
-00:03:54,621 --> 00:03:56,692
-And if she tries to take you?
+00:03:40,733 --> 00:03:46,444
+The narrator asks you to hold on to Anton Reiss. He
+is four chapters from mattering more
 
 44
-00:03:57,211 --> 00:04:02,319
-Then I'll learn something about Chinese
-intelligence. And she'll learn something about
+00:03:46,464 --> 00:03:48,462
+than anyone else in this story.
 
 45
-00:04:02,339 --> 00:04:02,497
-me.
+00:03:48,862 --> 00:03:52,312
+Wesker was on the ice in fourteen hours.
 
 46
-00:04:04,519 --> 00:04:06,323
-They tried on the second night.
+00:03:52,712 --> 00:03:58,657
+He did not shout at anybody. He did not remove
+Reiss, or the six hundred, or discipline
 
 47
-00:04:06,893 --> 00:04:13,424
-It was very well done. The Director would say so
-afterwards, with real professional admiration.
+00:03:58,677 --> 00:04:05,033
+a single person. He went down to Level 11 and stood at
+the observation window for twenty-four
 
 48
-00:04:13,444 --> 00:04:19,562
-A power failure in the hotel's east tower, at ten
-past two in the morning — not complete,
+00:04:05,053 --> 00:04:10,998
+hours, through the worst of it, and did not sit
+down, and did not speak except once, at
 
 49
-00:04:19,582 --> 00:04:25,424
-just enough to put the security cameras on backup
-and the lifts on emergency power. A
+00:04:11,018 --> 00:04:16,002
+about the seventh hour, when the monitors did
+the thing that monitors do.
 
 50
-00:04:25,444 --> 00:04:31,285
-fire alarm on his floor, which sent the two Silent
-Ones outside his door to check the
+00:04:16,523 --> 00:04:17,933
+(very cold) No.
 
 51
-00:04:31,305 --> 00:04:37,561
-stairwells, as their protocol required. And seven men
-and women from the Ministry's special
+00:04:18,333 --> 00:04:21,403
+That is all. One word, at a
+window, to nobody.
 
 52
-00:04:37,581 --> 00:04:43,630
-operations bureau, in the uniforms of hotel
-maintenance staff and fire marshals, waiting
+00:04:21,802 --> 00:04:23,853
+She came out of it on the eighteenth.
 
 53
-00:04:43,650 --> 00:04:49,630
-for him in the service corridor behind his suite,
-with a stretcher, and a sedative that
+00:04:24,692 --> 00:04:30,727
+The narrator will describe what Dr. Evelyn Marsh was
+afterwards as carefully as he can,
 
 54
-00:04:49,650 --> 00:04:53,629
-could have put down a horse, and a van
-in the loading bay.
+00:04:30,747 --> 00:04:36,502
+because everything that happens in the last twenty
+chapters comes out of this room.
 
 55
-00:04:54,199 --> 00:04:59,544
-He walked into the corridor on purpose. He had
-watched them take their positions, in the
+00:04:36,903 --> 00:04:42,640
+She was not a monster. She did not have slit pupils
+or claws or any of the things that
 
 56
-00:04:59,564 --> 00:05:04,787
-Thought Acceleration, from the other side of the
-door. Three trains of thought, at six
+00:04:42,660 --> 00:04:48,464
+the eleven levels below her had produced over
+fifteen years. She looked like a woman of
 
 57
-00:05:04,807 --> 00:05:10,151
-hundred to one. In one of them, he had already
-counted their weapons. In another, he had
+00:04:48,484 --> 00:04:50,473
+forty-five who had slept well.
 
 58
-00:05:10,171 --> 00:05:15,333
-worked out which of them was in charge. In the
-third, he was thinking about something
+00:04:50,872 --> 00:04:56,851
+What she had was this: a cellular biology that would
+not age, that could not be infected
 
 59
-00:05:15,353 --> 00:05:20,270
-else entirely — about a woman in Beijing, and
-what she would do when this failed.
+00:04:56,871 --> 00:05:02,918
+by anything, that repaired at a rate her own
+instruments could not resolve — and, because
 
 60
-00:05:21,841 --> 00:05:25,308
-It took eleven seconds. He did
-not kill anyone.
+00:05:02,938 --> 00:05:08,712
+the lineage was heritable and germ-line and she had
+built it that way on purpose, the
 
 61
-00:05:25,877 --> 00:05:32,187
-That was the decision, and it had been made in the
-third room of the Memory Palace, before
+00:05:08,732 --> 00:05:11,302
+capacity to pass all of it to a child.
 
 62
-00:05:32,207 --> 00:05:38,658
-he opened the door. Dead Chinese agents in a Hong Kong
-hotel would be a diplomatic incident,
+00:05:11,702 --> 00:05:17,947
+And something else, which the paper does not mention
+and which took Wesker about ninety
 
 63
-00:05:38,678 --> 00:05:44,636
-and an incident was a story, and a story was
-something he could not control. Nineteen
+00:05:17,966 --> 00:05:19,242
+seconds to notice.
 
 64
-00:05:44,656 --> 00:05:50,755
-unconscious Chinese agents in a Hong Kong hotel,
-found by the real fire marshals twenty
+00:05:19,762 --> 00:05:20,913
+Say something.
 
 65
-00:05:50,775 --> 00:05:56,944
-minutes later, zip-tied to a service railing with
-their own restraints, with the syringe
+00:05:21,312 --> 00:05:26,432
+I'm sorry. I'm not sorry. Both of those are true and
+I've been lying here for two days
 
 66
-00:05:56,964 --> 00:06:03,134
-of horse sedative carefully capped and placed on the
-chest of the woman in charge — that
+00:05:26,452 --> 00:05:28,943
+trying to work out which one to say first.
 
 67
-00:06:03,154 --> 00:06:05,665
-was not a story. That was a message.
+00:05:29,343 --> 00:05:30,813
+You disobeyed me.
 
 68
-00:06:07,235 --> 00:06:13,138
-Hong Kong's police found them at two thirty-one.
-The Ministry of State Security never
+00:05:31,213 --> 00:05:32,283
+I disobeyed you.
 
 69
-00:06:13,158 --> 00:06:19,269
-acknowledged that they existed. Neither did the
-Director. The hotel attributed the power
+00:05:32,682 --> 00:05:38,538
+(very cold) You are the only person in this
+organisation who *could*, and I had built
 
 70
-00:06:19,289 --> 00:06:25,331
-failure to a faulty transformer, and apologised to
-its guests, and gave everyone on the
+00:05:38,558 --> 00:05:42,893
+my entire estimate of you on the
+assumption that you would not.
 
 71
-00:06:25,351 --> 00:06:27,908
-east tower a complimentary breakfast.
+00:05:43,622 --> 00:05:45,778
+Yes. I know. That's why I did it.
 
 72
-00:06:30,478 --> 00:06:36,655
-At six in the morning, a note was slipped under the
-door of his suite. It was handwritten,
+00:05:46,178 --> 00:05:51,674
+And then she looked at him, and the narrator notes
+what happened next because six hundred
 
 73
-00:06:36,675 --> 00:06:42,507
-in beautiful English, on plain paper. It said: I
-believe I owe you breakfast. It gave
+00:05:51,694 --> 00:05:57,499
+Absolute personnel were watching on a monitor and four
+of them later described it identically.
 
 74
-00:06:42,527 --> 00:06:44,229
-an address in Sheung Wan.
+00:05:57,899 --> 00:06:03,369
+The room went quiet the way a room goes quiet
+when Albert Wesker walks into it.
 
 75
-00:06:44,798 --> 00:06:45,894
-He went alone.
+00:06:03,769 --> 00:06:06,639
+But he was already in the room.
+It was not him.
 
 76
-00:06:46,463 --> 00:06:52,207
-Wen Shulan was sitting at a table by the window of a
-small tea house that had been there
+00:06:07,709 --> 00:06:09,059
+(very soft) Ah.
 
 77
-00:06:52,227 --> 00:06:57,970
-since before the British left, pouring tea from a
-clay pot. She was fifty-nine. She wore
+00:06:09,459 --> 00:06:10,389
+You feel it too.
 
 78
-00:06:57,990 --> 00:07:03,537
-a dark jacket and no jewellery. She did not stand
-up when he came in, and she did not
+00:06:10,788 --> 00:06:18,078
+I have felt it in four hundred rooms since 2026 and
+I have never once been on this side
 
 79
-00:07:03,557 --> 00:07:05,567
-apologise for the night before.
+00:06:18,098 --> 00:06:21,438
+of it. What is your Presence, Dr. Marsh?
 
 80
-00:07:06,257 --> 00:07:07,815
-You did not kill them.
+00:06:21,838 --> 00:06:26,904
+I don't have a panel, Director. I have a room full
+of people who cannot disobey me and
 
 81
-00:07:08,336 --> 00:07:08,956
-No.
+00:06:26,924 --> 00:06:32,108
+who have started, in the last two days, to stand up
+when I come in. Nobody told them to.
 
 82
-00:07:09,475 --> 00:07:10,903
-May I ask why?
+00:06:32,128 --> 00:06:33,408
+They weren't built to.
 
 83
-00:07:11,423 --> 00:07:16,467
-Because you'd have had to avenge them. And I'd rather
-you didn't have to do anything you
+00:06:33,809 --> 00:06:39,296
+The narrator will not leave Anton Reiss standing in
+a corridor, because what happened
 
 84
-00:07:16,487 --> 00:07:17,331
-didn't want to.
+00:06:39,316 --> 00:06:43,379
+to him in the nine days is the whole of
+what the Absolute were.
 
 85
-00:07:19,350 --> 00:07:25,988
-She smiled, very slightly. It was the first smile
-anyone at the Ministry of State Security
+00:06:43,778 --> 00:06:49,326
+He sent the message at eighteen minutes past four in
+the morning on the eleventh. He did
 
 86
-00:07:26,008 --> 00:07:28,725
-had seen from her in seventeen years.
+00:06:49,346 --> 00:06:55,211
+not sleep for the following seven days. On the
+fourteenth he was found by a junior technician
 
 87
-00:07:29,415 --> 00:07:31,857
-That is either a kindness or a threat.
+00:06:55,231 --> 00:07:00,652
+sitting on the floor of a service corridor on Level
+11, in the dark, having been there
 
 88
-00:07:32,377 --> 00:07:36,108
-In my experience, the most useful
-things usually are both.
+00:07:00,672 --> 00:07:06,030
+for about four hours, and what he said — the
+technician wrote it down the same night,
 
 89
-00:07:38,127 --> 00:07:44,004
-They talked for two hours. Neither of them lied,
-exactly. Neither of them told the truth,
+00:07:06,050 --> 00:07:07,992
+which is why it survives — was:
 
 90
-00:07:44,024 --> 00:07:49,702
-either. It was, the Director would reflect
-afterwards, the most enjoyable conversation
+00:07:08,512 --> 00:07:12,943
+I was told not to. I know I was told not to. I have
+never in my life done a thing I was
 
 91
-00:07:49,722 --> 00:07:55,334
-he had had in either of his lives — two people who
-each knew precisely what the other
+00:07:12,963 --> 00:07:17,342
+told not to do and I did not know that it was
+*possible*, and I have been sitting here
 
 92
-00:07:55,354 --> 00:08:01,032
-was, and what the other wanted, and who had each
-decided to enjoy the game rather than
+00:07:17,362 --> 00:07:21,793
+since two o'clock trying to work out what else I
+have been able to do all this time and
 
 93
-00:08:01,052 --> 00:08:03,153
-pretend it was not being played.
+00:07:21,813 --> 00:07:22,663
+never once tried.
 
 94
-00:08:03,843 --> 00:08:08,950
-I have listened to your speeches. All of them. I have
-timed your silences. You speak like
+00:07:23,062 --> 00:07:29,702
+Wesker interviewed him on the nineteenth, alone, for
+two hours. The transcript is four
 
 95
-00:08:08,970 --> 00:08:14,019
-a man who learned his craft in front of crowds. Not
-boardrooms. Crowds. Very large ones.
+00:07:29,722 --> 00:07:30,166
+pages.
 
 96
-00:08:14,039 --> 00:08:14,825
-From long ago.
+00:07:30,685 --> 00:07:32,036
+Why did you send it?
 
 97
-00:08:15,345 --> 00:08:17,010
-I watch a lot of old films.
+00:07:32,435 --> 00:07:35,185
+Because she was going to die and
+nobody was coming.
 
 98
-00:08:17,531 --> 00:08:20,306
-So do I. That is how I recognised it.
+00:07:35,586 --> 00:07:38,696
+(very cold) You were instructed not to.
 
 99
-00:08:22,824 --> 00:08:26,990
-In the quiet of one skull, the old voice
-went very, very still.
+00:07:39,096 --> 00:07:39,905
+Yes, sir.
 
 100
-00:08:27,560 --> 00:08:32,935
-It was the first time in eight years that anyone in
-this world had come within a mile
+00:07:40,305 --> 00:07:41,396
+By whom?
 
 101
-00:08:32,955 --> 00:08:38,329
-of the truth. And it was a woman, in a tea house,
-with a clay pot, who had done it by
+00:07:42,346 --> 00:07:44,011
+(very soft) By Dr. Marsh.
 
 102
-00:08:38,349 --> 00:08:40,932
-listening to the rhythm of his sentences.
+00:07:44,850 --> 00:07:51,431
+The narrator asks you to notice what Albert Wesker
+noticed, in that room, in about four
 
 103
-00:08:43,121 --> 00:08:44,317
-She knows.
+00:07:51,451 --> 00:07:55,300
+seconds, and did not say aloud for
+forty-one years.
 
 104
-00:08:44,837 --> 00:08:50,973
-She suspects. It isn't the same thing. And she'll
-never be able to say it out loud, because
+00:07:55,701 --> 00:08:01,656
+Anton Reiss had not disobeyed the System. He had
+disobeyed *Evelyn Marsh*, who was not
 
 105
-00:08:50,993 --> 00:08:54,355
-the moment she does, she sounds
-like Owen Carrick.
+00:08:01,676 --> 00:08:07,770
+his owner, who had been given authority over him by a
+man who was — and somewhere in the
 
 106
-00:08:56,375 --> 00:09:00,153
-What do you want, Doctor Wesker? Not the
-company. You. What do you want?
+00:08:07,790 --> 00:08:13,676
+machinery, in a way nobody has ever been able to
+reproduce, that distinction had left
 
 107
-00:09:02,173 --> 00:09:07,875
-He looked out of the window, at the old street waking
-up — at the delivery bicycles, and
+00:08:13,696 --> 00:08:15,761
+a gap the width of a decision.
 
 108
-00:09:07,895 --> 00:09:12,620
-the shutters going up, and the steam from a
-noodle stall across the road.
+00:08:16,281 --> 00:08:19,571
+Dr. Reiss. Do you know what you are?
 
 109
-00:09:13,311 --> 00:09:13,951
-Order.
+00:08:19,971 --> 00:08:24,561
+Yes, sir. I have known since I was four days
+old. It was in my induction file.
 
 110
-00:09:14,471 --> 00:09:15,688
-For China?
+00:08:24,961 --> 00:08:29,871
+(very cold) And has anybody ever asked you
+what you would like to do?
 
 111
-00:09:16,208 --> 00:09:17,105
-For everyone.
+00:08:30,930 --> 00:08:32,240
+(very soft) No, sir.
 
 112
-00:09:19,626 --> 00:09:25,668
-Wen Shulan looked at him for a long time. Then she
-set down her cup, very precisely, in
+00:08:32,640 --> 00:08:33,811
+I am asking.
 
 113
-00:09:25,688 --> 00:09:27,828
-the exact centre of its saucer.
+00:08:34,841 --> 00:08:43,631
+Roster. Reclassification. Doctor Evelyn Marsh.
+Human loyalty, ninety-six per cent: no
 
 114
-00:09:28,518 --> 00:09:33,487
-Then one day we will be enemies. Not today. I think
-not for some years. But one day.
+00:08:43,651 --> 00:08:52,442
+longer applicable. Designation: Progenitor lineage,
+first generation. Classification:
 
 115
-00:09:34,006 --> 00:09:34,690
-I know.
+00:08:52,462 --> 00:08:52,961
+peer.
 
 116
-00:09:35,211 --> 00:09:40,860
-I would prefer, when that day comes, that it is you
-and I at the table. Not men like Belov.
+00:08:54,100 --> 00:08:56,311
+(very cold) Define *peer*.
 
 117
-00:09:41,380 --> 00:09:42,213
-So would I.
+00:08:56,711 --> 00:09:03,181
+There are four beings on this planet that I track.
+You, and the three you have made without
 
 118
-00:09:44,735 --> 00:09:50,210
-They did not shake hands. She poured him a last cup
-of tea, and he drank it, and then
+00:09:03,201 --> 00:09:06,177
+meaning to. She is the first of the three.
 
 119
-00:09:50,230 --> 00:09:55,189
-he left, and she sat alone at the table by the
-window until the tea was cold.
+00:09:06,576 --> 00:09:10,047
+That is not a definition. Define peer.
 
 120
-00:09:57,259 --> 00:10:03,294
-Three weeks later, Umbrella Life Sciences and Tianhe
-Genomics announced a joint research
+00:09:10,886 --> 00:09:15,360
+(flat) A peer is a will I cannot
+price against yours.
 
 121
-00:10:03,314 --> 00:10:09,143
-venture in Singapore — a genomic medicine centre,
-funded equally, governed by a board
+00:09:15,759 --> 00:09:22,175
+The narrator notes that Albert Wesker stood in a
+corridor on the ice for a long time after
 
 122
-00:10:09,163 --> 00:10:15,405
-of four from each side. The financial press called it
-a surprise. The American intelligence
+00:09:22,195 --> 00:09:27,825
+that panel closed, and that what he did next is
+the reason this chapter exists.
 
 123
-00:10:15,425 --> 00:10:21,392
-services called it, in a classified report, deeply
-concerning. Martin Sloane called the
+00:09:28,225 --> 00:09:34,182
+He did not remove her. He did not restrict her, or
+isolate the lineage, or destroy the
 
 124
-00:10:21,412 --> 00:10:24,695
-Director, very angry, and was
-told to trust him.
+00:09:34,202 --> 00:09:40,367
+material, or do any of the six things that a careful
+man does when something he has built
 
 125
-00:10:25,264 --> 00:10:30,677
-It was not a surrender, and it was not an alliance.
-It was two chess players agreeing
+00:09:40,387 --> 00:09:42,175
+stops being an instrument.
 
 126
-00:10:30,697 --> 00:10:36,238
-to share a board for a while, because each of them
-believed they would learn more about
+00:09:42,575 --> 00:09:43,715
+He promoted her.
 
 127
-00:10:36,258 --> 00:10:40,009
-the other from across the table than
-from across the world.
+00:09:44,235 --> 00:09:51,587
+The Progenitor Initiative is yours in name as well as
+in fact. You will report to nobody.
 
 128
-00:10:42,827 --> 00:10:46,115
-Assessment. Rival recognised. Peer.
+00:09:51,607 --> 00:09:59,125
+You will publish what you choose and withhold what you
+choose. Your budget is not a number.
 
 129
-00:10:52,712 --> 00:10:57,024
-Peer. The System had never used that
-word before, about anyone.
+00:09:59,524 --> 00:10:00,528
+And in exchange?
 
 130
-00:10:57,595 --> 00:11:02,877
-The Adolf half of the mind looked at it for a long
-time, and did not like it at all.
+00:10:00,928 --> 00:10:07,835
+In exchange you will tell me the truth about what
+you become, as it happens, including
 
 131
-00:11:03,566 --> 00:11:05,615
-No one is our peer.
+00:10:07,855 --> 00:10:14,680
+the parts I will not want to hear. And when you
+have a second one — and you will, Dr.
 
 132
-00:11:06,135 --> 00:11:08,932
-She is. For now. That's why I
-didn't kill her people.
+00:10:14,700 --> 00:10:21,768
+Marsh, within about five years, because you have
+never in twenty years been able to stop
 
 133
-00:11:09,451 --> 00:11:13,058
-You are becoming sentimental
-about your enemies.
+00:10:21,788 --> 00:10:26,359
+at one of anything — I want to be
+told before, not after.
 
 134
-00:11:13,577 --> 00:11:18,983
-I'm becoming precise about them. You were never
-precise about your enemies. You hated
+00:10:26,759 --> 00:10:28,009
+(very soft) That's it?
 
 135
-00:11:19,003 --> 00:11:21,664
-them all equally. It made you predictable.
+00:10:28,408 --> 00:10:34,626
+(very cold) That is *everything*. It is the
+arrangement I have with the machine that gave
 
 136
-00:11:23,684 --> 00:11:29,708
-The old voice did not answer. But in the Memory
-Palace, on the fourth floor, behind the
+00:10:34,646 --> 00:10:40,723
+me all of this, it is the arrangement I have never
+once been offered by anyone, and you
 
 137
-00:11:29,728 --> 00:11:35,682
-door with no name, something wrote down the name Wen
-Shulan, and underlined it, twice,
+00:10:40,743 --> 00:10:45,418
+are the first person I have ever been in a
+position to offer it to.
 
 138
-00:11:35,702 --> 00:11:40,615
-the way Evelyn Marsh underlined things in
-the margins of her notebooks.
+00:10:46,203 --> 00:10:52,679
+The narrator will record what she said in reply,
+because it is the last thing Evelyn Marsh
+
+139
+00:10:52,699 --> 00:10:55,134
+ever says to him as a subordinate.
+
+140
+00:10:55,653 --> 00:10:57,923
+You could have given me this in 2038.
+
+141
+00:10:58,323 --> 00:10:59,193
+Yes.
+
+142
+00:10:59,594 --> 00:11:00,444
+Why didn't you?
+
+143
+00:11:00,844 --> 00:11:06,901
+(very soft) Because in 2038 I would have been giving
+it to somebody who worked for me,
+
+144
+00:11:06,921 --> 00:11:12,979
+and it would have been a gift, and you would have
+spent the rest of your life grateful
+
+145
+00:11:12,999 --> 00:11:13,473
+for it.
+
+146
+00:11:13,754 --> 00:11:20,488
+You took it. Nobody can take that back off you now,
+including me. That is worth a great
+
+147
+00:11:20,508 --> 00:11:27,398
+deal more than nine years, and I would have said so
+at the time if I had had the faintest
+
+148
+00:11:27,418 --> 00:11:29,183
+idea how to arrange it.
+
+149
+00:11:29,583 --> 00:11:31,014
+She looked out at the ice.
+
+150
+00:11:31,533 --> 00:11:35,198
+(very soft) That's the closest you've
+ever come to an apology.
+
+151
+00:11:35,599 --> 00:11:38,729
+Yes. Do not wait for another.
+
+152
+00:11:39,759 --> 00:11:47,917
+Note. Kill count, A. Wesker, this world, twenty
+twenty-six to date: zero. Projected on
+
+153
+00:11:47,937 --> 00:11:56,761
+current trajectory: zero. Revised projection, following
+the ninth of June twenty forty-seven:
+
+154
+00:11:56,781 --> 00:11:57,616
+unstable.
+
+155
+00:11:58,206 --> 00:12:05,559
+The narrator said two chapters ago that the ninth of
+June 2047 was the date on which Albert
+
+156
+00:12:05,579 --> 00:12:08,475
+Wesker's record stopped being clean.
+
+157
+00:12:08,875 --> 00:12:16,066
+He did not kill anyone that day. He was in
+Wilmington, asleep, four thousand miles away.
+
+158
+00:12:16,466 --> 00:12:22,527
+What happened on the ninth of June 2047 is that a
+woman he had made proved that the things
+
+159
+00:12:22,547 --> 00:12:28,271
+he had made could choose — and everything he does
+for the next forty-four years is an
+
+160
+00:12:28,291 --> 00:12:31,786
+answer to that, and not all of the
+answers are good.
