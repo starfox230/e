@@ -51,9 +51,20 @@ def check(ch, fix=False):
     notes['duration_min'] = round(dur / 60, 2)
 
     # ---- audio
+    # The mix is deleted once its chapter is muxed -- fifty of them do not fit on this disk
+    # alongside the render -- so fall back to the audio inside the finished MP4, which is the
+    # thing that actually ships anyway.
     mix = os.path.join(work, 'mix.wav')
+    tmp_mix = None
     if not os.path.exists(mix):
-        return [f'ch{ch:02d}: no mix.wav'], notes
+        vid_for_audio = os.path.join(ROOT, 'out', 'video', f'ch{ch:02d}.mp4')
+        if not os.path.exists(vid_for_audio):
+            return [f'ch{ch:02d}: no mix.wav and no rendered video'], notes
+        tmp_mix = os.path.join(work, '.qa_audio.wav')
+        subprocess.run(['ffmpeg', '-y', '-v', 'error', '-i', vid_for_audio,
+                        '-vn', '-ac', '2', '-ar', str(SR), tmp_mix], check=True)
+        mix = tmp_mix
+        notes['audio_from'] = 'mp4'
     info = sf.info(mix)
     notes['audio_s'] = round(info.duration, 3)
     if abs(info.duration - dur) > 0.05:
@@ -87,10 +98,15 @@ def check(ch, fix=False):
     if last > dur + 0.01:
         issues.append(f'voice runs past end: {last:.2f} > {dur:.2f}')
 
+    if tmp_mix and os.path.exists(tmp_mix):
+        os.remove(tmp_mix)
+
     # ---- images
     missing, dark = 0, []
     for shot in tl['shots']:
-        found = [p for p in (os.path.join(ROOT, 'work', 'images', f"{shot['id']}{v}.{e}")
+        # the same resolution order the renderer uses, or QA reports every shot missing
+        found = [p for p in (os.path.join(ROOT, 'work', d, f"{shot['id']}{v}.{e}")
+                             for d in ('images_anime', 'images')
                              for v in ('', '_v1') for e in ('png', 'jpg', 'webp'))
                  if os.path.exists(p)]
         if not any(f for f in found if '_v1' not in os.path.basename(f)):
