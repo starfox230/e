@@ -323,18 +323,57 @@ def sfx_gunfire_exchange():
 
 @sfx
 def sfx_explosion():
-    x = boom(5.0, seed=7)
-    s = src(f'{WZ}/sfx/explons/lrgexpl.ogg')
-    if s is not None:
-        place(x, s / (np.abs(s).max() + 1e-9), 0.0, 0.6)
-    return normalize(x)
+    """A close explosion, layered the way a real one arrives at a microphone.
+
+    The old version was a synthesised boom with a 16 kHz game sample laid on top, and the
+    sample's band limit was audible as a dull edge on an otherwise wide effect. This builds
+    it in the four parts an explosion actually has: a shock transient of a few milliseconds,
+    the body, a sub-bass thump that arrives fractionally later and decays slowest, and a
+    debris tail. The body comes from a 44.1 kHz recording rather than the 16 kHz one.
+    """
+    sec = 5.0
+    x = np.zeros((2, int(sec * SR)), dtype=np.float32)
+    body = src(f'{OA}/items/kam_explode.wav')
+    if body is None:
+        body = src(f'{WZ}/sfx/explons/lrgexpl.ogg')
+    if body is not None:
+        b = body / (np.abs(body).max() + 1e-9)
+        place(x, b, 0.0, 0.95)
+        place(x, lp(b, 900) * 1.1, 0.055, 0.5)        # the low end arrives a touch later
+    # shock front: 4 ms of wideband, nearly all of it above 2 kHz
+    crack = (noise_burst(0.05, 0.004, lo=1200, hi=16000, seed=71) * 0.85)[None, :]
+    x[:, :crack.shape[1]] += crack
+    # the thump you feel rather than hear: a short swept sub, not a five-second drone
+    sub = (thump(44, 1.4, 0.32, 24) * 1.2)[None, :]
+    i0 = int(0.02 * SR)
+    x[:, i0:i0 + sub.shape[1]] += sub
+    # debris and grit, thinning out over about two seconds
+    r = rng(72)
+    for _ in range(140):
+        i = int(r.uniform(0.05, 2.2) * SR)
+        g = noise_burst(0.03, 0.005, lo=900, hi=11000, seed=int(r.integers(1e6)))
+        g = (g * r.uniform(0.04, 0.22) * np.exp(-i / SR / 0.8))[None, :]
+        x[:, i:i + g.shape[1]] += g[:, :x.shape[1] - i]
+    x = np.tanh(x * 1.35)
+    return normalize(reverb(x, room=0.82, wet=0.28, dry=0.95, damp=0.6, tail=2.0))
 
 
 @sfx
 def sfx_explosion_distant():
-    x = boom(6.0, seed=8, fc=400, sub=35)
-    x = lp(x, 700)
-    return normalize(reverb(x, 0.95, 0.5, 0.6, tail=2))
+    """The same event a kilometre away: the top gone, the thump late, the tail long."""
+    sec = 6.0
+    x = np.zeros((2, int(sec * SR)), dtype=np.float32)
+    body = src(f'{OA}/items/kam_explode_far.wav')
+    if body is None:
+        body = src(f'{OA}/items/kam_explode.wav')
+    if body is not None:
+        b = body / (np.abs(body).max() + 1e-9)
+        place(x, lp(b, 620), 0.0, 0.8)
+    sub = (thump(34, 2.0, 0.5, 20) * 0.8)[None, :]
+    i0 = int(0.05 * SR)
+    x[:, i0:i0 + sub.shape[1]] += sub
+    x = lp(x, 750)
+    return normalize(reverb(x, 0.95, 0.5, 0.7, damp=0.75, tail=3.0), -3)
 
 
 @sfx
