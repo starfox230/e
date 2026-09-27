@@ -37,7 +37,7 @@ STYLE = 'cinematic film still, 35mm, dramatic lighting, rich shadows, realistic'
 
 # Short forms for shots with more than one character in them.
 SHORT = {
-    'WESKER': 'a platinum-blond man in black sunglasses',
+    'WESKER': 'a severe dark-auburn-haired man in tinted glasses and a charcoal greatcoat',
     'DANA': 'a grey-haired woman in a cardigan',
     'LESSING': 'a gaunt grey-haired man in wire glasses',
     'EVELYN': 'a young auburn-haired woman in a lab coat',
@@ -65,17 +65,19 @@ SHORT = {
     'SILENT': 'security men in identical black suits',
     'UMBRELLA': 'a crimson circular emblem',
 }
+NEW_LOOK = ('a tall severe pale man in his late thirties with short dark auburn hair swept back, narrow smoke-tinted steel-rimmed glasses, a charcoal double-breasted greatcoat over a dark grey shirt')
+
 # Long-form overrides for the character sheet in story/visuals.json.
 LONG = {
-    # the name adds nothing CLIP can draw except the game's own render of him
-    'WESKER': 'a tall man with slicked-back platinum blond hair, black sunglasses, black high-collared long coat',
+    # an original design for the protagonist rather than the games' character look
+    'WESKER': NEW_LOOK,
     'UMBRELLA': 'a crimson circular emblem',
 }
 # Him with the glasses off is a turning point every time it happens in the story; the
 # standard look would put the glasses straight back on.
 BARE_EYED = {
-    'long': 'a tall man with slicked-back platinum blond hair, pale grey eyes, black high-collared long coat',
-    'short': 'a platinum-blond man with pale grey eyes',
+    'long': 'a tall severe pale man in his late thirties with short dark auburn hair swept back, pale grey eyes, a charcoal double-breasted greatcoat',
+    'short': 'a severe dark-auburn-haired man with pale grey eyes',
 }
 NO_GLASSES = re.compile(r'without (his )?sunglasses|sunglasses (off|removed|in (his )?hand|folded)|'
                         r'(takes|took|taking|removing|removes|removed) (off )?(his )?sunglasses|eyes visible', re.I)

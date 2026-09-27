@@ -26,7 +26,7 @@
 
 **Public name:** Dr. Albert Wesker, Director of Research, Umbrella Research Division Seven (Wilmington, Delaware). The System placed him into the paperwork: a PhD from a Swiss institute that closed in 2019, a career of short contracts in Europe, a US work visa that renewed itself. Every record holds up to a casual check. Nothing holds up to a deep one. (Plot fuel for Movement III: Carrick finds that his past is *too clean*.)
 
-**Body:** Tall, blond, swept-back hair, black sunglasses (indoors when he wants the myth), long black coat, black gloves on cold days. Voice like a closed door. Unhurried walk. Carries the **Prototype Virus** at wake-up: burst speed that reads as teleportation, strength enough to fold a car door, reflexes that watch a muzzle flash like a still photograph, healing in minutes, slit pupils that glow amber-red when emotion spikes. He knows all this before the System ever opens a shop. The arrogance is earned.
+**Body:** Tall, pale, short dark auburn hair swept back, narrow smoke-tinted glasses (indoors when he wants the myth), charcoal double-breasted greatcoat, black gloves on cold days. Voice like a closed door. Unhurried walk. Carries the **Prototype Virus** at wake-up: burst speed that reads as teleportation, strength enough to fold a car door, reflexes that watch a muzzle flash like a still photograph, healing in minutes, slit pupils that glow amber-red when emotion spikes. He knows all this before the System ever opens a shop. The arrogance is earned.
 
 **Mind — one skull, two engines:**
 | | Wesker | Adolf |

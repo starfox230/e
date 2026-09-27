@@ -73,7 +73,7 @@ N: He set the mug down, very precisely, in the exact ring of dried coffee it had
 
 [img] a harsh fluorescent-lit office washroom, a cracked mirror, a tall blond man with slicked-back hair leaning on the sink, face half in shadow, cinematic
 N: The washroom light buzzed and flickered twice before it decided to work.
-N: The man in the mirror was tall, and pale, and blond, with his hair swept back from a hard, handsome face. Mid-thirties, perhaps, though the eyes were older than that. He wore a black shirt, dark trousers, and the kind of calm that belongs to a predator that has already eaten this week.
+N: The man in the mirror was tall, and pale, with short dark auburn hair swept back from a hard, severe face. Mid-thirties, perhaps, though the eyes were older than that. He wore a black shirt, dark trousers, and the kind of calm that belongs to a predator that has already eaten this week.
 N: He leaned closer. And the pupils, as he watched, narrowed into vertical slits, and flared a dull, burning red.
 N: And then, for the first time, something inside him spoke — in a voice that was not his own.
 ADOLF: This is not my face.

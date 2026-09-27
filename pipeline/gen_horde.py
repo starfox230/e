@@ -215,7 +215,10 @@ def main():
             el = time.time() - t0
             n = done['n']
             rate = n / el * 3600 if el > 0 else 0
-            on_disk = len([f for f in os.listdir(OUT) if f.endswith('.jpg') and not f.startswith('.')])
+            # count the same thing `total` counts: with --base-only the _v1 spares from an
+            # earlier run are not part of this job and must not inflate the progress line
+            on_disk = len([f for f in os.listdir(OUT) if f.endswith('.jpg') and not f.startswith('.')
+                           and (len(takes) > 1 or not f.endswith('_v1.jpg'))])
             left = total - on_disk
             print(f'[{time.strftime("%H:%M:%S")}] {tag}: {n} saved by this process, {on_disk}/{total} on disk, '
                   f'{len(inflight)} in flight, {rate:.0f}/h here, {left} left', flush=True)
