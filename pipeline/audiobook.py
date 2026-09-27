@@ -55,12 +55,13 @@ def encode(job):
         meta += ['-metadata', f'comment=Part {PARTS[part[0]]}: {part[1]}']
     mix = os.path.join(ROOT, 'work', f'ch{ch:02d}', 'mix.wav')
     video = os.path.join(ROOT, 'out', 'video', f'ch{ch:02d}.mp4')
-    src = mix if os.path.exists(mix) else video
+    # Prefer the video: its track is this same mix already encoded, so copying it is both
+    # free and identical everywhere, while encoding from mixes would leave the chapters that
+    # happened to be rendered later at a different bitrate from the rest of the book.
+    src = video if os.path.exists(video) else mix
     if not os.path.exists(src):
-        return None                  # not rendered yet; a later run picks it up
-    # The video's track is already the mastered mix as AAC; copying it avoids a second
-    # generation of lossy encoding. Only a mix, which is still WAV, has to be encoded.
-    codec = ['-c:a', 'aac', '-b:a', bitrate] if src == mix else ['-c:a', 'copy']
+        return None                  # neither yet; a later run picks it up
+    codec = ['-c:a', 'copy'] if src == video else ['-c:a', 'aac', '-b:a', bitrate]
     cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', src, '-i', art,
            '-map', '0:a:0', '-map', '1:v', *codec,
            '-c:v', 'mjpeg', '-disposition:v', 'attached_pic', *meta,
