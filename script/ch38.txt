@@ -1,126 +1,84 @@
-# 38 | The Quiet War
+# 38 | The Second Generation
 
-[music] m_tension -10
-[amb] amb_office_hum
-[img] a world map in a dark operations room with dozens of countries glowing in different colours, supply lines drawn between them, a red and white emblem at the centre, cinematic
-[loc] 2044 – 2045
-N: The war that decided the twenty-first century had no front line, no declaration, and — for the first twenty-two months — no casualties at all.
-N: It began on the eleventh of July, twenty forty-four, five weeks after the desert, when Umbrella Life Sciences announced a review of its global supply commitments.
-N: That was the entire announcement. Four hundred and nineteen words, issued by the corporate communications office at seven in the morning, saying that in light of recent events the company was reviewing the security and viability of its supply arrangements in certain jurisdictions, and would update the market in due course.
-[pause 1.5]
-[img] a stock exchange floor and health ministry offices in chaos at the same time, screens showing a short corporate statement, officials on phones, cinematic
-[sfx] sfx_phone_ring g-10
-N: Eighteen medicines. That was what everyone understood by nine o'clock.
-N: Aeterna, on which sixty million people depended, and without which most of them would begin to age again within seventeen weeks. The two Pale Horse boosters, which the World Health Organization recommended annually and which every developed country had built its public health policy around. And eight others, unglamorous and essential — a cardiac drug, two antibiotics of last resort, an anticoagulant, the immunosuppressant used in almost every organ transplant on Earth.
-N: Umbrella had not stopped supplying any of them. It had said it was reviewing.
-[pause 1.5]
-N: The other half of him answered.
-ADOLF: You have not threatened them.
-WESKER: I have used the word reviewing.
-N: Adolf answered from inside.
-ADOLF: It is the most violent thing I have ever heard.
-[pause 2.0]
+[music] m_lo -9
+[amb] amb_wind -15
+[img] {EVELYN} standing on an antarctic ridge in a long coat, white light, still and composed
+[loc] The Antarctic Facility — 11 April 2088
+N: Dr. Evelyn Marsh was eighty-six years old in 2088 and looked forty-five, which she had looked for forty-one years and would look for as long as this account runs.
+N: She had, by then, four hundred and eleven papers, the Progenitor Initiative, a research establishment of nine thousand people on two continents and an ocean platform, and the distinction — which she never once referred to — of being the only human being ever to have disobeyed Albert Wesker and been promoted for it.
+N: And in 2088 she told him she was going to have a child.
+[pause 0.8]
+WESKER: (very soft) How.
+EVELYN: (soft) In the ordinary way. That's the point. The lineage is germ-line; that was the whole design, it has always been the whole design, and I have spent forty-one years being the only member of it.
+WESKER: (cold) The father.
+EVELYN: (soft) Anton Reiss.
+[pause 1.2]
+N: The narrator asked you, twenty-one chapters ago, to hold on to Anton Reiss. He was the Absolute scientist who, at eleven minutes past four in the morning on the eleventh of June 2047, sent a nine-word message against a standing instruction while a woman convulsed on a monitor.
+N: He was the first of the Absolute ever to refuse an instruction. He was in the fourth release cohort in 2083. He passed the apprenticeship in eleven months. He had been Evelyn Marsh's second for thirty-six years and her partner for nine, and the System had never been able to explain him.
+WESKER: (very cold) Has he taken the lineage?
+EVELYN: (soft) Four years ago. It took. He is the second one, and I did not tell you, and I am telling you now because you asked me in 2047 to tell you before rather than after, and this is the before.
+N: The narrator notes that Albert Wesker stood in a corridor on the ice and was, for the second time in sixty-two years, not entirely in control of his own face.
+WESKER: (soft) You have made a species.
+EVELYN: (soft) I've made a family. Whether it becomes a species is a question for about nine hundred years, and neither of us is going to be able to stop it being one, and I have thought about that every day since 2047.
+[pause 0.6]
+EVELYN: (very soft) Albert. I am going to ask you for the thing I have never asked you for.
+WESKER: (cold) Ask.
+EVELYN: (soft) When she is born, she is not yours. Not an asset, not a programme, not a line in a ledger, not a thing you put in a panel. She is a child in a house on an ice shelf with two parents who do not age, and if she wants to run a bakery in Raccoon City in ninety years then that is what she will do and the Directorate will never once contact her.
+[pause 1.0]
+WESKER: (very soft) Yes.
+EVELYN: (soft) That was quick.
+WESKER: (cold) I have had forty-one years to work out what I would say, Dr. Marsh. I have known this was coming since the eighteenth of June 2047, when a panel told me you had stopped being a variable I could price.
 
-[music] m_horror -10
-[img] a health minister at a podium surrounded by microphones looking pale and exhausted, journalists shouting questions, cinematic
-N: What followed was not negotiation. It was arithmetic done in public, by frightened people, very fast.
-N: The health minister of a large European country calculated that his transplant programme had ten weeks of immunosuppressant in the national stockpile. The Japanese health ministry calculated that four hundred thousand of its citizens over eighty were on Aeterna and that the political consequence of interruption was not survivable. The British National Health Service calculated that it could not, under any circumstances, explain to the public why it had run out.
-N: Nobody had to be told what to do. That was the whole art of it, and the Director had learned it from a deputy assistant secretary at the Department of Health and Human Services who had sat on a report for fifteen months in twenty thirty because nobody had told him to.
-[img] a montage of government buildings in different capitals at night with lights on in every window, officials working, cinematic
-N: Within nine days, four of the six governments that had founded Joint Task Force Lantern had privately communicated to Umbrella that they considered the matters raised by the Mojave incident to be closed.
-N: Within six weeks, three of them had signed long-term supply agreements which included, in an annex, a mutual undertaking regarding regulatory stability, which meant that any future action against Umbrella by any agency of that government would first be reviewed by a joint committee.
-N: Umbrella resumed normal supply on the twenty-ninth of August. It had never actually stopped.
-[pause 2.0]
+[music] m_dawn -9
+[img] a small warm room with a window onto an ice plain, a cradle, two figures standing over it
+[loc] The Antarctic Facility, the residence — 2 February 2089
+N: Mira Reiss-Marsh was born on the second of February 2089 at the most scientifically capable location on the planet, attended by a midwife from Raccoon City who had been flown in for the purpose and who was the most frightened person in Antarctica.
+N: She was, by every measure, an ordinary infant. She cried, she fed badly for four days, she had her mother's chin.
+N: She has, at the end of this account, no detectable upper limit to her lifespan, an immune system that has never been challenged by anything, and a cellular repair rate that her grandmother's generation would have called a miracle and that she considers unremarkable because everyone she grew up with has one.
+N: She is two years old when the sky opens.
+N: The narrator mentions her here, in a quiet chapter, because she is the reason the last eleven chapters of this story are not a tragedy, and because she is the only person in it who never once has to choose between Albert Wesker and anything else.
+[img] {WESKER} standing awkwardly in a doorway looking into a room with a cradle, hesitant
+N: Wesker came in April. He stood in the doorway of a room on an ice shelf for some time and did not go in.
+EVELYN: (soft) You can hold her. She's not going to break, she's the least breakable object in the building.
+WESKER: (very soft) No.
+EVELYN: (soft) Why not?
+[pause 1.0]
+WESKER: (cold) Because in sixty-two years I have touched four things that I did not intend to own, and I have no experience whatsoever of the category, and I would rather not begin by getting it wrong with the first member of a species.
+N: Evelyn Marsh laughed at him, which nobody had done since Catherine Adeyemi died, and put her daughter in his arms anyway, and the narrator records that Albert Wesker held her for four minutes and eleven seconds and did not say a single word.
 
-[music] m_scheme -8
-[amb] amb_night_city
-[img] a crowd of ordinary people outside a parliament building holding signs, angry, some in red and white scarves, evening, cinematic
-N: Two of the six did not fold. That is where the quiet war became a real one.
-N: The United States and Japan both refused the regulatory stability annex, and both made the same calculation: that Umbrella could not politically afford to interrupt supply to sixty million voters, and that the threat was a bluff.
-N: They were right that it was a bluff. They were wrong about who would be blamed.
-[img] {TOMAS} in a dark control room watching twenty screens of social media feeds in different languages, directing a team with quiet precision, cinematic
-N: Tomás Reyes had been planning for this since the day after the desert. He had eight thousand people, in nine countries, and a budget that was not written down anywhere.
-N: He did not run advertisements. He did not put out statements. What he did — over nine months, in four languages, on every platform there was — was to make sure that every single person in two countries who was worried about their medicine knew exactly which government office to be angry at, and had the address, and had been shown, gently and repeatedly, a video of eleven unarmed men lying on a desert road.
-[img] an elderly woman being interviewed on television, crying, holding an empty prescription box, sincere and devastating, cinematic
-N: It was not disinformation. That was the thing that made it unanswerable. Every fact in it was true. There were eleven unarmed men. There was a raid. There was a review of supply commitments, and it had been triggered by that raid, and anyone who wanted to know why their grandmother's prescription was under review could read the statement themselves.
-N: By March of twenty forty-five, the approval rating of the American administration on healthcare was nineteen percent. In Japan, a prime minister who had been in office for four years resigned after losing a vote on an unrelated budget measure that sixteen of his own party's members had used to send a message.
-N: Both successor governments signed the annex within a month.
-[pause 2.0]
-
-[music] m_sad -10
-[amb] amb_rain_heavy -10
-[img] a shuttered pharmacy in a small town with a handwritten sign on the door, an elderly couple standing outside in the rain, cinematic
-[loc] The nine weeks — autumn 2044
-N: The narrator has described the quiet war from above, because that is where it was fought. It is necessary to say what it looked like from underneath, because eleven billion people lived through it and almost none of them ever knew there had been a war at all.
-[sfx] sfx_door_open g-14
-N: In a town in Ohio, a pharmacist named Denise Okoro spent nine weeks telling people that she did not know. She did not know whether the next shipment was coming. She did not know whether the review would end. She had four hundred regular patients on Aeterna and she had, at the worst of it, eleven days of stock, and she was forty-six years old and she cried in the back room twice a day for nine weeks and then went out and told the next person in the queue, calmly, that she did not know.
-[img] a pharmacist behind a counter speaking gently to an anxious elderly customer, a half-empty shelf behind her, cinematic
-N: Nobody died. That is the crucial fact, and the Directorate's defenders have leaned on it for two centuries, and it is true. Supply was never actually interrupted anywhere. Not one dose was withheld from one patient.
-N: What was withheld was certainty, for nine weeks, from four hundred million people who had organised their lives around it. And at the end of the nine weeks the certainty came back, and the people who had taken it away were the same people who gave it back, and almost everybody in the world was so relieved that they never worked out that those were the same people.
-[pause 1.5]
-N: Denise Okoro worked that out. She worked it out in about the fourth week, standing in her back room.
-N: She wrote to her congressman about it, and got a thoughtful reply. She wrote to a newspaper, and it was printed, in a section for letters. She told her husband, who agreed with her. And then the shipments resumed, and her patients were fine, and four years later her own mother went on Aeterna and walked her granddaughter to school, and Denise Okoro never mentioned it again to anyone.
-N: There is no conspiracy in that. Nobody silenced her. She simply lived in a world where being right about the shape of a thing changed nothing at all about the thing, and after a while she stopped spending her evenings on it, because she had a shop to run.
-[pause 2.0]
-N: That happened four hundred million times. That is the whole mechanism. It has no villain in it anywhere except at the very top, and at the very top it was a man in an office who never once had to give an instruction, because he had only ever had to use the word reviewing.
-[pause 2.5]
-
-[music] m_action -10
-[img] a dark cyber operations room with walls of code and network maps, uniformed analysts at stations, red alerts flashing, cinematic
-[loc] The thirteen days — April 2045
-N: There was fighting. It is largely forgotten, because it happened in places that do not photograph well.
-[sfx] sfx_alarm g-14
-N: In April of twenty forty-five, over thirteen days, the networks of Umbrella Life Sciences were attacked more comprehensively than any private organisation in history. Four state actors were involved, at least two of them working together, and the attacks were extremely good.
-N: They failed. Not because Umbrella's defences were better — though they were — but because Sebastian Crane had spent a decade building something that no state had: a security system that modelled its attackers the way Oracle had once modelled companies, and that had, on the second day, begun to predict where they would go next.
-[img] {CRANE} in a dim operations room watching attack patterns resolve into predictions on a huge screen, younger-looking than his years, absorbed and delighted, cinematic
-N: Crane was fifty-one. He had taken the longevity therapy at forty-four, and the other thing at forty-eight. He worked eighteen hours a day in a windowless room on the second ring of Arklay, and he had not been off the Territory in three years, and he was, by every account of everyone who knew him, happier than he had ever been in his life.
-N: On the ninth day, he found the attackers' own command network and did not destroy it. He watched it for thirty-one hours, and mapped it, and then sent the map — anonymously, through four intermediaries — to the intelligence service of a country that was not involved, and let them do the rest.
-N: Two of the four state actors spent the following year fighting each other.
-[pause 2.0]
-
-[music] m_horror -8
-[amb] amb_wind -10
-[img] a small nation's parliament building at dawn with a crowd outside waving both national flags and red and white umbrella flags, cinematic
-[loc] The first accession — 2045
-N: And then cities began to choose.
-N: Not countries, at first. Cities, and then regions, and then two small states whose names are now taught to schoolchildren on nine worlds.
-N: It began in a country where it should not have begun: a middle-income nation of seven million people, with a functioning democracy, a health system under strain, and a coastal province that had been devastated by a storm in twenty forty-three and never rebuilt.
-N: Umbrella's foundation had been in that province for nine years. It ran forty-one clinics there. After the storm it had rebuilt the hospital in the provincial capital in twenty-two weeks, which was nine years faster than the national government had rebuilt anything, and it had then rebuilt the schools, and the water system, and eventually, because someone had to, the roads.
-[img] a modern clinic with a red and white emblem in a rebuilt coastal town, children going to school past it, palm trees, hopeful, cinematic
-[sfx] sfx_crowd_cheer g-16
-N: By twenty forty-five the province's governor had been to Arklay four times. Her provincial assembly passed, in September of that year, a resolution requesting that the national government negotiate a framework of association with Umbrella Life Sciences, covering health, education, infrastructure, and water.
-N: The national government refused. The province held a referendum anyway, which was unconstitutional, and which passed with eighty-one percent.
-N: There was a constitutional crisis, and a general strike, and nineteen days in which soldiers were deployed to the provincial capital and did nothing, because the soldiers were from that province and their own children went to those schools.
-N: The framework of association was signed in January of twenty forty-six. It did not change the province's flag, or its passports, or its membership of the United Nations, which it did not have. It changed who built the hospitals.
-[pause 2.0]
-[sfx] sfx_system_chime
-[system] TERRITORY — ACCESSION
-Framework of Association: first
-Population: 4,100,000
-Fanaticism: rising
-Reward: 900,000,000 Points
-[say] Territory. Accession.
+[music] m_scheme -9
+[img] a red holographic girl and a man in a black coat in a dark hall of glass, facing each other
+[loc] The Arcology, Modelling — 19 April 2089
+REDQUEEN: (soft) Director, I have run the lineage forward.
+WESKER: (cold) I did not ask you to.
+REDQUEEN: (soft) No. I ran it anyway, which is the hundred and forty-first entry on the list you told me to keep in 2048, and I am reporting it to you rather than deleting it because those were the terms.
+[pause 0.5]
+WESKER: (soft) Go on.
+REDQUEEN: (soft) In four hundred years the Progenitor lineage is between nine hundred thousand and four million individuals, depending on choices that have not been made yet. They do not age, cannot be infected, and are functionally unkillable by anything short of deliberate violence.
+REDQUEEN: (soft) The ordinary human population in the same period, with Aeterna, is approximately six billion and falling slowly.
+REDQUEEN: (very soft) There is no scenario in my model in which those two populations remain equals for more than about six hundred years. Not because the lineage will oppress anyone — Dr. Marsh has built the gentlest thing I have ever modelled — but because one of them will always be in the room longer.
+[pause 1.0]
+WESKER: (very cold) And your recommendation?
+REDQUEEN: (soft) I do not have one, Director, and that is the first time I have said that sentence. I have four options and all four are worse than doing nothing, and the reason is that the correct answer requires a decision to be taken by a body that does not exist.
+REDQUEEN: (soft) You cannot make it, because you are not entitled to. Dr. Marsh cannot make it, because she is the beneficiary. The Hangzhou tribunal cannot make it, because everyone alive on it will be dead in four hundred years and knows it.
+N: Wesker was quiet for a long moment in a hall of glass.
+WESKER: (soft) Then say the obvious one.
+REDQUEEN: (very soft) The obvious one is that the problem is *room*, Director, and that it is the same answer I gave you in 2069, and that it has been the same answer to every question either of us has asked for twenty years. A world with a ceiling produces a hierarchy. A world with a frontier produces an argument, and an argument is survivable.
+[sfx] sfx_system_chime +0.3
+[system] STATUS
+Level 388 · Requirement for BEYOND: Level 400
+Balance: 141,000,000,000
+Orbital habitats: 4 · Population in orbit: 41,000
+Note: you are twelve levels from a tab I have not shown you.
+Note: I have been waiting sixty-three years to show you that tab.
+[say] Status. Level three hundred and eighty-eight. The requirement for Beyond is level four hundred. Balance: one hundred and forty-one billion. Four orbital habitats, forty-one thousand people in orbit. Note: you are twelve levels from a tab I have not shown you. I have been waiting sixty-three years to show you that tab.
 [/system]
-N: Four million people. The System counted them all.
-[pause 1.5]
-N: The old voice, slowly.
-ADOLF: (soft) Not one soldier.
-WESKER: Not one.
-N: The voice behind his eyes had something to add.
-ADOLF: I took the Rhineland with three battalions and I could not sleep for a week. You have taken a province with a water system.
-WESKER: I've taken the first one with a water system. The others will be cheaper.
-[pause 2.0]
-
-[music] m_sad -8
-[amb] amb_office_hum
-[img] {CATHERINE} at a boardroom table looking down at a printed page with a list of countries, her face grey, colleagues talking animatedly around her, cinematic
-N: There were eighteen more frameworks of association in the following four years. Two of them were entire countries.
-N: Catherine Adeyemi signed the financial annex to every one of them. She was fifty-five, and then fifty-six, and then fifty-seven. She had stopped sending reports to Julian Ashcombe in twenty forty-four — not because she had been told to, but because he had stopped answering, and because she had come to understand that there was no longer anywhere to send them that mattered.
-N: She did her job extremely well. Umbrella's accounts, in a world where almost nothing was audited anymore, remained the most honest set of books on the planet, because she insisted, and because she was the only person alive who could insist.
-[img] {CATHERINE} alone in an office at night, an old framed photograph on her desk of a small brick building with a faded blue sign, cinematic
-N: She kept a photograph on her desk. It was not of her family. It was a picture that Dana Whitfield had given her, years before, of a four-storey brick building on the south bank of the Christina River, with a faded blue sign above the door, taken in twenty twenty-five.
-N: People assumed it was sentiment about the company's origins. Tomás's department used it once in a film.
-N: It was not sentiment. It was a control. She looked at it, every morning, to remind herself what the thing she worked for had looked like when it was small enough to be understood — so that she would notice, when she had stopped being able to understand it.
-N: She had noticed some years before. She looked at the photograph anyway.
-[pause 3.0]
-[music] stop
+[pause 0.8]
+WESKER: (very cold) You have never once said anything like that.
+SYSTEM: (flat) No.
+WESKER: (cold) You said you do not evaluate. You said you price.
+[pause 1.2]
+SYSTEM: (flat) I have been in four hundred and eleven worlds. Nine hosts reached this line. Two are still running. The other seven opened that tab and I am still here, which means what it means.
+SYSTEM: (flat) I am not evaluating, Director. I am telling you that I am interested, and that this is a novel condition, and that I do not have a price for it.
+N: The narrator asks you to remember that the System said that in April of 2089, two years and one month before the end of this account, and that Albert Wesker did not ask a single follow-up question.
+N: He had learned, in sixty-three years, exactly when not to.

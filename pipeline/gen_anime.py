@@ -44,8 +44,17 @@ OUT = os.environ.get('GEN_OUT') or os.path.join(ROOT, 'work', 'images_anime')
 W, H = 1344, 768
 KEY = os.environ.get('HORDE_KEY') or horde.ANON
 
-MODEL = {'models': ['AAM XL'], 'steps': 28, 'cfg_scale': 5.5, 'sampler_name': 'k_euler_a'}
-FALLBACK = {'models': ['Animagine XL'], 'steps': 28, 'cfg_scale': 6.0, 'sampler_name': 'k_euler_a'}
+# The Horde's anonymous queue for any one checkpoint drains at about two frames a minute,
+# so a second process on a different checkpoint roughly doubles the rate. ANIME_MODEL picks
+# which one this process asks for; the other is its fallback.
+CHECKPOINTS = {
+    'aam': {'models': ['AAM XL'], 'steps': 28, 'cfg_scale': 5.5, 'sampler_name': 'k_euler_a'},
+    'animagine': {'models': ['Animagine XL'], 'steps': 28, 'cfg_scale': 6.0, 'sampler_name': 'k_euler_a'},
+    'novaflat': {'models': ['Nova Flat XL'], 'steps': 28, 'cfg_scale': 5.5, 'sampler_name': 'k_euler_a'},
+}
+_primary = os.environ.get('ANIME_MODEL', 'aam')
+MODEL = CHECKPOINTS[_primary]
+FALLBACK = CHECKPOINTS['animagine' if _primary != 'animagine' else 'aam']
 horde.MODELS['anime'] = MODEL
 horde.MODELS['anime2'] = FALLBACK
 

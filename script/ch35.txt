@@ -1,127 +1,93 @@
-# 35 | The Believers
+# 35 | Ninety-Six Hours
 
-[music] m_rain_piano -8
-[amb] amb_wind -12
-[img] a bright school classroom in a white ocean city with a window full of sea, twenty children standing with right hands on their chests, a young teacher at the front, cinematic
-[loc] Arklay Free Territory — 2041
-N: This chapter is about the people. The narrator has put it off long enough.
-N: It is easy to tell a story like this from the top — from boardrooms and stadiums and the inside of one extraordinary skull. It is easy because the top is where the decisions are, and decisions make a story move. But an empire is not made of decisions. It is made of a hundred and sixty thousand ordinary mornings, and the people having them.
-[pause 1.5]
-[img] a young woman teacher in her twenties smiling at a class of children in a bright seaside classroom, sunlight, warm and ordinary, cinematic
-N: Her name was Mireille Achebe. She was twenty-six, from Lyon, and she taught the second grade at the Third Ring school on Arklay, and she was one of the happiest people alive.
-N: She had grown up in a suburb where her mother cleaned offices at night. She had a degree she had been told would never pay for itself. She had applied to Arklay on a whim, in a queue of two and a half million, and been chosen, and arrived on a ferry at twenty-three with one suitcase, and been given a two-bedroom apartment with a balcony over the water, for nothing.
-N: Her class had nineteen children from seven countries. The school had a swimming pool, a telescope, and a rule that no class could have more than twenty children in it. She was paid four times what she would have earned in Lyon. Her mother had a residency permit and an apartment on the same ring, and had not cleaned an office in three years.
+[music] m_tension -9
+[amb] amb_norm -16
+[img] a large improvised operations room with officers at desks and wall maps, harsh lighting, tense
+[loc] Joint Task Force LANTERN, forward headquarters, Naples — 4 March 2077, 09:00
+N: LANTERN had planned for four scenarios. Armed resistance at the Arcology; sabotage of the fusion plants; a decapitation attempt against the Coalition's own leadership; and a deniable biological release.
+N: It had not planned for hospitality, and by nine in the morning on the first day the planning staff had a problem that nobody in that building had the training to name.
+N: They had captured everything. All thirty-one objectives, in ninety minutes, with no casualties on either side. They held the plants, the launch complex, the Arcology, the ridge, the ice, the island, and the man himself, who was sitting in an office on the Arcology's fourth level with a guard on the door and had asked only for coffee and a pad of paper.
+N: And by noon they had started to understand what they were holding.
+[img] a technician staring at a screen of stalled systems in a control room, other staff standing behind
+OFFICER: (flat) Sir, the Teraina desalination plant has gone into a hold state. Not a fault — a *hold*. The operators are sitting at their consoles. They're polite, they answer questions, they'll show you anything. They will not start the plant.
+MINISTER: (slow) Then have our people start it.
+OFFICER: (flat) Our people are trying. The plant is asking for an authorisation code from a management system that only accepts instructions from personnel it recognises, and the personnel it recognises are the ones sitting at the consoles refusing to give it, and they're not refusing out of loyalty — I've had four interviews now — they genuinely appear unable to.
+[pause 0.6]
+OFFICER: (flat) Sir, one of them cried. He wanted to do it. He said he wanted to do it.
+N: By the end of the first day there were eleven such holds. By the end of the second there were four hundred.
+N: The narrator wants to be exact about the mechanism, because every account since has got it wrong in the same direction.
+N: Albert Wesker did not order anybody to sabotage anything. He had ordered the precise opposite: *assist the visiting personnel with anything they request*, in writing, in front of a camera, and he had signed a second instrument at five forty-one authorising every Absolute employee to take instruction from the officer commanding at their site.
+N: And it did not work, and the reason it did not work is the single most important fact about the Absolute, and the Coalition discovered it on day two.
+[img] {WESKER} sitting at a plain desk in an office with a guard at the door, writing on a pad
+[loc] The Arcology, level four — 6 March, 11:00
+COLONEL: (slow) Explain it to me again. Slowly.
+WESKER: (soft) They can take an instruction from you. They cannot take *responsibility* from you. A man who was made on a Saturday in 2039 with a wife and eleven years of memories is a complete human being in every respect except one: he has never in his life made a decision that mattered on his own account, because there has never been a moment when there was not an instruction available.
+WESKER: (cold) You have removed the instruction. Not the giver of it — I am still here, and I have signed everything you have put in front of me — the *structure*. They are not refusing you. They are standing at their consoles in a condition that your medical people are, I gather, calling dissociative, and for which they have no precedent, because there has never been a population like this.
+COLONEL: (slow) And you knew this would happen.
+WESKER: (very soft) I have known since 2027. It is in the second panel I was ever shown. *Personnel acquired through this interface cannot disobey.* I understood on the first morning what that would mean at scale and I built the scale anyway, and I have had fifty years to find a way out of it and there is not one.
+[pause 0.8]
+COLONEL: (slow) Then why are you so calm?
+WESKER: (cold) Because you are about to learn the thing I learned in 2033, Colonel, and it is going to be a great deal worse for you than it was for me, and there is nothing whatsoever I can do to make it easier.
+COLONEL: (slow) Which is?
+WESKER: (very soft) That there is no version of this in which you give it back to somebody else.
+
+[music] m_horror -8
+[img] a dry water distribution point in a hot town, empty tanks, people queueing with containers
+[loc] Teraina, the Line Islands — 8 March 2077, day 5
+N: The water ran out at Teraina on the morning of the fifth day.
+N: It ran out at four protectorates within the week, and in every case the Coalition's engineers had the plant running again inside thirty-six hours by bypassing the management system entirely, and in every case there was a gap, and in the gap there were people with no water.
+N: Nobody died. The narrator wants that on the record, because it was the closest thing to a mass casualty in the entire affair and it did not happen: the Coalition flew water in, at enormous cost, with genuine competence and genuine urgency, and four hundred thousand people were inconvenienced and frightened and not one of them was harmed.
+N: But there is footage, from Teraina, on the fifth day, of a queue of people at a dry standpipe. And a Coalition press officer, doing her job, explaining to a camera that the situation was under control and that the water would be restored by evening.
+N: And behind her, in the queue, an old woman looking at the camera.
+N: That was the image. Not a massacre. A queue, and an old woman's face, and a foreign officer saying *under control*.
+[img] a montage of protest crowds in many cities at night, banners and phone lights
+N: The demonstrations began on the sixth day, and they were not organised by Umbrella, and the narrator has checked this more carefully than anything else in this account, because it is the single most consequential question of the century.
+N: The Red Queen was in Coalition custody, powered down, from the fourth of March. The asset network of forty-one people in government and media, purchased in 2034, was never activated; the Coalition's own forensic review found it and confirmed it had never once been used, which was the most damaging finding in the entire report.
+N: What happened is simpler and worse. Four billion people who took a free medicine every eleven weeks from a company that had never asked them for anything watched a queue at a dry standpipe, and made up their own minds, and went outside.
+N: Eleven million in Lagos. Nine million in Jakarta. Four million in São Paulo, in Mexico City, in Cairo, in Manila. In Europe and North America it was smaller and angrier and had more police.
+N: The demand was four words, and it was on every sign in nineteen languages, and it was not *free Wesker*.
+N: It was: *give us our doctor back.*
+
+[music] m_lo -9
+[img] a government committee room with exhausted officials, papers scattered, night
+[loc] Geneva — 14 March 2077, day 11
+N: The Coalition held for eleven days, and the narrator would like to say clearly that it held for eleven days under conditions no government in history has faced, and that the people in that room were not cowards.
+N: What broke it was not the protests. It was the arithmetic, presented on day nine by the same French analyst who had drawn the dependency map in 2072.
+MINISTER: (slow) Read the last paragraph aloud.
+OFFICER: (flat) *We can operate the infrastructure. We cannot operate the personnel. Restoring full function requires either the replacement of approximately four hundred thousand Absolute employees with trained conventional staff — a programme we estimate at eleven years and nine hundred billion dollars — or the restoration of the command structure they are contingent upon.*
+OFFICER: (flat) *There is no third option. In the interim, we estimate excess mortality across the protectorates and the medical distribution network at between four hundred thousand and two million persons over twenty-four months, depending on how quickly the Aeterna network degrades.*
 [pause 1.0]
-[img] a class of small children reciting in unison with hands on their hearts, morning light through a classroom window, earnest little faces, cinematic
-[sfx] sfx_creed_crowd g-16
-N: At eight o'clock every morning, Mireille's class said the Creed. She had not been told to do it. She had started it herself, in her first week, because the class next door did it and the children had asked.
-N: We are the shelter. We do not wait for the storm.
-N: If you had asked Mireille Achebe whether she worshipped Albert Wesker, she would have laughed at you. She had seen him twice, both times at a distance. She thought he was a strange, cold, brilliant man who had built a city where her mother did not have to clean offices. She did not think about him much at all.
-N: If you had asked her whether she would leave Arklay, she would have looked at you as if you had asked whether she would leave her own body.
-[pause 2.0]
+MINISTER: (slow) Two million.
+OFFICER: (flat) At the upper bound. If we hold for two years.
+MINISTER: (very slow) And if we give it back?
+OFFICER: (flat) Then nobody dies, sir, and he is exactly where he was on the third of March, except that eight billion people have now watched us try and fail, and every government in this room has demonstrated, on camera, that it will take the water away from an island to make a point about sovereignty.
+N: The vote was on the fifteenth of March. Nine of the twelve voted to withdraw. Two abstained. One voted to continue and its government fell in April.
 
-[music] m_corporate -10
-[img] a security officer in a black uniform walking a night patrol along a deserted promenade of an ocean city, lit windows above, calm sea, cinematic
-[sfx] sfx_footsteps g-14
-N: His name was Danilo Ferreira. He was thirty-four, from São Paulo, and he was a sergeant in the Umbrella Security Service.
-N: He had been a military policeman at home, in a city where that job meant something complicated, and he had left it because of a thing he had been ordered to do and had done. Arklay was a fresh start. On Arklay there was no violent crime to speak of; his job was lost children, drunk engineers, and the occasional journalist trying to get in on a fishing boat.
-N: Four of the six officers in his section had come from the Shop. He did not know that. He knew that four of the six were very good at the job, never complained, never drank, never asked for leave, and never quite looked at him when he made a joke.
-[img] {HALE} standing in a doorway watching a briefing room of officers, half of them utterly still, half fidgeting normally, uncanny contrast, cinematic
-N: He had tried, once, in his second year, to raise it with his lieutenant — not as a complaint, just as a thing he had noticed. He had said: they're strange, aren't they, the quiet ones.
-N: His lieutenant had looked at him for a moment too long, and said: they're excellent officers, Sergeant. And Danilo Ferreira had understood, the way a man who has been a military policeman in a complicated city understands things, that there was a door in this conversation and it was closed.
-N: He had a wife on the Fourth Ring and a son of six who wanted to be an oceanographer. He never mentioned it again. He was promoted twice.
-[pause 2.0]
-
-[music] m_sad -8
-[img] {TOMAS} alone in a dark high office at night surrounded by twenty-two screens of global media dashboards, his face lit blue, unshaven, a full glass of water untouched, cinematic
-N: And his name was Tomás Reyes, and by twenty forty-one he was one of the most powerful men on Earth, and he was hollow all the way through.
-N: He was thirty-nine. He ran a department of four thousand people in nine countries. He had, without exaggeration, more influence over what eight billion people believed than any single human being in history — more than any newspaper baron, more than any state broadcaster, because he did not own the channels. He owned the shape of the water they flowed through.
-N: He had done it well. Pale Horse had been his greatest work: nineteen days from sequence to vaccine, and eighteen weeks in which he had taken the most frightened planet in living memory and given it, gently, patiently, a red-and-white umbrella to look at. People had cried at his advertisements. He had won awards he had not attended.
-[pause 1.5]
-[img] {TOMAS} in a glass office at 3 a.m. watching an old grainy phone video of a young man in a break room, his reflection over it in the dark glass, cinematic
-[sfx] sfx_mouse_click g-10
-N: At three in the morning, when the building was empty, he sometimes played the break-room clip.
-N: Twenty seconds, shot on a phone in November twenty twenty-six, by a twenty-four-year-old lab technician who thought he was being funny. Six frightened people. A man in a black shirt saying: every great thing that has ever happened in this world began in a room exactly like this one.
-N: He had four hundred million views on that file. He had made it the founding document of a civilisation. And he sat in the dark and watched it, over and over, trying to remember what it had felt like the first time, when he had been a kid with a hundred and six thousand dollars of student debt and no idea what he was standing in the middle of.
-[pause 1.5]
-N: The second voice came back.
-ADOLF: He is exhausted.
-WESKER: He's the most valuable man in the company.
-N: Then the other one, from inside.
-ADOLF: Those are not contradictions. I had one like him. A very clever, very tired man who understood crowds better than I did, and who could not stop, and who in the end took his whole family with him.
-WESKER: (cold) Tomás has no family.
-N: The old voice, slowly.
-ADOLF: (slow) No. He does not. Have you never wondered why?
-[pause 2.0]
-N: The Director did not answer. But he gave Tomás Reyes six months' leave the following week, with his salary and his stock and his title, and told him to go somewhere without a screen.
-N: Tomás went to Patagonia. He came back after nine days, because he could not sleep there either.
-[pause 2.0]
-
-[music] m_horror -10
-[amb] amb_lab
-[img] a white underground laboratory corridor on the ocean city, deeper and colder than the others, a heavy sealed door marked PROGENITOR at the end, cinematic
-N: And below all of it — below the schools and the promenades and the Fourth Ring apartments, in the keel of the arcology, two hundred metres beneath the waterline — was Evelyn Marsh's laboratory.
-N: It had moved from Delaware in twenty thirty-nine. Arklay Free Territory was in international waters, which meant that it was subject to no nation's law on what might be done in a laboratory, and the Progenitor Initiative had outgrown a sublevel under a brick building in Wilmington some years before.
-N: She was forty-one. She had taken the longevity therapy at thirty-five, and something else at thirty-eight that she had designed herself and reported to the Director afterwards, as agreed, in a memo of four lines. She looked perhaps thirty. She slept two hours in every forty-eight. Her staff of two hundred and seventeen included sixty humans, who worshipped her, and a hundred and fifty-one who had come from the Shop, and did not need to.
-[img] {EVELYN} in a white coat standing before a wall of tall cylinders in dim blue light, her reflection multiplied in the glass, serene, cinematic
-N: She had, by then, made ten more of what the System's panels called Personnel conversion — Progenitor (human). Thomas Wyatt had been the first. The others had all been volunteers, and all been dying, and all been told the truth, and all been given, on the far side of it, thirty or forty more years and a brightness in the eyes and a total, unquestioning devotion to the Director that none of them experienced as devotion at all. They experienced it as clarity.
-N: Three of them sat on the boards of Umbrella subsidiaries. One was a deputy health minister in a country in southern Europe. One was the chief executive of a shipping line.
-N: Evelyn kept their files in a cabinet she had made herself, because she did not trust the network, and on the front of the cabinet, in her small neat handwriting, she had written a label.
-[img] close-up of a handwritten card label on an old steel filing cabinet drawer reading THE QUIET ONES, macro, cinematic
-N: The quiet ones.
-[pause 2.0]
-
-[music] m_tension -8
-[amb] amb_ship_hum -12
-[img] {CATHERINE} walking through a beautiful ocean city street market with her head down, passing smiling residents, isolated in a crowd, cinematic
-N: Catherine Adeyemi spent three weeks a year on Arklay after twenty thirty-nine, and hated every one of them, and could not have said, in public, a single specific reason why.
-N: That was the genius of it. There was nothing to point at. The city was beautiful. The people were happy. The hospital was free and excellent. Crime was almost nil. The schools got children into every university on Earth. Nobody was forced to stay, and nobody left. There was no secret police, because there was no need for one; the Umbrella Security Service spent most of its time returning lost property.
-N: She sent Ashcombe fifteen reports in four years. She could feel, reading them back, how they must sound in London: a highly paid chief financial officer complaining that the residents of a utopia were too cheerful.
-[img] {CATHERINE} at a long dinner table on a terrace above the sea with Umbrella executives laughing, her face polite and absent, candles, evening, cinematic
-N: In her fourth year she wrote one that was different. It was three sentences long, and she sent it from a boat, on a satellite phone, twenty miles outside the Territory's water.
-N: It said: There is no coercion here. There is no dissent here either. Julian, I have finally understood what he is building, and it is not a company or a country — it is a place where nobody has ever needed to be made to agree.
-[pause 2.0]
-
-[music] m_sermon -12
-[img] {WESKER} standing alone on the highest terrace of a white ocean city at night, looking down over a hundred thousand lit windows and the black Atlantic beyond, cinematic
-N: He walked the city at night, sometimes, alone, without security, because there was nothing on Arklay that could hurt him and because the Banner-Sense worked better outdoors.
-N: A hundred and sixty thousand small steady lights. He could feel them all. A teacher on the Third Ring who had fallen asleep marking. A sergeant on the Fourth doing a night patrol and thinking about his son. Four thousand quiet ones who burned with a light that was not light at all, but something more like a wire. And two hundred metres down, in the keel, a woman who burned so bright that he had learned not to look directly at her.
-[pause 1.5]
-N: Adolf's voice came back, low.
-ADOLF: (soft) This is what I meant. All those years, in the car, going home. This.
-WESKER: I know.
-N: The voice inside him answered.
-ADOLF: I could not build it. I had the crowds and the banners and a continent, and I could not build one street like this. Do you know why?
+[music] m_dawn -8
+[img] {WESKER} walking out of a doorway into daylight on a sea platform, soldiers standing aside
+[loc] The Arcology — 16 March 2077, 06:00
+N: They released him at six o'clock in the morning on the sixteenth of March, eleven days and two hours after they had taken him, and they did it without any ceremony at all because nobody had any idea how to do it with some.
+N: He walked out onto the causeway in the same coat, in front of four hundred thousand people who had been told at midnight that he was coming out, and who had been standing there since about two.
+N: The narrator will describe the next ninety seconds as precisely as the record allows.
+N: He stopped. He looked at the crowd for a long moment. And he raised one hand, flat, palm out — not a wave; the gesture a man makes to a room that is about to start shouting — and four hundred thousand people went quiet in about four seconds.
+[sfx] sfx_crowd_silence +0.3
+WESKER: (slow) Nobody died.
 [pause 1.0]
-WESKER: Because you gave them an enemy instead of a roof.
-N: The voice inside him, barely a murmur.
-ADOLF: (slow) Yes.
-[pause 1.5]
-ADOLF: I gave them someone to hate, because hate is quick, and I was in a hurry, and I thought a people could be held together by what it was against. And it held. For eight years, it held beautifully, and then it burned, and everything I built went with it.
-ADOLF: You have given them a roof. And a school. And a doctor. And they will hold for a thousand years.
-[pause 2.0]
-N: The Wesker half of the mind stood on the terrace in the wind and looked down at the lights.
-WESKER: (soft) Say the rest of it.
-N: The inner voice, almost to itself.
-ADOLF: (soft) The rest of it is that I was wrong. About all of it. Not about the goal — never about the goal. About the method. Everything I did was too fast and too loud and too hungry, and it cost me the world, and a boy from a Wilmington laboratory did it better in fifteen years with a medicine and a laminated card.
-[pause 2.0]
-N: It was the first and only time, in twenty-one years, that the old voice admitted it had been wrong about anything.
-N: And the Wesker half of the mind — who had spent fifteen years using that voice's failures as a whetstone, who had defined himself entirely as the man who would not make those mistakes — found that he did not feel triumphant.
-N: He felt, standing on the terrace above a hundred and sixty thousand sleeping people, the specific loneliness of a man who has just won an argument he has been having with himself since he was a corpse in a bunker.
-[pause 1.5]
-[sfx] sfx_system_chime
-[system] INTEGRATION
-Host coherence: 91%
-Divergence events (12 months): 2
-[say] Integration. Host coherence, ninety-one percent.
+WESKER: (cold) I want that to be the first sentence, and I want it to be the one you remember, because in about an hour there will be four hundred people telling you what this was, and most of them will be wrong.
+WESKER: (slow) Twelve governments believed that no species should depend on the goodwill of one man. They were right. They have been right since 2034, when I said so myself, under oath, in front of a Senate committee, and asked them to build something better than me.
+WESKER: (very cold) They did not build it. They came to take it instead, and they took it without hurting anyone, and then they discovered what I have known since I was forty years old: that the thing they were taking cannot be held by anybody else, because I built it out of people who cannot be given to another owner.
+[pause 0.8]
+WESKER: (slow) That is my fault. Not theirs. Mine. I built it that way because it was faster, and because it worked, and because every year for fifty years the alternative would have cost lives that I could count and the risk would have been a thing I could not.
+WESKER: (cold) Go home. Drink something. The water is on everywhere as of four o'clock this morning and the medicine did not stop for a single day.
+N: He did not say anything else. He did not smile, or thank anybody, or raise a fist, and when they began to chant his name anyway he stood there until it stopped, and it took a long time.
+[sfx] sfx_system_chime +0.3
+[system] EVENT — THE ELEVEN DAYS
+Coalition states: 12 · Withdrawn: 12
+Deaths, all causes, attributable: 0
+Global sentiment: 96% favourable — the highest figure I have ever recorded
+Points: +40,000,000,000
+Note: you did not defend yourself. You have never been stronger.
+[say] Event: the Eleven Days. Twelve Coalition states, all withdrawn. Deaths, all causes, attributable: zero. Global sentiment: ninety-six per cent favourable, the highest figure I have ever recorded. Forty billion Points. Note: you did not defend yourself. You have never been stronger.
 [/system]
-[pause 1.5]
-N: It was the first time the System had ever shown him that panel. He had not known there was a number.
-N: Ninety-one percent. Two divergences in a year — two arguments, out of a thousand, in which the two of them had genuinely wanted different things.
-N: In the first year there had been four hundred.
-[pause 2.0]
-N: He stood on the terrace for a long time and did not go in.
-N: He was not afraid of very much by then. But he understood, looking at that number, that there was a day coming — not soon, but coming — when the panel would read one hundred percent, and there would be no more arguments in the car on the drive home.
-N: And he could no longer say, with any confidence at all, which of them would be left.
-[pause 3.0]
-[music] stop
+N: And in a cell of an office on the fourth level, on the eleventh night, Owen Carrick — who had been detained with the rest of the Directorate and had spent the entire eleven days refusing to speak to his own former colleagues from the Bureau — wrote the eighth folder on hotel notepaper, and it is one line.
+CARRICK: (slow) He let them take it so that they would find out it cannot be taken. That is not a defence. That is a demonstration, and every government on earth has just watched it.

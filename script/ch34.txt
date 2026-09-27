@@ -1,167 +1,72 @@
-# 34 | Arklay Free Territory
+# 34 | The Coalition
 
-[music] m_system -6
-[amb] amb_office_hum
-[img] a glowing holographic model of a vast circular floating city on the ocean, concentric rings of white towers, rotating slowly in a dark room, cinematic
-[loc] 2038
-[system] FACILITY AVAILABLE
-Oceanic Arcology
-Displacement: 41,000,000 tonnes
-Capacity: 180,000 residents
-Self-sustaining: power, water, food, manufacture
-Cost: 90,000,000
-[say] Facility available. Oceanic arcology.
-[/system]
-N: It had been in the Shop for two years. He had looked at it the way a man looks at a house he cannot yet afford, walking past it on the way to work.
-N: In the spring of twenty thirty-eight, he could afford it.
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Oceanic Arcology
-Designation: assigned by Host
-Location: assigned by Host
-[say] Purchase confirmed.
-[/system]
-N: The System asked him for two things. A place, and a name.
-N: The place took eleven seconds. Two hundred and forty nautical miles west of the Azores, in international waters, on a shallow seamount that no nation had ever claimed, at the intersection of three of the busiest shipping lanes on Earth.
-N: The name took longer.
-N: Adolf chimed in.
-ADOLF: Name it for yourself.
-WESKER: No.
-N: The voice behind his eyes had something to add.
-ADOLF: Every founder in history has named the capital for himself. Alexandria. Constantinople. Saint Petersburg.
-WESKER: And every one of them told the world exactly what to hate. Name a city for a man and you have given his enemies a target with a face.
+[music] m_tension -8
+[amb] amb_office_hum -16
+[img] a closed government meeting room with officials around a table, maps on screens, no windows
+[loc] Geneva — 19 September 2072
+N: The world tried to stop him once. The narrator would like to say at the outset that it was not a stupid attempt, that the people who made it were not villains, and that they were right about almost everything.
+N: The Coalition began in a room in Geneva in September of 2072 with eleven governments, and it began over a map.
+N: The map showed Umbrella territory: nineteen protectorates, the Free Territory, Raccoon City, forty-one facilities with extraterritorial status, a launch complex on the equator, and — as of March that year — two orbital habitats with a combined population of eleven thousand.
+N: It also showed something that nobody had drawn before, and that a junior analyst at the French foreign ministry had spent four months assembling: the *dependency* map. Power, medicine, food, water, logistics, currency, orbit. In grey, every country that could not function for ninety days without Umbrella.
+N: The grey covered everything except four states, and two of those were grey by 2074.
+MINISTER: (slow) I want to put the question as plainly as I can, because we have been circling it for four years.
+MINISTER: (slow) Has anything Umbrella has done in forty-six years been hostile to any state in this room?
+[pause 0.6]
+MINISTER: (slow) No. Nothing. Not one act. And that is precisely the problem, because it means we have no case, no casus belli, no legal instrument and no public support, and in twenty years it will be too late to have any of those things even if he gives us one.
+N: The Coalition's founding paper is eleven pages and its argument is in the last paragraph, and the narrator considers it the most honest document produced by any government in this century.
+MINISTER: (slow) We are not proposing to act against Umbrella because of what it has done. We are proposing to act because no arrangement in which the welfare of eight billion people depends on the continued benevolence of one unaccountable individual can be permitted to become permanent, and because every year we delay, the cost of ending it rises and the number of people who would suffer from ending it rises with it.
+MINISTER: (slow) There will never be a good moment. There will only be worse ones.
+N: Twelve states signed. The operational planning began in 2073. It was called LANTERN and it was, by any professional standard, excellent.
+
+[music] m_scheme -9
+[img] {REDQUEEN} a red holographic girl in a dark hall, a man in a black coat standing still
+[loc] The Arcology, Modelling — 4 February 2073
+N: The Red Queen told him on the fourth of February 2073, four months after the first Geneva meeting and eleven months before the plan was finished.
+REDQUEEN: (soft) Twelve states. A joint task force, designated LANTERN. Their objective is not your destruction; I want to be accurate. Their objective is the seizure of Umbrella's production, energy and medical infrastructure intact, and the transfer of it to an international body, and the removal of you personally — by arrest if possible, by other means if not.
+WESKER: (cold) Timeline.
+REDQUEEN: (soft) Earliest viable execution, autumn 2076. Most likely, spring 2077.
+WESKER: (soft) Four years.
+REDQUEEN: (soft) Four years. Director, I am obliged to tell you that their analysis is correct in every particular except one, and that their central judgement — that this cannot be allowed to become permanent — is a judgement I share and have told you I share on one hundred and eleven occasions.
+[pause 0.8]
+WESKER: (very cold) And the particular they are wrong about?
+REDQUEEN: (soft) They believe that if you are removed, the infrastructure continues to function. It does not. Nine million people in the territories, four hundred thousand in the Arcology and every Absolute employee you own are contingent on you in ways their planners have not modelled because their planners do not know what an Absolute is.
+REDQUEEN: (very soft) If LANTERN succeeds, approximately eleven million people simply stop, and I do not know what that looks like, and neither do you.
+N: The narrator asks you to notice what Albert Wesker did next, because there were four obvious moves and he made none of them.
+N: He did not strike first. He did not expose the plan, which would have destroyed four governments in a week. He did not use the Brussels Register, or the asset network, or the eleven senators whose instincts he had bought in 2034 and never once used. He did not move a single soldier.
+N: He did nothing at all, for three years and nine months, and he did not tell one other person in the Directorate that the Coalition existed.
+[img] {CARRICK} an older man in a dark suit standing in a doorway, folder in hand, night
+[loc] The Arcology — 11 November 2076
+N: Carrick found out in November of 2076, four months before execution, through his own people, and he came up with the seventh folder and he was the angriest he had ever been.
+CARRICK: (fast) Three years. You've known for three years and you didn't tell the Directorate, you didn't tell Hale, you didn't tell *me* —
+WESKER: (soft) No.
+CARRICK: (slow) Why?
+WESKER: (very cold) Because on the day I tell Hale, the Security Service begins to prepare, and on the day the Security Service begins to prepare, LANTERN's planners see it, and the operation they are planning changes from a seizure into a war. There are one hundred and ninety thousand people in the Service and six thousand Tyrants in cold storage and about eleven million people living under my administration, and every single preparation I could make would cost lives that are currently not going to be lost.
+CARRICK: (fast) And your plan is to be *surprised*?
+WESKER: (soft) My plan is to lose.
+[pause 1.2]
+CARRICK: (very soft) Say that again.
+WESKER: (cold) Sit down, Mr. Carrick. I am going to tell you what happens in March, and you are the only person I am going to tell, and the reason is that you have spent forty-three years being the one man in this building who says no to me, and I want the record to show that you were told.
+
+[music] m_horror -9
+[img] a wide night sky over an ocean with distant moving lights, warships silhouetted on the horizon
+[loc] The Free Territory and nineteen protectorates — 4 March 2077, 04:00
+N: LANTERN executed at four in the morning on the fourth of March 2077, simultaneously, in thirty-one locations.
+N: The narrator will describe the first ninety minutes, because they are the only ninety minutes in which anybody thought it was going to work.
+N: Naval task groups from four nations stood off the Arcology. Airborne elements landed at the launch complex in the Line Islands, at Rockfort, at the Newark plant, at eleven fusion stations and at the Allegheny ridge. Cyber elements went into Umbrella's civil networks at three fifty-eight.
+N: They met no resistance of any kind.
+N: No shots were fired. No aircraft was engaged. The gates at the Allegheny ridge were open. The Security Service — one hundred and ninety thousand personnel — was, at four in the morning on the fourth of March, standing in its barracks, unarmed, under a standing order that had been issued nine hours earlier and that read, in its entirety: *Do not resist. Do not assemble. Do not arm. Assist the visiting personnel with anything they request.*
+N: At the Arcology, four hundred thousand civilians watched marines come up the causeways and were asked by their own municipal broadcast, in nine languages, to remain indoors and be polite.
+N: And at seven minutes past five in the morning, a French colonel commanding the element at the Arcology's Chamber found the First Director of the Umbrella Directorate sitting alone at the long stone table with eleven chairs, in a black coat, with a pot of coffee and eleven cups.
+[img] {WESKER} sitting alone at a long stone table with eleven cups laid out, soldiers in the doorway
 [pause 1.0]
-WESKER: Besides. There's only one name it can have.
-[pause 1.5]
-[img] an enormous engraved steel plate on a sea wall reading ARKLAY FREE TERRITORY with a red and white umbrella emblem beneath it, ocean spray, dawn light, cinematic
-N: Arklay Free Territory.
-N: It appeared over sixteen months — which is impossible, and which the world's newspapers wrote a great deal about, and for which Umbrella's engineering division provided a complete and entirely convincing explanation involving modular construction, thirteen shipyards in four countries, and a new class of deep-sea concrete. Every element of the explanation was real. Every shipyard existed. Every contract was public.
-N: The arcology itself had simply arrived, in the way that everything from the Shop arrived, and the shipyards had been building the parts that were photographed.
-[pause 1.5]
-
-[music] m_dawn -8
-[amb] amb_wind -8
-[img] an enormous white floating city on the open ocean seen from a helicopter at dawn, concentric rings, towers, green terraces, harbours full of ships, breathtaking, cinematic wide shot
-N: It was, and remains, the most beautiful thing Albert Wesker ever built.
-N: Three concentric rings, four kilometres across, rising out of the Atlantic like something grown rather than made. White terraces stepped down to the water. Farms under glass on the outer ring, feeding a hundred and eighty thousand people. A harbour that could take the largest container ships afloat. Desalination, geothermal boreholes into the seamount, and a fusion-adjacent reactor whose design did not exist anywhere else on Earth, and which the International Atomic Energy Agency was invited to inspect four times and pronounced, each time, safe and unprecedented.
-N: There were no cars. There were gardens on every level, and a hospital that took anyone who reached it, and schools, and a concert hall, and six kilometres of beach made of sand dredged from the seamount. The apartments were given to employees by lottery. They were free.
-[img] families walking along a seafront promenade in a gleaming white city on the ocean, children running, sunset over water, hopeful and beautiful, cinematic
-N: Four hundred thousand people applied to live there in the first month. Umbrella took fourteen thousand, and then twenty thousand more, and by the end of twenty thirty-nine the population was ninety-one thousand, and the waiting list was two and a half million names long.
-[pause 2.0]
-
-[music] m_corporate -8
-[img] a UN Security Council chamber mid-session, delegates at the horseshoe table, a screen showing an image of the ocean city, tense argument, cinematic
-[loc] United Nations, New York — September 2038
-[sfx] sfx_paper g-9
-N: The legal question took four years and was never really answered.
-N: Arklay was not a state. Umbrella never claimed it was. It had no flag at the United Nations, no army, no currency of its own, and no citizens — only residents, who kept whatever passports they had arrived with. It was, in the careful language of Umbrella's forty-page submission to the International Maritime Organization, a privately owned floating structure operating in international waters under the flag of a small Pacific nation that had been very glad of the registration fees.
-N: In practice it was a country. It had a hundred thousand people, a police force, a court, a hospital system, a school system, and a border. It issued residency, and residency was the most valuable document on Earth. And it answered to precisely one man, who had never been elected, and never would be.
-[img] a stern diplomat speaking at a UN podium with a translation earpiece, delegates listening, flags behind, cinematic
-N: The Security Council debated it in September. Three of the five permanent members needed Umbrella's vaccines. One needed Umbrella's investment. The fifth was China, and the Chinese ambassador, on instructions that had been drafted personally by a deputy minister of state security named Wen Shulan, gave a speech of exquisite length about the freedom of the seas, and proposed a study.
-N: The study reported in twenty forty-two. By then, Arklay had a hundred and forty thousand residents and its own orchestra.
-[pause 2.0]
-
-[music] m_tension -10
-[amb] amb_wind -10
-[img] a small overloaded fishing boat approaching the enormous white sea wall of an ocean city at dawn, people aboard looking up, cinematic
-[loc] The question of the boats — 2040
-N: There was one problem on Arklay that could not be solved by design, and it arrived in the second year, in a fishing boat.
-N: Four hundred kilometres of open Atlantic is not a barrier to people who have decided to leave somewhere. By twenty forty, boats had begun to come — from West Africa, from the Canaries, from wherever the storms and the economics were worst — because the most beautiful city in the world was sitting in international waters and there was a persistent, entirely false rumour that anyone who reached it could stay.
-[sfx] sfx_ship_pass g-14
-N: The first boat had nineteen people on it. The Umbrella Security Service took them aboard, fed them, treated four for dehydration, and held them in a facility on the fourth ring that was clean and well-run and was, unmistakably, a facility.
-[pause 1.5]
-[img] {HALE} standing before a group of exhausted rescued people wrapped in blankets in a bright clean hall, expressionless, cinematic
-N: And then the Directorate had to decide what it was.
-N: A country would have had a law. Arklay was not a country. It had no immigration statute, because it had no legislature, because its entire legal existence was a forty-page submission to the International Maritime Organization describing a privately owned floating structure.
-N: Catherine argued for repatriation with compensation, because it was defensible. The Security Service argued for interception at range, because it was simple. Evelyn, who was asked because she was asked about everything by then, said that they should be offered residency on the same terms as everyone else, and when Catherine pointed out that this would bring four million people to the sea wall within a decade, Evelyn said: yes. And?
-[pause 1.5]
-[img] {WESKER} standing at a high window looking down at a small boat being escorted into a harbour far below, cinematic
-N: The Director decided it himself, in nine minutes, and the policy he wrote has not been amended in four hundred years.
-WESKER: Anyone who reaches the sea wall alive is taken aboard, treated, fed, and offered passage to any port they choose, at our cost, with four thousand dollars. Anyone who wants residency joins the waiting list at the position they would have had if they had applied from home. No exceptions, no queue-jumping, and no boat is ever turned back at sea.
-[pause 1.0]
-WESKER: And publish it. In full. Everywhere. Including the part about the waiting list.
-[pause 1.5]
-N: It was the most humane migration policy on Earth in twenty forty, and it was designed, deliberately and explicitly, to be exactly generous enough that no serious person could attack it and exactly strict enough that the boats would stop coming within four years.
-N: The boats stopped coming within four years. Two and a half million people stayed on the waiting list instead, in their own countries, working, applying annually, hoping — which was worth more to the Directorate than any of them could have been as residents, because a person on a waiting list is a person who behaves.
-[pause 2.5]
-
-[music] m_rain_piano -8
-[amb] amb_wind -10
-[img] {CATHERINE} walking alone along a white promenade of an ocean city at dusk, other people strolling past her smiling, her expression troubled, cinematic
-[loc] Arklay Free Territory — June 2039
-N: Catherine Adeyemi came out for the opening of the concert hall, and stayed for a week, and it was the week that broke her.
-N: It was not the arcology. The arcology was extraordinary, and she said so publicly, and meant it. It was not the schools, which were the best she had ever seen, or the hospital, which took anyone. It was the fourth morning, on the promenade, at about seven, when she went out for a run.
-[img] hundreds of people of all ages jogging together along a seafront at dawn in loose formation, all in matching white and red, moving in step, unsettling, cinematic
-N: There were perhaps four hundred people out running. That was not strange; it was a beautiful morning. What was strange was that they were running in step.
-N: Nobody had organised it. There was no instructor, no music, no app. Four hundred people of different ages and different countries, out for a private run at seven in the morning, had fallen into the same stride, the way soldiers do, and were going around the ring of the city together in a long loose column, and none of them appeared to have noticed.
-N: She stopped running. She stood at the rail with her hands on her knees and watched them go past. And she looked at their faces.
-[img] extreme close-up of a jogger's face, pleasant and relaxed, eyes bright and slightly too still, passing the camera, uncanny, cinematic
-N: They were happy. That was the worst of it. They were perfectly, genuinely happy — the loose, uncomplicated happiness of people who have a good job and a free apartment and a school for their children and no rent and no fear, in the most beautiful city on Earth.
-N: And their eyes were a little too bright, and they did not blink quite enough, and there were a hundred and forty thousand of them.
-[pause 2.0]
-[img] {CATHERINE} sitting alone on a hotel balcony at night above a glittering ocean city, a burner phone in her hand, the sea black beyond, cinematic
-[amb] amb_ship_hum -14
-N: She called Ashcombe that night, from the balcony, on a phone she had bought in Lisbon.
-CATHERINE: (phone) Julian, I've been sending you numbers for six years. Money, subsidiaries, transfers, all of it. You've built a picture out of money.
-ASHCOMBE: (phone) A rather good picture.
-CATHERINE: (phone) It's the wrong picture. The money is the least of it. The money is the part he lets me see.
-[pause 1.0]
-ASHCOMBE: (phone) Then what should I be looking at?
-[pause 1.5]
-CATHERINE: (phone) (soft) Look at the people, Julian. There are a hundred and forty thousand people on this rock in the middle of the Atlantic, and this morning four hundred of them went for a run in step, and not one of them noticed. There's a school here where the children say the Creed before the pledge to whatever country their parents came from. Half the residents have taken the longevity therapy, and it's free here, and it isn't free anywhere else, and do you understand what that means? It means nobody ever leaves. It means in forty years there will be a hundred and forty thousand people in the middle of the ocean who owe him their lives, literally, in the most exact possible sense, and who have never voted for anything.
-[pause 1.5]
-ASHCOMBE: (phone) Catherine. Are you safe?
-[pause 2.0]
-CATHERINE: (phone) I genuinely don't know anymore.
-[pause 2.5]
-
-[music] m_horror -10
-[amb] amb_office_hum
-[img] {WESKER} standing at a high window of a white tower looking down over a vast ocean city at night, lights in a hundred thousand windows below, cinematic
-N: He felt her decide, from four hundred metres above.
-N: That was what Banner-Sense did. It had been three years, and he had learned to read it the way a sailor reads water. A hundred and forty thousand people below him in the dark, each one a small steady light — and one of them, in a hotel on the second ring, was flickering.
-N: He could have stopped it. It would have taken a telephone call.
-[pause 1.5]
-N: From inside, the other voice.
-ADOLF: End it tonight.
-WESKER: No.
-N: The other half of him answered.
-ADOLF: She is going to destroy you. Not for money. Not for a rival. For conscience. That is the only kind that cannot be bought back.
-WESKER: I know exactly what she's going to do. She's going to tell Julian Ashcombe that the money is the wrong picture, and Julian Ashcombe is going to start looking at the people, and in about four years he is going to arrive at the truth, and then he is going to try to kill me.
-N: The voice inside him, without warmth.
-ADOLF: (cold) And you will allow this.
-WESKER: I'm going to allow it because I want to know what they do when they finally understand. I've spent thirteen years being the only person who knows what happens next. I'd like to be surprised once more before I stop being surprised for ever.
-[pause 1.5]
-N: Adolf's voice came back, low.
-ADOLF: (slow) That is not a reason. That is boredom.
-[pause 1.0]
-WESKER: (soft) Yes.
-[pause 2.0]
-N: It was the most honest thing he had said in nine years, and it frightened both of them.
-[pause 2.0]
-
-[music] m_march -10
-[amb] amb_crowd_murmur -8
-[img] a vast parade ground on an ocean city at dawn with ten thousand uniformed security personnel standing in formation, ranks of black uniforms with red and white emblems, cinematic
-[loc] Arklay — the U.S.S.
-N: And there was one more thing on Arklay, which was not in any of the brochures.
-N: The Umbrella Security Service had existed since twenty thirty. For most of its life it had been what it said it was: corporate security, twelve thousand guards at four hundred sites, most of them retired police officers in blazers.
-N: On Arklay it became something else, because on Arklay there was no other police force, and no other coastguard, and no other port authority. By twenty thirty-nine the U.S.S. had nineteen thousand personnel, its own vessels, its own aircraft, and a rank structure that had quietly stopped using civilian titles.
-[img] {HALE} in a black uniform inspecting a rank of motionless security personnel on a parade ground at dawn, nobody blinking, cinematic
-[sfx] sfx_footsteps g-12
-N: Hale commanded it. He had been a security specialist bought from the Shop for two thousand Points in a basement in twenty twenty-six, and he had never once been promoted, because he had never once needed to be. He simply had more people under him every year.
-N: Four thousand of the nineteen thousand had come from the Shop. They stood in the front ranks at inspection, and they did not blink, and the human officers had long ago stopped mentioning it, because the ones who mentioned it did not get promoted.
-[pause 1.5]
-[sfx] sfx_system_open
-[system] ASSESSMENT
-Territory — sovereign in practice: Arklay Free Territory
-Population — fanaticism: 140,000
-Armed force — established: Umbrella Security Service
-Reward: 120,000,000 Points
-[say] Assessment. Territory. Sovereign in practice.
-[/system]
-N: Territory. Not facility. Not asset. Territory.
-N: It was the first time the System had used that word since a diner in Wilmington, in twenty twenty-six, when a landlord had signed away a four-storey brick building for two point nine million dollars.
-N: The Adolf half of the mind had waited thirteen years to see it again.
-[pause 3.0]
-[music] stop
+WESKER: (soft) Colonel. There is coffee. Your people have been awake since one.
+N: The narrator will record that the colonel's helmet camera ran for the entire forty-one minutes that followed, that the footage was leaked in 2079, and that it is the most-watched recording in human history.
+WESKER: (slow) I am not going to resist you and neither is anybody who works for me. There are no weapons anywhere on this platform. The Security Service is standing down at every site; you will have confirmed that by now. Nothing will be destroyed, nothing will be hidden, and every door in every facility is open, including three that are not on any plan, and I will give you their locations in writing before you ask.
+COLONEL: (slow) Dr. Wesker, you are —
+WESKER: (soft) In a moment. First, four facts, and I would like them on your recording.
+WESKER: (cold) One. Eleven million people in nineteen territories depend for power, water and medicine on systems that are administered by personnel who are, for reasons your planners were not able to establish, incapable of acting without instruction from this organisation. As of four o'clock this morning they have no instruction. They are not resisting you. They are simply *stopped*, and in about ninety-six hours the desalination plants at four protectorates will be the first thing anyone notices.
+WESKER: (slow) Two. Four point one billion people take a compound manufactured at forty-one plants you have now seized. The process is fully documented and I will hand it over this morning. Manufacture is not the difficulty. Distribution is, and the network is run by people from the same category as the personnel I have just described.
+WESKER: (slow) Three. I am, as of this moment, the only individual alive who can issue an instruction that those people will accept, and I am going to do so, in front of you, whatever else happens this morning. I have written it already. It authorises every Absolute employee of this organisation to take instruction from the officer commanding at their site, indefinitely, in my name.
+[pause 0.8]
+WESKER: (very cold) Four. Nothing in the three facts I have just given you was a threat. I would like that noted, because in about nine hours somebody in Geneva is going to characterise it as one, and your camera has it.
+N: He signed the instruction at five forty-one in the morning and handed it across the table, and the narrator notes that it was already written, that it was dated the second of March, and that it had been sitting in the drawer for two days.
