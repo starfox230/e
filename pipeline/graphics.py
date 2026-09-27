@@ -216,12 +216,17 @@ def chapter_card(num, title, movement=None):
         d.line([(W / 2 - 60, 382), (W / 2 + 60, 382)], fill=(200, 200, 200, 90), width=1)
         top = 420
     _center(d, top, f'CHAPTER {num}', font('cond_b', 38), CRIMSON + (255,), spacing=12)
-    f = font('serif', 84)
-    lines = _wrap(d, title, f, 1500)
+    # Step the title down a little rather than let a long one wrap and strand its last word
+    # on a line of its own -- the card is on screen for eight seconds and reads as a mistake.
+    for size in (84, 78, 72, 66):
+        f = font('serif', size)
+        lines = _wrap(d, title, f, 1500)
+        if len(lines) == 1:
+            break
     y = top + 70
     for ln in lines:
         _center(d, y, ln, f, WHITE + (255,))
-        y += 100
+        y += int(size * 1.2)
     d.line([(W / 2 - 160, y + 30), (W / 2 + 160, y + 30)], fill=CRIMSON + (200,), width=3)
     return img.convert('RGB')
 
