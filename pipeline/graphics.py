@@ -84,12 +84,15 @@ def system_panel(title, lines):
     probe = ImageDraw.Draw(Image.new('RGBA', (10, 10)))
     rows = []
     for ln in lines:
-        if ':' in ln and len(ln.split(':', 1)[0]) <= 24 and not ln.endswith(':'):
-            k, v = ln.split(':', 1)
-            rows.append(('kv', k.strip(), v.strip()))
-        else:
-            for w in _wrap(probe, ln, fl, width - 2 * pad):
-                rows.append(('tx', w, ''))
+        if ':' in ln and not ln.endswith(':'):
+            k, v = (x.strip() for x in ln.split(':', 1))
+            # a "Label: value" line is a ruled row when label and value fit side by side with
+            # room for the leader dots; judged in pixels, since Shop items run long
+            if len(k) <= 44 and probe.textlength(k, font=fl) + probe.textlength(v, font=fl) + 60 <= width - 2 * pad:
+                rows.append(('kv', k, v))
+                continue
+        for w in _wrap(probe, ln, fl, width - 2 * pad):
+            rows.append(('tx', w, ''))
     title_lines = _wrap(probe, title.upper(), ft, width - 2 * pad - 40)
     row_h = 48
     h = pad + len(title_lines) * 52 + 26 + len(rows) * row_h + pad

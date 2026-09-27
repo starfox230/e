@@ -272,11 +272,19 @@ def build_timeline(ch):
             chars = sum(len(x) for x in e.lines) + len(e.name)
             end = max(vstart + d + 1.1, t + 2.2 + chars * 0.045)
             tl['system'].append({'start': round(t, 3), 'end': round(end, 3), 'title': e.name, 'lines': e.lines})
-            t = end + 0.35
+            # The panel stays up long enough to read, but the soundtrack no longer waits for it:
+            # narration resumes as soon as the System has spoken. Holding the audio for the
+            # reading time put up to 18 s of silence under every long panel.
+            t = vstart + d + 0.45
             last_spk = 'SYSTEM'
     flush(t)
     t += 2.5
     tl['duration'] = round(t, 3)
+    # panels are drawn in the same place, so each one clears before the next arrives
+    for a, b in zip(tl['system'], tl['system'][1:]):
+        a['end'] = round(max(a['start'] + 1.0, min(a['end'], b['start'] - 0.45)), 3)
+    for p in tl['system']:
+        p['end'] = round(min(p['end'], tl['duration'] - 0.5), 3)
     # close shots
     for i, s in enumerate(tl['shots']):
         s['end'] = tl['shots'][i + 1]['start'] if i + 1 < len(tl['shots']) else tl['duration']

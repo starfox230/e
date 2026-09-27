@@ -6,21 +6,47 @@
 [loc] Division Seven — Friday, 11:20 p.m.
 N: The Shop did not look like a shop.
 N: It looked like a war room drawn in light. Panel after panel unfolded in the dark of the corner office, each one ruled with thin crimson lines, each one scrolling quietly, patiently, like a catalogue written by something that had all the time in the world and knew exactly what he wanted.
+[system] THE SHOP
+Points: 1,700 · Level 2
+Tabs: Viral · Personnel · Blueprints · Abilities · Facilities · Assets
+Territory: locked
+Items available: 41 · Items locked: 318
+Prices scale with the host's level.
+[say] The Shop. Six tabs open. One locked. Forty-one items available.
+[/system]
+N: He did not browse. He read it the way an analyst reads a balance sheet — top to bottom, every line, looking for the thing the seller did not want him to notice.
+[system] VIRAL
+Prototype Stabilization I: 1,000
+Prototype Stabilization II: 8,000
+Regeneration Tuning I: 4,500
+Adaptive Metabolism: 3,000
+Ocular Control (pupil masking): 1,200
+Viral Dominion I: locked · Level 30
+[say] Viral.
+[/system]
+[img] holographic blueprint of a hidden underground laboratory level beneath an old brick building, glowing wireframe, crimson lines, cinematic
 [system] FACILITIES
 Concealed Containment Retrofit, BSL-3: 4,000
 Automated Sequencing Suite: 2,500
 Cold Archive Vault: 1,800
-Subsurface Expansion (single level): 12,000
+Freight Elevator (destination unlisted): 3,200
+Subsurface Expansion, one level: 12,000
+Arklay Sublevel: locked · Level 8
 [say] Facilities.
 [/system]
-[img] holographic blueprint of a hidden underground laboratory level beneath an old brick building, glowing wireframe, crimson lines, cinematic
 N: A containment laboratory that would appear, overnight, behind a wall that had always been there. An entire underground level, drawn in glowing wireframe beneath the building, with a price attached like a tag on a coat.
-[system] PERSONNEL
-Research Associate (Loyal): 800
-Comptroller (Loyal): 700
-Security Specialist (Loyal): 2,000
+[system] PERSONNEL — ALL LOYAL
+Receptionist: 300
+Maintenance Technician: 400
+Laboratory Technician: 600
+Comptroller: 700
+Research Associate: 800
+Security Specialist: 2,000
+Legal Counsel (Delaware bar): 3,800
+Silent Security Squad, six: locked · Level 8
+Research Cohort, twelve: locked · Level 10
 Personnel acquired through the System cannot disobey.
-[say] Personnel. Personnel acquired through the System cannot disobey.
+[say] Personnel. Every item on this tab is loyal. Personnel acquired through the System cannot disobey.
 [/system]
 [img] a row of faceless human silhouettes standing at attention inside glowing holographic frames, like products on a shelf, eerie, cinematic
 N: That line he read three times.
@@ -28,20 +54,43 @@ N: Cannot disobey. Not will not. Cannot. Human beings — or things shaped exact
 N: The voice inside him, barely a murmur.
 ADOLF: (soft) A guard. Buy a guard. Every movement begins with men who will stand at the door.
 WESKER: Every movement you started ended with men standing at a door in a bunker. Let's try something new.
-[system] POWERS AND IMMUNITIES
-Microexpression Cold-Read: 2,500
-Command Presence I: 3,500
-Immunity, Mundane Disease: 5,000
-[say] Powers and immunities.
+[system] BLUEPRINTS
+Veterinary Antiviral, canine parvovirus: 1,500
+Stable Protein Scaffold Library: 2,200
+Rapid Pathogen Assay: 3,000
+Thermostable mRNA Formulation: 4,800
+Cellular Renewal, fragment: locked · Level 8
+Prototype Serum, human-safe: locked · Level 25
+Blueprints include full documentation, reproducible by the host's staff.
+[say] Blueprints. Full documentation, reproducible by your staff.
 [/system]
 [img] a glowing human brain made of crimson light threads suspended in a dark void, holographic interface, cinematic
-[system] VIRAL
-Prototype Stabilization I: 1,000
-Halts decay at current level.
-Prototype Stabilization II: 8,000
-Full integration. Serum-independent.
-[say] Viral. Prototype stabilization.
+[system] ABILITIES
+Language Pack, one language: 1,000
+Speed Conditioning: 1,800
+Perfect Recall: 2,000
+Microexpression Cold-Read: 2,500
+Command Presence I: 3,500
+Thought Acceleration I: locked · Level 10
+Disease and Toxin Immunity: locked · Level 15
+Boardroom Gravity: locked · Level 18
+[say] Abilities.
 [/system]
+[system] ASSETS
+Office Supplies, one year: 50
+Corporate Shell, any jurisdiction: 600
+Vehicle, black sedan: 900
+Clean Identity, documented history: 2,400
+Company Jet: locked · Level 12
+[say] Assets.
+[/system]
+N: The other voice had gone straight past all of it, to the one tab that would not open.
+ADOLF: And that one? Territory?
+WESKER: Locked. Which tells you what it thinks we'll become. It isn't selling us a company. It's selling us a progression.
+N: He sat back. And then, because he had read every line, he saw it.
+WESKER: Look at the prices. Personnel are cheap — cheaper than a real hire's first month. Facilities cost roughly what they'd cost in the world. Abilities are expensive, and get steeply more expensive by level. That's a normal price curve. Except for one tab.
+WESKER: Blueprints. A thermostable vaccine formulation for forty-eight hundred. A diagnostic assay for three thousand. It's pricing them like parts. But a blueprint is the only thing on this entire list that earns Points after you've bought it. Every patient it treats, every company it beats, every contract it wins pays back into the machine. Everything else is a cost.
+WESKER: It's selling compounding interest at retail. That's where this goes. Not guards. Products.
 [pause 0.6]
 N: He had seventeen hundred Points. The stability meter in the corner of his vision read sixty-five percent.
 [pause 1.0]
