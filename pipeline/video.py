@@ -17,7 +17,14 @@ from PIL import Image
 import graphics as G
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-IMAGES = os.path.join(ROOT, 'work', 'images')
+# The rebuilt film's frames are the anime ones; work/images holds the old procedural art and
+# is the fallback for any shot the generators have not reached yet. IMAGES can be overridden
+# for a test render.
+IMAGES = os.environ.get('FILM_IMAGES') or (
+    os.path.join(ROOT, 'work', 'images_anime')
+    if os.path.isdir(os.path.join(ROOT, 'work', 'images_anime'))
+    else os.path.join(ROOT, 'work', 'images'))
+FALLBACK_IMAGES = os.path.join(ROOT, 'work', 'images')
 W, H, FPS = 1920, 1080, 24
 XFADE = 1.1          # crossfade between shots (s)
 SUBSHOT = 11.0       # a long shot is re-framed every ~11 s so the picture never goes stale
@@ -157,16 +164,18 @@ def reveal_mask(shape, boxes, frac):
 
 
 def grade_for(chapter):
-    if chapter >= 39:
+    # the rebuilt story leaves the planet at chapter 42
+    if chapter >= 42:
         return 'void'
     return 'earth'
 
 
 def image_path(shot):
-    for ext in ('jpg', 'png', 'webp'):
-        p = os.path.join(IMAGES, f"{shot['id']}.{ext}")
-        if os.path.exists(p):
-            return p
+    for d in (IMAGES, FALLBACK_IMAGES):
+        for ext in ('jpg', 'png', 'webp'):
+            p = os.path.join(d, f"{shot['id']}.{ext}")
+            if os.path.exists(p):
+                return p
     # placeholder so the pipeline can run before images exist
     os.makedirs(os.path.join(IMAGES, 'placeholder'), exist_ok=True)
     p = os.path.join(IMAGES, 'placeholder', f"{shot['id']}.png")
