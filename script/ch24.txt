@@ -1,147 +1,128 @@
-# 24 | Carrick Breaks
+# 24 | Conglomerate
 
-[music] m_tension -10
-[amb] amb_night_city
-[img] {CARRICK} sitting in a parked car at night across the river from a glowing tower, binoculars on the dashboard, a thermos, a notebook, exhausted, cinematic
-[loc] Spring 2031
-N: By the spring of twenty thirty-one, Owen Carrick had become the thing that every institution fears most in one of its own: a man who is right, and cannot prove it, and will not stop.
-N: He did the hazmat drills. He gave the chemistry lectures. He handled the man in Scranton, who had moved on to trying to buy fentanyl precursors on the internet. And at night, and on weekends, and on the vacation days he had been saving for a trip to Disney World that his daughters no longer mentioned, he watched Umbrella.
-[img] {CARRICK} at a kitchen table with {HANNAH} and {HADDAD} studying a large printed site plan of an old building, a ventilation diagram circled in red, cinematic
-N: It was Samira Haddad who found the way in. Not a door. The air.
-N: A laboratory of the highest containment grade breathes in a particular way. It keeps itself at negative pressure, so that nothing inside can leak out; it pulls its exhaust through two stages of very fine filters, and it pushes that exhaust out through a stack, high above the ground, at a steady rate that never varies, day or night, weekends or holidays. It is the heartbeat of the thing. You cannot hide it, because if you ever stopped it, whatever was inside would get out.
-HADDAD: The old building has four exhaust stacks on the roof. Three are what you'd expect for a building that size. The fourth is too big. It runs twenty-four hours a day. I had a colleague look at the thermal imagery from the state's aerial survey. It's warmer than the others, and steadier, and it never stops.
-CARRICK: And if we could sample it?
-HADDAD: Then I could tell you whether there's a grade-four lab under that building. I couldn't tell you what's in it. But I could prove it exists.
-[pause 1.5]
-N: It was, all three of them knew, a crime. Trespass, at the least. For an FBI agent, the end of a career. For a CDC officer, the same.
-N: They did it anyway, on the night of the eleventh of April, because they had run out of legal ways to be right.
-[pause 1.5]
-
-[music] m_horror -10
-[amb] amb_wind -6
-[img] two figures in dark clothing climbing a fire escape ladder onto the flat roof of an old brick building at night, rooftop exhaust stacks steaming, city lights beyond, cinematic
-[loc] 11 April 2031 — 1:40 a.m.
-N: They went up the fire escape at the back of the old building at twenty to two in the morning. Haddad carried a portable air sampler in a backpack. Carrick carried his Bureau-issued pistol, which he was not supposed to have on him outside of duty hours, and which he had brought without quite admitting to himself why.
-N: Nobody stopped them.
-N: That should have told them something. Afterwards, it did. There were six men in black on the Umbrella campus that night. There were cameras on every corner of the old building. And two amateurs with a backpack climbed a fire escape in plain sight, and reached the roof, and nothing happened.
-[img] {HADDAD} crouched beside a large steaming rooftop exhaust stack at night, holding up a handheld air sampling device with a glowing screen, her face tense, cinematic
-N: Haddad went straight to the fourth stack and set up the sampler. It took nine minutes. Carrick stood watch at the edge of the roof with his back to her, looking down at the empty parking lot where frame one thousand one hundred and fourteen had been filmed.
-HADDAD: (whisper) Owen. Owen, it's grade four. Double high-efficiency filtration. Negative pressure differential, constant. There's a maximum-containment laboratory under this building. It's real. It's —
-[pause 1.0]
-N: She stopped, because Carrick had turned around, and was not looking at her. He was looking past her, at the roof access door, which was open.
-N: It had been closed when they arrived. He was certain of it. And now it was open, and the stairwell behind it was lit, and at the top of the stairs a stocky man in navy coveralls with a tool belt was standing, perfectly still, holding the door.
-[img] {GUS} standing at the top of a lit stairwell holding open a rooftop access door at night, calm and patient like a doorman, cinematic
-GUS: He says you can come down if you like, Agent Carrick. Just you. Doctor Haddad can stay with her machine.
-[pause 2.0]
-
-[music] m_horror -6
-[amb] amb_basement
-[img] {CARRICK} alone inside an old freight elevator with {GUS}, staring at a panel where a black button with a crimson ring is glowing below the others, his hand near his holstered pistol, cinematic
-[sfx] sfx_elevator_descend
-N: He went. Of course he went. He had been waiting two years to be invited.
-N: In the freight elevator, standing beside Gus, he looked at the panel. Loading dock. Basement. And below them, where there had always been a blank steel plate with four screws, a black button with a thin crimson ring, glowing softly, as if it had been there all along.
-N: Gus pressed it.
-[pause 1.5]
-[amb] amb_lab
-[amb+] amb_cryo -4
-[sfx] sfx_elevator_ding g-4
-[img] {CARRICK} stepping out of an elevator into an immense white underground corridor with glass-walled laboratories on both sides, his face slack with awe and horror, cinematic
-N: The doors opened onto white.
-N: He walked the corridor. He could not have told you afterwards how long it took. He looked into the laboratories through the glass, and saw benches, and sequencers, and pressure suits hanging like skins, and people in white coats working at two in the morning who did not look up at him as he passed. He saw an enclosure behind thick glass where five rhesus macaques sat very still, in a row, watching him with eyes that caught the light a little too brightly, and did not blink.
-N: And at the end of the corridor, in front of a steel door six inches thick, with a red-and-white emblem painted on it, the Director was waiting for him.
-[pause 1.5]
-[img] {WESKER} standing calmly in front of a massive steel containment door with a red and white emblem, sunglasses on, hands folded behind his back, waiting, cold white light, cinematic
-WESKER: Hello, Owen. I thought it was time you saw it.
-[pause 1.0]
-N: He opened the steel door with a touch. Behind it, in a cold room, stood a cryogenic cradle nineteen feet tall. The produce truck had made its long journey in reverse in February, from the desert back to Delaware, and the grey figure had been home for two months.
-[sfx] sfx_cryo_hiss g-4
-[img] {CARRICK} standing frozen before a huge cryogenic viewing window, inside it a colossal grey humanoid giant asleep in mist, his reflection in the glass, cinematic
-N: The frost cleared from the window, from the centre outward. And Owen Carrick saw what Rick Dorsey had seen, and Howard Lessing had heard, and twelve Russian soldiers had met in the dark in Nevada.
-N: He did not scream. He did not run. He stood very still for a long time, and he looked at it, and the only sound in the cold room was the slow breath of the compressor, and his own heart.
-[pause 2.0]
-CARRICK: (whisper) What is it?
-WESKER: The reason nobody is ever going to believe you.
-[pause 1.5]
-
-[music] m_action -6
-[img] {CARRICK} spinning around with his pistol drawn and aimed at {WESKER}'s chest in a white cold room, his hands shaking, {WESKER} not moving, cinematic
-N: Carrick drew his pistol.
-N: He did not decide to. It happened the way things happen when a mind has been stretched too far for too long. He turned, and the weapon was in his hand, and it was pointed at the centre of the Director's chest from eight feet away, and his finger was on the trigger.
-CARRICK: You're under arrest.
-WESKER: For what?
-CARRICK: I don't know. I don't care. I'll think of something.
-[pause 1.0]
-WESKER: Go on, then.
-[pause 1.5]
-[sfx] sfx_gunshot_single
-N: He fired.
-[sfx] sfx_gunshot_single +0.3
-[sfx] sfx_gunshot_single +0.6
-[sfx] sfx_gunshot_single +0.9
-[sfx] sfx_gunshot_single +1.2
-[img] muzzle flashes in a white cold room, a figure in a black coat blurring sideways between shots, ejected shell casings frozen in the air, cinematic
-N: He fired fifteen times, until the slide locked back on an empty magazine. He had qualified as an expert marksman every year for thirteen years. At eight feet, he could not miss.
-[pause 2.0]
-[music] m_horror -8
-[img] {WESKER} standing in the exact same place, unharmed, holding out a gloved hand, in its palm a small pile of flattened bullets, the room hazy with gunsmoke, cinematic
-N: When the smoke cleared, the Director was standing exactly where he had been standing. His coat was not marked. His sunglasses were still on.
-N: He held out his left hand, palm up. In it were fifteen flattened pieces of lead.
-[pause 1.5]
-N: He stepped forward, took Owen Carrick's right hand — gently, the way you might take the hand of a man who has fallen — turned it over, and poured the bullets into his palm. They were warm.
-WESKER: Keep those. You'll want something to show people.
-[pause 2.0]
-N: Carrick looked down at them. Fifteen pieces of lead in his palm, warm, flattened like coins. Behind him, in the frosted window, the grey giant had not even stirred.
-[pause 1.5]
-
-[music] m_rain_piano -10
-[img] {WESKER} standing close to {CARRICK} in a white corridor, speaking quietly, the agent gripping a handful of flattened bullets, broken, cinematic
-WESKER: Let me tell you what happens now, Owen. Gus is going to take you back up. You'll collect Doctor Haddad from the roof. You'll go home to Laura. And tomorrow morning at nine, you'll learn that the Bureau's Office of Professional Responsibility received, overnight, security footage of you breaking into a private research facility with a loaded service weapon — footage in which, unlike some of my staff, you are perfectly visible.
-WESKER: They'll also receive bank records. A numbered account in Cyprus. The same bank Howard Lessing used, when Halvorsen Pike paid him to let four armed men into this building. Four hundred thousand dollars, deposited in your name, in twenty twenty-nine, the month you opened him as a source.
-CARRICK: (soft) I never —
-WESKER: I know. It won't matter. The Bureau will open an investigation. It will take six weeks. You'll be dismissed. No charges will be filed, because Umbrella will decline to press any, out of compassion for your family. It will be in the papers. It will be a very sad story, about a good agent who got too close to a corrupt informant, and lost his way.
-[pause 1.5]
-CARRICK: Why not just kill me?
-[pause 1.0]
-WESKER: Because dead, you're a martyr. People build things on martyrs. Ruined, you're a madman with a handful of bullets and a story about a monster in a basement. Nobody listens to madmen.
-[pause 1.5]
-N: In the quiet of one skull, the old voice spoke — very softly, and with something in it that was almost amusement.
-ADOLF: (soft) They listened to me.
-[pause 1.0]
-N: Wesker did not answer it. Not aloud. But for an instant, standing in the white corridor with the ruined agent in front of him, he felt something he had not felt in a long time, and did not like.
-N: It was doubt.
-[pause 1.5]
-WESKER: Goodbye, Owen. Give my regards to your daughters.
-[pause 2.0]
-
-[music] m_tension -8
-[amb] amb_office_hum
-[img] a stark FBI office of professional responsibility interview room, {CARRICK} seated alone at a table facing two investigators, a laptop showing grainy footage of him on a fire escape, cinematic
-[loc] May 2031
-N: It happened exactly as he had said. It took six weeks, not seven.
-N: The footage was clear. The bank records were impeccable — impeccably forged, although no forensic accountant the Bureau employed could ever demonstrate how. Janet Kowal testified, with visible pain, that Special Agent Carrick had been reassigned for his own welfare and had disregarded that reassignment. Samira Haddad, suspended by the CDC the same week, refused to testify against him, and resigned.
-[img] a newspaper page with a small headline reading FORMER FBI AGENT DISMISSED OVER BIOTECH BREAK-IN, CYPRUS PAYMENTS, and a grainy photo of Carrick, cinematic
-N: Owen Carrick was dismissed from the Federal Bureau of Investigation on the twenty-second of May, twenty thirty-one, after seventeen years of service, for conduct unbecoming. No criminal charges were filed. Umbrella Life Sciences issued a statement expressing sympathy for his family.
-N: He kept the fifteen bullets in a jam jar on the kitchen windowsill. He showed them, over the following year, to four journalists, two members of Congress, a Pentagon official, and a priest. Every one of them was very kind to him, and every one of them went away and did nothing.
-[pause 1.5]
-[img] {CARRICK} and his wife sitting at a kitchen table at night, a jam jar of flattened bullets on the windowsill behind them, she holding his hand across the table, tense and sad, cinematic
-LAURA: (soft) Are you going to stop?
-[pause 1.5]
-CARRICK: No.
-[pause 1.0]
-LAURA: (soft) Then I need you to tell me what that means. For us. For the girls.
-[pause 1.5]
-N: He did not have an answer. He would not have one for a long time. Laura Carrick would stay with him for three more years, out of love, and then leave, out of love for her daughters. She would never stop believing him. That was the hardest part.
-[pause 1.5]
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Adversary broken — Owen Carrick: 200,000
-Adversary broken — Samira Haddad: 80,000
-Total: 280,000
-[say] Assessment. Adversary broken.
+[music] m_corporate -8
+[amb] amb_office_hum -16
+[img] a boardroom high in a glass tower with a long table and executives seated, city visible through windows
+[loc] Umbrella Tower, Zurich — 11 March 2039
+N: An industry does not fall in a day. It falls the way a building falls: for eleven years nothing happens, and then everything happens at once, and afterwards everyone says they saw it coming.
+N: By 2039 the global pharmaceutical industry consisted of Umbrella and nine survivors.
+N: Umbrella had not fought any of them. That is the part that is hard to convey. There had been no price war, no litigation campaign, no hostile bids after Verdant Axis in 2027. What there had been was this: a company that gave away its diagnostic platform, sold the only functioning longevity therapy on earth, held the medical reserves of nine governments at its own cost, and could bring a new molecule from genome to manufacture in four days when the industry standard was four years.
+N: You cannot compete with that. You can only be acquired by it, or become a supplier to it, or leave.
+[img] {CATHERINE} presenting a list of nine company names on a screen to a boardroom, daylight
+CATHERINE: (fast) Nine houses left. Four are effectively ours already — they manufacture under our licences, their pipelines are our compounds, and two of them have Umbrella people on the board. Three are national champions that their governments will not let us buy at any price. Two are genuinely independent and both of them are for sale, though neither will say so.
+WESKER: (cold) I do not want to buy them.
+CATHERINE: (soft) I know that look. What do you want?
+WESKER: I want them to ask me to take them.
+N: The narrator will describe the mechanism in one paragraph, because it is the last purely commercial thing in this account and because it is beautiful in the way that a trap is beautiful.
+N: Umbrella announced, in April of 2039, a thing it called the Open Pipeline: any pharmaceutical company on earth could submit a molecule to Umbrella's discovery and manufacturing infrastructure, receive in return a full development package — synthesis route, toxicology, clinical design, regulatory dossier — and keep one hundred per cent of the product, in exchange for a four per cent royalty and the right for Umbrella to manufacture.
+N: It was, on its face, the most generous offer in the history of the industry.
+N: It was also the end of the industry, and every chief executive on earth knew it within a week, and every single one of them signed anyway, because the first one to refuse would spend four years developing a molecule that their competitor would have on the market in eleven months.
+[img] a montage of newspaper business pages and stock tickers, headlines about mergers
+N: By December of 2039, six hundred and eleven pharmaceutical companies had joined the Open Pipeline, including seven of the nine survivors.
+N: By 2041 the industry's research divisions had quietly ceased to exist — not closed, just *unnecessary* — and their staff had been hired by Umbrella, at their own request, in numbers that eventually reached two hundred and eighty thousand.
+N: Umbrella never bought a single one of them. It simply became the thing they all ran on, and then it was the industry, and there was no moment anyone could point at.
+[sfx] sfx_system_chime +0.3
+[system] INDUSTRY ABSORBED — PHARMACEUTICALS
+Share of global therapeutic development: 91%
+Companies dependent on Umbrella infrastructure: 611
+Hostile acquisitions required: 0
+Points: +41,000,000
+[say] Industry absorbed: pharmaceuticals. Ninety-one per cent of global therapeutic development. Six hundred and eleven dependent companies. Hostile acquisitions required: zero. Forty-one million Points.
 [/system]
-N: The System called him broken. It was the System's first real mistake about a human being.
-N: Owen Carrick had been broken, it was true. And a man who is broken does not always stay in pieces. Sometimes — when the pieces are sharp enough, and the reason is simple enough — he puts himself back together around a single idea, and becomes something that cannot be broken again, because there is nothing left in him that is not the idea.
-N: He had lost his badge, his career, his pension, and, in time, his marriage. He had kept fifteen bullets and the truth.
-N: He did not break. He hardened.
-[pause 3.0]
-[music] stop
+
+[music] m_triumph -5
+[img] a vast glowing crimson and white holographic panel in a dark room, a man in a long black coat standing before it
+[loc] Arklay Estate, the library — 31 December 2039, 11:58 p.m.
+[sfx] sfx_level_up +0.1
+[system] TIER IV — CONGLOMERATE
+Umbrella is no longer a participant in any market it enters.
+Points: +20,000,000 · Balance: 61,000,000
+Military tab: unlocked
+Conglomerate banner: available
+[say] Tier four. Conglomerate. Umbrella is no longer a participant in any market it enters. Twenty million Points. Balance, sixty-one million. Military tab unlocked. The Conglomerate banner is available.
+[/system]
+N: He opened the Military tab at midnight on the last day of 2039 and read it for two hours, and the narrator would like to record that he bought nothing that night.
+[system] SHOP — MILITARY, TIER IV
+Security Cohort, 400, Absolute: 900,000
+Tyrant Cohort, 40, cradled: 6,000,000
+Transport Wing, 22 aircraft: 4,000,000
+Orbital Interdiction — locked, Tier V
+Fleet Doctrine — locked, Tier V
+Note: nothing in this tab has ever made a host safer. It has only ever made them unavoidable.
+[say] Military. Security Cohort of four hundred, Absolute: nine hundred thousand. Tyrant Cohort of forty, cradled: six million. Transport Wing of twenty-two aircraft: four million. Orbital Interdiction: locked at tier five. Fleet Doctrine: locked at tier five. Note: nothing in this tab has ever made a host safer. It has only ever made them unavoidable.
+[/system]
+WESKER: (soft) *A host.* Again.
+SYSTEM: Yes.
+WESKER: How many have there been?
+[pause 0.8]
+SYSTEM: (flat) The panel is accurate.
+WESKER: (cold) That is not an answer, and you have given me that non-answer eleven times in thirteen years, and I have kept a list. One day I will be in a position to insist.
+SYSTEM: (flat) Yes. You will.
+N: The narrator asks you to notice that the System agreed, and to hold on to that for about thirty years.
+
+[music] m_hi -6
+[img] rings of gold and violet light spinning above a dark table, a man in black watching from a chair
+[sfx] sfx_gacha_spin +0.1
+[loc] 1 January 2040, 2:00 a.m.
+N: He spent forty million Points on the Conglomerate banner: fifty pulls at eight hundred thousand each.
+N: The narrator will give you four of the fifty.
+[sfx] sfx_gacha_rare +0.2
+N: A Rare: **Thought Acceleration I**, which he described to Evelyn eleven months later as *the ability to have the fourth idea while everyone else is still enjoying the first*.
+N: An Epic: **Regenerative Threshold**, which raised what his body could survive from *most things* to a category the System described, unhelpfully, as *most events*.
+N: A second Epic: **The Red Queen's precursor** — an autonomous logistics and modelling intelligence, which he installed at Arklay and which became, four years later, something considerably more.
+[sfx] sfx_gacha_gold +0.1
+[music] m_march -6
+[img] a huge golden panel unfolding in a dark library, a figure in a black coat standing in the light
+[system] LEGENDARY
+UMBRELLA SECURITY SERVICE — FIRST DIVISION
+[say] Legendary. Umbrella Security Service, First Division.
+[/system]
+[system] FIRST DIVISION — PACKAGE
+Personnel: 6,000, Absolute · four combat regiments, one logistics, one signals
+Tyrants: 40, T-103, cradled
+Lift: 61 rotary, 22 fixed wing
+Base: your placement · integrated as a private training facility, established 2019
+Doctrine, training pipeline, replacement stream: included
+Note: this formation has no equivalent in the private sector of any nation on earth.
+[say] First Division. Six thousand Absolute personnel in four combat regiments, one logistics and one signals. Forty cradled Tyrants. Sixty-one rotary and twenty-two fixed-wing aircraft. A base at your placement, integrated as a private training facility established in 2019. Doctrine, training pipeline and replacement stream included. This formation has no equivalent in the private sector of any nation on earth.
+[/system]
+WESKER: (soft) Place it in the Alleghenies. North of the estate, east of the city, on the ridge.
+SYSTEM: That is eleven thousand acres of state forest.
+WESKER: (cold) It is eleven thousand acres of private land held by a timber trust since 1969, and there has been a fenced training facility on it since 2019, and the Pennsylvania National Guard has exercised there twice.
+SYSTEM: (flat) They have.
+
+[music] m_march -7
+[img] rows of soldiers in black tactical armour standing in perfect formation on a parade ground at dawn, mist, mountains
+[loc] Umbrella Training Facility, Allegheny Ridge — 3 January 2040, 7:00 a.m.
+N: He went to look at it on the third of January at seven in the morning, in the cold, with Hale and HUNK and nobody else.
+N: Six thousand men and women in black, in square formation, on a parade ground that had not existed on the first of January, in front of hangars with fourteen years of weather on the roofs.
+N: They did not cheer. They did not present arms. They stood, six thousand of them, and every single one of them was looking at him, and none of them blinked at the rate that human beings blink.
+[pause 0.8]
+ADOLF: (very soft) Ah.
+WESKER: Don't.
+ADOLF: (soft) I have been in your skull for thirteen years. I have watched you refuse a parade in Lyon, refuse a crowd in Basel, refuse to be carried through a street by four hundred thousand people. And here you are at seven in the morning in a field with six thousand men who cannot disobey you, and there is no press, and no camera, and nobody in the world knows you are here.
+ADOLF: (slow) You did not want an audience. You wanted an *army*, and you wanted to look at it alone.
+[pause 1.0]
+N: Albert Wesker stood in the cold in a long black coat and looked at the formation for a very long time, and what he said eventually was not a denial.
+WESKER: (very cold) Mr. Hale. What is the purpose of this formation?
+HALE: (flat) To protect Umbrella's people and property, sir.
+WESKER: Mr. HUNK.
+HUNK: (radio) To make the use of force against Umbrella so expensive that it is never attempted.
+WESKER: (cold) Yes. Write that second one down and put it on the wall of every barracks on this ridge. We are not an army. We are a *price*.
+N: The narrator notes that this was true in 2040 and remained true for six years, and that the six thousand became sixty thousand in 2044 and one hundred and ninety thousand in 2047, and that not one of them fired a weapon at a human being until the thing that happens in Chapter Thirty-Six.
+
+[music] m_lo -9
+[img] {CARRICK} standing in a doorway of an office holding a folder, {WESKER} at a desk, night
+[loc] Division Seven, sixth floor — 9 January 2040, 11:00 p.m.
+N: Carrick came up with the folder six days later. It was the fourth one.
+CARRICK: (flat) Six thousand soldiers.
+WESKER: (soft) Six thousand employees of a private security subsidiary, licensed in four states, with a training facility that has existed since 2019.
+CARRICK: (slow) Don't do that. Not with me. I've read the establishment. That's four combat regiments with organic lift and a signals company. That's not a security subsidiary, that's a light division, and there are forty of *those things* in cold storage underneath it.
+[pause 0.5]
+CARRICK: You told me in 2033 that nobody dies for being clever near you. I believed you, and you kept it, and I've checked every year and it's still true. But this isn't about keeping your word any more. You have just built the capacity to do something irreversible on an afternoon, and the only thing standing between the world and that afternoon is your character.
+WESKER: (cold) Yes.
+CARRICK: (soft) That's not a system. That's a *hope*.
+N: Wesker took the folder and read all nine pages standing up, and the narrator would like to record that this time he did not write *noted, and overruled* on the bottom of it.
+N: He wrote: *Noted. You are correct. I have no answer. — A.W., 9 January 2040.*
+N: And then he put it in the drawer with the other three, and the narrator notes that it is the only document in that drawer which does not have the word *overruled* on it, and that Owen Carrick did not find out for twenty-two years.
+N: End of Part Three.

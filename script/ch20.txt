@@ -1,130 +1,125 @@
-# 20 | Frame 1,114
+# 20 | Sloane
 
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] a wall of television screens in a newsroom all showing the same grainy dashcam frame of a blurred figure in a parking lot, with different news chyrons, cinematic
-[loc] January 2030
-N: For fourteen days, the ghost video was the most watched piece of footage on Earth.
-N: It was slowed down, and sped up, and enhanced, and set to music, and analysed by physicists on podcasts and by teenagers in bedrooms. A man in Tennessee who ran a channel about unexplained phenomena put out a two-hour video on frame one thousand one hundred and fourteen, and it was watched eighteen million times. A professor of biomechanics at Stanford gave an interview in which she said, carefully, that no human being could accelerate a body to three hundred metres a second without being killed by the acceleration itself, and that she had therefore concluded that the video had been edited.
-[img] a split screen of a biomechanics professor in a lecture hall and a video forensics expert pointing at frames on a monitor, analytical graphs, cinematic
-[sfx] sfx_mouse_click g-6
-N: It had not been edited. The Bureau's own forensic laboratory in Quantico established that within forty-eight hours — that the file on Keisha Bell's dashcam memory card was original, unaltered, and continuous.
-N: The Bureau's laboratory also established, in the same report, that the smear in frames eleven-twelve and eleven-thirteen was consistent with, quote, a known artefact of rolling-shutter CMOS sensors when a high-contrast object crosses a low-light scene, and that the apparent velocity could not be reliably inferred from the footage.
-N: That was also true. It was true in the way that the sculpture in the glass case was true, and the animal welfare plan was true, and the cold vault was true. It was true enough.
-[pause 1.5]
-
-[music] m_scheme -8
-[img] {TOMAS} in a glass office on the tenth floor surrounded by screens of social media dashboards, directing a small team, intense and exhausted, cinematic
-N: The story that the world settled on, in the end, was Tomás's.
-N: He built it in seventy-two hours, from a glass office on the tenth floor, with a team of nine and no sleep. He did not deny the video. That would have been fatal — the internet can smell a denial the way sharks smell blood. Instead he surrounded it. Within a day, every search for ghost video led first to the Bureau's rolling-shutter report, and then to an interview with a retired Army Ranger explaining how adrenaline and training could make a fit man look astonishingly fast in the dark, and then to the obituary of Doctor Howard Lessing — a respected senior scientist, murdered by corporate mercenaries in the building where he had worked for thirty-four years.
-[img] a phone screen showing a trending hashtag and a news article about corporate espionage, a tall CEO in sunglasses described as a hero in the headline, cinematic
-N: And then, on the fourth day, a leak. An anonymous source inside the investigation — Tomás never said who, and Carrick never found out — told a reporter at a national newspaper that the four dead intruders had been employed by a security contractor in Virginia, and that the contractor had been paid through consultants linked to one of the largest pharmaceutical companies in the world.
-N: By the end of the week, the story of the ghost video was not a story about a man who could move at the speed of sound. It was a story about corporate espionage, and a murdered scientist, and a chief executive who had defended his people with his bare hands.
-N: The Sunglasses CEO was a hero. Somebody made a T-shirt of frame one thousand one hundred and fourteen. It said: don't touch his lab.
-[pause 1.5]
-N: The second voice came back.
-ADOLF: They are cheering. For the killing.
-WESKER: They're cheering for the story. The killing was an inconvenience I've converted.
-N: The other voice, quietly.
-ADOLF: (slow) You are learning what I learned. They do not want the truth. They want to be told who the hero is.
-[pause 1.5]
+[music] m_scheme -9
+[amb] amb_norm -16
+[img] a quiet wood-panelled club room with leather chairs and a low fire, two men seated apart, evening
+[loc] Washington — 14 June 2034
+N: It took eleven months to be in a room with Martin Sloane by accident, and Albert Wesker arranged every hour of it.
+N: Not surveillance; Sloane would have found surveillance in a week. Wesker simply became, over eleven months, a person who was plausibly in the same places: a board he joined at a research foundation, a pair of lectures at Georgetown, a dinner for a retiring admiral, a charity auction for a veterans' hospital that Umbrella had funded since 2031 and that Sloane's brother-in-law ran.
+N: By June it was not strange that they were in the same room. By June it would have been strange if they had never met.
+N: They met at a club on Sixteenth Street, in a corner, at nine o'clock at night.
+[img] {SLOANE} in a navy suit sitting in a leather armchair with a glass, cold smile, firelight
+SLOANE: (slow) Eleven months.
+WESKER: I beg your pardon?
+SLOANE: (slow) The foundation board was August. The admiral's dinner was in November — you sat four places away and didn't look at me once, which was overdone. Georgetown was February. And this is June.
+SLOANE: I've been doing this for twenty-nine years, Dr. Wesker. When a man arranges to meet you by accident four times, either he wants to recruit you or he wants to kill you, and you've had eleven months to do the second one.
+N: Wesker sat down opposite him, which he had not been invited to do.
+WESKER: (soft) You have not written anything down about me in eight years.
+[pause 0.6]
+N: The narrator notes that this was the single most dangerous sentence Albert Wesker ever spoke aloud, that he knew it, and that he spoke it in the first ninety seconds on purpose.
+SLOANE: (flat) No. I haven't.
+WESKER: Why not?
+SLOANE: (slow) Because the day I write it down it belongs to the agency, and the agency belongs to whoever is running it in eighteen months, and I've watched four things I cared about get handed to people who didn't understand them. So I read, and I think, and I wait to see what you are.
+WESKER: And what am I?
+SLOANE: (slow) You're a capability. That's the only word that fits. You're not a company and you're not a foreign power and you're certainly not a philanthropist. You're a capability that presently has no owner, and my entire profession is the acquisition of capabilities.
+N: Wesker regarded him for a moment with what was, for once, unambiguous pleasure.
+WESKER: (cold) Mr. Sloane, in eight years you are the first person to use the correct noun.
 
 [music] m_tension -10
-[amb] amb_night_city
-[img] {CARRICK} at his kitchen table at 2 a.m. surrounded by printed frames of dashcam footage and handwritten calculations, his wife in a bathrobe watching from the doorway, cinematic
-[loc] Media, Pennsylvania — February 2030
-N: Owen Carrick did not accept the story. He could not. He had watched frame one thousand one hundred and fourteen more times than anyone alive.
-[sfx] sfx_paper g-4
-N: He took the frames home. He printed them. He laid them out on the kitchen table after his daughters had gone to bed, in a row, from eleven-ten to eleven-fifteen, and he sat and looked at them with a legal pad and a calculator, and at two in the morning his wife Laura found him still there.
-[img] a woman in a bathrobe standing in a kitchen doorway at night, arms folded, looking at her husband hunched over papers, worried, warm lamp light, cinematic
-LAURA: Owen. Come to bed.
-CARRICK: The Bureau says it's a rolling-shutter artefact. It isn't. I've read the paper they cited. A rolling-shutter smear is diagonal. This is horizontal. And the figure in eleven-fourteen isn't smeared at all. He's standing still. You can see the buttons on his coat.
-LAURA: Owen.
-CARRICK: Forty metres, Laura. In four frames. And then he stops. Dead. From three hundred metres a second to nothing in one frame. Do you know what that does to a human body? It turns it into paste. And he's just standing there. Looking at the camera.
-[pause 1.5]
-N: Laura Carrick taught eighth-grade science. She understood the arithmetic. That was what frightened her — not that her husband was wrong, but that she could not find where he was.
-LAURA: (soft) What are you going to do?
-CARRICK: I'm going to find out who he is.
-[pause 1.5]
+[img] two men in armchairs in a dark panelled room, one leaning forward, glasses on a low table
+N: The conversation lasted four hours and the narrator will give you the spine of it, because it is a negotiation between two men who both knew exactly what the other one wanted and neither of whom said so for the first two hours.
+SLOANE: (slow) Let me tell you what I'd have brought if I'd come here to threaten you. Nine years of anomalies — construction records, personnel files with no school photographs, a Swiss loading bay. Eleven things that don't reconcile.
+WESKER: (soft) Forty-one things. Agent Carrick had forty-one, and he had them in 2033.
+SLOANE: (slow) Carrick. Yes. That was elegant. He was the best records man in the Bureau and you hired him to audit yourself.
+WESKER: I hired him because he was right, and because a man who is right is more useful inside an organisation than outside it, and because I have never in my life removed a person for competence.
+SLOANE: (slow) That's an unusual policy.
+WESKER: It is the only one that scales.
+N: Sloane turned his glass on the table.
+SLOANE: (slow) Here's my difficulty. I can't put you in a box marked *foreign*, so I can't run you. I can't put you in a box marked *domestic*, so I can't refer you. And every year the box I'd need to build gets more expensive, and every year you do something enormous and generous and public that makes building it politically impossible.
+SLOANE: In March of last year you saved four million people. In April you handed the Senate a hostage worth two hundred and forty billion dollars. You have made yourself un-investigable by being *good*, and I would like to know whether that was the strategy.
+WESKER: (cold) It was a consequence. The strategy was to build something that worked. But yes, I understood the consequence in 2027, and I have optimised for it ever since, and I am not going to pretend otherwise to a professional.
+[pause 0.5]
+SLOANE: (slow) All right. Then what do you want from me?
+N: And here Albert Wesker did the thing he had planned for eleven months.
+WESKER: (soft) Nothing.
+SLOANE: (flat) Don't.
+WESKER: I am entirely serious. I do not want access. I do not want product. I do not want you to tell me anything your service knows, and if you offered it to me I would decline, and I would decline in writing.
+SLOANE: (slow) Then why am I here?
+WESKER: (cold) Because in about six years an agency of this government is going to decide that Umbrella is a target, and it is going to be wrong, and the decision is going to be made by somebody who has read a summary. I want there to be one person in that building who has spent a decade reading the primary material and who can say, with authority, *I have looked at this for ten years and it is not what you think it is.*
+WESKER: (slow) I do not want an asset, Mr. Sloane. I want an *informed adult* in a room I will never be allowed into.
+N: Martin Sloane sat very still.
+SLOANE: (slow) That's not a recruitment. That's worse. If I say yes to that, I haven't been bought, I've been — persuaded. And I'll never be able to tell which.
+WESKER: (soft) No. You will not.
+[pause 0.8]
+SLOANE: (slow) And what do I get?
+WESKER: You get the truth. All of it, tonight, once, with no conditions, and you may do anything you like with it. That is the entire offer and it does not improve if you wait.
 
-[music] m_scheme -10
-[img] {CARRICK} in an FBI office at a computer, pulling up records: Swiss school registries, tax filings, a cemetery photo, all perfectly in order, his expression growing uneasy, cinematic
-N: He began where you always begin. With the paperwork.
-N: Albert Wesker. Born in Basel, Switzerland, according to his American visa application. A doctorate from a private Swiss research institute that had closed in twenty nineteen. A career of short research contracts in Germany, France, and Singapore. Taxes paid, in every country, on time. An American work visa, renewed without incident. A mother, deceased, buried in a Protestant cemetery outside Basel — Carrick found a photograph of the headstone on a genealogy website, with the inscription clear and the moss exactly where moss should be.
-[img] a photograph of a mossy old gravestone in a Swiss cemetery, the name WESKER carved on it, autumn leaves, perfectly composed, cinematic
-N: It was perfect. That was what he noticed, in the end.
-N: He had spent seventeen years looking into people's pasts. He knew what a real past looked like. A real past was full of holes — a gap of eight months nobody could explain, a school that had lost its records in a flood, a landlord who remembered the wrong year, a tax return filed late because of a divorce. Real lives were messy. Real paperwork contradicted itself.
-N: Albert Wesker's did not contradict itself once. Every date matched every other date. Every school had its records. Every landlord remembered him, correctly and fondly. Every tax return was on time.
-N: It was not the past of a man. It was the past of a man that someone had built.
-[pause 1.5]
-[img] {CARRICK} leaning back from a monitor in a dark office, hand over his mouth, the reflection of a perfect record in his eyes, cinematic
-N: The System had given the Director that deep identity in a ten-pull in a basement, three years before, as a Rare, between an industrial coffee machine and a blueprint fragment. It had made his history flawless.
-N: It was, as the narrator warned you, the first mistake the System ever made on his behalf. And the man it had been made for would not learn about it for another two years.
-[pause 1.5]
+[music] m_horror -11
+[img] a dark panelled room at night, a fire dying in the grate, two men facing each other in shadow
+[loc] 1:20 a.m.
+N: He told him.
+N: Not as much as he had told Carrick — there was no diner recording, no admission about Newark — but the shape of it: that Umbrella's growth was not financed in any way a financial analyst would recognise, that the buildings did not have construction histories because they had not been constructed, that there were three facilities on earth that appeared on no plan, and that the thing which made it all possible was not a technology, not a network, and not a person.
+SLOANE: (very slow) You're telling me there's an intelligence.
+WESKER: (soft) I am telling you there is a *counterparty*.
+SLOANE: (slow) Whose?
+WESKER: (cold) I have asked that question four hundred times in eight years. I have received an answer twice, and both answers were the same three words: *the panel is accurate.*
+N: Sloane looked into the fire for a long moment.
+SLOANE: (slow) You know what the terrifying part is? Not the building. Not the memories. It's that you've told me, and there is nothing whatsoever I can do with it. If I file this I'm finished. If I bury it I'm yours. You've made the truth into a — a kind of trap.
+WESKER: (soft) Yes. I have done that four times now and it works every time, and I will tell you exactly why: because the truth about me is too large for any institution to carry, and institutions are the only things you have.
+[sfx] sfx_system_chime +0.3
+[system] ROSTER — NEW
+Martin J. Sloane · human · Loyalty 40%
+Note: he has not agreed to anything and will not.
+Note: he will never again permit a subordinate to write the word "hostile" beside your name.
+Points: +800,000
+[say] Roster. New. Martin J. Sloane. Human. Loyalty, forty per cent. He has not agreed to anything and will not. He will never again permit a subordinate to write the word hostile beside your name. Eight hundred thousand Points.
+[/system]
 
-[music] m_rain_piano -8
-[amb] amb_office_hum
-[img] a state government database on a screen showing a 2026 environmental inspection report, the inspector's name DELGADO and the word EXEMPLARY highlighted, cinematic macro
-[sfx] sfx_keyboard g-8
-N: He found the Delgado report in March.
-N: It was in a state environmental database, four years old — a routine inspection of the old building in the autumn of twenty twenty-six, prompted by a complaint from the then-landlord about unauthorised industrial equipment. The complaint had been closed as unfounded. The facility had been described as exemplary in its cooperation. The only deficiency noted was a solvent store on the second floor, which the director had asked — in writing — to be cited for.
-N: Carrick read that line three times. The director had asked to be cited.
-N: In seventeen years, he had never known a company to ask to be cited for anything.
-[img] {DELGADO} at the door of a modest suburban house in a polo shirt, older now, speaking to {CARRICK} on the porch, cautious, cinematic
-DELGADO: He was the nicest guy I ever inspected. Honestly. Walked me through every room himself. Showed me the basement first. There was this big air handler down there, Arcturus, and the landlord had lost his mind about it, and it was all in order. Permits, log, everything.
-CARRICK: Did it strike you as strange? That he wanted to be written up?
-DELGADO: (soft) At the time? No. At the time I thought, finally, somebody who takes this seriously.
-[pause 1.0]
-DELGADO: Now? Now I think about it a lot. I think — he knew exactly what I wanted. Before I did. And he gave it to me. And I walked right past that machine in the corner, Agent Carrick, and I wrote the word exemplary.
-[pause 1.5]
+[music] m_system -9
+[img] a glowing crimson panel listing intelligence assets in a dark office, night
+[loc] Division Seven — 22 June 2034
+N: Six days later Wesker spent nine hundred thousand Points in the Intelligence tab, and the narrator will describe what he bought because it explains the next twenty years.
+[system] PURCHASE
+Asset Network I — United States: 900,000
+41 persons in government, media and finance
+Each believes they were recruited by someone else, for an ordinary reason,
+at a plausible moment in their own past.
+None of them has ever heard the word "Umbrella" in that context.
+[say] Purchase. Asset Network, United States. Nine hundred thousand. Forty-one persons in government, media and finance. Each believes they were recruited by someone else, for an ordinary reason, at a plausible moment in their own past. None has ever heard the word Umbrella in that context.
+[/system]
+WESKER: (soft) None of them knows they work for me.
+SYSTEM: None of them works for you. Each of them works for a version of their own career that has always included a particular set of instincts. They will not do what you ask. They will do what they have always believed, and what they have always believed will be convenient.
+[pause 0.7]
+WESKER: (very cold) That is the most frightening item you have ever sold me.
+SYSTEM: It is the fourth most frightening item in that tab.
+N: He never bought the other three. He looked at them, once a year, for thirty years, and did not buy them, and the narrator has chosen not to say what they were.
+ADOLF: (soft) You are squeamish.
+WESKER: (cold) I am *disciplined*. There is a difference, and it is the reason I am here in 2034 with a trillion dollars and a Senate that likes me, and you were in a bunker at fifty-six.
+[pause 0.5]
+ADOLF: (soft) That is the first time you have ever used it as a weapon.
+WESKER: It is the first time you have deserved it.
+N: The narrator notes that the passenger did not speak again for nine days, which is the longest silence between them in sixty-five years, and that when he did speak it was to point out — correctly — that Wesker had scheduled a public appearance at the wrong time of day.
 
-[music] m_tension -8
-[amb] amb_night_city
-[img] {HANNAH} sitting alone at a dim bar at night, a glass of wine untouched, looking up as {CARRICK} slides onto the stool beside her, neon, noir, cinematic
-[loc] A bar in Philadelphia — April 2030
-N: He met Hannah Price in April. It was her idea.
-N: She had written to him through the Bureau's public affairs office, which was procedure, and then, when public affairs had declined on his behalf, she had found his home address, which was not. She did not go to his home. She left a note in his mailbox with the name of a bar in Philadelphia and a time, and the words: frame eleven-fourteen. I have something you don't.
-[img] close-up of {HANNAH} and {CARRICK} at a bar, her notebook open between them, his hand flat on a printed dashcam frame, both intense, cinematic
-[sfx] sfx_door_open g-12
-HANNAH: I'm not going to write about you. That's the first thing. I'm off the record. I want to know what you know, and I'll tell you what I know, and nobody ever finds out we met.
-CARRICK: Why would I trust you?
-HANNAH: Because two years ago I sat across a dinner table from him and asked him about Control Seven, and his face didn't move. And then he told me Howard Lessing's name before I'd said it. And when I got home, somebody had been in my apartment and moved my notebook one inch.
-[pause 1.5]
-N: Carrick looked at her for a long time. Then he took a folded piece of paper out of his jacket and put it on the bar between them. It was a printout of frame one thousand one hundred and fourteen.
-CARRICK: What do you have that I don't?
-[pause 1.0]
-HANNAH: A man named Rick Dorsey. He's a deacon at a church in Lancaster County. In December of twenty twenty-six, Graham Tolliver paid him to break into the basement of that building. He saw two men who didn't blink. And a machine in the corner that breathed. And a window in the machine. And he says something inside it opened its eye.
-[pause 1.5]
-N: Carrick did not say anything for a while. The bartender came, and went away again.
-CARRICK: (soft) Arcturus.
-HANNAH: What?
-CARRICK: The air handler. The one that isn't there anymore. The state inspector saw it in twenty twenty-six. Wesker told us it was replaced. There's a bare patch of painted concrete with four bolt holes where it was.
-[pause 1.0]
-HANNAH: Replaced with what?
-CARRICK: Nothing. The corner's empty. Whatever it was — it's gone. Or it went somewhere.
-[pause 1.5]
-[sfx] sfx_car_pass g-14
-N: They sat at the bar until it closed. They compared notes, and dates, and names. And at the end of the night, standing on the sidewalk in the rain, two people who had each been alone with the same impossible thing for too long looked at each other, and understood that they were no longer alone.
-N: It was, the Director would reflect later, the second mistake. Not the System's, this time. His.
-N: He had spent three years making sure that everyone who saw too much was isolated — discredited, or frightened, or converted, or dead. He had forgotten that isolated people sometimes find each other.
-[pause 1.5]
-
-[music] m_horror -10
-[amb] amb_office_hum
-[img] {WESKER} standing at the window of his corner office at night, looking down at the parking lot where a dashcam once caught him, a faint reflection of red eyes in the glass, cinematic
-N: He knew about the meeting within a day. The Silent Ones had followed Hannah Price for two years, on and off. They had not been able to hear what was said in the bar. They had not needed to.
-N: The voice behind his eyes had something to add.
-ADOLF: The policeman and the journalist.
-WESKER: Yes.
-N: The other voice weighed in.
-ADOLF: This is how it begins. Always. Two people in a room who have seen the same thing. Then four. Then a newspaper. Then a court. I have seen it. I have done it. I built a party out of men in a beer hall who had all seen the same thing.
-WESKER: They haven't seen anything. They've seen a smear on a dashcam and heard a deacon's ghost story.
-N: The other voice, cold.
-ADOLF: (cold) They have seen enough to know what to look for. That is all a hunter ever needs.
-[pause 1.5]
-N: For once, Wesker did not argue.
-N: He stood at the window for a long time, looking down at the parking lot where four frames of video had undone three years of silence, and he thought, in the Thought Acceleration, through every way this could go.
-N: It could go many ways. In most of them, he won.
-N: But for the first time since he had woken in a leather chair in the rain, there were some in which he did not. And the ones in which he did not all began with an FBI agent and a journalist, standing on a sidewalk in Philadelphia, in the rain, deciding not to be alone.
-[pause 3.0]
-[music] stop
+[music] m_lo -9
+[img] {CARRICK} standing in a doorway of a dark office holding a folder, {WESKER} at a desk, night
+[loc] Division Seven — 30 June 2034, 10:15 p.m.
+N: Owen Carrick had been Director of Internal Security for seven months, and he came up to the sixth floor with a folder on the last night of June.
+CARRICK: (flat) Asset Network One.
+WESKER: (soft) That is not in any system you have access to.
+CARRICK: (flat) No. But four hundred and eleven Points came off an internal ledger that Pell reconciles monthly, and nine hundred thousand of something came off it in June, and I've spent three weeks working out what the something is. I can't see the panels. I can see the *holes*.
+N: Wesker put down his pen and, the narrator notes, looked genuinely pleased for the second time in a month.
+WESKER: Go on, then. Tell me no.
+CARRICK: (slow) Forty-one people in government and media who think they woke up one day with a set of opinions. That's not intelligence work. That's not even corruption. Corruption leaves a man who knows he was bought — and a man who knows he was bought can confess.
+CARRICK: You've built something nobody can confess to.
+[pause 0.8]
+WESKER: (cold) Yes.
+CARRICK: (soft) Then I'm telling you no. Formally. It's in the folder, it's dated, and I'd like it in the record you keep of the things I said.
+N: Wesker took the folder and read it — all eleven pages, in front of him, while Carrick stood there — and then put it in the drawer of the desk where four such folders would eventually live.
+WESKER: (soft) Noted, and overruled.
+CARRICK: (flat) Understood.
+WESKER: (cold) Mr. Carrick. Do you want to know why I am not going to take the network apart?
+CARRICK: I'd rather you told me than let me guess.
+WESKER: Because in 2040 somebody in that government is going to decide to move against this company, and the difference between forty-one people with convenient instincts and no such people is the difference between a bad six months and a war. I am not buying influence. I am buying *friction*.
+N: Carrick thought about that for a moment.
+CARRICK: (slow) That's the first answer you've given me that I can't take apart.
+WESKER: (soft) It is also true. Those two things will not always coincide, and I would ask you to keep watching for the day they stop.

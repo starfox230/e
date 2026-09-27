@@ -1,132 +1,127 @@
-# 21 | The Hunt
+# 21 | The Thing in the Stadium
+
+[music] m_horror -7
+[amb] amb_night_city -13
+[img] the exterior of a large european football stadium at night, floodlights, police cordons, blue lights
+[loc] Stade Belloy, Lyon, France — 18 October 2035, 8:52 p.m.
+N: Forty-one thousand people went to a football match in Lyon on a Thursday evening in October, and at eight fifty-two the doors closed from the outside.
+N: The narrator will not dwell on who they were or what they wanted, because the world has heard enough about them and because the only thing that matters to this account is what they had: eleven people, automatic weapons, four vehicle-borne devices at the vehicle gates, and control of a bowl containing forty-one thousand human beings, nineteen hundred of them children.
+N: They made one demand at nine fifteen and they did not repeat it. The French government's crisis unit assessed it as unsatisfiable by design, which is the polite phrase for *they came here to kill everyone in the building.*
+[img] a government crisis room at night, officials around a table with screens, tense faces
+[loc] Paris, Ministry of the Interior — 10:40 p.m.
+N: By half past ten the assault plan existed, and the assault plan was appalling.
+N: Four entrances, eleven hostiles, four devices, no reliable interior picture, and a crowd that would panic the instant the first door came in. The planning cell's own estimate, presented to the Minister at ten forty, was between two and nine thousand dead if they went in, and everybody in the room if they did not.
+N: At eleven fifteen, a man from the Direction Générale de la Sécurité Intérieure who had spent three years quietly reading a file that did not exist made a suggestion that got him removed from the room and then, forty minutes later, got him brought back into it.
+MINISTER: (slow) Say it again.
+OFFICER: (flat) Umbrella has a response capability. Sixty-one aircraft. Teams on eleven-minute readiness. They contained Ravenna in sixty-one days when we could not do it in six months.
+MINISTER: (slow) Ravenna was a *virus*. This is a stadium.
+OFFICER: (flat) Minister, I am aware of what it is. I am telling you that I have read four years of anomalies about that company, and that if there is anything in the world which can walk through eleven armed men without the crowd knowing it has happened, it belongs to them.
+[pause 0.6]
+N: The call was placed at three minutes past midnight. It was answered on the second ring by a man who had been awake and dressed for two hours.
 
 [music] m_tension -8
-[amb] amb_night_city
-[img] three people around a kitchen table at night covered in files, photos, a laptop, and coffee cups: {CARRICK}, {HANNAH}, and {HADDAD}, intense, lamp light, cinematic
-[loc] Spring 2030
-N: There were three of them now.
-N: Samira Haddad came up from Atlanta in May, on her own time and her own money, and sat at Owen Carrick's kitchen table in Media with Hannah Price and a laptop, and the three of them laid out everything they had.
-N: A blood sample that broke an analyzer. A dead scientist who had seen red eyes. A deacon who had seen a machine breathe. A photograph of a grey figure in a capsule, explained by a sculpture. A table of monkeys, explained by an animal welfare plan. An air handler that had been inspected and then vanished. A building that drew more power than a skyscraper. A freight elevator with a blank steel plate. A security guard who did not blink. A past that was too perfect to be real. And forty metres, in four frames.
+[img] {WESKER} standing in a dark operations room in front of screens showing a stadium floor plan, night
+[loc] Umbrella Global Operations, Singapore — 12:03 a.m.
+WESKER: (soft) Minister. Before you ask, the answer is yes, and it will take eleven minutes from the moment you say the words, and you will not like the words.
+MINISTER: (slow) What words?
+WESKER: That the Republic of France requests and authorises the deployment of an Umbrella asset inside the Stade Belloy, and that the asset's methods are at my discretion, and that you will say so on camera afterwards, whatever happens.
+MINISTER: (slow) I cannot authorise a private —
+WESKER: (cold) Minister, there are nineteen hundred children in that building and your own planning cell has told you that going in costs you two thousand people. I am not negotiating and I am not going to help you find a form of words that lets you deny this tomorrow. Say it, or hang up.
 [pause 1.0]
-HADDAD: If you put this in front of a jury, they'd laugh.
-CARRICK: If you put it in front of a jury.
-HANNAH: What else would you put it in front of?
-[pause 1.0]
-CARRICK: I don't know yet. But I know what it is. Every single piece of it has an explanation. Every single explanation was ready before we asked. That isn't a company with nothing to hide. That's a company that has already been where we're going, and cleaned up.
-[pause 1.5]
-N: They called themselves nothing. They never gave it a name, because naming it would have made it real, and making it real would have meant admitting what they were doing — which was, for an FBI agent, a CDC officer, and a journalist, conspiring together, off the books, against one of the most admired companies in America.
-N: The Director gave it a name, in the quiet of one skull. He called them the three.
-[pause 1.5]
+N: The recording of that call was released in 2041 and has been studied ever since. The pause is nine seconds long.
+MINISTER: (very slow) The Republic of France requests the deployment.
+WESKER: Thank you.
+N: He turned to Hale, and what he said next is the sentence that changed the century.
+WESKER: (cold) Wake T-103.
 
-[music] m_scheme -8
-[amb] amb_office_hum
-[img] {CARRICK} standing before {KOWAL}'s desk, a thick memo in her hands with a title about anomalous physiology, her face grave, cinematic
-N: Carrick wrote the memo in June.
-N: It was forty-one pages long. He wrote it carefully, and rewrote it four times, and cut every word that sounded like a man who had lost his mind. It was titled, in the end, Preliminary Assessment of Anomalous Physiological Capabilities Associated with a Subject of Interest, and it recommended that the Bureau open a full counter-intelligence investigation into the chief executive of Umbrella Life Sciences, on the grounds that he might not be — Carrick had rewritten this sentence eight times — a natural person.
-[pause 1.0]
-KOWAL: Owen. I've read it. All of it. Twice.
-CARRICK: And?
-KOWAL: And it's the most careful thing you've ever written. And I'm recommending that you take two weeks of leave and speak to someone from the Employee Assistance Program.
-[pause 1.5]
-N: She was not unkind. She meant it. She had known him for nine years, and she had watched him lose weight, and stop coming to the office softball games, and start eating lunch at his desk with the blinds drawn. She was worried about him. And she had a field office to run, and a United States Attorney who had stopped taking her calls about Umbrella, and a phone that kept ringing with polite enquiries from Capitol Hill.
-[pause 1.5]
-
-[music] m_corporate -8
-[img] a congressional hearing room with a long wooden dais, senators in leather chairs, TV cameras, a placard reading OVERSIGHT OF FEDERAL LAW ENFORCEMENT, cinematic
-[loc] Washington, D.C. — July 2030
-N: The first scandal arrived in July, and it was not about Albert Wesker. It was about Owen Carrick.
-N: A member of the Senate Judiciary Committee — a senator from a state where Umbrella had just announced a manufacturing plant with sixteen hundred jobs — received, from a source he described only as a concerned whistleblower, a set of internal budget documents from the FBI's Philadelphia field office. The documents showed that the office had spent two point three million dollars over thirteen months investigating a biotech company that had been cleared by the CDC, the FDA, the state of Delaware, and its own auditors — including, the senator noted in a letter he released to the press, overtime for a single agent who had worked a hundred and forty-one hours of it on his own time, at night.
-[img] a newspaper headline reading FBI SPENT MILLIONS CHASING BIOTECH CONSPIRACY THEORY beside a photo of a tower with a red and white emblem, cinematic
-N: The headline wrote itself. Several newspapers were happy to let it.
-N: The senator held a hearing. He did not mention Carrick by name. He did not need to. He spoke with feeling about American innovators, and about seniors whose lives had been changed by American medicine, and about federal agencies that had lost their sense of proportion. He called a witness — a retired Army Ranger who had lost his mother to frailty before Aeterna existed — who wept.
-N: Owen Carrick was reassigned the following week. Hazmat drills. Chemistry lectures. The man in Scranton.
-[pause 1.5]
-[img] a government report on a desk titled RECOMMENDATION FOR BIOSAFETY AUDIT, stamped PENDING REVIEW, gathering dust under other papers, cinematic
-N: The second scandal was quieter, and so quiet that nobody ever noticed it was one.
-N: Samira Haddad's report — a careful, forty-page recommendation that the CDC conduct a full, unannounced biosafety audit of every Umbrella facility in the United States — went up the chain in Atlanta in July. It reached a deputy assistant secretary at the Department of Health and Human Services in August. It was still there in October. It was still there in December. It was never rejected. It was simply never read, by a department that had, that summer, accepted a three-hundred-million-dollar grant from the Umbrella Foundation to build rural health clinics in six states, and was planning a ribbon-cutting with the Secretary for the spring.
-N: Nobody had told the deputy assistant secretary to sit on it. That was the art of it. Nobody ever needs to be told. They only need to be able to imagine what might happen if they didn't.
-[pause 1.5]
-N: Adolf answered from inside.
-ADOLF: You have made a policeman into a joke and a doctor into an unread file. Without a single threat.
-WESKER: Threats leave fingerprints. Budgets don't.
-N: The voice inside him answered.
-ADOLF: In my day, we would simply have arrested them.
-WESKER: In your day, the people you arrested became martyrs, and the martyrs became a resistance, and the resistance became a problem you had to solve with more arrests. I prefer my problems to solve themselves.
-[pause 1.5]
-
-[music] m_triumph -8
-[amb] stop
-[img] a jubilant press conference at the FDA headquarters, a banner reading AETERNA APPROVED, cameras flashing, elderly patients in the front row applauding, cinematic
-[sfx] sfx_camera_flashes
-[loc] Silver Spring, Maryland — 18 June 2030
-N: In the middle of it all, almost as an afterthought, Aeterna was approved.
-N: The Food and Drug Administration granted full approval on the eighteenth of June, twenty thirty, for the treatment of age-related frailty in adults over sixty-five. It was the fastest approval of a new molecular entity in the agency's history. At the press conference, Arthur Kowalczyk, eighty-one years old, stood up in the front row, and when the Commissioner said the word approved, he punched the air like a man at a ball game, and the photograph of him doing it was on the front page of every newspaper in America the next morning.
-[img] an elderly man in a leather motorcycle jacket punching the air in joy in a crowded press room, flashbulbs, pure elation, cinematic
-[sfx] sfx_applause g-6
-N: Within a year, Aeterna would be prescribed to four million Americans. Within three, forty million people worldwide. It would reduce hospital admissions among the elderly by a third. It would be, by any honest measure, one of the most beneficial medicines ever made.
-N: That is the part of this story that is hardest to hold in your mind at the same time as the rest of it. So hold it anyway. It was true. Millions of people lived longer, healthier lives because of a man who did not care about them at all.
-[pause 1.5]
-[sfx] sfx_system_open
-[img] {WESKER} standing alone on a high balcony at night above a glittering city, a cascade of golden holographic panels erupting around him, cinematic, awe
-[system] ASSESSMENT
-Market dominance — longevity, global: 300,000
-Investigators neutralised — political: 100,000
-Total: 400,000
-[say] Assessment. Market dominance, global.
-[/system]
-[sfx] sfx_level_up
-[system] LEVEL UP
-Level: 26
-Points: 802,300
-[say] Level twenty-six.
-[/system]
-[pause 1.5]
-
-[music] m_system -6
-[img] a vast luminous mental palace built as an old four-storey brick research building extending impossibly in all directions, corridors of doors each glowing with a name, surreal, cinematic
-[system] PURCHASE CONFIRMED
-Ability: Memory Palace
-Perfect recall, organised spatially. Capacity: unbounded.
-Cost: 150,000
-[say] Purchase confirmed. Memory palace.
-[/system]
-N: The Memory Palace had to be built. The System said so, in a line of small text beneath the purchase — the structure is determined by the Host — and so, that night, lying on his back in the dark in the bare apartment on the riverfront where he slept perhaps three hours a night, he built it.
-N: It was the first real argument they had had about architecture.
-[pause 1.0]
-N: The voice behind his eyes had something to add.
-ADOLF: A palace should be a palace. Columns. Marble. A great hall. A chancellery. Rooms that make the men who walk in them feel small.
-WESKER: It's a filing system.
-N: The other half of him answered.
-ADOLF: It is the inside of your mind. You will live in it more than you live in your body. Make it worthy of what you are going to become.
-[pause 1.2]
-N: Wesker did not answer at once. And when he did, it was not an argument. It was simply a decision, made quietly, the way he made all the ones that mattered.
-[img] an old shabby break room with a humming vending machine and an out-of-tune piano rendered as a glowing impossible memory space, doors leading off into infinite corridors, cinematic
-N: He built it as the old building.
-N: Four storeys of tired brick. A lobby with a water stain. A break room with a humming vending machine and an old piano in the corner. A corner office with a leather chair. And then — because it was a mind, and minds do not have to obey geology — corridors that went on, and on, beyond the walls, down stairs that did not exist, into floors beneath the basement, each corridor lined with doors, and behind every door, a person. Every face he had ever read. Every file. Every conversation, word for word.
-N: Walter Pruitt had a door on the ground floor, by the security booth. Hannah Price had one in the basement, beside a freezer. Owen Carrick had three.
-N: The old voice, slowly.
-ADOLF: (soft) You made it the building.
-WESKER: It's the only place I've ever started from nothing. I'd like to remember what that was like.
-[pause 1.5]
-N: The Adolf half of the mind said nothing for a long time. And then, very quietly, in a room on the fourth floor of an imaginary building that only one skull contained, it asked for a door of its own. And Wesker, after a moment, gave it one — on the fourth floor, at the end of a corridor, with no name on it at all.
-[pause 1.5]
-
-[music] m_tension -10
-[amb] amb_office_hum
-[img] a lean silver-haired man in a navy suit with no tie stepping out of a black SUV in front of a gleaming tower at dawn, sunglasses in hand, a cold smile, cinematic
-[loc] Wilmington — 2 September 2030
-N: On the second of September, at seven in the morning, a black SUV with government plates pulled into the visitors' bay of the Umbrella tower, and a man got out.
-N: He was lean, somewhere in his late fifties, with silver hair and a navy suit and no tie, and the kind of face that has spent a long career being forgettable on purpose. He did not have an appointment. He walked into the lobby, past the living wall, past the Creed in its small elegant letters, to the reception desk, where a receptionist who had once been a Common roll in a basement ten-pull looked up at him with perfect courtesy.
-[img] {SLOANE} at a sleek reception desk in a tower lobby, placing a plain card on the counter, the Creed visible on the wall behind, cinematic
-SLOANE: Good morning. My name's Martin Sloane. I'd like to see Doctor Wesker, please. Tell him I'm from the government.
-[pause 0.6]
-SLOANE: The other part of it.
-[pause 1.5]
-N: The receptionist did not ask which part. She did not need to. She picked up a phone.
-N: On the twelfth floor, in a corner office with a view of the river, Albert Wesker had watched the black SUV arrive on the security feed. He had watched the man get out, and walk in, and put the card on the desk. And the Cold-Read, even through a security camera, even from twelve floors away, had shown him everything he needed to know about Martin Sloane in one glance.
-N: Curiosity. Ambition. Contempt for rules. And beneath it all, like the steady light of a pilot flame, something he had not seen in any of the three. Something he recognised, because he saw it every morning in the mirror.
-N: Appetite.
-[pause 1.2]
-WESKER: (soft) Send him up.
-[pause 3.0]
 [music] stop
+[pause 0.8]
+[amb] amb_cryo -12
+[img] a huge frosted cryogenic cradle opening in a dark laboratory, cold vapour spilling out, blue light
+[sfx] sfx_cryo_hiss +0.2
+N: The narrator asks you to understand what was in that cradle, because for eight years it had been an air conditioner in a basement.
+N: Two point nine metres. Three hundred and forty kilograms. Grey, bald, expressionless, with hands that could take a car door off its hinges, a nervous system that had been rebuilt to ignore pain and a conditioning that made obedience simpler than breathing. It had been designed, in another world, to be dropped on a city.
+N: It had never been used. In eight years it had left its cradle four times, always in an empty hall at Arklay, always for eleven minutes, always under Wesker's eye.
+N: At eighteen minutes past midnight on the nineteenth of October 2035, it walked up a ramp into an Umbrella transport aircraft in western Pennsylvania wearing a grey overcoat that had been made for it by a tailor who had been told it was for a statue.
+[img] a black transport aircraft on a runway at night, ramp down, floodlights, rain
+[sfx] sfx_ship_pass +0.3
+N: Flight time to Lyon: four hours forty. It sat in the hold, upright, in a restraint frame, and did not move once.
+
+[music] m_action -7
+[img] a floodlit stadium tunnel entrance at night, police vehicles, a tall figure in a grey overcoat walking towards the doors
+[loc] Stade Belloy — 5:11 a.m.
+N: At eleven minutes past five in the morning, the east tunnel doors of the Stade Belloy opened from the outside.
+N: There were nine hundred police officers, four television crews with long lenses at two hundred metres, and a French colonel who had been told what was coming and had not believed it.
+N: What walked in was three metres tall, wore a grey overcoat, and did not hurry.
+[sfx] sfx_tyrant_footstep +0.2
+N: Four minutes. The narrator will account for all of them.
+N: In the first minute it crossed the tunnel and entered the north concourse, where three of the eleven were positioned. They fired. The footage — and there is footage, from a police camera on a pole outside, of the muzzle flashes through the tunnel mouth — shows the flashes stop, one by one, over about eleven seconds.
+N: In the second minute it went up the internal stair to the executive level and took the two who were holding the stadium's control room, and turned off the public address system, which had been playing the same recorded message for eight hours.
+N: In the third minute it went along the second tier, where four of them had spread out above the crowd, and this is the part that the world argued about for a decade: not one shot was fired into the stands. Not one. Forty-one thousand people sat in the dark, under a stadium roof, and heard, over the sound of their own weeping, a series of very brief, very definite noises above them that they could not identify.
+N: In the fourth minute it went to the vehicle gates and dealt with the two who were sitting with the devices, and it did that part in such a way that the devices did not function, and the narrator does not know how, and neither did the French, and neither did anybody at Umbrella except one man in Singapore watching on a handheld camera relay.
+[pause 0.8]
+[sfx] sfx_crowd_silence +0.2
+N: At five fifteen and forty seconds, the stadium lights came on.
+[img] a stadium interior with lights coming up, thousands of people standing and looking down, a tall grey figure in a coat on the pitch
+N: And forty-one thousand people saw what was standing in the centre circle.
+
+[music] m_horror -6
+N: It did not speak. It had no capacity to speak. It stood in the middle of the pitch with its arms at its sides and its face turned up towards the north stand, and it waited, because it had been given an instruction and the instruction was not finished.
+N: The instruction had been:
+WESKER: (cold) Clear the building. Then stand in the centre of the pitch, in the open, where they can all see you, and do not move until the last person has left.
+N: The east and west gates opened. Nine hundred police came in and did not know what to do. And forty-one thousand people filed down the stairs and out past a monster that had just saved their lives and that watched them go, and did not move, for two hours and eleven minutes.
+N: The last to leave were the children from the school group in the north stand, because their teachers had made them wait until the stairs were clear. There is a photograph of it — the most reproduced photograph of the twenty-first century — taken by a nineteen-year-old with a telephone from the second tier.
+N: A line of eleven-year-olds, walking out in pairs. And in the background, out of focus, on the grass, in a grey overcoat: three metres of engineered soldier, standing perfectly still, watching them go.
+[pause 1.0]
+N: Casualties: the eleven. Hostages killed: none. Hostages injured: forty-one, all in the initial crush at nine o'clock, all recovered.
+
+[music] m_hi -7
+[img] a montage of world news screens showing the stadium photograph, headlines in many languages
+[sfx] sfx_news_sting +0.2
+N: The world had nine hours to decide what it thought, and it decided in about two.
+ANCHOR: (broadcast) — we're going to show the photograph again, and I'd ask you to look at the children rather than at the — at the figure. Because that's the whole argument, isn't it. That's the entire argument of the next ten years in one frame.
+REPORTER: (broadcast) The French interior minister confirmed at eight this morning that the Republic requested the deployment. He was asked eleven times what the asset was and gave the same answer each time: an Umbrella security asset.
+ANCHOR: (broadcast) And Umbrella?
+REPORTER: (broadcast) Six lines. I'll read the whole statement. *At the request of the Government of France, an Umbrella security asset entered the Stade Belloy at 5:11 this morning. All hostages are alive. The asset has returned to Umbrella custody. We will not be discussing its nature, now or in future. Umbrella's medical teams remain in Lyon for as long as they are needed.*
+ANCHOR: (broadcast) That's it?
+REPORTER: (broadcast) That's it. No conference. No photographs. The chief executive hasn't been seen.
+N: The narrator notes that the silence was worth more than any speech Adolf could have designed, that Wesker knew it, and that when the passenger in his skull suggested a stadium address in Lyon within the week, the answer was two words.
+WESKER: (cold) Absolutely not.
+ADOLF: (soft) They would carry you through the streets.
+WESKER: (cold) Yes. And in four days a philosophy professor in Berlin would write a column asking what else is in the basement, and he would be right, and the carrying would stop. A crowd that has just been frightened must be allowed to finish being grateful in private.
+N: Umbrella's stock fell eleven per cent on the Monday and recovered all of it by Thursday. The United Nations Security Council held an emergency session on the Tuesday and produced nothing. Nineteen governments opened files.
+N: And four hundred million people looked at a photograph of a line of children and a grey giant, and understood, without anyone having to say it, that the world had changed and that it had changed in a direction nobody had voted for.
+
+[music] m_system -8
+[img] {WESKER} standing alone in a dark hangar looking up at a huge grey figure standing motionless in a restraint frame
+[loc] Arklay, the hangar — 22 October 2035, 3:00 a.m.
+[sfx] sfx_system_chime +0.3
+[system] EVENT — FIRST DEPLOYMENT
+Hostages recovered: 41,000 · Hostile casualties: 11
+Global awareness of Umbrella biological assets: total
+Fear: 31% · Gratitude: 58% · Both: 74%
+Points: +6,000,000 · Level 78
+Unlocked: VIRAL DOMINION I
+[say] Event. First deployment. Forty-one thousand hostages recovered. Eleven hostile casualties. Global awareness of Umbrella biological assets: total. Fear, thirty-one per cent. Gratitude, fifty-eight. Both, seventy-four. Six million Points. Level seventy-eight. Unlocked: Viral Dominion, level one.
+[/system]
+SYSTEM: Viral Dominion permits direct command of any organism carrying your viral lineage, without an intermediary, at a range of approximately four hundred metres.
+WESKER: (soft) I have never needed one. It does what it is told.
+SYSTEM: It does what Hale tells it, through a conditioning that was designed by people who are dead in a world that no longer exists. You have never once given that thing an order yourself.
+[pause 0.8]
+WESKER: (very cold) No. I have not.
+N: He stood in the hangar at three in the morning, alone, and looked up at it in its frame. Three metres. Pale eyes, open, watching him and nothing else in the building.
+N: He had bought it out of a lottery for nine thousand Points in 2027 and he had been afraid of it for about two seconds and had enjoyed that, and in eight years he had never permitted himself to notice that he had left it in a basement not because it was dangerous to the world, but because it did not, strictly speaking, answer to him.
+WESKER: (soft) Buy the Dominion.
+[system] PURCHASE
+Viral Dominion I — 4,000,000
+Balance: 9,100,000
+[say] Purchase. Viral Dominion, level one. Four million. Balance, nine million one hundred thousand.
+[/system]
+N: He looked up at the thing in the frame and, without speaking, without moving, without any mechanism that he could describe afterwards to Evelyn Marsh or to anyone else, told it to kneel.
+[pause 1.0]
+[sfx] sfx_tyrant_footstep +0.4
+N: Three hundred and forty kilograms of engineered soldier went down on one knee on a hangar floor at three in the morning, silently, in front of a man in a black coat, and stayed there.
+ADOLF: (very soft) There it is.
+WESKER: (cold) Don't.
+ADOLF: (soft) I have waited nine years to see you do something that was purely for yourself.
+N: The narrator notes that Albert Wesker stood in that hangar for another eleven minutes, and that the Tyrant remained kneeling the entire time, and that nobody else in the world knew it had happened until four decades later, when it mattered a great deal.

@@ -1,169 +1,89 @@
-# 25 | The Asset
+# 25 | The Arsenal
+@movement IV | Corporate Conquest
+
+[music] m_tension -9
+[amb] amb_office_hum -16
+[img] {WYATT} a retired general in a dark suit sitting across a desk from {WESKER} in a corporate office, daylight
+[loc] Umbrella Tower, Washington — 19 May 2040
+N: General Thomas Wyatt had commanded a corps, run a procurement directorate, and spent his retirement building Aegis Dynamics into the fourth largest defence contractor in the United States. He was sixty-eight, he had a flag pin, and he had asked for the meeting.
+N: He wanted a partnership, and he had a folder, and the folder was about the six thousand people in black on a ridge in Pennsylvania.
+WYATT: (slow) Let's not dance. You've built a division. You've built it inside a corporate shell with a state licence, which is legal, and you've done it in a state where I know every member of the delegation, which was smart.
+WYATT: What you can't do is use it. The moment you deploy that formation anywhere that matters, you're a mercenary army, and this country has a hundred and forty years of law about mercenary armies, and every one of those laws will land on you at once.
+WESKER: (soft) And Aegis Dynamics solves that.
+WYATT: (slow) Aegis has held a Title 10 support contract since 2009. We can put your people under our flag, our licences, our congressional relationships. You get to be useful. We get — let's call it access to your technology base.
+N: The narrator will note that this was a serious offer made by a serious man, that it was the correct move from Wyatt's position, and that Albert Wesker had been waiting for someone to make it for about two years.
+WESKER: (cold) General, may I show you something instead?
+WYATT: (slow) That's usually how these things go wrong.
+WESKER: (soft) Yes. Thursday. Bring whoever you like.
+
+[music] m_march -8
+[img] a wide green demonstration field with viewing stands, military vehicles, officials seated, overcast sky
+[loc] Allegheny Ridge, demonstration ground — 24 May 2040
+N: Eleven defence ministers came, and four chiefs of staff, and a Deputy Secretary, and General Thomas Wyatt of Aegis Dynamics, and forty-one members of the international defence press, who were given cameras and told to use them.
+N: The narrator wishes to stress how strange that was. Umbrella had never demonstrated anything military. It had never advertised the Security Service. The invitation, hand-delivered, said only: *A demonstration of a personnel capability. No weapons will be displayed.*
+N: No weapons were displayed. That was the entire point.
+[img] rows of {USS} soldiers in black armour standing motionless in formation on a field, viewing stands opposite
+N: Four hundred personnel stood in formation on the field, in black, without rifles.
+N: The demonstration ran ninety minutes and consisted of four things.
+N: The first: they stood still. For thirty-one minutes, in the rain that started at eleven o'clock, without shifting weight, without adjusting a strap, without a cough. A brigadier from a NATO member state timed it on his watch and then stopped timing it because it had become unpleasant to watch.
+N: The second: a live-fire lane, which the audience could not see the end of, in which forty personnel moved through eleven hundred metres of woodland at night — the field lights were killed for it — with no radio traffic whatsoever, and cleared nineteen targets, and came back out having taken four simulated casualties, and the four simulated casualties continued moving because they had not been told to stop.
+N: The third was a question-and-answer session in which HUNK, in a gas mask, answered technical questions from four generals for twenty minutes and refused to answer any question about selection, training or medical standards.
+N: And the fourth was the one that ended the defence industry.
+[img] a lone soldier in black armour standing at attention on an empty field in the rain, officials watching from stands
+N: Wesker walked out onto the field in the rain and stood beside a single soldier, a woman of about thirty, and addressed the stands without a microphone, and the narrator notes that his Presence was forty-six by then and that the stands were entirely silent.
+WESKER: (slow) This is Officer Dray. She has been employed by Umbrella for four years. In that time she has not taken a day of sick leave, has not filed a grievance, has not been late, and has not, on any occasion, required to be told a thing twice.
+WESKER: She costs approximately nine per cent of what a soldier of an equivalent standard costs a national army over the same period, because she does not require recruitment, does not require retention, does not require a pension, does not require a family support structure, and cannot be lost to a better offer.
+[pause 0.6]
+WESKER: (cold) I am not selling her. I want to be extremely clear about that, because eleven of the gentlemen in that stand have already begun drafting a requirement. Umbrella does not sell personnel and will never sell personnel.
+WESKER: (slow) What I am telling you is that this exists. It exists now, it is four hundred people on a field in Pennsylvania today and it will be six thousand by Christmas, and it is not for hire by any government on earth at any price.
+WESKER: (very cold) You are all, therefore, in a new situation. I would encourage you to spend the next ten years thinking very carefully about what kind of world you would like to be in when somebody who is not me builds the second one.
+N: He walked off the field. There were no questions taken.
+[sfx] sfx_camera_flashes +0.3
 
 [music] m_scheme -8
-[amb] amb_night_city
-[img] an exclusive members-only dining room in Georgetown at night, dark panelling, a private table by a fire, {SLOANE} and {WESKER} seated with glasses of wine, cinematic
-[loc] Georgetown, Washington D.C. — June 2031
-N: Martin Sloane had waited nine months to meet the thing in the satellite image. He was a patient man. He had once waited four years in Tbilisi for a single phone call.
-N: They met in June, in the private room of a club in Georgetown that did not have a name on its door, at a table by a fire that was lit even though it was summer, because the club had been lighting it every evening since nineteen fifty-three and saw no reason to stop.
-SLOANE: You know what I saw.
-WESKER: A satellite passed over Nevada in November. I assume someone at Langley was awake.
-SLOANE: Someone at Langley was very awake. Twelve heat signatures in. One out. And a helicopter that's now, I'm told, a very popular new resident of Sinaloa.
-[pause 1.0]
-SLOANE: I'm not going to ask you what it was. I'm not going to ask you what else you have. I'm going to tell you what I want, and then I'm going to tell you what I'll give you for it, and then you're going to decide.
-WESKER: That's refreshing.
-SLOANE: I'm told you like people who don't waste your time.
-[pause 1.5]
-
-[music] m_tension -10
-[img] {SLOANE} leaning forward across a candlelit table, speaking quietly and precisely, one finger tapping the white tablecloth, cinematic
-SLOANE: What I want is simple. There are things the United States government would like to be able to do, in the world, that it cannot do with its own hands. Biological things. Defensive things, mostly. Detection. Countermeasures. Vaccines that exist before the disease does. And, occasionally, other things. The kind of work that, if a government did it, would require a signature from someone elected. The kind of work that, if a private company did it, under contract, would require only a signature from me.
-WESKER: Black contracts.
-SLOANE: I prefer the term classified procurement. It sounds so much less like a film.
-[pause 1.0]
-WESKER: And in exchange?
-SLOANE: In exchange, the investigations stop. Not the Bureau — the Bureau's already stopped, you've seen to that. I mean the others. The ones you haven't met yet. The Department of Defense has a unit that watches for technological surprise. So does the Department of Energy. So does a very small office at the National Security Council whose director reads the same German patent reports that Julian Ashcombe does. They're all going to find you eventually. I can make sure they find you as a contractor. A classified one. And classified contractors are not investigated. They're protected.
-[pause 1.5]
-N: The Director was silent for a while. He looked at the fire. The Cold-Read had already told him everything about Martin Sloane there was to know: that he was telling the truth, that he was not telling all of it, and that he intended, in the long run, to own Umbrella the way he owned every asset he had ever run — as a tool, to be used and then put away.
-N: That was fine. The Director intended exactly the same thing in reverse.
-[pause 1.0]
-N: The voice inside him answered.
-ADOLF: He thinks he is buying you.
-WESKER: He is buying me. He just doesn't know what he's paying with.
-N: Adolf spoke up.
-ADOLF: And what is he paying with?
-WESKER: Access. To every secret his government has about biology. Every programme. Every laboratory. Every weakness. He's going to open the door to the house and invite me to fix the plumbing.
-[pause 1.5]
-WESKER: I'll need the first contract to be real, Mister Sloane. Not a test. Something that matters.
-SLOANE: It will be.
-WESKER: And I'll need you to understand that I don't do anything I can't finish.
-SLOANE: (soft) I watched the satellite, Doctor Wesker. I understand that very well.
-[pause 1.5]
-[img] two men shaking hands across a table by a fireplace in a dim private club, firelight on their faces, one in sunglasses, one silver-haired, cinematic
-N: They shook hands over the fire. Sloane's grip was dry and firm and did not hold on a moment too long, and the Director, for once, did not hold on a moment too long either.
-N: It was, a historian would write decades later — in a world that had stopped allowing historians to write very much — the single most consequential handshake of the twenty-first century. At the time, it was two men in a private club, agreeing on a price.
-[pause 2.0]
-
-[music] m_tension -10
-[amb] amb_office_hum
-[img] a Senate hearing room with a witness table and a row of senators, cameras, a woman in a dark suit being sworn in, cinematic
-[loc] Washington, D.C. — March 2031
-N: There was one more thing that had to be handled before the handshake in Georgetown could mean anything, and it was not an agency. It was a committee.
-N: In March of twenty thirty-one, the Senate Health Committee opened hearings into the pricing and supply of Aeterna. It was not a hostile committee. Nine of its seventeen members had constituents who credited the drug with a parent's mobility. But the chair was a senator from a state with no Umbrella facilities, who had spent four years being told by her own hospitals that they could not afford the one medicine everybody wanted, and she was not interested in being charmed.
-[img] {CATHERINE} at a witness table in a Senate hearing room, composed, a binder in front of her, cameras behind, cinematic
-N: Umbrella sent Catherine Adeyemi, not the Director. That was deliberate and it was her idea, and it was the single most effective decision the company made that year.
-CATHERINE: Senator, I can give you the cost per dose, the margin, the reinvestment rate, and the full audited breakdown of every dollar. I brought them. They're in the binder in front of you, and I'll take any question on any line of it.
-SENATOR: Miss Adeyemi, what I want to know is why a hospital in my state pays four times what a hospital in Delaware pays.
-CATHERINE: Because your state's hospitals buy through three intermediaries, Senator, and we have offered to sell to them directly at the Delaware price every year since twenty twenty-nine, and they have declined every year, because their group purchasing contracts forbid it. The correspondence is in appendix four.
-[pause 1.5]
-N: It was true. Every word of it was true, and checkable, and had been assembled over four months by a woman who had built her career on the proposition that the most devastating thing you can do to a hostile room is to be completely honest with it.
-N: The hearing lasted nine hours. It produced a recommendation that Congress examine the role of pharmaceutical intermediaries, which was a real and serious problem that had nothing whatever to do with Umbrella, and which occupied the committee for the following two years.
-[pause 2.0]
-N: Adolf answered from inside.
-ADOLF: She defended you.
-WESKER: She defended the accounts. They happen to be clean.
-N: The old voice, slowly.
-ADOLF: (slow) You have built a thing whose books are honest and whose basement is not.
-WESKER: The books being honest is what makes the basement possible. Nobody digs under a building that has never once lied about its foundations.
-[pause 2.5]
-
-[music] m_system -4
-[amb] amb_night_city
-[img] {WESKER} walking alone at night along an empty Georgetown street under old lamps, a cascade of golden holographic panels erupting in the air around him, cinematic, awe
-[sfx] sfx_system_open
-[system] ASSESSMENT
-Investigation turned — asset acquired: United States (partial)
-Superior action — protection secured: 400,000
-Territory of influence — federal: 300,000
-Total: 700,000
-[say] Assessment. Investigation turned. Asset acquired.
+[img] a montage of newspapers and defence journals with headlines, a stock ticker falling
+N: The narrator will give you the consequences in the order they arrived.
+N: Within nine days, the share prices of the four largest defence contractors in the United States fell a combined thirty-one per cent, not because Umbrella had entered their market but because it had demonstrated that the most expensive component of modern military power — the trained, willing, motivated human being — could be obtained by somebody outside the system entirely.
+N: Within four weeks, two European primes announced a merger. Within four months a Congressional committee opened an inquiry into private military capability that ran for two years and produced a statute that Umbrella had drafted eighteen months earlier through Sloane's successor at the Agency, and that made Umbrella's arrangement legal and everybody else's illegal.
+N: And within a year, Aegis Dynamics came apart.
+[img] {WYATT} sitting alone in an empty boardroom at night, papers in front of him, city lights
+[loc] Arlington, Virginia — 2 April 2041
+N: It was not sabotage. The narrator has checked this carefully, because it is the moment Wesker's methods become indistinguishable from weather.
+N: Aegis lost two programmes on cost, which happens; lost a third to a European consortium, which happens; and then lost its chief technology officer, its head of autonomy and four hundred engineers, all of whom went to Umbrella, all of whom applied unsolicited, none of whom were approached.
+N: In April of 2041 Thomas Wyatt came back to Washington and asked for another meeting, and this time he did not have a folder.
+WYATT: (slow) I've got nine months of cash and a board that wants to sell.
+WESKER: (soft) Yes.
+WYATT: (slow) You did this.
+WESKER: (cold) No, General. I stood in a field in the rain and told the truth about what a person costs, and your industry's entire business model was a bet that nobody would ever say it out loud. I have not taken a contract from you. I have not bid against you. I have not spoken to one of your engineers.
+[pause 0.5]
+WESKER: (soft) I made you obsolete by existing, which is what I do, and I did it in front of eleven defence ministers because I wanted it to happen quickly rather than slowly.
+WYATT: (slow) Why quickly?
+WESKER: (cold) Because an industry that dies slowly spends its last ten years lobbying, and an industry that dies quickly spends them looking for a buyer.
+N: Umbrella acquired Aegis Dynamics in August 2041 for eleven billion dollars, which was four per cent of what it had been worth in 2039, and kept every engineer and every facility and closed every weapons programme it owned within two years.
+N: The narrator will state that plainly, because it is not what anybody expected: Albert Wesker bought the fourth largest arms manufacturer in the United States and shut down its weapons.
+N: He kept the autonomy division, the materials science, the space launch subsidiary that nobody had valued at anything, and the four hundred engineers. He sold the munitions plants to the government at cost. He cancelled a missile programme that was eleven billion dollars into a nineteen-billion-dollar contract and paid the penalty himself.
+[sfx] sfx_system_chime +0.3
+[system] INDUSTRY ABSORBED — DEFENCE TECHNOLOGY
+Aegis Dynamics acquired · weapons programmes terminated: 14
+Space launch capability acquired: yes
+Points: +18,000,000
+Note: you have removed fourteen weapons from this world and built nothing to replace them.
+Note: this is the fourth time I have recorded that sentence about you. I have stopped expecting it.
+[say] Industry absorbed: defence technology. Aegis Dynamics acquired, fourteen weapons programmes terminated, space launch capability acquired. Eighteen million Points. Note: you have removed fourteen weapons from this world and built nothing to replace them. This is the fourth time I have recorded that sentence about you. I have stopped expecting it.
 [/system]
-[sfx] sfx_level_up
-[sfx] sfx_level_up +0.6
-[sfx] sfx_gacha_gold +1.2
-[system] LEVEL UP
-Level: 40
-Stat Points available: 70
-Points: 1,832,300
-[say] Level forty.
-[/system]
-N: Forty.
-N: He stopped in the middle of the empty street under the old gas lamps of Georgetown, with the panels hanging in the air around him like stained glass, and felt it go through him.
-N: It was not like doors this time. It was not like a floor dropping away. It was like a great pressure, very deep, rising — the way a submarine must feel when it blows its tanks and begins, all at once, to rise toward a surface it cannot see.
-[img] {WESKER} standing in a dark street with his head tilted back and eyes closed, a faint crimson glow seeping from beneath his sunglasses, the air around him distorting like heat, cinematic
-[system] STATUS
-Level: 40
-Strength: 55
-Speed: 64
-Intelligence: 60
-Defence: 48
-Health: 52
-Charisma: 55
-Special: 36
-[say] Status.
-[/system]
-N: Charisma fifty-five.
-N: There is no human scale for that number. Twenty is the limit of what the human voice has ever done. Thirty was more than any prophet or tyrant in recorded history. At fifty-five, the Director would find over the following months that he could walk into a room of strangers and, without saying a word, change what they wanted — not all of them, not completely, but enough. Enough to tilt a vote. Enough to end an argument. Enough to make a man who had come to accuse him leave apologising.
-N: The Adolf half of the mind looked at that number, standing in the dark street, and did not say anything at all. It did not need to. It had spent its whole first life wanting exactly this, and had had to build it from scratch, from beer halls and banners and a decade of screaming. Now it had simply been handed it, by a machine, on a street in Georgetown.
-[pause 1.5]
-[sfx] sfx_gacha_gold
-[system] NEW ABILITY AVAILABLE
-Viral Dominion I
-Limited command of biological assets derived from Progenitor lineage.
-Cost: 500,000
-[say] New ability. Viral dominion.
-[/system]
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Viral Dominion I
-Points: 1,332,300
-[say] Purchase confirmed.
-[/system]
-N: He bought it on the street. He felt it arrive — a new sense, like a sound at the edge of hearing, or a smell at the edge of memory. And two hundred miles north, in a cold room at the end of a white corridor beneath the Christina River, a grey giant in a cryogenic cradle turned its head, in its sleep, toward the south.
-[pause 2.0]
 
-[music] m_tension -8
-[amb] amb_office_hum
-[img] a secure government facility's vault door opening onto shelves of classified binders and sealed sample containers, a man in a black coat walking in beside a silver-haired official, cold lighting, cinematic
-[loc] Fort Detrick, Maryland — September 2031
-N: The first contract was real. Sloane had kept his word.
-N: In September, the Director was given a security clearance that most cabinet secretaries do not hold, and was driven, in a car with no markings, through the gates of a military installation in Frederick, Maryland, where the United States government had been studying the diseases it most feared for eighty years.
-N: He was shown everything. Every programme. Every laboratory. Every sample in every freezer. Every study the government had ever run on what might happen to America if the worst thing in the world got loose. Every weakness. Every gap.
-[img] {WESKER} reading a classified binder in a sterile government room under cold light, a stamp reading TOP SECRET on the pages, his face unreadable, cinematic
-N: They wanted him to fix the gaps. That was the contract. An Umbrella rapid-response vaccine platform, for the Department of Defense — something that could take a new pathogen and produce a countermeasure in seven days, instead of twenty-two months.
-N: He promised them nine.
-N: And as he walked back out through the gates that evening, in the unmarked car, with the Memory Palace quietly filing every page he had read into a new corridor beneath the basement of an imaginary brick building, the Adolf half of the mind said, very softly:
-ADOLF: They have shown you where they are weak.
-WESKER: Yes.
-N: The inner voice interrupted.
-ADOLF: Every lock in the house. And they have given you the key to every one.
-WESKER: They've asked me to change the locks. It's a different thing.
-N: The inner voice, almost to itself.
-ADOLF: (slow) Is it?
-[pause 2.0]
-
-[music] m_rain_piano -8
-[amb] amb_night_city
-[img] {HANNAH} in a small apartment at night reading a short news item on her laptop about a classified defense contract awarded to Umbrella, her hand over her mouth, a cat beside her, cinematic
-N: The contract was classified. But the fact of it was not — it appeared, as all Defense Department contracts of a certain size must, as a single line in a public procurement database. A contract number. An agency. An amount. And a name.
-N: Hannah Price found it in October, because she had set an alert for that name five years before and never turned it off. She read it, and sat very still, and then picked up her phone and called Owen Carrick, who now worked nights as a security consultant for a hospital in Chester and answered on the first ring.
-HANNAH: (phone) He's inside, Owen. He's not being investigated anymore. He's being paid.
-CARRICK: (phone) By who?
-HANNAH: (phone) By us. By the government. By the people who were supposed to stop him.
-[pause 1.5]
-N: Carrick did not answer for a long time. When he did, his voice was very calm — the particular, flat calm of a man who has already lost everything that could be taken from him.
-CARRICK: (phone) Then we're going to have to find somebody else to stop him.
-HANNAH: (phone) Who?
-CARRICK: (phone) I don't know yet. Somebody who isn't us.
-[pause 2.0]
-
-[music] m_dawn -6
-[amb] stop
-[img] the red and white umbrella emblem atop a glass tower at dawn above a wide river, golden light breaking through clouds, majestic and ominous, cinematic
-N: So ended the war with the agencies.
-N: It had lasted two years. It had cost the lives of Howard Lessing and sixteen men with rifles, the career of an FBI agent, the career of a CDC officer, a great deal of a journalist's peace of mind, and some of a CFO's. It had cost the Director his deniability, once, in a parking lot, on a dashcam. And it had ended — not with a trial, or a raid, or a headline — but with a handshake by a fire in Georgetown, and a clearance, and a key to every lock in the house.
-N: The agencies had been beaten the way a chess player wins. Patiently. Precisely. Each piece taken in its turn.
-[pause 1.0]
-N: Later, they would be beaten the way a disaster wins.
-[pause 3.0]
-[music] stop
+[music] m_lo -9
+[img] {WYATT} standing at a window in a quiet office with nothing on the desk, afternoon light
+[loc] Umbrella Defence Systems, Arlington — 11 September 2041
+N: Wyatt was given an office with a view, a title with the word *emeritus* in it, a salary he did not need and nothing whatsoever to do, which is exactly what Graham Tolliver had been given fourteen years earlier in Trenton, and which had by then become well enough known in American business that it had a name.
+N: They called it *the Wilmington retirement.* It was considered, by people who had watched four decades of hostile takeovers, to be unusually humane, and it was discussed in business schools as evidence that Albert Wesker was not vindictive.
+N: The narrator would like to offer a second reading, which is Carrick's, from a memorandum of 2041 that was never answered:
+CARRICK: (slow) He doesn't destroy the men he beats. He keeps them, on salary, in a building he owns, for the rest of their lives. Tolliver, Halvorsen, now Wyatt. Nine of them.
+CARRICK: (slow) That isn't mercy. It's a *collection*. He is assembling, one by one, every single person who ever stood in front of him, and he is keeping them where he can see them, comfortable and useless and unable to complain about it because he has been so generous.
+CARRICK: (slow) And the worst part is that they're grateful. I've met four of them. They're grateful.
+[pause 0.8]
+ADOLF: (soft) He is not wrong.
+WESKER: (cold) No.
+ADOLF: (soft) Does it trouble you that a man in your own building can see you that clearly?
+WESKER: (cold) It is the only reason I employ him. A man surrounded exclusively by people who cannot disobey will, within about twenty years, become incapable of distinguishing between a good decision and a decision.
+N: The narrator notes that Albert Wesker said that in 2041, that it was entirely correct, and that he stopped acting on it in about 2049.
