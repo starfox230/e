@@ -2,7 +2,7 @@
 
 ## Title
 
-**What If Hitler Was Reborn as Albert Wesker — With a System to Build Umbrella? (Full Story, 12 Hours)**
+**What If Hitler Was Reborn as Albert Wesker — With a System to Build Umbrella? (Full Story, 11+ Hours)**
 
 Alternates, if a shorter title is wanted:
 
@@ -78,4 +78,4 @@ file, in order, with nothing held back for a part two.
 
 The short version of why this exists: I wanted to know what it would actually take for one man to
 take a planet that had never heard of him — not with an army first, but with a product, a contract,
-and a building everyone was sure had always been there. It takes about twelve hours.
+and a building everyone was sure had always been there. It takes a little over eleven hours.
