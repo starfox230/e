@@ -19,890 +19,890 @@ brief, factual, and about a storm that had already
 been decided upon somewhere else.
 
 5
-00:00:29,550 --> 00:00:36,030
+00:00:29,550 --> 00:00:37,452
 We make diagnostics. Specifically, we make one: a
 pathogen panel. Blood or swab in, forty-one
 
 6
-00:00:36,050 --> 00:00:42,321
+00:00:37,472 --> 00:00:45,118
 organisms out, under twenty minutes, on a benchtop box
 a clinic in Ohio can afford without
 
 7
-00:00:42,341 --> 00:00:42,880
+00:00:45,138 --> 00:00:45,799
 a grant.
 
 8
-00:00:43,280 --> 00:00:49,600
+00:00:46,200 --> 00:00:52,520
 A hand went up. One of Voss's juniors, twenty-six
 years old, brave for four more seconds.
 
 9
-00:00:50,121 --> 00:00:53,310
+00:00:53,039 --> 00:00:56,229
 Director — that's a crowded market.
 Everyone has a panel.
 
 10
-00:00:53,710 --> 00:00:58,317
+00:00:56,630 --> 00:01:03,345
 Everyone has a panel that takes ninety minutes,
 costs four hundred dollars a run, and
 
 11
-00:00:58,337 --> 00:01:02,944
+00:01:03,365 --> 00:01:10,081
 is wrong about coinfections. Ours will take
 nineteen minutes, cost thirty-one dollars
 
 12
-00:01:02,964 --> 00:01:04,522
+00:01:10,101 --> 00:01:12,380
 a run, and will not be wrong.
 
 13
-00:01:04,924 --> 00:01:06,054
+00:01:12,780 --> 00:01:13,910
 How do you know?
 
 14
-00:01:06,453 --> 00:01:12,609
+00:01:14,310 --> 00:01:20,465
 And Wesker looked at him, for rather longer than was
 comfortable, with the flat patience
 
 15
-00:01:12,629 --> 00:01:15,908
+00:01:20,485 --> 00:01:23,764
 of a man watching a dog work out
 a door handle.
 
 16
-00:01:16,427 --> 00:01:21,215
+00:01:24,284 --> 00:01:31,342
 Because I have read the literature, Mr. Aldridge, and
 because I have read what the literature
 
 17
-00:01:21,235 --> 00:01:22,920
+00:01:31,362 --> 00:01:33,854
 was careful not to say. Sit down.
 
 18
-00:01:23,950 --> 00:01:31,938
+00:01:34,884 --> 00:01:42,871
 Blueprints. Rapid Pathogen Assay, a forty-one target
 panel: two thousand five hundred.
 
 19
-00:01:31,958 --> 00:01:40,132
+00:01:42,891 --> 00:01:51,065
 Stable Protein Scaffold Library: two thousand two
 hundred. Veterinary Antiviral: fifteen
 
 20
-00:01:40,152 --> 00:01:40,876
+00:01:51,085 --> 00:01:51,810
 hundred.
 
 21
-00:01:41,466 --> 00:01:42,028
+00:01:52,400 --> 00:01:53,350
 Purchase.
 
 22
-00:01:43,058 --> 00:01:50,991
+00:01:54,381 --> 00:02:02,314
 Purchase. Rapid Pathogen Assay. Two thousand five
 hundred. Balance, two thousand four
 
 23
-00:01:51,011 --> 00:01:55,202
+00:02:02,334 --> 00:02:06,525
 hundred. Delivered to Sublevel
 B4, bench two.
 
 24
-00:01:55,792 --> 00:02:01,157
+00:02:07,114 --> 00:02:12,480
 It did not appear in a flash of light. It appeared
 the way everything appeared: as though
 
 25
-00:02:01,177 --> 00:02:02,912
+00:02:12,500 --> 00:02:14,234
 it had been there for a year.
 
 26
-00:02:03,311 --> 00:02:09,837
+00:02:14,634 --> 00:02:21,160
 Six binders of process documentation. Validation data
 from two hundred and eleven clinical
 
 27
-00:02:09,857 --> 00:02:16,527
+00:02:21,180 --> 00:02:27,850
 samples. A manufacturing specification down to the
 grade of the plastic. A cartridge design.
 
 28
-00:02:16,547 --> 00:02:23,000
+00:02:27,870 --> 00:02:34,323
 A reagent formulation. Three years of somebody's
 meticulous work, in a lab that had never
 
 29
-00:02:23,020 --> 00:02:26,781
+00:02:34,343 --> 00:02:38,104
 done it, signed off by scientists
 who did not exist.
 
 30
-00:02:27,181 --> 00:02:31,974
+00:02:38,504 --> 00:02:43,297
 Wesker read all of it in a night, which is
 not a figure of speech.
 
 31
-00:02:32,375 --> 00:02:35,594
+00:02:43,698 --> 00:02:46,918
 And then, because he was who he
 was, he improved it.
 
 32
-00:02:35,995 --> 00:02:42,375
+00:02:47,318 --> 00:02:53,698
 The System's design ran its reaction in twenty-two
 minutes and called it twenty. The limiting
 
 33
-00:02:42,395 --> 00:02:48,639
+00:02:53,718 --> 00:02:59,962
 step was the lysis: getting a virus or a bacterium
 open fast enough to read what was inside
 
 34
-00:02:48,659 --> 00:02:51,805
+00:02:59,982 --> 00:03:03,128
 it without destroying what you
 wanted to read.
 
 35
-00:02:52,205 --> 00:02:58,534
+00:03:03,527 --> 00:03:09,857
 The blueprint used heat and a chaotropic salt.
 Everybody used heat and a chaotropic salt.
 
 36
-00:02:59,055 --> 00:03:04,596
+00:03:10,377 --> 00:03:19,078
 And everybody has the same three failures. Enveloped
 virus at low titre. Mycobacteria.
 
 37
-00:03:04,616 --> 00:03:05,048
+00:03:19,098 --> 00:03:19,787
 Spores.
 
 38
-00:03:05,449 --> 00:03:11,299
+00:03:20,187 --> 00:03:26,038
 He spent four nights on it, alone, with the vault open
 and a rack of the archive's stranger
 
 39
-00:03:11,319 --> 00:03:16,846
+00:03:26,058 --> 00:03:31,585
 cell lines thawing beside him, and on the fourth
 night he cut the reaction to nineteen
 
 40
-00:03:16,866 --> 00:03:22,781
+00:03:31,605 --> 00:03:37,520
 minutes by doing something that no competitor's chemist
 would have dared put in a regulatory
 
 41
-00:03:22,801 --> 00:03:26,199
+00:03:37,540 --> 00:03:40,938
 filing: he stopped trying to open
 everything at once.
 
 42
-00:03:26,599 --> 00:03:32,486
+00:03:41,338 --> 00:03:47,225
 Two chambers instead of one. A gentle enzymatic step
 for the fragile organisms, running
 
 43
-00:03:32,506 --> 00:03:38,663
+00:03:47,245 --> 00:03:53,402
 in parallel with a brutal mechanical one for the tough
 ones, and the two streams recombined
 
 44
-00:03:38,683 --> 00:03:44,501
+00:03:53,422 --> 00:03:59,240
 at the amplification stage with an internal control
 that corrected for the difference.
 
 45
-00:03:44,521 --> 00:03:50,679
+00:03:59,260 --> 00:04:05,418
 It was inelegant. It was, in the phrase Voss used when
 she saw it, *offensively practical.*
 
 46
-00:03:50,699 --> 00:03:56,653
+00:04:05,438 --> 00:04:11,392
 And it made the panel correct about the exact cases
 that every other panel on the market
 
 47
-00:03:56,673 --> 00:04:00,929
+00:04:11,412 --> 00:04:15,668
 got wrong: the patient with two
 infections, one of them hiding.
 
 48
-00:04:01,449 --> 00:04:03,099
+00:04:16,189 --> 00:04:17,839
 Who thinks like this?
 
 49
-00:04:03,500 --> 00:04:06,707
+00:04:18,238 --> 00:04:22,588
 Someone who has been on the other end
 of a false negative.
 
 50
-00:04:07,106 --> 00:04:12,695
+00:04:22,988 --> 00:04:28,577
 He said it without any particular weight, and Dr.
 Lena Voss did not ask what he meant,
 
 51
-00:04:12,715 --> 00:04:18,433
+00:04:28,597 --> 00:04:34,315
 and the narrator will simply note that Albert Wesker
 had once, in another world, watched
 
 52
-00:04:18,453 --> 00:04:24,172
+00:04:34,335 --> 00:04:40,054
 a containment protocol fail because a test came back
 clean on a Tuesday, and that he had
 
 53
-00:04:24,192 --> 00:04:28,736
+00:04:40,074 --> 00:04:44,618
 learned from it, and that the thing he had
 learned was not compassion.
 
 54
-00:04:29,887 --> 00:04:38,464
+00:04:45,769 --> 00:04:54,346
 Patent filed. Two-stream lysis with cross-normalised
 internal control. Inventor: A. Wesker.
 
 55
-00:04:38,484 --> 00:04:42,999
+00:04:54,366 --> 00:04:58,881
 Acting with intelligence: twelve
 hundred Points.
 
 56
-00:04:43,588 --> 00:04:47,999
+00:04:59,470 --> 00:05:03,880
 Mr. Pell did the rest, and Mr. Pell, it
 turned out, was a kind of weapon.
 
 57
-00:04:48,399 --> 00:04:54,129
+00:05:04,279 --> 00:05:10,010
 He never raised his voice. He never appeared to
 hurry. He arrived each morning at seven
 
 58
-00:04:54,149 --> 00:05:00,011
+00:05:10,030 --> 00:05:15,892
 twelve with a folder, and over six weeks that folder
 quietly turned a certified blueprint
 
 59
-00:05:00,031 --> 00:05:01,069
+00:05:15,912 --> 00:05:16,949
 into a business.
 
 60
-00:05:01,588 --> 00:05:06,323
+00:05:17,470 --> 00:05:22,204
 The device qualifies as a moderate-complexity panel.
 There is a predicate on the market,
 
 61
-00:05:06,343 --> 00:05:10,970
+00:05:22,224 --> 00:05:26,851
 which means clearance rather than approval: four
 months, not four years. I have filed.
 
 62
-00:05:10,990 --> 00:05:15,779
+00:05:26,871 --> 00:05:31,660
 The submission is complete and correct and there is
 nothing in it for a reviewer to want.
 
 63
-00:05:16,178 --> 00:05:17,204
+00:05:32,060 --> 00:05:33,390
 Manufacturing.
 
 64
-00:05:17,603 --> 00:05:22,534
+00:05:33,790 --> 00:05:38,720
 Contracted in Puerto Rico for the first eighteen
 months, at a price that is high because
 
 65
-00:05:22,554 --> 00:05:27,317
+00:05:38,740 --> 00:05:43,503
 we are unknown. I have taken the high price and a
 clause that lets us leave on thirty
 
 66
-00:05:27,337 --> 00:05:30,973
+00:05:43,523 --> 00:05:47,160
 days' notice, because we will not be
 unknown for eighteen months.
 
 67
-00:05:31,374 --> 00:05:32,411
+00:05:47,560 --> 00:05:49,069
 Price to the customer.
 
 68
-00:05:32,810 --> 00:05:38,079
+00:05:49,470 --> 00:05:54,738
 The market is three hundred and eighty dollars a run.
 Our cost at volume is nine. I would
 
 69
-00:05:38,099 --> 00:05:39,920
+00:05:54,758 --> 00:05:56,580
 suggest one hundred and ninety.
 
 70
-00:05:40,321 --> 00:05:41,032
+00:05:56,980 --> 00:05:57,850
 Thirty-one.
 
 71
-00:05:41,432 --> 00:05:42,642
+00:05:58,250 --> 00:05:59,460
 Pell's pen stopped.
 
 72
-00:05:43,161 --> 00:05:48,250
+00:05:59,980 --> 00:06:05,068
 Director. At thirty-one dollars we make twenty-two
 dollars a cartridge instead of a hundred
 
 73
-00:05:48,270 --> 00:05:49,092
+00:06:05,088 --> 00:06:05,910
 and eighty-one.
 
 74
-00:05:49,492 --> 00:05:53,937
+00:06:06,310 --> 00:06:12,597
 At thirty-one dollars every hospital network in the
 mid-Atlantic replaces its instruments
 
 75
-00:05:53,957 --> 00:05:58,402
+00:06:12,617 --> 00:06:18,904
 inside a year, and the instrument they replace them
 with is ours, and the cartridges only
 
 76
-00:05:58,422 --> 00:06:02,767
+00:06:18,924 --> 00:06:25,069
 fit ours, and in four years there is no such thing
 as a three-hundred-and-eighty-dollar
 
 77
-00:06:02,787 --> 00:06:07,081
+00:06:25,089 --> 00:06:31,163
 panel because I will have made the price of being
 wrong about a patient too obvious to
 
 78
-00:06:07,101 --> 00:06:07,432
+00:06:31,183 --> 00:06:31,659
 defend.
 
 79
-00:06:08,052 --> 00:06:10,023
+00:06:32,279 --> 00:06:34,250
 (flat) Thirty-one dollars.
 
 80
-00:06:10,423 --> 00:06:16,077
+00:06:34,649 --> 00:06:42,878
 And, Mr. Pell — at cost to any public health
 laboratory that asks. Every one of them.
 
 81
-00:06:16,097 --> 00:06:19,215
+00:06:42,898 --> 00:06:47,439
 No paperwork, no negotiation, no
 press release.
 
 82
-00:06:19,615 --> 00:06:22,925
+00:06:47,839 --> 00:06:51,149
 That is a considerable amount of
 money to give away.
 
 83
-00:06:23,324 --> 00:06:28,037
+00:06:51,550 --> 00:06:57,550
 It is a considerable amount of money to *lend*. They
 will have our boxes on their benches
 
 84
-00:06:28,057 --> 00:06:32,770
+00:06:57,570 --> 00:07:03,571
 when something frightening happens, and when
 something frightening happens they will call
 
 85
-00:06:32,790 --> 00:06:33,939
+00:07:03,591 --> 00:07:05,060
 the number on the box.
 
 86
-00:06:34,338 --> 00:06:40,288
+00:07:05,459 --> 00:07:11,409
 The narrator notes, for the record, that the first
 genuinely evil thing Albert Wesker
 
 87
-00:06:40,308 --> 00:06:46,539
+00:07:11,429 --> 00:07:17,660
 did in this world was to give away a very good
 medical test to the people who most needed
 
 88
-00:06:46,559 --> 00:06:49,489
+00:07:17,680 --> 00:07:20,610
 it, for free, on purpose, ten years early.
 
 89
-00:06:49,889 --> 00:06:55,609
+00:07:21,009 --> 00:07:26,730
 The clearance came through on the fourth of
 November. The first orders came in on the
 
 90
-00:06:55,629 --> 00:07:01,620
+00:07:26,750 --> 00:07:32,741
 ninth. On the twelfth, a man named Graham Tolliver
 drove up from Trenton with his general
 
 91
-00:07:01,640 --> 00:07:07,563
+00:07:32,761 --> 00:07:38,684
 counsel and asked for a meeting, and was given one at
 four o'clock, and was kept waiting
 
 92
-00:07:07,583 --> 00:07:08,779
+00:07:38,704 --> 00:07:39,900
 until four twenty.
 
 93
-00:07:09,178 --> 00:07:15,158
+00:07:40,300 --> 00:07:46,279
 Tolliver was the chief executive of Verdant Axis
 Therapeutics: thirteen hundred employees,
 
 94
-00:07:15,178 --> 00:07:21,223
+00:07:46,299 --> 00:07:52,344
 a listed stock, and a syndromic panel that had taken
 his company nine years and two hundred
 
 95
-00:07:21,243 --> 00:07:27,422
+00:07:52,364 --> 00:07:58,543
 million dollars to build. It ran in ninety minutes and
 cost three hundred and eighty dollars,
 
 96
-00:07:27,442 --> 00:07:31,888
+00:07:58,563 --> 00:08:03,009
 and until the fourth of November it had
 been the best in its class.
 
 97
-00:07:32,288 --> 00:07:37,614
+00:08:03,410 --> 00:08:08,735
 He had come to buy the patent. He had a number in his
 pocket and a threat behind it, and
 
 98
-00:07:37,634 --> 00:07:39,619
+00:08:08,755 --> 00:08:10,740
 he had rehearsed both in the car.
 
 99
-00:07:40,019 --> 00:07:44,409
+00:08:11,139 --> 00:08:15,530
 Wesker came in at four twenty,
 alone, with no folder.
 
 100
-00:07:44,928 --> 00:07:46,266
+00:08:16,050 --> 00:08:18,020
 Mr. Tolliver.
 
 101
-00:07:46,668 --> 00:07:48,578
+00:08:18,420 --> 00:08:20,330
 You've kept me waiting twenty minutes.
 
 102
-00:07:48,978 --> 00:07:49,353
+00:08:20,730 --> 00:08:21,620
 Yes.
 
 103
-00:07:49,752 --> 00:07:55,822
+00:08:22,019 --> 00:08:28,089
 He sat down. He did not apologise and he did not
 explain, and the silence that followed
 
 104
-00:07:55,842 --> 00:08:02,262
+00:08:28,109 --> 00:08:34,529
 lasted long enough that Tolliver's counsel began the
 pitch himself, out of sheer discomfort,
 
 105
-00:08:02,282 --> 00:08:04,923
+00:08:34,549 --> 00:08:37,189
 four minutes before he had planned to.
 
 106
-00:08:05,442 --> 00:08:10,045
+00:08:37,710 --> 00:08:42,312
 My client is prepared to acquire the two-stream lysis
 patent and the associated instrument
 
 107
-00:08:10,065 --> 00:08:14,463
+00:08:42,332 --> 00:08:46,730
 line for forty million dollars. To be frank, Dr.
 Wesker, that is a generous number for
 
 108
-00:08:14,483 --> 00:08:19,137
+00:08:46,750 --> 00:08:51,404
 a company that shipped its first unit nine days ago.
 And I should say that we have reviewed
 
 109
-00:08:19,157 --> 00:08:23,555
+00:08:51,424 --> 00:08:55,822
 your filings and we believe there are — overlaps —
 with our own portfolio, which would
 
 110
-00:08:23,575 --> 00:08:26,071
+00:08:55,842 --> 00:08:58,339
 be expensive for a firm of your
 size to litigate.
 
 111
-00:08:26,471 --> 00:08:30,710
+00:08:58,739 --> 00:09:02,978
 Wesker looked at him with what appeared
 to be polite interest.
 
 112
-00:08:31,230 --> 00:08:31,883
+00:09:03,498 --> 00:09:04,608
 Which claim?
 
 113
-00:08:32,283 --> 00:08:33,193
+00:09:05,008 --> 00:09:05,918
 I'm sorry?
 
 114
-00:08:33,594 --> 00:08:38,447
+00:09:06,317 --> 00:09:13,232
 You have asserted an overlap. Tell me which claim of
 which patent. You have eight in this
 
 115
-00:08:38,467 --> 00:08:43,211
+00:09:13,252 --> 00:09:20,012
 space. Nine of them are amplification chemistry,
 which I do not use. One is a cartridge
 
 116
-00:08:43,231 --> 00:08:47,920
+00:09:20,032 --> 00:09:26,713
 geometry that expired in March, and one is the
 ninety-minute thermal protocol, which I
 
 117
-00:08:47,940 --> 00:08:50,165
+00:09:26,733 --> 00:09:29,907
 would not want if you paid me to take it.
 
 118
-00:08:50,840 --> 00:08:56,543
+00:09:30,582 --> 00:09:36,286
 The counsel opened his folder. Wesker had not
 brought a folder, and the counsel's was
 
 119
-00:08:56,563 --> 00:08:59,170
+00:09:36,306 --> 00:09:38,913
 suddenly the loudest thing in the room.
 
 120
-00:08:59,690 --> 00:09:04,205
+00:09:39,432 --> 00:09:45,864
 You came here with a number and a bluff, and the
 number is an insult and the bluff is
 
 121
-00:09:04,225 --> 00:09:08,847
+00:09:45,884 --> 00:09:52,468
 a question you cannot answer in front of your own
 chief executive. Let us not spend the
 
 122
-00:09:08,867 --> 00:09:09,701
+00:09:52,488 --> 00:09:53,682
 afternoon on it.
 
 123
-00:09:10,100 --> 00:09:12,271
+00:09:54,082 --> 00:09:56,253
 Then let's talk seriously. Eighty million.
 
 124
-00:09:12,671 --> 00:09:12,814
+00:09:56,653 --> 00:09:57,383
 No.
 
 125
-00:09:13,212 --> 00:09:15,702
+00:09:57,783 --> 00:10:00,273
 A hundred and twenty. That's more
 than your entire —
 
 126
-00:09:16,102 --> 00:09:20,966
+00:10:00,673 --> 00:10:07,431
 Mr. Tolliver. Your Q3 statement shows a hundred and
 ninety million in panel revenue, which
 
 127
-00:09:20,986 --> 00:09:25,688
+00:10:07,451 --> 00:10:13,984
 is sixty-one per cent of your business, and a debt
 covenant that tests against trailing
 
 128
-00:09:25,708 --> 00:09:30,354
+00:10:14,004 --> 00:10:20,462
 revenue every quarter. You have already lost the
 Christiana network, and you will lose
 
 129
-00:09:30,374 --> 00:09:35,238
+00:10:20,482 --> 00:10:27,241
 Jefferson within the month, because I have priced a
 better test at eight per cent of yours
 
 130
-00:09:35,258 --> 00:09:39,960
+00:10:27,261 --> 00:10:33,794
 and I have no shareholders to explain it to. By
 March your trailing revenue will breach
 
 131
-00:09:39,980 --> 00:09:44,789
+00:10:33,814 --> 00:10:40,498
 that covenant. Your lender will not renegotiate,
 because your lender has spent four years
 
 132
-00:09:44,809 --> 00:09:49,619
+00:10:40,518 --> 00:10:47,201
 looking for a reason not to. You did not come here to
 buy a patent. You came here because
 
 133
-00:09:49,639 --> 00:09:52,386
+00:10:47,221 --> 00:10:51,042
 you have a fuse and you have read
 the length of it.
 
 134
-00:09:52,788 --> 00:09:53,978
+00:10:51,442 --> 00:10:52,633
 Nobody spoke.
 
 135
-00:09:54,378 --> 00:09:59,721
+00:10:53,033 --> 00:10:58,376
 The narrator would like to record what was actually
 happening in that room, because it
 
 136
-00:09:59,741 --> 00:10:05,085
+00:10:58,396 --> 00:11:03,740
 happened at every scale for the next sixty-five
 years and the mechanism never changed.
 
 137
-00:10:05,105 --> 00:10:10,449
+00:11:03,760 --> 00:11:09,104
 Wesker had not threatened anyone. He had not lied.
 He had simply arrived in possession
 
 138
-00:10:10,469 --> 00:10:15,813
+00:11:09,124 --> 00:11:14,468
 of every fact about the other man's life, arranged
 them on the table in the order that
 
 139
-00:10:15,833 --> 00:10:20,928
+00:11:14,488 --> 00:11:19,583
 hurt most, and then waited, without expression,
 for the other man to look at them.
 
 140
-00:10:21,447 --> 00:10:24,052
+00:11:20,102 --> 00:11:24,232
 I will not sell you the patent. I
 will license it to you.
 
 141
-00:10:24,451 --> 00:10:25,400
+00:11:24,633 --> 00:11:25,582
 License it.
 
 142
-00:10:25,799 --> 00:10:30,696
+00:11:25,981 --> 00:11:32,496
 Non-exclusive, five years, for your instrument line.
 It will let you cut your run time
 
 143
-00:10:30,716 --> 00:10:35,726
+00:11:32,516 --> 00:11:39,182
 to thirty-one minutes and your price to sixty
 dollars, which will save your covenant and
 
 144
-00:10:35,746 --> 00:10:40,586
+00:11:39,202 --> 00:11:45,640
 your job. The fee is nine million a year, and four
 per cent of the panel revenue, and
 
 145
-00:10:40,606 --> 00:10:41,557
+00:11:45,660 --> 00:11:46,932
 one further term.
 
 146
-00:10:41,957 --> 00:10:42,788
+00:11:47,331 --> 00:11:48,162
 Which is?
 
 147
-00:10:43,187 --> 00:10:48,838
+00:11:48,562 --> 00:11:56,030
 Verdant Axis withdraws from the public-health tender in
 Pennsylvania, New Jersey and Delaware.
 
 148
-00:10:48,858 --> 00:10:52,096
+00:11:56,050 --> 00:12:00,331
 You will not bid against me for
 government work again.
 
 149
-00:10:52,495 --> 00:10:58,046
+00:12:00,731 --> 00:12:06,282
 The general counsel started to say something about
 restraint of trade. Tolliver put a
 
 150
-00:10:58,066 --> 00:11:03,748
+00:12:06,302 --> 00:12:11,984
 hand on his arm without looking at him — the gesture
 of a man who has stopped listening
 
 151
-00:11:03,768 --> 00:11:09,581
+00:12:12,004 --> 00:12:17,817
 to advice — and stared across the table at a face he
 could not see behind a pair of black
 
 152
-00:11:09,601 --> 00:11:10,105
+00:12:17,837 --> 00:12:18,341
 glasses.
 
 153
-00:11:10,625 --> 00:11:11,915
+00:12:18,861 --> 00:12:20,151
 You're letting me live.
 
 154
-00:11:12,316 --> 00:11:16,205
+00:12:20,552 --> 00:12:26,259
 I am letting you *work*. There is a difference, and
 you will feel it every quarter when
 
 155
-00:11:16,225 --> 00:11:17,149
+00:12:26,279 --> 00:12:27,642
 the payment goes out.
 
 156
-00:11:17,548 --> 00:11:23,809
+00:12:28,042 --> 00:12:34,302
 He signed on the twenty-second of November. Verdant
 Axis's stock went up eleven per cent
 
 157
-00:11:23,829 --> 00:11:30,161
+00:12:34,322 --> 00:12:40,654
 on the announcement of the licence, and Graham
 Tolliver was praised in two trade journals
 
 158
-00:11:30,181 --> 00:11:31,660
+00:12:40,674 --> 00:12:42,153
 for his decisiveness.
 
 159
-00:11:32,809 --> 00:11:41,697
+00:12:43,302 --> 00:12:52,191
 Subjugation of a rival. Verdant Axis Therapeutics:
 licensed, constrained, retained. Fourteen
 
 160
-00:11:41,717 --> 00:11:48,379
+00:12:52,211 --> 00:12:58,872
 thousand Points. Balance, seventeen
 thousand six hundred. Level four.
 
 161
-00:11:48,969 --> 00:11:51,829
+00:12:59,461 --> 00:13:02,322
 And the other one, quietly, from the
 back of the skull.
 
 162
-00:11:52,349 --> 00:11:54,407
+00:13:02,841 --> 00:13:05,235
 You should have taken the company.
 
 163
-00:11:54,807 --> 00:11:59,828
+00:13:05,634 --> 00:13:12,994
 I have taken the company. I have merely left him in it
 to run it for me, at his own expense,
 
 164
-00:11:59,848 --> 00:12:02,020
+00:13:13,014 --> 00:13:16,204
 while he tells everyone it was his idea.
 
 165
-00:12:02,419 --> 00:12:05,661
+00:13:16,604 --> 00:13:20,238
 That is not a victory anyone can see.
 
 166
-00:12:06,062 --> 00:12:06,542
+00:13:20,639 --> 00:13:21,428
 Correct.
 
 167
-00:12:06,942 --> 00:12:11,272
+00:13:21,828 --> 00:13:26,158
 By the middle of December, the boxes were
 in ninety-one hospitals.
 
 168
-00:12:11,672 --> 00:12:17,064
+00:13:26,558 --> 00:13:31,951
 A charge nurse in Chester told a reporter she had
 found two infections in one child on
 
 169
-00:12:17,084 --> 00:12:22,665
+00:13:31,971 --> 00:13:37,552
 a Sunday night with nobody senior in the building,
 and that the old test would have found
 
 170
-00:12:22,685 --> 00:12:28,329
+00:13:37,572 --> 00:13:43,216
 one. A public health laboratory in Dover ran four
 hundred samples in a week on instruments
 
 171
-00:12:28,349 --> 00:12:34,056
+00:13:43,236 --> 00:13:48,943
 it had not paid for. An infectious disease physician
 in Baltimore wrote an editorial titled
 
 172
-00:12:34,076 --> 00:12:39,719
+00:13:48,963 --> 00:13:54,606
 *The Thirty-One Dollar Question*, which was not about
 Umbrella at all, and which mentioned
 
 173
-00:12:39,739 --> 00:12:40,601
+00:13:54,626 --> 00:13:55,488
 Umbrella once.
 
 174
-00:12:41,000 --> 00:12:42,971
+00:13:55,888 --> 00:13:57,858
 Nobody, anywhere, was frightened.
 
 175
-00:12:43,370 --> 00:12:48,831
+00:13:58,258 --> 00:14:03,718
 On the last night of the year Pell came up with the
 folder, as he did every night, and
 
 176
-00:12:48,851 --> 00:12:53,610
+00:14:03,738 --> 00:14:08,498
 read the numbers aloud in the flat voice of a
 man reciting a shopping list.
 
 177
-00:12:54,130 --> 00:12:58,957
+00:14:09,018 --> 00:14:13,844
 Units placed: four hundred and six. Cartridges
 shipped in December: two hundred and nine
 
 178
-00:12:58,977 --> 00:13:03,914
+00:14:13,864 --> 00:14:18,801
 thousand. Licence income from Verdant Axis: nine
 million, first instalment received. Cash:
 
 179
-00:13:03,934 --> 00:13:08,761
+00:14:18,821 --> 00:14:23,648
 thirty-one million, four hundred thousand. Headcount:
 thirty-eight. Total assets, on the
 
 180
-00:13:08,781 --> 00:13:11,681
+00:14:23,668 --> 00:14:26,568
 balance sheet as it will be filed:
 fifty-two million.
 
 181
-00:13:12,081 --> 00:13:17,531
+00:14:26,967 --> 00:14:32,418
 Wesker had been standing at the window with his
 back to the room. He turned around.
 
 182
-00:13:18,051 --> 00:13:20,957
+00:14:32,937 --> 00:14:37,548
 Read that last figure again, Mr.
 Pell. Slowly.
 
 183
-00:13:21,355 --> 00:13:23,586
+00:14:37,947 --> 00:14:40,177
 (flat) Fifty-two million dollars.
 
 184
-00:13:24,615 --> 00:13:32,906
+00:14:41,207 --> 00:14:49,498
 Main mission, tier two. A product worth selling:
 complete. Fifty million dollars in assets:
 
 185
-00:13:32,926 --> 00:13:37,015
+00:14:49,518 --> 00:14:53,607
 complete. Fifty staff:
 thirty-eight of fifty.
 
 186
-00:13:37,606 --> 00:13:43,151
+00:14:54,197 --> 00:14:59,742
 Twelve people short. Fifteen weeks from a chair in an
 empty office to twelve people short
 
 187
-00:13:43,171 --> 00:13:43,777
+00:14:59,762 --> 00:15:00,368
 of a tier.
 
 188
-00:13:44,177 --> 00:13:49,827
+00:15:00,768 --> 00:15:06,418
 He looked at the panel for a moment with his hands
 behind his back, and then he said the
 
 189
-00:13:49,847 --> 00:13:55,561
+00:15:06,438 --> 00:15:12,152
 thing that the System, in all its billions of
 candidates and all its criteria, had chosen
 
 190
-00:13:55,581 --> 00:13:56,076
+00:15:12,172 --> 00:15:12,668
 him for.
 
 191
-00:13:56,596 --> 00:14:01,278
+00:15:13,187 --> 00:15:19,624
 Then we will hire twelve people tomorrow, and the day
 after that I would like to discuss
 
 192
-00:14:01,298 --> 00:14:01,812
+00:15:19,644 --> 00:15:20,358
 the Gacha.

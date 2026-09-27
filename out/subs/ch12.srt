@@ -42,803 +42,803 @@ the fastest I can make it go without
 breaking something.
 
 10
-00:00:48,643 --> 00:00:49,562
+00:00:48,643 --> 00:00:49,992
 Why buildings?
 
 11
-00:00:49,963 --> 00:00:51,373
+00:00:50,393 --> 00:00:51,802
 I beg your pardon?
 
 12
-00:00:51,774 --> 00:00:57,142
+00:00:52,203 --> 00:00:58,985
 You have just described four leases, three thousand
 employees and a great deal of travel.
 
 13
-00:00:57,162 --> 00:00:59,381
+00:00:59,005 --> 00:01:01,812
 Why does any of that require a tower?
 
 14
-00:00:59,781 --> 00:01:04,799
+00:01:02,213 --> 00:01:07,230
 Because a company that looks like a laboratory in
 Delaware cannot negotiate with the Japanese
 
 15
-00:01:04,819 --> 00:01:09,566
+00:01:07,250 --> 00:01:11,997
 Ministry of Health. Because a regulator in Singapore
 will not licence a plant for a firm
 
 16
-00:01:09,586 --> 00:01:14,278
+00:01:12,017 --> 00:01:16,709
 with no address in the country. Because when the
 Swiss decide whether you are a peer or
 
 17
-00:01:14,298 --> 00:01:17,257
+00:01:16,729 --> 00:01:19,688
 a supplier, they decide it by
 looking at your building.
 
 18
-00:01:17,656 --> 00:01:19,686
+00:01:20,088 --> 00:01:22,118
 Wesker considered that.
 
 19
-00:01:20,206 --> 00:01:24,806
+00:01:22,638 --> 00:01:30,077
 You are right, and you have under-asked. Take the
 plan, and remove every word that says
 
 20
-00:01:24,826 --> 00:01:25,284
+00:01:30,097 --> 00:01:30,849
 *phased*.
 
 21
-00:01:25,683 --> 00:01:30,711
+00:01:31,248 --> 00:01:36,276
 That's four purpose-built towers in year one. That is
 not possible. There is no construction
 
 22
-00:01:30,731 --> 00:01:32,083
+00:01:36,296 --> 00:01:37,648
 schedule on this planet —
 
 23
-00:01:32,483 --> 00:01:37,429
+00:01:38,048 --> 00:01:45,262
 Ms. Adeyemi. In the eighteen months you have worked
 here, how many times have you told
 
 24
-00:01:37,449 --> 00:01:39,046
+00:01:45,282 --> 00:01:47,618
 me a thing was not possible?
 
 25
-00:01:39,721 --> 00:01:40,829
+00:01:48,293 --> 00:01:49,401
 (flat) Six.
 
 26
-00:01:41,228 --> 00:01:42,846
+00:01:49,801 --> 00:01:52,371
 And how many times were you correct?
 
 27
-00:01:43,245 --> 00:01:48,947
+00:01:52,771 --> 00:01:58,472
 She did not answer that. She went back to her office
 and rewrote page nine, and at the
 
 28
-00:01:48,967 --> 00:01:54,602
+00:01:58,492 --> 00:02:04,127
 bottom of the rewritten page she put a line that
 had not been in any document she had
 
 29
-00:01:54,622 --> 00:02:00,390
+00:02:04,147 --> 00:02:09,915
 ever produced in twenty-six years in London:
 *Capital expenditure: to be advised by the
 
 30
-00:02:00,410 --> 00:02:01,055
+00:02:09,935 --> 00:02:10,580
 Director.*
 
 31
-00:02:01,456 --> 00:02:07,975
+00:02:10,980 --> 00:02:17,500
 The narrator notes that this is the precise moment
 Catherine Adeyemi stopped being Umbrella's
 
 32
-00:02:07,995 --> 00:02:14,092
+00:02:17,520 --> 00:02:23,617
 chief financial officer in the ordinary sense and
 became something else: the person who
 
 33
-00:02:14,112 --> 00:02:19,365
+00:02:23,637 --> 00:02:28,890
 wrote down, in a form auditors could accept,
 whatever had already happened.
 
 34
-00:02:20,515 --> 00:02:28,094
+00:02:30,040 --> 00:02:37,619
 Regional Headquarters Tower. Forty-one floors, fitted
 and staffed: nine hundred thousand
 
 35
-00:02:28,114 --> 00:02:35,434
+00:02:37,639 --> 00:02:44,959
 each. Integration covers deeds, permits, planning
 history, the skyline record and the
 
 36
-00:02:35,454 --> 00:02:42,774
+00:02:44,979 --> 00:02:52,299
 photographic archive. Note: this item alters what
 is remembered by approximately nine
 
 37
-00:02:42,794 --> 00:02:45,279
+00:02:52,319 --> 00:02:54,804
 million people per placement.
 
 38
-00:02:45,870 --> 00:02:48,180
+00:02:55,395 --> 00:02:57,705
 He read that last line four times.
 
 39
-00:02:48,699 --> 00:02:49,945
+00:02:58,224 --> 00:02:59,854
 Nine million people.
 
 40
-00:02:50,344 --> 00:02:58,463
+00:03:00,254 --> 00:03:08,373
 Approximately. A tower in a photographed skyline is not
 a building in a field. Every postcard,
 
 41
-00:02:58,483 --> 00:03:06,255
+00:03:08,393 --> 00:03:16,165
 every establishing shot, every tourist's holiday
 album, every child's drawing of the city.
 
 42
-00:03:06,275 --> 00:03:07,900
+00:03:16,185 --> 00:03:17,810
 It is a large edit.
 
 43
-00:03:08,300 --> 00:03:09,753
+00:03:18,209 --> 00:03:20,179
 And the cost of a large edit?
 
 44
-00:03:10,153 --> 00:03:17,508
+00:03:20,579 --> 00:03:27,933
 To me, Points. To you, nothing. To them — a very
 slight thinning. People whose memories
 
 45
-00:03:17,528 --> 00:03:24,713
+00:03:27,953 --> 00:03:35,138
 have been extensively revised become marginally
 less curious. It is not damage. It is
 
 46
-00:03:24,733 --> 00:03:29,036
+00:03:35,158 --> 00:03:39,461
 the way a much-folded map goes
 soft at the creases.
 
 47
-00:03:29,877 --> 00:03:35,750
+00:03:40,302 --> 00:03:46,176
 The narrator asks you to notice that Albert Wesker
 asked that question, and that he got
 
 48
-00:03:35,770 --> 00:03:41,372
+00:03:46,196 --> 00:03:51,798
 an honest answer, and that he then spent three
 million six hundred thousand Points.
 
 49
-00:03:41,894 --> 00:03:46,900
+00:03:52,318 --> 00:04:00,228
 Four towers. London, Singapore, Zurich,
 Tokyo. Place them this weekend.
 
 50
-00:03:47,300 --> 00:03:48,688
+00:04:00,628 --> 00:04:02,351
 You hesitated.
 
 51
-00:03:49,087 --> 00:03:49,915
+00:04:02,751 --> 00:04:03,800
 I priced it.
 
 52
-00:03:50,316 --> 00:03:53,290
+00:04:04,200 --> 00:04:07,606
 That is not the same thing as not caring.
 
 53
-00:03:53,691 --> 00:03:57,385
+00:04:08,008 --> 00:04:14,698
 No. It is better. A man who does not care
 makes mistakes with the currency.
 
 54
-00:03:57,786 --> 00:04:03,437
+00:04:15,098 --> 00:04:20,749
 The narrator will describe one of the four, because
 all four went the same way and one
 
 55
-00:04:03,457 --> 00:04:05,415
+00:04:20,769 --> 00:04:22,728
 is enough to break your heart.
 
 56
-00:04:05,816 --> 00:04:11,613
+00:04:23,127 --> 00:04:28,925
 On the south bank of the Thames, between Blackfriars
 and Southwark, there is a plot that
 
 57
-00:04:11,633 --> 00:04:17,299
+00:04:28,945 --> 00:04:34,611
 had been a car park, then a hoarding with an
 artist's impression on it, then a hole in
 
 58
-00:04:17,319 --> 00:04:22,456
+00:04:34,631 --> 00:04:39,768
 the ground with a stalled financing and a crane
 that had not moved since 2024.
 
 59
-00:04:22,855 --> 00:04:29,220
+00:04:40,168 --> 00:04:46,532
 On Saturday morning there was a tower. Forty-one
 floors of grey glass with a crimson iris
 
 60
-00:04:29,240 --> 00:04:35,533
+00:04:46,552 --> 00:04:52,845
 at its base, finished in 2019, designed by a practice
 that had won an award for it, with
 
 61
-00:04:35,553 --> 00:04:41,703
+00:04:52,865 --> 00:04:59,015
 a public plaza, a coffee franchise on the ground
 floor and twenty-six years of weather
 
 62
-00:04:41,723 --> 00:04:42,636
+00:04:59,035 --> 00:04:59,948
 on the stone.
 
 63
-00:04:43,036 --> 00:04:48,906
+00:05:00,348 --> 00:05:06,218
 The crane was gone. The hoarding was gone. The
 stalled financing had never existed.
 
 64
-00:04:49,305 --> 00:04:51,365
+00:05:06,617 --> 00:05:08,677
 And this is the part that matters.
 
 65
-00:04:51,766 --> 00:04:58,088
+00:05:09,077 --> 00:05:15,400
 In eleven million photographs — in every panorama of
 the London skyline taken from Waterloo
 
 66
-00:04:58,108 --> 00:05:04,362
+00:05:15,420 --> 00:05:21,674
 Bridge since 2019, in every establishing shot in every
 television drama, in the background
 
 67
-00:05:04,382 --> 00:05:10,286
+00:05:21,694 --> 00:05:27,598
 of a wedding, in a screensaver, in a school
 geography textbook, in a painting hanging
 
 68
-00:05:10,306 --> 00:05:15,166
+00:05:27,618 --> 00:05:32,478
 in a pub in Battersea — the tower was there.
 It had always been there.
 
 69
-00:05:15,565 --> 00:05:21,188
+00:05:32,877 --> 00:05:38,500
 A photographer named Ines Okoro, who had shot that
 exact view every New Year's Day for
 
 70
-00:05:21,208 --> 00:05:27,356
+00:05:38,520 --> 00:05:44,668
 nine years as a personal project, sat at her kitchen
 table on the Sunday with nine photographs
 
 71
-00:05:27,376 --> 00:05:32,605
+00:05:44,688 --> 00:05:49,918
 in front of her and a tower in all of them, and
 she put her hand over her mouth.
 
 72
-00:05:33,005 --> 00:05:38,775
+00:05:50,317 --> 00:05:56,087
 She knew. For about forty seconds, Ines Okoro knew,
 completely and without any doubt at
 
 73
-00:05:38,795 --> 00:05:42,435
+00:05:56,107 --> 00:05:59,747
 all, that something enormous had
 happened to the world.
 
 74
-00:05:42,836 --> 00:05:48,363
+00:06:00,148 --> 00:06:05,675
 And then the doubt came in — not as an argument, but
 as a softness, a kind of gentle fog
 
 75
-00:05:48,383 --> 00:05:53,722
+00:06:05,695 --> 00:06:11,034
 at the edge of the thought — and by Monday she had
 decided she must simply never have
 
 76
-00:05:53,742 --> 00:05:59,396
+00:06:11,054 --> 00:06:16,708
 noticed it, because how could you not notice a tower,
 and therefore she had always noticed
 
 77
-00:05:59,416 --> 00:06:02,296
+00:06:16,728 --> 00:06:19,608
 it, and therefore there was
 nothing to notice.
 
 78
-00:06:02,696 --> 00:06:07,920
+00:06:20,007 --> 00:06:25,232
 She took the photograph again the following New
 Year. She never looked at the old ones
 
 79
-00:06:07,940 --> 00:06:08,286
+00:06:25,252 --> 00:06:25,598
 again.
 
 80
-00:06:08,685 --> 00:06:14,487
+00:06:25,997 --> 00:06:31,799
 The System had called it *a very slight thinning*.
 This is what that means, one person
 
 81
-00:06:14,507 --> 00:06:18,615
+00:06:31,819 --> 00:06:35,927
 at a time, nine million at a stroke,
 four times in a weekend.
 
 82
-00:06:19,016 --> 00:06:23,706
+00:06:36,327 --> 00:06:41,017
 There was one man who did not let it go, and
 his profession is the reason.
 
 83
-00:06:24,105 --> 00:06:30,091
+00:06:41,418 --> 00:06:47,403
 A credit officer at a Zurich private bank found, in
 his own institution's loan book, a
 
 84
-00:06:30,110 --> 00:06:36,165
+00:06:47,423 --> 00:06:53,477
 facility of four hundred and eleven million francs
 secured on a tower two streets away,
 
 85
-00:06:36,185 --> 00:06:42,170
+00:06:53,497 --> 00:06:59,482
 drawn in 2018, performing, never once in arrears.
 His signature was on the third page.
 
 86
-00:06:42,190 --> 00:06:48,106
+00:06:59,502 --> 00:07:05,418
 He could remember the negotiation. He could
 remember disliking the borrower's lawyer.
 
 87
-00:06:48,505 --> 00:06:50,096
+00:07:05,817 --> 00:07:07,408
 He could not find the file.
 
 88
-00:06:50,495 --> 00:06:56,085
+00:07:07,807 --> 00:07:13,397
 He spent eleven days on it. He went to the archive
 in person. He pulled the microfilm.
 
 89
-00:06:56,105 --> 00:07:01,759
+00:07:13,417 --> 00:07:19,071
 The microfilm had it. He pulled the committee
 minutes. The minutes had it. He asked the
 
 90
-00:07:01,779 --> 00:07:07,303
+00:07:19,091 --> 00:07:24,615
 two colleagues who had sat on that committee and
 both remembered the deal, and one of
 
 91
-00:07:07,323 --> 00:07:09,586
+00:07:24,635 --> 00:07:26,898
 them remembered arguing against it.
 
 92
-00:07:09,985 --> 00:07:15,472
+00:07:27,298 --> 00:07:32,784
 On the twelfth day he stopped, and the narrator
 would like to be very clear about why,
 
 93
-00:07:15,492 --> 00:07:18,225
+00:07:32,804 --> 00:07:35,538
 because it was not fear and it
 was not fog.
 
 94
-00:07:18,625 --> 00:07:24,203
+00:07:35,937 --> 00:07:41,515
 It was that the loan was *performing*. Every
 quarter, on the day, four million francs
 
 95
-00:07:24,223 --> 00:07:29,866
+00:07:41,535 --> 00:07:47,178
 of interest arrived from a company that was now the
 ninth largest in the world. He had
 
 96
-00:07:29,886 --> 00:07:35,661
+00:07:47,198 --> 00:07:52,973
 a file that was complete, a borrower that was
 immaculate, and a question that could only
 
 97
-00:07:35,681 --> 00:07:36,385
+00:07:52,993 --> 00:07:53,697
 damage him.
 
 98
-00:07:36,906 --> 00:07:41,690
+00:07:54,218 --> 00:07:59,002
 What am I supposed to write? That the building is
 real, the money is real, the signature
 
 99
-00:07:41,710 --> 00:07:45,076
+00:07:59,022 --> 00:08:02,388
 is mine, and I would like an
 investigation into my own memory?
 
 100
-00:07:45,475 --> 00:07:51,598
+00:08:02,788 --> 00:08:08,910
 He closed the folder. He was promoted in 2031, and
 he retired in 2044 to a house above
 
 101
-00:07:51,618 --> 00:07:57,812
+00:08:08,930 --> 00:08:15,124
 Lake Thun, and once, drunk, at a wedding, he told
 his son-in-law that he had once found
 
 102
-00:07:57,832 --> 00:08:04,026
+00:08:15,144 --> 00:08:21,338
 a tower that had never been built, and his
 son-in-law thought it was a joke about Swiss
 
 103
-00:08:04,046 --> 00:08:05,525
+00:08:21,358 --> 00:08:22,837
 banking, and laughed.
 
 104
-00:08:05,925 --> 00:08:12,746
+00:08:23,237 --> 00:08:30,058
 Marcus Reese was in this story once, in 2027, as a
 nineteen-year-old with a drone and
 
 105
-00:08:12,766 --> 00:08:17,735
+00:08:30,078 --> 00:08:35,048
 twenty-four hundred photographs of a
 riverfront in Wilmington.
 
 106
-00:08:18,136 --> 00:08:24,791
+00:08:35,447 --> 00:08:42,103
 He was twenty-one in 2029, and living in London, and
 on the Sunday morning after the towers
 
 107
-00:08:24,811 --> 00:08:31,099
+00:08:42,123 --> 00:08:48,411
 he opened a folder of his own photographs of the
 Thames skyline, and sat and looked at
 
 108
-00:08:31,119 --> 00:08:33,007
+00:08:48,431 --> 00:08:50,318
 them for about four hours.
 
 109
-00:08:33,527 --> 00:08:38,308
+00:08:50,837 --> 00:08:55,619
 I'd done this before. That's the thing. I'd been
 through it in Delaware two years earlier
 
 110
-00:08:38,328 --> 00:08:43,002
+00:08:55,639 --> 00:09:00,313
 and I'd talked myself out of it, and I'd promised
 myself that if it ever happened again
 
 111
-00:08:43,022 --> 00:08:44,836
+00:09:00,333 --> 00:09:02,147
 I would not talk myself out of it.
 
 112
-00:08:45,116 --> 00:08:50,178
+00:09:02,427 --> 00:09:07,489
 So I sat there with nine photographs and a tower in
 all of them, and I did not talk myself
 
 113
-00:08:50,198 --> 00:08:53,226
+00:09:07,509 --> 00:09:10,538
 out of it, and it was the worst four
 hours of my life.
 
 114
-00:08:53,626 --> 00:09:00,037
+00:09:10,937 --> 00:09:17,348
 What he did next is the reason he matters. He did not
 post. He did not go to a journalist,
 
 115
-00:09:00,057 --> 00:09:01,966
+00:09:17,368 --> 00:09:19,278
 or a forum, or a professor.
 
 116
-00:09:02,366 --> 00:09:07,880
+00:09:19,677 --> 00:09:25,191
 He started a file. He photographed the skyline on the
 same date every year, from the same
 
 117
-00:09:07,900 --> 00:09:13,600
+00:09:25,211 --> 00:09:30,911
 place, and wrote down the weather. He collected other
 people's — not screenshots; originals,
 
 118
-00:09:13,620 --> 00:09:19,196
+00:09:30,931 --> 00:09:36,507
 with cameras, with metadata, bought where he had to
 buy them. He built, over four decades,
 
 119
-00:09:19,216 --> 00:09:24,605
+00:09:36,527 --> 00:09:41,916
 the largest independent photographic archive of the
 built environment in the world, and
 
 120
-00:09:24,625 --> 00:09:27,216
+00:09:41,936 --> 00:09:44,528
 he never once published a theory about it.
 
 121
-00:09:27,616 --> 00:09:34,678
+00:09:44,927 --> 00:09:51,989
 When Albert Wesker published the catalogue in 2212,
 Marcus Reese had been dead for ninety-one
 
 122
-00:09:34,698 --> 00:09:41,151
+00:09:52,009 --> 00:09:58,462
 years, and his archive — nineteen million images,
 willed to a university that had not
 
 123
-00:09:41,171 --> 00:09:48,614
+00:09:58,482 --> 00:10:05,925
 wanted it and had accepted it out of embarrassment —
 became the single most valuable corroborating
 
 124
-00:09:48,634 --> 00:09:51,126
+00:10:05,945 --> 00:10:08,437
 source in the Assembly's inquiry.
 
 125
-00:09:51,527 --> 00:09:57,395
+00:10:08,837 --> 00:10:14,706
 Four hundred and eleven placements were confirmed
 from it, including nine that Umbrella's
 
 126
-00:09:57,415 --> 00:09:59,777
+00:10:14,726 --> 00:10:17,087
 own ledger had recorded incorrectly.
 
 127
-00:10:00,177 --> 00:10:05,694
+00:10:17,488 --> 00:10:23,005
 The narrator notes that there is a room named after
 him in the Assembly's archive, that
 
 128
-00:10:05,714 --> 00:10:11,359
+00:10:23,025 --> 00:10:28,670
 nobody in it ever met him, and that in his own
 lifetime he was best known to eight people
 
 129
-00:10:11,379 --> 00:10:14,986
+00:10:28,690 --> 00:10:32,298
 on a forum as a man who was slightly
 odd about buildings.
 
 130
-00:10:15,386 --> 00:10:18,676
+00:10:32,697 --> 00:10:35,987
 Three regulators opened files in
 the first month.
 
 131
-00:10:19,076 --> 00:10:25,438
+00:10:36,388 --> 00:10:42,749
 The Monetary Authority of Singapore queried the
 ownership chain of the Marina Boulevard
 
 132
-00:10:25,458 --> 00:10:31,746
+00:10:42,769 --> 00:10:49,057
 property and received, within nine days, a complete
 conveyancing history going back to
 
 133
-00:10:31,766 --> 00:10:35,707
+00:10:49,077 --> 00:10:53,018
 a reclamation grant in 2011, with
 tax paid every year.
 
 134
-00:10:36,106 --> 00:10:42,041
+00:10:53,418 --> 00:10:59,352
 A Tokyo ward office queried the seismic
 certification of a forty-one-storey building it
 
 135
-00:10:42,061 --> 00:10:47,996
+00:10:59,372 --> 00:11:05,307
 had no record of inspecting, and found its own
 inspection reports, with the inspector's
 
 136
-00:10:48,016 --> 00:10:54,087
+00:11:05,327 --> 00:11:11,398
 stamp, and the inspector — who was sixty-three and
 had inspected eight thousand buildings
 
 137
-00:10:54,107 --> 00:10:58,947
+00:11:11,418 --> 00:11:16,258
 — remembered the job because of an argument
 about the sprinkler risers.
 
 138
-00:10:59,346 --> 00:11:04,976
+00:11:16,658 --> 00:11:22,287
 The British planning authority did not query
 anything, because in Britain the tower had
 
 139
-00:11:04,996 --> 00:11:10,755
+00:11:22,307 --> 00:11:28,066
 won an award, and there is no institution on earth
 less inclined to doubt a building than
 
 140
-00:11:10,775 --> 00:11:12,638
+00:11:28,086 --> 00:11:29,949
 the one that gave it a prize.
 
 141
-00:11:13,788 --> 00:11:22,276
+00:11:31,100 --> 00:11:39,587
 Expansion. Umbrella Life Sciences, present in sixty-one
 countries. Headquarters in Wilmington,
 
 142
-00:11:22,296 --> 00:11:30,512
+00:11:39,607 --> 00:11:47,823
 London, Singapore, Zurich and Tokyo. Fourteen thousand
 nine hundred personnel, one thousand
 
 143
-00:11:30,532 --> 00:11:38,568
+00:11:47,843 --> 00:11:55,879
 two hundred and forty of them Absolute. Nine hundred
 thousand Points. Level thirty-eight.
 
 144
-00:11:39,787 --> 00:11:47,480
+00:11:57,099 --> 00:12:04,792
 Main mission. Tier three: Agency. Sovereign-level
 contracts in two nations. Operations
 
 145
-00:11:47,500 --> 00:11:55,194
+00:12:04,812 --> 00:12:12,506
 on a second continent: complete. One hundred
 thousand personnel. Reward: three million
 
 146
-00:11:55,214 --> 00:11:59,857
+00:12:12,526 --> 00:12:17,169
 Points, the Intelligence tab, and
 the Agency banner.
 
 147
-00:12:00,448 --> 00:12:05,883
+00:12:17,759 --> 00:12:23,194
 He went to London in February, to the forty-first
 floor of a building that had won an
 
 148
-00:12:05,903 --> 00:12:11,338
+00:12:23,214 --> 00:12:28,649
 award in a year it did not exist, and stood at the
 window over the river in the dark.
 
 149
-00:12:11,738 --> 00:12:13,868
+00:12:29,048 --> 00:12:31,178
 The voice inside him, unasked.
 
 150
-00:12:14,388 --> 00:12:15,088
+00:12:31,698 --> 00:12:32,572
 Say it.
 
 151
-00:12:15,488 --> 00:12:16,083
+00:12:32,972 --> 00:12:33,982
 Say what?
 
 152
-00:12:16,482 --> 00:12:22,081
+00:12:34,383 --> 00:12:41,239
 You have been standing there for twenty-three
 minutes. You are not admiring the view;
 
 153
-00:12:22,101 --> 00:12:25,916
+00:12:41,259 --> 00:12:45,931
 you have no interest in views. You are
 counting something.
 
 154
-00:12:26,316 --> 00:12:28,725
+00:12:46,331 --> 00:12:48,740
 Wesker did not turn around.
 
 155
-00:12:29,245 --> 00:12:33,879
+00:12:49,260 --> 00:12:55,729
 Nine million people per tower. Thirty-six million
 people have been quietly edited this
 
 156
-00:12:33,899 --> 00:12:38,533
+00:12:55,749 --> 00:13:02,218
 month so that four buildings could stand in four
 cities, and not one of them will ever
 
 157
-00:12:38,553 --> 00:12:43,187
+00:13:02,238 --> 00:13:08,706
 know, and the only measurable effect is that they
 will be very slightly less likely to
 
 158
-00:12:43,207 --> 00:12:45,514
+00:13:08,726 --> 00:13:11,950
 ask a question for the rest of
 their lives.
 
 159
-00:12:45,914 --> 00:12:47,620
+00:13:12,350 --> 00:13:14,413
 And this troubles you.
 
 160
-00:12:48,020 --> 00:12:52,905
+00:13:14,813 --> 00:13:21,944
 It *interests* me. I have spent two lifetimes making
 people believe things. It required
 
 161
-00:12:52,925 --> 00:12:57,753
+00:13:21,964 --> 00:13:29,011
 money, and pressure, and in the last case a great
 deal of blood, and it never held for
 
 162
-00:12:57,773 --> 00:13:03,108
+00:13:29,031 --> 00:13:36,819
 more than a few years, because a lie has to be
 maintained. This does not have to be maintained.
 
 163
-00:13:03,128 --> 00:13:06,322
+00:13:36,839 --> 00:13:41,503
 It is simply *true* now. The tower
 has always been there.
 
 164
-00:13:06,721 --> 00:13:08,764
+00:13:41,903 --> 00:13:44,377
 Then what is the difficulty?
 
 165
-00:13:09,164 --> 00:13:15,730
+00:13:44,777 --> 00:13:51,342
 And here Albert Wesker turned around, and said the
 sentence that is the single best description
 
 166
-00:13:15,750 --> 00:13:21,969
+00:13:51,362 --> 00:13:57,581
 of him in this entire account, and that explains
 everything he does for the next sixty-two
 
 167
-00:13:21,989 --> 00:13:22,384
+00:13:57,601 --> 00:13:57,997
 years.
 
 168
-00:13:22,904 --> 00:13:27,595
+00:13:58,517 --> 00:14:05,123
 The difficulty is that I did not do it. *It* did it.
 I spent three million six hundred
 
 169
-00:13:27,615 --> 00:13:32,415
+00:14:05,143 --> 00:14:11,904
 thousand Points and a machine I do not understand
 reached into thirty-six million skulls
 
 170
-00:13:32,435 --> 00:13:37,235
+00:14:11,924 --> 00:14:18,684
 on my behalf, and I have no idea what the exchange
 rate is, or who is paying it, or what
 
 171
-00:13:37,255 --> 00:13:40,358
+00:14:18,704 --> 00:14:23,076
 happens to a species that has been
 folded too many times.
 
 172
-00:13:40,967 --> 00:13:44,674
+00:14:23,687 --> 00:14:29,617
 I am not troubled by the cost. I am troubled
 by not knowing what it is.
 
 173
-00:13:45,073 --> 00:13:46,850
+00:14:30,017 --> 00:14:32,098
 Then stop spending.
 
 174
-00:13:47,250 --> 00:13:48,346
+00:14:32,498 --> 00:14:34,188
 Don't be absurd.
 
 175
-00:13:48,745 --> 00:13:53,981
+00:14:34,587 --> 00:14:39,823
 He turned back to the window, and the narrator would
 like to point out that thirty-six
 
 176
-00:13:54,001 --> 00:13:59,360
+00:14:39,843 --> 00:14:45,202
 million was the largest edit the System had yet made
 on his behalf, and that within four
 
 177
-00:13:59,380 --> 00:14:04,615
+00:14:45,222 --> 00:14:50,457
 years the number would be a billion, and that he
 never did find out the exchange rate.
 
 178
-00:14:05,015 --> 00:14:07,206
+00:14:50,857 --> 00:14:53,048
 He simply got better at not asking.

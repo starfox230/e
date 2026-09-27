@@ -1,736 +1,735 @@
 1
-00:00:07,799 --> 00:00:12,678
-While the Directorate learned to govern a planet,
-its Director was looking in the other
+00:00:07,799 --> 00:00:13,804
+The Veth Hegemony is older than the oceans of Earth.
+It has four hundred thousand worlds,
 
 2
-00:00:12,698 --> 00:00:13,242
-direction.
+00:00:13,824 --> 00:00:19,558
+a caste structure that has not changed in nine
+hundred thousand years, and a founding
 
 3
-00:00:13,811 --> 00:00:19,100
-The BEYOND tab had four items in it on the first
-night. He could afford none of them.
+00:00:19,578 --> 00:00:25,110
+doctrine that the human record translates,
+imperfectly, as *the settled question.*
 
 4
-00:00:19,670 --> 00:00:25,489
-Eighty-four billion Points had bought a world. The
-cheapest thing behind the seventh tab
+00:00:25,510 --> 00:00:31,349
+The settled question is this: every species that
+reaches the void either submits to an
 
 5
-00:00:25,509 --> 00:00:27,213
-cost nine hundred billion.
+00:00:31,369 --> 00:00:37,482
+order or imposes one, and the Veth reached the void
+first, and therefore the order exists,
 
 6
-00:00:27,783 --> 00:00:33,381
-That was, he understood immediately, the answer to a
-question he had been carrying for
+00:00:37,502 --> 00:00:43,546
+and therefore submission is not a defeat but an
+administrative formality that has already
 
 7
-00:00:33,401 --> 00:00:39,129
-twenty-one years — why the System had ever bothered
-with a dying laboratory in Delaware.
+00:00:43,566 --> 00:00:46,817
+taken place and merely needs to
+be acknowledged.
 
 8
-00:00:39,149 --> 00:00:43,832
-It had not been building a businessman. It
-had been raising the capital.
+00:00:47,216 --> 00:00:53,049
+They have annexed eleven hundred species. They have
+fought four wars in ninety thousand
 
 9
-00:00:46,652 --> 00:00:47,768
-Beyond.
+00:00:53,069 --> 00:00:54,798
+years. The wars are short.
 
 10
-00:00:56,987 --> 00:01:02,815
-And beneath them, greyed out, without prices, eleven
-more lines that he could not read
+00:00:55,198 --> 00:01:02,523
+They arrived at Ochoa — a human colony of nine
+hundred thousand people, forty-three years
 
 11
-00:01:02,835 --> 00:01:03,291
-at all.
+00:01:02,543 --> 00:01:09,786
+old, with a dock, two ships and a hydroponic economy
+— on the fourth of April 2141, with
 
 12
-00:01:05,861 --> 00:01:11,829
-What followed was the largest industrial mobilisation
-in the history of the species, and
+00:01:09,806 --> 00:01:13,088
+thirteen vessels, and they did not fire.
 
 13
-00:01:11,849 --> 00:01:13,734
-it was not done with Points.
+00:01:13,608 --> 00:01:20,876
+You are informed. The system is within the settled
+order. Your administration continues.
 
 14
-00:01:14,305 --> 00:01:20,675
-He had, in twenty forty-seven, four hundred and
-eighty thousand employees, a hundred and
+00:01:20,896 --> 00:01:28,496
+Your production is assessed at one part in nine. Your
+vessels will be registered. A garrison
 
 15
-00:01:20,695 --> 00:01:27,136
-ninety million people in territories of association,
-the executing authority of a hundred
+00:01:28,516 --> 00:01:31,229
+will arrive in four hundred days.
 
 16
-00:01:27,156 --> 00:01:33,526
-and forty-one governments, and the accumulated
-manufacturing capacity of four of the six
+00:01:31,631 --> 00:01:37,556
+The colony's administrator — a woman of sixty-one
+named Theresa Okonkwo-Vance, who had
 
 17
-00:01:33,546 --> 00:01:39,842
-largest industrial groups on Earth. He also had,
-from the moment the Accord was signed,
+00:01:37,576 --> 00:01:43,571
+been elected eight months earlier on a platform
+about water rights — asked the question
 
 18
-00:01:39,862 --> 00:01:46,231
-the thing that no private enterprise had ever had
-before: the ability to decide what the
+00:01:43,591 --> 00:01:49,240
+that every annexed species has asked and that the
+Veth have a standard answer for.
 
 19
-00:01:46,251 --> 00:01:51,895
-human race would build next, and to make that
-decision stick for thirty years.
+00:01:49,760 --> 00:01:51,370
+And if we decline?
 
 20
-00:01:52,463 --> 00:01:54,115
-He decided on space.
+00:01:51,771 --> 00:01:58,853
+Then the system is within the settled order, your
+administration does not continue, and
 
 21
-00:01:54,685 --> 00:02:00,812
-The public reason was true, and good, and had been
-worked out by Tomás's department over
+00:01:58,873 --> 00:02:02,119
+a garrison arrives in four hundred days.
 
 22
-00:02:00,832 --> 00:02:07,029
-four months so that every word of it would survive a
-century of quotation: that a species
+00:02:02,519 --> 00:02:08,603
+She transmitted the exchange to Earth and to every
+human world, in the clear, unencrypted,
 
 23
-00:02:07,049 --> 00:02:13,456
-with one planet is a species with one point of failure,
-and that the Accord's entire purpose
+00:02:08,623 --> 00:02:14,369
+within the hour, which was not in any protocol and
+which is the reason the next fifty
 
 24
-00:02:13,476 --> 00:02:16,040
-was the removal of points of failure.
+00:02:14,389 --> 00:02:16,269
+years went the way they did.
 
 25
-00:02:16,610 --> 00:02:21,873
-The private reason was that he had seen eleven
-greyed-out lines that he could not read.
+00:02:16,669 --> 00:02:22,573
+Nine hundred and eleven human settlements received
+it inside four months. By the time
 
 26
-00:02:23,944 --> 00:02:29,954
-The Directorate built launch capacity the way the
-nineteen-forties had built ships. Not
+00:02:22,593 --> 00:02:28,986
+it reached Earth the argument had already been running
+for a third of a year on four hundred
 
 27
-00:02:29,974 --> 00:02:36,053
-one vehicle at a time — an assembly line, in the
-Atacama, and another in Queensland, and
+00:02:29,006 --> 00:02:32,959
+worlds, in public, and Albert Wesker
+had not said a word.
 
 28
-00:02:36,073 --> 00:02:41,944
-a third at Kourou, turning out a reusable
-heavy-lift stage every nine days. By twenty
+00:02:33,359 --> 00:02:39,803
+The narrator wants to describe the body that decided
+this, because it did not exist in
 
 29
-00:02:41,964 --> 00:02:48,043
-fifty-one, Umbrella was putting more mass into orbit
-every month than the human race had
+00:02:39,823 --> 00:02:46,342
+2091 and because building it is the only thing
+Albert Wesker ever did that he could not
 
 30
-00:02:48,063 --> 00:02:50,676
-put up in its entire previous history.
+00:02:46,362 --> 00:02:47,168
+do quickly.
 
 31
-00:02:52,746 --> 00:02:59,386
-Dock One was assembled between twenty fifty-one and
-twenty fifty-six, in a four-hundred-kilometre
+00:02:47,568 --> 00:02:53,666
+The Human Assembly had four hundred and eleven seats,
+elected from the worlds by population,
 
 32
-00:02:59,406 --> 00:03:05,428
-orbit, from four hundred thousand tonnes of material
-that had been lifted from Earth and
+00:02:53,686 --> 00:02:59,650
+meeting on Earth and by relay. It had existed for
+nineteen years. It controlled the shared
 
 33
-00:03:05,448 --> 00:03:08,106
-thirty-one million tonnes that had not.
+00:02:59,670 --> 00:03:05,369
+defence budget, the Compact treaties, the drive
+registry and the Progenitor protocols,
 
 34
-00:03:08,676 --> 00:03:14,336
-The second number is the one that mattered, and it
-is the reason the Belt came before
+00:03:05,389 --> 00:03:11,420
+and it had no executive at all: the Directorate
+implemented what it voted, and the Hangzhou
 
 35
-00:03:14,356 --> 00:03:19,013
-the Moon. Umbrella did not go to space to
-plant flags. It went to eat.
+00:03:11,440 --> 00:03:14,478
+tribunal ruled on whether the
+Directorate had.
 
 36
-00:03:21,584 --> 00:03:27,021
-There is a thing about the space programme that the
-Directorate's own historians tend
+00:03:14,878 --> 00:03:16,215
+Umbrella held no seats. Albert Wesker had a chair on
+the floor, not on the benches, with
 
 37
-00:03:27,041 --> 00:03:32,734
-to bury in an annex, and it deserves better, because
-it is the closest Albert Wesker ever
+00:03:16,235 --> 00:03:17,695
+the status of a witness who may be called and may not
+vote, and he had proposed that arrangement
 
 38
-00:03:32,754 --> 00:03:37,549
-came to doing something for a reason he could
-not justify on a spreadsheet.
+00:03:17,715 --> 00:03:19,021
+himself in 2119 and the Assembly had spent four
+years arguing about whether it was too
 
 39
-00:03:38,120 --> 00:03:39,927
-He made it public. All of it.
+00:03:19,041 --> 00:03:19,807
+generous or an insult before
+adopting it unchanged.
 
 40
-00:03:40,497 --> 00:03:46,068
-Every launch was broadcast. Every failure was
-broadcast — and in the first four years
+00:03:20,207 --> 00:03:26,268
+On the nineteenth of September 2141 the
+Assembly called him.
 
 41
-00:03:46,088 --> 00:03:51,791
-there were nine, and four of them killed people, and
-every single one was carried live,
+00:03:26,788 --> 00:03:34,081
+Director, the Assembly has four proposals before it.
+Submit. Refuse and negotiate. Refuse
 
 42
-00:03:51,811 --> 00:03:57,448
-with the names released within the day, over the
-objections of four separate bodies of
+00:03:34,101 --> 00:03:36,218
+and fight. Evacuate Ochoa.
 
 43
-00:03:57,468 --> 00:04:03,236
-the Directorate who pointed out, correctly, that no
-state space programme in history had
+00:03:36,497 --> 00:03:42,526
+You are the only person alive who has fought
+anything. You are also, by your own repeated
 
 44
-00:04:03,256 --> 00:04:04,222
-ever done this.
+00:03:42,546 --> 00:03:48,370
+statement, not entitled to decide this. So I am
+going to ask you the only question the
 
 45
-00:04:04,793 --> 00:04:10,553
-The first was the Coronado in twenty fifty-two,
-which broke up at forty kilometres with
+00:03:48,390 --> 00:03:51,768
+Assembly can properly ask a
+witness. What is true?
 
 46
-00:04:10,573 --> 00:04:16,334
-four crew aboard. The broadcast did not cut away.
-The Directorate's public feed carried
+00:03:52,717 --> 00:03:53,967
+Four things.
 
 47
-00:04:16,354 --> 00:04:21,982
-the telemetry, and the silence in the control room,
-and then, nine minutes later, the
+00:03:54,247 --> 00:04:01,490
+One. If we fight them with what we have, we lose. Not
+narrowly. I have had the Red Queen
 
 48
-00:04:22,002 --> 00:04:27,630
-flight director — a woman of thirty-four named
-Priya Ramanathan, who had not slept in
+00:04:01,510 --> 00:04:08,671
+on it since April and the model does not have an
+outcome in which a human fleet engages
 
 49
-00:04:27,650 --> 00:04:33,277
-two days — reading the four names into an open
-microphone because nobody had told her
+00:04:08,691 --> 00:04:15,686
+a Veth battle group and anything human survives the
+engagement. Anyone who tells this
 
 50
-00:04:33,297 --> 00:04:33,742
-not to.
+00:04:15,706 --> 00:04:19,318
+Assembly otherwise is selling
+you something.
 
 51
-00:04:34,312 --> 00:04:40,420
-Four billion people watched it. It is the single
-most-viewed piece of Directorate footage
+00:04:19,598 --> 00:04:27,208
+Two. If we submit, we survive, and the terms are
+genuinely one part in nine, and the Veth
 
 52
-00:04:40,440 --> 00:04:43,380
-that does not involve the
-Director himself.
+00:04:27,228 --> 00:04:34,753
+have honoured that assessment for ninety thousand
+years, and eleven hundred species live
 
 53
-00:04:45,451 --> 00:04:51,379
-He was asked about it once, years later, by an
-engineer who had been in that control room,
+00:04:34,773 --> 00:04:42,383
+under it and most of them are not unhappy. I want
+that on the record honestly. Submission
 
 54
-00:04:51,399 --> 00:04:53,560
-and who had the nerve to ask why.
+00:04:42,403 --> 00:04:47,528
+is not extinction. It is a tax and a
+garrison and a ceiling.
 
 55
-00:04:54,250 --> 00:04:59,206
-Because in four hundred years there will be nine
-billion human beings living off this
+00:04:47,807 --> 00:04:55,341
+(very cold) Three. The ceiling is the point. Under
+the settled order no species may hold
 
 56
-00:04:59,226 --> 00:05:04,534
-planet, and every one of them will be there because
-somebody's grandmother watched a rocket
+00:04:55,361 --> 00:05:02,895
+a drive it did not receive from the Hegemony, may not
+exceed an assessed production, and
 
 57
-00:05:04,554 --> 00:05:09,686
-fall apart on a screen in twenty fifty-two and put
-her hand over her mouth and then, the
+00:05:02,915 --> 00:05:10,621
+may not — this is the clause that matters — alter its
+own biology without licence. Aeterna
 
 58
-00:05:09,706 --> 00:05:12,555
-following week, applied for the
-programme anyway.
+00:05:10,641 --> 00:05:18,347
+is unlicensed. The Progenitor lineage is unlicensed.
+There are four hundred thousand human
 
 59
-00:05:13,954 --> 00:05:19,342
-You cannot build that with a press release. You can
-only build it by letting them watch
+00:05:18,367 --> 00:05:25,729
+beings alive today who would be, under Veth law, a
+category the translation renders as
 
 60
-00:05:19,362 --> 00:05:22,822
-the real thing, including the parts
-that are unbearable.
+00:05:25,749 --> 00:05:27,617
+*unpermitted persons*.
 
 61
-00:05:24,843 --> 00:05:30,585
-The engineer, who had spent nineteen years assuming
-the policy was a calculation, said
+00:05:28,458 --> 00:05:29,862
+And the fourth thing?
 
 62
-00:05:30,605 --> 00:05:34,605
-that he had always wondered whether it
-was for the families.
+00:05:30,262 --> 00:05:36,434
+(very soft) The fourth thing is that they have made a
+mistake, and I do not think anybody
 
 63
-00:05:35,175 --> 00:05:40,919
-The Director looked at him for a moment and said: it
-was a calculation. And then he walked
+00:05:36,454 --> 00:05:41,932
+in this chamber has seen it yet, and I have been
+looking at it for five months.
 
 64
-00:05:40,939 --> 00:05:46,492
-away, which the engineer recorded in his memoirs,
-and which he said, forty years later,
+00:05:42,331 --> 00:05:48,823
+The narrator asks you to notice that Albert Wesker,
+at this point, had been alive in this
 
 65
-00:05:46,512 --> 00:05:48,798
-he had never been able to interpret.
+00:05:48,843 --> 00:05:55,262
+world for one hundred and fifteen years, and had not
+personally won anything since 2077.
 
 66
-00:05:51,867 --> 00:05:58,541
-The first asteroid Umbrella captured was called 1993
-UB, and it was six hundred metres
+00:05:55,781 --> 00:06:02,483
+The Veth have annexed eleven hundred species. In every
+case they have approached a species'
 
 67
-00:05:58,561 --> 00:06:05,156
-across, and it contained more nickel and iron than
-the human race had mined since the
+00:06:02,503 --> 00:06:08,835
+*authority* — a throne, a council, a hierarch — and
+informed it, and the authority has
 
 68
-00:06:05,176 --> 00:06:06,013
-Bronze Age.
+00:06:08,855 --> 00:06:13,932
+either acknowledged or been removed and
+replaced with one that would.
 
 69
-00:06:06,583 --> 00:06:12,353
-By twenty fifty-nine there were four hundred and
-eleven Umbrella vessels working the Belt,
+00:06:14,211 --> 00:06:20,665
+Their protocol has no procedure for a species that
+cannot be informed, because it does
 
 70
-00:06:12,373 --> 00:06:17,950
-and the price of structural metal on Earth had
-fallen by ninety-one percent, and eleven
+00:06:20,685 --> 00:06:23,902
+not have a single point that
+speaks for it.
 
 71
-00:06:17,970 --> 00:06:23,933
-national economies that had depended on mining had been
-absorbed into association agreements,
+00:06:24,182 --> 00:06:31,066
+(very cold) There are four hundred and eleven worlds,
+eighteen billion people, nine hundred
 
 72
-00:06:23,953 --> 00:06:29,659
-which was not an accident, and which Catherine
-Adeyemi had modelled in twenty forty-eight
+00:06:31,086 --> 00:06:37,742
+settlements, four legal systems and this Assembly,
+which cannot bind a colony that votes
 
 73
-00:06:29,679 --> 00:06:34,098
-and put in a memo that was read and
-answered courteously and in full.
+00:06:37,762 --> 00:06:44,267
+against it. If every one of those bodies answers the
+Veth separately, at its own pace,
 
 74
-00:06:36,168 --> 00:06:42,105
-Mars was settled in twenty sixty-one, because by then
-it was cheap, and because a hundred
+00:06:44,287 --> 00:06:51,171
+in its own words, with different answers, the Hegemony
+is confronted with an administrative
 
 75
-00:06:42,125 --> 00:06:47,862
-and ninety million people in the territories of
-association had been told for a decade
+00:06:51,191 --> 00:06:55,571
+condition it has not encountered in
+ninety thousand years.
 
 76
-00:06:47,882 --> 00:06:53,551
-that they were building a future off-world, and the
-Directorate required that this be
+00:06:55,971 --> 00:07:00,661
+You are proposing that we defeat an
+interstellar empire with *paperwork*.
 
 77
-00:06:53,571 --> 00:06:53,886
-true.
+00:07:01,391 --> 00:07:08,168
+Senator, I built a company that owned half this
+planet's infrastructure and no government
 
 78
-00:06:54,456 --> 00:07:00,632
-Nineteen thousand people went in the first wave.
-Four hundred thousand had volunteered.
+00:07:08,188 --> 00:07:12,521
+ever laid a finger on it, and I did
+it with nothing else.
 
 79
-00:07:00,652 --> 00:07:06,687
-The selection criteria were published in full, and
-were scrupulously fair, and one of
+00:07:12,922 --> 00:07:18,373
+The narrator will give you one of the four hundred
+separate answers, because the campaign
 
 80
-00:07:06,707 --> 00:07:12,884
-the eleven criteria was loyalty, and it was listed
-fourth, and nobody objected, because
+00:07:18,393 --> 00:07:22,492
+is usually described from the Assembly and
+it did not happen there.
 
 81
-00:07:12,904 --> 00:07:16,303
-by twenty sixty-one nobody
-objected to anything.
+00:07:22,891 --> 00:07:30,079
+Ochoa acknowledged the settled order in 2142,
+unanimously, and Theresa Okonkwo-Vance —
 
 82
-00:07:18,872 --> 00:07:24,701
-Evelyn Marsh moved her laboratory to orbit in twenty
-fifty-eight. She was sixty-two years
+00:07:30,099 --> 00:07:38,544
+who had transmitted the Veth's demand in the clear and
+started all of it — voted for acknowledgement,
 
 83
-00:07:24,721 --> 00:07:27,002
-old and looked perhaps thirty-five.
+00:07:38,564 --> 00:07:43,992
+which nine hundred thousand people found
+difficult to understand.
 
 84
-00:07:27,572 --> 00:07:33,216
-The Progenitor Initiative had eleven hundred staff
-by then, and the great majority of
+00:07:44,512 --> 00:07:48,950
+I'll say it plainly because the recording goes out
+at six. We are acknowledging. We are
 
 85
-00:07:33,236 --> 00:07:39,414
-them had never been human in the way that word is
-usually meant. Its work had three branches.
+00:07:48,970 --> 00:07:52,742
+not submitting; there is a difference and it
+is the whole of our position.
 
 86
-00:07:39,434 --> 00:07:45,412
-The first was the quiet ones, and there were now four
-hundred of them, in positions across
+00:07:53,021 --> 00:07:57,469
+Their protocol requires us to acknowledge that the
+system is within the settled order.
 
 87
-00:07:45,432 --> 00:07:49,545
-the Directorate, and none of them had
-ever disobeyed anything.
+00:07:57,489 --> 00:08:01,937
+We do acknowledge that. It is a statement about
+where their maps say we are. It is not
 
 88
-00:07:50,115 --> 00:07:55,863
-The second was the Tyrant line, which had moved on
-considerably from a grey giant in a
+00:08:01,957 --> 00:08:06,405
+a statement about who we take instruction from, and
+I have read all four hundred pages
 
 89
-00:07:55,883 --> 00:08:01,699
-cradle. There were nine variants by twenty
-fifty-eight. Four of them were not humanoid.
+00:08:06,425 --> 00:08:09,573
+of their annexation law twice and it
+does not say that it is.
 
 90
-00:08:02,269 --> 00:08:07,887
-The third branch had no name in any document, and
-its purpose was to answer a question
+00:08:09,853 --> 00:08:14,525
+(very slow) And then we are going to file four hundred
+and eleven procedural queries about
 
 91
-00:08:07,907 --> 00:08:13,655
-that Evelyn Marsh had first asked in twenty
-twenty-eight, standing in front of a frosted
+00:08:14,545 --> 00:08:18,955
+the assessment, which their own law requires them
+to answer individually, in writing,
 
 92
-00:08:13,675 --> 00:08:19,358
-window with her palm flat against the glass: what
-happens to a human being who is given
+00:08:18,975 --> 00:08:20,624
+before a garrison may be seated.
 
 93
-00:08:19,378 --> 00:08:21,194
-all of it, and does not die?
+00:08:21,024 --> 00:08:22,795
+How long does that take them?
 
 94
-00:08:23,764 --> 00:08:29,763
-She was the third branch. She had been for nineteen
-years. She reported it to him every
+00:08:23,196 --> 00:08:28,497
+Their fastest recorded response to a single query is
+nine days. We have four hundred and
 
 95
-00:08:29,783 --> 00:08:35,782
-time, in memos of four lines, exactly as she had
-promised in a white corridor in twenty
+00:08:28,517 --> 00:08:32,066
+eleven. And every colony that files
+behind us adds its own.
 
 96
-00:08:35,802 --> 00:08:36,544
-thirty-six.
+00:08:32,905 --> 00:08:36,073
+That's not a defence. That's
+*filibustering an empire*.
 
 97
-00:08:37,114 --> 00:08:40,361
-He read every one. He never once
-told her to stop.
+00:08:36,474 --> 00:08:41,167
+(very slow) Yes. We have nine hundred thousand people,
+two ships and a hydroponic economy,
 
 98
-00:08:42,931 --> 00:08:49,148
-He bought the hull pattern in twenty sixty-six. Four
-trillion Points, accumulated over
+00:08:41,187 --> 00:08:45,723
+and the only weapon that has ever been available to
+anybody in our position is that the
 
 99
-00:08:49,168 --> 00:08:52,630
-nineteen years from the
-dependency of a species.
+00:08:45,743 --> 00:08:49,284
+people who came to take our system have
+rules and we have read them.
 
 100
-00:08:53,200 --> 00:08:59,159
-The first void-cutter was two point eight
-kilometres long, and it was not shaped like
+00:08:49,683 --> 00:08:55,583
+The Veth answered twenty-four of the four hundred and
+eleven queries. The twelfth required
 
 101
-00:08:59,179 --> 00:09:05,138
-anything human beings had built before. Every ship
-the species had ever made had been
+00:08:55,603 --> 00:09:01,633
+them to state the basis of the assessment in a form
+that Ochoa's council was able to appeal,
 
 102
-00:09:05,158 --> 00:09:11,187
-an argument with physics that ended in a compromise:
-fuel here, crew there, radiators,
+00:09:01,653 --> 00:09:07,421
+and the appeal required a hearing, and there had not
+been a hearing in the settled order
 
 103
-00:09:11,207 --> 00:09:17,307
-symmetry. The pattern from the seventh tab did not
-compromise. It was a long dark wedge
+00:09:07,441 --> 00:09:08,933
+in nine thousand years.
 
 104
-00:09:17,327 --> 00:09:23,286
-with no windows and no markings and no visible
-drive, and the engineers who assembled
+00:09:09,333 --> 00:09:14,423
+The narrator notes that Theresa Okonkwo-Vance
+had been a fisheries lawyer.
 
 105
-00:09:23,306 --> 00:09:29,336
-it — the human ones — found that they could follow
-the instructions perfectly well and
+00:09:14,823 --> 00:09:20,612
+It took seven years and it is the most-studied
+campaign in human history, and not one
 
 106
-00:09:29,356 --> 00:09:32,923
-could not, afterwards, explain
-what most of it did.
+00:09:20,632 --> 00:09:22,183
+human being died in it.
 
 107
-00:09:33,494 --> 00:09:35,147
-It was called the Wilmington.
+00:09:22,583 --> 00:09:29,694
+Ochoa acknowledged the settled order in 2142,
+unanimously, and then filed four hundred
 
 108
-00:09:35,716 --> 00:09:41,863
-Tomás's department had prepared a list of four hundred
-names, drawn from a public competition
+00:09:29,714 --> 00:09:36,906
+and eleven procedural queries about the assessment,
+which the Veth protocol requires be
 
 109
-00:09:41,883 --> 00:09:47,632
-that eleven million people had entered. The Director
-read the list, and did not use it,
+00:09:36,926 --> 00:09:41,384
+answered individually before a
+garrison may be seated.
 
 110
-00:09:47,652 --> 00:09:53,467
-and named the first ship of the human race's first
-fleet after an industrial park on the
+00:09:41,783 --> 00:09:47,558
+The Free Territory refused outright and invited a
+garrison, which arrived and found a
 
 111
-00:09:53,487 --> 00:09:59,568
-south bank of a river in Delaware where six people had
-once been unable to make the payroll.
+00:09:47,578 --> 00:09:53,353
+platform city of four hundred thousand that had
+voted, nine days earlier, to dissolve
 
 112
-00:10:00,138 --> 00:10:06,143
-Nobody understood. It became, over the following
-century, the most sacred word in the
+00:09:53,373 --> 00:09:59,148
+its own administration, so that there was nothing
+for the garrison to be seated over.
 
 113
-00:10:06,163 --> 00:10:06,781
-language.
+00:09:59,168 --> 00:10:01,193
+It sat there for eleven years.
 
 114
-00:10:09,351 --> 00:10:15,213
-The signal arrived on the eleventh of March, twenty
-seventy-one, at four in the morning,
+00:10:01,594 --> 00:10:07,690
+Sixty-one colonies acknowledged. Forty refused.
+Nineteen acknowledged and then seceded
 
 115
-00:10:15,233 --> 00:10:16,884
-and it was not a message.
+00:10:07,710 --> 00:10:13,806
+from the Assembly, which under Veth law made their
+acknowledgement void and required a
 
 116
-00:10:17,453 --> 00:10:23,330
-That was the first thing the Directorate's
-astronomers established, and it took them nine
+00:10:13,826 --> 00:10:14,873
+fresh approach.
 
 117
-00:10:23,350 --> 00:10:29,028
-days, and it was the only thing about it that was
-ever comforting. It had no structure
+00:10:15,272 --> 00:10:22,353
+The Compact — which has no military and has never held
+territory and which had spent thirty-eight
 
 118
-00:10:29,048 --> 00:10:33,798
-of the kind a message has. It did not repeat.
-It was not aimed at Earth.
+00:10:22,373 --> 00:10:28,942
+years watching humanity with an interest that its own
+historians called *unseemly* — filed
 
 119
-00:10:34,369 --> 00:10:40,570
-It was a carrier — a continuous, extremely narrow,
-extraordinarily powerful transmission
+00:10:28,962 --> 00:10:35,458
+nine hundred trade objections, every one of them
+valid under a treaty the Veth had signed
 
 120
-00:10:40,590 --> 00:10:46,579
-at a frequency nobody had ever bothered to watch,
-passing through the solar system on
+00:10:35,478 --> 00:10:37,142
+in the human year 1611.
 
 121
-00:10:46,599 --> 00:10:52,587
-its way somewhere else, the way a searchlight
-passes across a field without stopping.
+00:10:37,542 --> 00:10:43,566
+And the Veth admiral, whose name renders as
+Sethra-Ka and who had annexed forty species
 
 122
-00:10:53,158 --> 00:10:58,839
-They traced its origin in four months. It came from
-a direction thirty-one degrees off
+00:10:43,586 --> 00:10:48,081
+in her career without ever raising her
+voice, requested a summit.
 
 123
-00:10:58,859 --> 00:11:04,541
-the plane of the ecliptic, and from very far away,
-and from something that was moving.
+00:10:48,601 --> 00:10:50,860
+You are the cause of this.
 
 124
-00:11:05,111 --> 00:11:10,877
-And in the ninth month, having listened to it
-continuously, the Farside Array established
+00:10:51,261 --> 00:10:58,602
+No. I proposed it. Eighteen billion people decided to
+do it, in about four hundred separate
 
 125
-00:11:10,897 --> 00:11:13,998
-the thing that ended the human
-race's childhood.
+00:10:58,622 --> 00:11:05,640
+votes, over seven years, and about a third of them
+did it wrong and two colonies did it
 
 126
-00:11:14,567 --> 00:11:20,811
-The carrier was modulated. Not with information —
-with load. It flickered, very slightly,
+00:11:05,660 --> 00:11:08,552
+in a way I strongly advised against.
 
 127
-00:11:20,831 --> 00:11:26,934
-in a pattern that the array's engineers recognised
-immediately because they had seen it
+00:11:08,951 --> 00:11:11,091
+You are the authority.
 
 128
-00:11:26,954 --> 00:11:29,609
-a thousand times in their own systems.
+00:11:11,491 --> 00:11:17,842
+(very cold) Admiral, that is the assumption your
+entire order rests on, and it is the
 
 129
-00:11:30,178 --> 00:11:36,670
-It was the signature of something drawing power. Enormous
-amounts of it, in bursts, irregularly.
+00:11:17,862 --> 00:11:24,213
+only thing you have got wrong. I have been trying
+to stop being the authority since I
 
 130
-00:11:37,240 --> 00:11:41,116
-Whatever was out there was not
-broadcasting. It was working.
+00:11:24,233 --> 00:11:30,809
+was a hundred and eleven years old. It has taken me
+seventy years and it is not finished
 
 131
-00:11:44,686 --> 00:11:50,869
-He read the report alone, in an observation deck on
-Dock One, with the Earth going past
+00:11:30,829 --> 00:11:34,182
+and it is the hardest thing I
+have ever done.
 
 132
-00:11:50,889 --> 00:11:51,654
-underneath.
+00:11:35,131 --> 00:11:36,118
+Why.
 
 133
-00:11:52,224 --> 00:11:58,458
-He was eighty years old and looked thirty-five. He had
-ruled the human species for twenty-four
+00:11:36,519 --> 00:11:42,891
+The narrator records that the question was one word,
+that the translation software rendered
 
 134
-00:11:58,478 --> 00:12:04,113
-years, and had, in that time, done a very great
-deal of good, which the narrator will
+00:11:42,911 --> 00:11:48,509
+it without punctuation, and that Albert Wesker
+took a long time over the answer.
 
 135
-00:12:04,133 --> 00:12:08,038
-not take away from him, and which does
-not cancel anything.
+00:11:49,029 --> 00:11:56,127
+Because I was given a catalogue and no oversight when
+I was young, in another world, and
 
 136
-00:12:08,609 --> 00:12:14,135
-And he stood at the window and looked out at a sky
-that had, four hours earlier, stopped
+00:11:56,147 --> 00:12:03,002
+I built something magnificent out of it, and then I
+did it again here, and both times
 
 137
-00:12:14,155 --> 00:12:14,892
-being empty.
+00:12:03,022 --> 00:12:08,339
+the thing I built was perfect and nobody
+in it could say no to me.
 
 138
-00:12:17,461 --> 00:12:20,659
-There was nobody to say it to.
-That was the thing.
+00:12:08,620 --> 00:12:15,175
+The first one ended in a volcano. This one is going
+to end in an argument that will run
 
 139
-00:12:21,230 --> 00:12:26,398
-For twenty-one years there had been another voice in
-that skull, and it would have had
+00:12:15,195 --> 00:12:22,203
+for nine hundred years and that I will not win, and I
+have come to prefer the second outcome,
 
 140
-00:12:26,418 --> 00:12:31,767
-something to say about this — something historical,
-and contemptuous, and probably wrong.
+00:12:22,223 --> 00:12:28,703
+and it took me about sixty years to arrive at that
+and I am not certain I would arrive
 
 141
-00:12:31,787 --> 00:12:36,955
-It had been silent for twenty-four years. He had
-stopped expecting it. He had stopped,
+00:12:28,723 --> 00:12:29,610
+there again.
 
 142
-00:12:36,975 --> 00:12:42,083
-mostly, remembering that it had ever been there, in
-the way you stop hearing a clock.
+00:12:30,450 --> 00:12:34,697
+The settled order has held for
+ninety thousand years.
 
 143
-00:12:42,653 --> 00:12:48,474
-But standing at that window, looking at a sky with
-something working in it, Albert Wesker
+00:12:35,096 --> 00:12:41,697
+(very cold) Yes. And in ninety thousand years it has
+produced eleven hundred species that
 
 144
-00:12:48,494 --> 00:12:53,264
-found that he wanted, very much, to turn to
-somebody and say: do you see?
+00:12:41,717 --> 00:12:48,095
+have never once surprised you, and one afternoon in
+a system of no importance you were
 
 145
-00:12:55,835 --> 00:13:01,726
-And he did turn. Physically. In an empty observation
-deck, at four in the morning, three
+00:12:48,115 --> 00:12:54,493
+surprised by a hydroponic colony with two ships. I
+would ask you to consider what that
 
 146
-00:13:01,746 --> 00:13:07,436
-hundred kilometres above the Earth, an
-eighty-year-old man in a black coat turned his
+00:12:54,513 --> 00:13:00,965
+is worth, because it is the only thing in this room
+that neither of us can manufacture.
 
 147
-00:13:07,456 --> 00:13:12,206
-head to speak to somebody who had not been
-there for twenty-four years.
+00:13:01,365 --> 00:13:08,276
+The Hegemony withdrew from the Ochoa system in 2151
+under an instrument it insisted on
 
 148
-00:13:12,775 --> 00:13:14,097
-Nobody answered.
+00:13:08,296 --> 00:13:15,287
+calling a *deferral of assessment*, and which every
+species in nine hundred light years
 
 149
-00:13:17,918 --> 00:13:20,726
-Beyond. Access expanded.
+00:13:15,307 --> 00:13:16,495
+read correctly.
 
 150
-00:13:23,816 --> 00:13:25,718
-The greyed-out lines resolved.
+00:13:16,895 --> 00:13:22,841
+It is the only recorded case of a Veth withdrawal
+without combat in ninety thousand years,
 
 151
-00:13:26,288 --> 00:13:32,085
-He read them, standing at the window, with the Earth
-turning below and the stars going
+00:13:22,861 --> 00:13:28,541
+and the Veth have never permitted it to be called
+anything else, and the Compact has a
 
 152
-00:13:32,105 --> 00:13:38,104
-past. And for the first time since a washroom in the
-rain in September twenty twenty-six,
-
-153
-00:13:38,124 --> 00:13:42,162
-Albert Wesker had absolutely no idea
-what he was looking at.
+00:13:28,561 --> 00:13:32,916
+word for it that the human record renders
+as *the long polite no*.
