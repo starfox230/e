@@ -72,7 +72,8 @@ WESKER: (soft) It's a good paper, Howard.
 N: Lessing made a sound that was not quite a word, and spun the chair around.
 N: The Director was standing directly behind him. Close enough to touch. Lessing had been facing the lab door, which was the only door, which was forty feet away across an empty room, and which had not opened. He knew it had not opened. He had been watching it.
 LESSING: How — I didn't — how long have you —
-WESKER: The figures are excellent. Figure three especially. The division curve. You've found something nobody has ever found, and you've described it clearly, and you've drawn exactly the right conclusion. It's a very good paper.
+WESKER: Figure three is the one that matters. The division curve. Lymphocytes doubling every ninety minutes, and you measured telomere length at every time point, which nobody else would have thought to do. That's what makes it undeniable. You didn't just see fast division. You saw division without ageing.
+WESKER: Your discussion is where it goes wrong. You call the virus the trigger for the repair. It isn't the trigger. It's the repair. It carries its own telomerase — that's why the ends never shorten. You found a virus that has made itself the cell's maintenance crew, and you described it better than anyone alive could have. It's a very good paper.
 [pause 0.6]
 WESKER: It's also my blood.
 [pause 1.5]

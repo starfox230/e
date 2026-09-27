@@ -43,9 +43,12 @@ N: And Evelyn Marsh, who had not said a word, and was not looking at the folder,
 WESKER: Doctor Marsh. Your paper on vector persistence in primate cell lines. The one that was rejected twice and published in a journal nobody reads.
 N: Evelyn blinked.
 EVELYN: You — read that?
-WESKER: Last night. Your third figure is wrong. The conclusion isn't. You were right, and the reviewers were lazy, and you should have fought harder.
+WESKER: Last night. Your third figure is wrong, and it's why they rejected you. You normalised vector copy number to GAPDH. But Vero cells are aneuploid — they pick up extra copies of that chromosome as they're passaged. Your reference gene was climbing while you measured, so your persistence curve reads as decay when it isn't.
+EVELYN: I — I logged the passage numbers —
+WESKER: You logged them. You didn't correct for them. Count absolute copies per cell by digital PCR, or normalise to a single-copy locus, and the curve goes flat. The vector isn't being lost as those cells divide. It's being kept.
 [img] {EVELYN} looking up across a table with a startled, luminous expression, as if seen for the first time, soft backlight, cinematic
-N: It was a small thing. It took eleven seconds. And for the rest of her life, Evelyn Marsh would be able to tell you exactly where she had been sitting when it happened.
+WESKER: Which means something in a monkey kidney cell is copying an episome that has no origin of replication and no business being copied. That isn't a flaw in your delivery system, Doctor Marsh. It's a discovery. Your reviewers read it as noise. So did you.
+N: It was a small thing. It took less than a minute. And for the rest of her life, Evelyn Marsh would be able to tell you exactly where she had been sitting when it happened.
 [pause 0.8]
 NADIA: With respect, Director, that's lovely, but it doesn't make payroll.
 WESKER: No. It doesn't. Tell me about the freezers, Doctor Okafor.
