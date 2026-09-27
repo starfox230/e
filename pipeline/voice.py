@@ -12,7 +12,7 @@ from pedalboard import (Pedalboard, PitchShift, HighpassFilter, LowpassFilter, C
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, 'work', 'tts')
 SR = 48000
-VERSION = 'v3'
+VERSION = 'v4'   # asterisk stripping, new pronunciation table, Piper support
 
 # speaker -> (kokoro voice, speed, fx preset, level offset dB)
 VOICES = {
@@ -203,6 +203,9 @@ def style(spec):
 
 def normalize_text(text):
     s = text
+    # the scripts mark quoted documents and emphasis with asterisks; neither engine knows
+    # what to do with one, and Kokoro reads some of them aloud
+    s = re.sub(r'\*([^*]+)\*', r'\1', s)
     for pat, rep in PRON.items():
         s = re.sub(pat, rep, s)
     # currency
