@@ -1,7 +1,7 @@
 # 36 | The Accord
 
 [music] m_corporate -9
-[amb] amb_norm -16
+[amb] amb_room -16
 [img] {WEN} an old woman with severe short white hair seated in a garden pavilion, tea on a low table
 [loc] Hangzhou — 11 September 2077
 N: Wen Shulan was ninety-nine years old in 2077. She had retired from the Ministry of State Security in 2061, had taken Aeterna in 2065 at the insistence of her daughter, and had spent sixteen years in a house outside Hangzhou writing a history that she did not intend to publish.

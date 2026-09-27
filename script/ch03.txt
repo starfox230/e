@@ -53,6 +53,7 @@ Acting with intelligence: +1,200
 [say] Patent filed. Two-stream lysis with cross-normalised internal control. Inventor: A. Wesker. Acting with intelligence: twelve hundred Points.
 [/system]
 
+[music] m_corporate -9
 [img] {PELL} sitting across a desk from {WESKER} holding an open folder, an office with a river view, daylight
 [loc] Sixth floor — 1 October
 N: Mr. Pell did the rest, and Mr. Pell, it turned out, was a kind of weapon.

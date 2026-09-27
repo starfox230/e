@@ -1,7 +1,7 @@
 # 47 | The Long Argument
 
 [music] m_lo -9
-[amb] amb_norm -16
+[amb] amb_room -16
 [img] a wide street on an ocean platform city in daylight, people walking, trees in planters, tall buildings
 [loc] The human sphere — 2220 to 2268
 N: The narrator is going to spend this chapter on forty-eight years in which Albert Wesker does almost nothing, because those forty-eight years are the point of the entire account and because every history that skips them gets the ending wrong.

@@ -493,6 +493,91 @@ def build(names=None, force=False):
         print(f'{name:14s} {x.shape[1] / SR:6.1f}s  rms {rms_db(x):6.1f} dB', flush=True)
 
 
+
+# ------------------------------------------------------- cues added for the rebuild
+# The rebuilt script needs four moods the original score did not have: a quiet bed for the
+# many reflective two-handers, a bright one for the reveals, a bell for the moments when
+# something is placed in the world, and a cold open.
+
+@cue
+def m_lo():
+    """Low, quiet, reflective. Cello and a sparse piano; nothing happens in it on purpose."""
+    c = Cue(52, 21)
+    prog = [('G', 'm'), ('Eb', 'M7'), ('Bb', 'M'), ('F', 'sus4')]
+    bars = 40
+    for bar in range(bars):
+        b = bar * 4
+        root, q = prog[(bar // 2) % 4]
+        ch = chord(root, q, 3)
+        c.note('cello', 42, ch[0] - 12, b, 8.2 if bar % 2 == 0 else 4.1, 44)
+        c.notes('pad', 89, ch, b, 4.2, 34)
+        if bar % 8 == 4:
+            motif(c, 'piano', 0, b, octave=4, vel=48, dur=1.5)
+        elif c.r.random() < 0.4:
+            c.note('piano', 0, ch[c.r.integers(0, len(ch))] + 12, b + c.r.uniform(1, 3), 2.0, 38)
+    c.swell('cello', 42, 0, bars * 4, 55, 80)
+    return render('m_lo', c, room=0.85, wet=0.30, target_rms=-25)
+
+
+@cue
+def m_hi():
+    """Wonder. High strings over a rising pad, for the reveals and the things in the sky."""
+    c = Cue(64, 22)
+    prog = [('D', 'add9'), ('A', 'M'), ('B', 'm9'), ('G', 'M7')]
+    bars = 32
+    for bar in range(bars):
+        b = bar * 4
+        root, q = prog[bar % 4]
+        ch = chord(root, q, 3)
+        c.notes('pad', 91, ch, b, 4.2, 42 + min(30, bar))
+        c.note('sub', 38, ch[0] - 12, b, 3.9, 46)
+        top = sorted(ch)[-1] + 12
+        c.note('str', 48, top, b, 4.1, 40 + min(35, bar))
+        if bar >= 8:
+            for k in range(4):
+                c.note('bells', 14, sorted(ch)[k % len(ch)] + 24, b + k * 1.0, 0.9, 30 + (k % 2) * 6)
+        if bar >= 20:
+            c.notes('brass', 61, [ch[0], ch[2]], b, 4.0, 38 + (bar - 20) * 2)
+    c.swell('str', 48, 0, bars * 4, 50, 110)
+    return render('m_hi', c, room=0.92, wet=0.34, target_rms=-21)
+
+
+@cue
+def m_bell():
+    """One slow bell figure with a very long decay: something has just been placed in the world."""
+    c = Cue(44, 23)
+    bars = 24
+    for bar in range(bars):
+        b = bar * 4
+        ch = chord('G', 'm' if bar % 4 < 2 else 'M7', 2)
+        c.notes('drone', 89, [ch[0], ch[0] + 7], b, 8.2, 30)
+        if bar % 2 == 0:
+            c.note('bell', 14, n('G5') if bar % 8 == 0 else n('D5'), b, 3.8, 58 - (bar // 2))
+            c.note('bell', 14, n('Bb4'), b + 1.5, 2.5, 40)
+        if bar == 8 or bar == 16:
+            motif(c, 'bell', 14, b, octave=5, vel=52, dur=2.0)
+    return render('m_bell', c, room=0.95, wet=0.42, target_rms=-24)
+
+
+@cue
+def m_open():
+    """The cold open: a drone, the motif at the bottom of the piano, and nothing else."""
+    c = Cue(48, 24)
+    bars = 20
+    for bar in range(bars):
+        b = bar * 4
+        c.note('drone', 89, n('G1'), b, 4.2, 34)
+        c.note('drone', 89, n('D2'), b, 4.2, 26)
+        if bar in (4, 12):
+            motif(c, 'piano', 0, b, octave=3, vel=54, dur=1.5)
+        if bar >= 8 and bar % 4 == 2:
+            c.note('str', 49, n('Eb3'), b, 4.0, 30 + bar)
+        if bar >= 14:
+            c.note('sub', 38, n('G1'), b, 3.9, 40 + (bar - 14) * 3)
+    c.swell('str', 49, 32, bars * 4, 30, 80)
+    return render('m_open', c, room=0.9, wet=0.36, target_rms=-24)
+
+
 if __name__ == '__main__':
     args = [a for a in sys.argv[1:] if not a.startswith('--')]
     build(args or None, force='--force' in sys.argv)

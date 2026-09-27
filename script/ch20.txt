@@ -1,7 +1,7 @@
 # 20 | Sloane
 
 [music] m_scheme -9
-[amb] amb_norm -16
+[amb] amb_room -16
 [img] a quiet wood-panelled club room with leather chairs and a low fire, two men seated apart, evening
 [loc] Washington — 14 June 2034
 N: It took eleven months to be in a room with Martin Sloane by accident, and Albert Wesker arranged every hour of it.

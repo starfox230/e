@@ -133,6 +133,7 @@ ADOLF: That is what a sermon is.
 WESKER: (cold) No. A sermon is where you tell them in advance and hope they believe you. I prefer to be believed retroactively. It costs less and nobody has a chance to object.
 
 [img] a newspaper business page and a laptop screen on a kitchen table, morning light, ordinary suburban room
+[music] m_system -9
 [loc] Friday
 N: In the world outside, almost nothing happened, which was exactly the point.
 N: The Delaware Business Ledger ran four lines in its filings column: *Umbrella Research Division Seven (Wilmington) — registered capital increase; new laboratory certification, BSL-4, pending state inspection.* Nobody read it. The paper's own filings columnist could not have told you the company's name an hour later.

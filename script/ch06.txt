@@ -14,6 +14,7 @@ N: He turned the window into a map with one gloved finger: the four brick buildi
 CATHERINE: Those are four separate owners, two of them estates, one of them in litigation. That is two years of conveyancing, if it can be done at all.
 WESKER: (soft) Then it will be a busy weekend.
 
+[music] m_system -8
 [img] a glowing crimson and white holographic panel showing a list of facilities, floating in a dark office at night
 [loc] 12 March, 11:50 p.m.
 [sfx] sfx_system_open +0.1

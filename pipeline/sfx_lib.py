@@ -1085,5 +1085,18 @@ def build(names=None, force=False):
         print(f'{name:26s} {x.shape[1] / SR:6.2f}s  peak {20 * np.log10(np.abs(x).max() + 1e-9):6.1f} dB  rms {rms_db(x):6.1f} dB', flush=True)
 
 
+@sfx
+def amb_room():
+    """A quiet interior: no machinery, just air and a room with walls. The default bed for
+    the rebuilt script's many two-handers, where amb_office_hum's fluorescent buzz is wrong."""
+    sec = 45
+    air = lp(brown(sec, rng(71)), 220) * 0.8
+    hiss = lp(white(sec, rng(72)), 3000) * 0.02
+    tt = t(sec)
+    breath = 0.012 * np.sin(2 * np.pi * 0.07 * tt)          # the slow pressure of a big room
+    x = air * (1.0 + breath) + hiss
+    return amb_norm(make_loop(stereo(x.astype(np.float32), 0.25, 17), 4.0), -31)
+
+
 if __name__ == '__main__':
     build(sys.argv[1:] or None, force='--force' in sys.argv)

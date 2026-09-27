@@ -1,7 +1,7 @@
 # 22 | Wen Shulan
 
 [music] m_scheme -9
-[amb] amb_norm -16
+[amb] amb_room -16
 [img] a quiet park in beijing in early morning, willow trees beside a lake, an empty stone bench, mist
 [loc] Beihai Park, Beijing — 4 April 2036, 6:40 a.m.
 N: The invitation arrived in the most old-fashioned way available: a handwritten card, in English, delivered to the Singapore tower by a member of the Chinese consular staff who did not stay for an answer.

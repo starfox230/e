@@ -1,7 +1,7 @@
 # 35 | Ninety-Six Hours
 
 [music] m_tension -9
-[amb] amb_norm -16
+[amb] amb_room -16
 [img] a large improvised operations room with officers at desks and wall maps, harsh lighting, tense
 [loc] Joint Task Force LANTERN, forward headquarters, Naples — 4 March 2077, 09:00
 N: LANTERN had planned for four scenarios. Armed resistance at the Arcology; sabotage of the fusion plants; a decapitation attempt against the Coalition's own leadership; and a deniable biological release.
