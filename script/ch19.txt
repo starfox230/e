@@ -10,7 +10,7 @@ N: *What happens to this country if Umbrella says no?*
 N: She wanted him under oath, on camera, for four hours, and she got him.
 [img] {CATHERINE} and lawyers around a table strewn with briefing books, preparing for a hearing, late night
 [loc] Washington — 8 April, 11:00 p.m.
-N: The preparation team was eleven strong and had war-gamed sixty-one questions. On the last night, Wesker read their briefing book in nine minutes and put it down.
+N: The preparation team was twenty-four strong and had war-gamed sixty-one questions. On the last night, Wesker read their briefing book in nine minutes and put it down.
 WESKER: We will not be using this.
 LAWYER: (fast) Director, the committee's staff report is four hundred pages of —
 WESKER: The report is correct. Every number in it is correct. They have costed the dependency precisely, they have identified the four failure modes, and the senator is the first elected official in eight years to understand what this company actually is.
@@ -48,7 +48,7 @@ SENATOR: (slow) And I have spent nineteen months trying to find a way to say tha
 [pause 0.5]
 SENATOR: What happens to the United States of America if you decide not to?
 [pause 1.4]
-N: The narrator would like you to hear the length of that silence, because the transcript records it as eleven seconds and the video is the most-watched ninety seconds of political footage of the decade.
+N: The narrator would like you to hear the length of that silence, because the transcript records it as twenty-three seconds and the video is the most-watched ninety seconds of political footage of the decade.
 N: Albert Wesker sat at a plain table in a room with nine cameras in it, and he did not reach for the microphone, and he did not look at his legal pad, and the room got quieter and quieter as a hundred and forty staffers realised that nobody in the building had ever said that sentence out loud before.
 WESKER: (slow) You are right to ask, and the answer is that it would be a catastrophe.
 [pause 0.7]
@@ -78,16 +78,16 @@ ANCHOR: (broadcast) — the chief executive of the largest company in human hist
 REPORTER: (broadcast) The cynical read is that he gave away things he never expected to lose. The escrow only triggers if he withholds supply, and why would he ever withhold supply?
 ANCHOR: (broadcast) That's the cynical read. The other read is that he's the only person in Washington today who answered the question that was asked.
 N: Senator Grace Kowal's bill passed in June with eighty-one votes. It is still on the statute book. The escrow has never been triggered.
-N: Her committee's staff report — four hundred pages, nineteen months, entirely correct — was cited in eleven editorials that week as the document that had forced the most powerful man alive to disarm himself, and she was re-elected twice on it.
+N: Her committee's staff report — four hundred pages, nineteen months, entirely correct — was cited in fourteen editorials that week as the document that had forced the most powerful man alive to disarm himself, and she was re-elected twice on it.
 N: She retired in 2041, and in 2044 she took Aeterna, and she wrote about the decision honestly in a memoir that nobody read.
 [sfx] sfx_system_chime +0.4
 [system] DEVOTION — INSTITUTIONAL
 Audience: 141,000,000
 Approval among United States adults: 79%
-Legislative risk: reduced for approximately eleven years
+Legislative risk: reduced for approximately seventeen years
 Points: +1,900,000 · Level 66
 Presence: 34 → 46
-[say] Devotion, institutional. Audience: one hundred and forty-one million. Approval among United States adults: seventy-nine per cent. Legislative risk reduced for approximately eleven years. One million nine hundred thousand Points. Level sixty-six. Presence: thirty-four to forty-six.
+[say] Devotion, institutional. Audience: one hundred and forty-one million. Approval among United States adults: seventy-nine per cent. Legislative risk reduced for approximately seventeen years. One million nine hundred thousand Points. Level sixty-six. Presence: thirty-four to forty-six.
 [/system]
 
 [music] m_lo -10

@@ -8,7 +8,7 @@ N: The problem with the building that had always been there was that it was full
 N: Fifty-one staff in a laboratory designed for thirty. Evelyn's archive work had spread across two floors and a corridor. Voss's vector platform — four constructs, eleven weeks, exactly as he had said — needed a suite of its own, and the regulatory group was working out of what had been a break room.
 N: Catherine Adeyemi, four weeks into the job, brought him a plan for a leased facility in the New Castle corridor: nine months, twenty-two million dollars, a construction schedule and a risk register.
 WESKER: No.
-CATHERINE: (fast) It's the only available shell space of that size within thirty miles. I have looked at eleven.
+CATHERINE: (fast) It's the only available shell space of that size within thirty miles. I have looked at fourteen.
 WESKER: I don't want a shell. I want the block.
 N: He turned the window into a map with one gloved finger: the four brick buildings along the riverfront south of their own — a dead cold-storage warehouse, a machine shop that had folded in 2019, a two-storey office nobody had leased in six years, and a lot with weeds in it.
 CATHERINE: Those are four separate owners, two of them estates, one of them in litigation. That is two years of conveyancing, if it can be done at all.
@@ -25,7 +25,7 @@ Data Hall, 400 racks, powered: 11,000
 Auditorium, 500 seats: 5,000
 Service road, perimeter wall, gatehouse: 3,000
 Campus integration — deeds, permits, utilities, local record: included
-[say] Facilities. Research Building, four storeys, fitted: nine thousand. Logistics and Warehouse: six thousand. Data Hall, four hundred racks, powered: eleven thousand. Auditorium, five hundred seats: five thousand. Service road, perimeter wall and gatehouse: three thousand. Campus integration — deeds, permits, utilities, local record — included.
+[say] Facilities. Research Building, four storeys, fitted: nine thousand. Logistics and Warehouse: six thousand. Data Hall, four hundred racks, powered: seventeen thousand. Auditorium, five hundred seats: five thousand. Service road, perimeter wall and gatehouse: three thousand. Campus integration — deeds, permits, utilities, local record — included.
 [/system]
 N: Thirty-four thousand Points. He had thirty-four thousand four hundred, because the quarter had been very good and because the System paid for growth the way a furnace pays for coal.
 WESKER: All of it.
@@ -92,7 +92,7 @@ WESKER: Nobody in this room is going to ask me how. I know that, because it is M
 WESKER: I am not going to explain it to you today. I am going to tell you what it is for.
 N: And then he gave them the enormous thing.
 WESKER: Four hundred million people on this planet will be infected this year with something that a nineteen-dollar test could have caught in nineteen minutes. Roughly one and a half million of them will die of it — not of anything exotic, not of anything incurable, but of a diagnosis that arrived three days late. Every one of those deaths is an *administrative* death. Somebody, somewhere, decided that the test was too expensive.
-WESKER: (slow) I have made it thirty-one dollars. I will make it eleven. I intend to make it free, everywhere, and I intend for that to be the least interesting thing this company ever does.
+WESKER: (slow) I have made it thirty-one dollars. I will make it fourteen. I intend to make it free, everywhere, and I intend for that to be the least interesting thing this company ever does.
 WESKER: You are not going to be thanked for it. There will be no parade. In ten years, people will use what you built here the way they use tap water, and they will complain about it, and they will not know your names.
 [pause 0.6]
 WESKER: (cold) I will know your names. I know all of them now. That is the arrangement I am offering, and it is the only one I have ever found worth making.
@@ -111,7 +111,7 @@ Note: the passenger's craft is operationally significant. Recommend continued us
 N: In the wing, in the dark, Albert Wesker stood with his back against a wall and read that panel twice, and what he felt was not triumph.
 WESKER: (soft) *Recommend continued use.*
 ADOLF: You are welcome.
-WESKER: I had them in eleven sentences.
+WESKER: I had them in twenty-one sentences.
 ADOLF: You had them in the *pause*. You would have talked through it. You have talked through every silence you have ever been given, because silence is the one room you cannot control.
 [pause 0.5]
 WESKER: (cold) Noted.

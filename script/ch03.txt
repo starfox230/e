@@ -78,7 +78,7 @@ N: The narrator notes, for the record, that the first genuinely evil thing Alber
 [img] {TOLLIVER} in an expensive open-collar shirt sitting stiffly in a boardroom chair, a lawyer beside him, tense
 [loc] Boardroom, Division Seven — 12 November
 N: The clearance came through on the fourth of November. The first orders came in on the ninth. On the twelfth, a man named Graham Tolliver drove up from Trenton with his general counsel and asked for a meeting, and was given one at four o'clock, and was kept waiting until four twenty.
-N: Tolliver was the chief executive of Verdant Axis Therapeutics: eleven hundred employees, a listed stock, and a syndromic panel that had taken his company nine years and two hundred million dollars to build. It ran in ninety minutes and cost three hundred and eighty dollars, and until the fourth of November it had been the best in its class.
+N: Tolliver was the chief executive of Verdant Axis Therapeutics: thirteen hundred employees, a listed stock, and a syndromic panel that had taken his company nine years and two hundred million dollars to build. It ran in ninety minutes and cost three hundred and eighty dollars, and until the fourth of November it had been the best in its class.
 N: He had come to buy the patent. He had a number in his pocket and a threat behind it, and he had rehearsed both in the car.
 N: Wesker came in at four twenty, alone, with no folder.
 WESKER: Mr. Tolliver.
@@ -89,7 +89,7 @@ LAWYER: My client is prepared to acquire the two-stream lysis patent and the ass
 N: Wesker looked at him with what appeared to be polite interest.
 WESKER: Which claim?
 LAWYER: I'm sorry?
-WESKER: You have asserted an overlap. Tell me which claim of which patent. You have eleven in this space. Nine of them are amplification chemistry, which I do not use. One is a cartridge geometry that expired in March, and one is the ninety-minute thermal protocol, which I would not want if you paid me to take it.
+WESKER: You have asserted an overlap. Tell me which claim of which patent. You have eight in this space. Nine of them are amplification chemistry, which I do not use. One is a cartridge geometry that expired in March, and one is the ninety-minute thermal protocol, which I would not want if you paid me to take it.
 [pause 0.5]
 N: The counsel opened his folder. Wesker had not brought a folder, and the counsel's was suddenly the loudest thing in the room.
 WESKER: (cold) You came here with a number and a bluff, and the number is an insult and the bluff is a question you cannot answer in front of your own chief executive. Let us not spend the afternoon on it.

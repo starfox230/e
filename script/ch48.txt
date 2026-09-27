@@ -24,7 +24,7 @@ N: Their host — the individual their System had chosen, three thousand one hun
 N: Tesh had built a library.
 TESH: (slow) You are much younger than I expected.
 WESKER: (cold) Two hundred and forty-two years.
-TESH: (slow) Yes. Very young. I was four hundred before I understood what the catalogue was doing to me, and eleven hundred before I stopped.
+TESH: (slow) Yes. Very young. I was four hundred before I understood what the catalogue was doing to me, and twenty-three hundred before I stopped.
 [pause 0.8]
 TESH: (slow) You published it at one hundred and eighty-six. That is why we came. Our System showed us your world's ledger entry nine years ago — it does not usually show us other worlds; it showed us that one — and the entry said: *the interface has been published and the host was not killed.*
 TESH: (very slow) In three thousand one hundred years I have never seen it volunteer anything.

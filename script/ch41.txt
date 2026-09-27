@@ -19,22 +19,22 @@ WESKER: (soft) Yes. And in four hundred years somebody will find the flaw and kn
 [music] m_space -8
 [img] a vast dark ship hull under construction in orbit, ribs and plating, earth beyond the frame
 N: They called it the *Christina*, after a river in Delaware that four hundred thousand people in the middle of the Atlantic had never seen.
-N: Four kilometres. Crew of eleven hundred. A drive that changed velocity without expelling mass, built to a geometry nobody on earth understood and four people could operate. Nine hundred and forty habitation decks, a hospital, four hydroponic halls — and a garden, on deck eleven, laid out by a woman on an ice shelf who had sent one line in a letter.
-N: Mira Halder was chief of structures. She argued with the Directorate about the budget nineteen times and won eleven, which she described afterwards as *the best nineteen arguments of my life*.
+N: Four kilometres. Crew of eleven hundred. A drive that changed velocity without expelling mass, built to a geometry nobody on earth understood and four people could operate. Nine hundred and forty habitation decks, a hospital, four hydroponic halls — and a garden, on deck twenty-six, laid out by a woman on an ice shelf who had sent one line in a letter.
+N: Mira Halder was chief of structures. She argued with the Directorate about the budget nineteen times and won twenty-six, which she described afterwards as *the best nineteen arguments of my life*.
 N: The narrator will give you one of them, because it is the moment the story changes hands.
 [loc] Dock One, construction office — 11 September 2091
 MIRA: (slow) I want the redundancy on the drive spars doubled.
 WESKER: (cold) The System's specification does not require it.
 MIRA: (slow) The System's specification assumes a hull that was placed rather than welded. Mine has four thousand human welds in it and I know exactly how good my welders are, which is very, and not perfect.
-WESKER: (soft) It is eleven billion Points and four months.
-MIRA: (slow) Then it's eleven billion Points and four months.
+WESKER: (soft) It is eighteen billion Points and four months.
+MIRA: (slow) Then it's eighteen billion Points and four months.
 [pause 0.8]
 WESKER: (very cold) Ms. Halder, are you aware that you are the only person alive who argues with me?
 MIRA: (slow) Yes. Everybody's aware. There's a rota — I'm joking. There isn't a rota.
 [pause 0.6]
 MIRA: (slow) Director, I've thought about this a lot, because people keep telling me I'm brave and I'm not. I argue with you because you have never once, in two years, made me pay for it. Mr. Carrick told me you've been like this since 2033 and that it's the only reason he stayed.
 MIRA: (very slow) I think you've spent sixty-five years building an empire that cannot say no to you and hiring, one at a time, the four or five people who can. And I don't think you ever noticed you were doing it.
-N: The narrator notes that Albert Wesker approved the doubled redundancy without further discussion, that it cost eleven billion Points and four months, and that in 2134 a spar failure on a sister ship killed nine hundred people and the *Christina* class was the only design in the fleet that survived the same fault.
+N: The narrator notes that Albert Wesker approved the doubled redundancy without further discussion, that it cost eighteen billion Points and four months, and that in 2134 a spar failure on a sister ship killed nine hundred people and the *Christina* class was the only design in the fleet that survived the same fault.
 
 [music] m_space -8
 [img] a vast unfinished ship interior with workers welding, sparks, scaffolding, cold light

@@ -55,7 +55,7 @@ N: This is the first thing to understand about what happened to this world. It d
 [img] {WESKER} sitting in a leather chair behind a desk in a corner office at dawn, black sunglasses folded on the blotter, wide window over a river
 [loc] Sixth floor — 6:00 a.m.
 N: On the sixth floor, in a corner office with a view of the river, a man opened his eyes.
-N: He did not gasp. He did not grope at the arms of the chair, or ask where he was, or do any of the other things a man does when the world has moved underneath him. He sat still for eleven seconds with his hands resting on the leather, and he took inventory.
+N: He did not gasp. He did not grope at the arms of the chair, or ask where he was, or do any of the other things a man does when the world has moved underneath him. He sat still for twenty-six seconds with his hands resting on the leather, and he took inventory.
 N: The body was his. Not the ruined thing the lava had taken — the body from before, at its best. A heart that beat forty-one times a minute. Hearing that picked out a fan running on the floor below. And underneath all of it, patient and familiar, the virus. His own work. His own design. Still in there. Still humming, like an engine left running in a locked garage.
 N: The suit was his. The coat over the chair-back was his. On the blotter, folded, were the sunglasses.
 [sfx] sfx_mug_catch +0.4
@@ -81,7 +81,7 @@ N: He looked at the panel for a long moment. And then, for the first time in two
 WESKER: Explain yourself. All of it. Start at the top and leave nothing out.
 
 [img] a dark office filled with floating holographic panels in white and crimson, {WESKER} standing among them, dramatic backlight
-N: It took the System eleven minutes. He did not interrupt once.
+N: It took the System eighteen minutes. He did not interrupt once.
 [system] STATUS
 Strength 28 · Agility 34 · Vitality 26
 Intelligence 24 · Presence 16 · Will 30

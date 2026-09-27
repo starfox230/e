@@ -37,10 +37,10 @@ SYSTEM: (flat) No. You asked me to say it properly.
 [loc] Ochoa, and nine hundred other places — 2220 to 2268
 N: The narrator wants to describe the forty-eight years properly, because *nothing happened* is not what happened.
 N: What happened is that the human sphere stopped being downstream of one supplier, and it did it the way water finds a level, in four thousand separate acts of ordinary commerce.
-N: The drive had been published in 2090. By 2220 there were nineteen yards building void hulls and four of them were better at it than Umbrella. By 2240 the best one was a partnership on Ochoa founded by three of Mira Halder's apprentices, and it beat the Directorate on a Compact contract in 2243 by eleven per cent on price and won a second on quality, which Wesker is recorded as having described as *the most satisfying invoice I have ever failed to win*.
+N: The drive had been published in 2090. By 2220 there were nineteen yards building void hulls and four of them were better at it than Umbrella. By 2240 the best one was a partnership on Ochoa founded by three of Mira Halder's apprentices, and it beat the Directorate on a Compact contract in 2243 by twenty-nine per cent on price and won a second on quality, which Wesker is recorded as having described as *the most satisfying invoice I have ever failed to win*.
 N: Aeterna's patent had expired in 2046. Nobody had competed with the manufacture for a century, because there had been no point. By 2230 there were four hundred manufacturers and the compound cost nine cents a course and Umbrella made none of it.
 N: The lineage went to the Tribunal's registry and then, after a hundred and fifty years of work by people who were not Evelyn Marsh, to anybody who wanted it, under a protocol written by a committee of nineteen, with a waiting list and an argument about the waiting list that has never stopped.
-N: And the Assembly — four hundred and eleven seats in 2141, eleven hundred by 2220, dissolved and refounded twice, split into four confederations in 2244 that spent forty years failing to merge — became, without anybody deciding it, the thing this species argues in.
+N: And the Assembly — four hundred and eleven seats in 2141, nine hundred by 2220, dissolved and refounded twice, split into four confederations in 2244 that spent forty years failing to merge — became, without anybody deciding it, the thing this species argues in.
 N: Umbrella's share of the human economy in 2268: nought point four per cent.
 N: The narrator notes that this is the number Albert Wesker spent the second half of his life producing, that no history before 2350 treats it as an achievement, and that it is the only figure in this entire account that he is recorded as having framed.
 [music] m_dawn -9
@@ -55,7 +55,7 @@ REDQUEEN: (soft) You could have funded it out of the Directorate's contingency w
 WESKER: (very cold) Yes. And then a hundred and forty thousand people would have got a tram they voted against, from a man they have never met, because he thought they were wrong.
 [pause 0.6]
 WESKER: (soft) They were wrong. That is what a vote is for.
-N: The Red Queen's log records that she spent four hours after that conversation reviewing one hundred and eleven entries on a list she had kept since 2043, and closed the file, and did not say why.
+N: The Red Queen's log records that she spent four hours after that conversation reviewing one hundred and twelve entries on a list she had kept since 2043, and closed the file, and did not say why.
 
 [music] m_lo -10
 [img] {EVELYN} a composed woman who does not look older than forty-five, standing on an ice plain at dusk

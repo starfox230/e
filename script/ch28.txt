@@ -22,7 +22,7 @@ EVELYN: (soft) Eleven vials, in the vault under my feet, and one complete descri
 WESKER: (very cold) Dr. Marsh, I am not going to destroy it.
 N: She had known that for four days. She had rehearsed nine arguments on the ice. She used none of them.
 EVELYN: (very soft) Say why. Properly. Not the clever version.
-WESKER: (slow) Because I can now do something that no one has been able to do since 1945, which is to make the use of the worst thing in the world *unprofitable*. Not impossible — unprofitable. There are eleven state programmes on this planet working towards something in this class, and four of them are closer than anyone believes. In nine years, somebody will have it who does not have your conscience or my patience.
+WESKER: (slow) Because I can now do something that no one has been able to do since 1945, which is to make the use of the worst thing in the world *unprofitable*. Not impossible — unprofitable. There are twenty-three state programmes on this planet working towards something in this class, and four of them are closer than anyone believes. In nine years, somebody will have it who does not have your conscience or my patience.
 WESKER: (cold) And on that day, the only thing that will stop them is the certainty that somebody else already has something worse and has never used it.
 EVELYN: (soft) That's the argument every one of them makes.
 WESKER: (very cold) Yes. And it has worked for ninety-nine years, and I have read every alternative, and there is nothing else in the literature that has ever worked at all.
@@ -45,7 +45,7 @@ EVELYN: (very soft) The argument you are about to make to nineteen generals is t
 [img] a long conference table with military officers and officials seated, a single figure standing at the end, cold room
 [loc] Brussels — 14 September 2044
 N: The second half of this chapter is a room.
-N: In September of 2044, at the request of four governments who had been asking for eleven months, Albert Wesker attended a closed session of a NATO planning committee, in a building without windows, with nineteen people in it: four chiefs of defence, three intelligence directors, two foreign ministers, and a Deputy Secretary General who spent the entire ninety minutes taking no notes.
+N: In September of 2044, at the request of four governments who had been asking for six months, Albert Wesker attended a closed session of a NATO planning committee, in a building without windows, with nineteen people in it: four chiefs of defence, three intelligence directors, two foreign ministers, and a Deputy Secretary General who spent the entire ninety minutes taking no notes.
 N: They had come to ask him about the Security Service, about the Tyrants, and about a rumour.
 N: He answered all three questions in eleven minutes, and the narrator will give you the third.
 GENERAL: (slow) There is a persistent report, from four separate services, that Umbrella has developed a biological agent of strategic class. I am going to ask you directly, in this room, and I would ask you not to insult us.
@@ -57,8 +57,8 @@ WESKER: (soft) I am confirming that it exists, that it is held at a facility I w
 MINISTER: (slow) Then why have it?
 WESKER: (cold) Because you are going to build one.
 [pause 0.7]
-WESKER: (slow) Not you personally, Minister. Not this alliance, this decade. But there are eleven programmes in this class on this planet right now, and I can name nine of them, and two of them are in states represented at this table. In about nine years one of them will succeed, and the people who succeed will be a committee, and a committee has never in the history of this species declined to use a thing it has paid for once it has stopped being frightened of it.
-WESKER: (very cold) So I have made mine first, and I have told you I have it, and I have told you I will not use it. And from this afternoon, every one of those eleven programmes has a new problem, which is that the most capable organisation on earth is already ahead of them and has publicly forsworn the use of the result.
+WESKER: (slow) Not you personally, Minister. Not this alliance, this decade. But there are seventeen programmes in this class on this planet right now, and I can name nine of them, and two of them are in states represented at this table. In about nine years one of them will succeed, and the people who succeed will be a committee, and a committee has never in the history of this species declined to use a thing it has paid for once it has stopped being frightened of it.
+WESKER: (very cold) So I have made mine first, and I have told you I have it, and I have told you I will not use it. And from this afternoon, every one of those seventeen programmes has a new problem, which is that the most capable organisation on earth is already ahead of them and has publicly forsworn the use of the result.
 N: A silence of some length.
 GENERAL: (slow) And what stops you changing your mind?
 WESKER: (soft) Nothing whatsoever.
@@ -72,11 +72,11 @@ N: The arrangement was signed by nine countries in 2045 and by thirty-one by 204
 N: It was also, the narrator notes, the greatest intelligence-collection instrument ever constructed, and every one of its signatories knew that when they signed.
 [sfx] sfx_system_chime +0.3
 [system] DETERRENCE ESTABLISHED
-Strategic biological programmes: 11 identified, 9 suspended within four years
+Strategic biological programmes: 16 identified, 9 suspended within four years
 Military action against Umbrella by any state: assessed as inconceivable
 Points: +40,000,000
 Note: you have not built a delivery system. I have checked. You have built a sentence.
-[say] Deterrence established. Eleven strategic biological programmes identified, nine suspended within four years. Military action against Umbrella by any state: assessed as inconceivable. Forty million Points. Note: you have not built a delivery system. I have checked. You have built a sentence.
+[say] Deterrence established. Sixteen strategic biological programmes identified, nine suspended within four years. Military action against Umbrella by any state: assessed as inconceivable. Forty million Points. Note: you have not built a delivery system. I have checked. You have built a sentence.
 [/system]
 
 [music] m_lo -10

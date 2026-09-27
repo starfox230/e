@@ -7,7 +7,7 @@
 N: The Myriad has no name for itself, no government, no doctrine, no art and no history, and it has been at war with everything it has ever met for somewhere between four hundred thousand and nine hundred thousand years.
 N: It is a hive. That word is wrong in nine ways and the human record has never found a better one. It is not a species with a queen; it is a single distributed organism of somewhere over four hundred trillion bodies, occupying eleven hundred systems, that grows into any volume it is not prevented from entering, and that has never once in its recorded existence responded to a signal.
 N: The Compact has traded with everything in nine hundred light years except the Myriad. The Veth have fought it for ninety thousand years and hold their border with four hundred thousand ships. The Choir declared it noise before the Earth had oxygen and has not been able to end it.
-N: It reached the human sphere in 2194, at a mining system called the Kelpie Reach, with eleven thousand bodies, and ate the system in nine days.
+N: It reached the human sphere in 2194, at a mining system called the Kelpie Reach, with twenty-seven thousand bodies, and ate the system in nine days.
 [img] a mining colony seen from orbit with structures being overrun by swarming shapes, green light
 N: Human dead: four thousand one hundred. There was no evacuation because there was no warning and no demand and no negotiation, because there is nobody there to negotiate with.
 N: And the narrator will tell you plainly what that did to a species that had spent forty years learning to argue: it broke the argument.
@@ -19,7 +19,7 @@ SENATOR: (slow) Director, four thousand one hundred people —
 WESKER: (very cold) I am aware of the number. I have read the names, as I read the four hundred and eleven thousand names of the Choir war, every morning, for fourteen years.
 WESKER: (slow) I am refusing because this Assembly is about to hand a hundred and sixty-eight years of work back to the man it took it from, in four months, out of fear, and because I have spent seventy years of my life making it impossible for one person to hold this species and I am not going to undo it in an afternoon because something frightening has arrived.
 SENATOR: (slow) And if the Myriad takes another system?
-WESKER: (very cold) Then it takes another system, and you will have to fight it as what you are, which is eleven billion people and four hundred worlds and an argument. I will fight in it. I will take any command this Assembly gives me that has a term limit, a reporting line and a review. I will not take emergency powers, and if you vote them to me I will decline them in public, on the record, and that will be worse for you than if you had never offered.
+WESKER: (very cold) Then it takes another system, and you will have to fight it as what you are, which is twelve billion people and four hundred worlds and an argument. I will fight in it. I will take any command this Assembly gives me that has a term limit, a reporting line and a review. I will not take emergency powers, and if you vote them to me I will decline them in public, on the record, and that will be worse for you than if you had never offered.
 [pause 1.0]
 N: The narrator notes that the Assembly voted the powers anyway, that he declined them in public on the record, and that the resulting constitutional crisis lasted eleven months while the Myriad ate two more systems.
 N: Nine thousand more people died in those eleven months. The Assembly's own inquiry in 2203 concluded that a unified command in 2194 would have saved most of them, and that Albert Wesker's refusal was the correct decision, and the narrator has read all four hundred pages of that inquiry and has never been able to decide whether the two findings can both be true.
@@ -37,7 +37,7 @@ N: He was one hundred and sixty-nine years old. He did not need a ship to surviv
 N: He served as a boarding specialist, under the command of officers a hundred and thirty years younger than him, in a unit of eleven people, for nine years.
 N: The narrator wants to state why, because four hundred historians have got it wrong and the answer is in a conversation he had with Evelyn Marsh in 2196 that she published after his death.
 EVELYN: (soft) You could be running this.
-WESKER: (cold) I am running an eleven-person boarding team on a hull with a failed drive and I am extremely good at it.
+WESKER: (cold) I am running an eight-person boarding team on a hull with a failed drive and I am extremely good at it.
 EVELYN: (soft) That is not an answer and we are both a hundred and seventy years old.
 [pause 0.8]
 WESKER: (very soft) In a hundred and seventy years I have never once been in a room where somebody could tell me to do something, and mean it, and be right.
@@ -47,13 +47,13 @@ WESKER: (very cold) Do you understand what that is worth to me? I have bought ci
 [music] m_horror -8
 [img] a dark wrecked interior of a captured alien vessel, green bioluminescence, human figures with lights
 [loc] Boarding action, the Kelpie Reach — 4 November 2210
-N: On the fourth of November 2210 an eleven-person boarding team took the interior of a Myriad mass for the first time, and four of them came back, and Albert Wesker carried two of them.
+N: On the fourth of November 2210 an eight-person boarding team took the interior of a Myriad mass for the first time, and four of them came back, and Albert Wesker carried two of them.
 N: What they brought back was the thing that ended the war, and it is not what anybody expected, and the narrator will describe it as carefully as the record allows.
 N: They found no command structure. They found no individuals. What they found, in a chamber four kilometres inside a body of four hundred trillion, was a *memory*: a structure of accreted mineral and tissue, nine hundred thousand years old, in which the entire history of everything the Myriad had ever eaten was recorded, in order, in detail, with nothing missing.
 N: Eleven hundred species. Four hundred trillion bodies' worth of experience. Nine hundred thousand years.
 N: It is the largest archive in the known volume of space, and it belongs to a thing that has never once used it for anything, because there is nobody in there to read it.
 [pause 1.0]
-N: Dr. Evelyn Marsh spent eleven years on it.
+N: Dr. Evelyn Marsh spent twenty-six years on it.
 N: Her conclusion, published in 2221 and never seriously challenged, is four sentences, and it is the most disturbing document in this account.
 EVELYN: (slow) The Myriad is not hostile. It is not anything. It is a growth process with a perfect memory and no capacity whatsoever to act on it.
 EVELYN: (slow) Every species it has consumed is preserved in it, in full, and none of them are alive, and the structure has no mechanism for retrieval.
@@ -72,16 +72,16 @@ SOLDIER: (radio) The mass density reading is four hours old and I've got a fresh
 [pause 0.6]
 WESKER: (soft) Left-hand breach, Lieutenant.
 N: The Red Queen's log — she logged the boarding actions in full, at his own request, from 2202 — records that he said *Lieutenant* eleven hundred and forty-one times in nine years, that he was overruled by her on four occasions of tactical substance, that she was right on all four, and that on the last of them the plenum behind the right-hand wall killed two of her people and would have killed four if he had been where he wanted to be.
-N: Adaeze Adeyemi-Vance retired as a commodore in 2241 and never once gave an interview about him. Asked, in 2249, by a historian who had tracked her down on a colony world, what he had been like to command, she gave an answer of eleven words that is the epigraph of four hundred books.
+N: Adaeze Adeyemi-Vance retired as a commodore in 2241 and never once gave an interview about him. Asked, in 2249, by a historian who had tracked her down on a colony world, what he had been like to command, she gave an answer of twenty-four words that is the epigraph of four hundred books.
 SOLDIER: (slow) He did what he was told, faster than anyone, and never sulked.
 [music] m_lo -9
 [img] {WESKER} sitting alone in a dim ship compartment, helmet beside him, exhausted, stars through a port
 [loc] The frontier, hospital ship Ochoa — 11 November 2210
 [sfx] sfx_system_chime +0.3
 [system] EVENT — FIRST BOARDING
-Team: 11 · Returned: 4
+Team: 8 · Returned: 4
 Personal engagements: 141 · Myriad bodies destroyed by you: 9,400
-[say] Event: first boarding. Team of eleven, four returned. One hundred and forty-one personal engagements. Nine thousand four hundred Myriad bodies destroyed by you.
+[say] Event: first boarding. Team of eight, four returned. One hundred and forty-one personal engagements. Nine thousand four hundred Myriad bodies destroyed by you.
 [/system]
 [pause 0.8]
 WESKER: (very soft) Say the other thing.
@@ -94,4 +94,4 @@ WESKER: (very cold) No.
 SYSTEM: (flat) Would you like me to?
 [pause 1.2]
 WESKER: (very soft) No.
-N: The narrator notes that this is the only occasion in a hundred and eighty-four years on which Albert Wesker declined information, and that the Red Queen's log records the pause before the answer at eleven seconds, and that nothing else is known about the Dellent at all.
+N: The narrator notes that this is the only occasion in a hundred and eighty-four years on which Albert Wesker declined information, and that the Red Queen's log records the pause before the answer at twenty-three seconds, and that nothing else is known about the Dellent at all.

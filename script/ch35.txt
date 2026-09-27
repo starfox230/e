@@ -21,7 +21,7 @@ N: And it did not work, and the reason it did not work is the single most import
 [img] {WESKER} sitting at a plain desk in an office with a guard at the door, writing on a pad
 [loc] The Arcology, level four — 6 March, 11:00
 COLONEL: (slow) Explain it to me again. Slowly.
-WESKER: (soft) They can take an instruction from you. They cannot take *responsibility* from you. A man who was made on a Saturday in 2039 with a wife and eleven years of memories is a complete human being in every respect except one: he has never in his life made a decision that mattered on his own account, because there has never been a moment when there was not an instruction available.
+WESKER: (soft) They can take an instruction from you. They cannot take *responsibility* from you. A man who was made on a Saturday in 2039 with a wife and seventeen years of memories is a complete human being in every respect except one: he has never in his life made a decision that mattered on his own account, because there has never been a moment when there was not an instruction available.
 WESKER: (cold) You have removed the instruction. Not the giver of it — I am still here, and I have signed everything you have put in front of me — the *structure*. They are not refusing you. They are standing at their consoles in a condition that your medical people are, I gather, calling dissociative, and for which they have no precedent, because there has never been a population like this.
 COLONEL: (slow) And you knew this would happen.
 WESKER: (very soft) I have known since 2027. It is in the second panel I was ever shown. *Personnel acquired through this interface cannot disobey.* I understood on the first morning what that would mean at scale and I built the scale anyway, and I have had fifty years to find a way out of it and there is not one.
@@ -43,7 +43,7 @@ N: That was the image. Not a massacre. A queue, and an old woman's face, and a f
 [img] a montage of protest crowds in many cities at night, banners and phone lights
 N: The demonstrations began on the sixth day, and they were not organised by Umbrella, and the narrator has checked this more carefully than anything else in this account, because it is the single most consequential question of the century.
 N: The Red Queen was in Coalition custody, powered down, from the fourth of March. The asset network of forty-one people in government and media, purchased in 2034, was never activated; the Coalition's own forensic review found it and confirmed it had never once been used, which was the most damaging finding in the entire report.
-N: What happened is simpler and worse. Four billion people who took a free medicine every eleven weeks from a company that had never asked them for anything watched a queue at a dry standpipe, and made up their own minds, and went outside.
+N: What happened is simpler and worse. Four billion people who took a free medicine every sixteen weeks from a company that had never asked them for anything watched a queue at a dry standpipe, and made up their own minds, and went outside.
 N: Eleven million in Lagos. Nine million in Jakarta. Four million in São Paulo, in Mexico City, in Cairo, in Manila. In Europe and North America it was smaller and angrier and had more police.
 N: The demand was four words, and it was on every sign in nineteen languages, and it was not *free Wesker*.
 N: It was: *give us our doctor back.*
@@ -54,7 +54,7 @@ N: It was: *give us our doctor back.*
 N: The Coalition held for eleven days, and the narrator would like to say clearly that it held for eleven days under conditions no government in history has faced, and that the people in that room were not cowards.
 N: What broke it was not the protests. It was the arithmetic, presented on day nine by the same French analyst who had drawn the dependency map in 2072.
 MINISTER: (slow) Read the last paragraph aloud.
-OFFICER: (flat) *We can operate the infrastructure. We cannot operate the personnel. Restoring full function requires either the replacement of approximately four hundred thousand Absolute employees with trained conventional staff — a programme we estimate at eleven years and nine hundred billion dollars — or the restoration of the command structure they are contingent upon.*
+OFFICER: (flat) *We can operate the infrastructure. We cannot operate the personnel. Restoring full function requires either the replacement of approximately four hundred thousand Absolute employees with trained conventional staff — a programme we estimate at seventeen years and nine hundred billion dollars — or the restoration of the command structure they are contingent upon.*
 OFFICER: (flat) *There is no third option. In the interim, we estimate excess mortality across the protectorates and the medical distribution network at between four hundred thousand and two million persons over twenty-four months, depending on how quickly the Aeterna network degrades.*
 [pause 1.0]
 MINISTER: (slow) Two million.

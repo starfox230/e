@@ -13,7 +13,7 @@ WESKER: Yes.
 CATHERINE: That is nine billion dollars of inventory financed on our balance sheet for an event that may not occur this decade.
 WESKER: (cold) It is nine billion dollars that makes it structurally impossible for this government to replace us, and that puts an Umbrella logistics officer in the room for every federal emergency exercise from now until the end of the century. Which of those did you think I was buying?
 N: The European Union followed in March of 2031, with the same clause. Japan in June. India, on different terms, in September.
-N: By the autumn of 2031 Umbrella held the medical reserves of four of the eleven largest economies on earth, at its own expense, and was paid only when something went wrong.
+N: By the autumn of 2031 Umbrella held the medical reserves of four of the nine largest economies on earth, at its own expense, and was paid only when something went wrong.
 
 [music] m_lo -9
 [img] a warehouse interior with towering racks of medical supplies, a lone worker on a lift, cold light
@@ -35,7 +35,7 @@ It is a company that governments depend upon.
 Points: +3,000,000 · Balance: 11,400,000
 Agency banner: available
 New rarity in pool: PROGENITOR
-[say] Tier three. Agency. Umbrella is no longer a company that governments regulate. It is a company that governments depend upon. Three million Points. Balance, eleven million four hundred thousand. The Agency banner is available. New rarity in pool: Progenitor.
+[say] Tier three. Agency. Umbrella is no longer a company that governments regulate. It is a company that governments depend upon. Three million Points. Balance, twenty-seven million four hundred thousand. The Agency banner is available. New rarity in pool: Progenitor.
 [/system]
 WESKER: Define the new rarity.
 SYSTEM: Common improves your company. Rare improves your capability. Epic improves your reach. Legendary improves your position.
@@ -63,8 +63,8 @@ WESKER: (cold) The photograph is worth four hundred thousand dollars in goodwill
 N: He pulled twenty times on the Agency banner, at four hundred thousand Points a ten-pull, and the narrator will not list two hundred results.
 N: What matters is four of them.
 [sfx] sfx_gacha_rare +0.2
-N: The first was an Epic: **Cold Chain Sovereign**, a global refrigerated logistics network with eleven hundred vehicles, forty-one aircraft and its own port facilities, which arrived on a Tuesday and which the industry press spent a year describing as the most impressive piece of operational build-out in the sector's history.
-N: The second was a Rare that he considered, for about eleven seconds, to be the most valuable thing he had ever pulled: **Multilingual Competence.** Every language spoken by more than a million people, complete, permanent, with the accent of an educated native. He tested it on the Hungarian night porter at Arklay, who wept.
+N: The first was an Epic: **Cold Chain Sovereign**, a global refrigerated logistics network with thirteen hundred vehicles, forty-one aircraft and its own port facilities, which arrived on a Tuesday and which the industry press spent a year describing as the most impressive piece of operational build-out in the sector's history.
+N: The second was a Rare that he considered, for about eight seconds, to be the most valuable thing he had ever pulled: **Multilingual Competence.** Every language spoken by more than a million people, complete, permanent, with the accent of an educated native. He tested it on the Hungarian night porter at Arklay, who wept.
 [sfx] sfx_gacha_gold +0.1
 [music] m_triumph -4
 [img] an enormous golden holographic panel unfolding in a dark library, a man in a black coat standing in the light
@@ -106,7 +106,7 @@ SYSTEM: Do not open this early.
 WESKER: You said *I will not be able to stop what happens*. You have never used that word about yourself. You have never suggested there is anything you cannot stop.
 [pause 0.8]
 SYSTEM: (flat) The panel is accurate.
-N: And that was all he got. He asked eleven more times over the following four years, in four different ways, and the answer never changed and never expanded.
+N: And that was all he got. He asked eighteen more times over the following four years, in four different ways, and the answer never changed and never expanded.
 [img] a heavy sealed vault door deep underground with a single small black case inside, cold light, ominous
 N: The ampoule went into the sealed vault on level nine at Arklay — the one Birkin had never been able to price, the one the drawings had always shown and never explained.
 N: It went in on the twenty-second of December 2031. It came out on the fourth of December 2033.
@@ -121,7 +121,7 @@ WESKER: (soft) Then it will have been the only worthy opponent either of us ever
 [img] {EVELYN} in a heavy coat standing on an Antarctic airstrip beside a transport aircraft, white horizon, brutal light
 [loc] The Antarctic Facility — 11 February 2032
 N: He gave Evelyn Marsh the ice.
-N: Fourteen levels, six hundred and eleven staff who could not disobey her, four thousand cryogenic cradles and no oversight of any kind. She was thirty-two years old. Her title was Director of the Progenitor Initiative, and the Initiative had, at that point, precisely one sealed ampoule that she was not permitted to see and a mandate of eleven words:
+N: Fourteen levels, six hundred and eleven staff who could not disobey her, four thousand cryogenic cradles and no oversight of any kind. She was thirty-two years old. Her title was Director of the Progenitor Initiative, and the Initiative had, at that point, precisely one sealed ampoule that she was not permitted to see and a mandate of twenty-four words:
 WESKER: Find out what a human being is for, and then improve it.
 N: She stood on an airstrip in the interior of Antarctica in a coat with a crimson iris on the shoulder and looked at a horizon with nothing on it in any direction, and she said the thing that the narrator has been waiting fifteen chapters to report, because it is the exact moment the story stops being about a company.
 EVELYN: (soft) There's no one here to tell me no.
@@ -152,6 +152,6 @@ ADOLF: Which one?
 WESKER: That is what a smaller man would ask.
 ADOLF: (soft) Then ask a better question.
 WESKER: (cold) How many are there?
-N: Below him, on the plaza, the night shift changed. Somewhere under his feet, ninety feet down, two Tyrants breathed once a minute in the dark. Eleven miles up a valley in Pennsylvania, a hundred thousand people who had been made on a Saturday were setting off fireworks, badly, for a new year.
+N: Below him, on the plaza, the night shift changed. Somewhere under his feet, ninety feet down, two Tyrants breathed once a minute in the dark. Six miles up a valley in Pennsylvania, a hundred thousand people who had been made on a Saturday were setting off fireworks, badly, for a new year.
 N: And in a spare room in a house in Media, Pennsylvania, SSA Owen Carrick took down the nine photographs on his wall and replaced them with forty-one.
 N: End of Part Two.

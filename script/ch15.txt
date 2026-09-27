@@ -6,13 +6,13 @@
 [loc] Washington, D.C. — 8 February 2030
 N: In February of 2030, four separate arms of the United States government arrived at the same question in the same month, which is the closest that government ever comes to an opinion.
 N: The Federal Trade Commission wanted to know how a company founded in 2026 had acquired eleven competitors in thirty-one months without a single merger review going against it.
-N: The Securities and Exchange Commission wanted to know how a balance sheet could carry two hundred and eleven billion dollars of property, plant and equipment with a capital expenditure line that had never in four years exceeded nine hundred million.
+N: The Securities and Exchange Commission wanted to know how a balance sheet could carry two hundred and seventeen billion dollars of property, plant and equipment with a capital expenditure line that had never in four years exceeded nine hundred million.
 N: The Government Accountability Office, at the request of a subcommittee, wanted to know why forty-one per cent of the nation's clinical laboratory capacity now ran on the instruments of one private firm.
 N: And in a field office in Philadelphia, SSA Owen Carrick — whose file was two years old, whose supervisor had twice told him to close it, and who had a wall in a spare room at home with nine photographs on it — wanted to know where the buildings came from.
 [img] {CATHERINE} {PELL} and lawyers around a boardroom table covered in documents, tense meeting, daylight
 [loc] Division Seven, boardroom — 11 February
 N: Umbrella's general counsel recommended the standard posture: cooperate narrowly, produce what is compelled, object to everything else, and run the clock.
-N: Pell recommended it. Catherine recommended it. Eleven lawyers at four hundred dollars an hour recommended it.
+N: Pell recommended it. Catherine recommended it. Sixteen lawyers at four hundred dollars an hour recommended it.
 WESKER: (cold) No. Give them everything.
 LAWYER: (fast) Director — with respect, you cannot mean *everything*. In an inquiry of this breadth, unrestricted production is —
 WESKER: Mr. Ferris. How many documents does this company generate in a year?
@@ -32,14 +32,14 @@ WESKER: (cold) Every door that exists on a plan. Sublevel B4 is not on a plan. A
 N: The GAO's team leader was a woman named Denise Ferrand, fifty-four years old, twenty-nine years in federal audit, three previous reviews that had ended careers. She had been chosen because she could not be charmed, and the narrator would like to record that she never was.
 N: She arrived on the second of March expecting a fight and was given a floor, a badge, a parking space and a liaison named Mr. Pell who answered every question in a flat voice within forty minutes, whatever it was, at whatever hour.
 N: She spent six months there. She was extremely good at her job.
-N: She found: eleven instances of aggressive transfer pricing through the Irish subsidiary, all legal, two of them barely. A pattern of acquisitions structured to fall four per cent below merger-review thresholds. A contract with the state of Delaware that a reasonable person would call a sweetheart deal. Nine hundred million dollars of political donations routed through a foundation. And an internal culture that she described, in the final report, in a sentence that became famous:
+N: She found: five instances of aggressive transfer pricing through the Irish subsidiary, all legal, two of them barely. A pattern of acquisitions structured to fall four per cent below merger-review thresholds. A contract with the state of Delaware that a reasonable person would call a sweetheart deal. Nine hundred million dollars of political donations routed through a foundation. And an internal culture that she described, in the final report, in a sentence that became famous:
 DENISE: (slow) The company's employees display a uniformity of purpose and an absence of internal dissent that the review team found without precedent in twenty-nine years of federal audit, and which the company attributes to its hiring practices.
 N: She did not find the plant that had appeared overnight in Newark, because the plant's paperwork went back to 2011 and the county recorder agreed.
 N: She did not find Sublevel B4, because she never asked for a floor that no drawing showed, and because Gus — asked directly, in a corridor, in July, whether there was anything under the garage — looked her in the eye and said, *Just dirt, ma'am, and about nine miles of conduit*, and was telling the truth as he understood it, because Gus had never been told that the fourth button was strange.
 N: And she did not find Arklay at all, because Arklay was a private residence in Pennsylvania belonging to a subsidiary that was not under review.
 [img] {DENISE} and {WESKER} sitting across from each other in an empty meeting room at the end of a long day
 [loc] Building Three — 29 August 2030, 6:50 p.m.
-N: On her last evening, Denise Ferrand asked for a meeting with the Director, and got one in eleven minutes.
+N: On her last evening, Denise Ferrand asked for a meeting with the Director, and got one in seven minutes.
 DENISE: I want to ask you something that isn't going in the report.
 WESKER: Then ask it.
 DENISE: (slow) In twenty-nine years I have never had unrestricted access. Not once. Not from a bank, not from a defence contractor, not from a hospital system that was killing people. And I have sat in that building for six months and been given absolutely everything I asked for, immediately, and I have found a list of ordinary corporate sins that will make eleven pages of a report nobody reads.
@@ -77,7 +77,7 @@ N: He meant it. That is the worst part. He meant it completely.
 [music] m_corporate -8
 [img] a printed government report on a desk with a headline on a newspaper beside it, morning light
 [loc] Washington — 14 October 2030
-N: The report was published on the fourteenth of October: one hundred and forty-one pages, eleven findings, four recommendations, no referrals.
+N: The report was published on the fourteenth of October: one hundred and forty-one pages, twenty-two findings, four recommendations, no referrals.
 N: It concluded that Umbrella Life Sciences had engaged in aggressive but lawful tax and acquisition structuring, that its dominance of clinical diagnostics presented a national resilience risk in the event of a corporate failure, and that Congress should consider strategic stockpiling of alternative platforms.
 N: In other words: the danger identified by the United States government was that Umbrella might one day *stop*.
 N: The stock rose four per cent on publication.
@@ -107,7 +107,7 @@ Note: what you learn here, you cannot unlearn.
 [say] Intelligence. Dossier on any living person: four thousand each. Asset Network, one nation: nine hundred thousand. Signals Access, commercial: two million four hundred thousand. Counter-Intelligence Cell: one million eight hundred thousand. What you learn here, you cannot unlearn.
 [/system]
 N: He bought one dossier. Four thousand Points, against a balance of three million.
-N: Not the GAO team leader. Not the senator whose subcommittee had commissioned the review. Not any of the eleven lawyers, or the four competitors, or the journalist who had been calling Pell every week since Basel.
+N: Not the GAO team leader. Not the senator whose subcommittee had commissioned the review. Not any of the sixteen lawyers, or the four competitors, or the journalist who had been calling Pell every week since Basel.
 N: He bought a dossier on a man whose name had appeared exactly twice in four hundred million documents, both times on a visitor log, both times signing in to a meeting with somebody else.
 [img] a glowing panel showing a man's profile and a page of text, cold white and crimson light
 [system] DOSSIER — SLOANE, MARTIN J.
@@ -121,7 +121,7 @@ Note: he has not written anything down about you in four years.
 [pause 0.8]
 WESKER: (soft) Four years.
 SYSTEM: Four years.
-WESKER: The Belgian operation was eleven months ago. Basel was sixteen. He started before any of it.
+WESKER: The Belgian operation was fifteen months ago. Basel was sixteen. He started before any of it.
 SYSTEM: He started the week you filed your first patent.
 N: Albert Wesker sat back in the chair and, for the first time since a boardroom in Trenton, felt something that he would have refused to call excitement.
 ADOLF: (soft) A hunter.
@@ -130,4 +130,4 @@ ADOLF: He is dangerous.
 WESKER: (soft) He is *useful*. A man who writes nothing down has already decided that his institution is not equal to the problem. That is not an enemy, Adolf. That is a man waiting to be offered a better arrangement.
 N: He closed the panel.
 WESKER: Mr. Pell. Find out where Martin Sloane drinks, and do not approach him. I want to be in the room by accident, and I want it to take about a year.
-N: It took eleven months.
+N: It took fifteen months.

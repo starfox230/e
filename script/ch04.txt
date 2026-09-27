@@ -132,7 +132,7 @@ N: The Rare had been free. The rest of the week was not.
 [system] SHOP — FACILITIES
 Production Plant, pharmaceutical, mid-scale: 12,000
 Sterile fill line · cartridge assembly · warehouse · 311 personnel, integrated
-[say] Production Plant, pharmaceutical, mid-scale: twelve thousand. Sterile fill line, cartridge assembly, warehouse, and three hundred and eleven integrated personnel.
+[say] Production Plant, pharmaceutical, mid-scale: twelve thousand. Sterile fill line, cartridge assembly, warehouse, and three hundred and sixteen integrated personnel.
 [/system]
 N: Twelve thousand Points, against a balance of fifteen thousand six hundred — the eight thousand six hundred he had left after the pull, plus seven thousand the System had paid him for the week: for the headcount, for the licence, and for what it described, without elaborating, as *the correct use of a lottery.*
 WESKER: Purchase. Place it on the vacant industrial parcel on Route 72, north of the interchange.
@@ -146,7 +146,7 @@ N: Three hundred and eleven people went to work there on Monday morning. They ha
 N: None of them had existed on Friday.
 [img] a night shift supervisor in a hard hat talking on a phone outside a lit factory door, warm light, dark yard
 [loc] Newark Plant — night shift
-N: A man called Ray Dorsey, plant supervisor, second shift, stood in the doorway at eleven o'clock on Monday night and called his wife, as he did every night.
+N: A man called Ray Dorsey, plant supervisor, second shift, stood in the doorway at twenty-one o'clock on Monday night and called his wife, as he did every night.
 MAN: Yeah. Same as always. Marcy's off sick, so I've got the line short. No — no, it's fine. Eleven years I've been doing this, honey, I can run a short line.
 N: He had been alive since Saturday.
 N: His wife existed. His house existed. The eleven years existed in the payroll system, in his own memory, in the callus on his right hand and in a photograph on his fridge of a holiday in Ocean City that had never happened and that he could describe in detail, including the rain on the Thursday.
@@ -162,7 +162,7 @@ Absolute: 22
 Integrated: 311
 Employees, ordinary: 50
 Total under your direction: 383
-[say] Roster. Twenty-two Absolute. Three hundred and eleven integrated. Fifty ordinary employees. Three hundred and eighty-three under your direction.
+[say] Roster. Twenty-two Absolute. Three hundred and sixteen integrated. Fifty ordinary employees. Three hundred and eighty-three under your direction.
 [/system]
 WESKER: Define the difference. Precisely.
 SYSTEM: Absolute personnel cannot disobey you. Integrated personnel can. They will not wish to, because you have given them no reason, but they may resign, complain, testify, or fail to come to work. They are people. They were simply not people last week.

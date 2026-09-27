@@ -17,7 +17,7 @@ CARRICK: (slow) Nine of the eleven people at this table cannot disobey the First
 CARRICK: (slow) This is not a government. It is Albert Wesker with a table in front of him.
 CARRICK: (slow) I am voting against, I am recording my reasons, and I am taking the post anyway, because the alternative is that somebody worse takes it.
 WESKER: (soft) Noted, Director Carrick. Minute it in full.
-N: It was minuted in full. The minutes of the Umbrella Directorate were published quarterly from 2051 to 2091, unredacted, in eleven languages, and the narrator has read all of them, and that is why this account exists at all.
+N: It was minuted in full. The minutes of the Umbrella Directorate were published quarterly from 2051 to 2091, unredacted, in seven languages, and the narrator has read all of them, and that is why this account exists at all.
 
 [music] m_corporate -10
 [img] a modest town hall meeting with rows of citizens, a mayor at a table, daylight
@@ -28,7 +28,7 @@ N: She was asked a question, on average, once every four meetings, and her instr
 MARGUERITE: (slow) I am to answer what I am asked, truthfully and completely. I am not to offer an opinion. I am not to indicate what the Directorate would prefer. If asked what the Directorate would prefer, I am to say that the Directorate has no preference, and if that is untrue I am to say that I am not permitted to answer.
 N: In May of 2054 the council voted, nine to four, to refuse an Umbrella proposal to expand the desalination plant, on the grounds that the expansion would support a resort development that the island did not want.
 N: Wilmington's response, by return, was one line: *Noted; the plant will not be expanded.*
-N: The resort was never built. Four hundred jobs were not created. The island's population fell by eleven per cent over the following twenty years and the council has voted four more times on the same question and refused it four more times, and the plant is still the size it was in 2046.
+N: The resort was never built. Four hundred jobs were not created. The island's population fell by nineteen per cent over the following twenty years and the council has voted four more times on the same question and refused it four more times, and the plant is still the size it was in 2046.
 N: The narrator considers this the single most persuasive fact in Umbrella's favour in two hundred and sixty years, and notes that it appears in none of the contemporary journalism, because a plant that was not built is not a story.
 [music] m_scheme -9
 [img] a map of the world on a screen with a scattering of highlighted territories, a dark room
@@ -46,9 +46,9 @@ Population under Directorate administration: 9,400,000
 Sentiment: 94% favourable
 Points: +2,000,000,000 per annum, recurring
 Balance: 11,400,000,000
-[say] Devotion, territorial. Nine million four hundred thousand people under Directorate administration. Sentiment: ninety-four per cent favourable. Two billion Points per annum, recurring. Balance: eleven billion four hundred million.
+[say] Devotion, territorial. Nine million four hundred thousand people under Directorate administration. Sentiment: ninety-four per cent favourable. Two billion Points per annum, recurring. Balance: fifteen billion four hundred million.
 [/system]
-WESKER: (soft) Eleven billion.
+WESKER: (soft) Fifteen billion.
 SYSTEM: Yes.
 WESKER: In 2026 you sold me a laboratory sublevel for six thousand.
 SYSTEM: I did. You spent sixty per cent of everything you had on it, which is why you are here and why most hosts are not.
@@ -74,7 +74,7 @@ N: She had refused it in 2037, when it became available to executives; in 2043, 
 N: Wesker came to see her in March, which he did four times a year and which nobody else in the Directorate knew about.
 WESKER: (soft) Your heart.
 CATHERINE: (slow) My heart is seventy years old and has been arguing with you for thirty-two of them, which I imagine is the mechanism.
-WESKER: (cold) The compound would repair it in eleven weeks.
+WESKER: (cold) The compound would repair it in twenty-nine weeks.
 CATHERINE: (slow) I know exactly what it would do, Albert. I have signed the accounts for it since it was a line item.
 [pause 0.6]
 CATHERINE: (slow) Do you want to know why? Properly, not the version I give Pell?

@@ -13,7 +13,7 @@ N: What he did not know was that the bay's camera had been replaced in June with
 N: Frame 4,411: an empty bay.
 N: Frame 4,412: a man in a long coat standing beside the drum, thirty-one metres from the door he entered by, in one two-hundred-and-fortieth of a second.
 N: Frame 4,413: the bay is empty and the drum is gone.
-N: Three frames. Eleven milliseconds. A Swiss night supervisor reviewing an unrelated alarm found it on the Thursday, watched it four times, and sent it to his manager with a message that said, in German, *look at this and tell me the camera is broken.*
+N: Three frames. Twelve milliseconds. A Swiss night supervisor reviewing an unrelated alarm found it on the Thursday, watched it four times, and sent it to his manager with a message that said, in German, *look at this and tell me the camera is broken.*
 N: By Saturday it was on the internet.
 
 [music] m_scheme -8
@@ -26,7 +26,7 @@ WESKER: (soft) Who is the largest motion-capture company in the world?
 CATHERINE: (fast) I'm sorry?
 WESKER: Visual effects. Motion capture. Who is the best of them?
 CATHERINE: Kestrel, in Wellington. They did the — Albert, what are you doing?
-N: And Wesker leaned back in the chair and did the thing that nobody — not Catherine, not Pell, not the four lawyers, not one of the eleven analysts who spent the following year writing about it — saw coming.
+N: And Wesker leaned back in the chair and did the thing that nobody — not Catherine, not Pell, not the four lawyers, not one of the thirteen analysts who spent the following year writing about it — saw coming.
 WESKER: (cold) Take it down from nowhere. Buy Kestrel. Nine hundred million; they will take six. And put out a statement this afternoon apologising for the leak of an unfinished marketing asset.
 [pause 0.5]
 CATHERINE: (soft) You're going to say you made it.
@@ -46,15 +46,15 @@ N: Twenty minutes in, Wesker stopped the presentation.
 WESKER: There is a rumour about this company that I would like to address, because it has become tiresome.
 N: On the screen behind him, three frames of black-and-white security footage from a loading bay in Basel.
 [img] a vast stage with a huge screen showing grainy security footage, a lone figure in black standing in front of it
-WESKER: (soft) Two hundred million people have now watched eleven milliseconds of video from one of our sites in Switzerland. It was a marketing asset. We have apologised for it. A number of people have decided it was not.
+WESKER: (soft) Two hundred million people have now watched twelve milliseconds of video from one of our sites in Switzerland. It was a marketing asset. We have apologised for it. A number of people have decided it was not.
 WESKER: (cold) So let us settle it.
-N: He walked to the edge of the stage. He indicated a steel case on a plinth, eleven metres away across the front of the hall, beside the second camera position.
+N: He walked to the edge of the stage. He indicated a steel case on a plinth, twenty-six metres away across the front of the hall, beside the second camera position.
 WESKER: That case contains the device we are launching. In a moment I am going to ask our partners at Kestrel to run the same effect live, because it turns out that this is what nine hundred million dollars buys.
 [pause 0.8]
 [sfx] sfx_whoosh +0.1
 [img] a blurred dark streak across a bright stage, thousands of camera flashes, audience reacting
 N: He was at the plinth.
-N: No cut. No edit. Eleven thousand people in the hall and four hundred cameras, and the man who had been standing at the lectern was standing at a plinth eleven metres away with a steel case in his hands and the sentence he had been speaking was not finished.
+N: No cut. No edit. Eleven thousand people in the hall and four hundred cameras, and the man who had been standing at the lectern was standing at a plinth twenty-six metres away with a steel case in his hands and the sentence he had been speaking was not finished.
 WESKER: (soft) — and this, ladies and gentlemen, is our new field unit.
 [sfx] sfx_camera_flashes +0.2
 [sfx] sfx_applause +0.6
@@ -78,7 +78,7 @@ WESKER: (cold) I told them *precisely* what I am, at the largest scale available
 [loc] Sublevel B4, Wilmington — 28 November 2029, 10:40 p.m.
 N: There was one person on the planet who was not fooled, and she had not watched the footage for entertainment. She had measured it.
 N: Dr. Evelyn Marsh had been alone with an archive for three years. She had built Aeterna out of a vial labelled *ODD*. She was, by 2029, the second-best biologist in the world, and she had spent four evenings with the Singapore footage, a stopwatch, a frame counter and the published floor plan of the hall.
-EVELYN: (fast) Eleven point four metres in under one frame at sixty. That is a floor speed above six hundred kilometres an hour, from a standing start, on a wooden stage, and you were holding a case when you arrived, which means you took it off the plinth *during* the movement.
+EVELYN: (fast) Eighteen point four metres in under one frame at sixty. That is a floor speed above six hundred kilometres an hour, from a standing start, on a wooden stage, and you were holding a case when you arrived, which means you took it off the plinth *during* the movement.
 N: She was not accusing him. Her hands were shaking, and it was not fear.
 EVELYN: The acceleration alone should have separated your retinas. The air displacement should have knocked over the water glass on the lectern, which it did, which nobody noticed because everyone was looking at you. Your body is not doing an unusual thing well, Director. Your body is doing an impossible thing easily.
 [pause 0.7]

@@ -7,10 +7,10 @@
 N: The Veth Hegemony is older than the oceans of Earth. It has four hundred thousand worlds, a caste structure that has not changed in nine hundred thousand years, and a founding doctrine that the human record translates, imperfectly, as *the settled question.*
 N: The settled question is this: every species that reaches the void either submits to an order or imposes one, and the Veth reached the void first, and therefore the order exists, and therefore submission is not a defeat but an administrative formality that has already taken place and merely needs to be acknowledged.
 N: They have annexed eleven hundred species. They have fought four wars in ninety thousand years. The wars are short.
-N: They arrived at Ochoa — a human colony of nine hundred thousand people, forty-three years old, with a dock, two ships and a hydroponic economy — on the fourth of April 2141, with eleven vessels, and they did not fire.
+N: They arrived at Ochoa — a human colony of nine hundred thousand people, forty-three years old, with a dock, two ships and a hydroponic economy — on the fourth of April 2141, with thirteen vessels, and they did not fire.
 [img] a colonial administrator and officials facing a huge holographic alien figure in a colony council chamber
 VETH: (slow) You are informed. The system is within the settled order. Your administration continues. Your production is assessed at one part in nine. Your vessels will be registered. A garrison will arrive in four hundred days.
-N: The colony's administrator — a woman of sixty-one named Theresa Okonkwo-Vance, who had been elected eleven months earlier on a platform about water rights — asked the question that every annexed species has asked and that the Veth have a standard answer for.
+N: The colony's administrator — a woman of sixty-one named Theresa Okonkwo-Vance, who had been elected eight months earlier on a platform about water rights — asked the question that every annexed species has asked and that the Veth have a standard answer for.
 WOMAN: (slow) And if we decline?
 VETH: (slow) Then the system is within the settled order, your administration does not continue, and a garrison arrives in four hundred days.
 N: She transmitted the exchange to Earth and to every human world, in the clear, unencrypted, within the hour, which was not in any protocol and which is the reason the next fifty years went the way they did.
@@ -37,7 +37,7 @@ WESKER: (very soft) The fourth thing is that they have made a mistake, and I do 
 N: The narrator asks you to notice that Albert Wesker, at this point, had been alive in this world for one hundred and fifteen years, and had not personally won anything since 2077.
 WESKER: (cold) The Veth have annexed eleven hundred species. In every case they have approached a species' *authority* — a throne, a council, a hierarch — and informed it, and the authority has either acknowledged or been removed and replaced with one that would.
 WESKER: (slow) Their protocol has no procedure for a species that cannot be informed, because it does not have a single point that speaks for it.
-WESKER: (very cold) There are four hundred and eleven worlds, eleven billion people, nine hundred settlements, four legal systems and this Assembly, which cannot bind a colony that votes against it. If every one of those bodies answers the Veth separately, at its own pace, in its own words, with different answers, the Hegemony is confronted with an administrative condition it has not encountered in ninety thousand years.
+WESKER: (very cold) There are four hundred and eleven worlds, eighteen billion people, nine hundred settlements, four legal systems and this Assembly, which cannot bind a colony that votes against it. If every one of those bodies answers the Veth separately, at its own pace, in its own words, with different answers, the Hegemony is confronted with an administrative condition it has not encountered in ninety thousand years.
 SENATOR: (slow) You are proposing that we defeat an interstellar empire with *paperwork*.
 [pause 0.6]
 WESKER: (soft) Senator, I built a company that owned half this planet's infrastructure and no government ever laid a finger on it, and I did it with nothing else.
@@ -55,7 +55,7 @@ WOMAN: (slow) Their fastest recorded response to a single query is nine days. We
 [pause 0.8]
 COUNCILLOR: (slow) That's not a defence. That's *filibustering an empire*.
 WOMAN: (very slow) Yes. We have nine hundred thousand people, two ships and a hydroponic economy, and the only weapon that has ever been available to anybody in our position is that the people who came to take our system have rules and we have read them.
-N: The Veth answered eleven of the four hundred and eleven queries. The twelfth required them to state the basis of the assessment in a form that Ochoa's council was able to appeal, and the appeal required a hearing, and there had not been a hearing in the settled order in nine thousand years.
+N: The Veth answered twenty-four of the four hundred and eleven queries. The twelfth required them to state the basis of the assessment in a form that Ochoa's council was able to appeal, and the appeal required a hearing, and there had not been a hearing in the settled order in nine thousand years.
 N: The narrator notes that Theresa Okonkwo-Vance had been a fisheries lawyer.
 [music] m_alien -8
 [img] a vast alien command chamber with an armoured admiral among ranks of officers, cold light
@@ -69,7 +69,7 @@ N: And the Veth admiral, whose name renders as Sethra-Ka and who had annexed for
 [img] {VETH} an armoured reptilian alien admiral seated across a table from {WESKER}, cold alien chamber
 [loc] The flagship — 4 June 2149
 VETH: (slow) You are the cause of this.
-WESKER: (cold) No. I proposed it. Eleven billion people decided to do it, in about four hundred separate votes, over seven years, and about a third of them did it wrong and two colonies did it in a way I strongly advised against.
+WESKER: (cold) No. I proposed it. Eighteen billion people decided to do it, in about four hundred separate votes, over seven years, and about a third of them did it wrong and two colonies did it in a way I strongly advised against.
 VETH: (slow) You are the authority.
 WESKER: (very cold) Admiral, that is the assumption your entire order rests on, and it is the only thing you have got wrong. I have been trying to stop being the authority since I was a hundred and eleven years old. It has taken me seventy years and it is not finished and it is the hardest thing I have ever done.
 [pause 1.0]

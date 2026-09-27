@@ -10,7 +10,7 @@ N: Dr. William Birkin had been given the largest laboratory complex in the weste
 N: Dr. Evelyn Marsh had spent four months alone with a freezer archive, and had found in it a cell line that would not die.
 [img] a microscope view of glowing cells dividing, deep blue and green, scientific, dramatic
 N: The line was labelled *ODD — DO NOT DISCARD*, collected in 2004 by a technician who had never lived, from a donor who had never existed. Human dermal fibroblasts. They should have stopped dividing at forty passages, which is what human cells do: they count, and when the count runs out they retire.
-N: These had reached three hundred and eleven passages and had not aged a day.
+N: These had reached three hundred and twenty-two passages and had not aged a day.
 EVELYN: (fast) It isn't immortalisation. That's the first thing I checked, that's what everyone checks. Immortalised lines are cancer — they've thrown away the brakes and they drift, they go aneuploid, they turn into something that isn't a person any more. These are *clean*. Normal karyotype at passage three hundred. They keep the brakes. They just don't wear out.
 BIRKIN: (fast) Telomerase?
 EVELYN: Off. Barely detectable. That's the part that made me sit down.
@@ -18,7 +18,7 @@ BIRKIN: Then how are they maintaining —
 EVELYN: They aren't maintaining length. They're maintaining *state*. The telomeres shorten exactly the way yours do, and the cell doesn't care, because whatever is in these cells has uncoupled the damage signal from the shortening. They stop counting. They don't stop dividing correctly.
 N: There was a silence of about four seconds, which in a room containing William Birkin was almost unheard of.
 BIRKIN: (soft) Oh, that's *filthy*. That's beautiful. Albert, did you hear —
-N: Wesker had been standing at the back of the room with his arms folded for eleven minutes, and had not said a word, because he had understood it in the first ninety seconds and had been waiting to see whether the two of them would get there together.
+N: Wesker had been standing at the back of the room with his arms folded for fifteen minutes, and had not said a word, because he had understood it in the first ninety seconds and had been waiting to see whether the two of them would get there together.
 WESKER: I heard.
 N: He crossed to the screen.
 WESKER: Dr. Marsh, you are describing a factor that suppresses the senescence programme without disabling the tumour suppressors that make senescence necessary. If that is true, it is the most valuable molecule on this planet, and if it is *not* true, you have found an elaborate way to grow tumours slowly. So we will find out which, and we will do it in the order that makes a product rather than a paper.
@@ -36,7 +36,7 @@ N: The active fraction was a protein complex of four subunits. Birkin's people r
 N: They called it Aeterna, which Catherine hated and which tested extraordinarily well.
 N: And in March of 2028 the first readout came back, and a contract research organisation in Delaware quietly lost its mind.
 [img] a graph on a large screen showing two separated curves, scientists standing in front of it, dim room, blue light
-N: Thirty-one weeks of dosing. Two hundred and eleven measured markers of biological ageing: immune repertoire, inflammatory load, methylation clocks, grip strength, VO2 max, skin recoil, the lot.
+N: Thirty-one weeks of dosing. Two hundred and nine measured markers of biological ageing: immune repertoire, inflammatory load, methylation clocks, grip strength, VO2 max, skin recoil, the lot.
 N: The placebo arm had aged thirty-one weeks.
 N: The treatment arm had gone backwards. Not dramatically — not a woman of seventy-two walking out with the face of a girl. On the clocks, an average of nine years. In the immune data, more than that: the volunteers' T-cell repertoires had begun refilling from a compartment that should have been closed for four decades.
 N: A sixty-eight-year-old retired school administrator named Doris Halloran, who had joined the trial because it paid four hundred dollars and she liked the nurse, had the immune profile of a woman of forty.
@@ -45,7 +45,7 @@ N: A sixty-eight-year-old retired school administrator named Doris Halloran, who
 [img] a large press conference hall crowded with journalists and cameras, a lit stage with a single podium, hundreds of raised phones
 [loc] Philadelphia — 4 April 2028
 N: The data release was the first genuinely public thing Umbrella ever did, and Wesker planned it for six weeks.
-N: He did not announce a miracle. He released the entire dataset — every patient, every marker, the protocol, the failed assays, the two serious adverse events, the statistical plan they had pre-registered eleven months earlier — and then he put Evelyn Marsh on a stage in front of nine hundred journalists and four hundred scientists and let her be brilliant for forty minutes.
+N: He did not announce a miracle. He released the entire dataset — every patient, every marker, the protocol, the failed assays, the two serious adverse events, the statistical plan they had pre-registered twenty-seven months earlier — and then he put Evelyn Marsh on a stage in front of nine hundred journalists and four hundred scientists and let her be brilliant for forty minutes.
 N: Then he took the questions.
 [img] {WESKER} standing alone at a podium in a bright press hall, hundreds of cameras, composed and still
 N: There was a panel of hostile immunologists in the third row. One of them, a man from a Boston institute who had spent a career on senescence and had four competing molecules in trials, stood up with a question he had sharpened on the flight down.
@@ -54,9 +54,9 @@ N: A murmur. It was a good question and everybody in the room knew it.
 WESKER: I agree with you.
 N: The murmur stopped.
 WESKER: The clocks are the least interesting data in that release, and if they were all we had I would not have taken this stage. Turn to the immune panel, table eleven. Thymic output. You know as well as I do that the thymus involutes in adolescence and is functionally gone by sixty, and that everything that makes an old person's infection dangerous follows from that: no new T-cell receptors, so no new answers to new pathogens, only the answers you had in your thirties.
-WESKER: Table eleven reports naive CD4 counts and receptor excision circles at thirty-one weeks. Forty-one of our sixty-nine treated patients have output that should not exist in a body of that age. That is not a correlation. That is a tissue which had closed, reopening, in a living human being, and you may verify it in your own laboratory because I have published the assay.
+WESKER: Table thirteen reports naive CD4 counts and receptor excision circles at thirty-one weeks. Forty-one of our sixty-nine treated patients have output that should not exist in a body of that age. That is not a correlation. That is a tissue which had closed, reopening, in a living human being, and you may verify it in your own laboratory because I have published the assay.
 MAN: (soft) And the mechanism?
-WESKER: (cold) I do not know the mechanism, and I have declined to guess in public, and I notice that this is the first time in eleven years anyone at this podium has said that sentence to you. Dr. Marsh will publish the fractionation in the autumn. She will be wrong about part of it and you will correct her, and that is how it is supposed to work.
+WESKER: (cold) I do not know the mechanism, and I have declined to guess in public, and I notice that this is the first time in eight years anyone at this podium has said that sentence to you. Dr. Marsh will publish the fractionation in the autumn. She will be wrong about part of it and you will correct her, and that is how it is supposed to work.
 N: The narrator wishes to record that the applause at the end of that session was started, involuntarily, by the man from the Boston institute.
 [sfx] sfx_applause +0.3
 [sfx] sfx_camera_flashes +0.5
@@ -87,10 +87,10 @@ WESKER: Goodnight, Ms. Adeyemi.
 [img] a pharmacy counter with an empty shelf, a handwritten notice, an ordinary customer waiting, fluorescent light
 [loc] The world — spring 2028
 N: The narrator will give you the world in five pictures, because this is the year the world starts to matter.
-N: In Singapore, a private clinic took deposits for a therapy that was two years from approval, and took eleven thousand of them in a week.
+N: In Singapore, a private clinic took deposits for a therapy that was two years from approval, and took eighteen thousand of them in a week.
 N: In Ohio, a pharmacist put a printed notice on an empty shelf explaining, for the ninth time that day, that Aeterna was not a pill, was not for sale, and would not be for sale until at least 2030, and that no, she did not know anybody who could get it.
 N: In Rome, a cardinal preached a careful sermon about the difference between healing and refusing to die, and was quoted approvingly by people who had not listened to the second half.
-N: In a committee room in Washington, a health economist testified that if the trial result held at scale, the United States' long-term care liability fell by something between four and eleven trillion dollars, and watched every member of the committee stop looking at their phones at the same moment.
+N: In a committee room in Washington, a health economist testified that if the trial result held at scale, the United States' long-term care liability fell by something between four and twenty-four trillion dollars, and watched every member of the committee stop looking at their phones at the same moment.
 N: And in a dormitory in Manila, a nineteen-year-old biology student changed the wallpaper on her phone to a photograph of Evelyn Marsh on a stage in Philadelphia, and told her mother she was going to work for those people one day.
 N: Nobody was frightened. That is the thing to hold on to. In the spring of 2028, not one human being on this planet was frightened of Umbrella, and the reason is simple: everything it had done so far was *good*.
 

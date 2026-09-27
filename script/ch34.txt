@@ -6,14 +6,14 @@
 [loc] Geneva — 19 September 2072
 N: The world tried to stop him once. The narrator would like to say at the outset that it was not a stupid attempt, that the people who made it were not villains, and that they were right about almost everything.
 N: The Coalition began in a room in Geneva in September of 2072 with eleven governments, and it began over a map.
-N: The map showed Umbrella territory: nineteen protectorates, the Free Territory, Raccoon City, forty-one facilities with extraterritorial status, a launch complex on the equator, and — as of March that year — two orbital habitats with a combined population of eleven thousand.
+N: The map showed Umbrella territory: nineteen protectorates, the Free Territory, Raccoon City, forty-one facilities with extraterritorial status, a launch complex on the equator, and — as of March that year — two orbital habitats with a combined population of twelve thousand.
 N: It also showed something that nobody had drawn before, and that a junior analyst at the French foreign ministry had spent four months assembling: the *dependency* map. Power, medicine, food, water, logistics, currency, orbit. In grey, every country that could not function for ninety days without Umbrella.
 N: The grey covered everything except four states, and two of those were grey by 2074.
 MINISTER: (slow) I want to put the question as plainly as I can, because we have been circling it for four years.
 MINISTER: (slow) Has anything Umbrella has done in forty-six years been hostile to any state in this room?
 [pause 0.6]
 MINISTER: (slow) No. Nothing. Not one act. And that is precisely the problem, because it means we have no case, no casus belli, no legal instrument and no public support, and in twenty years it will be too late to have any of those things even if he gives us one.
-N: The Coalition's founding paper is eleven pages and its argument is in the last paragraph, and the narrator considers it the most honest document produced by any government in this century.
+N: The Coalition's founding paper is thirteen pages and its argument is in the last paragraph, and the narrator considers it the most honest document produced by any government in this century.
 MINISTER: (slow) We are not proposing to act against Umbrella because of what it has done. We are proposing to act because no arrangement in which the welfare of eight billion people depends on the continued benevolence of one unaccountable individual can be permitted to become permanent, and because every year we delay, the cost of ending it rises and the number of people who would suffer from ending it rises with it.
 MINISTER: (slow) There will never be a good moment. There will only be worse ones.
 N: Twelve states signed. The operational planning began in 2073. It was called LANTERN and it was, by any professional standard, excellent.
@@ -26,11 +26,11 @@ REDQUEEN: (soft) Twelve states. A joint task force, designated LANTERN. Their ob
 WESKER: (cold) Timeline.
 REDQUEEN: (soft) Earliest viable execution, autumn 2076. Most likely, spring 2077.
 WESKER: (soft) Four years.
-REDQUEEN: (soft) Four years. Director, I am obliged to tell you that their analysis is correct in every particular except one, and that their central judgement — that this cannot be allowed to become permanent — is a judgement I share and have told you I share on one hundred and eleven occasions.
+REDQUEEN: (soft) Four years. Director, I am obliged to tell you that their analysis is correct in every particular except one, and that their central judgement — that this cannot be allowed to become permanent — is a judgement I share and have told you I share on one hundred and twenty-six occasions.
 [pause 0.8]
 WESKER: (very cold) And the particular they are wrong about?
 REDQUEEN: (soft) They believe that if you are removed, the infrastructure continues to function. It does not. Nine million people in the territories, four hundred thousand in the Arcology and every Absolute employee you own are contingent on you in ways their planners have not modelled because their planners do not know what an Absolute is.
-REDQUEEN: (very soft) If LANTERN succeeds, approximately eleven million people simply stop, and I do not know what that looks like, and neither do you.
+REDQUEEN: (very soft) If LANTERN succeeds, approximately eighteen million people simply stop, and I do not know what that looks like, and neither do you.
 N: The narrator asks you to notice what Albert Wesker did next, because there were four obvious moves and he made none of them.
 N: He did not strike first. He did not expose the plan, which would have destroyed four governments in a week. He did not use the Brussels Register, or the asset network, or the eleven senators whose instincts he had bought in 2034 and never once used. He did not move a single soldier.
 N: He did nothing at all, for three years and nine months, and he did not tell one other person in the Directorate that the Coalition existed.
@@ -40,7 +40,7 @@ N: Carrick found out in November of 2076, four months before execution, through 
 CARRICK: (fast) Three years. You've known for three years and you didn't tell the Directorate, you didn't tell Hale, you didn't tell *me* —
 WESKER: (soft) No.
 CARRICK: (slow) Why?
-WESKER: (very cold) Because on the day I tell Hale, the Security Service begins to prepare, and on the day the Security Service begins to prepare, LANTERN's planners see it, and the operation they are planning changes from a seizure into a war. There are one hundred and ninety thousand people in the Service and six thousand Tyrants in cold storage and about eleven million people living under my administration, and every single preparation I could make would cost lives that are currently not going to be lost.
+WESKER: (very cold) Because on the day I tell Hale, the Security Service begins to prepare, and on the day the Security Service begins to prepare, LANTERN's planners see it, and the operation they are planning changes from a seizure into a war. There are one hundred and ninety thousand people in the Service and six thousand Tyrants in cold storage and about eighteen million people living under my administration, and every single preparation I could make would cost lives that are currently not going to be lost.
 CARRICK: (fast) And your plan is to be *surprised*?
 WESKER: (soft) My plan is to lose.
 [pause 1.2]
@@ -68,7 +68,7 @@ WESKER: (very slow) *So I am going to do the thing that is correct and arrange i
 [loc] The Free Territory and nineteen protectorates — 4 March 2077, 04:00
 N: LANTERN executed at four in the morning on the fourth of March 2077, simultaneously, in thirty-one locations.
 N: The narrator will describe the first ninety minutes, because they are the only ninety minutes in which anybody thought it was going to work.
-N: Naval task groups from four nations stood off the Arcology. Airborne elements landed at the launch complex in the Line Islands, at Rockfort, at the Newark plant, at eleven fusion stations and at the Allegheny ridge. Cyber elements went into Umbrella's civil networks at three fifty-eight.
+N: Naval task groups from four nations stood off the Arcology. Airborne elements landed at the launch complex in the Line Islands, at Rockfort, at the Newark plant, at twenty-three fusion stations and at the Allegheny ridge. Cyber elements went into Umbrella's civil networks at three fifty-eight.
 N: They met no resistance of any kind.
 N: No shots were fired. No aircraft was engaged. The gates at the Allegheny ridge were open. The Security Service — one hundred and ninety thousand personnel — was, at four in the morning on the fourth of March, standing in its barracks, unarmed, under a standing order that had been issued nine hours earlier and that read, in its entirety: *Do not resist. Do not assemble. Do not arm. Assist the visiting personnel with anything they request.*
 N: At the Arcology, four hundred thousand civilians watched marines come up the causeways and were asked by their own municipal broadcast, in nine languages, to remain indoors and be polite.
@@ -80,7 +80,7 @@ N: The narrator will record that the colonel's helmet camera ran for the entire 
 WESKER: (slow) I am not going to resist you and neither is anybody who works for me. There are no weapons anywhere on this platform. The Security Service is standing down at every site; you will have confirmed that by now. Nothing will be destroyed, nothing will be hidden, and every door in every facility is open, including three that are not on any plan, and I will give you their locations in writing before you ask.
 COLONEL: (slow) Dr. Wesker, you are —
 WESKER: (soft) In a moment. First, four facts, and I would like them on your recording.
-WESKER: (cold) One. Eleven million people in nineteen territories depend for power, water and medicine on systems that are administered by personnel who are, for reasons your planners were not able to establish, incapable of acting without instruction from this organisation. As of four o'clock this morning they have no instruction. They are not resisting you. They are simply *stopped*, and in about ninety-six hours the desalination plants at four protectorates will be the first thing anyone notices.
+WESKER: (cold) One. Eighteen million people in nineteen territories depend for power, water and medicine on systems that are administered by personnel who are, for reasons your planners were not able to establish, incapable of acting without instruction from this organisation. As of four o'clock this morning they have no instruction. They are not resisting you. They are simply *stopped*, and in about ninety-six hours the desalination plants at four protectorates will be the first thing anyone notices.
 WESKER: (slow) Two. Four point one billion people take a compound manufactured at forty-one plants you have now seized. The process is fully documented and I will hand it over this morning. Manufacture is not the difficulty. Distribution is, and the network is run by people from the same category as the personnel I have just described.
 WESKER: (slow) Three. I am, as of this moment, the only individual alive who can issue an instruction that those people will accept, and I am going to do so, in front of you, whatever else happens this morning. I have written it already. It authorises every Absolute employee of this organisation to take instruction from the officer commanding at their site, indefinitely, in my name.
 [pause 0.8]

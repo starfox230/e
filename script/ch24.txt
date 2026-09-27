@@ -16,9 +16,9 @@ WESKER: I want them to ask me to take them.
 N: The narrator will describe the mechanism in one paragraph, because it is the last purely commercial thing in this account and because it is beautiful in the way that a trap is beautiful.
 N: Umbrella announced, in April of 2039, a thing it called the Open Pipeline: any pharmaceutical company on earth could submit a molecule to Umbrella's discovery and manufacturing infrastructure, receive in return a full development package — synthesis route, toxicology, clinical design, regulatory dossier — and keep one hundred per cent of the product, in exchange for a four per cent royalty and the right for Umbrella to manufacture.
 N: It was, on its face, the most generous offer in the history of the industry.
-N: It was also the end of the industry, and every chief executive on earth knew it within a week, and every single one of them signed anyway, because the first one to refuse would spend four years developing a molecule that their competitor would have on the market in eleven months.
+N: It was also the end of the industry, and every chief executive on earth knew it within a week, and every single one of them signed anyway, because the first one to refuse would spend four years developing a molecule that their competitor would have on the market in sixteen months.
 [img] a montage of newspaper business pages and stock tickers, headlines about mergers
-N: By December of 2039, six hundred and eleven pharmaceutical companies had joined the Open Pipeline, including seven of the nine survivors.
+N: By December of 2039, six hundred and twenty-one pharmaceutical companies had joined the Open Pipeline, including seven of the nine survivors.
 N: By 2041 the industry's research divisions had quietly ceased to exist — not closed, just *unnecessary* — and their staff had been hired by Umbrella, at their own request, in numbers that eventually reached two hundred and eighty thousand.
 N: Umbrella never bought a single one of them. It simply became the thing they all ran on, and then it was the industry, and there was no moment anyone could point at.
 [sfx] sfx_system_chime +0.3
@@ -34,8 +34,8 @@ Points: +41,000,000
 [img] a pharmaceutical research building with an empty car park, a faded sign, overcast daylight
 [loc] Basel, Ingelheim, New Jersey — 2040 to 2041
 N: The narrator will tell you what the end of an industry looked like to the people inside it, because the panel says *hostile acquisitions required: zero* and that sentence hides two hundred thousand lives.
-N: Nobody was sacked. That is the first thing, and it is true, and it is the reason there was never a serious political movement against it. Every chemist, every pharmacologist, every regulatory affairs manager in six hundred and eleven companies was offered a position at Umbrella at their existing salary, and about a third took it, and the rest stayed where they were and found, over about four years, that there was nothing to do.
-N: A medicinal chemist in Basel named Ulrich Brandt, fifty-one, eleven patents, described it in an interview in 2043 that is quoted in every history of the period.
+N: Nobody was sacked. That is the first thing, and it is true, and it is the reason there was never a serious political movement against it. Every chemist, every pharmacologist, every regulatory affairs manager in six hundred and seven companies was offered a position at Umbrella at their existing salary, and about a third took it, and the rest stayed where they were and found, over about four years, that there was nothing to do.
+N: A medicinal chemist in Basel named Ulrich Brandt, fifty-one, nineteen patents, described it in an interview in 2043 that is quoted in every history of the period.
 MAN: (slow) They did not close us. That is what people misunderstand. Our laboratory is open, our salaries are paid, our coffee is good. We simply stopped being asked.
 MAN: (slow) In 2038 we had four hundred projects. In 2041 we have nine, and all nine are things Umbrella's own pipeline flagged as not worth their time, and we know it, because the flag is in the file they send us.
 MAN: (very slow) I have been given everything I asked for my entire career: funding, staff, equipment, freedom. And I have not had an idea that mattered since I was forty-four, and I cannot tell any more whether that is me or whether it is the arrangement.
@@ -77,7 +77,7 @@ N: The narrator asks you to notice that the System agreed, and to hold on to tha
 N: He spent forty million Points on the Conglomerate banner: fifty pulls at eight hundred thousand each.
 N: The narrator will give you four of the fifty.
 [sfx] sfx_gacha_rare +0.2
-N: A Rare: **Thought Acceleration I**, which he described to Evelyn eleven months later as *the ability to have the fourth idea while everyone else is still enjoying the first*.
+N: A Rare: **Thought Acceleration I**, which he described to Evelyn sixteen months later as *the ability to have the fourth idea while everyone else is still enjoying the first*.
 N: An Epic: **Regenerative Threshold**, which raised what his body could survive from *most things* to a category the System described, unhelpfully, as *most events*.
 N: A second Epic: **The Red Queen's precursor** — an autonomous logistics and modelling intelligence, which he installed at Arklay and which became, four years later, something considerably more.
 [sfx] sfx_gacha_gold +0.1
@@ -97,8 +97,8 @@ Note: this formation has no equivalent in the private sector of any nation on ea
 [say] First Division. Six thousand Absolute personnel in four combat regiments, one logistics and one signals. Forty cradled Tyrants. Sixty-one rotary and twenty-two fixed-wing aircraft. A base at your placement, integrated as a private training facility established in 2019. Doctrine, training pipeline and replacement stream included. This formation has no equivalent in the private sector of any nation on earth.
 [/system]
 WESKER: (soft) Place it in the Alleghenies. North of the estate, east of the city, on the ridge.
-SYSTEM: That is eleven thousand acres of state forest.
-WESKER: (cold) It is eleven thousand acres of private land held by a timber trust since 1969, and there has been a fenced training facility on it since 2019, and the Pennsylvania National Guard has exercised there twice.
+SYSTEM: That is fifteen thousand acres of state forest.
+WESKER: (cold) It is fifteen thousand acres of private land held by a timber trust since 1969, and there has been a fenced training facility on it since 2019, and the Pennsylvania National Guard has exercised there twice.
 SYSTEM: (flat) They have.
 
 [music] m_march -7

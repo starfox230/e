@@ -33,9 +33,9 @@ BROKER: (slow) We are not asking you to disarm. We are asking you to stop, at th
 WESKER: (very cold) And if we decline?
 BROKER: (slow) Then nothing whatsoever happens, Director. That is the part your people keep failing to hear. We do not punish. We simply do not shelter, and in about ninety years the Veth will arrive, and you will discover what that means without us standing between you.
 N: He accepted two of the three.
-N: The trade station was placed at the fourth Lagrange point in 2104 and is still there. The science agreement made Umbrella, within a decade, the largest single exporter of biological knowledge in nine hundred light years, and the narrator notes that it also gave eleven species access to Aeterna and that the Compact's own actuaries had to be rebuilt.
+N: The trade station was placed at the fourth Lagrange point in 2104 and is still there. The science agreement made Umbrella, within a decade, the largest single exporter of biological knowledge in nine hundred light years, and the narrator notes that it also gave five species access to Aeterna and that the Compact's own actuaries had to be rebuilt.
 N: He declined the third.
-WESKER: (cold) I am not going to promise that my species will not arm, because I am not entitled to promise it. There are eleven billion human beings, four hundred thousand of them in the Free Territory, and about nine hundred of them build ships in orbit, and I have spent forty years making it possible for them to refuse me.
+WESKER: (cold) I am not going to promise that my species will not arm, because I am not entitled to promise it. There are seven billion human beings, four hundred thousand of them in the Free Territory, and about nine hundred of them build ships in orbit, and I have spent forty years making it possible for them to refuse me.
 WESKER: (slow) You are asking me to use an authority that I have been trying to dismantle, in order to guarantee something for four hundred years, on behalf of people who are not born.
 [pause 0.6]
 WESKER: (very cold) You have been talking to me for four months. Tell me honestly: is that a refusal, or is it the only trustworthy answer you have had from this system?
@@ -49,14 +49,14 @@ N: The narrator will spend a page on what the Compact actually did to humanity, 
 N: The station opened in 2104 with nineteen species trading on it. By 2107 there were four hundred human businesses on it, of which three hundred and eleven were not Umbrella and eleven were one person with a cargo allowance.
 N: What humanity sold: biological science, which the Compact considered the best in nine hundred light years; music, which nobody had expected and which four species developed an expensive habit for; and — this is the part every human schoolchild learns — argument.
 BROKER: (slow) You will not understand this and I have stopped trying to explain it politely. Your species produces disagreement of a quality we have not encountered. Not conflict. Conflict is common and cheap. *Formal structured disagreement*, conducted in public, by parties who continue to trade with each other afterwards.
-BROKER: (slow) There are eleven species in the Compact who have paid, in hard trade credit, to have human advocates argue their disputes. We have nothing like it. Our disputes are resolved by price.
+BROKER: (slow) There are five species in the Compact who have paid, in hard trade credit, to have human advocates argue their disputes. We have nothing like it. Our disputes are resolved by price.
 N: The Compact's archive at L4 contains four thousand years of trade law and, in a wing added in 2111, the complete proceedings of the Human Assembly, translated, updated weekly, consulted by nine species.
-N: Umbrella earned nothing from it. It had no part in it. Albert Wesker read the Compact's assessment of it in 2112 and, according to the Red Queen's log, read it four times and then sat for eleven minutes.
+N: Umbrella earned nothing from it. It had no part in it. Albert Wesker read the Compact's assessment of it in 2112 and, according to the Red Queen's log, read it four times and then sat for twenty-two minutes.
 [music] m_lo -9
 [img] a vast human fleet of ships in orbit around a blue planet, many hulls, floodlights, stars
 [loc] The solar system — 2104 to 2141
 N: The narrator will now cover thirty-seven years in a page, because this is a story about one man and because for thirty-seven years the story is not about him.
-N: Humanity went out. Not in an exodus and not in an empire: in about four hundred separate attempts, most of them badly funded, nine of which failed with loss of life, and eleven of which became something.
+N: Humanity went out. Not in an exodus and not in an empire: in about four hundred separate attempts, most of them badly funded, nine of which failed with loss of life, and fifteen of which became something.
 N: The *Christina* made landfall in 2098 at a system the catalogue calls Kiln and its people call, for reasons that involve a joke about a welder, Ochoa. Mira Halder was its first elected administrator, and resigned after one term because she said the job should never be held by the person who built the place, and then spent forty years building other things and arguing with the people who did hold it.
 N: Raccoon City sent nine thousand people. The Arcology sent forty thousand, which was ten per cent of its population, and the Tuesday problem in the Free Territory — the consequence deficit, the four-times suicide rate — fell by two thirds inside a generation and nobody has ever entirely agreed why.
 N: The Progenitor lineage went out too. There were about four hundred of them by 2110: Evelyn Marsh's family and the families of the eleven people she had, after nine years of argument with the Directorate and the Hangzhou tribunal, been permitted to offer it to. Mira Reiss-Marsh, who was twenty-one, went to Ochoa on the second wave and did not tell anybody what she was for eleven years.
@@ -68,7 +68,7 @@ Population of the human sphere: 11,900,000,000
 Share administered by Umbrella: 0.09% and falling
 Absolute personnel remaining: 141,000 · release programme: 66%
 Points: +4,000,000 this quarter, the lowest since 2029
-[say] Umbrella, audit. Nineteen territories. Eleven million four hundred thousand people under administration, out of a human sphere of eleven point nine billion. Umbrella's share: nought point nought nine per cent, and falling. One hundred and forty-one thousand Absolute personnel remaining; the release programme is at sixty-six per cent. Four million Points this quarter, the lowest since 2029.
+[say] Umbrella, audit. Nineteen territories. Nine million four hundred thousand people under administration, out of a human sphere of twenty-seven point nine billion. Umbrella's share: nought point nought nine per cent, and falling. One hundred and forty-one thousand Absolute personnel remaining; the release programme is at sixty-six per cent. Four million Points this quarter, the lowest since 2029.
 [/system]
 WESKER: (soft) The lowest since 2029.
 SYSTEM: (flat) Yes.
@@ -77,4 +77,4 @@ WESKER: (cold) Am I doing badly?
 SYSTEM: (flat) You are doing something I have no measure for. Your species is growing at a rate that has no precedent in my record. Your organisation is shrinking, deliberately, at your own instruction. I pay for consequence and the consequence is enormous and almost none of it is now attributable to you.
 SYSTEM: (flat) In four hundred and eleven worlds, no host has ever run this experiment. I would like to see how it ends.
 N: The narrator notes that in 2141 the Veth Hegemony arrived thirty-nine years ahead of the Compact's estimate, and that it did not find a single man with an empire.
-N: It found eleven billion people spread across four hundred worlds who had spent forty years learning how to argue, and one very old thing in a black coat standing quietly at the back of the argument, who had been waiting for them since 2103.
+N: It found seven billion people spread across four hundred worlds who had spent forty years learning how to argue, and one very old thing in a black coat standing quietly at the back of the argument, who had been waiting for them since 2103.

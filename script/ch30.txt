@@ -25,7 +25,7 @@ N: The narrator will not give you the clinical course. It is in the literature; 
 N: What matters here is the eleventh of June, when her staff — six hundred Absolute personnel who could not disobey her, and who had been instructed on the ninth to take no action and inform no one — stood in a corridor outside a sealed room and watched a woman convulse for four hours on a monitor.
 N: What matters is that one of them broke.
 N: His name was Dr. Anton Reiss. He had been summoned into existence in 2039. He was, by every measure the System had ever offered, incapable of disobedience.
-N: At eleven minutes past four in the morning on the eleventh of June, Anton Reiss walked to a terminal and sent a nine-word message to Wilmington against a standing instruction, and the message said: *Director. Dr. Marsh has dosed herself. Nine days. Come.*
+N: At eighteen minutes past four in the morning on the eleventh of June, Anton Reiss walked to a terminal and sent a nine-word message to Wilmington against a standing instruction, and the message said: *Director. Dr. Marsh has dosed herself. Nine days. Come.*
 [sfx] sfx_system_chime +0.2
 [system] ANOMALY
 Absolute personnel, designation REISS, A.: instruction refused
@@ -39,7 +39,7 @@ N: The narrator asks you to hold on to Anton Reiss. He is four chapters from mat
 [img] {WESKER} standing at a sealed observation window looking into a dark room, red status lights
 [loc] The Antarctic Facility — 12 June 2047
 N: Wesker was on the ice in fourteen hours.
-N: He did not shout at anybody. He did not remove Reiss, or the six hundred, or discipline a single person. He went down to Level 11 and stood at the observation window for eleven hours, through the worst of it, and did not sit down, and did not speak except once, at about the seventh hour, when the monitors did the thing that monitors do.
+N: He did not shout at anybody. He did not remove Reiss, or the six hundred, or discipline a single person. He went down to Level 11 and stood at the observation window for twenty-four hours, through the worst of it, and did not sit down, and did not speak except once, at about the seventh hour, when the monitors did the thing that monitors do.
 WESKER: (very cold) No.
 N: That is all. One word, at a window, to nobody.
 N: She came out of it on the eighteenth.
@@ -69,7 +69,7 @@ EVELYN: (soft) I don't have a panel, Director. I have a room full of people who 
 [img] a scientist in a white coat sitting alone in a corridor with his head in his hands, cold light
 [loc] The Antarctic Facility, Level 11 — 19 June 2047
 N: The narrator will not leave Anton Reiss standing in a corridor, because what happened to him in the nine days is the whole of what the Absolute were.
-N: He sent the message at eleven minutes past four in the morning on the eleventh. He did not sleep for the following seven days. On the fourteenth he was found by a junior technician sitting on the floor of a service corridor on Level 11, in the dark, having been there for about four hours, and what he said — the technician wrote it down the same night, which is why it survives — was:
+N: He sent the message at eighteen minutes past four in the morning on the eleventh. He did not sleep for the following seven days. On the fourteenth he was found by a junior technician sitting on the floor of a service corridor on Level 11, in the dark, having been there for about four hours, and what he said — the technician wrote it down the same night, which is why it survives — was:
 MAN: (soft) I was told not to. I know I was told not to. I have never in my life done a thing I was told not to do and I did not know that it was *possible*, and I have been sitting here since two o'clock trying to work out what else I have been able to do all this time and never once tried.
 N: Wesker interviewed him on the nineteenth, alone, for two hours. The transcript is four pages.
 WESKER: (cold) Why did you send it?
@@ -106,7 +106,7 @@ WESKER: (cold) That is not a definition. Define peer.
 [pause 0.8]
 SYSTEM: (flat) A peer is a will I cannot price against yours.
 N: The narrator notes that Albert Wesker stood in a corridor on the ice for a long time after that panel closed, and that what he did next is the reason this chapter exists.
-N: He did not remove her. He did not restrict her, or isolate the lineage, or destroy the material, or do any of the eleven things that a careful man does when something he has built stops being an instrument.
+N: He did not remove her. He did not restrict her, or isolate the lineage, or destroy the material, or do any of the six things that a careful man does when something he has built stops being an instrument.
 N: He promoted her.
 [img] {WESKER} and {EVELYN} standing together looking out of a window at an antarctic plain, brutal white light
 [loc] 19 June 2047

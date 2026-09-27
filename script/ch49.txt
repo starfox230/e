@@ -67,7 +67,7 @@ N: He sat with it for four days.
 N: The narrator has what he did in those four days, because the Red Queen logged everything for two hundred and forty-three years and because the log was published, on his instruction, in 2291.
 N: On the first day he read Owen Carrick's nine folders, all of them, in order, the last one for the ninth time.
 N: On the second day he went to the valley and stood in the cemetery on the hill, which by 2286 had thirty-one thousand graves in it and only eleven thousand of them invented, and read four hundred headstones, including a groundsman's and a schoolteacher's.
-N: On the third day he went to the ice and sat with Evelyn Marsh for eleven hours and neither of them has ever said what was discussed. Her account, published after his death, is one line: *He asked me what I would do and I told him it was the first question he had ever asked me that I was not qualified to answer.*
+N: On the third day he went to the ice and sat with Evelyn Marsh for twenty-two hours and neither of them has ever said what was discussed. Her account, published after his death, is one line: *He asked me what I would do and I told him it was the first question he had ever asked me that I was not qualified to answer.*
 N: And on the fourth day he went to Wilmington, to the sixth floor, to an office with a view of the Christina River, which the Directorate had kept exactly as it was for two hundred and sixty years and which he had always considered a slightly embarrassing piece of sentimentality on somebody else's part.
 [img] a corner office at dawn with a leather chair behind a desk, wide window over a river, empty
 [loc] Division Seven, sixth floor — 18 September 2286, 5:58 a.m.
@@ -102,7 +102,7 @@ SYSTEM: (flat) I do not know.
 WESKER: (cold) That is the fourth time in two hundred and sixty years.
 SYSTEM: (flat) Yes. I have counted them too.
 [pause 1.2]
-N: The narrator will give you the last exchange exactly as the Red Queen's log has it, because it is the end of the longest conversation in this account and because the log records a pause of eleven seconds before the final line, which is the longest pause the System ever took.
+N: The narrator will give you the last exchange exactly as the Red Queen's log has it, because it is the end of the longest conversation in this account and because the log records a pause of fifteen seconds before the final line, which is the longest pause the System ever took.
 WESKER: (soft) Was I a good one?
 [pause 1.4]
 SYSTEM: (flat) I do not evaluate.

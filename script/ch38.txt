@@ -14,7 +14,7 @@ WESKER: (cold) The father.
 EVELYN: (soft) Anton Reiss.
 [pause 1.2]
 N: The narrator asked you, twenty-one chapters ago, to hold on to Anton Reiss. He was the Absolute scientist who, at eleven minutes past four in the morning on the eleventh of June 2047, sent a nine-word message against a standing instruction while a woman convulsed on a monitor.
-N: He was the first of the Absolute ever to refuse an instruction. He was in the fourth release cohort in 2083. He passed the apprenticeship in eleven months. He had been Evelyn Marsh's second for thirty-six years and her partner for nine, and the System had never been able to explain him.
+N: He was the first of the Absolute ever to refuse an instruction. He was in the fourth release cohort in 2083. He passed the apprenticeship in fifteen months. He had been Evelyn Marsh's second for thirty-six years and her partner for nine, and the System had never been able to explain him.
 WESKER: (very cold) Has he taken the lineage?
 EVELYN: (soft) Four years ago. It took. He is the second one, and I did not tell you, and I am telling you now because you asked me in 2047 to tell you before rather than after, and this is the before.
 N: The narrator notes that Albert Wesker stood in a corridor on the ice and was, for the second time in sixty-two years, not entirely in control of his own face.
@@ -36,7 +36,7 @@ N: Mira Reiss-Marsh was born on the second of February 2089 at the most scientif
 N: She was, by every measure, an ordinary infant. She cried, she fed badly for four days, she had her mother's chin.
 N: She has, at the end of this account, no detectable upper limit to her lifespan, an immune system that has never been challenged by anything, and a cellular repair rate that her grandmother's generation would have called a miracle and that she considers unremarkable because everyone she grew up with has one.
 N: She is two years old when the sky opens.
-N: The narrator mentions her here, in a quiet chapter, because she is the reason the last eleven chapters of this story are not a tragedy, and because she is the only person in it who never once has to choose between Albert Wesker and anything else.
+N: The narrator mentions her here, in a quiet chapter, because she is the reason the last twenty-nine chapters of this story are not a tragedy, and because she is the only person in it who never once has to choose between Albert Wesker and anything else.
 [img] {WESKER} standing awkwardly in a doorway looking into a room with a cradle, hesitant
 N: Wesker came in April. He stood in the doorway of a room on an ice shelf for some time and did not go in.
 EVELYN: (soft) You can hold her. She's not going to break, she's the least breakable object in the building.
@@ -49,7 +49,7 @@ N: Evelyn Marsh laughed at him, which nobody had done since Catherine Adeyemi di
 [music] m_tension -10
 [img] a crowded public hearing room with rows of citizens and officials, tense faces, daylight
 [loc] The Hangzhou Tribunal, sitting at the Arcology — 19 November 2088
-N: The lineage did not stay private for eleven weeks.
+N: The lineage did not stay private for twenty-seven weeks.
 N: A midwife in Raccoon City who had been flown to Antarctica and back under a confidentiality undertaking she had signed without reading declined, on the fourth of November, to keep quiet about the fact that she had attended the birth of a child at a research station where nobody's records said a birth was possible.
 N: She did not go to the press. She went to the Tribunal, which had been created in 2080 to enforce the Hangzhou Accord and which had ruled against the Directorate four times by then, and she filed a complaint of nine lines.
 N: The hearing ran for three months and it is the most important legal proceeding in this account.

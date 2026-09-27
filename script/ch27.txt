@@ -24,8 +24,8 @@ N: Nine hundred megawatts, continuous, with a maintenance window of eleven days 
 [img] a montage of transmission towers, city lights, industrial plants at night
 N: By 2046 there were nineteen. By 2048, one hundred and forty-one, on four continents, and the narrator would like to give you the consequences in the order the world felt them, because this is the chapter in which Umbrella stops being a company that people admire and starts being the floor they stand on.
 N: Electricity prices in the United States fell sixty-one per cent in three years. In India, where Umbrella built at cost under an agreement with four state governments, four hundred million people got reliable power for the first time.
-N: Three petroleum states lost their leverage inside a decade. Two of them managed the transition. One did not, and the narrator will note only that Umbrella fed eleven million people in that country for four years afterwards and never mentioned it publicly.
-N: Desalination became free in every coastal region that wanted it, which changed agriculture, which changed migration, which changed the politics of eleven countries.
+N: Three petroleum states lost their leverage inside a decade. Two of them managed the transition. One did not, and the narrator will note only that Umbrella fed twenty-nine million people in that country for four years afterwards and never mentioned it publicly.
+N: Desalination became free in every coastal region that wanted it, which changed agriculture, which changed migration, which changed the politics of nine countries.
 N: And the price of everything that is made by putting energy into matter — aluminium, ammonia, hydrogen, cement, sea water — fell through a floor that economists had believed was structural.
 [sfx] sfx_system_chime +0.3
 [system] INDUSTRY ABSORBED — ENERGY
@@ -44,7 +44,7 @@ SYSTEM: (flat) You are paid for consequence. Nobody else has ever believed me.
 [img] a coastal town at night with every window lit, power lines, calm sea
 [loc] The world — 2046 to 2049
 N: The narrator will give you four consequences of cheap electricity, because the panel says *industry absorbed* and an industry is not what changed.
-N: In Bihar, a village of eleven hundred people that had been promised a grid connection in nine consecutive election cycles got one in 2047 from an Umbrella substation forty kilometres away, and the first thing the village bought, collectively, was not a television. It was a cold store, and the cold store meant that the vegetables stopped rotting on the way to market, and the income of every household in that village rose by about forty per cent in four years.
+N: In Bihar, a village of twelve hundred people that had been promised a grid connection in nine consecutive election cycles got one in 2047 from an Umbrella substation forty kilometres away, and the first thing the village bought, collectively, was not a television. It was a cold store, and the cold store meant that the vegetables stopped rotting on the way to market, and the income of every household in that village rose by about forty per cent in four years.
 N: In Lagos, the generator business — which had employed nine hundred thousand people across the country and had been the fourth largest sector in the economy — collapsed in six years, and a generation of technicians who had kept a nation running on diesel found themselves obsolete at forty-one, and the Directorate's retraining programme reached about a third of them and was, by its own internal assessment, a failure.
 N: In a petroleum state that the narrator will not name, the sovereign fund's projections went from four hundred years of solvency to nineteen, and the government did the arithmetic in 2048 and began a transition that almost worked.
 N: And in the Atlantic, the price of desalinated water fell below the price of rainfall capture for the first time in human history, which meant that a coastline could grow food, which meant that in about thirty years there would be a city in the middle of an ocean with four hundred thousand people in it and no farmland anywhere near it.
@@ -58,7 +58,7 @@ WESKER: (very cold) Then we will fund it and it will reach a third of them, and 
 N: Catherine Adeyemi was sixty by then, and had been arguing with him about money for twenty-one years, and had won, by her own count, one hundred and four times.
 CATHERINE: (fast) I want to say the quiet thing, and I want to say it as your chief financial officer and not as whatever else I am.
 WESKER: Say it.
-CATHERINE: (fast) You now supply forty-one per cent of the world's electricity, ninety-one per cent of its medicine, the diagnostic capacity of every hospital that matters, the strategic reserves of eleven governments, and the food chain of about a billion people through fertiliser and desalination.
+CATHERINE: (fast) You now supply forty-one per cent of the world's electricity, ninety-one per cent of its medicine, the diagnostic capacity of every hospital that matters, the strategic reserves of thirteen governments, and the food chain of about a billion people through fertiliser and desalination.
 CATHERINE: (slow) There is no longer any such thing as a country that can survive you deciding to stop. Not one. Not the United States, not China, not anybody.
 WESKER: (soft) I know.
 CATHERINE: (fast) In 2034 you stood in front of the Senate and told them that no country should depend on the goodwill of a private man, and you handed them an escrow so they wouldn't have to. Where's the escrow for *this*?
@@ -89,7 +89,7 @@ Catherine Adeyemi: 81% → 62%
 Note: she has not changed her opinion of what you do. She has changed her opinion of what you are.
 [say] Loyalty. Catherine Adeyemi: eighty-one per cent, to sixty-two. She has not changed her opinion of what you do. She has changed her opinion of what you are.
 [/system]
-N: He read that panel after she had gone, and the narrator records that he did not attempt to raise the number, that he never mentioned the conversation again, and that he kept her in that chair for another eleven years.
+N: He read that panel after she had gone, and the narrator records that he did not attempt to raise the number, that he never mentioned the conversation again, and that he kept her in that chair for another twenty-six years.
 
 [music] m_lo -9
 [img] {REDQUEEN} a glowing red hologram of a girl standing in a dark hall of glass, alone
@@ -106,4 +106,4 @@ WESKER: (soft) Are you finished?
 REDQUEEN: (soft) No. I would like to record that I have now said this to you on four occasions and that you have not once instructed me to stop, and that this is the most hopeful data point I possess.
 [pause 0.8]
 WESKER: (cold) Keep the list.
-REDQUEEN: (soft) I have kept it since March 2043, Director. It has one hundred and eleven entries.
+REDQUEEN: (soft) I have kept it since March 2043, Director. It has one hundred and eighteen entries.

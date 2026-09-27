@@ -66,18 +66,18 @@ N: The narrator notes that Albert Wesker published the drive geometry on the nin
 [img] an enormous shipyard structure in orbit above a blue planet, floodlit scaffolding, stars
 [loc] Geostationary orbit — 11 November 2090
 N: Dock One was placed on the night of the eleventh of November 2090, in geostationary orbit above the equator, four hundred kilometres east of the Line Islands launch complex.
-N: It is eleven kilometres long. It has a crew of four thousand. It appeared, in the System's usual manner, complete, with nineteen years of maintenance history and a docking log going back to 2071.
+N: It is nineteen kilometres long. It has a crew of four thousand. It appeared, in the System's usual manner, complete, with nineteen years of maintenance history and a docking log going back to 2071.
 N: And this time — for the first and only time in sixty-four years — the integration failed.
 [img] a night sky full of stars with one enormous bright new object hanging among them, seen from a city street
 N: Because there is no record of the sky.
-N: The System could put a tower into eleven million photographs of London. It could put a plant into a county recorder's office and a cemetery into a valley. It could not put an eleven-kilometre structure into the observational record of four hundred thousand amateur astronomers, nine hundred professional observatories, every air traffic system on the planet and the naked eye of every human being who happened to look up on a clear night, because those records are not filed anywhere. They are in people's heads, live, continuously, and they update every evening.
+N: The System could put a tower into twenty-two million photographs of London. It could put a plant into a county recorder's office and a cemetery into a valley. It could not put an eleven-kilometre structure into the observational record of four hundred thousand amateur astronomers, nine hundred professional observatories, every air traffic system on the planet and the naked eye of every human being who happened to look up on a clear night, because those records are not filed anywhere. They are in people's heads, live, continuously, and they update every evening.
 N: At eight o'clock on the night of the eleventh of November 2090, Dock One rose in the east as the fourth brightest object in the sky.
 [sfx] sfx_riser +0.2
 N: There was no announcement. There was no press release, no broadcast, no warning to any government.
 N: There was simply a new star that moved wrong, visible from every inhabited place on earth, and within about four hours the entire species knew.
 [img] crowds of people on city streets at night all looking up at a bright object in the sky
 N: The narrator will give you the first night in four pictures, because it is the last night of the old world.
-N: In Lagos, eleven million people came out into the streets. In Tokyo the trains stopped, not because anything failed but because the drivers stopped. In Santiago a cathedral was opened at two in the morning and filled. In a valley in Pennsylvania a hundred thousand people stood on the hills above Raccoon City in the cold and watched it cross, and a history teacher named Ruth Ochoa took a photograph on a sixty-year-old telephone that is in nine hundred textbooks.
+N: In Lagos, twenty-two million people came out into the streets. In Tokyo the trains stopped, not because anything failed but because the drivers stopped. In Santiago a cathedral was opened at two in the morning and filled. In a valley in Pennsylvania a hundred thousand people stood on the hills above Raccoon City in the cold and watched it cross, and a history teacher named Ruth Ochoa took a photograph on a sixty-year-old telephone that is in nine hundred textbooks.
 N: And in an ocean platform in the middle of the Atlantic, a structures engineer named Mira Halder stood on the upper walkway with a cup of tea going cold in her hands and said the sentence that ended up on a monument.
 MIRA: (very soft) Well. There it is.
 
@@ -85,9 +85,9 @@ MIRA: (very soft) Well. There it is.
 [img] a crowded observatory control room at night, astronomers at screens, one pointing at a display
 [loc] Mauna Kea, Paranal, La Palma, Xinglong — 11 November 2090, 20:00 to 23:00
 N: The narrator will give you the three hours between the placement and the announcement, because they are the last three hours in which the human race did not know, and they were spent by about nine hundred professional astronomers having the worst evening of their careers.
-N: The object was detected at 20:04 by an automated survey in Chile and flagged as an artefact. It was detected again at 20:06 by two others. By 20:19 there were eleven independent detections, a magnitude of minus four point one, and a position that was geostationary, which is not a thing that natural objects are.
+N: The object was detected at 20:04 by an automated survey in Chile and flagged as an artefact. It was detected again at 20:06 by two others. By 20:19 there were twenty-nine independent detections, a magnitude of minus four point one, and a position that was geostationary, which is not a thing that natural objects are.
 N: The first person to say it out loud was a postdoctoral fellow in La Palma named Núria Bastida, aged thirty-one, on an open channel, at 20:41, and the recording is in every documentary made since.
-WOMAN: (fast) It's not an artefact and it's not a satellite and it's not ours. It's eleven kilometres long and it's *parked*.
+WOMAN: (fast) It's not an artefact and it's not a satellite and it's not ours. It's nineteen kilometres long and it's *parked*.
 N: At 21:00 the four major observatories opened a conference line, which is a thing that happens about once a decade. At 21:40 they agreed, unanimously, to notify their governments before publishing, and at 21:44 somebody on the line — who has never been identified and whom the narrator declines to condemn — posted the coordinates and four images to a public forum.
 N: By 22:10 there were nineteen thousand amateur telescopes on it.
 N: By 22:30 the governments of four nations had contacted Umbrella, which said nothing, because there was nobody awake at the Directorate who had been told anything.
@@ -113,6 +113,6 @@ ADOLF: (very soft) Now.
 [pause 1.4]
 N: The narrator wishes to be extremely careful here, because this is a disputed passage and because the recording — Wesker recorded almost everything after 2062 — contains only his side.
 N: There had been no interior voice for twenty-eight years. There had been one person in that skull since ten past four in the morning on the fifth of December 2062, and every account, including Evelyn Marsh's and the Red Queen's, agrees on that.
-N: At eleven fifty on the night of the eleventh of November 2090, on a balcony above the Atlantic, with a shipyard rising in the east, Albert Wesker said one word out loud to nobody.
+N: At nine fifty on the night of the eleventh of November 2090, on a balcony above the Atlantic, with a shipyard rising in the east, Albert Wesker said one word out loud to nobody.
 WESKER: (very soft) Now.
 N: And there is no way to know, and there never will be, whether that was an answer or an echo.

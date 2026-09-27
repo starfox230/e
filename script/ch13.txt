@@ -7,7 +7,7 @@
 N: The invitation came in March, on paper, because the people who sent it still believed in paper.
 N: The World Health and Industry Forum meets in Basel every June: four thousand delegates, eleven heads of regulatory agencies, the chief executives of every pharmaceutical house on earth, three health ministers, and a press pool of six hundred. It is not a scientific meeting. It is the room in which the industry decides who is respectable.
 N: They did not invite Umbrella to give a keynote. They invited Umbrella to sit on a panel about equitable access, in the second session, on the Tuesday, with four other speakers and a moderator.
-CATHERINE: (fast) It's an insult. Politely, elaborately, expensively phrased — and an insult. We are the largest company in the industry by market capitalisation and they have put you on a panel at eleven in the morning.
+CATHERINE: (fast) It's an insult. Politely, elaborately, expensively phrased — and an insult. We are the largest company in the industry by market capitalisation and they have put you on a panel at twenty-one in the morning.
 WESKER: Yes.
 CATHERINE: I have drafted a refusal.
 WESKER: (soft) Accept it.
@@ -22,12 +22,12 @@ WESKER: (cold) I intend to. Accept the panel.
 N: He arrived in Basel the night before the conference opened and did something he had not done since a dark auditorium in Wilmington two years earlier.
 WESKER: I need you.
 ADOLF: (soft) Say that again. Slowly. I would like to enjoy it.
-WESKER: (cold) I have eleven minutes on a panel at eleven o'clock on Tuesday and four thousand people in that hall who believe I am a diagnostics company that got lucky with a longevity molecule. I intend to leave Basel as the thing the industry is organised around. You have done this. Tell me how.
+WESKER: (cold) I have five minutes on a panel at eleven o'clock on Tuesday and four thousand people in that hall who believe I am a diagnostics company that got lucky with a longevity molecule. I intend to leave Basel as the thing the industry is organised around. You have done this. Tell me how.
 N: And Adolf — the passenger, the other voice, the thing in his skull that was good at exactly one thing in all the world — was quiet for a long moment, and then began to talk, and he talked for two hours.
 N: The narrator will give you the shape of it, because it is the only extended thing this voice ever says, and because everything Albert Wesker does in front of a crowd for the next sixty years is built out of it.
-ADOLF: First: you will not use the eleven minutes.
-WESKER: I have eleven minutes.
-ADOLF: You have eleven minutes in which four other people are also speaking, and the room is at half attention, and the man before you will overrun. Every one of those four will use their time. You will use ninety seconds of yours, and you will say something that makes the other four sound like children, and then you will stop, and the silence will belong to you. A crowd does not remember who spoke longest. It remembers who was still there after the speaking stopped.
+ADOLF: First: you will not use the five minutes.
+WESKER: I have five minutes.
+ADOLF: You have five minutes in which four other people are also speaking, and the room is at half attention, and the man before you will overrun. Every one of those four will use their time. You will use ninety seconds of yours, and you will say something that makes the other four sound like children, and then you will stop, and the silence will belong to you. A crowd does not remember who spoke longest. It remembers who was still there after the speaking stopped.
 ADOLF: (slow) Second: you must give them something to be afraid of that is not you. They came to Basel to talk about access and pricing and supply. That is a room full of people arguing about how to divide a thing. Do not argue. Tell them what is coming for all of them, and be the only person in the building who is not surprised by it.
 ADOLF: Third — and you will dislike this one — you must give something away. Not a discount. Something that costs you visibly, in public, that no one asked for and no one can match, and it must be announced in a flat voice as though it were an administrative detail. Generosity delivered as a *decision* is the most frightening thing a powerful man can perform, because it proves the power was never in doubt.
 WESKER: (soft) And the pause.
@@ -39,9 +39,9 @@ ADOLF: (soft) The pause is everything. When you have given it to them, do not ex
 N: The panel ran for fifty-one minutes. The man before him — the chief executive of a Swiss house four times Umbrella's age — spoke for nineteen of them.
 N: When the moderator finally turned and said, with the particular brightness of a person conscious of the clock, *"Dr. Wesker, perhaps you could give us Umbrella's perspective, briefly,"* Albert Wesker leaned forward to the microphone and did not begin for four seconds.
 [pause 0.6]
-WESKER: There will be a pandemic in the next eleven years that our industry, as currently organised, cannot answer.
+WESKER: There will be a pandemic in the next nineteen years that our industry, as currently organised, cannot answer.
 [pause 0.8]
-WESKER: Not because the science will be beyond us. The science was not beyond us last time. Because the answer will exist in three laboratories, and it will take nine months to license, four months to manufacture, and eleven weeks to distribute, and the people it was for will have died in the first eleven weeks. That is not a scientific failure. It is an administrative one, and every person on this stage, including me, is paid to be an administrator.
+WESKER: Not because the science will be beyond us. The science was not beyond us last time. Because the answer will exist in three laboratories, and it will take nine months to license, four months to manufacture, and twenty-two weeks to distribute, and the people it was for will have died in the first twenty-two weeks. That is not a scientific failure. It is an administrative one, and every person on this stage, including me, is paid to be an administrator.
 N: The hall had gone very quiet, in the way that four thousand people go quiet: unevenly, in patches, from the front.
 WESKER: I am not going to propose a working group.
 [sfx] sfx_crowd_silence +0.2
@@ -57,7 +57,7 @@ N: The silence lasted, by the conference's own recording, nine seconds.
 [sfx] sfx_applause +0.2
 N: Then the hall stood up.
 [img] four thousand delegates standing and applauding in a huge conference hall, a lone seated figure on the stage
-N: Not everyone. The chief executive of the Swiss house remained seated, and so did two of the regulators, who understood precisely what had just been done to their industry and who were the only people in the building fully awake. But four thousand people in a hall stand the way water finds a level, and inside eleven seconds the room was on its feet applauding a man who had spoken for one hundred and forty-one seconds.
+N: Not everyone. The chief executive of the Swiss house remained seated, and so did two of the regulators, who understood precisely what had just been done to their industry and who were the only people in the building fully awake. But four thousand people in a hall stand the way water finds a level, and inside twenty-nine seconds the room was on its feet applauding a man who had spoken for one hundred and forty-one seconds.
 N: Albert Wesker stood up, nodded once, and left the stage while they were still clapping. He did not do a press line. He did not take questions.
 N: He was in a car on the way to the airport before the session ended.
 
@@ -79,7 +79,7 @@ ADOLF: (soft) Yes. You may have it back tomorrow with interest; I am giving you 
 N: The narrator records that Albert Wesker walked out onto that stage the following morning, and stopped for four seconds before he began — one second longer than the passenger had drilled into him — and that when he was asked about it years later he said he had simply been looking at the room.
 [music] m_hi -6
 [img] a montage of news broadcasts on screens, headlines and reporters, a lit newsroom
-N: The clip was eleven million views by Wednesday and two hundred and eleven million by the following Monday.
+N: The clip was nine million views by Wednesday and two hundred and nine million by the following Monday.
 N: It was not the announcement that travelled. It was the nine seconds. Every version that spread — every edit, every reaction, every translated subtitle in Portuguese and Hindi and Arabic — kept the silence in, because the silence was the thing people watched it for.
 ANCHOR: (broadcast) — and whatever you think of the company, you cannot argue with the arithmetic. At eleven dollars a test, a district hospital in Malawi can screen every febrile child that walks through the door. That was not a policy announcement. That was a man ending an argument.
 REPORTER: (broadcast) Critics point out that Umbrella retains the manufacturing scale to undercut every licensee it has just created, and that giving away a platform you already dominate is a strange kind of charity —
@@ -94,7 +94,7 @@ Institutional standing: peer of states
 Points: +900,000
 Presence: 21 → 34
 Note: this stat can no longer be purchased. It must be earned in front of people.
-[say] Devotion, global. Audience: two hundred and eleven million and rising. Sentiment: overwhelmingly favourable. Institutional standing: peer of states. Nine hundred thousand Points. Presence: twenty-one to thirty-four. This stat can no longer be purchased. It must be earned in front of people.
+[say] Devotion, global. Audience: two hundred and nine million and rising. Sentiment: overwhelmingly favourable. Institutional standing: peer of states. Nine hundred thousand Points. Presence: twenty-one to thirty-four. This stat can no longer be purchased. It must be earned in front of people.
 [/system]
 
 [music] m_lo -8

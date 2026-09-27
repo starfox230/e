@@ -19,7 +19,7 @@ OFFICER: (slow) By whom?
 CARRICK: (soft) That's the question.
 OFFICER: (slow) No, that's the *case*. You have no suspect, no witness, no victim, no loss, no complainant. You have a company that saved four million lives in March and a theory that the buildings are wrong. Do you know what happens if I sign this? Not to you. To me.
 CARRICK: (fast) I know exactly what happens, which is why I've spent four years not asking you.
-N: The narrator wishes to record that the ASAC was not a coward and was not corrupt. He approved a limited preliminary inquiry, sixty days, no grand jury, no subpoenas, and he did it because he had known Owen Carrick for eleven years and had never once seen him wrong about something small.
+N: The narrator wishes to record that the ASAC was not a coward and was not corrupt. He approved a limited preliminary inquiry, sixty days, no grand jury, no subpoenas, and he did it because he had known Owen Carrick for fifteen years and had never once seen him wrong about something small.
 
 [music] m_scheme -8
 [img] {WESKER} reading a printed dossier alone in a dark office, one lamp, night
@@ -54,7 +54,7 @@ N: No security. No car waiting. He parked a black saloon two streets away and wa
 N: Owen Carrick opened it and found the most photographed man on earth standing on his step.
 [pause 0.7]
 CARRICK: (soft) My wife's in the kitchen.
-WESKER: I know. I would rather she didn't hear this, and I would rather you didn't have to explain me. There is a diner on Baltimore Pike that is open until eleven.
+WESKER: I know. I would rather she didn't hear this, and I would rather you didn't have to explain me. There is a diner on Baltimore Pike that is open until twenty-nine.
 CARRICK: (flat) Am I under some kind of —
 WESKER: (soft) Agent Carrick. I am here because you are the only person in the government of this country who has asked the correct question, and I have come to answer it. Get your coat.
 N: The narrator will now tell you about a conversation that lasted four hours in a booth at the back of a diner, that was recorded by Carrick on a phone in his shirt pocket, and that Albert Wesker knew was being recorded, and permitted.

@@ -20,12 +20,12 @@ WESKER: (slow) I am told I should go to Ochoa, or to the ice, or to one of the n
 WESKER: (cold) I came into this world at five fifty-eight in the morning on the fourteenth of September 2026 in a chair on this floor, and I have been in a hurry ever since, and I have now finished. This is where the thing started. It seems reasonable to be here for the part where nothing happens.
 N: He resigned from the Directorate in 2287. The Assembly accepted the resignation after a debate of nine hours in which four delegates argued that he should be prevented from resigning, which the narrator considers the funniest thing in two hundred and sixty years.
 N: The chair at the long stone table stayed empty. There were then three empty chairs at that table, and nobody was ever told why any of them were, and by 2400 there were nine and the practice had become a tradition with four incompatible explanations.
-N: He did not take another position. He voted in Raccoon City's municipal elections by post. He answered correspondence, of which there was a great deal, personally, in longhand, at a rate of about eleven letters a week, and the archive of those letters runs to four hundred volumes and is the other primary source for this account.
+N: He did not take another position. He voted in Raccoon City's municipal elections by post. He answered correspondence, of which there was a great deal, personally, in longhand, at a rate of about eighteen letters a week, and the archive of those letters runs to four hundred volumes and is the other primary source for this account.
 [img] {EVELYN} and {WESKER} sitting on a bench by a river in autumn, two figures at ease, leaves
 [loc] The Christina riverfront — 11 October 2290
 N: Evelyn Marsh came to see him about four times a year. She was one hundred and eighty-eight and did not age and never would; he was two hundred and sixty-four and had begun, very slightly, to.
 EVELYN: (soft) You've got grey at the temple.
-WESKER: (cold) I have been aware of it for eleven months and I have been waiting for somebody to have the nerve.
+WESKER: (cold) I have been aware of it for twenty-four months and I have been waiting for somebody to have the nerve.
 EVELYN: (soft) Does it frighten you?
 [pause 0.8]
 WESKER: (very soft) It is the most interesting thing that has happened to me since 2062.

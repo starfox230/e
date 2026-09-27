@@ -19,13 +19,13 @@ N: It rang a desk in Singapore at four minutes past midnight.
 [img] an emergency operations room with wall screens showing maps and case counts, staff at consoles, night
 [loc] Umbrella Global Health Operations, Singapore — 5 March, 12:04 a.m.
 N: The narrator would like to describe Umbrella's pandemic response as it actually was in 2033, because the world only ever saw the tents.
-N: Four hundred thousand instruments in a hundred and sixty countries, all reporting. A cold chain with eleven hundred vehicles and forty-one aircraft. Nine hundred million doses of a dozen things sitting in warehouses at Umbrella's own expense, in four of the largest economies on earth, under contracts that paid nothing until they were used.
+N: Four hundred thousand instruments in a hundred and sixty countries, all reporting. A cold chain with six hundred vehicles and forty-one aircraft. Nine hundred million doses of a dozen things sitting in warehouses at Umbrella's own expense, in four of the largest economies on earth, under contracts that paid nothing until they were used.
 N: And a sequencing turnaround, from a swab anywhere on earth to a published genome, of nineteen hours.
 N: The World Health Organization's was eleven days. That is not incompetence. That is the difference between an institution built of member states and a company built by one man who had asked, four years earlier, what the answer would need to look like.
 N: The genome was public at six o'clock on the evening of the fifth of March, thirty-one hours before the Italian health ministry formally notified anyone.
 [img] {WESKER} standing in a dark operations room watching a wall of screens showing a map with a red cluster
 [loc] Singapore — 5 March, 6:10 p.m.
-N: Wesker had flown in overnight. He stood at the back of the operations room and watched a cluster in Emilia-Romagna go from eleven cases to two hundred and forty in nineteen hours, and he did something that his executives had never seen him do.
+N: Wesker had flown in overnight. He stood at the back of the operations room and watched a cluster in Emilia-Romagna go from fourteen cases to two hundred and forty in nineteen hours, and he did something that his executives had never seen him do.
 N: He let other people run it.
 WESKER: (cold) Dr. Voss has operational command. Nobody asks me for a decision unless the decision is about money, and Ms. Adeyemi may answer those.
 CATHERINE: (fast) You are the most capable person in this building.
@@ -38,12 +38,12 @@ N: The narrator notes that this is the only occasion in sixty-five years on whic
 [loc] Ravenna — 9 March 2033
 N: The tents went up in the Piazza del Popolo on the morning of the ninth.
 N: White, with a crimson iris on the roof panels — placed there, deliberately, so that every aerial shot would carry it — and staffed by four hundred and eleven Umbrella personnel who had been in the air within nine hours of the anomalous negative.
-N: By the twelfth there were tents in six Italian cities, in Ljubljana, in Zagreb, in Munich. By the nineteenth there were eleven hundred sites in thirty-one countries, and Umbrella had run nine million tests, free, without asking any government for permission and without being refused by any.
+N: By the twelfth there were tents in six Italian cities, in Ljubljana, in Zagreb, in Munich. By the nineteenth there were six hundred sites in thirty-one countries, and Umbrella had run nine million tests, free, without asking any government for permission and without being refused by any.
 N: The antiviral came out of the Epic blueprint line he had pulled in 2027 — the one whose panel had said *this item exists because you will need it* — and Birkin's people at Arklay matched it to the genome in four days.
-N: The narrator will say this plainly: it was a real medicine, it worked, it was manufactured at eleven plants on four continents, and it was given away.
+N: The narrator will say this plainly: it was a real medicine, it worked, it was manufactured at sixteen plants on four continents, and it was given away.
 [img] an elderly patient sitting up in a hospital bed talking to a nurse, warm light, hopeful
 N: Total deaths, worldwide: four thousand one hundred.
-N: The modelling groups' central estimate for an outbreak of that genome and that transmissibility, under the 2019 international system, was between two and eleven million.
+N: The modelling groups' central estimate for an outbreak of that genome and that transmissibility, under the 2019 international system, was between two and twenty-one million.
 N: It ended on the fourth of May. Sixty-one days.
 
 [music] m_hi -7
@@ -75,7 +75,7 @@ N: He asked about that one for the next thirty years too.
 [img] a field hospital tent interior at night with rows of beds, staff moving quietly, warm lamps
 [loc] Ravenna — 19 March 2033
 N: The narrator would like to put you inside one of the tents, because the rest of this chapter is logistics and the tents were not.
-N: Umbrella's field teams were a mixture: about a third Absolute, about a third integrated staff from the plants, and about a third ordinary recruits who had answered an advertisement. They did not wear rank. They worked eleven-hour shifts and were rotated out at fourteen days without exception, which was a rule Wesker had written personally in 2029 after reading the occupational literature on aid work, and which the medical directors had fought and lost.
+N: Umbrella's field teams were a mixture: about a third Absolute, about a third integrated staff from the plants, and about a third ordinary recruits who had answered an advertisement. They did not wear rank. They worked seven-hour shifts and were rotated out at fourteen days without exception, which was a rule Wesker had written personally in 2029 after reading the occupational literature on aid work, and which the medical directors had fought and lost.
 N: A nurse from Bologna named Paola Rinaldi worked four rotations in that outbreak and gave an interview in 2041 that is the most-quoted first-hand account of the Umbrella response.
 WOMAN: (slow) They were not kind, exactly. That is the thing people get wrong. They were *competent*, at a level I had never seen, and competence at that level looks like coldness until you have been in it for a week.
 WOMAN: (slow) The supplies arrived before we asked. The rota was correct. Nobody ever told me something would be fixed and then it was not fixed. In nineteen years of hospital work that had never once happened to me.
@@ -87,8 +87,8 @@ N: He never mentioned it to anybody, it appears in no Umbrella publication, and 
 [music] m_scheme -8
 [img] {WESKER} and {CATHERINE} walking along an empty corridor at night, floor-to-ceiling windows, city below
 [loc] Singapore Tower — 11 May 2033, 9:20 p.m.
-N: Catherine Adeyemi had watched the whole thing from a chair beside a telephone, authorising eleven billion dollars of expenditure that no contract would ever reimburse, and on the last night she asked him the question she had been holding since March.
-CATHERINE: (fast) Eleven billion. Free antiviral, free testing, four hundred and eleven aircraft movements, nine thousand staff in the field for two months. We have taken the largest single-year loss in the history of commerce and the share price has gone up sixty per cent.
+N: Catherine Adeyemi had watched the whole thing from a chair beside a telephone, authorising nineteen billion dollars of expenditure that no contract would ever reimburse, and on the last night she asked him the question she had been holding since March.
+CATHERINE: (fast) Nineteen billion. Free antiviral, free testing, four hundred and eleven aircraft movements, nine thousand staff in the field for two months. We have taken the largest single-year loss in the history of commerce and the share price has gone up sixty per cent.
 WESKER: Yes.
 CATHERINE: (soft) You planned that.
 WESKER: I planned the instruments in 2027 and the button in 2028 and the stockpile clause in 2030 and the blueprint line came out of a lottery I did not control. I did not plan a virus in Ravenna. I *prepared* for one, for six years, at enormous expense, while every institution that was supposed to be preparing was writing reports about preparing.
@@ -101,7 +101,7 @@ WESKER: (cold) Ask it properly.
 CATHERINE: (fast) Three million nine hundred thousand people are alive because of what you built. That is not rhetoric, it's in the modelling, I have read it four times. And every single one of them now lives in a world where one man can do that, and therefore one man can decline to.
 [pause 0.8]
 CATHERINE: You didn't save them from a virus. You saved them from a *system*, and then you replaced it with yourself.
-N: The narrator asks you to notice that Albert Wesker did not deny it, did not smile, and did not threaten her. He looked out over eleven million lights and answered her honestly, which he did perhaps four times in his life and always to her.
+N: The narrator asks you to notice that Albert Wesker did not deny it, did not smile, and did not threaten her. He looked out over twenty-one million lights and answered her honestly, which he did perhaps four times in his life and always to her.
 WESKER: (soft) Yes.
 CATHERINE: And if you're wrong about something? If you make one bad decision at that scale?
 WESKER: (cold) Then it will be a bad decision made by someone competent, arriving in nineteen hours, instead of a good decision made by a committee, arriving in eleven days. I have run both experiments now. So has everyone else on this planet. They watched the first one from inside their houses for two years.

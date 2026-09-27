@@ -28,7 +28,7 @@ WESKER: (cold) Mr. Sloane, in eight years you are the first person to use the co
 [music] m_tension -10
 [img] two men in armchairs in a dark panelled room, one leaning forward, glasses on a low table
 N: The conversation lasted four hours and the narrator will give you the spine of it, because it is a negotiation between two men who both knew exactly what the other one wanted and neither of whom said so for the first two hours.
-SLOANE: (slow) Let me tell you what I'd have brought if I'd come here to threaten you. Nine years of anomalies — construction records, personnel files with no school photographs, a Swiss loading bay. Eleven things that don't reconcile.
+SLOANE: (slow) Let me tell you what I'd have brought if I'd come here to threaten you. Nine years of anomalies — construction records, personnel files with no school photographs, a Swiss loading bay. Nineteen things that don't reconcile.
 WESKER: (soft) Forty-one things. Agent Carrick had forty-one, and he had them in 2033.
 SLOANE: (slow) Carrick. Yes. That was elegant. He was the best records man in the Bureau and you hired him to audit yourself.
 WESKER: I hired him because he was right, and because a man who is right is more useful inside an organisation than outside it, and because I have never in my life removed a person for competence.
@@ -114,7 +114,7 @@ CARRICK: You've built something nobody can confess to.
 [pause 0.8]
 WESKER: (cold) Yes.
 CARRICK: (soft) Then I'm telling you no. Formally. It's in the folder, it's dated, and I'd like it in the record you keep of the things I said.
-N: Wesker took the folder and read it — all eleven pages, in front of him, while Carrick stood there — and then put it in the drawer of the desk where four such folders would eventually live.
+N: Wesker took the folder and read it — all twenty-two pages, in front of him, while Carrick stood there — and then put it in the drawer of the desk where four such folders would eventually live.
 WESKER: (soft) Noted, and overruled.
 CARRICK: (flat) Understood.
 WESKER: (cold) Mr. Carrick. Do you want to know why I am not going to take the network apart?

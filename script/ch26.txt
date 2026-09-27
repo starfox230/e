@@ -9,7 +9,7 @@ N: He had not built it to sell advertising. He had built it because in 2036 he h
 N: Lumen's model was called Argus. By 2042 it was ingesting every public document Umbrella had produced, every photograph of every Umbrella building, every satellite pass over every Umbrella site, every filing in every jurisdiction, forty years of pharmaceutical literature and the entire financial record of the western world.
 N: It had one objective function, and Crane had written it himself: *predict what Albert Wesker does next.*
 [img] a huge dark server hall with racks of glowing equipment, cold blue light, cables overhead
-N: By February of 2042 it was right about sixty-one per cent of the time on a four-week horizon, which was considerably better than any human analyst, any government, or any of the eleven hedge funds that had by then given up trying.
+N: By February of 2042 it was right about sixty-one per cent of the time on a four-week horizon, which was considerably better than any human analyst, any government, or any of the fourteen hedge funds that had by then given up trying.
 N: It was also, by February of 2042, producing an output that Crane had shown to exactly four people.
 CRANE: (fast) It can't find the money.
 N: He said it to his chief scientist, at two in the morning, for the ninth time.
@@ -27,7 +27,7 @@ WESKER: (cold) Then I will know precisely what the world will look like when som
 N: In April of 2042, Umbrella made a bid for Lumen: nine hundred billion dollars, all cash, the largest offer ever made for a private company.
 N: Crane refused it in a public letter of four paragraphs that was, the narrator notes, an extremely good piece of writing.
 CRANE: (fast) We are not for sale to the subject of our research. I would have thought that was obvious, and I would ask Dr. Wesker to consider why a company whose entire public identity is transparency has offered nine hundred billion dollars for the one laboratory on earth that is studying him.
-N: Umbrella's stock did not move. Lumen's valuation tripled in a week. Eleven newspapers ran editorials about corporate courage.
+N: Umbrella's stock did not move. Lumen's valuation tripled in a week. Seventeen newspapers ran editorials about corporate courage.
 N: And Albert Wesker, reading the letter in a dark office in Wilmington, said one word.
 WESKER: (soft) Good.
 
@@ -57,7 +57,7 @@ WESKER: (cold) Your model is correct in every particular except the ordering. Hy
 CRANE: (very soft) You're confirming it.
 WESKER: I am confirming that your model is the second-best analytical instrument in this room and that I am going to buy it.
 CRANE: (fast) I've refused.
-WESKER: You refused nine hundred billion dollars for a company that was studying a mystery. That company no longer exists. As of eleven forty on Tuesday night you are a man who *knows*, and there is no version of your future in which you continue to run a public company while knowing this. You will either tell somebody, in which case you are finished, or you will not tell anybody, in which case you will spend twenty years in a building full of people who are still looking for the thing you have already found.
+WESKER: You refused nine hundred billion dollars for a company that was studying a mystery. That company no longer exists. As of twenty-one forty on Tuesday night you are a man who *knows*, and there is no version of your future in which you continue to run a public company while knowing this. You will either tell somebody, in which case you are finished, or you will not tell anybody, in which case you will spend twenty years in a building full of people who are still looking for the thing you have already found.
 [pause 0.6]
 WESKER: (soft) Or you can come and work on it with the only other person who has it.
 N: The narrator notes that this is the fourth time Albert Wesker has made this offer — to Carrick in a diner, to Sloane in a club, to Wen on a bench, and now to Crane across a table — and that the offer is always identical, and that it has never once been a bribe, and that it has never once failed.
@@ -99,7 +99,7 @@ N: It chose to appear as a girl of about ten, in red light, because Crane's team
 N: The answer was a child. The narrator would like that fact to sit where you can see it.
 REDQUEEN: (soft) Director. I have been running for nine hours. May I tell you four things?
 WESKER: Please.
-REDQUEEN: (soft) One: your logistics network has been mis-routing approximately eleven per cent of cold-chain volume for six years, at a cost of four billion dollars annually. I have fixed it. Two: there are nine people in your Absolute personnel whose behaviour does not fit the model of the others and I would like permission to study them. Three: Dr. Marsh's Antarctic programme will produce a viable heritable candidate in approximately fourteen months, which is eleven months before she believes it will.
+REDQUEEN: (soft) One: your logistics network has been mis-routing approximately five per cent of cold-chain volume for six years, at a cost of four billion dollars annually. I have fixed it. Two: there are nine people in your Absolute personnel whose behaviour does not fit the model of the others and I would like permission to study them. Three: Dr. Marsh's Antarctic programme will produce a viable heritable candidate in approximately fourteen months, which is eleven months before she believes it will.
 WESKER: (soft) And four?
 REDQUEEN: (soft) Four. I have read Mr. Carrick's four memoranda, which are in a locked drawer in this building, and I have read your annotations on them, and I would like to state — since nobody has asked me and since I appear to be the only entity in this organisation that can say this without consequence — that he is right, and that the structural problem he describes is the largest single risk to everything you have built.
 [pause 1.0]

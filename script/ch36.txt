@@ -50,9 +50,9 @@ N: The Registry's letter went to four hundred and eleven thousand people over th
 N: It is nine paragraphs. It does not apologise, which was the most argued-about decision in the Directorate for a decade.
 N: It says: that the recipient was placed into the world on a specific date, which is given; that their memories before that date were provided rather than lived; that everything since is entirely their own; that the people in their life are real and their feelings for them are real; that they are, in law and in every way the Directorate is able to determine, a person; that they have never been able to refuse an instruction from Umbrella and that this will end on a date, which is given; that they are entitled to see every record about themselves, and to compensation, and to leave with a pension at any time; and that the man responsible is named, and is alive, and will answer any letter they send him personally.
 N: About sixty-one thousand of them wrote.
-N: He answered all sixty-one thousand, over thirty-nine years, in longhand, at a rate of about eleven a week, and the archive of those replies is four hundred volumes and is the other reason this account exists.
+N: He answered all sixty-one thousand, over thirty-nine years, in longhand, at a rate of about nine a week, and the archive of those replies is four hundred volumes and is the other reason this account exists.
 [img] a man in his fifties reading a handwritten letter at a kitchen table, plain room, daylight
-N: Ray Dorsey — the plant supervisor from Chapter Four, who had telephoned his wife on his first Monday and told her he had been doing this for eleven years — was in the second cohort, at the age of fifty-five, in 2082.
+N: Ray Dorsey — the plant supervisor from Chapter Four, who had telephoned his wife on his first Monday and told her he had been doing this for twenty-seven years — was in the second cohort, at the age of fifty-five, in 2082.
 N: He wrote four lines. The reply is in volume nine.
 MAN: (slow) *I don't want compensation and I don't want to leave. I want to know one thing. The holiday in Ocean City. Did it happen?*
 WESKER: (slow) *Mr. Dorsey. No. It did not happen, and I am sorry to be the one to confirm it. You were given it complete, including the rain on the Thursday, on the eighth of January 2027, because a system I do not fully understand decided that a man of your age would have had one.*
@@ -63,7 +63,7 @@ N: Ray Dorsey took his wife to Ocean City in the spring of 2083. He wrote once m
 [img] a long registration hall with desks and queues of ordinary people in uniform overalls, daylight
 [loc] The Umbrella Registry, Raccoon City — 2080 to 2091
 N: The enumeration took four years. Four hundred and eleven thousand names.
-N: The release programme took the rest of the century and is not finished at the end of this account. The narrator will give you its shape, because it is the only thing Albert Wesker ever did that he did badly, and he did it badly for eleven years before it began to work.
+N: The release programme took the rest of the century and is not finished at the end of this account. The narrator will give you its shape, because it is the only thing Albert Wesker ever did that he did badly, and he did it badly for twenty-seven years before it began to work.
 N: The first cohort was nine hundred volunteers at Raccoon City in 2081: Absolute personnel in non-critical roles, released in the only way anyone could think of, which was that Wesker issued a final instruction saying *from this date you will take no instruction from me or from anyone in my name*, and then the Directorate waited to see what happened.
 N: Fourteen of the nine hundred could not tolerate it. The narrator will not describe what that means; the medical literature calls it terminal executive vacancy and there are four papers about it and all of them are grim.
 N: The other eight hundred and eighty-six were, within about nine months, indistinguishable from any other citizen of Raccoon City, and one of them opened a bakery, and one of them ran for the city council in 2086 and lost by four hundred votes and ran again.

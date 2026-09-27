@@ -5,7 +5,7 @@
 [img] a small pacific island nation seen from the air, turquoise lagoon, low palms, a single airstrip
 [loc] Teraina, Republic of the Line Islands — 3 March 2045
 N: The first country that asked to belong to Albert Wesker had a population of eleven thousand, a gross domestic product smaller than a mid-sized American hospital, and four years of dry land left.
-N: The Republic of the Line Islands is a real place with a real parliament and a real seat at the United Nations, and in 2045 its highest point was two point nine metres above a sea that had risen eleven centimetres in a decade. Its government had spent nine years asking the world for money to build defences and had been given four per cent of what it needed, in tranches, with conditions.
+N: The Republic of the Line Islands is a real place with a real parliament and a real seat at the United Nations, and in 2045 its highest point was two point nine metres above a sea that had risen twenty-two centimetres in a decade. Its government had spent nine years asking the world for money to build defences and had been given four per cent of what it needed, in tranches, with conditions.
 N: In February of 2045 its Prime Minister, a forty-one-year-old former fisheries lawyer named Teuea Rabaere, flew to Singapore and asked for a meeting with Umbrella's regional director and was given one with Albert Wesker instead.
 [img] {WESKER} and a woman in a bright patterned dress sitting across a low table in a bright room, daylight
 LAURA: (slow) I have nothing to offer you. I want to be honest about that in the first minute, because everybody else I have met in nine years has let me talk for an hour first.
@@ -13,7 +13,7 @@ WESKER: (soft) You have a seat in the General Assembly, a maritime exclusive eco
 [pause 0.6]
 LAURA: (slow) And the fourth?
 WESKER: (cold) Time, which you do not have, which is why you are here.
-N: The arrangement they made over the following eleven months has been studied in every school of international law since, and the narrator will describe it plainly because its plainness was the whole trick.
+N: The arrangement they made over the following fifteen months has been studied in every school of international law since, and the narrator will describe it plainly because its plainness was the whole trick.
 N: Umbrella did not buy the Line Islands. You cannot buy a country; the attempt would have been struck down in nine jurisdictions and would have made him a colonial administrator in every newspaper on earth.
 N: What Umbrella did was sign a Treaty of Association — an instrument that exists in international law, that four real countries already had with larger neighbours, and that had never once been signed with a company.
 N: Under it: Umbrella assumed the defence, the coastal engineering, the power generation, the health system and the currency of the Republic. The Republic retained its parliament, its flag, its seat at the UN, its courts and its laws. Umbrella got a nineteen-year renewable lease on four hundred hectares, the right to incorporate under Line Islands law, and one clause that the world's foreign ministries spent two years arguing about: *the Republic may, by resolution of its parliament, extend the protection of this treaty to any territory that requests it.*
@@ -30,7 +30,7 @@ Sovereignty: retained by the Republic
 Sentiment: 91% favourable
 Points: +11,000,000 · recurring
 Note: this is the first population that chose you. I did not place them. They voted.
-[say] Territory: protectorate. The Republic of the Line Islands, population eleven thousand four hundred. Instrument: a Treaty of Association ratified by referendum. Sovereignty retained by the Republic. Sentiment: ninety-one per cent favourable. Eleven million Points, recurring. Note: this is the first population that chose you. I did not place them. They voted.
+[say] Territory: protectorate. The Republic of the Line Islands, population eleven thousand four hundred. Instrument: a Treaty of Association ratified by referendum. Sovereignty retained by the Republic. Sentiment: ninety-one per cent favourable. Nine million Points, recurring. Note: this is the first population that chose you. I did not place them. They voted.
 [/system]
 
 [music] m_scheme -9
@@ -39,11 +39,11 @@ Note: this is the first population that chose you. I did not place them. They vo
 N: The world's reaction took three years and went through four stages, and the narrator will name them because the same four stages recur, at larger scale, every time for the next forty years.
 N: The first was ridicule. A company with a protectorate; a corporate flag; eleven thousand people on an atoll. There were cartoons.
 N: The second was legal panic, which began when the Marshall Islands opened negotiations in 2046, and turned into something else entirely when Fiji — population nine hundred thousand, a genuine state with an army — asked for terms.
-N: The third was the counter-offer. Between 2046 and 2049 the United States, the European Union, China, Australia and Japan collectively committed one hundred and forty billion dollars in climate adaptation finance to the Pacific, which was eleven times what they had provided in the previous twenty years combined.
+N: The third was the counter-offer. Between 2046 and 2049 the United States, the European Union, China, Australia and Japan collectively committed one hundred and forty billion dollars in climate adaptation finance to the Pacific, which was twenty-seven times what they had provided in the previous twenty years combined.
 N: The narrator asks you to notice that this happened, that it was good, that four million people's lives were materially improved by it, and that it happened solely because Albert Wesker had made it clear that if they would not, he would.
 N: The fourth stage was accommodation. By 2049 the Treaty of Association had been signed by four states and was being negotiated by nine. The General Assembly debated a resolution declaring such treaties incompatible with the Charter. It failed, sixty-one votes to ninety-four, because ninety-four countries had worked out that the resolution's real purpose was to stop poor states from choosing their own protector.
 N: The delegate from the Line Islands spoke for four minutes in that debate and the narrator will quote the end of it, because it is the single most damaging thing anyone ever said about the international system and because it was true.
-LAURA: (slow) For nine years I stood in this chamber and asked this body for eleven centimetres of concrete. I was given speeches. I was given frameworks. I was given a working group.
+LAURA: (slow) For nine years I stood in this chamber and asked this body for twenty-two centimetres of concrete. I was given speeches. I was given frameworks. I was given a working group.
 LAURA: (slow) A company came, and built a wall, and did not ask me to vote a particular way, and has not asked me for anything since. You may tell me this is dangerous. I am sure it is. But nobody in this room has ever offered my people an alternative, and I would ask the delegates who are about to vote for this resolution to name the year in which they intended to.
 [pause 0.8]
 N: Nobody did.
@@ -53,7 +53,7 @@ N: Nobody did.
 [loc] Teraina — 2046
 N: The sea wall is worth four paragraphs, because it is the only thing Umbrella built in the 2040s that was not placed, and because of what that cost.
 N: The System would have put it there in a night for about nine hundred thousand Points, complete, with eleven years of maintenance records and a tender process that had never happened.
-N: Wesker paid instead: four billion dollars, fourteen months, eleven hundred workers, of whom six hundred were from the islands and were trained for it at Umbrella's expense at a school Umbrella built for the purpose and then handed to the Republic.
+N: Wesker paid instead: four billion dollars, fourteen months, thirteen hundred workers, of whom six hundred were from the islands and were trained for it at Umbrella's expense at a school Umbrella built for the purpose and then handed to the Republic.
 N: Catherine Adeyemi asked him why, in writing, because by 2045 she asked everything in writing.
 CATHERINE: (fast) We are spending four billion dollars and fourteen months on an asset we could have for nine hundred thousand Points and no time at all. Explain the difference, because I have to sign it.
 WESKER: (cold) The difference is six hundred islanders who will know how to build a sea wall.
@@ -90,7 +90,7 @@ N: The fifth folder is four pages long. It is the only one in the drawer with no
 [img] a large ocean platform city under construction in open sea, cranes, modular structures, dawn
 [loc] Mid-Atlantic, 31°N 42°W — 2050
 N: And then, in 2050, Umbrella built its own.
-N: The Arcology was placed — not built; placed, over the night of the eleventh of June, in four hundred metres of water eleven hundred kilometres from the nearest coast — and it is the largest single object the System ever gave him.
+N: The Arcology was placed — not built; placed, over the night of the eleventh of June, in four hundred metres of water thirteen hundred kilometres from the nearest coast — and it is the largest single object the System ever gave him.
 [system] TERRITORY — THE ARCOLOGY
 Ocean platform city · capacity 400,000 · currently resident 61,000
 Power: four fusion units · Water: desalination, unlimited
@@ -100,6 +100,6 @@ Note: this one has no parliament. Consider carefully what you are building.
 [say] Territory: the Arcology. An ocean platform city with a capacity of four hundred thousand, currently sixty-one thousand resident. Four fusion units. Unlimited desalination. A charter written by you. A currency issued by you. Legal basis: none whatsoever. Note: this one has no parliament. Consider carefully what you are building.
 [/system]
 N: Sixty-one thousand people moved there in the first year: researchers, engineers, their families, and about nine thousand who simply applied because the housing was free and the schools were extraordinary.
-N: Twenty-nine states recognised it as a legal entity within four months, not because they approved, but because the alternative was to have sixty-one thousand stateless people and eleven fusion reactors floating in international water with no legal framework at all.
+N: Twenty-nine states recognised it as a legal entity within four months, not because they approved, but because the alternative was to have sixty-one thousand stateless people and eight fusion reactors floating in international water with no legal framework at all.
 N: The first child born a citizen of the Umbrella Free Territory arrived on the fourth of September 2050, in a hospital that was better than any on land, to a Bangladeshi structural engineer and a Peruvian marine biologist who had met in a canteen.
 N: Her name was Mira. She is nineteen when the sky opens, and she is still alive at the end of this account, and she is one of the eleven people who sees what Albert Wesker becomes.

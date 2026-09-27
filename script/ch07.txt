@@ -10,7 +10,7 @@ N: It is one thing to lose. It is another thing entirely to be kept.
 N: On the sixth of April, Tolliver stopped negotiating with Albert Wesker and started fighting him, and the narrator would like to say, before any of this begins, that he was not a fool. He was a competent chief executive with eleven hundred employees who depended on him, and every single thing he tried was the correct thing to try.
 [img] a busy corporate legal office, documents in stacks, lawyers working at a long table, daylight
 N: He tried three moves in eleven days.
-N: The first was legal: a suit in the District of Delaware alleging that the archive licence Verdant Axis had bought in 2019 had been exclusive in substance if not in form, and that Umbrella's entire instrument line was built on material it had no right to commercialise. It was a stretch. It was also the kind of stretch that takes two years and eleven million dollars to unstretch.
+N: The first was legal: a suit in the District of Delaware alleging that the archive licence Verdant Axis had bought in 2019 had been exclusive in substance if not in form, and that Umbrella's entire instrument line was built on material it had no right to commercialise. It was a stretch. It was also the kind of stretch that takes two years and twenty-nine million dollars to unstretch.
 N: The second was people: offers to Evelyn Marsh and to two of Voss's process engineers, at two and a half times their salaries, with signing bonuses and titles.
 N: The third was quieter. He hired a firm in Virginia — the kind with a two-word name and no website — to find out what was in the building in Wilmington. What he said, on a call that was later read into evidence in a hearing that went nowhere, was: *I don't want dirt. I want to know how they did it in ninety days. Because nobody does it in ninety days.*
 N: And that, of the three, was the one that ended him.
@@ -22,7 +22,7 @@ N: Wesker did not defend.
 N: This is the thing that everyone who ever fought him got wrong, at every scale, for sixty-five years, right up to a hive at the edge of a dead system: they expected a defence, and prepared for a defence, and what arrived instead was a man who had already decided that the fight was a distraction from the acquisition.
 PELL: (flat) The complaint is served. Our counsel believes we would win at summary judgment, but not before March of next year.
 WESKER: Don't answer it yet. What does their paper look like?
-PELL: Two hundred and eleven million in senior debt held by a syndicate. Lead is Merrick Trust — a regional lender, conservative, and unhappy. They wrote the facility in 2023 when the panel was still the best in the market. There is a covenant tested on trailing twelve-month revenue, and a change-of-control clause, and a provision permitting assignment of the debt without borrower consent.
+PELL: Two hundred and twenty-nine million in senior debt held by a syndicate. Lead is Merrick Trust — a regional lender, conservative, and unhappy. They wrote the facility in 2023 when the panel was still the best in the market. There is a covenant tested on trailing twelve-month revenue, and a change-of-control clause, and a provision permitting assignment of the debt without borrower consent.
 WESKER: (soft) They may sell his loan to anyone at all, and he cannot stop them.
 PELL: They may.
 WESKER: What would it take?
@@ -30,7 +30,7 @@ PELL: The syndicate would part with the paper at ninety-one cents. A hundred and
 N: Wesker looked at the number for a moment.
 WESKER: Catherine.
 [img] {CATHERINE} on a phone at a desk covered in documents, laptop open, lit office at night
-N: Catherine Adeyemi spent six days on the telephone and did what eleven years in London had been for.
+N: Catherine Adeyemi spent six days on the telephone and did what nine years in London had been for.
 N: She did not raise a hundred and ninety-two million dollars. She raised thirty — a bridge from a Boston credit fund against Umbrella's own receivables and the Verdant Axis licence stream, which was the single most reliable cash flow in the industry precisely because Tolliver could not stop paying it. Then she took the thirty and bought the *lead* position in the syndicate: not the whole loan, but the seat at the table, with the amendment rights that came with it.
 CATHERINE: (fast) I want to be clear about what I've done, because when this is over I will have to explain it to an auditor. We have not bought his company. We have bought the right to be in the room when his company is discussed.
 WESKER: That is all I have ever needed.
@@ -97,7 +97,7 @@ N: There is no record of what Graham Tolliver saw. The minutes note only that th
 N: The vote was nine to nothing.
 [sfx] sfx_pen_sign +0.4
 N: He put the glasses back on before he stood up.
-WESKER: (soft) Mr. Tolliver. Your contract has eleven months to run and I intend to honour it. There is an office for you in Trenton and a title with the word *emeritus* in it. You will keep your health plan and your pension and your parking space, and you will never make another decision as long as you live.
+WESKER: (soft) Mr. Tolliver. Your contract has twelve months to run and I intend to honour it. There is an office for you in Trenton and a title with the word *emeritus* in it. You will keep your health plan and your pension and your parking space, and you will never make another decision as long as you live.
 TOLLIVER: (soft) Why?
 WESKER: Because you fought me competently, and because in four months, when people ask what happens to men who fight me, I would like the answer to be *nothing interesting*. It is a far more frightening answer than the other one.
 
@@ -117,7 +117,7 @@ Tier advancement will resolve at the next reward window
 [say] Main mission, tier two: all requirements complete. Tier advancement will resolve at the next reward window.
 [/system]
 N: The sign came down the same night. Wesker had specified it: not in the morning, when the staff would gather and photograph it and feel something, but at half past nine at night, with two men and a lift and nobody watching.
-N: In the morning there was simply a crimson iris on a building in Trenton, and eleven hundred people arriving at work for a company whose name had changed while they slept, which — by the standards of what had happened to the three hundred and eleven in Newark — was an unusually gentle thing to do to a person.
+N: In the morning there was simply a crimson iris on a building in Trenton, and eleven hundred people arriving at work for a company whose name had changed while they slept, which — by the standards of what had happened to the three hundred and thirteen in Newark — was an unusually gentle thing to do to a person.
 [img] {WESKER} standing alone in an empty corporate car park at night looking up at a building with a crimson emblem, long black coat
 N: He stood in the car park for a while afterwards.
 ADOLF: Eleven hundred more.

@@ -37,16 +37,16 @@ N: On Friday night there was a valley. Trees, a river, a rail line with saplings
 [img] an aerial view of a lit city in a forested valley at night, grid of streets, a stadium, a hospital, a river bridge, glowing windows
 [loc] Saturday 16 September, 5:00 a.m.
 N: On Saturday morning there was a city.
-N: A hundred thousand people. Nine and a half thousand acres. A downtown of eleven blocks with a clock on the courthouse and a department store that had been there since the sixties. A hospital with four hundred beds. A police department with two hundred and eighty officers and a chief who had come up through traffic. Four high schools, one of which had won the state championship in 1998 and had a mural about it. A tram line — two lines, in fact, a red and a green, with rolling stock from 2014. A stadium that seated thirty-one thousand.
-N: A river with three bridges over it. A cemetery with eleven thousand graves.
+N: A hundred thousand people. Nine and a half thousand acres. A downtown of eighteen blocks with a clock on the courthouse and a department store that had been there since the sixties. A hospital with four hundred beds. A police department with two hundred and eighty officers and a chief who had come up through traffic. Four high schools, one of which had won the state championship in 1998 and had a mural about it. A tram line — two lines, in fact, a red and a green, with rolling stock from 2014. A stadium that seated thirty-one thousand.
+N: A river with three bridges over it. A cemetery with twenty-four thousand graves.
 N: The narrator wants to be precise about that cemetery, because it is the detail that people cannot get past, and it is the detail that Wesker himself went and looked at, alone, on the Sunday.
-N: Eleven thousand headstones. Names, dates, epitaphs. A section for children. Flowers on some of them, dead flowers on others, weeds on the oldest. A groundsman who had worked there for twenty-two years and whose father had worked there before him.
+N: Twenty-four thousand headstones. Names, dates, epitaphs. A section for children. Flowers on some of them, dead flowers on others, weeds on the oldest. A groundsman who had worked there for twenty-two years and whose father had worked there before him.
 N: None of those people had ever lived. All of them were mourned.
 [img] an old cemetery on a hillside at dawn, rows of headstones, mist, a lone figure in a long black coat standing among them
 [loc] Raccoon City — Sunday 17 September, 6:40 a.m.
 N: He stood in that cemetery for an hour, which is the longest he is recorded as standing anywhere without doing anything, and what he was doing was arithmetic.
 ADOLF: (soft) You are upset.
-WESKER: I am calculating. Eleven thousand graves is four generations. Four generations is a history, and a history is a thing people will die to defend. The System did not give me a hundred thousand people. It gave me a hundred thousand people with *grandparents*.
+WESKER: I am calculating. Twenty-four thousand graves is four generations. Four generations is a history, and a history is a thing people will die to defend. The System did not give me a hundred thousand people. It gave me a hundred thousand people with *grandparents*.
 ADOLF: It has given you a nation.
 WESKER: It has given me a *town*. Do not inflate it.
 ADOLF: (soft) I built my rallies on less. A crowd that believes it is ancient will follow you anywhere. A crowd that knows it was made yesterday will not follow you across a street.
@@ -67,7 +67,7 @@ N: The narrator asks you to notice that he meant it, and to notice why. It was n
 [img] a mayor and a police chief seated across a desk from {WESKER} in a wood-panelled municipal office, formal, daylight
 [loc] City Hall — 18 September, 10:00 a.m.
 N: He met the Mayor and the Chief of Police at ten o'clock, in an office with a photograph of a previous mayor on the wall, and the meeting told him everything he needed to know about the machine he had bought.
-N: Mayor Elaine Crozier was Absolute. She was sixty-one, she had served three terms, she had a husband and a bad knee and a pending lawsuit about a sewer easement, and when he asked her what the city needed most she gave him a list of eleven items, in order, costed, and then said:
+N: Mayor Elaine Crozier was Absolute. She was sixty-one, she had served three terms, she had a husband and a bad knee and a pending lawsuit about a sewer easement, and when he asked her what the city needed most she gave him a list of six items, in order, costed, and then said:
 MAYOR: And whatever you need from us, Director, you have.
 N: Chief of Police Raymond Okonkwo was not. Integrated — real, in the way Ray Dorsey in Newark was real — with nineteen years of memories and a daughter at Pitt.
 CHIEF: (slow) With respect, ma'am, that's not how I'd put it.

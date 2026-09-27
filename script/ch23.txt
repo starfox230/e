@@ -8,11 +8,11 @@ N: There are eleven places on this planet where nobody has jurisdiction over any
 N: The first was an island. It appears on charts as Rockfort, a British Overseas Territory dependency of four thousand hectares, uninhabited since a whaling station closed in 1961, leased in perpetuity to an Umbrella subsidiary in 2011 for the purpose of atmospheric research.
 N: There is a great deal of documentation about that lease. There is a debate about it in the House of Lords in 2013, in Hansard, with four peers speaking. The narrator has read it. It is completely convincing and it never happened.
 [img] a research base on a windswept island, low grey buildings, antenna masts, a helipad, heavy weather
-N: What is on Rockfort now: a deep-water quay, an airstrip that takes heavy transports, four hundred personnel, and eleven levels cut into the rock beneath the old whaling station.
+N: What is on Rockfort now: a deep-water quay, an airstrip that takes heavy transports, four hundred personnel, and thirteen levels cut into the rock beneath the old whaling station.
 N: What is done on Rockfort: everything that cannot be done in Delaware.
 N: The narrator wishes to be precise, because this is the chapter where the story of a company becomes the story of something else, and precision is the only thing that keeps it honest.
 N: Umbrella's public research was real. Aeterna was real. The assay was real, the antiviral was real, Ravenna happened. None of it was a front.
-N: But from 2037, in eleven levels of rock in the South Atlantic and fourteen levels of ice in Antarctica, Dr. Evelyn Marsh and Dr. William Birkin were also doing work that had no product, no publication, no oversight and no purpose that either of them would have been able to defend in a sentence to anyone outside.
+N: But from 2037, in thirteen levels of rock in the South Atlantic and fourteen levels of ice in Antarctica, Dr. Evelyn Marsh and Dr. William Birkin were also doing work that had no product, no publication, no oversight and no purpose that either of them would have been able to defend in a sentence to anyone outside.
 N: They were building organisms.
 
 [music] m_horror -9
@@ -21,7 +21,7 @@ N: They were building organisms.
 [loc] Rockfort, Level 9 — 2 September 2037
 N: Birkin's programme was called Structural Biology and it was, in his own description, *soldiers after the soldier*.
 BIRKIN: (fast) The Tyrant is a magnificent dead end. It's a nineteen-seventies answer — take a person, flood them with a virus, select the one in a million who survives and stabilise what's left. Brutally wasteful, and every one of them is a hand-made object. You can't have a hundred of something you can't specify.
-WESKER: (cold) I specified it. In another life, with a team of forty, for eleven years.
+WESKER: (cold) I specified it. In another life, with a team of forty, for eight years.
 BIRKIN: (fast) And you got *one*, Albert. One at a time, each of them slightly different, each of them needing its own conditioning. That's not biology, that's blacksmithing.
 N: What Birkin proposed instead was a scaffold: a designed organism, grown from a defined line, with the viral element engineered in from the beginning rather than survived. Predictable. Repeatable. Documentable, in nine hundred pages, with a specification.
 N: It took him four years and it produced, in 2041, the T-103 line that the Umbrella Security Service eventually deployed in numbers, and the narrator notes that the difference between the thing in the Lyon stadium and the things that came out of Rockfort is the difference between a cathedral and a housing estate: one is a miracle, the other can be ordered by the hundred.
@@ -39,7 +39,7 @@ N: Evelyn Marsh's programme had no name at all, and that was deliberate.
 N: She was thirty-eight. She had been given the ice at thirty-two and had not left it for more than eleven days at a time since. Six hundred and eleven staff who could not refuse her. Four thousand cradles. A budget that Catherine Adeyemi had stopped itemising in 2035 at Wesker's instruction and that Carrick raised, formally, in writing, every single year.
 N: What she was doing was this: she was taking the thing that had made Aeterna — the factor in a vial labelled *ODD* that uncoupled a cell's damage signal from its clock — and she was trying to build the same uncoupling into a whole human being, from conception, as a heritable trait.
 N: Not a drug. Not a therapy. A *lineage*.
-EVELYN: (fast) Aeterna is a crutch. You take it every eleven weeks for the rest of your life and when you stop, you fall over. That's not what we want and it was never what we wanted, it's just what we could sell.
+EVELYN: (fast) Aeterna is a crutch. You take it every eighteen weeks for the rest of your life and when you stop, you fall over. That's not what we want and it was never what we wanted, it's just what we could sell.
 WESKER: (soft) It is what has funded you for nine years.
 EVELYN: (fast) I know. I'm not being ungrateful, I'm being *accurate*. What I want is a person who doesn't need it. Who is born not needing it. Who passes not needing it to their children.
 [pause 0.6]
@@ -58,20 +58,20 @@ N: Wesker read it, wrote *noted, and overruled* at the bottom in his own hand, s
 N: There is one conversation from that year that matters more than all the science, and it happened outside, in the wind, between two buildings.
 EVELYN: (fast) I want to ask you for something and I want you to say no properly instead of putting it off again.
 WESKER: Ask.
-EVELYN: (fast) Affinity. Whatever the number is that you have and I don't. I've watched you for eleven years. You don't get colds. You don't get older. In 2033 you put your hand through a window at Arklay because a door was stuck and it was healed by dinner, and Annette and I have discussed it four hundred times.
+EVELYN: (fast) Affinity. Whatever the number is that you have and I don't. I've watched you for eight years. You don't get colds. You don't get older. In 2033 you put your hand through a window at Arklay because a door was stuck and it was healed by dinner, and Annette and I have discussed it four hundred times.
 EVELYN: (soft) I'm thirty-eight. I've got maybe twenty-five good years of work left and I need forty.
 [pause 0.8]
 WESKER: (cold) No.
 EVELYN: (fast) Give me the *reason*, not the answer.
 WESKER: (slow) The reason is that in 2029 I told you what happens to the person who takes what I took — nine hundred and ninety-nine thousand nine hundred and ninety-nine deaths per million, and the survivor stops wanting what they used to want. And you said *can I have it*, and I said no, and you said *when I'm sixty*, and I said only if you build a version that does not do that.
-WESKER: (cold) It is 2038. You have not built it. You have built four things that are extremely close and one of them killed eleven primates in a way that I will not describe. So the answer is still no, and it will be no until the day you put a version in front of me that I would be willing to give to a stranger.
+WESKER: (cold) It is 2038. You have not built it. You have built four things that are extremely close and one of them killed twenty-four primates in a way that I will not describe. So the answer is still no, and it will be no until the day you put a version in front of me that I would be willing to give to a stranger.
 EVELYN: (soft) And if I never do?
 WESKER: Then you will die in about fifty years having been the second-best biologist who ever lived.
 N: She walked in silence for a while, in a coat with a crimson iris on the shoulder, with fourteen hundred miles of ice in every direction.
 EVELYN: (very soft) That's the first time you've ever refused me anything.
 WESKER: (soft) Yes.
 EVELYN: (soft) Do you know what that does to a person like me?
-WESKER: (cold) Yes. I have been counting on it for eleven years.
+WESKER: (cold) Yes. I have been counting on it for eight years.
 N: The narrator asks you to remember that exchange, because in 2043 Dr. Evelyn Marsh does build it, and it does work, and she is the first person to take it, and she does not ask him first.
 
 [music] m_horror -10
@@ -86,7 +86,7 @@ WESKER: (very cold) No.
 BIRKIN: (fast) A *volunteer*, Albert, an informed adult, we have four hundred applications from people who —
 WESKER: (very cold) I have read the applications. Nine of them are from people with terminal diagnoses, and one is from a man whose daughter needs money, and every one of them is the reason the answer is no.
 [pause 0.8]
-WESKER: (cold) Will. In the other place, I did this. I did it for eleven years with a research budget and an ethics board I had dissolved, and every single one of them was a volunteer, and I can still tell you their names, and I have no idea why I can.
+WESKER: (cold) Will. In the other place, I did this. I did it for eight years with a research budget and an ethics board I had dissolved, and every single one of them was a volunteer, and I can still tell you their names, and I have no idea why I can.
 [pause 0.6]
 WESKER: (very soft) Nothing that was human. Put it on the wall of the wing.
 N: It is on the wall of the wing. It is still there, in a facility on an island in the South Atlantic that is now a Compact xenobiology station, and every species that has worked in that building for two hundred years has asked what it means, and been told.
@@ -105,7 +105,7 @@ Next tier: CONGLOMERATE — absorb an industry
 WESKER: Six points of Affinity.
 SYSTEM: Six.
 WESKER: Three levels' worth of stat points, if I spend nothing else.
-SYSTEM: Yes. Or one purchase, in the Viral tab, at a price you can now afford eleven times over.
+SYSTEM: Yes. Or one purchase, in the Viral tab, at a price you can now afford six times over.
 [pause 0.7]
 WESKER: (soft) You have never once offered me a shortcut before.
 SYSTEM: (flat) It is not a shortcut. It is the correct price, and you are the first host to reach this line with the temperament to be told it.

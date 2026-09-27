@@ -11,7 +11,7 @@ N: The Essex police were competent and quick and found the second vehicle burned
 [loc] Division Seven — 4 November
 N: Wesker read the incident report at six in the morning and did not react to any of the parts of it that upset his executives.
 PELL: (flat) The loss is insured. The insurer will pay within ninety days.
-CATHERINE: (fast) The loss is not the problem. The problem is that we are in forty-one countries with eleven hundred cold-chain movements a month and we are protected by whatever local firm the freight forwarder happened to hire. Umbrella has no security function. It has a man called Hale and twenty-two people who guard four buildings in Delaware.
+CATHERINE: (fast) The loss is not the problem. The problem is that we are in forty-one countries with seven hundred cold-chain movements a month and we are protected by whatever local firm the freight forwarder happened to hire. Umbrella has no security function. It has a man called Hale and twenty-two people who guard four buildings in Delaware.
 WESKER: (soft) You are both discussing the wrong incident.
 N: He put the tablet down.
 WESKER: They knew the route, the schedule and the temperature spec. They knew which of two lorries was worth taking. That is not opportunism; that is procurement. Somebody bought that information from inside this company, and everything we have said since page one of that report has been about the lorry.
@@ -41,7 +41,7 @@ HUNK: (radio) Yes, sir.
 WESKER: Do you intend to show it to anyone?
 HUNK: (radio) No, sir.
 WESKER: (soft) Excellent. Neither do I.
-N: The narrator will note that in eleven years of service, in four continents and one ocean and eventually in vacuum, no photograph of HUNK's face was ever taken, and that this was not a System effect. It was a preference, and Wesker respected it the way one professional respects another's superstition.
+N: The narrator will note that in nineteen years of service, in four continents and one ocean and eventually in vacuum, no photograph of HUNK's face was ever taken, and that this was not a System effect. It was a preference, and Wesker respected it the way one professional respects another's superstition.
 
 [music] m_action -8
 [img] {HALE} and {HUNK} standing over a table covered in maps and equipment in a bare room, fluorescent light
@@ -53,7 +53,7 @@ WESKER: Mr. Hale. Your doctrine.
 HALE: (flat) Deterrence by presence. Visible protection at every site. Response within eleven minutes.
 WESKER: Wrong. Try again, using Mr. HUNK's material.
 HUNK: (radio) No presence. No response. Interdiction before the event, by knowing the event is coming.
-WESKER: (cold) Yes. I do not want guards, Mr. Hale. Guards are a tax I pay for ever, and a guard tells the world where the valuable thing is. I want a company that appears to have no security at all, and a very small number of people who arrive eleven hours before a thing happens.
+WESKER: (cold) Yes. I do not want guards, Mr. Hale. Guards are a tax I pay for ever, and a guard tells the world where the valuable thing is. I want a company that appears to have no security at all, and a very small number of people who arrive fifteen hours before a thing happens.
 N: That was the doctrine. It never changed. Thirty years later, when the Umbrella Security Service was a hundred and ninety thousand strong and had regiments in orbit, that sentence was still the first line of the manual.
 
 [music] m_lo -10
@@ -75,15 +75,15 @@ HALE: (flat) Yes, sir.
 [pause 0.6]
 HALE: (flat) Director — may I ask what I should choose?
 WESKER: (very cold) No. That is the entire point of the instruction and it is why it will not work.
-N: It did not work. Hale complied, as he complied with everything: for eleven years he went for a walk at the same time every night, four kilometres, the same route, and reported nothing, and enjoyed nothing, and when he was released in the seventh cohort in 2085 at the age of eighty-one the first thing he did was walk the same route.
-N: He walked it for another nine years. Then, in 2094, at eighty-nine, he stopped, and went a different way, and got lost, and the Directorate's duty officer received a call at eleven at night from a man who had been the head of its security service for forty years, standing at a road junction four kilometres from his house, saying — and it is in the log, and Wesker read it, and the log records that he read it eleven times —
+N: It did not work. Hale complied, as he complied with everything: for nineteen years he went for a walk at the same time every night, four kilometres, the same route, and reported nothing, and enjoyed nothing, and when he was released in the seventh cohort in 2085 at the age of eighty-one the first thing he did was walk the same route.
+N: He walked it for another nine years. Then, in 2094, at eighty-nine, he stopped, and went a different way, and got lost, and the Directorate's duty officer received a call at twenty-nine at night from a man who had been the head of its security service for forty years, standing at a road junction four kilometres from his house, saying — and it is in the log, and Wesker read it, and the log records that he read it eleven times —
 HALE: (slow) I don't know where I am. It's all right. I did it on purpose. Could somebody come and get me?
 [music] m_scheme -9
 [img] a European industrial estate at night, a low research building, no lights, rain on tarmac
 [loc] Near Leuven, Belgium — 2 December 2028, 1:00 a.m.
 N: The internal leak took Pell nine days and an audit of who had opened which routing file.
 N: It was not a traitor. That is worth saying, because Wesker had expected one and had already decided what to do about it. It was a twenty-six-year-old logistics coordinator in Rotterdam named Bram de Vos who had been socially engineered over four months by a very patient woman at a conference, and who was, when Hale's people finally sat down opposite him, so relieved to be caught that he wept.
-N: The woman worked for a private laboratory near Leuven that had been buying stolen biologics for eleven years and reselling them to clinics in three countries.
+N: The woman worked for a private laboratory near Leuven that had been buying stolen biologics for nineteen years and reselling them to clinics in three countries.
 N: The Belgian authorities would have taken nineteen months and would probably have won.
 WESKER: (soft) Mr. HUNK. How long would you need?
 HUNK: (radio) Twenty-two minutes on the ground. Four days of preparation.
@@ -99,11 +99,11 @@ N: At one forty the night porter, a sixty-year-old man named Luc, received a cal
 [sfx] sfx_footsteps +0.2
 N: At one forty-one, six people in black entered through a service door that had been fitted with a new lock in October by a contractor nobody at the laboratory could later name.
 N: At one fifty-two they were in the cold store. At two hundred and one, four hundred litres of Aeterna intermediate, still in Umbrella's own drums, went into a refrigerated van.
-N: At two hundred and four, HUNK stopped in the laboratory's server room for ninety seconds and copied eleven years of purchase records.
+N: At two hundred and four, HUNK stopped in the laboratory's server room for ninety seconds and copied nineteen years of purchase records.
 N: At two hundred and six they were gone. Total time on the ground: twenty-five minutes. Injuries: none. Shots fired: none. Doors broken: none.
 [sfx] sfx_car_pass +0.4
 N: At nine o'clock that morning the laboratory's director arrived to find an empty cold store, a functioning alarm system that had been off for four days, and no sign of entry whatsoever.
-N: He did not call the police. He could not call the police, because the eleven years of purchase records in his server room explained exactly where the product had come from.
+N: He did not call the police. He could not call the police, because the nineteen years of purchase records in his server room explained exactly where the product had come from.
 N: Two months later, an anonymous package of those records reached the Belgian federal prosecutor, and the laboratory's directors were arrested in April, and Umbrella's name appeared nowhere in the file.
 [sfx] sfx_system_chime +0.3
 [system] ACTING WITH INTELLIGENCE
@@ -136,6 +136,6 @@ N: By Christmas the Umbrella Security Service was four hundred strong and had be
 N: They trained at Arklay, in the forest, in weather. They wore black without insignia. The Absolute among them — and by December that was nine in ten — did not speak in formation, did not shift their weight, and did not blink at the rate that human beings blink.
 N: And on the twentieth of December a Tyrant walked through the hangar on its way from the transport to the cryogenic lift: two point nine metres, grey, silent, entirely indifferent.
 N: Four hundred trained soldiers watched it go past. Not one of them moved.
-N: HUNK — who had, according to a System panel nobody but Wesker could read, been through eleven things that would break a man, and who feared nothing in any useful sense of the word — stepped one pace to his left as it passed.
-N: Wesker saw it from the gallery. He did not mention it for eleven years, and then he mentioned it once, in a conversation in orbit with a woman who had been afraid of nothing for even longer, and what he said was:
+N: HUNK — who had, according to a System panel nobody but Wesker could read, been through twenty-seven things that would break a man, and who feared nothing in any useful sense of the word — stepped one pace to his left as it passed.
+N: Wesker saw it from the gallery. He did not mention it for nineteen years, and then he mentioned it once, in a conversation in orbit with a woman who had been afraid of nothing for even longer, and what he said was:
 WESKER: (soft) Everything alive gets out of its way. That is not obedience and it is not fear. It is arithmetic. And the day I stop being the thing that decides where it walks, I will be the arithmetic too.

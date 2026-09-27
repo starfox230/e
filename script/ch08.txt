@@ -13,7 +13,7 @@ Company banner: available
 Shop: 211 new items
 [say] Tier two. Company. Umbrella Life Sciences, Incorporated. Twenty-five thousand Points. Balance, sixty-two thousand. Territory tab unlocked. The Company banner is available. Two hundred and eleven new items in the Shop.
 [/system]
-N: Eight months. From a chair in an empty office to the second tier of six, in eight months, with a balance of sixty-two thousand Points and a company that employed one thousand six hundred and eleven people, three hundred and eleven of whom had been manufactured on a Saturday.
+N: Eight months. From a chair in an empty office to the second tier of six, in eight months, with a balance of sixty-two thousand Points and a company that employed one thousand six hundred and eleven people, three hundred and twenty-three of whom had been manufactured on a Saturday.
 N: He read the new tabs for two hours. Territory, which was locked at a price he could not yet reach and which made his hands very still when he read what it contained. Facilities, which now offered things with words like *secure estate* and *subsurface complex* in them. Personnel, which now offered cohorts rather than individuals.
 N: And the Company banner.
 [system] GACHA — THE COMPANY BANNER
@@ -48,7 +48,7 @@ Note: this item exists because you will need it.
 [/system]
 WESKER: Explain that note.
 SYSTEM: No.
-N: He asked four more times over the following eleven years. The answer did not change.
+N: He asked four more times over the following six years. The answer did not change.
 N: And then he spent the last twenty thousand.
 [sfx] sfx_gacha_spin +0.2
 N: Nine commons. Grey, grey, grey — a reagent lot, a service contract, three technicians, an office lease in Dover he did not need — and Wesker was already reaching for the panel to close it when the room turned gold.
@@ -79,7 +79,7 @@ ADOLF: (soft) Who are they?
 N: And for once — the only time, in the entire record — he answered honestly and immediately.
 WESKER: They are dead. They died in a city I destroyed, in a world that is not this one, thirty years ago and eighteen years from now.
 ADOLF: Friends?
-WESKER: (cold) No. Nothing so useful. Will was the only mind I have ever met that I could not simply out-work. He was a genius, he was a child, and he betrayed me, and I betrayed him, and both of us thought we had planned it. Annette hated me accurately for eleven years.
+WESKER: (cold) No. Nothing so useful. Will was the only mind I have ever met that I could not simply out-work. He was a genius, he was a child, and he betrayed me, and I betrayed him, and both of us thought we had planned it. Annette hated me accurately for six years.
 ADOLF: And the machine has simply given them back to you.
 WESKER: (soft) No. It has *issued* them to me. That is not the same thing, and I intend to keep the difference in front of me for as long as I live.
 
@@ -97,7 +97,7 @@ N: And the way he looked at it, from the air, for ninety seconds, is the only th
 [img] {BIRKIN} in a rumpled white lab coat coming down stone steps talking excitedly, a stone mansion behind him, morning light
 [loc] The carriage sweep
 N: William Birkin came down the steps before the rotors had stopped, in a lab coat he had slept in, holding a tablet, talking.
-BIRKIN: (fast) Albert. Albert — good, you're here, I need eleven minutes and then you can do whatever it is you came to do. The cryogenic hall's drawing four per cent over spec and Annette says it's the chillers but it isn't the chillers, it's that somebody plumbed the return on level six through the same riser as the containment scrubbers, which works, which is the problem, because it works until it doesn't and then we lose forty years of stock in an afternoon —
+BIRKIN: (fast) Albert. Albert — good, you're here, I need seventeen minutes and then you can do whatever it is you came to do. The cryogenic hall's drawing four per cent over spec and Annette says it's the chillers but it isn't the chillers, it's that somebody plumbed the return on level six through the same riser as the containment scrubbers, which works, which is the problem, because it works until it doesn't and then we lose forty years of stock in an afternoon —
 N: He stopped, because he had finally looked up.
 BIRKIN: You look strange. Are you ill? You're never ill.
 N: Wesker stood on the gravel in front of a man who had been dead for eighteen years in a world that no longer existed, who was talking to him about a chiller riser.
@@ -117,7 +117,7 @@ WESKER: Why not?
 ANNETTE: (cold) Because he'll give you anything you ask for, Dr. Wesker. He always has. Someone in this house has to say no to you, and it is not going to be him, and it is certainly not going to be the forty-one people downstairs who agree with everything anybody says.
 N: The narrator notes that Annette Birkin was, per the System's own roster, Absolute — incapable of disobedience, incapable of doubt.
 N: And she was standing in a doorway telling him to be careful with her husband.
-N: Wesker filed that. He filed it very carefully indeed, and it is the first crack in the story of what the Absolute actually are, and it does not open again for eleven years.
+N: Wesker filed that. He filed it very carefully indeed, and it is the first crack in the story of what the Absolute actually are, and it does not open again for six years.
 
 [music] m_horror -9
 [amb] amb_cryo -14
@@ -140,7 +140,7 @@ N: He could see it. He could not perceive the Shop or the Gacha or the roster or
 WESKER: (soft) You are a *terminal*.
 BIRKIN: (fast) That's rude.
 WESKER: It was not an insult.
-N: Later, on the surface, alone, he put the question to the System directly, and the System answered it in eleven words that he turned over for the next forty years.
+N: Later, on the surface, alone, he put the question to the System directly, and the System answered it in sixteen words that he turned over for the next forty years.
 SYSTEM: Absolute personnel are part of the estate. You are not.
 
 [music] m_lo -6
@@ -162,7 +162,7 @@ Director: Albert Wesker
 Personnel: 1,611 · Absolute: 87
 Facilities: 11 · Territory: none
 Next tier: AGENCY
-[say] Umbrella. Tier two. Director: Albert Wesker. One thousand six hundred and eleven personnel, eighty-seven of them Absolute. Eleven facilities. No territory. Next tier: Agency.
+[say] Umbrella. Tier two. Director: Albert Wesker. One thousand six hundred and five personnel, eighty-seven of them Absolute. Seven facilities. No territory. Next tier: Agency.
 [/system]
 N: *Territory: none.*
 N: He read that line, on a terrace above a valley he owned, in front of a house that had been given to him with two ghosts inside it.

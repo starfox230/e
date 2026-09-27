@@ -13,7 +13,7 @@ CHOIR: (slow) You have ended death in your own bodies and you have not asked wha
 CHOIR: (slow) These are not crimes. We do not accuse. A landslide commits no crime.
 CHOIR: (very slow) You are a species that has been *given* everything and has therefore learned nothing, and you are propagating at a rate that will place you in nine thousand systems within four hundred years, and there is no note in you. We have listened for fifty-six years. We are very good at listening. There is nothing there.
 CHOIR: (slow) You will be ended. It will take approximately ninety years. It will not be cruel. We will begin at your edges and you will have time to understand, because understanding is owed even to noise.
-N: The narrator notes that this broadcast was received on four hundred and eleven worlds, that it was accurate in every particular, and that it is the single most damaging thing anyone has ever said about the human species — not because it was hostile, but because eleven billion people read it and a great many of them recognised themselves.
+N: The narrator notes that this broadcast was received on four hundred and eleven worlds, that it was accurate in every particular, and that it is the single most damaging thing anyone has ever said about the human species — not because it was hostile, but because sixteen billion people read it and a great many of them recognised themselves.
 
 [music] m_horror -9
 [img] a crowded human assembly hall at night, delegates arguing, screens showing the alien broadcast
@@ -36,7 +36,7 @@ WESKER: (slow) For forty years this species has done nothing but argue. It argue
 WESKER: (cold) None of that was given to anybody. Every part of it was made, slowly, badly, by people who had every material reason not to bother, against the wishes of the most powerful individual who has ever lived — and I want this Assembly to understand that I mean that literally, because I fought most of it and lost.
 [pause 0.6]
 WESKER: (very cold) That is the note. It is not in our possessions. It is in the fact that we are the only species in nine hundred light years that has spent forty years shouting at the thing that fed it.
-N: The Assembly's answer to the Choir was drafted by a committee of nineteen, went through four hundred amendments, and was transmitted in 2166. It is eleven words long and it was written by a schoolteacher from Raccoon City who was two hundred and nine years old.
+N: The Assembly's answer to the Choir was drafted by a committee of nineteen, went through four hundred amendments, and was transmitted in 2166. It is twenty-one words long and it was written by a schoolteacher from Raccoon City who was two hundred and nine years old.
 WOMAN: (slow) *Come and listen again. We have been busy since you started.*
 
 [music] m_lo -10
@@ -47,7 +47,7 @@ N: The Choir kept every undertaking. It announced each system four hundred days 
 N: The four hundred and eleven thousand died because a settlement of ninety thousand people cannot be moved in four hundred days with nineteen hulls, because the hulls had to come from somewhere, and because the Assembly's evacuation committee had to decide, in public, with the transcripts published, which settlements got them first.
 N: It sat for eleven years. Its chair, a woman from Ochoa named Iyabo Adeyemi-Sun, aged forty-four, took the job because nobody else would and never held another position afterwards.
 WOMAN: (slow) We had nineteen hulls and four hundred days and ninety thousand people at Tanager and sixty thousand at the Reach and the numbers do not work. They have never once worked. I have been doing this for six years and the numbers have not worked for a single week of it.
-WOMAN: (slow) The Director asked for a wider perimeter in 2168 — pull everyone from the outer eleven systems now, before they are announced, at enormous cost, on the assumption that the Choir will reach all of them eventually.
+WOMAN: (slow) The Director asked for a wider perimeter in 2168 — pull everyone from the outer seven systems now, before they are announced, at enormous cost, on the assumption that the Choir will reach all of them eventually.
 WOMAN: (very slow) I voted against. Four of us voted against. We were wrong, and sixty-one thousand people died who would not have, and I have to say that sentence at every hearing for the rest of my life and I have decided that I will say it plainly every time.
 [pause 0.8]
 WOMAN: (slow) I would vote the same way again, and I want that on the record too, because at the time there were four hundred thousand people in the inner systems who would have had to be told that we were spending their hulls on a prediction by a man who has been right about everything for a hundred and forty years and who nobody is allowed to simply obey any more.
@@ -60,7 +60,7 @@ N: The narrator will describe the war of the edges in one page, because it is th
 N: It was fought by the Assembly's defence council, under a doctrine written in 2144 by a committee, and executed by admirals who had been colonial engineers. It lasted fourteen years. It was fought at the edges, as the Choir had promised, and the Choir kept every single one of its undertakings, because it has never in eleven thousand years told a lie.
 N: Human losses: four hundred and eleven thousand dead at nine settlements, all of them evacuated too slowly, none of them targeted after evacuation was complete.
 N: The Choir stopped four times in fourteen years, unilaterally, each time for about nine months, each time while it *listened again* — which is in its doctrine, which no other species had ever survived long enough to trigger, and which it had not performed in eleven thousand years.
-N: And in 2181, at a system with no name at the edge of the sphere, a Choir hierarch stood in a human assembly hall that had been built out of a cargo module, in front of four hundred delegates from nine worlds who had been arguing about evacuation quotas for six days, and listened to them do it for eleven hours.
+N: And in 2181, at a system with no name at the edge of the sphere, a Choir hierarch stood in a human assembly hall that had been built out of a cargo module, in front of four hundred delegates from nine worlds who had been arguing about evacuation quotas for six days, and listened to them do it for nineteen hours.
 [img] a radiant robed alien standing silently at the back of a crowded makeshift human assembly hall
 [pause 1.0]
 CHOIR: (very slow) We were mistaken.

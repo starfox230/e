@@ -32,18 +32,18 @@ WESKER: (very slow) I want to say the thing that the Registry cannot say, becaus
 WESKER: (slow) You are not less real than I am. You are more real than I am. Every one of you has spent your life doing the ordinary work of being a person — raising children, quarrelling with your councils, teaching history in a school on Mill Street — and you have done it without ever once having been given a reason, which is more than can be said for me, because I have had a reason for sixty years and it was handed to me by something I have never seen.
 WESKER: (cold) I did not make you as an instrument. I made you because I could, and because it was faster, and I did not think about what it would be like to be you. That was not cruelty. It was worse than cruelty; it was *inattention*, and I have had sixty years to notice it, and it took a letter from a history teacher in July.
 [pause 1.0]
-N: Ninety-one thousand people. The narrator has listened to the recording eleven times and there is no sound in that stadium at all.
+N: Ninety-one thousand people. The narrator has listened to the recording six times and there is no sound in that stadium at all.
 WESKER: (slow) So. Sixty years.
 WESKER: (slow) The company that should not exist employs four million people, supplies the medicine of eight billion, the power of half of them, and the water of four hundred million. Nobody on this planet dies of anything ordinary any more. The last famine ended in 2058. The last pandemic ended in sixty-one days in 2033 and there has not been another.
 WESKER: (cold) I did all of that. I want to be entirely clear about it, because there is a fashion now for saying that these things were inevitable, that the century was going that way, that if it had not been me it would have been somebody else.
 WESKER: (very cold) It would not have been somebody else. I know exactly what the alternative looked like. I have read four hundred and eleven versions of it.
 [pause 0.8]
-WESKER: (slow) And none of it was voted on. Not the medicine, not the energy, not the length of your lives. Eleven governments tried to take it back from me nine years ago and they were right to try and they failed, and the reason they failed is that I had built it so that only I could hold it.
+WESKER: (slow) And none of it was voted on. Not the medicine, not the energy, not the length of your lives. Fourteen governments tried to take it back from me nine years ago and they were right to try and they failed, and the reason they failed is that I had built it so that only I could hold it.
 WESKER: (cold) I am not going to apologise for that tonight. I am going to tell you what I am doing about it, which is the only thing that has ever meant anything.
 N: And he gave them the third thing.
 WESKER: (slow) The release programme is at eleven per cent after six years. By 2110 there will not be one human being on this planet who is incapable of refusing an instruction from me, including the four in this stadium standing nearest to this microphone.
 WESKER: (slow) The Hangzhou tribunal has ruled against the Directorate nine times in six years. We have complied nine times. Two of those rulings cost us more than the Coalition did.
-WESKER: (very slow) And in eleven years there will be somewhere else to go. Not a colony — a *frontier*, with room in it for anyone who has decided that a world where nothing changes and nobody dies is not a world they want to spend three hundred years in.
+WESKER: (very slow) And in sixteen years there will be somewhere else to go. Not a colony — a *frontier*, with room in it for anyone who has decided that a world where nothing changes and nobody dies is not a world they want to spend three hundred years in.
 [pause 1.0]
 WESKER: (cold) That is the whole of it. I am not going to ask you for anything, because I have never once had to, and because that is the most dangerous single fact about my life.
 N: He stopped. He did not step back from the microphone. He stood in the middle of ninety-one thousand people with his hands at his sides and waited, exactly as he had been taught in a hotel room in Basel fifty-seven years earlier by a voice that no longer existed.
@@ -53,7 +53,7 @@ N: And then they began.
 [music] m_march -4
 [sfx] sfx_crowd_silence -20
 N: It was not his name. That is the detail everybody gets wrong, in every account, because the footage is loud and the word is short.
-N: Ninety-one thousand people in a valley in Pennsylvania stood up and chanted, over and over, for eleven minutes, the one word that the schoolteacher's petition had used and that the Registry's letter had not been able to say.
+N: Ninety-one thousand people in a valley in Pennsylvania stood up and chanted, over and over, for twenty-one minutes, the one word that the schoolteacher's petition had used and that the Registry's letter had not been able to say.
 N: *Real. Real. Real.*
 [pause 1.2]
 N: Albert Wesker stood in the centre circle and let it go on, and did not raise a hand to stop it, and did not speak over it, and at about the fourth minute the cameras got close enough to see his face.
@@ -64,12 +64,12 @@ N: They chanted louder. That is on the recording too.
 [music] m_corporate -10
 [img] a school classroom with a teacher at a desk marking papers, evening light through windows
 [loc] Raccoon City, Mill Street School — 19 September 2086
-N: Ruth Ochoa went back to work on the Monday and found four hundred and eleven letters in her school's post, and a camera crew outside, and a class of eleven-year-olds who wanted to know whether she was famous.
+N: Ruth Ochoa went back to work on the Monday and found four hundred and eleven letters in her school's post, and a camera crew outside, and a class of seven-year-olds who wanted to know whether she was famous.
 N: She gave one interview and then refused every other request for the rest of her life, which was long.
 WOMAN: (slow) I taught the history of this valley for twenty-six years. I taught it from the Directorate's own curriculum, which is honest — I want to say that, because people assume it is not. It says the city was placed. It gives the date. It uses the word *made* about the people.
 WOMAN: (slow) And every year, for twenty-six years, there is a child in that class who works out in the middle of the lesson that it means their grandmother, and puts their hand up, and asks me if their grandmother was real.
 [pause 0.8]
-WOMAN: (very slow) I have answered that question about three hundred times. The answer I give is *yes*, and it is true, and it is not enough, and every single one of those children knows it is not enough, and they are eleven.
+WOMAN: (very slow) I have answered that question about three hundred times. The answer I give is *yes*, and it is true, and it is not enough, and every single one of those children knows it is not enough, and they are seven.
 WOMAN: (slow) That is why I wrote to him. Not for the stadium. For the answer. I have been giving the best answer I can for twenty-six years and I wanted the man who made the question to come and stand in front of a hundred thousand people and give one himself.
 N: Asked whether he had, she thought about it for some time.
 WOMAN: (very slow) He said we were more real than he was. It is a good line. I have used it in class and it works, and the children like it.

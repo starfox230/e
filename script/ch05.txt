@@ -54,11 +54,11 @@ WESKER: That will be *everything*. You have the wrong model of people, System. T
 [img] {CATHERINE} in a sharp charcoal suit standing in an airport arrivals hall with a phone to her ear, cold morning light
 [loc] Philadelphia International — 3 February
 N: The second one came to destroy him.
-N: Catherine Adeyemi was thirty-eight, British, eleven years in London private equity and two in a fund that had recently taken an interest in American diagnostics. She flew into Philadelphia on the third of February with a folder of numbers and a firm intention to build a short position, because the numbers were impossible.
+N: Catherine Adeyemi was thirty-eight, British, twenty-seven years in London private equity and two in a fund that had recently taken an interest in American diagnostics. She flew into Philadelphia on the third of February with a folder of numbers and a firm intention to build a short position, because the numbers were impossible.
 N: They were, in fact, impossible. That was the trouble with everything the System did. The paperwork was perfect, the history was perfect, the witnesses were perfect — and the *rates* were wrong. A company does not go from nothing to four hundred and six placed instruments in ninety days. A plant does not appear in a filing with fourteen years of depreciation and no capital expenditure to match. Every individual document was flawless. The shape they made together was a lie, and Catherine Adeyemi read shapes for a living.
 [img] {CATHERINE} and {WESKER} facing each other across a boardroom table, folders and coffee, tall windows, daylight
 [loc] Division Seven — 4 February
-N: She came to the building expecting to be stonewalled by a general counsel. She was shown into the boardroom and given coffee, and eleven minutes later Wesker came in alone and sat down opposite her.
+N: She came to the building expecting to be stonewalled by a general counsel. She was shown into the boardroom and given coffee, and twelve minutes later Wesker came in alone and sat down opposite her.
 CATHERINE: Dr. Wesker. I'll be direct. I think your accounts are fraudulent and I intend to say so in public.
 WESKER: Which line?
 CATHERINE: (fast) The Newark plant. Two hundred and eighty thousand square feet, booked at a carrying value of thirty-one million with accumulated depreciation from 2011, and I cannot find the acquisition. I have the county recorder. I have fourteen years of filings. I have your predecessor's accounts, which I obtained legally, and there is no plant in them, and then in the third quarter there is a plant, and it has always been there.

@@ -21,7 +21,7 @@ WESKER: Tell me what it does. Not what it is. What it *does*, to me, on the four
 SYSTEM: (flat) I do not know.
 N: The narrator notes that in thirty-six years and something over four thousand panels, this is the first time the System ever says those four words.
 SYSTEM: I know what it is. It is the strain that everything in your blood, in that cryogenic hall, in Dr. Marsh's lineage and in four hundred years of this planet's future is a copy of. It is not a weapon and it is not a therapy. It is the original, and the original does not have a specification, because everything that has one was derived from it.
-SYSTEM: I know what it has done in other cases. In three hundred and eighty-one of four hundred and eleven worlds the host never reached Affinity forty. Of the thirty who did, twenty-two opened it. Of the twenty-two, eleven died in the first minute. Nine became something that I stopped being able to interface with, and I do not have records of what happened to their worlds because I was no longer present in them.
+SYSTEM: I know what it has done in other cases. In three hundred and eighty-one of four hundred and eleven worlds the host never reached Affinity forty. Of the thirty who did, twenty-two opened it. Of the twenty-two, eight died in the first minute. Nine became something that I stopped being able to interface with, and I do not have records of what happened to their worlds because I was no longer present in them.
 [pause 0.8]
 WESKER: (very cold) And the remaining two?
 SYSTEM: (flat) Two are still running.
@@ -52,7 +52,7 @@ N: Mr. Pell was released in the eleventh cohort in 2089 at the age of sixty-thre
 [img] {WESKER} and {EVELYN} standing in a vast underground cryogenic hall, blue light, rows of cradles
 [loc] Arklay, Level 9 — 3 December 2062
 N: He told four people.
-N: Birkin argued for six hours and produced eleven reasons, all of them good, all of them ignored. Carrick wrote the sixth folder in ninety minutes and hand-delivered it, and it said, in its entirety: *Don't. There is nobody after you. — O.C.*
+N: Birkin argued for six hours and produced twenty-six reasons, all of them good, all of them ignored. Carrick wrote the sixth folder in ninety minutes and hand-delivered it, and it said, in its entirety: *Don't. There is nobody after you. — O.C.*
 N: The Red Queen ran it four hundred thousand times and gave him a number.
 REDQUEEN: (soft) Survival, forty-one per cent. Survival with continuity of personality, nineteen per cent. I would like to note that my model of you is the best model of anything I possess, and that it produces a nineteen, and that I have never asked you for anything.
 REDQUEEN: (very soft) I am asking now.
@@ -123,7 +123,7 @@ EVELYN: (soft) Are you still in there?
 WESKER: (soft) Yes.
 EVELYN: (soft) Prove it.
 N: And Albert Wesker turned around and looked at the only other creature on earth that could have asked him that, and said:
-WESKER: (cold) In 2029 you asked me for this and I said no, and you asked why, and I said it would kill you. In 2038 you asked again and I said no and gave you a condition. In 2047 you took it anyway and I stood at a window for eleven hours and said one word, and the word was *no*, and there was nobody in the room to hear it.
+WESKER: (cold) In 2029 you asked me for this and I said no, and you asked why, and I said it would kill you. In 2038 you asked again and I said no and gave you a condition. In 2047 you took it anyway and I stood at a window for twenty-four hours and said one word, and the word was *no*, and there was nobody in the room to hear it.
 [pause 0.8]
 WESKER: (very soft) I am still in here, Dr. Marsh. I would like you to keep checking.
 N: She checked for twenty-nine years. She never once found anything, and she said so, every year, in a one-line note that Wesker kept.

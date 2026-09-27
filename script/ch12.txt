@@ -5,7 +5,7 @@
 [img] {CATHERINE} presenting at the head of a boardroom table with a map of the world on a screen behind her, executives seated
 [loc] Division Seven, boardroom — 14 January 2029
 N: Catherine Adeyemi's expansion plan was eleven pages long and had taken her three months, and it was, by any ordinary measure, aggressive.
-CATHERINE: (fast) Four regional headquarters. London for Europe and the regulators, Singapore for Asia and manufacturing, Zurich for the Swiss pharmaceutical relationships and the money, Tokyo because our clinical partners are there and because we cannot keep flying people eleven thousand miles to be polite in person.
+CATHERINE: (fast) Four regional headquarters. London for Europe and the regulators, Singapore for Asia and manufacturing, Zurich for the Swiss pharmaceutical relationships and the money, Tokyo because our clinical partners are there and because we cannot keep flying people eight thousand miles to be polite in person.
 CATHERINE: Build-out over five years. Leased floors in year one, purpose-built by 2034. Nine hundred million dollars of capital expenditure, phased. It is the fastest I can make it go without breaking something.
 WESKER: Why buildings?
 CATHERINE: (soft) I beg your pardon?
@@ -18,7 +18,7 @@ WESKER: (soft) Ms. Adeyemi. In the eighteen months you have worked here, how man
 [pause 0.5]
 CATHERINE: (flat) Six.
 WESKER: And how many times were you correct?
-N: She did not answer that. She went back to her office and rewrote page nine, and at the bottom of the rewritten page she put a line that had not been in any document she had ever produced in eleven years in London: *Capital expenditure: to be advised by the Director.*
+N: She did not answer that. She went back to her office and rewrote page nine, and at the bottom of the rewritten page she put a line that had not been in any document she had ever produced in twenty-six years in London: *Capital expenditure: to be advised by the Director.*
 N: The narrator notes that this is the precise moment Catherine Adeyemi stopped being Umbrella's chief financial officer in the ordinary sense and became something else: the person who wrote down, in a form auditors could accept, whatever had already happened.
 
 [music] m_system -7
@@ -49,7 +49,7 @@ WESKER: (cold) No. It is better. A man who does not care makes mistakes with the
 [loc] London, Singapore, Zurich, Tokyo — the weekend of 26 January 2029
 N: The narrator will describe one of the four, because all four went the same way and one is enough to break your heart.
 N: On the south bank of the Thames, between Blackfriars and Southwark, there is a plot that had been a car park, then a hoarding with an artist's impression on it, then a hole in the ground with a stalled financing and a crane that had not moved since 2024.
-N: On Saturday morning there was a tower. Forty-one floors of grey glass with a crimson iris at its base, finished in 2019, designed by a practice that had won an award for it, with a public plaza, a coffee franchise on the ground floor and eleven years of weather on the stone.
+N: On Saturday morning there was a tower. Forty-one floors of grey glass with a crimson iris at its base, finished in 2019, designed by a practice that had won an award for it, with a public plaza, a coffee franchise on the ground floor and twenty-six years of weather on the stone.
 N: The crane was gone. The hoarding was gone. The stalled financing had never existed.
 [img] a tourist looking at an old photograph on a phone with a city skyline behind them, confused expression, daylight
 N: And this is the part that matters.
@@ -75,7 +75,7 @@ N: He closed the folder. He was promoted in 2031, and he retired in 2044 to a ho
 [music] m_lo -10
 [img] a young man in a small flat at night looking at photographs on a laptop, city lights outside
 [loc] London, Battersea — 2 February 2029
-N: Marcus Reese was in this story once, in 2027, as a nineteen-year-old with a drone and eleven hundred photographs of a riverfront in Wilmington.
+N: Marcus Reese was in this story once, in 2027, as a nineteen-year-old with a drone and twenty-four hundred photographs of a riverfront in Wilmington.
 N: He was twenty-one in 2029, and living in London, and on the Sunday morning after the towers he opened a folder of his own photographs of the Thames skyline, and sat and looked at them for about four hours.
 MAN: (slow) I'd done this before. That's the thing. I'd been through it in Delaware two years earlier and I'd talked myself out of it, and I'd promised myself that if it ever happened again I would not talk myself out of it.
 MAN: (slow) So I sat there with nine photographs and a tower in all of them, and I did not talk myself out of it, and it was the worst four hours of my life.
@@ -88,7 +88,7 @@ N: The narrator notes that there is a room named after him in the Assembly's arc
 [img] four tall towers in different cities shown as a montage at night, lit windows, crimson emblems
 N: Three regulators opened files in the first month.
 N: The Monetary Authority of Singapore queried the ownership chain of the Marina Boulevard property and received, within nine days, a complete conveyancing history going back to a reclamation grant in 2011, with tax paid every year.
-N: A Tokyo ward office queried the seismic certification of a forty-one-storey building it had no record of inspecting, and found its own inspection reports, with the inspector's stamp, and the inspector — who was sixty-three and had inspected eleven thousand buildings — remembered the job because of an argument about the sprinkler risers.
+N: A Tokyo ward office queried the seismic certification of a forty-one-storey building it had no record of inspecting, and found its own inspection reports, with the inspector's stamp, and the inspector — who was sixty-three and had inspected eight thousand buildings — remembered the job because of an argument about the sprinkler risers.
 N: The British planning authority did not query anything, because in Britain the tower had won an award, and there is no institution on earth less inclined to doubt a building than the one that gave it a prize.
 [sfx] sfx_system_chime +0.3
 [system] EXPANSION
@@ -113,7 +113,7 @@ Reward: 3,000,000 Points · Intelligence tab · Agency banner
 N: He went to London in February, to the forty-first floor of a building that had won an award in a year it did not exist, and stood at the window over the river in the dark.
 ADOLF: (soft) Say it.
 WESKER: Say what?
-ADOLF: You have been standing there for eleven minutes. You are not admiring the view; you have no interest in views. You are counting something.
+ADOLF: You have been standing there for twenty-three minutes. You are not admiring the view; you have no interest in views. You are counting something.
 N: Wesker did not turn around.
 WESKER: Nine million people per tower. Thirty-six million people have been quietly edited this month so that four buildings could stand in four cities, and not one of them will ever know, and the only measurable effect is that they will be very slightly less likely to ask a question for the rest of their lives.
 ADOLF: And this troubles you.
