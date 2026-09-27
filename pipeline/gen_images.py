@@ -290,13 +290,19 @@ def main():
         todo = [x for x in all_shots if x[0] in ids]
         out_dir = '/tmp/claude-0/-home-user-e/b62efde1-8f1a-59c0-a070-04b692eaca77/scratchpad/samples'
         variants = ['']
+    elif '--names' in sys.argv:
+        # fill specific frames (e.g. ones the Horde could not produce) into OUT
+        want = {l.strip() for l in open(sys.argv[sys.argv.index('--names') + 1]) if l.strip()}
+        todo = [x for x in all_shots if x[0] in want or x[0] + '_v1' in want]
+        out_dir, variants = OUT, ['', '_v1']
     else:
         todo, out_dir, variants = all_shots, OUT, ['', '_v1']
     os.makedirs(out_dir, exist_ok=True)
     limit = int(sys.argv[sys.argv.index('--limit') + 1]) if '--limit' in sys.argv else None
 
     jobs = [(sid, p, yr, v) for sid, p, yr in todo for v in variants
-            if not os.path.exists(os.path.join(out_dir, f'{sid}{v}.jpg'))]
+            if not os.path.exists(os.path.join(out_dir, f'{sid}{v}.jpg'))
+            and ('--names' not in sys.argv or f'{sid}{v}' in want)]
     done = len(todo) * len(variants) - len(jobs)
     if '--shard' in sys.argv:
         i, n = (int(x) for x in sys.argv[sys.argv.index('--shard') + 1].split('/'))

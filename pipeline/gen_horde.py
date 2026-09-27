@@ -17,7 +17,7 @@ fails is listed in failures.txt for the local generator to fill.
 
 Prompts go through gen_images.prepare(), the same rewriting the local generator used.
 
-Usage: python3 pipeline/gen_horde.py [--limit N] [--inflight N]
+Usage: python3 pipeline/gen_horde.py [--limit N] [--inflight N] [--reverse]
        HORDE_KEY=<key> python3 pipeline/gen_horde.py     (a registered key queues ahead of anonymous)
 """
 import os
@@ -60,6 +60,26 @@ def main():
             if not os.path.exists(os.path.join(OUT, name + '.jpg')):
                 jobs.append({'name': name, 'prompt': gen_images.prepare(p, None, look, yr),
                              'seed': gen_images.seed_of(name), 'tries': 0, 'model': 'flux'})
+    tag = 'rev' if '--reverse' in sys.argv else 'fwd'
+    by_name = {j['name']: j for j in jobs}
+    ledger_path = os.path.join(OUT, f'inflight_{tag}.tsv')
+    adopted = {}
+    if os.path.exists(ledger_path):
+        # a restart picks its own requests back up instead of abandoning them to the queue
+        for line in open(ledger_path):
+            rid, name, model, seed, ts = line.rstrip('\n').split('\t')
+            j = by_name.get(name)
+            if j and time.time() - float(ts) < 1500 and not os.path.exists(os.path.join(OUT, name + '.jpg')):
+                j.update(model=model, seed=int(seed), t=float(ts))
+                adopted[rid] = j
+    if adopted:
+        names = {j['name'] for j in adopted.values()}
+        jobs = deque(j for j in jobs if j['name'] not in names)
+        print(f'adopted {len(adopted)} requests still in flight from the last run', flush=True)
+    if '--reverse' in sys.argv:
+        # a second process works back from the end of the film, so two can share the run
+        # without claiming the same frames until they meet in the middle
+        jobs = deque(reversed(jobs))
     if limit:
         jobs = deque(list(jobs)[:limit])
     n_jobs = len(jobs)
@@ -96,7 +116,21 @@ def main():
     for t in savers:
         t.start()
 
-    inflight = {}                  # request id -> job
+    inflight = dict(adopted)       # request id -> job
+    ledger = open(ledger_path, 'a')
+
+    def cancel_all(*_):
+        # queued requests nobody will collect would still cost a volunteer's GPU; withdraw them
+        for rid in list(inflight):
+            try:
+                horde._req('DELETE', f'/generate/status/{rid}', timeout=10)
+            except Exception:
+                pass
+        print(f'stopped; withdrew {len(inflight)} queued requests', flush=True)
+        os._exit(0)
+    import signal
+    signal.signal(signal.SIGTERM, cancel_all)
+    signal.signal(signal.SIGINT, cancel_all)
     t0 = time.time()
     last_report = 0
     backoff = 0
@@ -117,10 +151,14 @@ def main():
         # top up the window
         while jobs and len(inflight) < window and time.time() >= backoff:
             job = jobs.popleft()
+            if os.path.exists(os.path.join(OUT, job['name'] + '.jpg')):
+                continue           # the other process got there first
             try:
                 rid = horde.submit(job['prompt'], job['seed'], job['model'], W, H, KEY)
                 job['t'] = time.time()
                 inflight[rid] = job
+                ledger.write(f"{rid}\t{job['name']}\t{job['model']}\t{job['seed']}\t{job['t']}\n")
+                ledger.flush()
             except urllib.error.HTTPError as e:
                 body = e.read()[:200]
                 jobs.appendleft(job)
@@ -174,10 +212,10 @@ def main():
             el = time.time() - t0
             n = done['n']
             rate = n / el * 3600 if el > 0 else 0
-            left = n_jobs - n
-            eta = left / rate if rate > 0 else float('inf')
-            print(f'[{time.strftime("%H:%M:%S")}] {n}/{n_jobs} saved, {len(inflight)} in flight, '
-                  f'{rate:.0f}/h, eta {eta:.1f}h', flush=True)
+            on_disk = len([f for f in os.listdir(OUT) if f.endswith('.jpg') and not f.startswith('.')])
+            left = total - on_disk
+            print(f'[{time.strftime("%H:%M:%S")}] {tag}: {n} saved by this process, {on_disk}/{total} on disk, '
+                  f'{len(inflight)} in flight, {rate:.0f}/h here, {left} left', flush=True)
         time.sleep(2)
 
     saves.join()
