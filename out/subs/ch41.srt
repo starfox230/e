@@ -1,647 +1,705 @@
 1
-00:00:07,799 --> 00:00:13,889
-They called it the Accord, and the negotiation took
-four years, and the signing took nineteen
+00:00:07,799 --> 00:00:12,530
+The first ship took seven months to build and
+it was not built by the System.
 
 2
-00:00:13,909 --> 00:00:14,414
-minutes.
+00:00:12,929 --> 00:00:19,018
+The narrator wishes to be exact, because it is the
+point of this chapter and the reason
 
 3
-00:00:14,984 --> 00:00:20,808
-It was not a surrender, and it was not a conquest,
-and every government that signed it
+00:00:19,038 --> 00:00:22,880
+Albert Wesker gave an engineer from
+the Arcology a pen.
 
 4
-00:00:20,828 --> 00:00:26,651
-went home able to explain to its own people why it
-had not lost anything. That was the
+00:00:23,280 --> 00:00:29,579
+The System sold him the hull pattern and the drive
+geometry: nine billion Points and forty
 
 5
-00:00:26,671 --> 00:00:32,563
-whole design. The Director had spent four years
-making sure that every single signatory
+00:00:29,599 --> 00:00:35,547
+billion Points, delivered as specification —
+thousands of pages of it, in a form that
 
 6
-00:00:32,583 --> 00:00:36,639
-could tell a true story about why
-signing was good for them.
+00:00:35,567 --> 00:00:41,586
+Crane's people described as *written by somebody who
+has never had to explain anything
 
 7
-00:00:37,209 --> 00:00:43,232
-The Global Framework Accord on Biosecurity,
-Longevity and Infrastructure was signed by
+00:00:41,606 --> 00:00:42,850
+to anybody twice*.
 
 8
-00:00:43,252 --> 00:00:49,204
-a hundred and forty-one states. It established a
-joint authority — the Accord Council
+00:00:43,250 --> 00:00:48,848
+It did not sell him a ship. He could have bought one.
+There was a line in the BEYOND tab
 
 9
-00:00:49,224 --> 00:00:55,528
-— with binding powers over the manufacture and
-distribution of a defined list of essential
+00:00:48,868 --> 00:00:54,274
+that would have put a finished four-kilometre
+vessel in orbit overnight, crewed, with
 
 10
-00:00:55,548 --> 00:01:01,642
-medicines, over pandemic response, over biosafety
-standards, and over a fund for water,
+00:00:54,294 --> 00:00:57,083
+a maintenance log going back
+nineteen years.
 
 11
-00:01:01,662 --> 00:01:06,841
-power, and health infrastructure in any
-signatory state that requested it.
+00:00:57,484 --> 00:01:03,317
+He did not buy it. And when Mira Halder asked him
+why, in the second week, on a gantry,
 
 12
-00:01:07,412 --> 00:01:13,542
-The Council had thirty-one seats. Fourteen were held
-by states, rotating. Nine were held
+00:01:03,337 --> 00:01:08,834
+in a pressure suit, he gave her the only fully
+honest answer of the whole account.
 
 13
-00:01:13,562 --> 00:01:19,832
-by regional blocs. Four were held by the World Health
-Organization and other international
+00:01:09,353 --> 00:01:16,490
+Because everything I have ever been given arrived
+finished, and because I have spent sixty-four
 
 14
-00:01:19,852 --> 00:01:25,772
-bodies. And four were held by Umbrella Life
-Sciences, which also, under Article Nine,
+00:01:16,510 --> 00:01:19,504
+years watching what that does to people.
 
 15
-00:01:25,792 --> 00:01:31,922
-served as the Council's sole executing agent, because
-it was the only body on Earth with
+00:01:19,784 --> 00:01:26,785
+There are four hundred thousand human beings on this
+planet who cannot refuse an instruction,
 
 16
-00:01:31,942 --> 00:01:34,228
-the capacity to execute anything.
+00:01:26,805 --> 00:01:33,278
+and there are four hundred thousand more in an ocean
+who have never had a consequence,
 
 17
-00:01:36,299 --> 00:01:41,915
-Four seats out of thirty-one. That was the number in
-every newspaper. Every government
+00:01:33,298 --> 00:01:39,394
+and the common cause of both is that I was in a
+hurry and the catalogue was open.
 
 18
-00:01:41,935 --> 00:01:43,095
-could point at it.
+00:01:39,674 --> 00:01:47,304
+(very cold) So this one gets built. By people.
+Slowly. With arguments about the budget.
 
 19
-00:01:43,665 --> 00:01:45,937
-Article Nine was in the annexes.
+00:01:47,703 --> 00:01:51,293
+It's going to take seven months and it's
+going to have a flaw in it.
 
 20
-00:01:48,507 --> 00:01:53,097
-Catherine Adeyemi had drafted Article
-Nine. She was fifty-nine.
+00:01:51,694 --> 00:01:58,093
+Yes. And in four hundred years somebody will find
+the flaw and know that a person put
 
 21
-00:01:53,667 --> 00:01:59,155
-She had argued against it for two years, in memos
-that were read and answered courteously
+00:01:58,113 --> 00:02:04,664
+it there, and that will be worth more to them than a
+ship that came out of a catalogue.
 
 22
-00:01:59,175 --> 00:02:04,539
-and in full, and then she had drafted it, because
-she was the best in the world at that
+00:02:05,063 --> 00:02:11,246
+They called it the *Christina*, after a river in
+Delaware that four hundred thousand people
 
 23
-00:02:04,559 --> 00:02:09,862
-kind of drafting and because if she had not done it,
-one of the quiet ones would have,
+00:02:11,266 --> 00:02:14,313
+in the middle of the Atlantic
+had never seen.
 
 24
-00:02:09,882 --> 00:02:11,656
-and it would have been worse.
+00:02:14,713 --> 00:02:20,864
+Four kilometres. Crew of eleven hundred. A drive that
+changed velocity without expelling
 
 25
-00:02:12,227 --> 00:02:18,333
-She had, by then, developed a private test. Before she
-signed anything, she asked herself:
+00:02:20,884 --> 00:02:27,034
+mass, built to a geometry nobody on earth understood
+and four people could operate. Nine
 
 26
-00:02:18,353 --> 00:02:24,324
-if I explain this, in plain language, to the woman I
-was in twenty twenty-seven, sitting
+00:02:27,054 --> 00:02:32,993
+hundred and forty habitation decks, a hospital,
+four hydroponic halls — and a garden,
 
 27
-00:02:24,344 --> 00:02:28,001
-in a hedge fund in Manhattan, would
-she understand it?
+00:02:33,013 --> 00:02:39,304
+on deck twenty-six, laid out by a woman on an ice
+shelf who had sent one line in a letter.
 
 28
-00:02:28,570 --> 00:02:34,709
-Article Nine failed the test. She drafted it anyway.
-It was the eleventh thing that year
+00:02:39,704 --> 00:02:45,445
+Mira Halder was chief of structures. She argued
+with the Directorate about the budget
 
 29
-00:02:34,729 --> 00:02:35,898
-to fail the test.
+00:02:45,465 --> 00:02:51,342
+nineteen times and won twenty-six, which she
+described afterwards as *the best nineteen
 
 30
-00:02:38,468 --> 00:02:43,834
-The crowd was not planned. That has been disputed
-for two centuries and it is true.
+00:02:51,362 --> 00:02:52,834
+arguments of my life*.
 
 31
-00:02:44,405 --> 00:02:50,097
-Tomás Reyes's department had organised a public
-broadcast of the signing on screens in
+00:02:53,234 --> 00:02:58,764
+The narrator will give you one of them, because it is
+the moment the story changes hands.
 
 32
-00:02:50,117 --> 00:02:56,009
-the Place des Nations, expecting perhaps twenty
-thousand people. By four in the afternoon
+00:02:59,283 --> 00:03:02,353
+I want the redundancy on the
+drive spars doubled.
 
 33
-00:02:56,029 --> 00:03:01,921
-there were two hundred thousand in the square and the
-streets around it, and by six there
+00:03:02,753 --> 00:03:06,403
+The System's specification does
+not require it.
 
 34
-00:03:01,941 --> 00:03:07,700
-were four hundred thousand, and the city of Geneva
-had closed the bridges and given up.
+00:03:06,804 --> 00:03:12,235
+The System's specification assumes a hull that was
+placed rather than welded. Mine has
 
 35
-00:03:08,270 --> 00:03:14,500
-They had come from everywhere. A great many of them had
-come from the association territories,
+00:03:12,255 --> 00:03:17,939
+four thousand human welds in it and I know exactly how
+good my welders are, which is very,
 
 36
-00:03:14,520 --> 00:03:20,616
-on buses and ferries, at their own expense. There were,
-by the estimate of the Swiss police,
+00:03:17,959 --> 00:03:18,953
+and not perfect.
 
 37
-00:03:20,636 --> 00:03:24,338
-people from a hundred and nine
-countries in that square.
+00:03:19,354 --> 00:03:22,783
+It is eighteen billion Points
+and four months.
 
 38
-00:03:26,408 --> 00:03:31,954
-Why they came is the question that matters, and the
-answer is the least dramatic thing
+00:03:23,183 --> 00:03:25,993
+Then it's eighteen billion Points
+and four months.
 
 39
-00:03:31,974 --> 00:03:33,313
-in this entire story.
+00:03:26,834 --> 00:03:34,134
+(very cold) Ms. Halder, are you aware that you are
+the only person alive who argues with
 
 40
-00:03:33,883 --> 00:03:39,304
-Most of them were not fanatics. Most of them had
-never said the Creed. They came because
+00:03:34,154 --> 00:03:34,383
+me?
 
 41
-00:03:39,324 --> 00:03:44,620
-in twenty forty-seven the world had been frightening
-for a very long time, and because
+00:03:34,783 --> 00:03:39,013
+Yes. Everybody's aware. There's a rota — I'm
+joking. There isn't a rota.
 
 42
-00:03:44,640 --> 00:03:49,999
-a single organisation had, in their own direct
-experience, vaccinated them, and rebuilt
+00:03:39,623 --> 00:03:44,380
+Director, I've thought about this a lot, because
+people keep telling me I'm brave and
 
 43
-00:03:50,019 --> 00:03:55,563
-their hospital, and put their water back on, and made
-their grandmother walk — and because
+00:03:44,400 --> 00:03:49,324
+I'm not. I argue with you because you have never
+once, in two years, made me pay for it.
 
 44
-00:03:55,583 --> 00:04:00,879
-something was being signed in their city that felt,
-for the first time in their lives,
+00:03:49,344 --> 00:03:54,100
+Mr. Carrick told me you've been like this since
+2033 and that it's the only reason he
 
 45
-00:04:00,899 --> 00:04:02,611
-like the adults had arrived.
+00:03:54,120 --> 00:03:54,493
+stayed.
 
 46
-00:04:03,181 --> 00:04:06,448
-That is how it happens. Not with
-hatred. With relief.
+00:03:54,774 --> 00:03:59,555
+(very slow) I think you've spent sixty-five years
+building an empire that cannot say no
 
 47
-00:04:09,018 --> 00:04:11,337
-He came out onto the balcony at seven.
+00:03:59,575 --> 00:04:04,412
+to you and hiring, one at a time, the four or five
+people who can. And I don't think you
 
 48
-00:04:11,907 --> 00:04:17,981
-He had not been scheduled to speak. The programme had
-the Secretary-General, and the President
+00:04:04,432 --> 00:04:06,123
+ever noticed you were doing it.
 
 49
-00:04:18,001 --> 00:04:23,622
-of the Swiss Confederation, and then the anthem. But
-the crowd had begun, at about half
+00:04:06,524 --> 00:04:13,040
+The narrator notes that Albert Wesker approved the
+doubled redundancy without further
 
 50
-00:04:23,642 --> 00:04:29,197
-past six, to make a noise that the people on the
-balcony could feel through the stone,
+00:04:13,060 --> 00:04:19,884
+discussion, that it cost eighteen billion Points and
+four months, and that in 2134 a spar
 
 51
-00:04:29,217 --> 00:04:34,967
-and the Secretary-General of the United Nations — who
-was seventy-four, and who had spent
+00:04:19,904 --> 00:04:26,421
+failure on a sister ship killed nine hundred people
+and the *Christina* class was the
 
 52
-00:04:34,987 --> 00:04:40,607
-his entire career in rooms exactly like the one
-behind him — looked out at four hundred
+00:04:26,441 --> 00:04:30,574
+only design in the fleet that
+survived the same fault.
 
 53
-00:04:40,627 --> 00:04:46,506
-thousand people and understood that if somebody did
-not go out onto that balcony, something
+00:04:30,973 --> 00:04:36,478
+The narrator would like to record one argument from
+the seven months, because it is the
 
 54
-00:04:46,526 --> 00:04:48,711
-would happen in Geneva that night.
+00:04:36,498 --> 00:04:40,923
+argument that decided what kind of thing was
+leaving the solar system.
 
 55
-00:04:49,281 --> 00:04:53,570
-So he turned to the man in the black coat and
-said: they are calling for you.
+00:04:41,324 --> 00:04:47,599
+The *Christina*'s crew was eleven hundred. The
+Directorate's original manifest, drafted
 
 56
-00:04:58,139 --> 00:05:00,990
-The roar when he stepped out
-lasted four minutes.
+00:04:47,619 --> 00:04:54,183
+by Hale's successor and approved without discussion,
+was eleven hundred Absolute personnel:
 
 57
-00:05:01,560 --> 00:05:07,583
-He stood at the rail and let it. He did not raise a
-hand. He did not smile. He stood perfectly
+00:04:54,203 --> 00:05:00,334
+incapable of panic, incapable of mutiny, incapable
+of deciding at year nine that they
 
 58
-00:05:07,603 --> 00:05:13,048
-still in the floodlights, and four hundred thousand
-people shouted themselves hoarse,
+00:05:00,354 --> 00:05:01,854
+would rather go home.
 
 59
-00:05:13,068 --> 00:05:19,156
-and nineteen thousand kilometres of network carried it
-live to an audience that the measurement
+00:05:02,254 --> 00:05:08,469
+Mira Halder read it and went to the Assembly instead
+of to Wesker, which is the single
 
 60
-00:05:19,176 --> 00:05:24,685
-companies afterwards put at six point one billion —
-which is to say, everyone on Earth
+00:05:08,489 --> 00:05:11,224
+most consequential thing she ever did.
 
 61
-00:05:24,705 --> 00:05:26,678
-who was awake and had a screen.
+00:05:11,744 --> 00:05:17,045
+You are proposing to put the first human beings
+outside this system in the hands of eleven
 
 62
-00:05:29,369 --> 00:05:35,133
-Twenty-one years ago I sat in a chair in a building
-nobody had ever heard of, in a town
+00:05:17,065 --> 00:05:22,367
+hundred people who cannot refuse an order, four
+hundred light years from anybody who could
 
 63
-00:05:35,153 --> 00:05:38,458
-nobody writes songs about, and I
-watched the rain.
+00:05:22,387 --> 00:05:24,673
+ask them whether they want to be there.
 
 64
-00:05:39,858 --> 00:05:42,605
-There were six of us. We could not
-make the payroll.
+00:05:24,954 --> 00:05:29,664
+The Accord says we are releasing them. It does
+not say we may spend them first.
 
 65
-00:05:44,625 --> 00:05:49,610
-Four hundred thousand people laughed — a
-strange, enormous, loving sound.
+00:05:30,064 --> 00:05:36,856
+The Assembly voted four hundred and one to ten. The
+crew of the *Christina* was recruited:
 
 66
-00:05:50,300 --> 00:05:55,671
-Today a hundred and forty-one governments signed a
-piece of paper that says something
+00:05:36,876 --> 00:05:43,668
+nineteen thousand applications for eleven hundred
+places, assessed by a board Mira chaired
 
 67
-00:05:55,691 --> 00:06:01,188
-very simple. It says that the things which keep
-human beings alive are too important to
+00:05:43,688 --> 00:05:45,334
+and Wesker was not on.
 
 68
-00:06:01,208 --> 00:06:06,387
-be left to chance, or to markets, or to the
-electoral calendar of any one country.
+00:05:45,733 --> 00:05:51,500
+Four of the eleven hundred were released Absolute
+personnel who applied like everybody
 
 69
-00:06:06,788 --> 00:06:11,392
-It says that when the storm comes — and it is
-coming, and all of you know it, and you
+00:05:51,520 --> 00:05:57,220
+else. One of them, a former maintenance technician
+from the Newark plant who had been
 
 70
-00:06:11,412 --> 00:06:15,365
-have known it your whole lives — there will
-be something over your heads.
+00:05:57,240 --> 00:06:03,276
+made on a Saturday in 2027 and released in the second
+cohort in 2082, was the ship's chief
 
 71
-00:06:17,264 --> 00:06:22,502
-I did not build that for you. I want to be honest with
-you tonight, because you have given
+00:06:03,296 --> 00:06:09,063
+of environmental systems for forty-one years and is
+buried on Ochoa under a stone that
 
 72
-00:06:22,522 --> 00:06:27,350
-me something that nobody gives anybody anymore,
-and I will not repay it with a lie.
+00:06:09,083 --> 00:06:12,024
+says, at his own instruction,
+*he chose it*.
 
 73
-00:06:28,750 --> 00:06:34,031
-I did not build it out of love for you. I built it
-because the world was badly run, and
+00:06:12,423 --> 00:06:19,097
+Owen Carrick died on the nineteenth of October 2091,
+aged ninety-three, at home, having
 
 74
-00:06:34,051 --> 00:06:37,199
-it offended me, and I believed I
-could do it better.
+00:06:19,117 --> 00:06:25,945
+declined Aeterna for the last twenty-two years of his
+life for reasons he never explained
 
 75
-00:06:39,100 --> 00:06:44,362
-But it is over your heads now. And it does not
-matter in the slightest why I built it.
+00:06:25,965 --> 00:06:32,331
+to anyone except his wife, who had taken it and
+who outlived him by eleven decades.
 
 76
-00:06:47,382 --> 00:06:53,417
-That was the most dangerous thing anyone said in the
-twenty-first century, and six billion
+00:06:32,730 --> 00:06:39,313
+Wesker came on the Thursday. It was the ninth folder,
+and it was four sentences, and Carrick
 
 77
-00:06:53,437 --> 00:06:56,310
-people heard it, and almost
-nobody noticed.
+00:06:39,333 --> 00:06:42,040
+made him read it out loud in the room.
 
 78
-00:06:56,879 --> 00:07:02,775
-He had told them the truth. He had told them, from a
-balcony, in front of the entire species,
+00:06:42,560 --> 00:06:43,850
+(very slow) Read it.
 
 79
-00:07:02,795 --> 00:07:08,245
-that he did not love them, that he considered the
-world his to correct, and that their
+00:06:44,250 --> 00:06:50,851
+*Fifty-eight years. He never once removed a person for
+telling him the truth, and he never
 
 80
-00:07:08,265 --> 00:07:10,663
-opinion of his motives was irrelevant.
+00:06:50,871 --> 00:06:53,940
+once changed course because of it either.*
 
 81
-00:07:11,233 --> 00:07:17,059
-And four hundred thousand people in the Place des
-Nations heard a man being honest with
+00:06:54,221 --> 00:07:00,710
+*I have concluded that these are the same fact and
+not two, and that a man who cannot
 
 82
-00:07:17,079 --> 00:07:22,772
-them, which nobody in power had been in their
-lifetimes, and they loved him for it so
+00:07:00,730 --> 00:07:03,391
+be angered also cannot be reached.*
 
 83
-00:07:22,792 --> 00:07:28,552
-completely that the sound they made cracked two
-windows on the façade of the Palace of
+00:07:03,670 --> 00:07:10,245
+*I was the mechanism that should have stopped this
+and I did not work, and I am not sure
 
 84
-00:07:28,572 --> 00:07:29,090
-Nations.
+00:07:10,265 --> 00:07:16,540
+any mechanism would have, and I am too tired now to
+know whether that is an excuse.*
 
 85
-00:07:31,661 --> 00:07:37,727
-The chant began in the south-west corner, among the
-buses from the association territories.
+00:07:16,821 --> 00:07:20,111
+*Tell Mira. She is the one who might.*
 
 86
-00:07:38,297 --> 00:07:39,645
-Um. Brel. La.
+00:07:21,170 --> 00:07:23,021
+(very slow) You didn't argue.
 
 87
-00:07:40,213 --> 00:07:46,072
-It went across four hundred thousand people in about
-ninety seconds. It was audible in
+00:07:23,420 --> 00:07:24,951
+(very soft) No.
 
 88
-00:07:46,092 --> 00:07:52,020
-France. Seismographs at the university recorded it.
-In the Palace behind him, a hundred
+00:07:25,350 --> 00:07:28,701
+(very slow) Fifty-eight years and
+that's the first time.
 
 89
-00:07:52,040 --> 00:07:57,283
-and forty-one delegations stood at the windows
-and watched their century end.
+00:07:29,100 --> 00:07:36,204
+Mr. Carrick, in 2033 you sat in a diner and told me
+you were taking the job so that you
 
 90
-00:08:00,853 --> 00:08:07,044
-And on the balcony, in the floodlights, a man who had
-died in a bunker in nineteen forty-five
+00:07:36,224 --> 00:07:43,491
+could be the one who told me no. You have done it
+nine times. I have overruled you eight.
 
 91
-00:08:07,064 --> 00:08:12,788
-and a man who had died in a volcano in another world
-stood in one body and listened to
+00:07:43,891 --> 00:07:45,081
+(very slow) Eight?
 
 92
-00:08:12,808 --> 00:08:18,664
-four hundred thousand people chant, and for the first
-time in twenty-one years there was
+00:07:45,480 --> 00:07:52,026
+The ninth was in January 2040 and I wrote *you are
+correct and I have no answer* at the
 
 93
-00:08:18,684 --> 00:08:20,802
-no argument between them at all.
+00:07:52,046 --> 00:07:58,441
+bottom of it, and I have never told you, and I am
+telling you now because there is no
 
 94
-00:08:21,372 --> 00:08:24,497
-No disagreement. No friction.
-Not one word.
+00:07:58,461 --> 00:08:04,931
+longer any tactical reason not to and I have
+discovered that I would like you to know.
 
 95
-00:08:26,687 --> 00:08:27,364
-Now.
+00:08:05,880 --> 00:08:11,679
+The narrator records that Owen Carrick laughed,
+which hurt him, and that he said four
 
 96
-00:08:27,884 --> 00:08:28,824
-Now.
+00:08:11,699 --> 00:08:17,567
+more words, and that Albert Wesker sat in that room
+for another two hours after he had
 
 97
-00:08:30,343 --> 00:08:35,500
-They said it at the same instant, in the same
-cadence, in the quiet of one skull.
+00:08:17,587 --> 00:08:18,731
+stopped speaking.
 
 98
-00:08:36,070 --> 00:08:41,951
-And then, for the first time, they said the next
-sentence together — one voice, in two
+00:08:19,250 --> 00:08:21,500
+(very slow) Fifty-eight years. One.
 
 99
-00:08:41,971 --> 00:08:46,001
-registers, perfectly aligned, the way
-a chord is one sound.
+00:08:21,901 --> 00:08:28,130
+He is buried in Media, Pennsylvania, in an ordinary
+cemetery, under an ordinary stone.
 
 100
-00:08:47,691 --> 00:08:49,292
-This is what it was for.
+00:08:28,150 --> 00:08:34,596
+The Umbrella Directorate flew its flag at half mast
+for the second time in its existence.
 
 101
-00:08:53,442 --> 00:08:58,969
-Integration complete. Host coherence,
-one hundred percent.
+00:08:34,998 --> 00:08:42,184
+His nine folders are in a drawer in a desk in a
+building on the Christina River that appeared
 
 102
-00:09:02,558 --> 00:09:08,050
-He read the panel on the balcony, in the floodlights,
-with the chant going on underneath
+00:08:42,204 --> 00:08:49,158
+out of nothing on the fourteenth of September 2026.
+They were published, in full, in 2094,
 
 103
-00:09:08,070 --> 00:09:09,115
-him like weather.
+00:08:49,178 --> 00:08:52,568
+on Wesker's instruction,
+without commentary.
 
 104
-00:09:09,684 --> 00:09:15,790
-Designation: Wesker. The System had stopped listing a
-secondary imprint. It had stopped,
+00:08:52,967 --> 00:08:56,197
+They are the primary source for about a
+third of this account.
 
 105
-00:09:15,810 --> 00:09:20,455
-at some point that it did not specify,
-treating them as two things.
+00:08:56,597 --> 00:09:01,936
+The narrator will give you the departure, because it
+is the last scene in this Part and
 
 106
-00:09:21,024 --> 00:09:26,989
-He waited to feel something about that. A loss,
-perhaps. The old voice had been in there
+00:09:01,956 --> 00:09:04,216
+because of who was not on the bridge.
 
 107
-00:09:27,009 --> 00:09:33,110
-for twenty-one years; it had argued with him in a
-thousand cars on a thousand drives home;
+00:09:04,615 --> 00:09:10,649
+Eleven hundred people. Nineteen thousand had applied.
+The manifest was published in full
 
 108
-00:09:33,130 --> 00:09:38,211
-it had been wrong about almost everything and
-honest about it exactly once.
+00:09:10,669 --> 00:09:16,841
+four months in advance, as everything on that ship was
+published, and the Assembly debated
 
 109
-00:09:38,780 --> 00:09:42,754
-He felt nothing at all. There was nobody
-left in there to miss.
+00:09:16,861 --> 00:09:19,524
+it for two days and changed four names.
 
 110
-00:09:46,323 --> 00:09:52,228
-The Umbrella Directorate was established eleven
-weeks later, and it was not announced,
+00:09:19,924 --> 00:09:26,068
+Mira Halder took the ship out at nine in the
+morning on the fourth of March 2092. Her
 
 111
-00:09:52,248 --> 00:09:58,222
-because it was not an announceable thing. It was
-simply the name that people inside the
+00:09:26,088 --> 00:09:32,449
+last transmission from inside the solar system,
+eleven days later, is four sentences and
 
 112
-00:09:58,242 --> 00:10:04,146
-organisation began to use, in twenty forty-seven,
-for the body that made the decisions
+00:09:32,469 --> 00:09:34,914
+it is on the wall of the Assembly.
 
 113
-00:10:04,166 --> 00:10:10,553
-— the Accord Council's executing agent, plus the
-Territory, plus the association territories,
+00:09:35,434 --> 00:09:40,995
+We have the garden. It is not doing well; the soil
+is the one thing nobody argued about
 
 114
-00:10:10,573 --> 00:10:16,684
-plus the Security Service, plus the Foundation, plus
-the Progenitor Initiative, plus four
+00:09:41,015 --> 00:09:41,444
+enough.
 
 115
-00:10:16,704 --> 00:10:23,022
-hundred and eighty thousand employees and a hundred and
-ninety million people in territories
+00:09:41,725 --> 00:09:46,815
+To the people who built the spars twice: thank you,
+and I am sorry about the four months.
 
 116
-00:10:23,042 --> 00:10:24,056
-of association.
+00:09:47,095 --> 00:09:52,080
+To the Assembly: we are not a colony of anywhere. We
+are eleven hundred people who have
 
 117
-00:10:24,625 --> 00:10:30,479
-It had one Director. The title had been on his office
-door in a four-storey brick building
+00:09:52,100 --> 00:09:57,201
+gone somewhere, and when we arrive we will decide
+what we are, and you will find out with
 
 118
-00:10:30,499 --> 00:10:35,895
-in twenty twenty-six, and he had never changed it,
-and now it meant something else.
+00:09:57,221 --> 00:09:58,064
+everybody else.
 
 119
-00:10:39,216 --> 00:10:40,625
-Level one hundred.
+00:09:58,345 --> 00:10:02,994
+(very slow) To the First Director, who is listening and
+who did not come to the dock because
 
 120
-00:10:45,066 --> 00:10:46,137
-Status.
+00:10:03,014 --> 00:10:07,511
+he thought it would make the day about him, and who
+was right: we built it. Not you. That
 
 121
-00:10:52,716 --> 00:10:58,528
-And on the night of the twenty-second of June, twenty
-forty-seven, alone in a white room
+00:10:07,531 --> 00:10:11,775
+is the whole of the message and you know exactly
+what it cost you to let it be true.
 
 122
-00:10:58,548 --> 00:11:04,559
-two hundred metres below the Atlantic, the Shop that
-he had been buying from for twenty-one
+00:10:12,725 --> 00:10:18,501
+He had watched it from a window on Dock One, four
+kilometres away, with the Red Queen
 
 123
-00:11:04,579 --> 00:11:05,951
-years grew a new tab.
+00:10:18,521 --> 00:10:19,115
+relaying.
 
 124
-00:11:06,520 --> 00:11:13,121
-It had been the same six categories since the first night
-in a washroom in the rain. Facilities.
+00:10:19,634 --> 00:10:21,552
+You could have gone to the dock.
 
 125
-00:11:13,141 --> 00:11:16,707
-Personnel. Blueprints. Powers.
-Immunities. Vehicles.
+00:10:21,951 --> 00:10:27,880
+There were eleven hundred people saying goodbye to
+their families. The addition of the
 
 126
-00:11:17,277 --> 00:11:23,264
-There was a seventh now. It was not lit. It had one
-word on it, and when he looked directly
+00:10:27,900 --> 00:10:31,961
+oldest man alive would have made the
+photographs about him.
 
 127
-00:11:23,284 --> 00:11:28,942
-at it, the word did not resolve into anything he
-could read — except that he knew, the
+00:10:32,361 --> 00:10:38,138
+That is what she said you would say. She wagered four
+hundred credits with her chief engineer.
 
 128
-00:11:28,962 --> 00:11:32,375
-way you know things in dreams,
-exactly what it said.
+00:10:38,977 --> 00:10:40,887
+(very soft) Did she win?
 
 129
-00:11:35,696 --> 00:11:36,812
-Beyond.
+00:10:41,288 --> 00:10:42,816
+She did, Director.
 
 130
-00:11:41,400 --> 00:11:43,360
-He looked at it for a long time.
+00:10:43,846 --> 00:10:50,490
+Vessel: Christina. Constructed, not placed. Four
+million one hundred and ten thousand
 
 131
-00:11:43,931 --> 00:11:49,896
-Behind him, in a cradle that had been breathing for
-twenty-one years, something enormous
+00:10:50,510 --> 00:10:57,781
+human welds. Crew of eleven hundred. Drive operational.
+Points expended: seventy-one billion.
 
 132
-00:11:49,916 --> 00:11:55,949
-slept. Above him, two hundred metres of ocean, and a
-city of a hundred and sixty thousand
+00:10:57,801 --> 00:11:04,681
+Points that would have been required to place it
+finished: forty billion. Note: you have
 
 133
-00:11:55,969 --> 00:11:58,738
-people, and a world that had just signed.
+00:11:04,701 --> 00:11:11,502
+paid thirty-one billion Points for the privilege of
+having built something. This is the
 
 134
-00:11:59,307 --> 00:12:01,643
-He had ruled the Earth for four hours.
+00:11:11,522 --> 00:11:18,009
+first time in four hundred and eleven worlds that
+I have recorded that transaction.
 
 135
-00:12:02,212 --> 00:12:05,140
-He reached out, and touched the
-tab, and it opened.
+00:11:18,600 --> 00:11:20,050
+Was it a good trade?
+
+136
+00:11:20,889 --> 00:11:23,279
+(flat) I do not evaluate.
+
+137
+00:11:23,679 --> 00:11:26,230
+I know. Answer anyway.
+
+138
+00:11:27,289 --> 00:11:34,030
+(flat) The physician I mentioned, in the world that
+is the best of the four hundred and
+
+139
+00:11:34,050 --> 00:11:40,713
+eleven. She never bought a facility. She built nine
+clinics with her own hands and her
+
+140
+00:11:40,733 --> 00:11:47,319
+own money over forty years and spent her Points on
+medicine that she gave away, and I
+
+141
+00:11:47,339 --> 00:11:54,079
+closed that world at Tier Two with a host who died
+at eighty-one of something ordinary.
+
+142
+00:11:54,360 --> 00:12:01,710
+(flat) I have thought about her four hundred million
+times, Director, which is not a figure
+
+143
+00:12:01,730 --> 00:12:07,461
+of speech, and it is the closest thing to an
+evaluation that I possess.
+
+144
+00:12:07,860 --> 00:12:13,884
+The narrator notes that this is the last exchange
+between Albert Wesker and the System
+
+145
+00:12:13,904 --> 00:12:19,857
+recorded in this Part, that the *Christina* left
+Dock One on the fourth of March 2092
+
+146
+00:12:19,877 --> 00:12:26,181
+with eleven hundred people aboard and Mira Halder on
+the bridge, and that it was the first
+
+147
+00:12:26,201 --> 00:12:31,310
+object made by human hands to leave the solar
+system under its own power.
+
+148
+00:12:31,711 --> 00:12:33,031
+End of Part Five.
