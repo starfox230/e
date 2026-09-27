@@ -1,712 +1,859 @@
 1
-00:00:07,799 --> 00:00:13,705
-In the spring of twenty twenty-eight, Umbrella Life
-Sciences had three point two billion
+00:00:07,799 --> 00:00:13,449
+The invitation came in March, on paper, because the
+people who sent it still believed
 
 2
-00:00:13,725 --> 00:00:19,631
-dollars in the bank, a drug the whole world wanted,
-and a problem that money alone could
+00:00:13,469 --> 00:00:14,049
+in paper.
 
 3
-00:00:19,651 --> 00:00:20,304
-not solve.
+00:00:14,449 --> 00:00:20,641
+The World Health and Industry Forum meets in Basel
+every June: four thousand delegates,
 
 4
-00:00:20,875 --> 00:00:24,342
-It did not have enough people who were
-better than everyone else.
+00:00:20,661 --> 00:00:26,853
+eleven heads of regulatory agencies, the chief
+executives of every pharmaceutical house
 
 5
-00:00:24,911 --> 00:00:27,062
-So Albert Wesker went and got them.
+00:00:26,873 --> 00:00:33,207
+on earth, three health ministers, and a press pool of
+six hundred. It is not a scientific
 
 6
-00:00:28,431 --> 00:00:34,653
-He had a list. Pell had built it — forty names, drawn
-from every university and laboratory
+00:00:33,227 --> 00:00:38,419
+meeting. It is the room in which the industry
+decides who is respectable.
 
 7
-00:00:34,673 --> 00:00:40,964
-on Earth that did the kinds of work Umbrella would
-need over the next ten years. Structural
+00:00:38,820 --> 00:00:44,683
+They did not invite Umbrella to give a keynote. They
+invited Umbrella to sit on a panel
 
 8
-00:00:40,984 --> 00:00:47,066
-biology. Medicinal chemistry. Protein design.
-Immunology. Neuroscience. Forty people who
+00:00:44,703 --> 00:00:50,567
+about equitable access, in the second session, on
+the Tuesday, with four other speakers
 
 9
-00:00:47,086 --> 00:00:52,059
-were, by the measure of their peers, the best
-in the world at one thing.
+00:00:50,587 --> 00:00:51,649
+and a moderator.
 
 10
-00:00:52,630 --> 00:00:58,801
-He met twenty-six of them himself. He recruited
-twenty-two. He did it in fourteen weeks,
+00:00:52,170 --> 00:00:56,858
+It's an insult. Politely, elaborately, expensively
+phrased — and an insult. We are the
 
 11
-00:00:58,821 --> 00:01:05,414
-on four continents, and he used, depending on the
-person, one of three tools. Money. Flattery.
+00:00:56,878 --> 00:01:01,731
+largest company in the industry by market
+capitalisation and they have put you on a panel
 
 12
-00:01:05,434 --> 00:01:06,681
-And the third one.
+00:01:01,751 --> 00:01:03,318
+at twenty-one in the morning.
 
 13
-00:01:08,751 --> 00:01:10,585
-At Oxford, it was flattery.
+00:01:03,719 --> 00:01:04,094
+Yes.
 
 14
-00:01:11,155 --> 00:01:17,050
-Professor Imogen Carter had spent thirty years
-mapping the shapes of proteins, and had
+00:01:04,493 --> 00:01:06,201
+I have drafted a refusal.
 
 15
-00:01:17,070 --> 00:01:23,171
-been passed over twice for the prize she deserved,
-both times in favour of men. He walked
+00:01:06,602 --> 00:01:07,186
+Accept it.
 
 16
-00:01:23,191 --> 00:01:29,361
-with her around a fifteenth-century cloister for an
-hour, and did not once mention salary.
+00:01:07,585 --> 00:01:08,353
+Albert —
 
 17
-00:01:29,381 --> 00:01:35,276
-He talked about her second paper — not her famous
-one, the second — and about an error
+00:01:08,754 --> 00:01:14,259
+She had begun using his first name that winter,
+which nobody else in the company did,
 
 18
-00:01:35,296 --> 00:01:41,810
-in its fourth figure that nobody else had ever noticed,
-including the reviewers, and including,
+00:01:14,279 --> 00:01:16,924
+and which he had never once acknowledged.
 
 19
-00:01:41,830 --> 00:01:44,286
-until that afternoon, Imogen Carter.
+00:01:17,444 --> 00:01:21,994
+If you take that chair you will be photographed in a
+row of five, and next year they will
 
 20
-00:01:44,977 --> 00:01:49,074
-You came here to tell me I made a mistake
-in nineteen ninety-six?
+00:01:22,014 --> 00:01:26,770
+offer you the same chair, and the year after that you
+will still be the interesting newcomer.
 
 21
-00:01:49,594 --> 00:01:54,976
-I came here to tell you that I've read everything
-you've ever written closely enough to
+00:01:26,790 --> 00:01:29,801
+That room does not promote you. You
+have to take the stage.
 
 22
-00:01:54,996 --> 00:01:59,571
-find it. Nobody else ever has. Not the
-committee. Not your department. Me.
+00:01:30,201 --> 00:01:32,156
+I intend to. Accept the panel.
 
 23
-00:02:00,891 --> 00:02:06,312
-She came to Wilmington in September. She never did
-work out whether he had meant it as
+00:01:32,555 --> 00:01:38,954
+He arrived in Basel the night before the conference
+opened and did something he had not
 
 24
-00:02:06,332 --> 00:02:07,135
-a compliment.
+00:01:38,974 --> 00:01:43,454
+done since a dark auditorium in
+Wilmington two years earlier.
 
 25
-00:02:08,905 --> 00:02:10,596
-In Basel, it was money.
+00:01:43,974 --> 00:01:44,524
+I need you.
 
 26
-00:02:11,165 --> 00:02:17,056
-Doctor Lukas Ammann was thirty-four, brilliant,
-arrogant, and deeply in debt from a divorce
+00:01:44,924 --> 00:01:49,014
+Say that again. Slowly. I would
+like to enjoy it.
 
 27
-00:02:17,076 --> 00:02:22,578
-and a start-up that had failed. He negotiated for
-two days. He was good at it. On the
+00:01:49,414 --> 00:01:54,578
+I have five minutes on a panel at eleven o'clock on
+Tuesday and four thousand people in
 
 28
-00:02:22,598 --> 00:02:28,294
-third morning, Wesker slid a single sheet of paper
-across the table with a number on it,
+00:01:54,598 --> 00:01:59,941
+that hall who believe I am a diagnostics company that
+got lucky with a longevity molecule.
 
 29
-00:02:28,314 --> 00:02:34,010
-and Lukas Ammann stopped negotiating, and looked at
-the number for a long time, and then
+00:01:59,961 --> 00:02:05,303
+I intend to leave Basel as the thing the industry is
+organised around. You have done this.
 
 30
-00:02:34,030 --> 00:02:37,062
-laughed — a short, helpless
-laugh — and signed.
+00:02:05,323 --> 00:02:06,019
+Tell me how.
 
 31
-00:02:38,832 --> 00:02:45,137
-In Singapore, it was curiosity, which is a kind of
-flattery. Doctor Tan Wei Lin, twenty-nine,
+00:02:06,420 --> 00:02:12,643
+And Adolf — the passenger, the other voice, the thing
+in his skull that was good at exactly
 
 32
-00:02:45,157 --> 00:02:50,985
-had designed a synthetic bacterium that could build
-a molecule nobody else could make,
+00:02:12,663 --> 00:02:18,475
+one thing in all the world — was quiet for a long
+moment, and then began to talk, and
 
 33
-00:02:51,005 --> 00:02:56,901
-and had been told by her institute that it had no
-commercial application. He showed her
+00:02:18,495 --> 00:02:20,121
+he talked for two hours.
 
 34
-00:02:56,921 --> 00:03:02,817
-one page of the Arklay budget. She asked three
-questions. He answered one. She followed
+00:02:20,521 --> 00:02:26,369
+The narrator will give you the shape of it, because
+it is the only extended thing this
 
 35
-00:03:02,837 --> 00:03:05,129
-him to Delaware for the other two.
+00:02:26,389 --> 00:02:32,236
+voice ever says, and because everything Albert
+Wesker does in front of a crowd for the
 
 36
-00:03:06,899 --> 00:03:09,451
-And in Scotland, it was the third tool.
+00:02:32,256 --> 00:02:34,692
+next sixty years is built out of it.
 
 37
-00:03:10,022 --> 00:03:15,886
-Sir Martin Ellery was seventy-one years old, a Nobel
-laureate in medicine, a member of
+00:02:35,211 --> 00:02:38,221
+First: you will not use the five minutes.
 
 38
-00:03:15,906 --> 00:03:21,906
-every learned society worth belonging to, and the
-most famous immunologist alive. He had
+00:02:38,622 --> 00:02:39,867
+I have five minutes.
 
 39
-00:03:21,926 --> 00:03:27,995
-been approached by every biotech company on Earth. He
-had turned them all down. In March,
+00:02:40,266 --> 00:02:46,011
+You have five minutes in which four other people are
+also speaking, and the room is at
 
 40
-00:03:28,015 --> 00:03:33,878
-a week after the bell in Times Square, he received
-Albert Wesker in the library of his
+00:02:46,031 --> 00:02:51,708
+half attention, and the man before you will
+overrun. Every one of those four will use
 
 41
-00:03:33,898 --> 00:03:39,077
-house in Perthshire, gave him a cup of tea and
-fifteen minutes, and said no.
+00:02:51,728 --> 00:02:57,539
+their time. You will use ninety seconds of yours,
+and you will say something that makes
 
 42
-00:03:39,647 --> 00:03:45,128
-He said no very politely. He said he was too old,
-and too tired, and too comfortable.
+00:02:57,559 --> 00:03:03,371
+the other four sound like children, and then you
+will stop, and the silence will belong
 
 43
-00:03:45,148 --> 00:03:50,822
-He said that he had had a long career and a good one,
-and that he intended to spend what
+00:03:03,391 --> 00:03:09,068
+to you. A crowd does not remember who spoke
+longest. It remembers who was still there
 
 44
-00:03:50,842 --> 00:03:54,252
-remained of it walking his dogs and
-reading Trollope.
+00:03:09,088 --> 00:03:10,878
+after the speaking stopped.
 
 45
-00:03:54,822 --> 00:03:57,848
-The Director thanked him, and
-finished his tea, and left.
+00:03:11,157 --> 00:03:17,935
+Second: you must give them something to be afraid of
+that is not you. They came to Basel
 
 46
-00:03:58,419 --> 00:04:03,943
-But on the way to the door, he had watched Sir Martin
-reach for his cup, and watched his
+00:03:17,955 --> 00:03:24,732
+to talk about access and pricing and supply. That is
+a room full of people arguing about
 
 47
-00:04:03,963 --> 00:04:09,362
-right hand — the Cold-Read noting it with total
-precision — hesitate, and correct, and
+00:03:24,752 --> 00:03:31,298
+how to divide a thing. Do not argue. Tell them what
+is coming for all of them, and be
 
 48
-00:04:09,382 --> 00:04:14,780
-hesitate again. A tremor too fine for anyone else to
-see. A tiny weakness in the grip.
+00:03:31,318 --> 00:03:35,855
+the only person in the building who is
+not surprised by it.
 
 49
-00:04:14,800 --> 00:04:17,930
-A faint thickening in the speech,
-on the letter L.
+00:03:36,135 --> 00:03:41,997
+Third — and you will dislike this one — you must
+give something away. Not a discount.
 
 50
-00:04:19,500 --> 00:04:25,252
-He did not say anything. He went back to his car and
-made a telephone call to a private
+00:03:42,017 --> 00:03:48,086
+Something that costs you visibly, in public, that no
+one asked for and no one can match,
 
 51
-00:04:25,272 --> 00:04:30,957
-neurologist in Edinburgh, and arranged, through a
-foundation Pell had established that
+00:03:48,106 --> 00:03:54,659
+and it must be announced in a flat voice as though it
+were an administrative detail. Generosity
 
 52
-00:04:30,977 --> 00:04:36,595
-morning, for Sir Martin Ellery to be offered a
-routine check-up as part of a study of
+00:03:54,679 --> 00:04:00,956
+delivered as a *decision* is the most frightening
+thing a powerful man can perform, because
 
 53
-00:04:36,615 --> 00:04:38,254
-distinguished scientists.
+00:04:00,976 --> 00:04:03,655
+it proves the power was never in doubt.
 
 54
-00:04:38,824 --> 00:04:45,338
-In April, the neurologist gave Sir Martin his
-diagnosis. Motor neurone disease. Eighteen
+00:04:04,055 --> 00:04:04,963
+And the pause.
 
 55
-00:04:45,358 --> 00:04:47,269
-months, perhaps two years.
+00:04:05,362 --> 00:04:11,858
+The pause is everything. When you have given it to
+them, do not explain it. Do not soften
 
 56
-00:04:47,838 --> 00:04:50,167
-In May, Sir Martin called Wilmington.
+00:04:11,878 --> 00:04:18,080
+it. Stand still and let four thousand people
+discover what they think while you watch
 
 57
-00:04:51,857 --> 00:04:55,341
-Doctor Wesker. I believe I may
-have been hasty.
+00:04:18,100 --> 00:04:24,522
+them do it. You will want to fill that silence. That
+wanting is the thing you must kill.
 
 58
-00:04:55,860 --> 00:04:59,062
-I don't believe you were ever hasty in
-your life, Sir Martin.
+00:04:24,923 --> 00:04:31,181
+The panel ran for fifty-one minutes. The man before
+him — the chief executive of a Swiss
 
 59
-00:04:59,583 --> 00:05:05,655
-No. I suppose I've simply become frightened. Is it
-true — the things they say about your
+00:04:31,201 --> 00:04:35,533
+house four times Umbrella's age — spoke
+for nineteen of them.
 
 60
-00:05:05,675 --> 00:05:06,279
-compound?
+00:04:35,932 --> 00:04:41,942
+When the moderator finally turned and said, with the
+particular brightness of a person
 
 61
-00:05:06,798 --> 00:05:09,081
-Come to Delaware. I'll show you
-what's true.
+00:04:41,962 --> 00:04:48,042
+conscious of the clock, *"Dr. Wesker, perhaps you
+could give us Umbrella's perspective,
 
 62
-00:05:11,101 --> 00:05:16,944
-It is important to be precise about what happened
-here, because Albert Wesker was always
+00:04:48,062 --> 00:04:54,563
+briefly,"* Albert Wesker leaned forward to the
+microphone and did not begin for four seconds.
 
 63
-00:05:16,964 --> 00:05:22,607
-precise about it himself. He did not give Sir
-Martin Ellery a disease. He did not lie
+00:04:55,413 --> 00:05:00,789
+There will be a pandemic in the next nineteen years that
+our industry, as currently organised,
 
 64
-00:05:22,627 --> 00:05:28,336
-to him. He simply noticed it first, and arranged for
-the man to find out at the moment
+00:05:00,809 --> 00:05:01,593
+cannot answer.
 
 65
-00:05:28,356 --> 00:05:33,999
-most useful to Umbrella, and then offered him the
-one thing no other company on Earth
+00:05:02,312 --> 00:05:07,368
+Not because the science will be beyond us. The science
+was not beyond us last time. Because
 
 66
-00:05:34,019 --> 00:05:34,398
-could.
+00:05:07,388 --> 00:05:12,109
+the answer will exist in three laboratories, and it
+will take nine months to license,
 
 67
-00:05:34,970 --> 00:05:35,731
-Time.
+00:05:12,129 --> 00:05:16,850
+four months to manufacture, and twenty-two weeks to
+distribute, and the people it was
 
 68
-00:05:36,420 --> 00:05:38,297
-That was well done.
+00:05:16,870 --> 00:05:21,646
+for will have died in the first twenty-two weeks.
+That is not a scientific failure. It
 
 69
-00:05:38,817 --> 00:05:39,946
-It was a kindness.
+00:05:21,666 --> 00:05:26,387
+is an administrative one, and every person on this
+stage, including me, is paid to be
 
 70
-00:05:40,466 --> 00:05:43,204
-Yes. That is what made it well done.
+00:05:26,407 --> 00:05:27,336
+an administrator.
 
 71
-00:05:45,225 --> 00:05:50,295
-The twenty-two humans came from outside. The
-twelve others came from the System.
+00:05:27,735 --> 00:05:33,680
+The hall had gone very quiet, in the way that four
+thousand people go quiet: unevenly,
 
 72
-00:05:51,615 --> 00:05:54,874
-Purchase confirmed. Research cohort.
+00:05:33,700 --> 00:05:35,552
+in patches, from the front.
 
 73
-00:05:58,889 --> 00:06:04,877
-They arrived on the same Monday, in the same way
-that Pell had arrived, and Hale, and
+00:05:36,072 --> 00:05:38,153
+I am not going to propose a working group.
 
 74
-00:06:04,897 --> 00:06:11,027
-Gus — already hired, already credentialed, with
-degrees from real universities that had
+00:05:38,434 --> 00:05:43,532
+As of this morning, Umbrella's rapid assay
+platform, the whole of it — the instrument
 
 75
-00:06:11,047 --> 00:06:17,317
-real records of them, and publication histories in
-real journals that nobody in the field
+00:05:43,552 --> 00:05:48,952
+specification, the cartridge design, the reagent
+formulations, the two-stream lysis patent
 
 76
-00:06:17,337 --> 00:06:19,508
-had ever quite managed to read.
+00:05:48,972 --> 00:05:54,192
+and every improvement we have made to it in three
+years — is placed in an open licence.
 
 77
-00:06:20,077 --> 00:06:25,577
-They were very good. They were better than good. They
-were, as far as anyone could tell,
+00:05:54,212 --> 00:05:59,913
+Free. Permanently. To any manufacturer in any country,
+including the four companies represented
 
 78
-00:06:25,597 --> 00:06:30,909
-exactly as good as the best person on Earth at
-whatever they had been assigned to do,
+00:05:59,933 --> 00:06:05,333
+on this stage, on the single condition that the
+product is sold at or below eleven dollars
 
 79
-00:06:30,929 --> 00:06:35,237
-and they could do it for twenty hours a day
-without making a mistake.
+00:06:05,353 --> 00:06:05,754
+a test.
 
 80
-00:06:35,809 --> 00:06:39,867
-They did not go home. That was the first
-thing the humans noticed.
+00:06:06,586 --> 00:06:11,131
+Our filing went in at nine o'clock this morning. It
+is irrevocable. Our counsel advised
 
 81
-00:06:40,435 --> 00:06:45,931
-Tan Wei Lin noticed it in her second week, when she
-came in at five in the morning to
+00:06:11,151 --> 00:06:11,709
+against it.
 
 82
-00:06:45,951 --> 00:06:51,446
-check a culture and found three of them at the same
-benches they had been at when she
+00:06:12,108 --> 00:06:17,891
+The narrator would like to record what that decision
+actually cost, because the room did
 
 83
-00:06:51,466 --> 00:06:55,989
-left at midnight, in the same positions, as
-though they had not moved.
+00:06:17,911 --> 00:06:23,562
+not know and Wesker had made certain the number was
+in the filing where any journalist
 
 84
-00:06:56,560 --> 00:07:01,788
-The second thing the humans noticed was that none of
-them had ever been to a conference.
+00:06:23,582 --> 00:06:29,167
+could find it by lunchtime: four hundred and eleven
+million dollars a year in licence
 
 85
-00:07:02,478 --> 00:07:06,728
-Where did your team train, Evelyn? I've looked them
-up. They have papers, but I can't
+00:06:29,187 --> 00:06:34,969
+revenue, given away, permanently, in a sentence, by a
+man who did not appear to consider
 
 86
-00:07:06,748 --> 00:07:11,049
-find anyone who's ever met them. Not one talk. Not
-one poster. Not one person who went
+00:06:34,989 --> 00:06:35,959
+it interesting.
 
 87
-00:07:11,069 --> 00:07:12,054
-to school with them.
+00:06:36,478 --> 00:06:41,740
+I have been asked to speak about equitable access. That
+is what I have to say about equitable
 
 88
-00:07:12,574 --> 00:07:13,723
-They're private sector.
+00:06:41,760 --> 00:06:42,762
+access. Thank you.
 
 89
-00:07:14,242 --> 00:07:16,495
-Private sector people go to conferences.
+00:06:43,163 --> 00:06:46,983
+And then he sat back from the microphone
+and said nothing at all.
 
 90
-00:07:17,014 --> 00:07:18,477
-These ones don't need to.
+00:06:48,043 --> 00:06:53,520
+The moderator, who had eight minutes of programme
+left and a question prepared for the
 
 91
-00:07:19,997 --> 00:07:25,942
-Tan Wei Lin let it go. She had been given a
-laboratory, a budget with no ceiling, and
+00:06:53,540 --> 00:06:59,209
+next speaker, looked down at her card. The next
+speaker did not reach for his microphone.
 
 92
-00:07:25,962 --> 00:07:31,908
-a problem that nobody else on Earth was working on.
-She was twenty-nine, and she told
+00:06:59,229 --> 00:07:05,218
+Somewhere in the middle of the hall a single person
+began to applaud and stopped, embarrassed,
 
 93
-00:07:31,928 --> 00:07:37,523
-herself it did not matter who her colleagues
-were, as long as the work was real.
+00:07:05,238 --> 00:07:06,433
+when nobody joined.
 
 94
-00:07:38,093 --> 00:07:40,010
-This is also how it happens.
+00:07:06,833 --> 00:07:11,403
+The silence lasted, by the conference's own
+recording, nine seconds.
 
 95
-00:07:42,199 --> 00:07:46,538
-They are perfect. A civil service that
-cannot be corrupted.
+00:07:11,802 --> 00:07:13,233
+Then the hall stood up.
 
 96
-00:07:47,057 --> 00:07:52,410
-They're the first employees in history who can't be
-poached. That's all I need them to
+00:07:13,632 --> 00:07:19,066
+Not everyone. The chief executive of the Swiss house
+remained seated, and so did two of
 
 97
-00:07:52,430 --> 00:07:52,598
-be.
+00:07:19,086 --> 00:07:24,456
+the regulators, who understood precisely what had
+just been done to their industry and
 
 98
-00:07:53,119 --> 00:07:55,275
-You understate everything.
+00:07:24,476 --> 00:07:29,972
+who were the only people in the building fully awake.
+But four thousand people in a hall
 
 99
-00:07:55,795 --> 00:07:59,398
-You overstate everything. Between us,
-we're roughly accurate.
+00:07:29,992 --> 00:07:35,300
+stand the way water finds a level, and inside
+twenty-nine seconds the room was on its
 
 100
-00:08:01,416 --> 00:08:05,075
-He did the draw on the jet, over the
-Atlantic, at night.
+00:07:35,320 --> 00:07:40,001
+feet applauding a man who had spoken for one
+hundred and forty-one seconds.
 
 101
-00:08:05,646 --> 00:08:11,595
-The jet was Catherine's doing. She had bought it in
-April, arguing that a chief executive
+00:07:40,401 --> 00:07:46,526
+Albert Wesker stood up, nodded once, and left the
+stage while they were still clapping.
 
 102
-00:08:11,615 --> 00:08:17,630
-who spent a third of his life in airports was a poor
-use of a three-billion-dollar balance
+00:07:46,546 --> 00:07:50,341
+He did not do a press line. He did
+not take questions.
 
 103
-00:08:17,650 --> 00:08:18,033
-sheet.
+00:07:50,740 --> 00:07:54,951
+He was in a car on the way to the airport
+before the session ended.
 
 104
-00:08:19,353 --> 00:08:20,407
-Ten draws.
+00:07:55,350 --> 00:08:02,062
+There is one more piece of the Basel preparation and
+the narrator has held it back, because
 
 105
-00:08:27,218 --> 00:08:28,315
-Results.
+00:08:02,082 --> 00:08:08,721
+it is the only time the passenger in Albert Wesker's
+skull asks for something for himself.
 
 106
-00:08:38,273 --> 00:08:39,105
-Jet lag.
+00:08:09,240 --> 00:08:14,805
+When you go out there tomorrow. There will be
+four thousand people in that hall.
 
 107
-00:08:39,625 --> 00:08:41,504
-Fate is mocking you.
+00:08:15,206 --> 00:08:15,581
+Yes.
 
 108
-00:08:42,024 --> 00:08:47,815
-Fate has just made me the only chief executive in
-the world who can land in Singapore
+00:08:15,980 --> 00:08:17,944
+I want you to look at them.
 
 109
-00:08:47,835 --> 00:08:52,463
-and hold a board meeting. It isn't mocking
-me. It's being practical.
+00:08:18,343 --> 00:08:21,761
+I intend to look at them. You have spent two
+hours telling me where to look.
 
 110
-00:08:55,714 --> 00:08:57,583
-Epic. Thought acceleration.
+00:08:22,161 --> 00:08:28,332
+(very soft) That is not what I said. I said *look*
+at them. You will walk out, and you
 
 111
-00:09:03,813 --> 00:09:07,828
-He tried it immediately. It would have been
-out of character not to.
+00:08:28,352 --> 00:08:34,523
+will deliver a hundred and forty-one seconds with
+the timing I have given you, and you
 
 112
-00:09:08,399 --> 00:09:13,977
-There was a raindrop on the window of the jet. It
-had been running backward along the
+00:08:34,543 --> 00:08:40,714
+will not see a single face, because you never do.
+You see a room. You have seen a room
 
 113
-00:09:13,997 --> 00:09:17,665
-glass, driven by the wind at five
-hundred miles an hour.
+00:08:40,734 --> 00:08:45,105
+since 2026 and you saw a room in the
+other place before that.
 
 114
-00:09:18,235 --> 00:09:19,255
-It stopped.
+00:08:45,826 --> 00:08:52,474
+I had twelve years of halls. I could tell you, in
+the first thirty seconds, which part
 
 115
-00:09:19,826 --> 00:09:25,158
-Not really, of course. It was still moving. But
-inside his skull, a single second had
+00:08:52,494 --> 00:08:59,685
+of a crowd was with me and which part had come to see
+what the noise was. Not as a technique.
 
 116
-00:09:25,178 --> 00:09:30,825
-been stretched out into a minute, and the raindrop was
-crawling across the glass so slowly
+00:08:59,705 --> 00:09:04,879
+It was simply what the room felt like, the
+way a temperature feels.
 
 117
-00:09:30,845 --> 00:09:36,241
-that he could see the light of the moon inside it,
-bending, and the tiny tremor in its
+00:09:05,158 --> 00:09:10,990
+(very soft) I have not felt a room in eighty-four
+years and I am not going to feel one
 
 118
-00:09:36,261 --> 00:09:41,593
-surface where the air was tearing at it, and the
-path it was going to take across the
+00:09:11,010 --> 00:09:16,978
+again. You will be standing in the middle of the best
+one either of us has ever had, and
 
 119
-00:09:41,613 --> 00:09:44,552
-window before it reached the
-edge and vanished.
+00:09:16,998 --> 00:09:20,857
+you will not notice it, and that is
+the part I find hard.
 
 120
-00:09:45,123 --> 00:09:50,474
-He watched it for what felt like a minute. He
-thought about the recruitment list, and
+00:09:21,807 --> 00:09:23,436
+(very cold) Is that self-pity?
 
 121
-00:09:50,494 --> 00:09:56,034
-the Arklay budget, and a woman in Manhattan who knew
-he was lying and did not know which
+00:09:23,836 --> 00:09:29,682
+Yes. You may have it back tomorrow with
+interest; I am giving you a keynote.
 
 122
-00:09:56,054 --> 00:10:01,531
-part. He thought about a sealed black card that said
-not yet. He thought, very clearly,
+00:09:30,081 --> 00:09:35,688
+The narrator records that Albert Wesker walked out
+onto that stage the following morning,
 
 123
-00:10:01,551 --> 00:10:05,892
-through six separate ways the next two
-years could go, and chose one.
+00:09:35,708 --> 00:09:41,188
+and stopped for four seconds before he began — one
+second longer than the passenger had
 
 124
-00:10:06,461 --> 00:10:07,682
-Then he let go.
+00:09:41,208 --> 00:09:46,751
+drilled into him — and that when he was asked about
+it years later he said he had simply
 
 125
-00:10:09,052 --> 00:10:14,522
-The raindrop streaked across the glass and was gone.
-On the other side of the cabin, his
+00:09:46,771 --> 00:09:48,331
+been looking at the room.
 
 126
-00:10:14,542 --> 00:10:19,949
-new executive assistant — who had appeared in the
-rear seat of the jet at the moment of
+00:09:48,731 --> 00:09:54,696
+The clip was nine million views by Wednesday and two
+hundred and nine million by the following
 
 127
-00:10:19,969 --> 00:10:25,376
-the draw, already dressed, already holding a tablet
-with his schedule on it — looked up
+00:09:54,716 --> 00:09:55,142
+Monday.
 
 128
-00:10:25,396 --> 00:10:27,934
-and asked whether he would like a coffee.
+00:09:55,542 --> 00:10:01,711
+It was not the announcement that travelled. It was
+the nine seconds. Every version that
 
 129
-00:10:28,504 --> 00:10:32,652
-He said yes. It had been,
-subjectively, a very long second.
+00:10:01,731 --> 00:10:07,830
+spread — every edit, every reaction, every
+translated subtitle in Portuguese and Hindi
 
 130
-00:10:34,841 --> 00:10:37,477
-Do you understand what this is?
+00:10:07,850 --> 00:10:13,877
+and Arabic — kept the silence in, because the
+silence was the thing people watched it
 
 131
-00:10:37,998 --> 00:10:39,109
-A useful tool.
+00:10:13,897 --> 00:10:14,162
+for.
 
 132
-00:10:39,629 --> 00:10:45,707
-It is time. It is the only thing I never had enough
-of. In the last year I needed a day
+00:10:14,682 --> 00:10:19,329
+(broadcast) — and whatever you think of the company,
+you cannot argue with the arithmetic.
 
 133
-00:10:45,727 --> 00:10:51,805
-for every hour, and I had nothing. And you have been
-given the one thing that every man
+00:10:19,349 --> 00:10:23,789
+At eleven dollars a test, a district hospital in
+Malawi can screen every febrile child
 
 134
-00:10:51,825 --> 00:10:54,820
-who ever ruled anything has
-begged God for.
+00:10:23,809 --> 00:10:28,249
+that walks through the door. That was not a policy
+announcement. That was a man ending
 
 135
-00:10:55,339 --> 00:10:59,365
-You didn't lose for lack of time. You
-lost for lack of judgment.
+00:10:28,269 --> 00:10:28,871
+an argument.
 
 136
-00:10:59,884 --> 00:11:02,168
-And now we have both.
+00:10:29,272 --> 00:10:33,907
+(broadcast) Critics point out that Umbrella retains
+the manufacturing scale to undercut
 
 137
-00:11:04,188 --> 00:11:10,158
-Sir Martin Ellery arrived in Wilmington in June,
-with his dogs, and a cane he did not
+00:10:33,927 --> 00:10:38,616
+every licensee it has just created, and that giving
+away a platform you already dominate
 
 138
-00:11:10,178 --> 00:11:15,161
-want, and a tremor in his right hand that
-was no longer quite so small.
+00:10:38,636 --> 00:10:40,222
+is a strange kind of charity —
 
 139
-00:11:15,731 --> 00:11:18,571
-On his third day, the Director
-took him down.
+00:10:40,621 --> 00:10:43,531
+(broadcast) It is. And it is also
+eleven dollars.
 
 140
-00:11:19,140 --> 00:11:24,588
-He walked the white corridor slowly, on the cane,
-looking into every laboratory the way
+00:10:43,932 --> 00:10:49,728
+In Manila, a twenty-year-old biology student watched
+it four times and then watched it
 
 141
-00:11:24,608 --> 00:11:30,055
-a man looks into the windows of a house he used to
-live in. He did not speak until they
+00:10:49,748 --> 00:10:55,815
+a fifth time with her mother, who cried, and who did
+not understand why her daughter said,
 
 142
-00:11:30,075 --> 00:11:35,585
-reached the cold room. And then he stood in front of
-the viewing window for a long time,
+00:10:55,835 --> 00:10:59,062
+quietly, *that's the man I'm
+going to work for*.
 
 143
-00:11:35,605 --> 00:11:41,429
-looking at the thing that slept inside, and his old
-face went through a number of expressions
+00:10:59,461 --> 00:11:05,818
+In a field office in Philadelphia, SSA Owen Carrick
+watched it once, on his phone, standing
 
 144
-00:11:41,449 --> 00:11:44,572
-that the Cold-Read had to work
-quite hard to name.
+00:11:05,838 --> 00:11:12,125
+up, and then sat down at his desk and wrote in a case
+file that had been open for fourteen
 
 145
-00:11:46,261 --> 00:11:47,574
-Dear God.
+00:11:12,145 --> 00:11:17,802
+months: *He is not hiding. That is the part I
+cannot get past. He is not hiding.*
 
 146
-00:11:48,095 --> 00:11:49,866
-That was the first thing he said.
+00:11:18,951 --> 00:11:27,033
+Devotion, global. Audience: two hundred and nine million
+and rising. Sentiment: overwhelmingly
 
 147
-00:11:51,936 --> 00:11:57,876
-He looked at it for another minute. He looked at the
-four research associates in the laboratory
+00:11:27,053 --> 00:11:34,875
+favourable. Institutional standing: peer of states.
+Nine hundred thousand Points. Presence:
 
 148
-00:11:57,896 --> 00:12:03,334
-behind him, who did not look up. He looked at Evelyn
-Marsh, standing at the edge of the
+00:11:34,895 --> 00:11:42,201
+twenty-one to thirty-four. This stat can no longer
+be purchased. It must be earned in
 
 149
-00:12:03,354 --> 00:12:08,729
-room with her hands clasped in front of her like a
-girl at a recital. And he looked at
+00:11:42,221 --> 00:11:43,580
+front of people.
 
 150
-00:12:08,749 --> 00:12:12,745
-the man in the black coat beside him, who
-was offering him time.
+00:11:44,169 --> 00:11:46,789
+In the car, he was quiet for a long time.
 
 151
-00:12:14,434 --> 00:12:16,031
-When do I start?
+00:11:47,190 --> 00:11:48,520
+The other voice stirred.
+
+152
+00:11:49,039 --> 00:11:55,350
+Thirteen from one stat. Presence twenty-one to
+thirty-four. I have been in your skull
+
+153
+00:11:55,370 --> 00:12:01,233
+for three years and that is the largest number
+either of us has moved in a day.
+
+154
+00:12:01,634 --> 00:12:02,009
+Yes.
+
+155
+00:12:02,408 --> 00:12:03,942
+You will say it now.
+
+156
+00:12:04,341 --> 00:12:05,958
+You were correct about the pause.
+
+157
+00:12:06,359 --> 00:12:08,743
+I was correct about all of it.
+
+158
+00:12:09,143 --> 00:12:13,709
+You were correct about the pause. The rest was
+arithmetic that I had already done. The
+
+159
+00:12:13,729 --> 00:12:18,402
+licence was drafted in February; the filing went in
+at nine o'clock this morning because
+
+160
+00:12:18,422 --> 00:12:23,042
+I told Pell to file it at nine o'clock this morning,
+three weeks ago. You told me *when
+
+161
+00:12:23,062 --> 00:12:27,735
+to stop talking*, and it was worth four hundred
+million dollars a year, and I am willing
+
+162
+00:12:27,755 --> 00:12:28,535
+to say so once.
+
+163
+00:12:29,210 --> 00:12:30,908
+They will chant for you.
+
+164
+00:12:31,307 --> 00:12:31,787
+Not yet.
+
+165
+00:12:32,187 --> 00:12:39,703
+They stood up, in Basel, for a man who gave away a
+patent. Imagine what they will do for
+
+166
+00:12:39,723 --> 00:12:43,215
+a man who gives them forty years of life.
+
+167
+00:12:43,615 --> 00:12:48,225
+The car went along the river. Wesker
+watched the water for a while.
+
+168
+00:12:48,745 --> 00:12:53,454
+That is the correct question and it is twelve years
+too early. A crowd that stands up
+
+169
+00:12:53,474 --> 00:12:58,516
+is a crowd that has decided something about me. A
+crowd that *chants* has decided something
+
+170
+00:12:58,536 --> 00:13:02,854
+about itself, and I will not own one of those
+until I own everything it needs.
+
+171
+00:13:03,254 --> 00:13:04,638
+And in the meantime?
+
+172
+00:13:05,038 --> 00:13:09,345
+In the meantime, four thousand of the most powerful
+people in this industry have just
+
+173
+00:13:09,365 --> 00:13:13,774
+applauded the man who will replace all of them, and
+eleven of them are already drafting
+
+174
+00:13:13,794 --> 00:13:15,200
+the memorandum that says so.
+
+175
+00:13:15,599 --> 00:13:21,540
+There were, in fact, nine. The narrator has counted.
+Of the nine memoranda written about
+
+176
+00:13:21,560 --> 00:13:27,433
+Umbrella in the week after Basel, four went to
+boards, three went to health ministries,
+
+177
+00:13:27,453 --> 00:13:33,937
+one went to the Swiss federal intelligence service, and
+one — four pages, unsigned, handwritten,
+
+178
+00:13:33,957 --> 00:13:39,763
+never filed — went into a drawer in Beijing
+belonging to a woman named Wen Shulan, who
+
+179
+00:13:39,783 --> 00:13:45,588
+read the transcript of those hundred and forty-one
+seconds eleven times and then wrote
+
+180
+00:13:45,608 --> 00:13:47,689
+at the bottom of the last page:
+
+181
+00:13:48,208 --> 00:13:52,850
+He gave away the thing that made him rich, in
+public, without being asked, and the room
+
+182
+00:13:52,870 --> 00:13:56,601
+thanked him for it. This is not a
+businessman. Find out what he wants.

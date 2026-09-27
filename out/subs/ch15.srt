@@ -1,780 +1,818 @@
 1
-00:00:07,799 --> 00:00:14,227
-Nadia Okafor did not decide to become a whistleblower.
-Nobody ever does. She simply noticed
+00:00:07,799 --> 00:00:13,866
+In February of 2030, four separate arms of the
+United States government arrived at the
 
 2
-00:00:14,247 --> 00:00:20,887
-things, one at a time, and wrote them down, and one
-night in the winter of twenty twenty-eight
+00:00:13,886 --> 00:00:19,953
+same question in the same month, which is the
+closest that government ever comes to an
 
 3
-00:00:20,907 --> 00:00:26,981
-she opened the folder on her phone called Recipes
-and realised that it was no longer a
+00:00:19,973 --> 00:00:20,520
+opinion.
 
 4
-00:00:27,001 --> 00:00:28,539
-folder. It was a case.
+00:00:20,920 --> 00:00:26,796
+The Federal Trade Commission wanted to know how a
+company founded in 2026 had acquired
 
 5
-00:00:30,109 --> 00:00:33,327
-The manifest had been the first
-thing. There were others.
+00:00:26,816 --> 00:00:32,829
+eleven competitors in thirty-one months without a
+single merger review going against it.
 
 6
-00:00:33,898 --> 00:00:40,115
-There was Deshawn at the loading dock, who liked her
-because she remembered his daughter's
+00:00:33,229 --> 00:00:38,823
+The Securities and Exchange Commission wanted to
+know how a balance sheet could carry
 
 7
-00:00:40,135 --> 00:00:46,006
-birthday, and who mentioned, one evening, that the
-old building across the river took
+00:00:38,843 --> 00:00:44,700
+two hundred and seventeen billion dollars of
+property, plant and equipment with a capital
 
 8
-00:00:46,026 --> 00:00:51,967
-a delivery of liquid nitrogen every nine days.
-Enough, Nadia calculated in her head as
+00:00:44,720 --> 00:00:49,719
+expenditure line that had never in four years
+exceeded nine hundred million.
 
 9
-00:00:51,987 --> 00:00:57,997
-he said it, to keep about four hundred litres of
-material at cryogenic temperature — or
+00:00:50,119 --> 00:00:56,055
+The Government Accountability Office, at the request
+of a subcommittee, wanted to know
 
 10
-00:00:58,017 --> 00:01:03,888
-to run a cold room the size of a garage. The old
-building's basement had six freezers
+00:00:56,075 --> 00:01:02,564
+why forty-one per cent of the nation's clinical
+laboratory capacity now ran on the instruments
 
 11
-00:01:03,908 --> 00:01:10,195
-from the nineteen-nineties and a vault Pell had built
-in the spring. None of it used liquid
+00:01:02,584 --> 00:01:03,949
+of one private firm.
 
 12
-00:01:10,215 --> 00:01:10,819
-nitrogen.
+00:01:04,349 --> 00:01:10,244
+And in a field office in Philadelphia, SSA Owen
+Carrick — whose file was two years old,
 
 13
-00:01:11,388 --> 00:01:17,491
-There was the electricity. Umbrella's facilities team
-published a sustainability report,
+00:01:10,264 --> 00:01:16,091
+whose supervisor had twice told him to close it, and
+who had a wall in a spare room at
 
 14
-00:01:17,511 --> 00:01:23,891
-because Catherine had insisted on one, and the report
-listed the power use of each building.
+00:01:16,111 --> 00:01:21,530
+home with nine photographs on it — wanted to know
+where the buildings came from.
 
 15
-00:01:23,911 --> 00:01:29,944
-The old building on the south bank — four floors, a
-basement, a few dozen people — drew
+00:01:21,930 --> 00:01:27,896
+Umbrella's general counsel recommended the standard
+posture: cooperate narrowly, produce
 
 16
-00:01:29,964 --> 00:01:33,213
-more power than the entire
-twelve-storey tower.
+00:01:27,916 --> 00:01:32,250
+what is compelled, object to everything
+else, and run the clock.
 
 17
-00:01:33,784 --> 00:01:39,710
-And there was Evelyn. Nadia had watched her, twice,
-from the car park of the old building
+00:01:32,650 --> 00:01:38,492
+Pell recommended it. Catherine recommended it.
+Sixteen lawyers at four hundred dollars
 
 18
-00:01:39,730 --> 00:01:45,656
-at night, step into the freight elevator in the
-basement with a sealed case, and go down.
+00:01:38,512 --> 00:01:40,060
+an hour recommended it.
 
 19
-00:01:45,676 --> 00:01:51,469
-The freight elevator went to the basement and the
-loading dock. It did not go down. And
+00:01:40,579 --> 00:01:43,230
+No. Give them everything.
 
 20
-00:01:51,489 --> 00:01:55,544
-both times, Evelyn Marsh had not come
-back up for nine hours.
+00:01:43,629 --> 00:01:47,717
+Director — with respect, you cannot mean
+*everything*. In an inquiry of this breadth,
 
 21
-00:01:57,614 --> 00:02:03,346
-None of it was proof. All of it was a smell. And
-Nadia Okafor had spent her whole career
+00:01:47,737 --> 00:01:49,070
+unrestricted production is —
 
 22
-00:02:03,366 --> 00:02:07,660
-learning to trust a smell before she could
-see what was making it.
+00:01:49,471 --> 00:01:55,141
+Mr. Ferris. How many documents does this
+company generate in a year?
 
 23
-00:02:09,729 --> 00:02:15,253
-The proof, when it came, came because Evelyn Marsh
-had stopped thinking of other people
+00:01:55,540 --> 00:01:58,421
+Approximately — I would estimate
+four hundred million.
 
 24
-00:02:15,273 --> 00:02:15,890
-as a risk.
+00:01:58,822 --> 00:02:03,753
+And how many people will the Government
+Accountability Office assign?
 
 25
-00:02:16,461 --> 00:02:22,387
-It was a Thursday in February. Evelyn had come up from
-below to sign off the second-generation
+00:02:04,153 --> 00:02:05,754
+Eleven. Perhaps fourteen.
 
 26
-00:02:22,407 --> 00:02:27,828
-assay, which was still, officially, her programme,
-and she had been called away in the
+00:02:06,153 --> 00:02:12,222
+Then give them four hundred million documents, and
+give them a floor of this building
 
 27
-00:02:27,848 --> 00:02:33,395
-middle of it by one of the research associates, who
-had appeared in the doorway and said
+00:02:12,242 --> 00:02:14,943
+to read them in, and give them coffee.
 
 28
-00:02:33,415 --> 00:02:38,772
-something too quietly for anyone to hear. She had
-gone with him at once. She had left
+00:02:15,343 --> 00:02:21,841
+The narrator wishes to be clear that this was not
+obstruction by volume, which is a lawyer's
 
 29
-00:02:38,792 --> 00:02:40,163
-a binder on the bench.
+00:02:21,861 --> 00:02:28,004
+trick and which any competent investigator sees
+through in a week. Wesker did something
 
 30
-00:02:40,734 --> 00:02:46,608
-It was a black binder. It had no title on the spine.
-Nadia, walking past on her way to
+00:02:28,024 --> 00:02:29,349
+far more dangerous.
 
 31
-00:02:46,628 --> 00:02:52,572
-the lifts, glanced at it, and stopped, and — with
-the terrible slowness of a person who
+00:02:29,750 --> 00:02:31,859
+He gave them a *research assistant*.
 
 32
-00:02:52,592 --> 00:02:57,439
-knows she is about to do something that
-cannot be undone — turned back.
+00:02:32,379 --> 00:02:39,385
+They will have a full-text index, a liaison who
+answers within the hour, and the right
 
 33
-00:02:59,008 --> 00:03:01,564
-The first page she saw was a photograph.
+00:02:39,405 --> 00:02:47,064
+to walk into any Umbrella facility in the United States
+without notice. Not a tour. Unescorted
 
 34
-00:03:02,135 --> 00:03:08,571
-It had been taken through thick glass, in cold light.
-It showed a cryogenic capsule, very
+00:02:47,084 --> 00:02:49,270
+access, any door, any time.
 
 35
-00:03:08,591 --> 00:03:14,809
-large, and inside it, in a pale mist, a figure. The
-figure was grey, and hairless, and
+00:02:49,669 --> 00:02:50,759
+Any door.
 
 36
-00:03:14,829 --> 00:03:21,047
-far too big. Beneath the photograph, in Evelyn's
-neat, small handwriting, was a label.
+00:02:51,159 --> 00:02:58,168
+Every door that exists on a plan. Sublevel B4 is
+not on a plan. Arklay's lower levels
 
 37
-00:03:21,067 --> 00:03:24,963
-T-zero-zero. Subject. Week
-eighty-one. Vitals nominal.
+00:02:58,188 --> 00:03:05,196
+are not on a plan. If they ask for something I have
+not given them, they will get it,
 
 38
-00:03:27,033 --> 00:03:33,287
-Nadia looked at it for a long time. She told herself it
-was a model. A sculpture. A prosthetic
+00:03:05,216 --> 00:03:12,556
+because the only thing that would ever hurt this
+company is an investigator who discovers
 
 39
-00:03:33,307 --> 00:03:39,026
-from a film studio. She told herself that for about
-four seconds, which was as long as
+00:03:12,576 --> 00:03:14,209
+he has been managed.
 
 40
-00:03:39,046 --> 00:03:40,694
-her training would allow.
+00:03:14,610 --> 00:03:20,886
+The GAO's team leader was a woman named Denise
+Ferrand, fifty-four years old, twenty-nine
 
 41
-00:03:41,264 --> 00:03:42,727
-Then she turned the page.
+00:03:20,906 --> 00:03:27,253
+years in federal audit, three previous reviews that
+had ended careers. She had been chosen
 
 42
-00:03:43,298 --> 00:03:49,847
-It was a table. Twenty-four subjects. Rhesus macaques
-— the twenty-four from the Singapore
+00:03:27,273 --> 00:03:33,337
+because she could not be charmed, and the narrator
+would like to record that she never
 
 43
-00:03:49,867 --> 00:03:56,125
-manifest, she understood at once, with a lurch in
-her stomach. Each one had been given
+00:03:33,357 --> 00:03:33,620
+was.
 
 44
-00:03:56,145 --> 00:04:02,695
-a compound labelled P-strain derivative, in rising
-doses. The column on the right recorded
+00:03:34,020 --> 00:03:40,008
+She arrived on the second of March expecting a fight
+and was given a floor, a badge, a
 
 45
-00:04:02,715 --> 00:04:03,352
-outcomes.
+00:03:40,028 --> 00:03:46,017
+parking space and a liaison named Mr. Pell who
+answered every question in a flat voice
 
 46
-00:04:03,923 --> 00:04:05,765
-Nineteen of them said deceased.
+00:03:46,037 --> 00:03:49,930
+within forty minutes, whatever it
+was, at whatever hour.
 
 47
-00:04:06,336 --> 00:04:08,044
-Five of them said enhanced.
+00:03:50,330 --> 00:03:54,199
+She spent six months there. She was
+extremely good at her job.
 
 48
-00:04:09,813 --> 00:04:15,865
-Beneath the table, in the margin, in the same small
-neat hand, Evelyn had written a single
+00:03:54,599 --> 00:04:00,093
+She found: five instances of aggressive transfer
+pricing through the Irish subsidiary,
 
 49
-00:04:15,885 --> 00:04:18,631
-note to herself, and underlined it twice.
+00:04:00,113 --> 00:04:05,798
+all legal, two of them barely. A pattern of
+acquisitions structured to fall four per cent
 
 50
-00:04:19,199 --> 00:04:23,639
-Tolerance correlates with baseline
-aggression. Select accordingly.
+00:04:05,818 --> 00:04:11,376
+below merger-review thresholds. A contract with the
+state of Delaware that a reasonable
 
 51
-00:04:25,709 --> 00:04:31,132
-She photographed six pages. Her hands were shaking
-so badly that she had to take two of
+00:04:11,396 --> 00:04:17,017
+person would call a sweetheart deal. Nine hundred
+million dollars of political donations
 
 52
-00:04:31,152 --> 00:04:36,575
-them twice. Then she closed the binder, and squared
-it exactly where it had been on the
+00:04:17,037 --> 00:04:22,466
+routed through a foundation. And an internal
+culture that she described, in the final
 
 53
-00:04:36,595 --> 00:04:41,893
-bench, and walked to the lifts, and pressed the
-button, and stood very still, and did
+00:04:22,486 --> 00:04:25,094
+report, in a sentence that became famous:
 
 54
-00:04:41,913 --> 00:04:44,333
-not breathe until the doors had closed.
+00:04:25,615 --> 00:04:31,126
+The company's employees display a uniformity of
+purpose and an absence of internal dissent
 
 55
-00:04:44,903 --> 00:04:50,541
-Evelyn came back fourteen minutes later, and picked
-up the binder, and did not notice
+00:04:31,146 --> 00:04:36,474
+that the review team found without precedent in
+twenty-nine years of federal audit, and
 
 56
-00:04:50,561 --> 00:04:51,607
-anything at all.
+00:04:36,494 --> 00:04:39,732
+which the company attributes to its
+hiring practices.
 
 57
-00:04:53,675 --> 00:04:56,016
-She did not sleep that night, or the next.
+00:04:40,132 --> 00:04:45,631
+She did not find the plant that had appeared
+overnight in Newark, because the plant's
 
 58
-00:04:56,586 --> 00:05:01,885
-She thought about her mother in Lagos, whose
-operation Umbrella's salary had paid for.
+00:04:45,651 --> 00:04:49,462
+paperwork went back to 2011 and the
+county recorder agreed.
 
 59
-00:05:01,905 --> 00:05:07,265
-She thought about her niece in Manchester, in the
-second year of a medical degree Nadia
+00:04:49,862 --> 00:04:55,669
+She did not find Sublevel B4, because she never asked
+for a floor that no drawing showed,
 
 60
-00:05:07,285 --> 00:05:12,584
-was funding. She thought about Arthur Kowalczyk on
-his motorcycle, and about the three
+00:04:55,689 --> 00:05:01,562
+and because Gus — asked directly, in a corridor, in
+July, whether there was anything under
 
 61
-00:05:12,604 --> 00:05:18,026
-hundred people now in the Aeterna trials whose lives
-were getting better every week, and
+00:05:01,582 --> 00:05:07,258
+the garage — looked her in the eye and said, *Just
+dirt, ma'am, and about nine miles of
 
 62
-00:05:18,046 --> 00:05:23,406
-about what would happen to all of them if Umbrella
-Life Sciences became, overnight, the
+00:05:07,278 --> 00:05:13,020
+conduit*, and was telling the truth as he understood
+it, because Gus had never been told
 
 63
-00:05:23,426 --> 00:05:25,571
-subject of a federal investigation.
+00:05:13,040 --> 00:05:15,312
+that the fourth button was strange.
 
 64
-00:05:26,141 --> 00:05:31,742
-And she thought about nineteen monkeys, and a note
-in a margin. Select accordingly.
+00:05:15,711 --> 00:05:22,638
+And she did not find Arklay at all, because Arklay was
+a private residence in Pennsylvania
 
 65
-00:05:33,312 --> 00:05:38,656
-At five in the morning, on the third night, she
-opened her laptop and began to write.
+00:05:22,658 --> 00:05:26,651
+belonging to a subsidiary that was
+not under review.
 
 66
-00:05:40,725 --> 00:05:42,469
-The Director knew by Monday.
+00:05:27,052 --> 00:05:32,701
+On her last evening, Denise Ferrand asked for a
+meeting with the Director, and got one
 
 67
-00:05:43,040 --> 00:05:48,983
-He knew it the way he knew most things now — across
-a table, in the first ten seconds
+00:05:32,721 --> 00:05:33,822
+in seven minutes.
 
 68
-00:05:49,003 --> 00:05:54,946
-of a meeting. Nadia Okafor sat in her usual place,
-and said good morning in her usual
+00:05:34,341 --> 00:05:37,271
+I want to ask you something that isn't
+going in the report.
 
 69
-00:05:54,966 --> 00:05:59,858
-voice, and was, to every other person at the
-table, perfectly herself.
+00:05:37,672 --> 00:05:38,762
+Then ask it.
 
 70
-00:06:00,427 --> 00:06:06,274
-To the Cold-Read she was a flare in the dark. Fear,
-bright and white. Grief — a great
+00:05:39,161 --> 00:05:44,010
+In twenty-nine years I have never had unrestricted
+access. Not once. Not from a bank,
 
 71
-00:06:06,294 --> 00:06:12,416
-deal of grief, which surprised him. And beneath it,
-like bedrock, something the Cold-Read
+00:05:44,030 --> 00:05:48,935
+not from a defence contractor, not from a hospital
+system that was killing people. And
 
 72
-00:06:12,436 --> 00:06:18,766
-rarely showed him in anyone: a decision that had
-already been made, and would not be unmade.
+00:05:48,955 --> 00:05:53,918
+I have sat in that building for six months and been
+given absolutely everything I asked
 
 73
-00:06:20,456 --> 00:06:22,349
-She is going to betray you.
+00:05:53,938 --> 00:05:59,072
+for, immediately, and I have found a list of ordinary
+corporate sins that will make eleven
 
 74
-00:06:22,870 --> 00:06:25,367
-She's going to leave. It isn't
-the same thing.
+00:05:59,092 --> 00:06:00,847
+pages of a report nobody reads.
 
 75
-00:06:25,887 --> 00:06:30,304
-She has seen something. She will take it
-to your enemies. Stop her.
+00:06:01,127 --> 00:06:05,652
+So either you are the cleanest large company in the
+history of this country, or you gave
 
 76
-00:06:30,824 --> 00:06:31,380
-How?
+00:06:05,672 --> 00:06:09,009
+me everything because you knew what I
+would not think to ask for.
 
 77
-00:06:31,899 --> 00:06:33,245
-You know how.
+00:06:09,408 --> 00:06:15,038
+Wesker regarded her with what was, by his
+standards, genuine respect.
 
 78
-00:06:33,766 --> 00:06:38,055
-Say it, then. Say it out loud, since you've
-got nothing but time in there.
+00:06:15,559 --> 00:06:17,229
+Which do you think it is?
 
 79
-00:06:39,574 --> 00:06:47,593
-She has a mother in Lagos. And a niece in Manchester.
-People with families can be persuaded
+00:06:17,629 --> 00:06:22,264
+(flat) I think I have been handled by an expert,
+and I think I cannot prove it, and I
 
 80
-00:06:47,613 --> 00:06:49,979
-to remember their families.
+00:06:22,284 --> 00:06:26,372
+think that is the most frightening
+professional experience I have ever had.
 
 81
-00:06:51,999 --> 00:06:58,538
-The Director did not answer that for the rest of the
-meeting. He discussed the assay launch,
+00:06:26,774 --> 00:06:33,559
+Ms. Ferrand, may I give you something? Not an
+inducement — you will notice I have not
 
 82
-00:06:58,558 --> 00:07:04,741
-and the Aeterna phase three enrolment, and a new
-facility in Singapore. He did not look
+00:06:33,579 --> 00:06:39,084
+offered you anything in six months, which I
+imagine you also noticed.
 
 83
-00:07:04,761 --> 00:07:06,239
-at Nadia Okafor once.
+00:06:39,483 --> 00:06:40,993
+I noticed on day four.
 
 84
-00:07:06,810 --> 00:07:12,715
-But in the quiet of one skull, for forty minutes, a
-very old argument was taking place,
+00:06:41,394 --> 00:06:48,719
+Then take this instead: you are right. You have not
+been given everything. No one is ever
 
 85
-00:07:12,735 --> 00:07:17,075
-and it was not the argument either of
-them had expected to have.
+00:06:48,739 --> 00:06:55,900
+given everything, by anyone, ever, and the belief
+that one *can* be is the foundational
 
 86
-00:07:18,964 --> 00:07:21,118
-We are not going to threaten her family.
+00:06:55,920 --> 00:06:57,963
+error of your profession.
 
 87
-00:07:21,637 --> 00:07:27,219
-Why not? You are not squeamish. I have been inside
-your head for two years. You are the
+00:06:58,574 --> 00:07:04,675
+But you have been given more than any auditor in
+this country has ever been given by a
 
 88
-00:07:27,239 --> 00:07:32,241
-least squeamish man I have ever met, and I have
-met — I have met a great many.
+00:07:04,695 --> 00:07:10,867
+company this size, and everything you were given is
+true. If that is not enough for the
 
 89
-00:07:32,762 --> 00:07:38,325
-It isn't squeamishness. It's arithmetic. If I
-threaten her family, she becomes a martyr
+00:07:10,887 --> 00:07:17,202
+conclusion you wanted, the shortfall is not in my
+disclosure. It is in the questions your
 
 90
-00:07:38,345 --> 00:07:44,486
-with a motive. If I let her go, she becomes a disgruntled
-former employee with some photographs.
+00:07:17,222 --> 00:07:19,124
+mandate permits you to ask.
 
 91
-00:07:44,506 --> 00:07:48,530
-One of those makes the evening news. The
-other makes page nine.
+00:07:19,524 --> 00:07:22,334
+Denise Ferrand looked at him for
+a long moment.
 
 92
-00:07:49,050 --> 00:07:50,609
-And the photographs?
+00:07:22,853 --> 00:07:26,283
+That's the most honest thing anyone has
+said to me in this building.
 
 93
-00:07:51,129 --> 00:07:56,613
-Show a large grey sculpture and a table of numbers
-in a binder. The FBI will come. The
+00:07:26,684 --> 00:07:32,614
+It is the most honest thing anyone will say to
+you in any building. Goodnight.
 
 94
-00:07:56,633 --> 00:08:02,053
-CDC will come. They'll come to a clean company with
-a spotless inspection history and
+00:07:33,014 --> 00:07:38,266
+The narrator promised you Gus in a corridor and
+owes you the whole of it, because the
 
 95
-00:08:02,073 --> 00:08:07,493
-a drug that makes old men walk. And they'll find
-nothing, because what they'd need to
+00:07:38,286 --> 00:07:41,244
+review turned on it and neither
+party ever knew.
 
 96
-00:08:07,513 --> 00:08:09,733
-find isn't anywhere they can reach.
+00:07:41,644 --> 00:07:47,263
+Denise Ferrand had been in that building for four
+months and had developed the habit that
 
 97
-00:08:11,252 --> 00:08:13,016
-You want them to come.
+00:07:47,283 --> 00:07:52,713
+every good auditor develops, which is to ask the
+questions in corridors rather than in
 
 98
-00:08:13,536 --> 00:08:18,817
-I want them to come now. While I choose the ground.
-A controlled burn, Adolf. You set
+00:07:52,733 --> 00:07:53,093
+rooms.
 
 99
-00:08:18,837 --> 00:08:22,870
-a small fire on purpose, so there's
-nothing left for the big one.
+00:07:53,613 --> 00:07:55,839
+Mr. Gus. How long have you worked here?
 
 100
-00:08:24,389 --> 00:08:26,461
-And if you are wrong?
+00:07:56,240 --> 00:08:00,060
+Since the building went up, ma'am.
+Nineteen ninety-eight.
 
 101
-00:08:26,980 --> 00:08:32,375
-Then I'll have learned something about this world.
-That's worth more than one virologist.
+00:08:00,459 --> 00:08:02,444
+And the garage. Three levels?
 
 102
-00:08:34,395 --> 00:08:39,687
-She came to resign in person. She could have sent
-an email. She could have walked out
+00:08:02,845 --> 00:08:04,075
+Three, ma'am.
 
 103
-00:08:39,707 --> 00:08:45,248
-on a Friday night and never come back. She came to
-his office instead, at half past four,
+00:08:04,475 --> 00:08:05,945
+Anything under it?
 
 104
-00:08:45,268 --> 00:08:50,684
-and knocked, because she was a person who knocked,
-and she handed him a single sheet of
+00:08:06,785 --> 00:08:10,811
+Just dirt, ma'am, and about nine
+miles of conduit.
 
 105
-00:08:50,704 --> 00:08:51,058
-paper.
+00:08:11,209 --> 00:08:17,106
+He was telling the truth. That is the thing that has
+to be understood about that exchange
 
 106
-00:08:51,749 --> 00:08:57,166
-I'm leaving, Albert. Effective today. I'm sorry for the
-short notice. I think you'll understand
+00:08:17,126 --> 00:08:22,889
+and about the entire four hundred million pages that
+Umbrella handed over: Gus had been
 
 107
-00:08:57,186 --> 00:08:57,394
-why.
+00:08:22,909 --> 00:08:28,540
+down to Sublevel B4 four thousand times. He had a
+key to it on the ring in his pocket
 
 108
-00:08:57,913 --> 00:08:58,619
-I do.
+00:08:28,560 --> 00:08:34,256
+while he was speaking. He serviced its air handler
+monthly, including the one that was
 
 109
-00:09:00,139 --> 00:09:05,599
-She had expected him to ask. She had rehearsed the
-conversation in the car. She had rehearsed
+00:08:34,276 --> 00:08:35,519
+not an air handler.
 
 110
-00:09:05,619 --> 00:09:10,903
-what she would say when he asked what she had seen,
-and what she would say when he offered
+00:08:35,919 --> 00:08:41,177
+And he had never been told that any of it was
+unusual, and nobody had ever instructed
 
 111
-00:09:10,923 --> 00:09:16,031
-her money, and — though she had not let herself
-think about it clearly — what she would
+00:08:41,197 --> 00:08:46,579
+him to conceal it, and so when a federal auditor
+asked him a question in a corridor his
 
 112
-00:09:16,051 --> 00:09:17,799
-say if he did something worse.
+00:08:46,599 --> 00:08:51,981
+mind produced the answer that four hundred people in
+that building would have produced,
 
 113
-00:09:18,370 --> 00:09:23,405
-He did none of it. He simply looked at the letter,
-and then at her, and then took off
+00:08:52,001 --> 00:08:57,259
+which is that the garage has three levels and there
+is dirt under it, because that is
 
 114
-00:09:23,425 --> 00:09:25,783
-his sunglasses and set them on the desk.
+00:08:57,279 --> 00:09:01,419
+what is on the drawings and Gus was a man
+who worked from drawings.
 
 115
-00:09:26,352 --> 00:09:32,321
-His eyes were ordinary. Pale, and grey, and very
-tired, in a way she had never seen before.
+00:09:01,820 --> 00:09:07,455
+The narrator notes that if Denise Ferrand had asked
+*how many buttons are in the lift*,
 
 116
-00:09:32,341 --> 00:09:38,178
-She would think about that for years. She would
-wonder whether he had done it on purpose.
+00:09:07,475 --> 00:09:13,565
+she would have had the entire thing in about nine
+seconds, and that she has said so, publicly,
 
 117
-00:09:38,869 --> 00:09:44,344
-You're going to go to the CDC. And the FDA.
-And they'll pass it to the FBI.
+00:09:13,585 --> 00:09:18,830
+twice, and that she describes it as the great
+regret of a thirty-one-year career.
 
 118
-00:09:44,864 --> 00:09:45,459
-Yes.
+00:09:19,350 --> 00:09:20,360
+Thank you.
 
 119
-00:09:45,979 --> 00:09:50,837
-They'll come. They'll come here, to this building,
-with warrants and badges, and they'll
+00:09:20,759 --> 00:09:26,625
+Ma'am. You want anything found in this building, you
+ask me. I know where everything is.
 
 120
-00:09:50,857 --> 00:09:55,827
-find a clean company with a spotless record, and a
-drug that makes old men walk, and three
+00:09:27,025 --> 00:09:30,466
+He meant it. That is the worst part. He
+meant it completely.
 
 121
-00:09:55,847 --> 00:10:00,761
-hundred patients who'll tell them it saved their
-lives. And you'll spend the rest of your
+00:09:30,865 --> 00:09:37,076
+The report was published on the fourteenth of
+October: one hundred and forty-one pages,
 
 122
-00:10:00,781 --> 00:10:03,644
-career being the woman who was
-wrong about Umbrella.
+00:09:37,096 --> 00:09:41,086
+twenty-two findings, four
+recommendations, no referrals.
 
 123
-00:10:05,364 --> 00:10:06,378
-Then I'll be wrong.
+00:09:41,486 --> 00:09:47,330
+It concluded that Umbrella Life Sciences had
+engaged in aggressive but lawful tax and
 
 124
-00:10:08,398 --> 00:10:14,008
-He looked at her for a long time. The Cold-Read
-showed him exactly what she felt, and
+00:09:47,350 --> 00:09:53,401
+acquisition structuring, that its dominance of
+clinical diagnostics presented a national
 
 125
-00:10:14,028 --> 00:10:19,970
-it was the one thing, in two years, that he had not
-been able to make anyone in this world
+00:09:53,421 --> 00:09:59,334
+resilience risk in the event of a corporate failure,
+and that Congress should consider
 
 126
-00:10:19,990 --> 00:10:25,401
-feel toward him, not with money, not with fear,
-not with a speech in a break room.
+00:09:59,354 --> 00:10:02,576
+strategic stockpiling of
+alternative platforms.
 
 127
-00:10:25,971 --> 00:10:29,038
-She was not afraid of him. She
-was sorry for him.
+00:10:02,976 --> 00:10:09,151
+In other words: the danger identified by the United
+States government was that Umbrella
 
 128
-00:10:30,729 --> 00:10:31,818
-Goodbye, Nadia.
+00:10:09,171 --> 00:10:10,647
+might one day *stop*.
 
 129
-00:10:32,337 --> 00:10:33,341
-Goodbye, Albert.
+00:10:11,047 --> 00:10:13,836
+The stock rose four per cent on
+publication.
 
 130
-00:10:34,861 --> 00:10:40,245
-She took her phone with her. He did not ask for it.
-She walked out of the office, and
+00:10:14,356 --> 00:10:18,976
+(broadcast) — the most exhaustive corporate review in
+a decade, and the headline finding
 
 131
-00:10:40,265 --> 00:10:45,776
-down the corridor, and past Hale, who stood by the
-lifts with his hands folded in front
+00:10:18,996 --> 00:10:23,616
+is that we're too dependent on them. Umbrella's
+response this morning was a single line:
 
 132
-00:10:45,796 --> 00:10:50,671
-of him and watched her go, and did not move,
-because he had not been told to.
+00:10:23,636 --> 00:10:28,467
+the company welcomes the report and has already begun
+implementing all four recommendations.
 
 133
-00:10:52,740 --> 00:10:54,908
-Dana Whitfield caught her in the lobby.
+00:10:28,866 --> 00:10:32,057
+(broadcast) Which is presumably a
+nightmare for their competitors —
 
 134
-00:10:55,479 --> 00:11:01,617
-Nobody had told Dana. Nobody needed to. She had worked
-with Nadia Okafor for twelve years,
+00:10:32,456 --> 00:10:35,567
+(broadcast) Their competitors are the
+four recommendations.
 
 135
-00:11:01,637 --> 00:11:07,569
-and she saw her face, and the box of things from her
-desk, and she came out from behind
+00:10:36,596 --> 00:10:44,960
+Subjugation, institutional. Federal review concluded
+with no adverse finding. Public trust
 
 136
-00:11:07,589 --> 00:11:12,290
-the reception desk and hugged her, hard, in
-front of the living wall.
+00:10:44,980 --> 00:10:53,156
+increased. Regulatory risk reduced for approximately
+four years. One million one hundred
 
 137
-00:11:12,980 --> 00:11:13,892
-Be careful.
+00:10:53,176 --> 00:10:58,373
+thousand Points. Level fifty.
+Intelligence tab unlocked.
 
 138
-00:11:14,412 --> 00:11:15,215
-You too.
+00:10:59,592 --> 00:11:07,145
+Intelligence. Dossier on any living person: four
+thousand each. Asset Network, one nation:
 
 139
-00:11:16,735 --> 00:11:22,369
-Dana let her go. She stood in the lobby for a long
-time after the doors had closed, looking
+00:11:07,165 --> 00:11:14,297
+nine hundred thousand. Signals Access, commercial:
+two million four hundred thousand.
 
 140
-00:11:22,389 --> 00:11:27,836
-out at the rain. She did not know what Nadia had
-seen. She did not want to know. But she
+00:11:14,317 --> 00:11:21,616
+Counter-Intelligence Cell: one million eight hundred
+thousand. What you learn here, you
 
 141
-00:11:27,856 --> 00:11:33,489
-had noticed, for the first time that week, that she
-had started saying Be careful to people
+00:11:21,636 --> 00:11:22,879
+cannot unlearn.
 
 142
-00:11:33,509 --> 00:11:37,216
-who were leaving the building, instead
-of Have a good night.
+00:11:23,469 --> 00:11:28,639
+He bought one dossier. Four thousand Points,
+against a balance of three million.
 
 143
-00:11:37,787 --> 00:11:41,900
-She did not know when that had started. She
-thought it had been a while.
+00:11:29,038 --> 00:11:35,345
+Not the GAO team leader. Not the senator whose
+subcommittee had commissioned the review.
 
 144
-00:11:43,970 --> 00:11:46,951
-Nadia Okafor walked out into the rain.
+00:11:35,365 --> 00:11:41,600
+Not any of the sixteen lawyers, or the four
+competitors, or the journalist who had been
 
 145
-00:11:47,520 --> 00:11:53,309
-She did not open an umbrella. She had one in her
-bag. She would say afterwards that she
+00:11:41,620 --> 00:11:44,188
+calling Pell every week since Basel.
 
 146
-00:11:53,329 --> 00:11:59,318
-simply did not want to, that night, and she would not
-be able to explain why, and everyone
+00:11:44,589 --> 00:11:50,895
+He bought a dossier on a man whose name had appeared
+exactly twice in four hundred million
 
 147
-00:11:59,338 --> 00:12:00,453
-would understand.
+00:11:50,915 --> 00:11:57,081
+documents, both times on a visitor log, both times
+signing in to a meeting with somebody
 
 148
-00:12:03,024 --> 00:12:08,845
-The complaint reached the Centers for Disease Control
-and Prevention in Atlanta nineteen
+00:11:57,101 --> 00:11:57,433
+else.
 
 149
-00:12:08,865 --> 00:12:14,753
-days later, through a portal most people did not know
-existed, and was assigned — because
+00:11:58,582 --> 00:12:06,700
+Dossier. Sloane, Martin J. Central Intelligence
+Agency, Directorate of Operations. Current
 
 150
-00:12:14,773 --> 00:12:20,528
-she was the most junior officer on the relevant
-desk, and because nobody else wanted it
+00:12:06,720 --> 00:12:14,566
+assignment: technology acquisition, special
+activities. Age fifty-four. Beirut, Warsaw,
 
 151
-00:12:20,548 --> 00:12:26,171
-— to a thirty-nine-year-old epidemic intelligence
-officer named Doctor Samira Haddad.
+00:12:14,586 --> 00:12:22,433
+Islamabad, Caracas. He has read every public
+document your company has produced. He has
 
 152
-00:12:26,740 --> 00:12:31,745
-She read it at her desk at six in the evening,
-with a sandwich she forgot to eat.
+00:12:22,453 --> 00:12:26,954
+not written anything down about
+you in four years.
 
 153
-00:12:32,316 --> 00:12:37,731
-She looked at the photograph of the grey figure
-first, and she laughed out loud, once,
+00:12:27,984 --> 00:12:29,294
+Four years.
 
 154
-00:12:37,751 --> 00:12:39,754
-and said to nobody: oh, come on.
+00:12:29,693 --> 00:12:30,864
+Four years.
 
 155
-00:12:40,323 --> 00:12:46,747
-Then she looked at the table. Twenty-four macaques.
-A compound with no registered name.
+00:12:31,264 --> 00:12:39,292
+The Belgian operation was fifteen months ago. Basel
+was sixteen. He started before any
 
 156
-00:12:46,767 --> 00:12:53,783
-Nineteen deceased. Five enhanced. And a note in a
-margin, in small neat handwriting, underlined
+00:12:39,312 --> 00:12:39,854
+of it.
 
 157
-00:12:53,803 --> 00:12:54,228
-twice.
+00:12:40,254 --> 00:12:43,850
+He started the week you filed
+your first patent.
 
 158
-00:12:54,798 --> 00:12:56,105
-She stopped laughing.
+00:12:44,250 --> 00:12:50,176
+Albert Wesker sat back in the chair and, for the
+first time since a boardroom in Trenton,
 
 159
-00:12:57,674 --> 00:13:03,248
-Samira Haddad had spent four years chasing outbreaks
-in places where nobody else wanted
+00:12:50,196 --> 00:12:54,250
+felt something that he would have
+refused to call excitement.
 
 160
-00:13:03,268 --> 00:13:09,228
-to go. She had learned that most complaints are
-nothing, and that the ones that are something
+00:12:54,650 --> 00:12:57,821
+The voice in his skull chose that
+moment to arrive.
 
 161
-00:13:09,248 --> 00:13:14,822
-rarely look like it at first, and that the most
-dangerous words in her profession were:
+00:12:58,341 --> 00:12:59,559
+A hunter.
 
 162
-00:13:14,842 --> 00:13:16,108
-that can't be right.
+00:12:59,957 --> 00:13:06,568
+A *professional*. Everyone else who has come at this
+company has come with a mandate and
 
 163
-00:13:16,677 --> 00:13:21,933
-She read the complaint twice more. Then she picked
-up the phone, and called a friend at
+00:13:06,588 --> 00:13:13,124
+a form to fill in. This one has spent four years
+reading, has told no one, and has left
 
 164
-00:13:21,953 --> 00:13:24,540
-the Food and Drug
-Administration, and said:
+00:13:13,144 --> 00:13:18,248
+nothing in writing that could be taken away
+from him by a committee.
 
 165
-00:13:25,230 --> 00:13:27,841
-Hi, it's Sam. Listen. Who do you
-know at the Bureau?
+00:13:18,648 --> 00:13:20,537
+He is dangerous.
+
+166
+00:13:20,937 --> 00:13:27,733
+He is *useful*. A man who writes nothing down has
+already decided that his institution
+
+167
+00:13:27,753 --> 00:13:34,469
+is not equal to the problem. That is not an enemy,
+Adolf. That is a man waiting to be
+
+168
+00:13:34,489 --> 00:13:36,768
+offered a better arrangement.
+
+169
+00:13:37,168 --> 00:13:38,498
+He closed the panel.
+
+170
+00:13:39,018 --> 00:13:45,613
+Mr. Pell. Find out where Martin Sloane drinks, and
+do not approach him. I want to be in
+
+171
+00:13:45,633 --> 00:13:49,948
+the room by accident, and I want it
+to take about a year.
+
+172
+00:13:50,347 --> 00:13:51,788
+It took fifteen months.
