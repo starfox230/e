@@ -36,6 +36,16 @@ MIRA: (slow) Director, I've thought about this a lot, because people keep tellin
 MIRA: (very slow) I think you've spent sixty-five years building an empire that cannot say no to you and hiring, one at a time, the four or five people who can. And I don't think you ever noticed you were doing it.
 N: The narrator notes that Albert Wesker approved the doubled redundancy without further discussion, that it cost eleven billion Points and four months, and that in 2134 a spar failure on a sister ship killed nine hundred people and the *Christina* class was the only design in the fleet that survived the same fault.
 
+[music] m_space -8
+[img] a vast unfinished ship interior with workers welding, sparks, scaffolding, cold light
+[loc] Dock One — 14 July 2091
+N: The narrator would like to record one argument from the seven months, because it is the argument that decided what kind of thing was leaving the solar system.
+N: The *Christina*'s crew was eleven hundred. The Directorate's original manifest, drafted by Hale's successor and approved without discussion, was eleven hundred Absolute personnel: incapable of panic, incapable of mutiny, incapable of deciding at year nine that they would rather go home.
+N: Mira Halder read it and went to the Assembly instead of to Wesker, which is the single most consequential thing she ever did.
+MIRA: (slow) You are proposing to put the first human beings outside this system in the hands of eleven hundred people who cannot refuse an order, four hundred light years from anybody who could ask them whether they want to be there.
+MIRA: (slow) The Accord says we are releasing them. It does not say we may spend them first.
+N: The Assembly voted four hundred and one to ten. The crew of the *Christina* was recruited: nineteen thousand applications for eleven hundred places, assessed by a board Mira chaired and Wesker was not on.
+N: Four of the eleven hundred were released Absolute personnel who applied like everybody else. One of them, a former maintenance technician from the Newark plant who had been made on a Saturday in 2027 and released in the second cohort in 2082, was the ship's chief of environmental systems for forty-one years and is buried on Ochoa under a stone that says, at his own instruction, *he chose it*.
 [music] m_lo -9
 [img] {CARRICK} a very old man in a chair by a window with a blanket over his knees, afternoon light
 [loc] Media, Pennsylvania — 19 October 2091

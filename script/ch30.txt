@@ -65,6 +65,29 @@ EVELYN: (soft) You feel it too.
 WESKER: (cold) I have felt it in four hundred rooms since 2026 and I have never once been on this side of it. What is your Presence, Dr. Marsh?
 EVELYN: (soft) I don't have a panel, Director. I have a room full of people who cannot disobey me and who have started, in the last two days, to stand up when I come in. Nobody told them to. They weren't built to.
 
+[music] m_lo -10
+[img] a scientist in a white coat sitting alone in a corridor with his head in his hands, cold light
+[loc] The Antarctic Facility, Level 11 — 19 June 2047
+N: The narrator will not leave Anton Reiss standing in a corridor, because what happened to him in the nine days is the whole of what the Absolute were.
+N: He sent the message at eleven minutes past four in the morning on the eleventh. He did not sleep for the following seven days. On the fourteenth he was found by a junior technician sitting on the floor of a service corridor on Level 11, in the dark, having been there for about four hours, and what he said — the technician wrote it down the same night, which is why it survives — was:
+MAN: (soft) I was told not to. I know I was told not to. I have never in my life done a thing I was told not to do and I did not know that it was *possible*, and I have been sitting here since two o'clock trying to work out what else I have been able to do all this time and never once tried.
+N: Wesker interviewed him on the nineteenth, alone, for two hours. The transcript is four pages.
+WESKER: (cold) Why did you send it?
+REISS: (soft) Because she was going to die and nobody was coming.
+WESKER: (very cold) You were instructed not to.
+REISS: (soft) Yes, sir.
+WESKER: (cold) By whom?
+[pause 1.0]
+REISS: (very soft) By Dr. Marsh.
+[pause 0.8]
+N: The narrator asks you to notice what Albert Wesker noticed, in that room, in about four seconds, and did not say aloud for forty-one years.
+N: Anton Reiss had not disobeyed the System. He had disobeyed *Evelyn Marsh*, who was not his owner, who had been given authority over him by a man who was — and somewhere in the machinery, in a way nobody has ever been able to reproduce, that distinction had left a gap the width of a decision.
+WESKER: (soft) Dr. Reiss. Do you know what you are?
+REISS: (soft) Yes, sir. I have known since I was four days old. It was in my induction file.
+WESKER: (very cold) And has anybody ever asked you what you would like to do?
+[pause 1.2]
+REISS: (very soft) No, sir.
+WESKER: (cold) I am asking.
 [music] m_system -9
 [img] {WESKER} alone in a corridor looking at a glowing crimson panel, cold light, night
 [loc] The Antarctic Facility, Level 3 — 18 June 2047, 11:00 p.m.

@@ -44,6 +44,18 @@ SYSTEM: Progenitor improves *you*.
 WESKER: (soft) And the odds?
 SYSTEM: One in eleven thousand.
 
+[music] m_corporate -9
+[img] a hospital ward in a poor region with new equipment and staff in Umbrella uniforms, bright daylight
+[loc] Kisumu, Kenya — 4 August 2031
+N: The narrator would like to show you what a sovereign contract looks like from underneath, because the panels are cold and the reality was not.
+N: Umbrella's African biosecurity agreement covered nine countries and cost the company four billion dollars a year against revenue of approximately nothing. It placed four hundred and eleven laboratories, eleven thousand instruments, and a cold chain that reached, by 2033, ninety-one per cent of the continent's district hospitals.
+N: A paediatrician in Kisumu named Dr. Achieng Odhiambo, who had spent nineteen years sending samples four hundred kilometres by road and waiting nine days for a result, got a benchtop box in August of 2031 and a training week and a service contract.
+DOCTOR: (slow) I want to say something that will sound ungrateful and is not. For nineteen years I asked my own government, and four donors, and two international agencies, for this machine. I wrote applications. I was given frameworks.
+DOCTOR: (slow) A company I had never heard of sent me one, and a woman to teach me to use it, and has never once asked me for anything, and I do not know what to do with that, and neither does anybody I work with.
+DOCTOR: (very slow) We have a joke here now. When something arrives that should not have arrived, we say it fell off the umbrella.
+N: The System's panel for that contract read: *Devotion: continental. Points: +900,000 recurring.*
+N: Wesker read it in Wilmington and made one note, which Pell actioned within the week: that no Umbrella employee in any of the nine countries was ever to be photographed handing anything to anybody.
+WESKER: (cold) The photograph is worth four hundred thousand dollars in goodwill and it costs the person in it something that I am not able to give back. We are not a charity and I will not have us pose as one.
 [music] m_hi -5
 [img] rings of coloured light spinning above a desk in a dark room, gold and violet flashes, a man in black watching
 [loc] Arklay Estate, the library — 21 December 2031, 11:00 p.m.

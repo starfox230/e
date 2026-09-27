@@ -43,6 +43,22 @@ WESKER: (very cold) I want four hundred civilisations looking for it. I have ask
 BROKER: (slow) And if we find it?
 WESKER: (soft) Then somebody will finally ask it a question I have not thought of.
 
+[music] m_lo -10
+[img] a modest living room with an old man and woman watching a wall screen, evening light
+[loc] Raccoon City — 19 January 2212
+N: The narrator will give you one household, out of four hundred thousand, because the statistics in the paragraph above are unbearable and a household is not.
+N: Daniel Okonkwo was a hundred and ninety-one years old. He had been the Chief of Police of Raccoon City from 2028 to 2061 — the integrated man who had asked Albert Wesker in a wood-panelled office in 2028 what he was looking at, and had been told to keep his eyes open, and had.
+N: He had found nothing in nineteen years. He had chanted in a stadium in 2086, which he was ashamed of afterwards and had never explained to his daughter.
+N: He read the eleven thousand pages over four days, at a kitchen table, with a pot of coffee, at the age of a hundred and ninety-one.
+CHIEF: (slow) It's all there. Every bit of it. The clerks with four different years. The lift button. The plant on Route 72 with the union local that was three days old.
+CHIEF: (slow) I spent nineteen years thinking I was imagining it, and about eleven of those years thinking I was a coward for not pushing, and it was true the entire time and the man knew I knew and told me to keep looking.
+WOMAN: (soft) Are you angry?
+[pause 1.0]
+CHIEF: (very slow) I'm angry that he was *right*. He said I'd find nothing and I found nothing. He said I'd decide one day that I'd imagined the clerks, and I did, in about 2044, on a Tuesday, and I remember deciding it.
+CHIEF: (slow) He knew exactly what he was doing to me and he did it anyway and then he paid for my daughter's education and never mentioned it.
+[pause 0.8]
+CHIEF: (very slow) I'd have liked, once, for somebody to have asked me first. That's the whole of it. Two hundred years and that's the whole of my complaint.
+N: Daniel Okonkwo died in 2216. His statement to the Assembly's inquiry into the publication, given at a hundred and ninety-two, is nine hundred words long and is quoted in four hundred histories and has never once been quoted in full.
 [music] m_lo -9
 [img] a quiet room with a single glowing crimson panel and a figure in a black coat seated before it
 [loc] Dock One — 19 January 2212

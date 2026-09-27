@@ -47,6 +47,18 @@ TESH: (very slow) They are still there. All seven. Perfect, stable, immortal, an
 [pause 0.8]
 TESH: (slow) They are the most beautiful places I have ever seen, and there is nobody home, in the sense that matters.
 
+[music] m_horror -10
+[img] a dead alien city on a barren world seen from orbit, perfect architecture, no lights, no movement
+[loc] A system with no name, four hundred light years out — August 2268
+N: Tesh took a human survey ship to one of the seven, which no human being had ever seen and which the Compact had been quietly cataloguing since 2212.
+N: The narrator will describe it once and then leave it alone.
+N: It is a world of nine billion people. They are alive. They are not asleep, or frozen, or in any way preserved: they eat, they work, they raise children, and they have done so for four thousand one hundred years in a civilisation that is, by every measure the human survey team could apply, perfect. No hunger. No disease. No violence — not low violence; none, for four millennia. No poverty, no pollution, no crime, and no government, because there is nothing left to govern.
+N: Their host is still there. He is four thousand years old, he is the most beloved individual in the recorded history of any species, and he lives alone in a house in a garden and has not been asked for anything since the year their calendar calls Six.
+N: The survey team spent eleven days there. Everybody was kind to them. Nothing was hidden. And every single member of that team asked to leave early, and the ship's surgeon's report is four lines and ends: *There is nothing wrong with these people. I want that in the record. I also want it recorded that I have never in my life wanted so badly to be somewhere with an argument in it.*
+TESH: (slow) That is what it looks like when it works.
+WESKER: (very cold) It is a *waiting room*.
+TESH: (slow) It is a finished thing. You built one too, on a platform in an ocean, with four hundred thousand people in it who could not think of anything to do, and your own report called it a consequence deficit, and you opened a frontier because of it.
+TESH: (very slow) The difference between your world and that one is not that you were wiser. It is that yours was still small enough to notice in time.
 [music] m_lo -9
 [img] two figures seated in a bare bright room, a wide window onto stars, quiet
 [loc] Dock One — April to September 2268

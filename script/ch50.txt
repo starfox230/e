@@ -31,6 +31,18 @@ EVELYN: (soft) Does it frighten you?
 WESKER: (very soft) It is the most interesting thing that has happened to me since 2062.
 N: They sat on a bench by a river in Delaware, the two oldest things on the planet, and the narrator records that they talked for four hours about a tram extension, a granddaughter's marriage, and whether the Assembly's fisheries directive was correctly drafted, and that neither of them mentioned the System once.
 
+[music] m_lo -10
+[img] an old cemetery on a hillside above a valley city at dawn, rows of modest headstones, mist
+[loc] Raccoon City — 11 June 2294
+N: The narrator will give you the funeral, briefly, because four people came and it is the only funeral in this account with no cameras at it.
+N: He had left four lines of instruction and the fourth was that nobody was to be invited. The Directorate honoured it, to the letter, and then discovered that it had no way of preventing anybody from coming.
+N: Eleven people came. Evelyn Marsh. Her daughter Mira Reiss-Marsh and two of her grandchildren, who had never met him. The Red Queen, through a relay, who had never attended anything. A gardener from the estate at Arklay, aged a hundred and forty, whose great-grandmother had been summoned into existence in 2027.
+N: And four people from the valley who had read the notice in the municipal register, and who had grandparents in that cemetery, and who were not quite able to explain to a journalist afterwards why they had come.
+WOMAN: (slow) He's being buried in the made section. That's ours. Nobody asked us about that either, and I'm here to see it done, and I don't know if that's respect or the other thing.
+[pause 0.8]
+WOMAN: (very slow) My grandmother had a name for the town she grew up in and couldn't say it. She used to laugh about it. She laughed about it for sixty years.
+WOMAN: (slow) So I came up the hill to watch him be put in the ground next to her, and I'll tell you what I thought when they did it, which is nothing at all, and I've been trying for a week to work out whether that's the worst thing I've ever felt or the best.
+N: There is a stone. It is the same size as the eleven thousand around it. It carries a name, two dates, and nothing else, and the second date is wrong by two days because the municipal clerk made an error and nobody has ever corrected it.
 [music] m_bell -7
 [img] a schoolroom on a colony world with children at desks, a window onto an alien landscape, daylight
 [loc] Ochoa, the Kalu School — 4 March 2291

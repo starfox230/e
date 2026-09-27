@@ -46,6 +46,24 @@ EVELYN: (soft) Why not?
 WESKER: (cold) Because in sixty-two years I have touched four things that I did not intend to own, and I have no experience whatsoever of the category, and I would rather not begin by getting it wrong with the first member of a species.
 N: Evelyn Marsh laughed at him, which nobody had done since Catherine Adeyemi died, and put her daughter in his arms anyway, and the narrator records that Albert Wesker held her for four minutes and eleven seconds and did not say a single word.
 
+[music] m_tension -10
+[img] a crowded public hearing room with rows of citizens and officials, tense faces, daylight
+[loc] The Hangzhou Tribunal, sitting at the Arcology — 19 November 2088
+N: The lineage did not stay private for eleven weeks.
+N: A midwife in Raccoon City who had been flown to Antarctica and back under a confidentiality undertaking she had signed without reading declined, on the fourth of November, to keep quiet about the fact that she had attended the birth of a child at a research station where nobody's records said a birth was possible.
+N: She did not go to the press. She went to the Tribunal, which had been created in 2080 to enforce the Hangzhou Accord and which had ruled against the Directorate four times by then, and she filed a complaint of nine lines.
+N: The hearing ran for three months and it is the most important legal proceeding in this account.
+SENATOR: (slow) Dr. Marsh. Did you create a heritable modification of the human germ line?
+EVELYN: (soft) Yes.
+SENATOR: (slow) Under whose authority?
+EVELYN: (soft) My own. There was no other available. The Accord governs compelled obedience; it is silent on this. No state has jurisdiction at that site. My employer did not know until four months ago and did not consent, in the sense that he was told rather than asked.
+SENATOR: (slow) Do you accept that you have created a category of person who is materially advantaged over every other human being alive, permanently, and heritably?
+EVELYN: (very soft) Yes.
+SENATOR: (slow) And your defence?
+[pause 1.0]
+EVELYN: (soft) I do not have one. I have an explanation, which is that I did it because I could and because nobody stopped me, and I have watched Albert Wesker give that explanation for sixty years and I have always thought it was the worst sentence in the world, and it turns out to be the only honest one available to anybody who is first.
+N: The Tribunal ruled in March 2089. It did not order the lineage destroyed, which it had no power to do and which four judges said in a concurring opinion would have been an atrocity. It ordered three things: a registry, a prohibition on any further modification without its consent, and an obligation on the Directorate to fund research into a version available to everybody.
+N: Umbrella complied with all three. The third took a hundred and fifty-four years and is the subject of Chapter Forty-Seven.
 [music] m_scheme -9
 [img] a red holographic girl and a man in a black coat in a dark hall of glass, facing each other
 [loc] The Arcology, Modelling — 19 April 2089

@@ -41,6 +41,18 @@ WOMAN: (slow) You keep telling us what the alternative was. You never tell us wh
 N: Wesker did not answer her.
 N: The narrator notes that he did not answer her, that the Red Queen's minute of the meeting records a nine-second pause at that point, and that it is the longest recorded pause of his life outside a stage.
 
+[music] m_lo -10
+[img] a crowded clinic waiting room in a hot country, families sitting and standing, bright light
+[loc] Nine hundred places — 2064
+N: The narrator will give you the first year of free Aeterna as the people who administered it saw it, because the Assembly debates are about consent and the clinics were about queues.
+N: Umbrella had built forty-one plants in secret over four years and had nine hundred million courses in warehouses on the day of the announcement. It was not enough. It was not remotely enough: there were seven billion people who had not had it and the manufacturing ran at about four hundred million courses a year.
+N: Which meant an order, and the order was the most consequential administrative decision of the century, and Wesker did not make it.
+N: He gave it to the World Health Organization — an institution that had spent thirty years being politely outperformed by Umbrella and that had, by 2064, almost no budget and enormous moral authority — and he gave it to them with one line of instruction and no oversight: *You will decide who is first. We will manufacture and deliver. We will not be consulted and we will not comment.*
+N: They chose oldest-first, globally, without regard to nation, income or politics. It took nine years to clear the backlog. It was administered by four hundred thousand people in a hundred and ninety countries and there was, by the WHO's own audit in 2074, corruption in the distribution chain in about eleven per cent of districts and theft of about four per cent of stock.
+N: Wesker was asked about the four per cent at a press conference in 2071 and gave an answer that is in every textbook on institutional design.
+WESKER: (cold) Four per cent is theft. Ninety-six per cent is the highest delivery efficiency ever achieved by any humanitarian programme in history, by a margin of about thirty points.
+WESKER: (slow) If Umbrella had run it, the theft would have been nearer nought point one, because we do not have elections or ministries or cousins. And the programme would have belonged to me, and in forty years there would have been no institution left on this planet capable of distributing anything at all.
+WESKER: (very cold) I bought ninety-six per cent, and an institution that still exists. It was the cheapest thing I have ever paid four per cent for.
 [music] m_scheme -9
 [img] {REDQUEEN} a red holographic girl standing in a dark hall of glass, a man in black opposite
 [loc] The Arcology, Modelling — 4 April 2069

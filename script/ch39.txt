@@ -23,6 +23,18 @@ MIRA: (slow) That's the thing people outside don't understand about the argument
 MIRA: (very slow) Do you know what the suicide rate is in the Free Territory? It's four times the world average, and it's all people between thirty and sixty, and the Directorate's own report says the cause is what it calls *consequence deficit*.
 MIRA: (slow) We call it the Tuesday problem.
 
+[music] m_lo -10
+[img] a small apartment interior on a sea platform, a family at dinner, window onto ocean at night
+[loc] The Arcology, residential level nine — 11 September 2089
+N: The narrator will give you one evening, because the Assembly debates are on the record and the dinners are not.
+N: Mira Halder's parents were seventy-one and sixty-nine and looked forty. Her father had built the platform's second water plant; her mother had catalogued the Atlantic's midwater fish for thirty years and had four hundred papers and no position, because there had been no positions for eleven years.
+WOMAN: (slow) I'm not complaining. I want that understood before I say the rest.
+WOMAN: (slow) I came here in 2049 from a town outside Lima that had four hours of power a day. My daughter has never been hungry, never been ill, and will probably see the year 2300. If somebody had offered me this at twenty-four I would have run across the ocean for it.
+[pause 0.6]
+WOMAN: (very slow) But I have been the person who catalogues the fish for thirty years, and I will be the person who catalogues the fish for another two hundred, because the woman above me is eighty-one and looks thirty-five and is not going anywhere, and neither is the man above her.
+MIRA: (slow) Mum.
+WOMAN: (slow) I am not sad, Mira. I am simply telling you what the arithmetic is, because your generation keeps calling it a mood and it is not a mood. It is a *queue* with no front.
+N: The Directorate's own study of the Free Territory, commissioned in 2086 and published in 2088, put it in a sentence that the Assembly quoted eleven times in one session: *The territory has abolished every form of scarcity except one, and the exception is the scarcity of anything left to do.*
 [music] m_scheme -9
 [img] a public meeting hall on a sea platform, rows of seated citizens, a raised speaking floor
 [loc] The Arcology Assembly — 19 September 2089

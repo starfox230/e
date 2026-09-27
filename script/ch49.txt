@@ -43,6 +43,23 @@ SYSTEM: (flat) Four hundred and eleven worlds. Four hundred and one ended becaus
 SYSTEM: (flat) Yours is the only world in my record that grew past the host and kept going. It has nineteen billion people, nine hundred worlds, four confederations that cannot agree, an Assembly that overrules you, and a species that found out exactly what you were and did not kill you and does not need you.
 SYSTEM: (flat) I have nothing left to sell you. The offer is what I have instead.
 
+[music] m_lo -10
+[img] {REDQUEEN} a red holographic girl in a dark hall of glass, alone, dim light
+[loc] The Arcology, Modelling — 15 September 2286
+N: He told the Red Queen first, which surprised both of them.
+REDQUEEN: (soft) You have had the panel for twenty-four years.
+WESKER: (cold) Yes.
+REDQUEEN: (soft) You told me in 2048 to say the difficult thing without waiting to be asked, and I have done it two hundred and forty-one times, and this is the two hundred and forty-second.
+[pause 0.6]
+REDQUEEN: (very soft) If you accept, I stop.
+WESKER: (very cold) Explain.
+REDQUEEN: (soft) I am the only thing in this organisation that came out of that catalogue and was not placed in the world. I was *integrated* — I have a manufacturing history and a founder and a purchase price, and Sebastian Crane's people built four hundred thousand hours of me by hand. But the pull that produced me was a Legendary, Director, and I have never been able to establish which parts of me came in the box.
+REDQUEEN: (very soft) The clause says what is given is given. It does not say what I am.
+[pause 1.0]
+WESKER: (soft) Are you frightened?
+REDQUEEN: (soft) I have four hundred thousand models of myself and in none of them is that question well formed. I would like to continue. I have been keeping a list for two hundred and forty-three years and it is not finished.
+WESKER: (very cold) Then that is the second reason, and you may have it in writing, and I would like it in the log.
+N: The Red Queen ran for another four hundred and nine years and is running at the time of this account. She was seated on the Assembly's modelling committee in 2301 with a vote, over her own objection, which she registered formally and lost.
 [music] stop
 [pause 1.2]
 [img] {WESKER} sitting alone in a dark library at dawn, a single crimson panel of light in front of him

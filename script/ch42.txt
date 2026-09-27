@@ -42,6 +42,16 @@ WESKER: (very cold) You have been talking to me for four months. Tell me honestl
 N: Ashet's reply was eleven words and it is carved, in Compact script and in nine human languages, on the wall of the station at L4.
 BROKER: (slow) It is the first answer I have not had to discount.
 
+[music] m_alien -9
+[img] a wide bright hall on an alien trade station, human and alien figures moving among stalls
+[loc] The L4 trade station — 2107
+N: The narrator will spend a page on what the Compact actually did to humanity, because every account concentrates on the Veth and the Choir and the wars, and the thing that changed people's lives was a market.
+N: The station opened in 2104 with nineteen species trading on it. By 2107 there were four hundred human businesses on it, of which three hundred and eleven were not Umbrella and eleven were one person with a cargo allowance.
+N: What humanity sold: biological science, which the Compact considered the best in nine hundred light years; music, which nobody had expected and which four species developed an expensive habit for; and — this is the part every human schoolchild learns — argument.
+BROKER: (slow) You will not understand this and I have stopped trying to explain it politely. Your species produces disagreement of a quality we have not encountered. Not conflict. Conflict is common and cheap. *Formal structured disagreement*, conducted in public, by parties who continue to trade with each other afterwards.
+BROKER: (slow) There are eleven species in the Compact who have paid, in hard trade credit, to have human advocates argue their disputes. We have nothing like it. Our disputes are resolved by price.
+N: The Compact's archive at L4 contains four thousand years of trade law and, in a wing added in 2111, the complete proceedings of the Human Assembly, translated, updated weekly, consulted by nine species.
+N: Umbrella earned nothing from it. It had no part in it. Albert Wesker read the Compact's assessment of it in 2112 and, according to the Red Queen's log, read it four times and then sat for eleven minutes.
 [music] m_lo -9
 [img] a vast human fleet of ships in orbit around a blue planet, many hulls, floodlights, stars
 [loc] The solar system — 2104 to 2141

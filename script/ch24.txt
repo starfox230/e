@@ -30,6 +30,16 @@ Points: +41,000,000
 [say] Industry absorbed: pharmaceuticals. Ninety-one per cent of global therapeutic development. Six hundred and eleven dependent companies. Hostile acquisitions required: zero. Forty-one million Points.
 [/system]
 
+[music] m_lo -9
+[img] a pharmaceutical research building with an empty car park, a faded sign, overcast daylight
+[loc] Basel, Ingelheim, New Jersey — 2040 to 2041
+N: The narrator will tell you what the end of an industry looked like to the people inside it, because the panel says *hostile acquisitions required: zero* and that sentence hides two hundred thousand lives.
+N: Nobody was sacked. That is the first thing, and it is true, and it is the reason there was never a serious political movement against it. Every chemist, every pharmacologist, every regulatory affairs manager in six hundred and eleven companies was offered a position at Umbrella at their existing salary, and about a third took it, and the rest stayed where they were and found, over about four years, that there was nothing to do.
+N: A medicinal chemist in Basel named Ulrich Brandt, fifty-one, eleven patents, described it in an interview in 2043 that is quoted in every history of the period.
+MAN: (slow) They did not close us. That is what people misunderstand. Our laboratory is open, our salaries are paid, our coffee is good. We simply stopped being asked.
+MAN: (slow) In 2038 we had four hundred projects. In 2041 we have nine, and all nine are things Umbrella's own pipeline flagged as not worth their time, and we know it, because the flag is in the file they send us.
+MAN: (very slow) I have been given everything I asked for my entire career: funding, staff, equipment, freedom. And I have not had an idea that mattered since I was forty-four, and I cannot tell any more whether that is me or whether it is the arrangement.
+N: The narrator notes that the Red Queen's modelling group calculated, in 2049, that the Open Pipeline had accelerated global drug development by approximately eleven years and reduced the number of people capable of independently originating a therapeutic programme by about eighty per cent, and that Wesker read that finding, and filed it, and did not act on it for thirty years.
 [music] m_triumph -5
 [img] a vast glowing crimson and white holographic panel in a dark room, a man in a long black coat standing before it
 [loc] Arklay Estate, the library — 31 December 2039, 11:58 p.m.

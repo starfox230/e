@@ -40,6 +40,18 @@ SYSTEM: I do not have that function. I am noting that you have again declined to
 WESKER: (cold) Say it plainly.
 SYSTEM: (flat) You are paid for consequence. Nobody else has ever believed me.
 
+[music] m_lo -10
+[img] a coastal town at night with every window lit, power lines, calm sea
+[loc] The world — 2046 to 2049
+N: The narrator will give you four consequences of cheap electricity, because the panel says *industry absorbed* and an industry is not what changed.
+N: In Bihar, a village of eleven hundred people that had been promised a grid connection in nine consecutive election cycles got one in 2047 from an Umbrella substation forty kilometres away, and the first thing the village bought, collectively, was not a television. It was a cold store, and the cold store meant that the vegetables stopped rotting on the way to market, and the income of every household in that village rose by about forty per cent in four years.
+N: In Lagos, the generator business — which had employed nine hundred thousand people across the country and had been the fourth largest sector in the economy — collapsed in six years, and a generation of technicians who had kept a nation running on diesel found themselves obsolete at forty-one, and the Directorate's retraining programme reached about a third of them and was, by its own internal assessment, a failure.
+N: In a petroleum state that the narrator will not name, the sovereign fund's projections went from four hundred years of solvency to nineteen, and the government did the arithmetic in 2048 and began a transition that almost worked.
+N: And in the Atlantic, the price of desalinated water fell below the price of rainfall capture for the first time in human history, which meant that a coastline could grow food, which meant that in about thirty years there would be a city in the middle of an ocean with four hundred thousand people in it and no farmland anywhere near it.
+N: Every one of those four was foreseen. The Red Queen's 2044 modelling identified all of them, including the generator technicians, four years before the first plant came online.
+WESKER: (cold) Then we will fund the retraining.
+REDQUEEN: (soft) It will reach about a third of them, Director.
+WESKER: (very cold) Then we will fund it and it will reach a third of them, and I will not pretend afterwards that I did not know the number.
 [music] m_scheme -9
 [img] {CATHERINE} and {WESKER} in an office with a map of global power grids on the wall, night
 [loc] Umbrella Tower, Zurich — 19 November 2048

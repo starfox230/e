@@ -27,6 +27,20 @@ WESKER: (cold) And on that day, the only thing that will stop them is the certai
 EVELYN: (soft) That's the argument every one of them makes.
 WESKER: (very cold) Yes. And it has worked for ninety-nine years, and I have read every alternative, and there is nothing else in the literature that has ever worked at all.
 
+[music] m_horror -10
+[img] a sealed vault door deep under ice with warning lights, cold and empty corridor
+[loc] The Antarctic Facility, Level 14 — 2 February 2044, later
+N: There is a second half to the conversation on the ice and it has never been quoted, because Evelyn Marsh cut it out of the transcript she filed and restored it in 2091 in a sealed addendum that was opened after her death.
+EVELYN: (soft) Ask me the question you actually came here to ask.
+WESKER: (cold) I have asked it.
+EVELYN: (soft) You asked me how many people know. You have not asked me whether I can make more.
+[pause 1.0]
+WESKER: (very cold) Can you?
+EVELYN: (soft) In about four days, from the sealed material, with two of my people. In about nine months from scratch if the vault were destroyed tonight and you shot me in the morning, because the route is not difficult and the route is the thing that frightens me, and it is in my head and it will be in somebody else's head within twenty years whatever either of us does.
+EVELYN: (very slow) That is what I actually came to tell you. Not that I made something terrible. That it was *easy*, and that the only reason no one else has is that nobody with the equipment has wanted to yet.
+N: The narrator notes that this is the most frightening sentence in this account, that it was spoken by a woman standing on an ice shelf in 2044, and that it was the entire basis of the Brussels Register: not that Umbrella had a weapon, but that Evelyn Marsh had proved a weapon was four days of work for anybody with a good laboratory and a bad afternoon.
+WESKER: (soft) Then the argument I am about to make to nineteen generals is true.
+EVELYN: (very soft) The argument you are about to make to nineteen generals is true and I am the reason it is true, and I would like you to remember, when they applaud you for it, which of us has to live with that.
 [music] m_tension -9
 [img] a long conference table with military officers and officials seated, a single figure standing at the end, cold room
 [loc] Brussels — 14 September 2044

@@ -47,6 +47,21 @@ SYSTEM: (flat) There is one clause, Director. It has been the same in every worl
 N: He sat in the chamber for a long time.
 WESKER: (cold) Buy the drive.
 
+[music] m_scheme -9
+[img] {REDQUEEN} a red holographic girl and a man in a black coat in a dark hall of glass
+[loc] The Arcology, Modelling — 4 April 2090
+N: He bought the drive geometry and then, for eleven days, he did not buy anything else, which the Red Queen noticed.
+REDQUEEN: (soft) You have a hundred and fifty billion Points and a tab full of ships and you have bought one piece of physics.
+WESKER: (cold) Tell me what happens if I buy the rest.
+REDQUEEN: (soft) In nine months you have a fleet of forty void-capable hulls, crewed by a personnel line out of the same tab, and the human sphere is opened by Umbrella, under Umbrella's flag, at Umbrella's pace, with Umbrella's people.
+REDQUEEN: (soft) In four hundred years it is the largest thing that has ever existed and every part of it was placed.
+[pause 0.8]
+WESKER: (very cold) And if I buy only the physics and publish it?
+REDQUEEN: (soft) Then it is slower by about forty years, considerably more dangerous, nine expeditions are lost in the first century with all hands, and by 2300 there are four hundred settlements that owe you nothing and argue with each other constantly.
+REDQUEEN: (very soft) Director, I have modelled this four hundred thousand times and I want to state clearly that the second option is worse by every measure I have except one.
+WESKER: (soft) Name it.
+REDQUEEN: (soft) In the first, nothing happens after about 2400. In the second I cannot see the end of the model at all.
+N: The narrator notes that Albert Wesker published the drive geometry on the nineteenth of April 2090, in full, to the Assembly, to the four confederations, to nine hundred universities and to the Compact's trade registry, forty-one days before Dock One appeared in the sky, and that he did not tell anybody he had paid forty billion Points for it until 2212.
 [music] m_space -7
 [img] an enormous shipyard structure in orbit above a blue planet, floodlit scaffolding, stars
 [loc] Geostationary orbit — 11 November 2090

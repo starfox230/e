@@ -19,6 +19,17 @@ CARRICK: (slow) I am voting against, I am recording my reasons, and I am taking 
 WESKER: (soft) Noted, Director Carrick. Minute it in full.
 N: It was minuted in full. The minutes of the Umbrella Directorate were published quarterly from 2051 to 2091, unredacted, in eleven languages, and the narrator has read all of them, and that is why this account exists at all.
 
+[music] m_corporate -10
+[img] a modest town hall meeting with rows of citizens, a mayor at a table, daylight
+[loc] Sainte-Rose, the Line Islands protectorate — 11 May 2054
+N: The narrator will show you how a protectorate actually worked, because nineteen of them is a number and one of them is a town hall.
+N: Under the Treaty of Association, Umbrella provided the power, the water, the hospital and the coastal defence, and had no vote in anything. The Republic's parliament set its own laws. The Directorate's representative — a released Absolute named Marguerite Okoye who had been the receptionist in a lobby in Wilmington in 2026 and had been through the second cohort in 2082 — attended council meetings and was not permitted to speak unless asked a question.
+N: She was asked a question, on average, once every four meetings, and her instructions from Wilmington were four lines long and had not changed since 2046.
+MARGUERITE: (slow) I am to answer what I am asked, truthfully and completely. I am not to offer an opinion. I am not to indicate what the Directorate would prefer. If asked what the Directorate would prefer, I am to say that the Directorate has no preference, and if that is untrue I am to say that I am not permitted to answer.
+N: In May of 2054 the council voted, nine to four, to refuse an Umbrella proposal to expand the desalination plant, on the grounds that the expansion would support a resort development that the island did not want.
+N: Wilmington's response, by return, was one line: *Noted; the plant will not be expanded.*
+N: The resort was never built. Four hundred jobs were not created. The island's population fell by eleven per cent over the following twenty years and the council has voted four more times on the same question and refused it four more times, and the plant is still the size it was in 2046.
+N: The narrator considers this the single most persuasive fact in Umbrella's favour in two hundred and sixty years, and notes that it appears in none of the contemporary journalism, because a plant that was not built is not a story.
 [music] m_scheme -9
 [img] a map of the world on a screen with a scattering of highlighted territories, a dark room
 [loc] The Arcology — 2051 to 2058

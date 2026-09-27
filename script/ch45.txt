@@ -60,6 +60,20 @@ EVELYN: (slow) Every species it has consumed is preserved in it, in full, and no
 EVELYN: (slow) It has been carrying eleven hundred civilisations for nine hundred thousand years the way a glacier carries a rock.
 EVELYN: (very slow) I have spent my life making things that do not die. This is what that looks like when nobody is home.
 
+[music] m_tension -10
+[img] a cramped military briefing room aboard a ship, eleven people in flight suits around a table
+[loc] The frontier, assault carrier Kalu — 2 November 2210
+N: The narrator would like one scene from the nine years, and it is not a battle.
+N: Lieutenant Adaeze Adeyemi-Vance was twenty-nine years old and had eleven people under her, one of whom was two hundred and eighty-four and had founded the company that made her ship, her suit, the medicine in her blood and the city her mother was born in.
+N: Her pre-mission briefings are on the record because everything on a carrier is.
+SOLDIER: (radio) — and Wesker, you're on the left-hand breach with Oyelaran. Not the right.
+WESKER: (cold) The right-hand approach is eleven metres shorter and the mass density reading suggests —
+SOLDIER: (radio) The mass density reading is four hours old and I've got a fresher one that says there's a plenum behind that wall. Left-hand breach.
+[pause 0.6]
+WESKER: (soft) Left-hand breach, Lieutenant.
+N: The Red Queen's log — she logged the boarding actions in full, at his own request, from 2202 — records that he said *Lieutenant* eleven hundred and forty-one times in nine years, that he was overruled by her on four occasions of tactical substance, that she was right on all four, and that on the last of them the plenum behind the right-hand wall killed two of her people and would have killed four if he had been where he wanted to be.
+N: Adaeze Adeyemi-Vance retired as a commodore in 2241 and never once gave an interview about him. Asked, in 2249, by a historian who had tracked her down on a colony world, what he had been like to command, she gave an answer of eleven words that is the epigraph of four hundred books.
+SOLDIER: (slow) He did what he was told, faster than anyone, and never sulked.
 [music] m_lo -9
 [img] {WESKER} sitting alone in a dim ship compartment, helmet beside him, exhausted, stars through a port
 [loc] The frontier, hospital ship Ochoa — 11 November 2210
