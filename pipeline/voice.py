@@ -17,8 +17,8 @@ VERSION = 'v4'   # asterisk stripping, new pronunciation table, Piper support
 # speaker -> (kokoro voice, speed, fx preset, level offset dB)
 VOICES = {
     'N':         ('am_michael', 0.94, 'narrator', 0.0),
-    'WESKER':    ('piper:ryan', 0.88, 'wesker', 0.0),
-    'ADOLF':     ('piper:alan', 0.84, 'adolf', -1.5),
+    'WESKER':    ('piper:lessac', 0.64, 'wesker', 0.0),
+    'ADOLF':     ('piper:alan', 0.72, 'adolf', -1.5),
     'SYSTEM':    ('af_nicole', 0.98, 'system', -1.0),
     'COUNCILLOR': ('am_liam*0.5+am_adam*0.5', 0.97, 'dialog', 0.0),
     'REISS':     ('am_puck*0.5+am_adam*0.5', 0.95, 'dialog', 0.0),
@@ -156,23 +156,38 @@ def piper(name):
     return _piper[name]
 
 
-def piper_say(name, text, speed=1.0):
-    """Mono float32 at this module's sample rate."""
+def piper_say(name, text, speed=1.0, sentence_pause=0.30, clause_pause=0.10):
+    """Mono float32 at this module's sample rate.
+
+    Piper renders a whole paragraph at one pace with no breath in it, which is why its lines
+    came out a third faster than Kokoro's narration even at the same nominal speed. Sentences
+    are synthesised separately and rejoined with a pause, the way Kokoro does it internally,
+    so a character's delivery breathes instead of running on.
+    """
     import io
     import wave
     v = piper(name)
-    buf = io.BytesIO()
-    with wave.open(buf, 'wb') as w:
-        try:
-            from piper import SynthesisConfig
-            v.synthesize_wav(text, w, syn_config=SynthesisConfig(length_scale=1.0 / speed))
-        except Exception:
-            v.synthesize_wav(text, w)
-    buf.seek(0)
-    a, sr = sf.read(buf, dtype='float32')
-    if a.ndim > 1:
-        a = a.mean(axis=1)
-    return (signal.resample_poly(a, SR, sr) if sr != SR else a).astype(np.float32), SR
+    try:
+        from piper import SynthesisConfig
+        cfg = SynthesisConfig(length_scale=1.0 / speed)
+    except Exception:
+        cfg = None
+    parts = [p for p in re.split(r'(?<=[.!?])\s+', text.strip()) if p]
+    out = []
+    for k, part in enumerate(parts):
+        buf = io.BytesIO()
+        with wave.open(buf, 'wb') as w:
+            v.synthesize_wav(part, w, syn_config=cfg) if cfg else v.synthesize_wav(part, w)
+        buf.seek(0)
+        a, sr = sf.read(buf, dtype='float32')
+        if a.ndim > 1:
+            a = a.mean(axis=1)
+        a = (signal.resample_poly(a, SR, sr) if sr != SR else a).astype(np.float32)
+        out.append(a)
+        if k < len(parts) - 1:
+            gap = sentence_pause if part.endswith(('.', '!', '?')) else clause_pause
+            out.append(np.zeros(int(gap * SR), dtype=np.float32))
+    return (np.concatenate(out) if out else np.zeros(1, dtype=np.float32)), SR
 
 
 def kokoro():
