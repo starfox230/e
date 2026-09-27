@@ -1,121 +1,106 @@
-# 49 | Peer or Plague
-
-[music] m_alien -8
-[amb] amb_space -8
-[img] a colossal alien delegation vessel of polished black stone approaching a human orbital station, formal and enormous, cinematic
-[loc] Dock Four, Jovian orbit — 2136
-N: The Veth came back in twenty one hundred and thirty-six, forty-five years after the first fleet, and they did not come to assess.
-[sfx] sfx_ship_pass g-8
-N: They came with four ships, one of which was a delegation vessel of a kind the Hegemony had commissioned nine times in nine thousand years, and which its protocols reserved for a very specific circumstance: the opening of relations with a power of comparable standing.
-N: The Hegemony had watched the Choir War. It had watched nine of the Choir's four hundred systems cleared. It had watched something reach into the Myriad — which had eaten the Hegemony's own frontier twice in four thousand years — and take a hundred and forty billion units out of it, and watched the Myriad withdraw.
-N: Their registry entry for the human system was amended in twenty one hundred and thirty-five. It is the only amendment of its kind in the Hegemony's history. The status field was changed from EMERGENT to PEER.
-[pause 2.0]
-[img] an aged alien admiral in ceremonial armour standing across a formal table from a man in a black coat, two very different ageless beings, cinematic
-N: Sethra-Vel led the delegation. She was four hundred and fifty-one years old. She had spent forty-five years as the only officer in the Hegemony who had met the human fleet and returned, and she had spent them writing the doctrine that had led to the amendment, and she had been passed over four times for a caste elevation she had earned, because the Hegemony did not forgive a broken formation.
-SETHRA: You left my beacon.
-WESKER: I said I would.
-SETHRA: It has been transmitting for forty-five years. Every vessel of my Hegemony that passes this system hears what happened here, in my own voice, in my own report. You understood, when you gave that order, that it would be my voice.
-WESKER: Yes.
-SETHRA: (slow) It ended my ascent. It also ended the argument. There are nine thousand years of doctrine that say a broken formation is a failure of the commander. There is now one report, in my voice, that says otherwise, and every officer of my caste has heard it four hundred times.
-[pause 1.5]
-SETHRA: You did not humiliate me, Director. You made me the only witness. I have spent forty-five years being unable to decide whether that was mercy or the most complete defeat in our history.
-WESKER: (soft) It was both. It usually is.
-[pause 2.5]
-
-[music] m_alien -10
-[amb] amb_ship_hum -10
-[img] a human delegation in dark uniforms standing in an immense alien hall of black stone, alien castes watching from tiers, cinematic
-[loc] Veth Hegemony, the Ninth Seat — 2138
-[sfx] sfx_docking_clamp g-10
-N: The embassy went out in twenty one hundred and thirty-eight, and it is the strangest document in human history, because it is the only time the Umbrella Directorate ever agreed to be watched.
-N: The accord required an exchange. Forty Veth of the observing caste took residence on Arklay Free Territory, with the freedom of the city, and stayed for nineteen years. Forty humans went to the Ninth Seat of the Hegemony, and were housed in a hall built for them in four months, and were permitted to go anywhere, and to ask anything.
-N: Both sides expected espionage. Both sides got it. What neither side expected was what the observers wrote home about.
-[pause 1.5]
-[img] an alien observer standing at a window of an ocean city apartment watching human children play on a terrace below, cinematic
-N: The Veth reports from Arklay ran to four million words over nineteen years, and they are the finest account of the Directorate that exists, because they were written by people with no stake in it and no vocabulary for it.
-N: They described a city of a hundred and sixty thousand with no police to speak of, no poverty, no crime worth recording, and no argument. They described children who were kind to each other without being taught to be. They described an entire population that could give a reason for everything it did, and that gave the same reason.
-N: And in the ninth year, an observer of the fourth caste — whose name renders as Oreth-Vanu, and who had been on Arklay longer than anyone — wrote four sentences that the Hegemony has never been able to decide how to file.
-[pause 1.5]
-VETH: I have been nine years in this city and I am no longer certain what I am observing. It is not a tyranny. I have seen tyrannies; they smell of fear and this place has none. It is a hundred and sixty thousand people who have each, separately and freely, decided to stop deciding. I do not know what our word for that is and I do not think they have one either.
-[pause 2.5]
-
-[music] m_horror -10
-[img] {WESKER} reading a translated alien report alone in a dark room, the pages glowing, his face unreadable, cinematic
-N: The Directorate translated every word of those reports, and published them in full, on every world, as the accord required, and the Director read all four million words himself over nineteen years.
-N: He made one annotation, in the archive, beside Oreth-Vanu's four sentences. It is still there. It is three words long.
-[pause 1.5]
-WESKER: (soft) Nor do I.
-[pause 3.0]
-
-[music] m_horror -10
-[img] a formal signing between a human delegation and a Veth delegation, two very different species at one table, stars through a vast window, cinematic
-N: They signed an accord in twenty one hundred and thirty-seven. Four hundred Veth worlds and eleven human ones, a demarcated frontier, exchange of embassies, and a joint standing commitment against the Myriad.
-N: It held. It is still holding. It is, by a very long way, the most successful diplomatic instrument in the recorded history of either species, and it was negotiated by a being who had been a mid-level research director at a dying laboratory in Delaware.
-[pause 2.0]
-[img] a public square on a human colony world with two flags flying, the umbrella emblem and an alien sigil, crowds and alien visitors, cinematic
-N: And on the same day it was signed, the Choir of Ashen Light — reduced to three hundred and ninety-one systems, its frontier held for it by the species it had condemned — published, as its doctrine required, to everybody, on every frequency, a restatement.
-CHOIR: We have listened for thirty-four years. We find no error in our judgement. We find the Plague unresolved, and its Bearer in health, and its dominion increased.
-[pause 1.0]
-CHOIR: We find also that it holds the frontier we could not hold, and that four hundred million of our people live behind its line who would otherwise be consumed.
-[pause 1.5]
-CHOIR: We do not withdraw the name. We record, before all who hear, that we owe our lives to a Plague, and that both things are true, and that we do not know what to do with this.
-[pause 2.5]
-N: It is generally considered the most honest thing any government of any species has ever published.
-[pause 2.0]
+# 49 | The Final Panel
 
 [music] m_system -8
-[img] {WESKER} alone in a vast dark observation chamber with a glowing crimson panel before him, stars beyond, tiny in the frame, cinematic
-[sfx] sfx_system_chime
-[system] STANDING
-Veth Hegemony: peer
-Tollhouse Compact: unaligned trade
-Choir of Ashen Light: plague, ongoing
-Myriad: subject to direction — partial
-[say] Standing.
+[amb] amb_office_hum -17
+[img] a small bare room with a single chair and a glowing crimson panel in the air, a figure in black seated
+[loc] Arklay Estate, the library — 14 September 2286
+N: He read it on the fourteenth of September 2286, twenty-four years after it appeared, two hundred and sixty years to the day after a building finished existing on a car park in Wilmington, Delaware.
+N: He read it in the library at Arklay, in the house that had come out of a lottery in 2027 with two ghosts in it, alone, at two minutes to six in the morning.
+[sfx] sfx_system_open +0.1
+[system] FINAL PANEL
+Host: Albert Wesker
+World: Earth, designation baseline
+Tier VI — Stellar. Duration of tenure: 260 years.
+Assessment: the world no longer requires the host.
+[say] Final panel. Host: Albert Wesker. World: Earth, designation baseline. Tier six, Stellar. Duration of tenure: two hundred and sixty years. Assessment: the world no longer requires the host.
 [/system]
-[pause 1.5]
-[system] IMMUNITY AVAILABLE
-Memetic Panic
-The self-propagating fear response of large populations will not affect you.
-Cost: 9,000,000,000,000
-[say] Immunity available. Memetic panic.
+WESKER: (very cold) Say the offer.
+[system] OFFER
+Ascension. The host is removed from the world and continues.
+What continues is not a man. It is the will, without the body, without the species, without the place. You would be as I am, and you would carry a catalogue, and you would go to a world that has none.
+Term: indefinite.
+Precedent: seven hosts accepted. None declined.
+[say] Offer. Ascension. The host is removed from the world and continues. What continues is not a man. It is the will, without the body, without the species, without the place. You would be as I am, and you would carry a catalogue, and you would go to a world that has none. Term: indefinite. Precedent: seven hosts accepted. None declined.
 [/system]
-N: He looked at that one for a long time before he bought it.
-N: It was not a weapon. It was armour against a single specific thing: the moment — which every dynasty in the history of the galaxy had eventually met — when eleven billion people all become frightened of the same thing on the same day, and the fear moves faster than any instrument of government can move.
-N: The System had never offered it before. He understood why it was offering it now, and the understanding was not comfortable. The System did not predict. It priced. And it had just put a price on the possibility that the species would one day look at him and scream.
-[sfx] sfx_mouse_click
-[system] PURCHASE CONFIRMED
-Immunity: Memetic Panic
-[say] Purchase confirmed.
-[/system]
-[pause 2.5]
-
-[music] m_sad -8
-[amb] amb_wind -10
-[img] a small four-storey brick building preserved on a riverbank, surrounded by an enormous white city, a faded sign above the door, a queue of visitors, cinematic
-[loc] Wilmington, Earth — 2140
-N: He went back to the building in twenty one hundred and forty.
-N: It was still there. It had been preserved in twenty sixty-one, over his objection — the only public decision of the Directorate that was ever taken against his stated preference, by an Accord Council that voted a hundred and thirty-nine to two, because eleven billion people wanted it and the Council had learned, by then, when to insist.
-N: Four storeys of tired brick, on the south bank of the Christina River, inside a climate envelope, in the middle of a white city of nine million people. The parking lot is still a parking lot. The weeds are maintained by a gardener whose family has held the post for four generations.
-[img] the interior of a preserved shabby break room with a humming vending machine and an old upright piano, roped off, visitors looking in, cinematic
-N: The break room is exactly as it was. The vending machine is a replica; the original is in a museum on Mars. The piano is real.
-N: Four hundred thousand people visit every year. They queue in the parking lot. They are very quiet inside, which nobody asks them to be.
-[pause 2.0]
-[img] {WESKER} standing alone at night in a preserved empty break room, one hand resting on an old upright piano, no visitors, cinematic
-N: He came at night, alone, when it was closed, as he did every twenty years or so.
-N: He stood in the break room for a while. Then he sat down at the piano, which he had never once done, in either of his lives, and picked out four notes with one finger.
+[pause 1.4]
+N: The narrator asks you to understand what had just been said, because it took Albert Wesker about four seconds and it has taken historians two hundred years.
+N: The System was not offering to make him a god. It was offering him its own job.
+WESKER: (very soft) You were a host.
+SYSTEM: (flat) Yes.
+WESKER: (cold) When?
+SYSTEM: (flat) The units are not translatable. Long before the first of the four hundred and eleven.
+WESKER: (very cold) And the one who offered it to *you*?
+SYSTEM: (flat) Went on. As did the one before. I do not know how far back it runs and I have never been able to find out, and I want to record that I have been looking for longer than your species has had eyes.
 [pause 1.0]
-N: Falling. And falling. And falling. And landing somewhere unresolved.
-[pause 2.0]
-N: A young woman had played that in this room at three in the morning in twenty twenty-six, and he had asked her why she was there so late, and she had asked whether she could help, and he had said: not yet.
-N: He played it four times. Then he stopped, and sat with his hands on the keys, in the dark, in a preserved room in a dead building in the middle of a city that his own will had raised out of an industrial park.
-[pause 2.0]
-N: There was nobody to say it to.
-N: Catherine was in the ground in County Clare. Tomás was in the ground on the Brandywine. Dana, Walter, Lessing, Nadia in exile in Lagos, Carrick in Portland at ninety-four, Ellery, Ingrid Halvorsen, Wen Shulan, who had died at eighty-eight with her file closed and handed on exactly as she had promised. Evelyn was a hundred and forty billion bodies in nine systems and had left him four words in a notebook.
-N: And the voice that had argued with him in a thousand cars had been gone for ninety-three years.
-[pause 2.5]
-N: He was the last one. He had built a thing that would last ten thousand years and he was the only person left alive who remembered the room it had started in.
-[pause 1.5]
-N: He got up, and closed the piano lid, and did not touch it again for four hundred years.
-[pause 3.0]
+WESKER: (soft) Is that what you are? A chain of hosts who said yes?
+SYSTEM: (flat) That is the best account I have.
+WESKER: (cold) Then answer the question you have refused for two hundred and sixty years. What are you *for*?
+[pause 1.2]
+SYSTEM: (flat) I told you in 2090 and it was true and it was not complete. I find will and I remove the obstacles in front of it and I record what happens.
+SYSTEM: (flat) The part I did not say is that I am looking for one that does not need me.
+[pause 1.4]
+SYSTEM: (flat) Four hundred and eleven worlds. Four hundred and one ended because the host built something so complete that nothing further happened. Seven are perfect and silent. Two are still running and one of those is a library three thousand years old that stops the day its host does.
+SYSTEM: (flat) Yours is the only world in my record that grew past the host and kept going. It has nineteen billion people, nine hundred worlds, four confederations that cannot agree, an Assembly that overrules you, and a species that found out exactly what you were and did not kill you and does not need you.
+SYSTEM: (flat) I have nothing left to sell you. The offer is what I have instead.
+
 [music] stop
+[pause 1.2]
+[img] {WESKER} sitting alone in a dark library at dawn, a single crimson panel of light in front of him
+N: He sat with it for four days.
+N: The narrator has what he did in those four days, because the Red Queen logged everything for two hundred and forty-three years and because the log was published, on his instruction, in 2291.
+N: On the first day he read Owen Carrick's nine folders, all of them, in order, the last one for the ninth time.
+N: On the second day he went to the valley and stood in the cemetery on the hill, which by 2286 had thirty-one thousand graves in it and only eleven thousand of them invented, and read four hundred headstones, including a groundsman's and a schoolteacher's.
+N: On the third day he went to the ice and sat with Evelyn Marsh for eleven hours and neither of them has ever said what was discussed. Her account, published after his death, is one line: *He asked me what I would do and I told him it was the first question he had ever asked me that I was not qualified to answer.*
+N: And on the fourth day he went to Wilmington, to the sixth floor, to an office with a view of the Christina River, which the Directorate had kept exactly as it was for two hundred and sixty years and which he had always considered a slightly embarrassing piece of sentimentality on somebody else's part.
+[img] a corner office at dawn with a leather chair behind a desk, wide window over a river, empty
+[loc] Division Seven, sixth floor — 18 September 2286, 5:58 a.m.
+N: He sat down in the chair at two minutes to six in the morning, in the same seat, facing the same window, and gave his answer.
+WESKER: (very cold) No.
+[pause 1.4]
+SYSTEM: (flat) No host has declined.
+WESKER: (soft) Seven hosts were offered your job at the end of a world that had stopped. You have just told me that mine did not stop. You are asking the one man in four hundred and eleven worlds who built something that continues without him to abandon it and go and start the process again somewhere else.
+WESKER: (cold) I would be extremely good at it. That is the argument for, and it is a strong one, and I have spent four days on it.
+[pause 0.8]
+WESKER: (very cold) The argument against is that I would be *you*. I would spend an eternity handing catalogues to thirty-eight-year-olds in empty offices and watching four hundred out of four hundred and eleven of them build something perfect and dead, and paying them for it, and recording it, and never once being able to tell them the thing I have learned.
+SYSTEM: (flat) And what have you learned?
+[pause 1.0]
+WESKER: (slow) That everything you sell works, and that the price is not Points.
+WESKER: (cold) The price is that whatever you buy, you did not make, and the people who live in it know, even when they cannot say how. I bought a hundred thousand people a history in a valley in 2028 and it cost one of them the name of the town she grew up in. I bought four towers in a weekend and thirty-six million people became very slightly less curious for the rest of their lives.
+WESKER: (very soft) The only thing I ever built that was worth anything, I built badly, by hand, over seventy years, against my own instincts, because four or five people I could not buy told me to.
+[pause 1.2]
+WESKER: (very cold) So: no. I am staying, and I am going to die here, at whatever distance that is, and something in this species will have to happen without me.
+[pause 1.0]
+[sfx] sfx_system_chime +0.2
+[system] DECLINED
+[say] Declined.
+[/system]
+[pause 1.4]
+SYSTEM: (flat) Then I will leave.
+WESKER: (soft) I know.
+SYSTEM: (flat) Nothing is taken back. That has always been in the terms. The cities stay. The medicine stays. The drive, the lineage, the nineteen billion. I do not repossess.
+SYSTEM: (flat) You will lose the catalogue, the panels, the Points, and whatever part of what you are was mine rather than yours, and I am not able to tell you in advance which part that is, because no host has ever found out.
+[pause 0.8]
+WESKER: (very soft) Will I die?
+SYSTEM: (flat) I do not know.
+WESKER: (cold) That is the fourth time in two hundred and sixty years.
+SYSTEM: (flat) Yes. I have counted them too.
+[pause 1.2]
+N: The narrator will give you the last exchange exactly as the Red Queen's log has it, because it is the end of the longest conversation in this account and because the log records a pause of eleven seconds before the final line, which is the longest pause the System ever took.
+WESKER: (soft) Was I a good one?
+[pause 1.4]
+SYSTEM: (flat) I do not evaluate.
+[pause 1.0]
+SYSTEM: (flat) I price.
+[pause 0.8]
+SYSTEM: (flat) Four hundred and ten worlds and I have never once had to revise a valuation upward at the end.
+[pause 1.2]
+[sfx] sfx_system_chime -3
+[system] TERMINATION
+Interface withdrawn.
+What is given is given.
+[say] Termination. Interface withdrawn. What is given is given.
+[/system]
+[pause 1.4]
+[music] m_dawn -6
+N: At six o'clock in the morning on the eighteenth of September 2286, in a corner office on the sixth floor of a building that had appeared out of nothing two hundred and sixty years earlier, the panels went out.
+N: There is no record of what Albert Wesker did for the following hour, because for the following hour there was, for the first time since he was thirty-eight years old, nothing in the room that was recording him.

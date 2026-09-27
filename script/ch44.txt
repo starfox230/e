@@ -1,189 +1,82 @@
-# 44 | The Tollhouse
+# 44 | The Choir of Ashen Light
 
-[music] m_sad -10
-[amb] amb_wind -12
-[img] an old stone house on a green hillside above the sea in winter, smoke from a chimney, one car in the lane, cinematic
-[loc] County Clare, Ireland — 2073
-N: Catherine Adeyemi refused the therapy in twenty forty-nine, and again in fifty-four, and again in sixty-one, and the last time they discussed it she was seventy-three and she put her hand on his arm, which she had never done in twenty-two years, and said: Albert, I would like to be finished.
-N: She retired in twenty sixty-two, at seventy-four, after thirty-five years as chief financial officer. She was the last of them. Dana Whitfield had died in twenty forty-four. Tomás Reyes had taken the therapy and then, in twenty fifty-eight, at sixty, had stopped taking it, quietly, without telling anyone, and had lived four more years and died in a house on the Brandywine with the sound off.
-N: She bought a house in County Clare, on a hillside above the Atlantic, four hundred miles from the nearest Umbrella facility, and she read, and she walked, and for the first time in her adult life she was bored, and she found that she liked it.
-[pause 2.0]
-[img] {CATHERINE} very old, white-haired, sitting in an armchair by a window looking at the sea, a blanket over her knees, cinematic
-N: He came every year. Not on a schedule; she would not have tolerated a schedule. He would simply be there, in the lane, in a long black coat, on some afternoon in the autumn, and she would put the kettle on and complain about the drive, and they would sit by the window and argue for four hours about something that no longer mattered.
-N: In twenty seventy-three she was eighty-five and dying of an ordinary thing that could have been fixed in an afternoon by a medicine her own company made.
-[pause 1.5]
-[img] {WESKER} sitting in a small chair beside an old woman's bed in a room full of afternoon light, looking out of place and entirely still, cinematic
-CATHERINE: Don't say it.
-WESKER: I haven't said anything.
-CATHERINE: You're about to. You're going to tell me there's an infusion, and that it would take an hour, and that I'd have another forty years.
-WESKER: Sixty.
-CATHERINE: (soft) Sixty. God.
-[pause 2.0]
-N: She was quiet for a while. The light moved on the wall.
-CATHERINE: Do you know why not?
-WESKER: Tell me. I've had forty years to guess and I've never been sure.
-[pause 1.5]
-CATHERINE: Because everyone who takes it belongs to you. Not because you make them. Because they know who made it, and because they'd have died without it, and after a while that gets into the floor of a person and they stop being able to tell where you end and they begin.
-CATHERINE: I've watched it happen to eleven billion people. I watched it happen to Owen Carrick, who spent sixteen years trying to put you in prison and took it in twenty forty-one like everyone else.
+[music] m_alien -7
+[amb] amb_space -14
+[img] an enormous cathedral-like alien vessel of pale stone and light hanging in space, radiant, ominous
+[loc] The human sphere — 2159
+N: The Choir of Ashen Light does not annex. It does not trade, and it does not negotiate, and it has never in eleven thousand years told a lie.
+N: It is a theocracy of four species that hears the universe as a single ongoing composition — the physical record calls it a resonance cosmology and the human record has never done better than *they hear it and we do not* — and its entire moral system rests on one proposition: that everything which exists is a note, that notes may be held or released, and that some things are *not notes at all* but noise, and that noise must be ended so that the piece may continue.
+N: In eleven thousand years the Choir has declared four species noise. Three are gone. The fourth is the Myriad, and the Choir has been trying since before Earth had an atmosphere with oxygen in it.
+N: In 2159 it declared humanity the fifth, and it did so publicly, with an explanation, on every human channel simultaneously, as its doctrine requires.
+[img] a radiant robed alien hierarch with many glowing eyes, speaking, pale light, cathedral interior
+CHOIR: (slow) You have ended death in your own bodies and you have not asked what death was for. You have made a lineage that does not resolve. You have taken a drive you did not derive and a medicine you did not earn, and you have given both to anyone who asked, without knowing what you were handing out.
+CHOIR: (slow) These are not crimes. We do not accuse. A landslide commits no crime.
+CHOIR: (very slow) You are a species that has been *given* everything and has therefore learned nothing, and you are propagating at a rate that will place you in nine thousand systems within four hundred years, and there is no note in you. We have listened for fifty-six years. We are very good at listening. There is nothing there.
+CHOIR: (slow) You will be ended. It will take approximately ninety years. It will not be cruel. We will begin at your edges and you will have time to understand, because understanding is owed even to noise.
+N: The narrator notes that this broadcast was received on four hundred and eleven worlds, that it was accurate in every particular, and that it is the single most damaging thing anyone has ever said about the human species — not because it was hostile, but because eleven billion people read it and a great many of them recognised themselves.
+
+[music] m_horror -9
+[img] a crowded human assembly hall at night, delegates arguing, screens showing the alien broadcast
+[loc] The Human Assembly — 2159 to 2166
+N: The Assembly debated it for seven years.
+N: The narrator will not give you the seven years. He will give you the thing that made them unbearable, which is that the Choir was not wrong.
+N: Everything humanity had, it had been handed. The drive came out of a catalogue in a panel that one man could see. The medicine came out of a vial that a technician who never existed had labelled *odd* in 2004. The lineage came out of a woman putting a cannula in her own arm at twenty to three in the morning. The cities in the ocean, the plants in the valley, the towers on four skylines, the hundred thousand people in Raccoon City with grandparents in a cemetery — all of it placed, given, delivered finished.
+N: And the argument that ran through four hundred worlds for seven years was not *how do we fight them*. It was: *are they right?*
+N: Albert Wesker was one hundred and thirty-three years old. He gave evidence to the Assembly once, in 2161, for four hours, and refused to be called again.
+[img] {WESKER} standing alone on a debating floor, delegates tiered above him, cold formal light
+WESKER: (slow) They are right about me.
+WESKER: (cold) Everything the Choir described is an accurate description of Albert Wesker. I was given a catalogue at the age of thirty-eight in an empty office and I have spent a hundred and thirty-three years spending it, and I did not derive one single thing I have handed out, and I have never once been able to answer the question of what the counterparty wanted.
+[pause 0.8]
+WESKER: (very cold) They are wrong about you, and I am going to tell you why, and then I am going to sit down and this Assembly is going to decide without me, as it has decided everything since 2119.
+WESKER: (slow) The Choir listened to this species for fifty-six years and found no note in it. I have listened to it for a hundred and thirty-three and I can tell you exactly where they were looking, because I made the same error for the first sixty.
+WESKER: (cold) They listened to what we *have*. Of course there is nothing there; it was all handed to us, by me, out of a box. If a species is the sum of its possessions then this one is a warehouse.
+WESKER: (very slow) They did not listen to the argument.
 [pause 1.0]
-CATHERINE: I'm the last person alive who remembers what you looked like when you were small enough to be stopped. I'd like to take that with me.
-[pause 2.5]
-N: He did not argue. That was the thing she noticed, and thought about that night when she could not sleep, and never got to ask him about.
-N: In twenty twenty-eight, in a glass office in Manhattan, he would have argued. He would have found the four sentences that turned her, because he could always find them, and she would have taken the infusion and been grateful.
-N: He sat in a small chair in a small room in Ireland and let an eighty-five-year-old woman tell him that she was dying in order to not belong to him, and he did not say one word to stop her.
-[pause 2.0]
-CATHERINE: (soft) Can I ask you something? The real one. The one I've never asked.
-WESKER: Yes.
-CATHERINE: In twenty twenty-eight you told me there was a facility under the old building. You told me it was legal the way the Manhattan Project was legal. I asked you if anyone was being hurt and you said no, and it was true, and I've thought about that answer for forty-five years.
+WESKER: (slow) For forty years this species has done nothing but argue. It argued about whether it was entitled to the medicine it was already taking. It argued for seven years about whether to submit to the Veth and answered them in four hundred different voices and won. There is an assembly on this platform that has ruled against my organisation nineteen times and been obeyed nineteen times. There is a woman on Ochoa who built a colony and then resigned because she thought the builder should never govern it.
+WESKER: (cold) None of that was given to anybody. Every part of it was made, slowly, badly, by people who had every material reason not to bother, against the wishes of the most powerful individual who has ever lived — and I want this Assembly to understand that I mean that literally, because I fought most of it and lost.
+[pause 0.6]
+WESKER: (very cold) That is the note. It is not in our possessions. It is in the fact that we are the only species in nine hundred light years that has spent forty years shouting at the thing that fed it.
+N: The Assembly's answer to the Choir was drafted by a committee of nineteen, went through four hundred amendments, and was transmitted in 2166. It is eleven words long and it was written by a schoolteacher from Raccoon City who was two hundred and nine years old.
+WOMAN: (slow) *Come and listen again. We have been busy since you started.*
+
+[music] m_action -8
+[img] alien cathedral ships advancing through space towards distant human colonies, cold radiant light
+[loc] The edge of the human sphere — 2167 to 2181
+N: The Choir came anyway. Doctrine is doctrine.
+N: The narrator will describe the war of the edges in one page, because it is the only shooting war in this account and because Albert Wesker did not command it.
+N: It was fought by the Assembly's defence council, under a doctrine written in 2144 by a committee, and executed by admirals who had been colonial engineers. It lasted fourteen years. It was fought at the edges, as the Choir had promised, and the Choir kept every single one of its undertakings, because it has never in eleven thousand years told a lie.
+N: Human losses: four hundred and eleven thousand dead at nine settlements, all of them evacuated too slowly, none of them targeted after evacuation was complete.
+N: The Choir stopped four times in fourteen years, unilaterally, each time for about nine months, each time while it *listened again* — which is in its doctrine, which no other species had ever survived long enough to trigger, and which it had not performed in eleven thousand years.
+N: And in 2181, at a system with no name at the edge of the sphere, a Choir hierarch stood in a human assembly hall that had been built out of a cargo module, in front of four hundred delegates from nine worlds who had been arguing about evacuation quotas for six days, and listened to them do it for eleven hours.
+[img] a radiant robed alien standing silently at the back of a crowded makeshift human assembly hall
 [pause 1.0]
-CATHERINE: If I had asked you the same question in twenty thirty-six — after Pale Horse — what would you have said?
-[pause 2.5]
-N: He looked out of the window at the sea for a long time.
-WESKER: I'd have said no.
-CATHERINE: (whisper) And it would have been a lie.
-WESKER: Yes.
-[pause 1.5]
-CATHERINE: Thank you.
-[pause 2.0]
-N: She died four days later, in the afternoon, in the chair by the window, with a book she had read four times.
-N: She had eleven billion dollars, and no children, and a will of four pages that left almost all of it to an endowment for the audit of public institutions, in perpetuity, with a clause — drafted by her, and by the finest legal minds money could buy, and upheld in every jurisdiction it was ever tested in — that no entity controlled by or affiliated with Umbrella Life Sciences, or its successors, could ever sit on its board, receive its funds, or see its accounts.
-N: It is still operating. It has audited the Directorate nineteen times. It has never once been permitted to finish.
-[pause 2.5]
-[img] a plain headstone on a windy Irish hillside above the sea, fresh flowers, grey sky, cinematic
-N: He came to the funeral. There were fourteen people. Nobody there had any idea who he was, which he had arranged, and which was the last favour he ever did for her.
-[pause 1.5]
-N: He flew back to Arklay that night. He had buried the last person alive who had known him before the emblem went up on the tower, and he had, so far as he could see, centuries of administration in front of him, and nothing in the sky that he had not already priced.
-N: That lasted eleven months.
-[pause 3.0]
+CHOIR: (very slow) We were mistaken.
+CHOIR: (slow) There is a note. It is not where any of our doctrine instructed us to listen, and it is not in anything you hold, and it is not in any of your works. It is in the disagreement, which does not resolve, and which we had classified as disorder for eleven thousand years.
+CHOIR: (very slow) We have ended three species. We will now go and be quiet for a very long time, and consider what we have done, and we ask nothing of you, because we are not entitled to ask.
+N: The Choir of Ashen Light withdrew from the human sphere in 2181 and has not been heard from since. Its last transmission was the eleven-word answer of 2166, repeated once, which the Compact's xenologists believe was an apology and which nobody has ever been able to confirm.
 
-[music] m_alien -8
-[amb] amb_space -8
-[img] a vast dark wedge-shaped human warship coasting through deep space far from any star, stars unmoving, utter silence, cinematic
-[loc] 2074 — 41 astronomical units from the Sun
-N: The thing that had been working out there came into the solar system in the autumn of twenty seventy-four, and it did not come quietly, and it did not come alone.
-N: There were nine of them. They crossed the heliopause at a velocity that the Directorate's astronomers spent four days refusing to publish, because publishing it would have meant admitting that the objects had decelerated from a substantial fraction of light speed without radiating the energy that such a deceleration requires.
-N: They took up a formation at forty-one astronomical units, beyond the orbit of Neptune, and they stopped, and they waited.
-[pause 1.5]
-[img] nine strange geometric vessels in formation against the stars, each one different, none symmetrical, dark and intricate, cinematic
-N: And then, eleven days later, they transmitted. In four hundred and six human languages, including nineteen that had been extinct for a century, and one that had been extinct for four thousand years and was known to about thirty scholars on Earth.
-N: The message was four sentences long. It has been reprinted more times than any text in human history except one.
-[pause 1.5]
-[img] a dark screen displaying an alien message translated into plain text, four short lines, watched by silent controllers in a dim room, cinematic
-BROKER: We have listened for one hundred and forty of your years. We are the Tollhouse Compact. We buy, we sell, and we do not make war upon markets. Name one who may speak for your world, and we will come to the third planet and open an account.
-[pause 2.5]
-
-[music] m_horror -10
-[img] a crowded emergency session of the Accord Council, delegates from every nation, screens showing the nine objects, uproar, cinematic
-[loc] Geneva — the Accord Council, emergency session
-[sfx] sfx_news_sting g-12
-N: The species had four weeks to decide who spoke for it. It spent nineteen days arguing, which the Director considered, privately, a triumph of self-control.
-N: There were four positions. The United Nations argued that the Secretary-General should speak, as the only officeholder elected by the whole of the species, in the sense that a hundred and ninety-three governments had voted for him. The largest states argued for a council of the largest states. A coalition of forty smaller nations argued for a lottery. And a very great many people, in every country on Earth, said the obvious thing out loud on the internet within about four hours of the message being published.
-N: Name one who may speak for your world.
-[img] a montage of ordinary people in many countries watching screens in kitchens and cafés, all seeing the same broadcast, cinematic
-N: It was not even a debate in the end. It was a fact that had been true since Geneva in twenty forty-seven and had simply never been stated in a single sentence.
-N: On the fourth of November, twenty seventy-four, the Accord Council voted by a hundred and thirty-one to ten to designate the Director of Umbrella Life Sciences as the sole representative of the human species for the purposes of contact.
-N: Ten votes against. He remembered all ten. Not with anger — with something closer to fondness. Somebody had to.
-[pause 2.0]
-
-[music] m_alien -6
-[amb] amb_ship_hum -10
-[img] an enormous alien vessel in orbit above Earth, intricate and asymmetrical, kilometres long, with a small dark human ship approaching it, cinematic
-[loc] Earth orbit — 19 December 2074
-[sfx] sfx_ship_pass g-6
-N: One of the nine came in to Earth orbit, and it was eleven kilometres long, and it took station four hundred kilometres above the Pacific, and it did nothing threatening at all, and every seismograph on the planet recorded the day it arrived because four billion people moved at once.
-N: He went up to it in the Wilmington, which was by then one of four void-cutters, and which he had ordered to stand off at nine thousand kilometres with its weapons cold, because he had spent forty-eight years learning that the first move of a negotiation is the only one you get to make twice.
-N: He went across in a shuttle, with nine people. Four of them were human.
-[pause 2.0]
-[img] a vast alien chamber with curved organic architecture and shifting light, many species of alien figures observing from tiers, a small human group at the centre, cinematic
-[sfx] sfx_alien_call g-8
-N: The chamber they were received in was designed, he understood immediately, to be overwhelming. It was four hundred metres across and it held representatives of eleven species, and the light in it moved, and the air smelled of something between cinnamon and ozone, and the gravity was not quite Earth's and not quite constant.
-N: Every single element of it was a negotiating position. He recognised the technique perfectly. He had once made a landlord walk through a basement.
-[pause 1.5]
-[img] a tall slender alien figure with elongated limbs and a smooth featureless head, draped in layered fabric, standing on a raised dais, cinematic
-N: The being that spoke for the Tollhouse Compact was called — as near as the translation ever got — the Broker. It was four metres tall and very thin, and it had no face that a human being could read, and it spoke English with the warmth of a good doctor.
-BROKER: Director. Welcome. You are the two hundred and eleventh species we have opened an account with. May I tell you how this proceeds?
-WESKER: Please.
-BROKER: We buy. Your world produces four things of interest to the Compact, three of which you do not presently value. We will pay well. In exchange we sell: medicine beyond your medicine, power beyond your power, and passage. Within forty of your years you will be a wealthy species. Within four hundred you will be a member in good standing. We ask nothing but the account.
-[pause 1.5]
-WESKER: And the terms?
-BROKER: Standard. Exclusivity of trade. Non-development of certain technologies, which are listed. Non-expansion beyond your system for one hundred years, after which the boundary is reviewed. And the customary surety.
-WESKER: Which is?
+[music] m_lo -10
+[img] {WESKER} standing alone at a window of an orbital station looking out at stars and distant ships
+[loc] Dock One — 11 December 2181
+N: Albert Wesker was one hundred and fifty-five years old and had not left the solar system in thirty years.
+N: He had not commanded a fleet, drafted the answer, or spoken in the Assembly since 2161. He had watched a fourteen-year war from an orbital station and read the casualty lists every morning, four hundred and eleven thousand names over fourteen years, and the narrator notes that he read all of them, and that the Red Queen's log records the time he spent on it.
+[sfx] sfx_system_chime +0.3
+[system] EVENT — THE CHOIR WITHDRAWS
+Human dead: 411,000
+Attributable to your decisions: 0
+Attributable to decisions you opposed: 61,000
+Note: you argued for a wider evacuation perimeter in 2168 and the Assembly voted you down.
+Note: you complied.
+[say] Event: the Choir withdraws. Four hundred and eleven thousand human dead. Attributable to your decisions: zero. Attributable to decisions you opposed: sixty-one thousand. Note: you argued for a wider evacuation perimeter in twenty one sixty-eight and the Assembly voted you down. Note: you complied.
+[/system]
+[pause 1.2]
+WESKER: (very soft) Sixty-one thousand people died because I did what I was told.
+SYSTEM: (flat) Yes.
+WESKER: (cold) Was I right?
+SYSTEM: (flat) Yes.
 [pause 1.0]
-BROKER: A registered claim over the system itself. It is a formality. It has never once been exercised in nine thousand years.
-[pause 2.0]
-
-[music] m_horror -8
-[img] {WESKER} standing alone in a vast alien chamber in a black coat, eleven alien species watching from tiers above, small and utterly still, cinematic
-N: He did not answer for a while.
-N: He had, by then, spent forty-eight years reading rooms full of people who wanted something from him, and it turned out that the skill transferred, because the Broker's body had a posture and its posture had a grammar, and the grammar said: this has worked two hundred and ten times.
-N: In the Thought Acceleration — which was, by twenty seventy-four, running at four thousand to one, in nine parallel threads — he took a subjective afternoon to think about it.
-N: He thought about a licence agreement with the word non-exclusive on page three, and a landlord who had not read section nine, and a board of directors who had not read page eleven. He thought about how you take a thing from people who believe they are the ones doing the taking, and he recognised, in every line of the Broker's offer, the exact shape of his own work.
-N: Then he came back, and it had been a fifth of a second, and he said:
-[pause 1.5]
-WESKER: No.
-[pause 2.5]
-BROKER: I do not think you understand the offer.
-WESKER: I understand it perfectly. You've made it two hundred and ten times. Let me tell you what it is.
-[pause 1.0]
-[img] {WESKER} speaking calmly to a towering alien figure, the alien's posture subtly changing, tiers of watchers leaning in, cinematic
-WESKER: You will pay us handsomely for four things, three of which we do not know the value of, which means you will pay us a fraction of what they are worth and we will be delighted, because we have nothing to compare it to. You will sell us medicine and power, and in forty years we will be unable to manufacture either for ourselves, because why would we, when you sell it so cheaply. The non-development list is not a safety measure; it is a list of every technology by which a client stops being a client. And the surety over our system is a formality that has never been exercised because it has never needed to be — because by the time exercising it would be worth your while, no species has ever been in a condition to object.
-[pause 1.5]
-WESKER: You are not offering us an account. You are offering us dependency, on a schedule, with a lien on our home as collateral.
-[pause 2.0]
-N: The chamber did something. It was not a sound. The light in it changed, slightly, in a way that eleven species understood and four humans did not.
-BROKER: (slow) That is an unusually complete reading.
-WESKER: I've made the same offer myself. Forty years ago, to a landlord in Delaware, for a building. It worked beautifully.
-[pause 2.0]
-
-[music] m_alien -4
-[img] the alien Broker leaning forward slightly, its featureless head tilted, an unmistakable new attention in its posture, cinematic
-BROKER: Then you will understand that refusal has a cost. The Compact does not make war on markets. But a world that declines the account is not a market. It is a curiosity. And curiosities are visited by others.
-WESKER: Who?
-BROKER: The Veth Hegemony is nine hundred light years from your star and has been informed of your existence since your first radio. They do not buy. They do not sell. They arrive, and they assess, and what they find useful they administer, and what they find useless they clear. We are, Director, the only wall between your species and that. That is what you are actually being offered, and that is why two hundred and ten species have taken it.
-[pause 2.0]
-N: And that — the Directorate's analysts would conclude, over the following nine years, reading the transcript four thousand times — was the only genuinely honest sentence the Broker spoke all day.
-[pause 1.5]
-[img] {WESKER} without sunglasses in an alien chamber, his eyes visible, pale and cold, facing a four-metre alien without flinching, cinematic
-N: He took off his sunglasses. He had thought about it in the shuttle, and had decided it was probably meaningless to a species with no faces, and did it anyway, because it was not for the Broker.
-WESKER: Then let me make a counter-offer, and let me be as honest as you have just been.
-WESKER: We will not take your account. We will buy from you, at market, in cash, and we will sell to you, at market, and we will reverse-engineer every single thing you sell us, which you know we will do, and which your non-development list exists to prevent. We will do it anyway. We will be the two hundred and eleventh species to say no, and probably the first, and you will find it very interesting.
-[pause 1.0]
-WESKER: And when the Veth come, we will deal with the Veth.
-[pause 2.0]
-BROKER: You have four ships.
-WESKER: I have had four of something before.
-[pause 2.5]
-
-[music] m_space -8
-[amb] amb_space -8
-[img] the nine alien vessels turning and departing the solar system, small against the stars, Earth a blue point behind them, cinematic
-[sfx] sfx_ship_pass g-8
-N: The nine vessels left the solar system in January of twenty seventy-five. They did not threaten. They did not retaliate. The Compact had not made war on a market in nine thousand years, and a species that had declined the account was not a market, and they had a great deal else to do.
-N: Before they went, the Broker sent one final private transmission, addressed to the Director personally, in a language that the Farside Array took four years to confirm was one of the Compact's internal trade dialects and not, as had initially been assumed, an error.
-N: It was eleven words long. The Directorate has never published it. It is, however, carved — in the original characters, untranslated — above the door of a room on Arklay Free Territory that the public is not admitted to.
-[pause 1.5]
-BROKER: (slow) We have met your kind before. We did not like them either.
-[pause 3.0]
-
-[music] m_horror -8
-[amb] amb_ship_hum -8
-[img] {WESKER} standing on the bridge of a dark human warship looking out at the stars where the alien ships have gone, alone, cinematic
-N: He stood on the bridge of the Wilmington and watched them go.
-N: For forty-eight years he had been the most dangerous thing in every room he had ever entered. He had woken in a chair in the rain with a virus in his blood and a machine in the air and had never, in half a century, met anything that could not be out-thought, out-waited, or out-bought.
-N: And a four-metre creature with no face had just told him, courteously, that there was something nine hundred light years away that arrived, and assessed, and cleared — and that the only reason it had not arrived already was that a trading company had found his species more profitable as a customer than as a clearance.
-[pause 1.5]
-N: He found, standing on the bridge, that he was not afraid.
-N: He examined that carefully, because it was strange, and because forty-eight years of being right had taught him to be suspicious of his own calm. He was not afraid. He was something else, and it took him a subjective hour in the Thought Acceleration to find the word, and when he found it he did not like it.
-[pause 1.5]
-N: He was relieved.
-N: For twenty-seven years he had owned a species. There had been nothing left to take. He had built the thing he had spent two lifetimes wanting, and it had been finished for a decade, and the ruling of it was administration — councils, and quotas, and a hundred and forty-one governments that never said no.
-N: And somewhere nine hundred light years away there was an empire that had never heard of him.
-[pause 2.0]
-[img] a star chart in a dark room with a single distant star circled in crimson, nine hundred light years marked, cinematic
-WESKER: (soft) There you are.
-[pause 1.5]
-N: There was nobody in his head to answer. He had stopped noticing that a long time ago.
-N: But if the old voice had still been there — if the thing that had argued with him in a thousand cars, and wept on a balcony, and admitted once, on a terrace above the Atlantic, that it had been wrong about everything except the goal — if it had been there to hear him say it, it would have recognised the tone immediately.
-N: It was the tone of a man who has just been told that the war is not over after all.
-[pause 3.0]
-[music] stop
+WESKER: (very cold) Then say the rest of it.
+SYSTEM: (flat) In four hundred and eleven worlds, this is the ninth occasion on which a host has been overruled by a body he created and complied against his own judgement at a cost in lives.
+SYSTEM: (flat) On the other eight occasions the host dissolved the body within the year.
+N: The narrator records that Albert Wesker stood at a window above the Earth for some time, and that what he said was not to the System, and that the Red Queen logged it because she logged everything, and that it is four words.
+WESKER: (very soft) Not this time, Owen.

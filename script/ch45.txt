@@ -1,103 +1,83 @@
-# 45 | The Long Preparation
+# 45 | The Myriad
 
-[music] m_scheme -8
-[amb] amb_ship_hum -10
-[img] a huge orbital fabrication hall with an alien device suspended in a scanning cradle, human engineers on gantries around it, cinematic
-[loc] Dock One — 2075
-N: The Tollhouse Compact sold humanity four things in the first year, at market, in cash, exactly as agreed.
-N: A material. A power storage medium. A navigational reference. And a medical scanner, which the Broker's trade division had listed as a courtesy item and which rendered obsolete, in an afternoon, every diagnostic instrument the human race had ever built.
-N: The Directorate bought nine of each. It paid in the four things the Compact wanted from Earth, three of which humanity had not known were valuable, and one of which was a species of deep-sea sponge from a trench off the Marianas that turned out, for reasons no human has ever fully understood, to be worth roughly its weight in finished starship.
-[pause 1.5]
-[img] an alien device partially disassembled in a clean room, its internals glowing, four scientists staring at it in exhausted frustration, cinematic
-[sfx] sfx_cryo_hiss g-10
-N: And then Umbrella took all thirty-six of them apart.
-N: It took nineteen years. That is the part the popular histories leave out, because nineteen years of failure does not film well. The Compact's non-development list existed precisely because two hundred and ten prior species had tried exactly this, and the list was not a prohibition; it was a prediction, and it had been accurate two hundred and ten times.
-N: The power storage medium defeated four generations of Umbrella's physicists. Sixty years later, it still defeats them; the Directorate manufactures it, in quantity, by a process that works reliably and that nobody has ever been able to explain.
-[pause 1.5]
-[img] {CRANE} much older but unlined, in a cluttered lab surrounded by holographic failure analyses, obsessive and delighted, cinematic
-N: Sebastian Crane ran it. He was ninety-two.
-N: He had come to Umbrella in twenty thirty-four, ruined, dripping on a carpet in a corner office, having spent nine billion dollars trying to build a machine that could model Albert Wesker. He had spent the forty-one years since in windowless rooms, and had never once asked for a title, and had never once left the Territory.
-N: He was, by twenty seventy-five, the most accomplished scientist alive, and he was still — he said so cheerfully, to anyone who asked — trying to model the Director, and still failing, and had come to regard the failing as the great work of his life.
-CRANE: Thirty-six alien devices, Director. We've cracked four. That's a hit rate of eleven percent.
-WESKER: Against a species that has been doing this for nine thousand years and has never lost a client.
-CRANE: (soft) That's the first time you've ever put it that way. Eleven percent is extraordinary.
-WESKER: Eleven percent is a beginning. How long for the rest?
-CRANE: For the scanner and the material, twenty years. For the storage medium — Albert, honestly? I think we may have to grow a generation of physicists who've never learned why it shouldn't work.
+[music] m_horror -7
+[amb] amb_space -13
+[img] a dark star system filled with an immense swarm of insectile alien craft, green glows, no formation
+[loc] The Kelpie Reach, beyond the human sphere — 2194
+N: The Myriad has no name for itself, no government, no doctrine, no art and no history, and it has been at war with everything it has ever met for somewhere between four hundred thousand and nine hundred thousand years.
+N: It is a hive. That word is wrong in nine ways and the human record has never found a better one. It is not a species with a queen; it is a single distributed organism of somewhere over four hundred trillion bodies, occupying eleven hundred systems, that grows into any volume it is not prevented from entering, and that has never once in its recorded existence responded to a signal.
+N: The Compact has traded with everything in nine hundred light years except the Myriad. The Veth have fought it for ninety thousand years and hold their border with four hundred thousand ships. The Choir declared it noise before the Earth had oxygen and has not been able to end it.
+N: It reached the human sphere in 2194, at a mining system called the Kelpie Reach, with eleven thousand bodies, and ate the system in nine days.
+[img] a mining colony seen from orbit with structures being overrun by swarming shapes, green light
+N: Human dead: four thousand one hundred. There was no evacuation because there was no warning and no demand and no negotiation, because there is nobody there to negotiate with.
+N: And the narrator will tell you plainly what that did to a species that had spent forty years learning to argue: it broke the argument.
+N: Within four months the Human Assembly had voted, by three hundred and eighty-one to thirty, to place the defence of the sphere under a single unified command with emergency powers — the exact instrument it had spent seventy years refusing to create — and to offer that command to the one person alive who had fought anything.
+[img] {WESKER} standing alone on a debating floor facing tiers of delegates, formal chamber, tense
+[loc] The Human Assembly — 19 August 2194
+N: He refused.
+SENATOR: (slow) Director, four thousand one hundred people —
+WESKER: (very cold) I am aware of the number. I have read the names, as I read the four hundred and eleven thousand names of the Choir war, every morning, for fourteen years.
+WESKER: (slow) I am refusing because this Assembly is about to hand a hundred and sixty-eight years of work back to the man it took it from, in four months, out of fear, and because I have spent seventy years of my life making it impossible for one person to hold this species and I am not going to undo it in an afternoon because something frightening has arrived.
+SENATOR: (slow) And if the Myriad takes another system?
+WESKER: (very cold) Then it takes another system, and you will have to fight it as what you are, which is eleven billion people and four hundred worlds and an argument. I will fight in it. I will take any command this Assembly gives me that has a term limit, a reporting line and a review. I will not take emergency powers, and if you vote them to me I will decline them in public, on the record, and that will be worse for you than if you had never offered.
 [pause 1.0]
-WESKER: Then grow them.
-[pause 2.0]
-N: They did. There is an institute on Mars, founded in twenty seventy-nine, whose entire curriculum was designed around a deliberate omission: its students are not taught the theory that says the storage medium is impossible until their fourth year, by which time most of them have already built one.
-N: It is the single most effective educational programme in human history. It is also, the narrator notes, a very precise description of what the Directorate did to a species.
-[pause 2.5]
+N: The narrator notes that the Assembly voted the powers anyway, that he declined them in public on the record, and that the resulting constitutional crisis lasted eleven months while the Myriad ate two more systems.
+N: Nine thousand more people died in those eleven months. The Assembly's own inquiry in 2203 concluded that a unified command in 2194 would have saved most of them, and that Albert Wesker's refusal was the correct decision, and the narrator has read all four hundred pages of that inquiry and has never been able to decide whether the two findings can both be true.
 
-[music] m_corporate -10
-[img] an enormous shipyard in orbit with dozens of dark wedge-hulls under construction simultaneously, swarms of drones, Earth below, cinematic
-[loc] The buildup — 2076 to 2090
-[sfx] sfx_docking_clamp g-8
-N: He built ships for fifteen years.
-N: The Wilmington had been one, in twenty sixty-six, and had cost four trillion Points. By twenty seventy-six the pattern had been analysed, adapted, and — in the four specific subsystems that human engineering could improve — improved, and the Directorate could build one in a yard, out of asteroid metal, for money.
-N: Nine in twenty seventy-eight. Twenty-nine by eighty-two. Ninety-one by twenty ninety.
-N: It was the largest sustained industrial effort in the history of the species, and it consumed, at its peak, four percent of everything the human race produced, and not one human being anywhere ever voted on it.
-[pause 1.5]
-[img] a public information broadcast showing a shipyard and smiling workers, a family watching at home, perfectly ordinary, cinematic
-N: Nobody objected. That is not a figure of speech. In fifteen years, across four hundred and eleven billion hours of public communication monitored by the Directorate's own analysts, the total recorded objection to the naval programme amounted to a fraction of a percent, and most of it concerned the choice of yard locations.
-N: The reason was that the Broker had been honest, once, in a chamber that smelled of cinnamon and ozone, and the Directorate had published that sentence in full, on every frequency, on every world, within nine hours of the delegation's departure.
-N: They arrive, and they assess, and what they find useful they administer, and what they find useless they clear.
-N: Nine billion people read it. They did not need to be told anything else for fifteen years.
-[pause 2.0]
-N: An enemy.
-N: The thought arrived unbidden, in his own voice, in the room with no name on the door, and he examined it carefully, the way he had learned to examine everything that came out of that room.
-N: The old voice had been wrong about almost everything. It had been wrong about speed, and about banners, and about terror, and about what a people will hold together around. And it had said, on a terrace above the Atlantic in twenty forty-one: I gave them someone to hate, because hate is quick, and I was in a hurry.
-N: He had told it, then, that he had given them a roof instead.
-N: He stood in a shipyard in twenty eighty-four, watching the forty-first hull come together, and understood that he had just been given something he had not had to build. An enemy that was real, that was coming, and that he had not invented.
-N: It was, he thought — and this is recorded, because he said it aloud to an engineer who has left an account — the single greatest strategic gift of his life.
-[pause 2.5]
+[music] m_action -8
+[img] a fleet of human warships in formation approaching a green-lit swarm, stars, tense
+[loc] The Myriad frontier — 2195 to 2211
+N: The war that followed lasted sixteen years and was commanded by a rotating council of four admirals with fixed terms, which every professional in nine hundred light years said was insane and which worked for reasons that are still argued about.
+N: Human losses: nineteen thousand.
+N: Myriad losses: unknowable, because it does not have units and does not retreat, and because the word *loss* assumes something that can be lost.
+N: The frontier held. It did not advance. In sixteen years the Myriad took nothing after the eleventh month and the human sphere took nothing at all, and by 2205 the thing had become what the Veth had had for ninety thousand years: a border, permanent, expensive, and quiet.
+N: And Albert Wesker fought in it, personally, which is the part that nobody expected and which the narrator has left until now.
+[img] {WESKER} in a black void-suit standing on a wrecked hull in space, green swarm light behind him
+N: He was one hundred and sixty-nine years old. He did not need a ship to survive vacuum, could function at temperatures that destroy equipment, and had a body that had been rebuilt from the original strain in a room under a house in Pennsylvania in 2062 and that had no established upper limit on anything.
+N: He served as a boarding specialist, under the command of officers a hundred and thirty years younger than him, in a unit of eleven people, for nine years.
+N: The narrator wants to state why, because four hundred historians have got it wrong and the answer is in a conversation he had with Evelyn Marsh in 2196 that she published after his death.
+EVELYN: (soft) You could be running this.
+WESKER: (cold) I am running an eleven-person boarding team on a hull with a failed drive and I am extremely good at it.
+EVELYN: (soft) That is not an answer and we are both a hundred and seventy years old.
+[pause 0.8]
+WESKER: (very soft) In a hundred and seventy years I have never once been in a room where somebody could tell me to do something, and mean it, and be right.
+WESKER: (slow) Lieutenant Adeyemi-Vance is twenty-nine years old. She is the great-great-granddaughter of a woman who argued with me about money for thirty-two years. She tells me where to stand, and when to go, and twice she has told me I was wrong, and she was right both times, and I have obeyed her eleven hundred times in four years.
+WESKER: (very cold) Do you understand what that is worth to me? I have bought cities. I could not buy that.
 
-[music] m_horror -10
-[amb] amb_lab -10
-[img] a white laboratory with rows of tall tanks containing motionless figures of various sizes, most not humanoid, cold light, cinematic
-[loc] The Keel, Arklay — 2088
-N: The other preparation was Evelyn's.
-N: The Progenitor Initiative had been a programme of eleven hundred people in twenty fifty-eight. By twenty eighty-eight it was the largest research organisation that has ever existed, and it had a single stated objective, and the objective was not medical.
-N: The Directorate needed crews. Nine hundred void-cutters would need four hundred thousand personnel who could tolerate the pattern's acceleration, its radiation environment, and the psychological load of sitting in the dark for four days without speaking. Human beings could do two of those three.
-[img] {EVELYN} ageless in a white coat walking between rows of tanks, summoned staff stepping aside without looking at her, cinematic
-N: She solved it in nine years, and the solution is the reason the Veth called the ships wrong.
-N: The Directorate's crews were not conscripts and not slaves. Four hundred thousand human beings volunteered — genuinely volunteered, with informed consent documents that ran to two hundred pages and were the most honest documents the Directorate ever produced — to receive a derivative of the Progenitor lineage that would let them survive the ships.
-N: They knew what it would do. It was in section four of the consent form, in plain language: this will change your relationship to command. You will find it difficult to experience doubt regarding an order from the Directorate. This effect is permanent and is not reversible.
-N: Four hundred thousand people signed it. There were nine million applicants.
-[pause 2.0]
-[img] rows of young crew in dark uniforms standing at attention in an enormous hangar, calm and identical in posture, cinematic
-[sfx] sfx_reactor_hum g-14
-N: They were not summoned personnel. That distinction mattered enormously to the Directorate's lawyers and mattered not at all to anyone who met them. They had families, and childhoods, and opinions about music. They laughed at jokes. They wrote home.
-N: And they sat in the dark for four days at the heliopause without speaking, and when a fleet four hundred vessels strong crossed into their system, not one of them felt anything that a Veth sensor could read as fear, because fear about an order had been engineered out of them in a white room by a woman who had done the arithmetic.
-[pause 2.5]
-[img] {WESKER} and {EVELYN} standing together looking through glass at ranks of new crew, both ageless, cinematic
-WESKER: Nine million applied.
-EVELYN: For four hundred thousand places. We could have had forty million.
-WESKER: Why do you think they did it?
-[pause 1.5]
-EVELYN: (soft) Because you published the Broker's sentence and then you built the ships and then you asked. In that order. It's the same thing you did in the break room in twenty twenty-six, Albert. It's the only thing you've ever done.
+[music] m_horror -8
+[img] a dark wrecked interior of a captured alien vessel, green bioluminescence, human figures with lights
+[loc] Boarding action, the Kelpie Reach — 4 November 2210
+N: On the fourth of November 2210 an eleven-person boarding team took the interior of a Myriad mass for the first time, and four of them came back, and Albert Wesker carried two of them.
+N: What they brought back was the thing that ended the war, and it is not what anybody expected, and the narrator will describe it as carefully as the record allows.
+N: They found no command structure. They found no individuals. What they found, in a chamber four kilometres inside a body of four hundred trillion, was a *memory*: a structure of accreted mineral and tissue, nine hundred thousand years old, in which the entire history of everything the Myriad had ever eaten was recorded, in order, in detail, with nothing missing.
+N: Eleven hundred species. Four hundred trillion bodies' worth of experience. Nine hundred thousand years.
+N: It is the largest archive in the known volume of space, and it belongs to a thing that has never once used it for anything, because there is nobody in there to read it.
 [pause 1.0]
-EVELYN: You tell people the truth about the storm, and then you stand where the rain isn't, and then you wait.
-[pause 2.5]
+N: Dr. Evelyn Marsh spent eleven years on it.
+N: Her conclusion, published in 2221 and never seriously challenged, is four sentences, and it is the most disturbing document in this account.
+EVELYN: (slow) The Myriad is not hostile. It is not anything. It is a growth process with a perfect memory and no capacity whatsoever to act on it.
+EVELYN: (slow) Every species it has consumed is preserved in it, in full, and none of them are alive, and the structure has no mechanism for retrieval.
+EVELYN: (slow) It has been carrying eleven hundred civilisations for nine hundred thousand years the way a glacier carries a rock.
+EVELYN: (very slow) I have spent my life making things that do not die. This is what that looks like when nobody is home.
 
-[music] m_space -10
-[amb] amb_space -8
-[img] a wall of names being etched into white stone on an ocean city terrace, hundreds of names, empty space left below for more, cinematic
-[loc] Arklay — 2090
-N: In the last year before the Hegemony arrived, he did something that the Directorate's own historians have never satisfactorily explained.
-N: He had a wall built. On the outer terrace of the first ring of Arklay Free Territory, facing east, four hundred metres long, of white stone from the seamount the city was anchored to.
-N: It was empty. It had no names on it at all.
-N: The commission specified that it was to be maintained in perpetuity, that no name was ever to be added except that of a person who had died in the service of the Directorate beyond the orbit of the Moon, and that the names were to be added in the order of their dying, with no rank, and no decoration, and no distinction of any kind between summoned personnel and human beings.
-[pause 1.5]
-[img] an empty white stone wall four hundred metres long facing a grey ocean at dawn, no names yet, cinematic
-N: That last clause caused the only serious institutional argument of his entire reign. Four separate bodies of the Directorate objected, on the entirely reasonable ground that summoned personnel were assets, that they had been purchased, that they did not die in any sense that a memorial recognises, and that a wall which failed to distinguish them from volunteers would diminish the volunteers.
-N: He heard all four objections in full, over nine hours, and then overruled every one of them in a single sentence that is carved, now, at the eastern end of the wall.
-[pause 1.5]
-WESKER: They stood where I put them.
-[pause 2.5]
-N: Within four years the wall had four thousand names on it. Within twenty, it had been extended twice.
-N: The narrator has thought about that wall a great deal, and is not going to tell you what it means, because the narrator does not know.
-N: Somewhere in a mind that ran nine threads at four thousand to one, a man who had spent a century and a half arranging the truth had ordered four hundred metres of white stone and refused, against the advice of four separate bodies, to lie on it.
-[pause 3.0]
-[music] stop
+[music] m_lo -9
+[img] {WESKER} sitting alone in a dim ship compartment, helmet beside him, exhausted, stars through a port
+[loc] The frontier, hospital ship Ochoa — 11 November 2210
+[sfx] sfx_system_chime +0.3
+[system] EVENT — FIRST BOARDING
+Team: 11 · Returned: 4
+Personal engagements: 141 · Myriad bodies destroyed by you: 9,400
+[say] Event: first boarding. Team of eleven, four returned. One hundred and forty-one personal engagements. Nine thousand four hundred Myriad bodies destroyed by you.
+[/system]
+[pause 0.8]
+WESKER: (very soft) Say the other thing.
+SYSTEM: (flat) Kill count, sapient, this world, 2026 to date: zero.
+WESKER: (cold) The Myriad is sapient.
+SYSTEM: (flat) The Myriad is an archive with a growth process attached. I have four hundred and eleven worlds of data and I have never been able to classify it either.
+[pause 1.0]
+SYSTEM: (flat) Director. In 2110 you gave an order at the Reach that killed nine hundred people of the species the record calls the Dellent, who were in the Myriad's path and who refused evacuation, and you have carried that for a hundred years and you have never once asked me to price it.
+WESKER: (very cold) No.
+SYSTEM: (flat) Would you like me to?
+[pause 1.2]
+WESKER: (very soft) No.
+N: The narrator notes that this is the only occasion in a hundred and eighty-four years on which Albert Wesker declined information, and that the Red Queen's log records the pause before the answer at eleven seconds, and that nothing else is known about the Dellent at all.

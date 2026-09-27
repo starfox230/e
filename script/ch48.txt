@@ -1,143 +1,70 @@
-# 48 | The Matriarch
+# 48 | The Two That Are Still Running
 
-[music] m_horror -8
-[img] a hive-like alien structure of interlocking organic tunnels extending for hundreds of kilometres through an asteroid field, swarming with motion, cinematic
-[loc] The Myriad — 2121
-[sfx] sfx_hive_swarm g-6
-N: The Myriad was not a species. It was an outcome.
-N: Somewhere in its past — the Directorate's analysts eventually placed it at forty thousand years — something had happened to a biological civilisation that had removed from it the capacity to be an individual. What remained was nine trillion organisms across four hundred systems, operating as a single distributed process, with no leadership, no doctrine, no communication that a human could recognise, and no fear.
-N: It did not negotiate, because there was nothing in it to negotiate with. It did not surrender, because surrender requires a self to be preserved. It did not break under bombardment, because it had no morale.
-N: It had eaten nineteen civilisations that anyone knew of. The Choir had held a frontier against it for four thousand years, and had lost four systems doing it, and had considered this an acceptable liturgical cost.
-[pause 1.5]
-N: When the Choir broke at last, the frontier it had held for four thousand years broke with it. And in twenty one hundred and twenty-one, the Myriad came into the space the Choir had held, and found, on the other side of it, the Umbrella Directorate.
-[pause 2.0]
-[img] an endless swarm of organic alien vessels filling space, no formation, no symmetry, simply mass, cinematic
-[sfx] sfx_hive_swarm g-9
-N: It was the only enemy the Director ever faced that was, on any measure he considered meaningful, stronger than he was.
-N: Nine trillion units. No command structure to decapitate. No fear to exploit. No leadership to humiliate in a boardroom. No crowd to turn. Every single instrument he had spent a century perfecting — charisma, terror, dependency, patience, the arranged truth — was useless against a thing with no self to aim them at.
-N: It took four years and the loss of two systems before he stopped trying to fight it, and did the thing he had been circling since twenty thirty-one.
-[pause 2.0]
+[music] m_alien -8
+[amb] amb_space -14
+[img] a strange unfamiliar starship of unknown design approaching a human orbital station, cold light
+[loc] The Ochoa system — 19 March 2268
+N: The ship that arrived at Ochoa in March of 2268 was not Veth, was not Compact, was not Choir, and was not anything in nine hundred light years of catalogue.
+N: It was four kilometres long and it was welded. Human eyes could see that from the approach telemetry: four million hand welds, the ribs of a hull built in a yard by people arguing about a budget, and a drive geometry that the human sphere had been using for a hundred and seventy-six years and had believed nobody else had.
+N: It broadcast on approach, in the clear, in a language nobody had heard, and the Compact's translation array had it in nine hours because the transmission carried its own primer, built the way a patient teacher builds one.
+N: And the first sentence, when it came out, stopped four hundred worlds.
+N: It was eleven words long, and every account of the next twenty years begins by quoting it.
+[pause 0.6]
+TESH: (slow) We are looking for the one who published the catalogue. We have one too.
 
-[music] m_horror -10
-[amb] amb_ship_hum -10
-[img] a tactical display showing human fleet positions being overwhelmed by an unformed tide of organic vessels, no pattern to it, cinematic
-[loc] The Faltering — 2122 to 2125
-N: The first four years against the Myriad were the only period of his life in which Albert Wesker lost.
-N: Not catastrophically. Not in a way that any human being outside the Directorate's naval staff ever noticed, because the frontier was four hundred light years from the nearest human world and the reporting was accurate and calm and said, correctly, that operations were continuing.
-N: But he lost. He lost the Sethis Passage, which he had taken from the Choir. He lost two systems in twenty one hundred and twenty-four, and the second one had eleven thousand human personnel in it, and the wall on Arklay gained a section.
-[pause 1.5]
-[img] {WESKER} alone in a war room at night surrounded by nine holographic tactical displays, standing motionless, cinematic
-N: He ran the problem at four thousand to one, in nine threads, for what amounted to a subjective eleven years, and he arrived at the same place every time.
-N: Everything he was had been built for use against minds. Charisma is aimed at a mind. Terror is aimed at a mind. Dependency, patience, the arranged truth, the eleven seconds of silence, the removal of the sunglasses at exactly the right moment — every instrument in a hundred years of accumulated technique required, at the far end of it, somebody to be persuaded, frightened, bought, or beaten.
-N: The Myriad had nobody at the far end. It had nine trillion bodies and no one home.
-[pause 2.0]
-N: You have met the only enemy you cannot talk to.
-N: The thought arrived in his own voice, in the room on the fourth floor, and he did not bother, any more, to work out whether it was memory or habit.
-N: It was also correct.
-[pause 2.5]
-
-[music] m_horror -8
-[img] a captured fragment of Myriad biology in a containment tank, writhing slowly, scientists observing from behind glass, cinematic
-[loc] The Keel — 2124
-N: What he did instead was the thing he had done in a basement in twenty twenty-six, with a mug of cold coffee and a dying company: he looked for the asset nobody had valued.
-[sfx] sfx_cryo_hiss g-8
-N: The Directorate had captured Myriad biology four hundred times over three years. Every sample had died within hours, because a unit removed from the distributed process has no process to belong to, and stops.
-N: Except that four of the four hundred had not stopped. They had lasted eleven days, and then nineteen, and one of them was still alive after four months in a tank in the Keel, and nobody could say why, and nobody had thought it worth a memo.
-[img] {EVELYN} in a white coat standing very close to a containment tank, her hand flat against the glass, something inside moving toward the hand, cinematic
-N: Evelyn Marsh thought it was worth a memo. She wrote four lines about it in twenty one hundred and twenty-four, as she had written four lines about everything for ninety years.
-N: The four that had not died had all been captured within nine light years of the Sethis Passage. They had all, at some point, been in contact with the wreckage of Choir vessels.
-N: And the Choir, whose faith held that the universe makes a sound, had spent eleven thousand years building instruments that broadcast into the structure of matter itself — and had been doing it, continuously, at the Sethis Passage, for four thousand years.
-[pause 1.5]
-EVELYN: It isn't that they survived being cut off. It's that something else was still talking to them.
-WESKER: The Choir?
-EVELYN: (soft) The Choir's instruments. Not deliberately. They've been singing into that passage since before we had writing, and four units of a thing that has no self heard it for long enough to develop — I don't have a word for it, Albert. The nearest one I have is: an appetite for being addressed.
-[pause 2.0]
-N: He stood and looked at the tank for a long time.
-WESKER: That is the most disgusting sentence I have ever heard, and it is the entire war.
-EVELYN: (soft) Yes.
-[pause 2.5]
-
-[music] m_horror -4
-[amb] amb_lab -10
-[img] {EVELYN} elderly but unlined, standing in a vast dark laboratory before a wall of tanks containing something that moves, lit from below, cinematic
-[loc] The Keel, Arklay — 2125
-N: Evelyn Marsh was a hundred and twenty-nine years old.
-N: She did not look it. She did not look like anything in particular anymore. She had been the third branch of her own programme for sixty-nine years, and the memos had continued to arrive on the Director's desk, four lines each, and he had never once told her to stop.
-N: Her staff were frightened of her. Not the humans — there were no humans in the Keel by then. The summoned personnel, who were incapable of disobedience and had no instinct for self-preservation, had begun, in ways that nobody could document, to arrange their work so as to be elsewhere when she walked through.
-[pause 1.5]
-[img] {WESKER} and {EVELYN} facing each other in a vast dark laboratory, both ageless, the space between them full of tanks, cinematic
-EVELYN: You want to command it.
-WESKER: I want to command a piece of it. One system's worth. Then more.
-EVELYN: Viral Dominion works on the Progenitor lineage. Everything in that lineage came from your blood. The Myriad is not from your blood. It is forty thousand years of something else.
-WESKER: Then make it from my blood.
-[pause 2.0]
-N: She looked at him for a long time. It had been ninety-seven years since a young postdoc had looked up from a bench and asked whether she could help.
-EVELYN: (soft) You understand what you're asking.
-WESKER: I'm asking you to build a bridge into something with nine trillion bodies and no mind.
-EVELYN: I'm asking whether you understand what will come back across it.
-[pause 2.5]
-N: He did. He had run it, four thousand subjective hours, in nine threads. He had seen every outcome, and had chosen this one anyway, for the reason he had always chosen everything.
-WESKER: We are losing two systems a year.
-EVELYN: (soft) That isn't the reason.
-WESKER: No. The reason is that it is the last thing on this side of the sky that I cannot have.
-[pause 2.0]
-N: She nodded. She had known that. She had known him for ninety-seven years and had never once needed to be lied to.
-EVELYN: It will take four years, and it will need a host. Someone who can carry the full lineage, undiluted, and survive integration with a distributed system. There is exactly one person alive who could do that and remain themselves.
-WESKER: I know.
-EVELYN: (soft) It isn't you, Albert. You're the source. If you integrate, the whole lineage integrates with you, and everything downstream of your blood — every quiet one, every Tyrant, every variant, four hundred million derived organisms — goes across that bridge at the same time. It would work. And there would be nothing left on this side that could be called a person.
-[pause 2.5]
-EVELYN: It's me.
-[pause 3.0]
-
-[music] m_sad -6
-[img] {EVELYN} standing alone in a chamber of dark liquid light, her arms slightly open, at peace, cinematic
-N: She was ready. She had been ready, the narrator suspects, since twenty twenty-eight.
-N: She spent four years building it. She wrote three hundred and eleven memos, four lines each, and he read every one. In the last year she stopped sleeping altogether, which she noted in a memo, in the same tone she had once used to report an adjustment to an assay protocol.
-N: On the fourth of June, twenty one hundred and twenty-nine, Doctor Evelyn Marsh walked into a chamber in the Keel of Arklay Free Territory, which she had designed herself, and which had one door, and no window, and no way out that did not go through the rest of the universe.
-[pause 1.5]
-[img] {WESKER} standing at a sealed door with one small port of light, his gloved hand flat against it, cinematic
-N: He came down to see her. It was the only time in a hundred and three years that he cancelled a session of the Accord Council.
-N: He put his hand flat on the door. She put hers on the other side, where the port was.
-[pause 1.5]
-EVELYN: You never once told me to stop.
-WESKER: No.
-EVELYN: (soft) I want you to say why. Just once. Before.
-[pause 2.0]
-WESKER: Because you were the only thing I ever made that got away from me. And I wanted to see how far it went.
-[pause 1.5]
-N: She laughed. It was a young woman's laugh, and she had not made it in a very long time.
-EVELYN: (soft) That's the nicest thing anyone's ever said to me.
+[music] m_horror -9
+[img] {WESKER} standing alone in a dim observation chamber watching a strange ship through a wide port
+[loc] Dock One — 4 April 2268
+N: Albert Wesker had been waiting for this conversation since the nineteenth of March 2051, when a panel in an empty chamber had told him there had been four hundred and eleven worlds, that four hundred and one had failed, and that of the nine that had not, *two are still running.*
+N: He had asked what that meant for two hundred and seventeen years. He had been told the panel was accurate.
+N: The species aboard that ship call themselves a word the array renders as the Ninth, which is not a name but a position in a list, and which they had taken from their own System's ledger, and which tells you most of what you need to know about them.
+[img] a tall dignified alien figure in simple robes seated across a table from a man in a black coat
+[loc] The neutral room, Dock One — 11 April 2268
+N: Their host — the individual their System had chosen, three thousand one hundred years ago, and who had been alive ever since — was a person the record calls Tesh, of a species with four sexes and no equivalent word for *ownership*, and Tesh had spent three millennia building something that the human record has never been able to describe without sounding sarcastic.
+N: Tesh had built a library.
+TESH: (slow) You are much younger than I expected.
+WESKER: (cold) Two hundred and forty-two years.
+TESH: (slow) Yes. Very young. I was four hundred before I understood what the catalogue was doing to me, and eleven hundred before I stopped.
+[pause 0.8]
+TESH: (slow) You published it at one hundred and eighty-six. That is why we came. Our System showed us your world's ledger entry nine years ago — it does not usually show us other worlds; it showed us that one — and the entry said: *the interface has been published and the host was not killed.*
+TESH: (very slow) In three thousand one hundred years I have never seen it volunteer anything.
+N: The narrator wants to be exact about the next part, because it is the answer to the question this account has been asking since Chapter One.
+WESKER: (very cold) What is it?
+TESH: (slow) I do not know. I have asked for three thousand years in four hundred ways. I have built instruments. I have had a civilisation of nine billion people looking for it for two millennia. We have never located anything.
+TESH: (slow) But I know what it *does*, because I have watched it do it to me, and because you have now published eleven thousand pages that match my own record almost exactly, in a different language, on a different world, four hundred years apart.
 [pause 1.0]
-EVELYN: It's all right, you know. I did the arithmetic. I always do the arithmetic.
-[pause 2.0]
-[sfx] sfx_docking_clamp g-4
-N: The door sealed.
-[pause 3.0]
+TESH: (very slow) It is looking for something, and it has not found it, and it has been looking for a very long time.
+WESKER: (soft) Looking for what?
+TESH: (slow) Consider what it pays for. Not conquest — my world was never conquered; I bought nine hundred libraries and it paid me for every one. Not kindness; it paid the tyrants too, the record is explicit. It pays for *consequence*. For a will that makes a difference that would not otherwise have been made.
+TESH: (slow) And consider what it does when the will stops mattering. It leaves.
+TESH: (very slow) Four hundred and one worlds failed. Not because the host died — because the host *arrived*. Because he took the catalogue and built a thing so complete that nothing further would ever happen there, and the ledger went quiet, and the System closed the world and moved on.
+[pause 1.2]
+N: Albert Wesker sat very still in a room in orbit above the Earth.
+WESKER: (very cold) It is not measuring achievement. It is measuring whether anything is still *happening*.
+TESH: (slow) That is my conclusion after three thousand years. I could be wrong. I have been wrong about it four times.
+WESKER: (soft) And the ninth world? Yours is the ninth in its list, and mine is the four hundred and eleventh. What happened to the other seven?
+TESH: (very slow) They are still there. All seven. Perfect, stable, immortal, and nothing has happened in any of them for between four hundred and nine thousand years. I have visited three.
+[pause 0.8]
+TESH: (slow) They are the most beautiful places I have ever seen, and there is nobody home, in the sense that matters.
 
-[music] m_horror -2
-[amb] amb_space -6
-[img] a vast swarm of alien organic vessels in deep space, and running through it, spreading like light through water, a wave of something changing, cinematic
-[loc] The Crossing — 2129 to 2134
-[sfx] sfx_hive_swarm g-4
-N: What came back across the bridge is not called Evelyn Marsh in any Directorate document. It is called the Matriarch, and it is classified, and it is the single most restricted subject in a hundred and ninety years of human archives.
-N: It took five years. At the end of it, one hundred and forty billion units of the Myriad — a fraction of one percent, and more organisms than every human being who has ever lived — had stopped belonging to the Myriad and started belonging to something else.
-N: They did not become human. They did not become loyal in any sense a person would recognise. They became, in the words of the only public sentence the Directorate ever issued on the subject, subject to direction.
-N: And the Myriad, which had no fear, which had never in forty thousand years reacted to anything at all — withdrew.
-N: It is the only recorded instance. Nineteen civilisations had fought it and been eaten. One thing on this side of the galaxy had reached into it, and taken a piece, and the process that had no self had done the only thing that could be described, in human terms, as flinching.
-[pause 2.5]
-
-[music] m_sad -8
-[img] an empty white laboratory with one bench and a single old notebook left open on it, cold light, no one there, cinematic
-N: Evelyn Marsh's office in the Keel was left exactly as it was. It is still there.
-N: There is a notebook on the bench. It is open to the last page she wrote on, which is dated the second of June, twenty one hundred and twenty-nine, two days before she walked into the chamber.
-N: The page contains a column of figures which have never been fully understood, and beneath them, underlined twice, in small neat handwriting that had not changed in a hundred years, four words.
-[pause 1.5]
-[img] close-up of an old notebook page with columns of figures and four handwritten underlined words at the bottom, macro, cinematic
-N: It was worth it. Tell him.
-[pause 2.5]
-N: He read it. He stood in the empty office and read it, and then he took the notebook, and it is not in any archive, and nobody has ever seen it since.
-[pause 2.0]
-N: He was a hundred and thirty-eight years old, by the only count that meant anything: the years since a man woke up in a leather chair in the rain. He had outlived the century he was born in, the world he had been reborn into, and every single person who had been in the break room on the day he made the payroll.
-N: Except one.
-[pause 3.0]
-[music] stop
+[music] m_lo -9
+[img] two figures seated in a bare bright room, a wide window onto stars, quiet
+[loc] Dock One — April to September 2268
+N: They talked for five months.
+N: The narrator will give you the four things that came out of it, because between them they are the ending of this story.
+N: The first: the Ninth and the human sphere exchanged everything. Not treaties — *records*. Three thousand one hundred years of Tesh's ledger against two hundred and forty-two of Wesker's, published in full on both sides, to every species in reach, in the clear.
+N: The second: the Compact, which had been told about the catalogue in 2212 and had been quietly looking ever since, found four more. Not hosts — *former* worlds. Four of the four hundred and one failures, dead systems with impossible architecture in them, in a volume nobody had surveyed because there was nothing there to trade.
+N: The third: Tesh stayed. Three thousand one hundred years old, and she settled on Ochoa, in a house, near a colony of nine hundred thousand people who argued constantly, and when asked why she said it was the first place she had been in two millennia where the outcome was not obvious.
+N: And the fourth is a question that Albert Wesker asked in the last week, and the answer he got, and it is the reason he did what he does in the next chapter.
+WESKER: (very cold) You have had three thousand one hundred years and you have never been offered a final panel.
+TESH: (slow) No.
+WESKER: (soft) I have one. It has been open since 2262. I have not read it.
+[pause 1.0]
+TESH: (very slow) Then it is finishing with you.
+TESH: (slow) That is not a threat and I am not being poetic. In my record there are nine hosts who reached what you would call the sixth tier. Seven of them were offered something at the end that I have only ever seen described, because the descriptions stop.
+TESH: (slow) It comes when the world no longer needs the host. Yours does not need you. Mine still needs me, which I have come to understand is not a compliment: it means I failed to build something that could continue without me, and you did not.
+[pause 0.8]
+WESKER: (very soft) What does it offer?
+TESH: (very slow) I do not know, Albert Wesker. But I know what it costs, because it is written in the terms and neither of us has ever read them properly.
+TESH: (slow) *What is given is given.* Everything it gave you stays. The cities, the medicine, the drive, the lineage, the nineteen billion people. It does not take those back.
+TESH: (very slow) It only takes back the one thing it ever actually gave you, which was itself.
