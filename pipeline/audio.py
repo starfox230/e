@@ -21,8 +21,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SFX = os.path.join(ROOT, 'assets', 'sfx')
 MUSIC = os.path.join(ROOT, 'assets', 'music')
 
-GAP_NARR = 0.55        # after a narration paragraph
-GAP_DIALOG = 0.38      # after a line of dialogue
+GAP_NARR = 0.38        # after a narration paragraph
+GAP_DIALOG = 0.26      # after a line of dialogue
 GAP_SWITCH = 0.12      # extra when the speaker changes
 MUSIC_GAP_DB = -26.0   # music level (RMS dBFS) when nobody is speaking
 MUSIC_DUCK_DB = -8.0   # extra reduction under speech
@@ -111,6 +111,76 @@ def shot_id(chapter, prompt):
     return f'c{chapter:02d}_' + hashlib.sha1(prompt.encode()).hexdigest()[:10]
 
 
+# Pacing. The first cut paused far too often: 31 minutes of scripted [pause] markers, most of
+# them 1.5 s on top of the gap after every line, and another ~37 minutes of dead air inside the
+# voice clips themselves, where the TTS stalls at dashes and sentence breaks for up to 1.2 s.
+# Scripted pauses keep their relative weight but run at a little over half length, and every
+# clip has its internal gaps capped at a natural sentence break.
+PAUSE_SCALE = 0.55
+PAUSE_MIN = 0.2
+CLIP_MAX_GAP = 0.36       # longest silence left inside a spoken line (s)
+CLIP_EDGE = 0.05          # silence kept at the head and tail of a line (s)
+TIGHT = os.path.join(ROOT, 'work', 'tts_tight')
+
+
+def pause_len(d):
+    return max(PAUSE_MIN, round(d * PAUSE_SCALE, 3))
+
+
+def tighten(path):
+    """The clip with its long internal silences cut down to CLIP_MAX_GAP, cached on disk.
+
+    Silence is judged against the clip's own level (40 dB under its loudest 20 ms), so a quiet
+    whispered line is treated the same as a shouted one. Each cut is a 15 ms crossfade."""
+    key = hashlib.sha1(f'{path}|{os.path.getmtime(path)}|{CLIP_MAX_GAP}|{CLIP_EDGE}|v1'.encode()).hexdigest()[:16]
+    out = os.path.join(TIGHT, key + '.wav')
+    if os.path.exists(out):
+        return out
+    os.makedirs(TIGHT, exist_ok=True)
+    x, sr = sf.read(path, dtype='float32')
+    mono = x.mean(axis=1) if x.ndim > 1 else x
+    win = int(0.02 * sr)
+    f = len(mono) // win
+    if f < 3:
+        return path
+    e = 20 * np.log10(np.sqrt((mono[:f * win].reshape(f, win) ** 2).mean(axis=1)) + 1e-9)
+    loud = e > e.max() - 40
+    idx = np.where(loud)[0]
+    if len(idx) == 0:
+        return path
+    edge = int(CLIP_EDGE * sr)
+    first, last = idx[0] * win, (idx[-1] + 1) * win
+    keep = []                                   # (start, end) sample ranges to keep
+    cur = max(0, first - edge)
+    run_start = None
+    for k in range(idx[0], idx[-1] + 1):
+        if not loud[k]:
+            run_start = k if run_start is None else run_start
+            continue
+        if run_start is not None:
+            gap = (k - run_start) * win
+            if gap > CLIP_MAX_GAP * sr:
+                half = int(CLIP_MAX_GAP * sr / 2)
+                keep.append((cur, run_start * win + half))
+                cur = k * win - half
+            run_start = None
+    keep.append((cur, min(len(x), last + edge)))
+    fade = int(0.015 * sr)
+    pieces = []
+    for a, b in keep:
+        seg = x[a:b].copy()
+        if len(seg) > 2 * fade:
+            ramp = np.linspace(0, 1, fade, dtype=np.float32)
+            if seg.ndim > 1:
+                ramp = ramp[:, None]
+            seg[:fade] *= ramp
+            seg[-fade:] *= ramp[::-1]
+        pieces.append(seg)
+    y = np.concatenate(pieces)
+    sf.write(out, y, sr)
+    return out
+
+
 def build_timeline(ch):
     missing = sorted({e.speaker for e in ch.events if e.kind == 'line' and e.speaker not in VOICES})
     if missing:
@@ -123,7 +193,7 @@ def build_timeline(ch):
     has_cards_marker = any(e.kind == 'cards' for e in ch.events)
 
     def add_voice(spk, text, hint, at, subtitle=True):
-        path = synth(spk, text, hint)
+        path = tighten(synth(spk, text, hint))
         dur = sf.info(path).duration
         tl['voice'].append({'start': round(at, 3), 'dur': round(dur, 3), 'path': os.path.relpath(path, ROOT),
                             'speaker': spk, 'text': text, 'sub': subtitle})
@@ -184,7 +254,7 @@ def build_timeline(ch):
             t += 8.3
         elif e.kind == 'pause':
             flush(t)
-            t += e.dur
+            t += pause_len(e.dur)
         elif e.kind == 'line':
             flush(t)
             if last_spk is not None and last_spk != e.speaker:
