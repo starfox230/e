@@ -1,744 +1,835 @@
 1
-00:00:07,799 --> 00:00:11,413
-You were in the building. On the
-eleventh. I saw your car.
+00:00:07,799 --> 00:00:14,147
+The case that nearly ended Albert Wesker was not
+built on a crime. That is what made it
 
 2
-00:00:11,933 --> 00:00:12,923
-Who is this?
+00:00:14,167 --> 00:00:19,929
+dangerous, and that is why it took four years
+for anybody to notice it existed.
 
 3
-00:00:13,442 --> 00:00:19,400
-You watched the man by the lifts. The big one. For about
-four minutes. I was on the mezzanine.
+00:00:20,329 --> 00:00:26,821
+SSA Owen Carrick, forty-nine, seventeen years in the
+Bureau, had never in his career filed
 
 4
-00:00:19,420 --> 00:00:20,609
-I saw you counting.
+00:00:26,841 --> 00:00:33,476
+a report that said the word *impossible*. What he had
+instead was a private habit, developed
 
 5
-00:00:22,329 --> 00:00:24,321
-Owen Carrick sat up in his chair.
+00:00:33,496 --> 00:00:37,889
+over four years, of collecting things
+that did not reconcile.
 
 6
-00:00:25,013 --> 00:00:30,417
-He doesn't blink, does he? None of them do. The new
-ones. I've been counting for three
+00:00:38,289 --> 00:00:43,746
+A plant in Newark with fourteen years of
+depreciation and no purchase order. A campus
 
 7
-00:00:30,437 --> 00:00:30,796
-years.
+00:00:43,766 --> 00:00:49,416
+in Wilmington whose permits were signed by a planner
+who could not remember the meetings
 
 8
-00:00:31,315 --> 00:00:32,613
-I'd like to meet you.
+00:00:49,436 --> 00:00:54,893
+but recognised her own handwriting. Four towers
+that appeared on four skylines in one
 
 9
-00:00:33,134 --> 00:00:35,717
-I know you would. That's why I called.
+00:00:54,913 --> 00:01:00,499
+weekend in 2029, each with a complete photographic
+history. A payroll containing eleven
 
 10
-00:00:37,737 --> 00:00:43,841
-They met at dawn, in a diner forty miles from
-Wilmington, because Howard Lessing did not
+00:01:00,519 --> 00:01:06,297
+thousand people whose school records existed and whose
+schools had no yearbooks with their
 
 11
-00:00:43,861 --> 00:00:45,442
-trust any place closer.
+00:01:06,317 --> 00:01:07,200
+faces in them.
 
 12
-00:00:46,012 --> 00:00:51,112
-He had lost weight since Carrick had glimpsed him on
-the mezzanine. He held his coffee
+00:01:07,599 --> 00:01:09,939
+And one frame from a Swiss loading bay.
 
 13
-00:00:51,132 --> 00:00:56,173
-with both hands, the way he had held it at a staff
-meeting three years before, and he
+00:01:10,340 --> 00:01:16,507
+Individually, each of these was explicable, and
+Carrick could explain them. He had written
 
 14
-00:00:56,193 --> 00:01:01,234
-talked for two hours without eating, and Carrick —
-who had interviewed murderers, and
+00:01:16,527 --> 00:01:21,320
+the explanations out, one by one, and every
+explanation was plausible.
 
 15
-00:01:01,254 --> 00:01:06,772
-the parents of murdered children, and a man who had
-tried to buy ricin in Scranton — listened
+00:01:21,719 --> 00:01:27,416
+Together, they were not. That was his entire case,
+and there is no statute in the United
 
 16
-00:01:06,792 --> 00:01:11,833
-to him with the growing, sick sensation of a man
-who realises halfway through a story
+00:01:27,436 --> 00:01:29,170
+States code that covers it.
 
 17
-00:01:11,853 --> 00:01:13,679
-that he is going to believe it.
+00:01:29,569 --> 00:01:35,899
+He took it to his ASAC in September of 2033, after
+the Ravenna outbreak, when Umbrella's
 
 18
-00:01:14,368 --> 00:01:19,652
-It was a blood sample. His. He gave it to a
-technician with a label that said Control
+00:01:35,919 --> 00:01:42,033
+approval rating stood at eighty-eight per cent,
+which — as his supervisor pointed out
 
 19
-00:01:19,672 --> 00:01:25,017
-Seven and told him it was for calibration. I saw the
-printout. Cells dividing at forty
+00:01:42,053 --> 00:01:48,599
+to him with some sympathy — was approximately
+eighty-eight points higher than the Bureau's.
 
 20
-00:01:25,037 --> 00:01:30,570
-times the normal rate and not becoming cancer. A
-viral genome that doesn't match anything
+00:01:49,120 --> 00:01:53,410
+Owen. Walk me through what the predicate is.
+Not the wall. The predicate.
 
 21
-00:01:30,590 --> 00:01:36,061
-in any database on Earth. I copied it. And he knew.
-He knew the same night. He came into
+00:01:53,810 --> 00:01:59,966
+Records fraud. Systematic falsification of municipal
+and federal records across at least
 
 22
-00:01:36,081 --> 00:01:41,738
-the lab. The door didn't open, Agent Carrick. I was
-watching the door. He was just — there.
+00:01:59,986 --> 00:02:01,300
+nine jurisdictions.
 
 23
-00:01:42,259 --> 00:01:43,189
-And then?
+00:02:01,700 --> 00:02:02,810
+By whom?
 
 24
-00:01:43,709 --> 00:01:45,708
-And then he took off his glasses.
+00:02:03,209 --> 00:02:04,340
+That's the question.
 
 25
-00:01:47,727 --> 00:01:53,360
-Lessing stopped. His hands had begun, very slightly,
-to shake, and he put the cup down
+00:02:04,739 --> 00:02:09,812
+No, that's the *case*. You have no suspect, no
+witness, no victim, no loss, no complainant.
 
 26
-00:01:53,380 --> 00:01:55,463
-and flattened them on the table.
+00:02:09,832 --> 00:02:14,792
+You have a company that saved four million lives in
+March and a theory that the buildings
 
 27
-00:01:56,155 --> 00:02:02,786
-His eyes are red. Not bloodshot. Red. Like a coal.
-And the pupils go thin. Up and down.
+00:02:14,812 --> 00:02:18,709
+are wrong. Do you know what happens if I
+sign this? Not to you. To me.
 
 28
-00:02:02,806 --> 00:02:03,932
-Like a snake's.
+00:02:19,110 --> 00:02:23,789
+I know exactly what happens, which is why I've
+spent four years not asking you.
 
 29
-00:02:05,652 --> 00:02:11,647
-Carrick wrote it down. He wrote it down exactly as it
-was said, because that was procedure,
+00:02:24,189 --> 00:02:30,732
+The narrator wishes to record that the ASAC was not a
+coward and was not corrupt. He approved
 
 30
-00:02:11,667 --> 00:02:17,267
-and because he was already thinking about how it
-would read to a supervisor, and to a
+00:02:30,752 --> 00:02:36,729
+a limited preliminary inquiry, sixty days, no grand
+jury, no subpoenas, and he did it
 
 31
-00:02:17,287 --> 00:02:22,952
-prosecutor, and to an interview board in November.
-Eyes red, pupils vertical. It would
+00:02:36,749 --> 00:02:42,727
+because he had known Owen Carrick for fifteen years
+and had never once seen him wrong
 
 32
-00:02:22,972 --> 00:02:27,050
-read, he knew, like the statement of a
-man having a breakdown.
+00:02:42,747 --> 00:02:44,280
+about something small.
 
 33
-00:02:27,621 --> 00:02:33,053
-And he wrote it down anyway, and underlined it,
-because he had spent three minutes and
+00:02:44,680 --> 00:02:50,629
+Wesker knew within nineteen hours, and not
+because anybody betrayed anything.
 
 34
-00:02:33,073 --> 00:02:35,526
-forty seconds watching a man not blink.
+00:02:51,030 --> 00:02:57,222
+He knew because in 2030 he had bought a
+four-thousand-Point dossier on a CIA officer and
 
 35
-00:02:37,216 --> 00:02:39,081
-What do you want, Doctor Lessing?
+00:02:57,242 --> 00:03:03,717
+discovered that the System would sell him a complete
+account of any living person's actions,
 
 36
-00:02:39,603 --> 00:02:44,940
-I want someone to go down there. There's something
-under that building. The power, the
+00:03:03,737 --> 00:03:10,000
+and because since 2031 he had maintained a standing
+order — sixty-one dossiers, refreshed
 
 37
-00:02:44,960 --> 00:02:50,672
-liquid nitrogen, the elevator — Evelyn Marsh goes down
-in that elevator at night and doesn't
+00:03:10,020 --> 00:03:15,859
+weekly, on every human being who had ever formally
+asked a question about Umbrella.
 
 38
-00:02:50,692 --> 00:02:56,217
-come up for nine hours. There is something under the
-basement. And there's something that
+00:03:16,259 --> 00:03:19,089
+Carrick's was the only one he
+read himself.
 
 39
-00:02:56,237 --> 00:02:56,777
-breathes.
+00:03:20,240 --> 00:03:29,168
+Dossier. Carrick, Owen T. F B I Philadelphia,
+Supervisory Special Agent. Preliminary inquiry
 
 40
-00:02:57,296 --> 00:02:58,891
-What do you want for yourself?
+00:03:29,188 --> 00:03:37,435
+authorised, sixty days. Forty-one exhibits, no
+subpoenas, no disclosures to press. He
 
 41
-00:03:00,912 --> 00:03:06,472
-Lessing looked at him for a long time. When he
-answered, his voice had changed. It had
+00:03:37,455 --> 00:03:44,437
+has been told to stop three times and has
+not. He has not told his wife.
 
 42
-00:03:06,492 --> 00:03:11,987
-lost its tremor. It had become, for the first time,
-the voice of the man who had been
+00:03:45,027 --> 00:03:48,077
+The passenger had been
+listening. It spoke now.
 
 43
-00:03:12,007 --> 00:03:15,685
-promised a prize at a conference in
-nineteen ninety-four.
+00:03:48,598 --> 00:03:56,428
+Have him removed. A man like this is removed with a
+telephone call and a budget line;
 
 44
-00:03:16,376 --> 00:03:18,467
-I want to be the one who was right.
+00:03:56,448 --> 00:04:00,676
+you own nine senators'
+fundraising committees.
 
 45
-00:03:20,487 --> 00:03:26,524
-He opened Howard Lessing as a confidential human
-source on the twenty-sixth of September.
+00:04:01,076 --> 00:04:07,617
+Yes, and the day I do that he becomes a martyr with
+forty-one exhibits and a lawyer, and
 
 46
-00:03:26,544 --> 00:03:32,649
-The paperwork took nine days to clear. The codename,
-which Carrick chose because it amused
+00:04:07,637 --> 00:04:13,954
+every journalist who has been circling this company
+since Basel finally has a *story*
 
 47
-00:03:32,669 --> 00:03:37,140
-him for about thirty seconds and then
-never again, was Calibrator.
+00:04:13,974 --> 00:04:15,519
+instead of a feeling.
 
 48
-00:03:37,711 --> 00:03:44,517
-His supervisor, an assistant special agent in charge
-named Janet Kowal, signed the authorisation
+00:04:15,919 --> 00:04:18,269
+Then something quieter.
 
 49
-00:03:44,537 --> 00:03:49,920
-on the ninth day. Then she closed her office
-door and asked him to sit down.
+00:04:18,670 --> 00:04:20,080
+(very cold) No.
 
 50
-00:03:50,610 --> 00:03:55,872
-I've had two calls this week about Umbrella. One from
-the U-S Attorney, who wants to know
+00:04:20,754 --> 00:04:23,460
+I have not suggested anything.
 
 51
-00:03:55,892 --> 00:04:01,096
-why we're still looking at a company that answered a
-subpoena with forty thousand pages.
+00:04:23,860 --> 00:04:30,433
+You have suggested it for four years, in a dozen
+different ways, about a dozen different
 
 52
-00:04:01,116 --> 00:04:06,141
-One from a staffer on the Senate Health Committee,
-who wanted to know — very politely
+00:04:30,453 --> 00:04:37,327
+people, and the answer has been the same every time and
+will be the same when we are running
 
 53
-00:04:06,161 --> 00:04:11,364
-— whether the Bureau was aware that Aeterna is saving
-the lives of American seniors, and
+00:04:37,347 --> 00:04:43,696
+four planets. Nobody dies for being clever near me.
+Not because I have a conscience —
 
 54
-00:04:11,384 --> 00:04:13,561
-whether we had considered the optics.
+00:04:43,716 --> 00:04:50,065
+you of all things know I do not — but because a
+corpse is a *permanent* document, and
 
 55
-00:04:14,081 --> 00:04:15,481
-I've considered them.
+00:04:50,085 --> 00:04:55,610
+I have spent seven years making sure this
+company has never generated one.
 
 56
-00:04:16,002 --> 00:04:21,163
-Owen. You have a board in November. You're the
-strongest candidate from this office in
+00:04:56,009 --> 00:05:02,676
+The narrator notes, for the record, that this rule
+held for seventy-seven years, that
 
 57
-00:04:21,183 --> 00:04:26,345
-five years. Don't hang your career on a
-whistleblower who says the CEO has snake eyes.
+00:05:02,696 --> 00:05:09,756
+it was broken once, in 2110, in another star system,
+and that Wesker regarded the breaking
 
 58
-00:04:27,865 --> 00:04:29,304
-He didn't blink, Janet.
+00:05:09,776 --> 00:05:14,240
+of it as the worst professional error
+of his second life.
 
 59
-00:04:29,824 --> 00:04:30,456
-What?
+00:05:14,759 --> 00:05:17,120
+Find out where he drinks.
 
 60
-00:04:30,975 --> 00:04:32,455
-Nothing. I'll be careful.
+00:05:17,519 --> 00:05:19,519
+Owen Carrick did not drink.
 
 61
-00:04:34,475 --> 00:04:39,127
-The law came next, in its own careful time,
-and the law was Umbrella's.
+00:05:19,920 --> 00:05:22,250
+So Wesker went to his house.
 
 62
-00:04:39,697 --> 00:04:45,675
-The company's outside counsel filed a motion to
-quash the grand jury's second subpoena
+00:05:22,649 --> 00:05:28,734
+No security. No car waiting. He parked a black
+saloon two streets away and walked, in
 
 63
-00:04:45,695 --> 00:04:51,953
-on the grounds that it was overbroad, and won. They
-filed a request for a protective order
+00:05:28,754 --> 00:05:34,839
+a long coat, on a Tuesday evening, and knocked on
+the front door of a house in Media,
 
 64
-00:04:51,973 --> 00:04:57,881
-over the Aeterna trial data on the grounds that it
-was a trade secret worth billions,
+00:05:34,859 --> 00:05:37,640
+Pennsylvania at twenty to ten at night.
 
 65
-00:04:57,901 --> 00:05:04,089
-and won that too. They produced, when the court
-ordered them to produce anything, so much
+00:05:38,040 --> 00:05:43,860
+Owen Carrick opened it and found the most
+photographed man on earth standing on his step.
 
 66
-00:05:04,109 --> 00:05:10,506
-of it, so fast, so perfectly indexed, that the United
-States Attorney's office in Wilmington
+00:05:44,764 --> 00:05:46,215
+My wife's in the kitchen.
 
 67
-00:05:10,526 --> 00:05:16,784
-— which had four lawyers assigned to the whole of its
-white-collar docket — began to refer
+00:05:46,615 --> 00:05:54,239
+I know. I would rather she didn't hear this, and I
+would rather you didn't have to explain
 
 68
-00:05:16,804 --> 00:05:19,644
-to the Umbrella boxes simply as the wall.
+00:05:54,259 --> 00:06:00,185
+me. There is a diner on Baltimore Pike that
+is open until twenty-nine.
 
 69
-00:05:20,213 --> 00:05:25,687
-Carrick had the wall in his office. By November it
-reached the ceiling on two sides.
+00:06:00,584 --> 00:06:02,394
+(flat) Am I under some kind of —
 
 70
-00:05:26,257 --> 00:05:31,874
-He did not miss the interview board. He went, in
-his best suit, to Washington, and he
+00:06:02,795 --> 00:06:09,779
+Agent Carrick. I am here because you are the only
+person in the government of this country
 
 71
-00:05:31,894 --> 00:05:38,042
-answered every question well, and when they asked him
-about his current caseload he mentioned
+00:06:09,799 --> 00:06:16,005
+who has asked the correct question, and I have
+come to answer it. Get your coat.
 
 72
-00:05:38,062 --> 00:05:42,949
-hazmat drills, and a man in Scranton, and did
-not mention Umbrella at all.
+00:06:16,404 --> 00:06:22,106
+The narrator will now tell you about a conversation
+that lasted four hours in a booth
 
 73
-00:05:43,519 --> 00:05:49,255
-He did not get the job. It went to an agent from
-Chicago. He would never know — because
+00:06:22,126 --> 00:06:28,030
+at the back of a diner, that was recorded by Carrick
+on a phone in his shirt pocket, and
 
 74
-00:05:49,275 --> 00:05:55,143
-nobody ever told him, and because it did not happen
-in any way that could be written down
+00:06:28,050 --> 00:06:31,935
+that Albert Wesker knew was being
+recorded, and permitted.
 
 75
-00:05:55,163 --> 00:06:01,030
-— that one of the three people on the board had
-received, the week before, an unsolicited
+00:06:32,454 --> 00:06:33,225
+Ask.
 
 76
-00:06:01,050 --> 00:06:06,653
-and very generous offer to join a biosecurity
-advisory council funded by the Umbrella
+00:06:33,625 --> 00:06:37,795
+The Newark plant. Route 72. January 2027.
 
 77
-00:06:06,673 --> 00:06:12,342
-Foundation, and had been thinking, during Owen
-Carrick's interview, about the stipend.
+00:06:38,194 --> 00:06:44,799
+It did not exist on the eighth of January and it
+existed on the ninth. Three hundred and
 
 78
-00:06:14,411 --> 00:06:16,475
-The Director knew the day it happened.
+00:06:44,819 --> 00:06:51,273
+eleven people went to work there on the Monday. All
+of them were manufactured over the
 
 79
-00:06:17,045 --> 00:06:22,836
-He had known Howard Lessing's face for three years
-now. He knew its guilt, and its fear,
+00:06:51,293 --> 00:06:57,897
+weekend with complete lives, families, and memories.
+One of them, a supervisor named Ray
 
 80
-00:06:22,856 --> 00:06:28,449
-and the long slow decay of that fear, like the
-half-life of an isotope, and the spite
+00:06:57,917 --> 00:07:04,446
+Dorsey, can describe a holiday in Ocean City that
+never happened, including the rain on
 
 81
-00:06:28,469 --> 00:06:34,194
-that had begun to grow back in the space it left. He
-had watched it every Monday across
+00:07:04,466 --> 00:07:05,425
+the Thursday.
 
 82
-00:06:34,214 --> 00:06:36,439
-a table, and filed it, and waited.
+00:07:06,264 --> 00:07:07,295
+You're admitting it.
 
 83
-00:06:37,009 --> 00:06:42,244
-On Monday the first of October, Howard Lessing came
-into the leadership meeting with a
+00:07:07,694 --> 00:07:10,125
+I am *stating* it. Next.
 
 84
-00:06:42,264 --> 00:06:43,161
-different face.
+00:07:10,524 --> 00:07:11,514
+The towers.
 
 85
-00:06:43,730 --> 00:06:49,532
-Not braver. Lessing was not a brave man. It was
-something the Cold-Read took a moment
+00:07:11,915 --> 00:07:19,128
+Four, in a weekend, in January 2029. Nine million
+people per city had their memories adjusted
 
 86
-00:06:49,552 --> 00:06:55,353
-to name, because it was rare, and because he had
-not expected to see it in Lessing at
+00:07:19,148 --> 00:07:25,817
+so that the buildings would have always been there.
+That is thirty-six million people,
 
 87
-00:06:55,373 --> 00:06:55,627
-all.
+00:07:25,837 --> 00:07:32,429
+and the only lasting effect is that they are all
+very slightly less curious than they
 
 88
-00:06:56,197 --> 00:06:57,427
-It was purpose.
+00:07:32,449 --> 00:07:33,285
+used to be.
 
 89
-00:06:59,315 --> 00:07:00,959
-He has gone to them.
+00:07:33,685 --> 00:07:35,814
+The building in Wilmington.
 
 90
-00:07:01,480 --> 00:07:02,120
-Yes.
+00:07:36,214 --> 00:07:43,115
+Fourteenth of September 2026, five fifty-eight in
+the morning. I opened my eyes in it
 
 91
-00:07:02,641 --> 00:07:07,555
-He is an informant. For the police. In
-your house. At your table.
+00:07:43,135 --> 00:07:50,036
+two minutes later and I had been dead for seventeen
+years in a place that is not this
 
 92
-00:07:08,074 --> 00:07:12,769
-For the Federal Bureau of Investigation. Try
-to keep up with the century.
+00:07:50,056 --> 00:07:50,524
+world.
 
 93
-00:07:13,290 --> 00:07:19,598
-Then end it. Tonight. You have a creature in the
-ground that no one knows exists. You
+00:07:50,925 --> 00:07:53,795
+Carrick's coffee had gone cold
+in front of him.
 
 94
-00:07:19,618 --> 00:07:24,811
-have six men who do not show up on a camera.
-You have a thousand ways.
+00:07:54,314 --> 00:07:55,941
+Why are you telling me this?
 
 95
-00:07:26,331 --> 00:07:26,951
-No.
+00:07:56,341 --> 00:08:01,938
+Because you have already worked out ninety per cent
+of it and you are the only person
 
 96
-00:07:27,471 --> 00:07:33,461
-I told you. Three years ago, in the car. I told you
-that you had made a man who hated
+00:08:01,958 --> 00:08:07,951
+who has, and because I want you to hear the last ten
+per cent from me rather than construct
 
 97
-00:07:33,481 --> 00:07:37,350
-you. I told you hate shows up to
-everything eventually.
+00:08:07,971 --> 00:08:10,331
+it yourself over another four years.
 
 98
-00:07:37,870 --> 00:07:40,282
-And it's shown up. Good. Let him
-wear the wire.
+00:08:10,730 --> 00:08:16,619
+And then Albert Wesker leaned back in a vinyl booth
+in a diner in Pennsylvania and did
 
 99
-00:07:42,302 --> 00:07:47,812
-It was the purest distillation of the Wesker half
-of the mind that the Adolf half had
+00:08:16,639 --> 00:08:20,810
+the thing he had planned since the
+twenty-first of September.
 
 100
-00:07:47,832 --> 00:07:53,082
-yet seen, and it disturbed the old voice more
-than anything had since the bunker.
+00:08:21,331 --> 00:08:28,162
+Now. You have it. Every word of it is true, and you
+have it on the telephone in your shirt
 
 101
-00:07:53,651 --> 00:07:59,550
-A traitor, discovered, is a problem. A traitor,
-discovered, who does not know he has been
+00:08:28,182 --> 00:08:31,741
+pocket, and I am not going to
+take it from you.
 
 102
-00:07:59,570 --> 00:08:05,203
-discovered, is a radio station. He broadcasts to
-his handlers whatever he believes to
+00:08:32,020 --> 00:08:34,530
+Tell me what you are going to do with it.
 
 103
-00:08:05,223 --> 00:08:10,058
-be true. And if you control what he believes,
-you control what they hear.
+00:08:35,480 --> 00:08:41,036
+The narrator asks you to sit in that booth for a
+moment, because this is the trap, and
 
 104
-00:08:10,747 --> 00:08:15,820
-Every Monday, Howard will hear something. A little
-piece of the company. A budget line.
+00:08:41,056 --> 00:08:46,611
+it is the finest one in this entire account, and it
+is made entirely out of the truth.
 
 105
-00:08:15,840 --> 00:08:21,089
-A shipment. A rumour about a new facility in Nevada.
-And every Monday night, he will drive
+00:08:47,010 --> 00:08:52,630
+Carrick could arrest no one; nothing described was
+a federal crime. He could take the
 
 106
-00:08:21,109 --> 00:08:26,240
-to a pay phone and tell Owen Carrick. And Owen
-Carrick will write it down, and chase it,
+00:08:52,650 --> 00:08:58,335
+recording to his ASAC, who would hear the most
+powerful man on earth calmly describing
 
 107
-00:08:26,260 --> 00:08:30,163
-and find — each time — exactly what I've
-put there for him to find.
+00:08:58,355 --> 00:09:04,107
+memory alteration and interdimensional resurrection
+to an agent who had been told three
 
 108
-00:08:30,682 --> 00:08:32,903
-And when he finds nothing?
+00:09:04,127 --> 00:09:10,343
+times to drop the case, and who would order a
+psychiatric evaluation before the tape finished.
 
 109
-00:08:33,423 --> 00:08:38,802
-Then he'll start to doubt his source. And then his
-source will start to doubt himself.
+00:09:10,363 --> 00:09:16,049
+He could go to a newspaper, which would require a
+corroborating source, of which there
 
 110
-00:08:38,822 --> 00:08:44,264
-And then, one day, Howard Lessing will make a
-mistake that I haven't arranged. And that
+00:09:16,069 --> 00:09:21,755
+were none, and which would end with him on a podcast
+in eighteen months with a wall of
 
 111
-00:08:44,284 --> 00:08:46,335
-one — that one I'll be ready for.
+00:09:21,775 --> 00:09:23,280
+photographs behind him.
 
 112
-00:08:48,985 --> 00:08:54,533
-Assessment. Hostile source
-identified. Channel acquired.
+00:09:23,681 --> 00:09:29,111
+Or he could do the thing that the evidence actually
+supported, which is what Owen Carrick
 
 113
-00:08:56,350 --> 00:09:00,918
-The System agreed with him. It usually did,
-when he was being clever.
+00:09:29,131 --> 00:09:33,031
+had been circling for four years without
+letting himself see it.
 
 114
-00:09:01,486 --> 00:09:05,696
-It would not agree with him about Howard
-Lessing for very much longer.
+00:09:33,551 --> 00:09:35,321
+(very soft) There's no crime.
 
 115
-00:09:07,765 --> 00:09:11,362
-For three months, it worked exactly as
-he had said it would.
+00:09:35,721 --> 00:09:37,110
+There is no crime.
 
 116
-00:09:11,932 --> 00:09:17,831
-On Mondays, Howard Lessing overheard things. A
-remark from Catherine about a new data
+00:09:37,510 --> 00:09:42,058
+There are three hundred and eleven people in Newark
+who are — what? What *are* they? Are
 
 117
-00:09:17,851 --> 00:09:24,098
-centre in Nevada, which was real, and which held
-nothing but servers. A shipment of liquid
+00:09:42,078 --> 00:09:42,680
+they people?
 
 118
-00:09:24,118 --> 00:09:30,295
-nitrogen that turned out, when Carrick traced it, to
-be for the Basel vault. A late-night
+00:09:43,081 --> 00:09:48,690
+And Wesker paused, and the narrator notes that this
+is one of perhaps four occasions on
 
 119
-00:09:30,315 --> 00:09:36,422
-conversation between two of the research cohort about
-a primate study, which led Carrick
+00:09:48,710 --> 00:09:54,513
+which he answered a question because he found it
+interesting rather than because he needed
 
 120
-00:09:36,442 --> 00:09:42,758
-to a licensed facility in Maryland, where he found
-forty perfectly healthy rhesus macaques,
+00:09:54,533 --> 00:09:55,161
+something.
 
 121
-00:09:42,778 --> 00:09:47,006
-and an inspector who was very annoyed
-to be asked about them.
+00:09:55,681 --> 00:10:04,153
+Ray Dorsey loves his wife. He is kind to his night
+shift. He worries about his cholesterol.
 
 122
-00:09:47,576 --> 00:09:53,731
-Every lead was real. Every lead went nowhere. And every
-Monday night, on a pay phone somewhere
+00:10:04,173 --> 00:10:12,178
+Whatever else is true, that is also true, and it
+will be true for another forty years,
 
 123
-00:09:53,751 --> 00:09:59,643
-different, Howard Lessing sounded a little less
-certain, and Owen Carrick sounded a little
+00:10:12,198 --> 00:10:20,391
+and nothing I have found can distinguish him from a
+man born in 1979 except that I know.
 
 124
-00:09:59,663 --> 00:10:00,365
-more tired.
+00:10:20,791 --> 00:10:22,181
+That isn't an answer.
 
 125
-00:10:00,936 --> 00:10:06,827
-Lessing tried, once, in November, to photograph the
-freight elevator panel at night. He
+00:10:22,581 --> 00:10:29,411
+No. It is the only honest one available, and I have
+thought about it more than you have.
 
 126
-00:10:06,847 --> 00:10:12,875
-waited until the building was empty. He went down to
-the basement with his phone. He took
+00:10:29,811 --> 00:10:35,230
+The offer came at half past one in the morning and
+it was not a bribe, which is why it
 
 127
-00:10:12,895 --> 00:10:16,137
-nineteen pictures of the panel
-from every angle.
+00:10:35,250 --> 00:10:35,673
+worked.
 
 128
-00:10:16,706 --> 00:10:22,684
-There were two buttons in every picture. Loading
-dock. Basement. And a smooth steel plate
+00:10:36,192 --> 00:10:42,923
+I am going to grow, Agent Carrick. I am not going to
+stop and nothing on this planet is
 
 129
-00:10:22,704 --> 00:10:24,774
-beneath them, with four screws.
+00:10:42,943 --> 00:10:49,596
+going to make me, and in nine years I will be larger
+than the government you work for.
 
 130
-00:10:25,344 --> 00:10:31,226
-He had seen Evelyn Marsh go down past that plate with
-his own eyes. He knew it was there.
+00:10:49,616 --> 00:10:56,579
+You have three futures. In the first, you continue
+this case, and it destroys you in about
 
 131
-00:10:31,246 --> 00:10:36,929
-And he stood in the empty freight elevator at
-midnight, staring at the pictures on his
+00:10:56,599 --> 00:11:03,330
+eighteen months without inconveniencing me at all.
+In the second, you close it, and you
 
 132
-00:10:36,949 --> 00:10:42,699
-phone, and for the first time in three years, Howard
-Lessing began to wonder whether he
+00:11:03,350 --> 00:11:10,003
+spend the next twenty years in a field office
+knowing what you know and doing nothing.
 
 133
-00:10:42,719 --> 00:10:43,628
-was going mad.
+00:11:10,403 --> 00:11:11,633
+(flat) And the third.
 
 134
-00:10:45,697 --> 00:10:51,416
-The call that changed everything came a week before
-Christmas, to his own phone, at his
+00:11:12,033 --> 00:11:15,743
+The third is that you come and do
+this job *inside*.
 
 135
-00:10:51,436 --> 00:10:52,603
-own kitchen table.
+00:11:16,143 --> 00:11:18,713
+He put a single sheet of paper
+on the table.
 
 136
-00:10:53,173 --> 00:10:58,740
-It was not from Carrick. It was not from Umbrella.
-It was from a number in New Jersey,
+00:11:19,232 --> 00:11:26,608
+Director of Internal Security. You will report to me
+and to no one else. Your remit is
 
 137
-00:10:58,760 --> 00:11:04,261
-and when Lessing answered it, a smooth, familiar
-voice that he had not heard in three
+00:11:26,628 --> 00:11:33,918
+every person in this company, at every level,
+without exception — including Mr. Hale,
 
 138
-00:11:04,281 --> 00:11:04,976
-years said:
+00:11:33,938 --> 00:11:41,485
+including Dr. Marsh, including Ms. Adeyemi, and
+including me. You will have unrestricted
 
 139
-00:11:05,666 --> 00:11:08,781
-Howard. It's Simon Ferris. You
-probably don't remember me.
+00:11:41,505 --> 00:11:49,482
+access to every facility, including three that are not
+on any plan. You may look at anything.
 
 140
-00:11:09,299 --> 00:11:10,410
-I remember you.
+00:11:49,883 --> 00:11:52,043
+And what do I do when I find something?
 
 141
-00:11:10,931 --> 00:11:15,752
-I'm at Halvorsen Pike now. Head of external innovation. I
-was going through some old correspondence
+00:11:52,442 --> 00:11:59,557
+You tell me, and I will either fix it or explain to
+you why I will not, and you will decide
 
 142
-00:11:15,772 --> 00:11:20,055
-the other day, and I found an email you wrote me in
-the autumn of twenty twenty-six. You
+00:11:59,577 --> 00:12:06,378
+what to do with that. I am not asking you to stop
+being what you are. I am proposing to
 
 143
-00:11:20,075 --> 00:11:24,261
-never sent it, I know — but it was in the drafts on
-a server we took over when Verdant
+00:12:06,398 --> 00:12:11,552
+be the only employer on this planet who
+has ever had a use for it.
 
 144
-00:11:24,281 --> 00:11:27,636
-went down. Something about data of
-extraordinary commercial interest.
+00:12:11,952 --> 00:12:16,092
+Owen Carrick looked at the sheet of
+paper for a very long time.
 
 145
-00:11:29,655 --> 00:11:31,521
-Lessing did not say anything.
+00:12:16,613 --> 00:12:20,663
+You've made it impossible to say no
+without becoming useless.
 
 146
-00:11:32,091 --> 00:11:37,942
-He was thinking — with the slow, dreadful clarity of a
-man who has run out of other options
+00:12:21,062 --> 00:12:27,175
+Yes. That is what I do. You will get used to
+watching me do it to other people, and I
 
 147
-00:11:37,962 --> 00:11:43,813
-— about the Federal Bureau of Investigation, which had
-spent three months chasing shipments
+00:12:27,195 --> 00:12:33,597
+would encourage you to keep a note of every occasion,
+because that note is the only thing
 
 148
-00:11:43,833 --> 00:11:49,556
-of liquid nitrogen. About a freight elevator with a
-button that did not photograph. About
+00:12:33,617 --> 00:12:37,133
+in this company that will ever be
+worth anything.
 
 149
-00:11:49,576 --> 00:11:55,298
-a man in a lab in the middle of the night whose eyes
-had turned red. About a machine that
+00:12:37,533 --> 00:12:43,581
+He resigned from the Bureau on the eleventh of
+November 2033. His ASAC signed the form
 
 150
-00:11:55,318 --> 00:11:55,879
-breathed.
+00:12:43,601 --> 00:12:47,462
+with visible relief and told him it
+was the right call.
 
 151
-00:11:56,448 --> 00:12:02,974
-And about the fact that Halvorsen Pike, the second
-largest pharmaceutical company on Earth,
+00:12:47,863 --> 00:12:53,774
+He kept the recording. It is still, sixty years
+later, in a safe in a house in Media,
 
 152
-00:12:02,994 --> 00:12:09,520
-was losing eighteen billion dollars a year to Aeterna,
-and would do — he suspected — almost
+00:12:53,794 --> 00:12:57,333
+Pennsylvania, and nobody has ever
+heard it but him.
 
 153
-00:12:09,540 --> 00:12:12,181
-anything to find out how it was made.
+00:12:58,482 --> 00:13:06,971
+Adversary recruited. Owen T. Carrick. Human. Loyalty,
+thirty-four per cent. Role: Director
 
 154
-00:12:12,873 --> 00:12:14,415
-Howard? Are you still there?
+00:13:06,991 --> 00:13:15,386
+of Internal Security. He has not changed his mind
+about you. He has changed his location.
 
 155
-00:12:16,433 --> 00:12:19,144
-I'm here, Simon. I think we should talk.
+00:13:15,406 --> 00:13:18,128
+Five hundred thousand Points.
 
 156
-00:12:21,164 --> 00:12:26,452
-He did not tell Owen Carrick about the call. It was
-the first thing in three months he
+00:13:18,719 --> 00:13:25,285
+On his first Friday, Carrick brought the case file
+to Arklay in a cardboard box: four
 
 157
-00:12:26,472 --> 00:12:27,502
-had not told him.
+00:13:25,305 --> 00:13:31,639
+years, forty-one exhibits, eleven hundred pages,
+every one of them written by him.
 
 158
-00:12:28,072 --> 00:12:32,499
-And it was the one thing, that winter, that
-Albert Wesker did not know.
+00:13:32,038 --> 00:13:38,465
+He burned it in the library fireplace himself, page
+by page, and it took two hours, and
+
+159
+00:13:38,485 --> 00:13:44,763
+Wesker sat in a chair on the other side of the room
+the entire time and did not speak
+
+160
+00:13:44,783 --> 00:13:45,133
+once.
+
+161
+00:13:45,533 --> 00:13:49,322
+When the last page went in, Carrick
+stood looking at the fire.
+
+162
+00:13:49,842 --> 00:13:55,163
+I want to say something and I want you to let me say
+it once and never mention it again.
+
+163
+00:13:55,562 --> 00:13:56,321
+Say it.
+
+164
+00:13:56,721 --> 00:14:02,931
+Everything you've done up to tonight has been good.
+The test. The licence. Ravenna. I've
+
+165
+00:14:02,951 --> 00:14:09,020
+read all of it and I can't find the bodies, and I've
+*looked*, I've looked harder than
+
+166
+00:14:09,040 --> 00:14:09,941
+anyone alive.
+
+167
+00:14:10,221 --> 00:14:15,023
+But I know what it costs to build something that
+can't be stopped, and one day you're
+
+168
+00:14:15,043 --> 00:14:19,903
+going to want something that isn't good, and on that
+day there will be no one left who
+
+169
+00:14:19,923 --> 00:14:20,811
+can tell you no.
+
+170
+00:14:21,530 --> 00:14:26,978
+So I'm taking the job, and I'm going to be the one who
+tells you no. And when I do, you're
+
+171
+00:14:26,998 --> 00:14:32,081
+going to hate it, and I need you to remember that
+this is the night you asked me to.
+
+172
+00:14:32,480 --> 00:14:37,551
+Wesker rose, and crossed the room, and looked
+into the fire for a moment.
+
+173
+00:14:38,071 --> 00:14:39,480
+I will remember it.
+
+174
+00:14:39,880 --> 00:14:47,257
+The narrator notes that he did remember it, on four
+separate occasions, in 2038, 2041,
+
+175
+00:14:47,277 --> 00:14:55,170
+2047 and 2061; that he overruled Carrick every time;
+and that he never once had him removed,
+
+176
+00:14:55,190 --> 00:15:00,331
+which is the single most human thing
+Albert Wesker ever did.
