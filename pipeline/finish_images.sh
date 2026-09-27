@@ -33,6 +33,13 @@ log "swapping the generated art in"
 rm -rf work/images_procedural
 mv work/images work/images_procedural && mv "$SRC" work/images || { log "ABORT: swap failed"; exit 1; }
 
+# A hold file stops the chain here, with the new art in place but nothing rendered: used when
+# the soundtrack is about to change, since a render against the old mixes would be thrown away.
+if [ -f work/HOLD_RENDER ]; then
+  log "RENDER HELD (work/HOLD_RENDER exists): art is swapped in; render after the audio work"
+  exit 0
+fi
+
 touch "$STAMP"
 sleep 1
 log "re-rendering 50 chapters"
