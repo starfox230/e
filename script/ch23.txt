@@ -111,6 +111,7 @@ WESKER: (soft) You have never once offered me a shortcut before.
 SYSTEM: (flat) It is not a shortcut. It is the correct price, and you are the first host to reach this line with the temperament to be told it.
 N: The narrator notes that Albert Wesker did not buy it that night, or that year. He spent his stat points in threes for another twenty-four years, the slow way, like a man walking up a mountain he has been told is there.
 N: The vault at Arklay was opened on the fourth of December 2062, twenty-four years after this conversation, and everything in the next nine chapters is the reason for the delay.
+N: From somewhere behind his eyes, the passenger spoke.
 ADOLF: (soft) You are frightened of it.
 WESKER: (cold) I am *careful* with it. I have been offered a thing that permanently changes what I am, by an entity that has never once explained its own interest, and I intend to be at the top of every other ladder in the world before I take the step I cannot take back.
 ADOLF: And if it is a trap?

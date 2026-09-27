@@ -46,6 +46,7 @@ N: None of those people had ever lived. All of them were mourned.
 [img] an old cemetery on a hillside at dawn, rows of headstones, mist, a lone figure in a long black coat standing among them
 [loc] Raccoon City — Sunday 17 September, 6:40 a.m.
 N: He stood in that cemetery for an hour, which is the longest he is recorded as standing anywhere without doing anything, and what he was doing was arithmetic.
+N: The voice that was not his came up out of the quiet.
 ADOLF: (soft) You are upset.
 WESKER: I am calculating. Twenty-four thousand graves is four generations. Four generations is a history, and a history is a thing people will die to defend. The System did not give me a hundred thousand people. It gave me a hundred thousand people with *grandparents*.
 ADOLF: It has given you a nation.
@@ -110,6 +111,7 @@ Umbrella now governs. Govern well; the ledger is honest.
 [/system]
 N: He climbed to the top row of an empty stadium at ten o'clock at night and looked down the valley at a hundred thousand lit windows.
 N: Two years earlier he had been a man in a chair with a basement door that did not go anywhere.
+N: The other half of him had an opinion.
 ADOLF: (soft) Can they be made to chant?
 N: And for once Wesker did not answer immediately. He stood with his hands behind his back and looked at the lights for a while.
 WESKER: Yes.

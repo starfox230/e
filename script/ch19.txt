@@ -23,6 +23,7 @@ WESKER: (soft) Nine million people are not going to watch a Senate hearing, Ms. 
 [music] m_scheme -9
 [img] {WESKER} standing alone at a hotel window at night, a lit dome in the distance
 [loc] Hotel suite, Washington — 9 April, 5:40 a.m.
+N: Something behind his eyes turned over, and spoke.
 ADOLF: You have not asked me for anything.
 WESKER: No.
 ADOLF: (soft) Four hours under oath, hostile chair, nine cameras, and you have not asked me for one thing.
@@ -105,6 +106,7 @@ SENATOR: (slow) He is right about that. That is what I cannot get past. He is ri
 [music] m_scheme -8
 [img] {WESKER} alone in the back of a car at night, papers on the seat beside him, city lights
 [loc] The road to Wilmington — 9 April, 8:30 p.m.
+N: The voice that was not his came up out of the quiet.
 ADOLF: (soft) Two hundred and forty billion dollars.
 WESKER: Yes.
 ADOLF: You gave away the mechanism of your own supremacy in this country to a woman who intended to destroy you, and she thanked you for it.
@@ -112,8 +114,10 @@ WESKER: (cold) I gave away a *lock*, Adolf. Not a door. The escrow triggers if I
 ADOLF: (soft) You have made a template.
 WESKER: I have made a template, and I wrote it myself, and it will be copied in eleven parliaments inside two years, and every copy will be modelled on the version that I chose to offer.
 N: The car went north up the interstate in the dark.
+N: The other half of him had an opinion.
 ADOLF: (soft) She was right, though.
 N: Wesker turned his head.
+N: In the silence, the passenger.
 ADOLF: The senator. Her question was correct. There is no one on this earth who can make you stop.
 [pause 0.6]
 WESKER: (very cold) No. And in about nine years, when there is a stadium in Pennsylvania with ninety thousand people in it shouting the name of this company, I would like you to remember that on the ninth of April 2034 I stood in front of the government of the United States and told them precisely that, on the record, with the cameras running.

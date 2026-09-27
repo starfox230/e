@@ -71,6 +71,7 @@ N: The lift went down past the third garage level, and kept going.
 N: Nine rooms. A containment wing rated for organisms that no ordinary company has any business owning. A cold vault with a hand-wheel door thirty centimetres thick. A sequencing bench, an incubator bank, an autoclave, a shower-down airlock, and a freight lift that officially served a storage mezzanine on the second floor.
 N: The paint smelled of nothing. The steel was the temperature of the surrounding earth. There was a service tag on the air handler dated March 2019 and signed by a contractor in Newark who had been in business for forty years and who would, if asked, remember the job.
 N: Wesker walked the length of it twice. At the far end he stopped, and put one gloved hand flat against a containment door, and stood there.
+N: From somewhere behind his eyes, the passenger spoke.
 ADOLF: You are pleased.
 WESKER: I am.
 ADOLF: It is a basement.
@@ -123,6 +124,7 @@ N: He felt it happen. That is the detail he would never describe to anyone, not 
 N: Two more purchases, small ones, from the Personnel tab: laboratory technicians, six hundred Points each.
 N: They were in the building on Thursday morning. Human resources had their files: one from Rutgers, one from Delaware State, both interviewed in June by Dr. Voss, who remembered the interviews and could describe what they had worn. Payroll had them. The coffee fund had them. One of them had a bicycle chained outside with a lock that had been rusting for a season.
 N: Wesker watched them work for an hour from the observation window, and noted that they were better than competent and worse than curious. They did precisely what they were asked. They did not ask what it was for.
+N: The voice in his skull chose that moment to arrive.
 ADOLF: You should tell them.
 WESKER: Tell them what?
 ADOLF: What they are part of. Men work harder for a cathedral than for a wage.

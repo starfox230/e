@@ -35,6 +35,7 @@ Note: he has been told to stop three times and has not.
 Note: he has not told his wife.
 [say] Dossier. Carrick, Owen T. F B I Philadelphia, Supervisory Special Agent. Preliminary inquiry authorised, sixty days. Forty-one exhibits, no subpoenas, no disclosures to press. He has been told to stop three times and has not. He has not told his wife.
 [/system]
+N: The passenger had been listening. It spoke now.
 ADOLF: (soft) Have him removed. A man like this is removed with a telephone call and a budget line; you own nine senators' fundraising committees.
 WESKER: (cold) Yes, and the day I do that he becomes a martyr with forty-one exhibits and a lawyer, and every journalist who has been circling this company since Basel finally has a *story* instead of a feeling.
 ADOLF: Then something quieter.

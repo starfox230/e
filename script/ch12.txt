@@ -112,6 +112,7 @@ Reward: 3,000,000 Points · Intelligence tab · Agency banner
 [img] {WESKER} standing alone at the top-floor window of a glass tower at night looking out over a river and a lit city
 [loc] London — 11 February 2029, 10:40 p.m.
 N: He went to London in February, to the forty-first floor of a building that had won an award in a year it did not exist, and stood at the window over the river in the dark.
+N: The voice inside him, unasked.
 ADOLF: (soft) Say it.
 WESKER: Say what?
 ADOLF: You have been standing there for twenty-three minutes. You are not admiring the view; you have no interest in views. You are counting something.

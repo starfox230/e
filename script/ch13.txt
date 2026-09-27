@@ -101,6 +101,7 @@ Note: this stat can no longer be purchased. It must be earned in front of people
 [img] {WESKER} sitting alone in the back of a car at night, city lights moving past the window, unreadable expression
 [loc] The road to Basel airport — 19 June, 1:20 p.m.
 N: In the car, he was quiet for a long time.
+N: The other voice stirred.
 ADOLF: (soft) Thirteen from one stat. Presence twenty-one to thirty-four. I have been in your skull for three years and that is the largest number either of us has moved in a day.
 WESKER: Yes.
 ADOLF: You will say it now.

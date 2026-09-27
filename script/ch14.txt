@@ -69,6 +69,7 @@ Reward: Ability — Mundane Immunity
 Effect: disease, toxin, venom and ordinary poison have no purchase on you.
 [say] Hidden mission complete. Hide in the light. The truth has been published at the largest available scale and is now unbelievable. Reward: Mundane Immunity. Disease, toxin, venom and ordinary poison have no purchase on you.
 [/system]
+N: From somewhere behind his eyes, the passenger spoke.
 ADOLF: (soft) You told them what you are, and they applauded.
 WESKER: (cold) I told them *precisely* what I am, at the largest scale available, and it cost me nine hundred million dollars, and it is the single cheapest piece of security this company will ever buy. There is now no footage of me that can ever be used as evidence of anything.
 

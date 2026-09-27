@@ -76,6 +76,7 @@ N: The narrator notes that she was correct about that, that both of them knew it
 N: It was a glass ampoule the length of a thumb, in a black case, on a steel table, in a room nine levels under a house in a forest in Pennsylvania.
 N: There was a chair. There was Evelyn Marsh, sitting on the floor against the far wall with her arms around her knees, which is not how a Director of a Progenitor Initiative sits, and which is how she sat.
 N: And there was Albert Wesker, thirty-six years and eighty-one days after he had opened his eyes in a leather chair in an empty office in Wilmington with ten thousand Points and eleven people who could not disobey him.
+N: And the other one, quietly, from the back of the skull.
 ADOLF: (soft) I would like to say something.
 WESKER: (cold) No.
 ADOLF: (soft) Thirty-six years. I have asked you for four things in thirty-six years and you have given me one of them, and it was a pause in Basel.

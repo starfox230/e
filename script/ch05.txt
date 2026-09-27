@@ -102,6 +102,7 @@ Dr. Evelyn Marsh: 61% → 78%
 Cost to you: nothing
 [say] Loyalty. Doctor Evelyn Marsh: sixty-one per cent, to seventy-eight. Cost to you: nothing.
 [/system]
+N: In the silence, the passenger.
 ADOLF: You are good at this.
 WESKER: I am adequate at this. You would have given her a banner and a title.
 ADOLF: (soft) And she would have wept for that too.
@@ -124,6 +125,7 @@ Presence: 16 → 21
 Note: this raises the floor. It does not raise the ceiling.
 [say] Purchase. Command Presence, level one. Balance, nine thousand eight hundred. Presence: sixteen to twenty-one. This raises the floor. It does not raise the ceiling.
 [/system]
+N: The voice inside him, unasked.
 ADOLF: (soft) You bought what I could have taught you.
 WESKER: I bought five points. You will have to supply the rest, and you will do it when I ask and not before.
 ADOLF: And if I refuse?

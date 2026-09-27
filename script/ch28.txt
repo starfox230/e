@@ -82,6 +82,7 @@ Note: you have not built a delivery system. I have checked. You have built a sen
 [music] m_lo -10
 [img] {WESKER} sitting alone in the back of a car at night, rain on the window, city lights blurred
 [loc] The road from Brussels — 14 September 2044, 9:40 p.m.
+N: The voice in his skull chose that moment to arrive.
 ADOLF: (soft) You told a room of generals that nothing whatsoever stops you.
 WESKER: Yes.
 ADOLF: (soft) That was not calculation. I have watched you calculate for eighteen years and that was not it.

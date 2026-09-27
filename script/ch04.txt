@@ -34,6 +34,7 @@ A Legendary is a package. Odds are not improved by belief.
 [/system]
 N: He read the table twice, and the narrator will tell you what he was doing, because it was not what any other man in the world would have been doing.
 N: He was not calculating whether to pull. He was calculating what the numbers implied about the thing offering them. Sixty-two per cent junk. One in five hundred for something that could change his year. Those were not the odds of a machine that wanted to help him. Those were the odds of a machine that wanted him to *keep pulling* — and a machine that wants something can be read, and a machine that can be read can be used.
+N: The passenger had been listening. It spoke now.
 ADOLF: It is a lottery.
 WESKER: It is a lottery run by an entity that requires me to grow in order to justify its own existence. Which makes it a lottery that cannot afford to bankrupt me.
 ADOLF: Fate does not audit itself.
@@ -50,6 +51,7 @@ N: It took ninety seconds, and it was designed — deliberately, shamelessly —
 [sfx] sfx_gacha_common +0.2
 N: Grey light. *Common: Laboratory Technician.* Grey again: *Common: Laboratory Technician.* A third: *Common: Security Officer.* A fourth, and this one at least useful: *Common: Fleet, four vehicles, black, maintained.*
 N: Three more Commons. A stat token, worth two points of Vitality. A crate of reagents he could have bought for ninety dollars. A service contract on an autoclave.
+N: Something behind his eyes turned over, and spoke.
 ADOLF: This is a market stall.
 WESKER: Wait.
 [sfx] sfx_gacha_rare +0.3
@@ -90,6 +92,7 @@ N: The eyes opened.
 N: They were pale, and they were not stupid, and they did not search the room. They found him immediately — through frost, through glass, in the dark — and stopped, and stayed.
 WESKER: (soft) Hello.
 N: The narrator wishes to be clear that nothing happened in the next thirty seconds. The thing in the cradle did not move, or strain, or make a sound. It simply looked at Albert Wesker with absolute, uncomplicated recognition, the way a hammer would look at a hand if a hammer could.
+N: The voice that was not his came up out of the quiet.
 ADOLF: (soft) What is it?
 WESKER: A soldier. The end of a programme that in another life cost me eleven years and a mountain.
 ADOLF: It is a weapon you cannot use. If it walks into daylight, every government on this continent will be in your basement inside a week.
@@ -170,6 +173,7 @@ SYSTEM: Absolute personnel cannot disobey you. Integrated personnel can. They wi
 WESKER: And if I gave one of them a reason?
 SYSTEM: Then you would find out what a man made on a Saturday does when he is frightened on a Wednesday. I do not have that data. Neither does anyone.
 N: Wesker stood on the roof in the cold with his hands behind his back and looked north-west, towards the glow of a plant on Route 72 where three hundred and eleven people were making cartridges on a Sunday-born memory of eleven years.
+N: The other half of him had an opinion.
 ADOLF: You are troubled.
 WESKER: I am *interested*. There is a difference, and you have never understood it.
 ADOLF: They are yours. That is all that matters.

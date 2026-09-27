@@ -38,6 +38,7 @@ WESKER: (cold) Then adjust it in three counties and one probate court.
 [pause 0.4]
 SYSTEM: Confirmed. Placement will complete between Friday 01:00 and Saturday 04:00.
 N: He stood at the window for a while after the panel closed.
+N: The other voice stirred.
 ADOLF: You have spent everything.
 WESKER: Yes.
 ADOLF: Again. As you did in September. You are a man who empties his pockets every time he is given anything.

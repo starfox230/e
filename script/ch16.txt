@@ -110,6 +110,7 @@ N: And that was all he got. He asked eighteen more times over the following four
 [img] a heavy sealed vault door deep underground with a single small black case inside, cold light, ominous
 N: The ampoule went into the sealed vault on level nine at Arklay — the one Birkin had never been able to price, the one the drawings had always shown and never explained.
 N: It went in on the twenty-second of December 2031. It came out on the fourth of December 2033.
+N: And the other one, quietly, from the back of the skull.
 ADOLF: (soft) You will open it.
 WESKER: Of course I will open it.
 ADOLF: You do not know what it does.

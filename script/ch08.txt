@@ -75,6 +75,7 @@ Sealed vault, level nine: PROGENITOR — not yet
 [pause 1.2]
 N: The narrator will now describe the only time in sixty-five years that Albert Wesker sat down twice.
 N: He read the last four lines of that panel standing up. Then he read the two names again. Then he put one hand on the back of the leather chair, and turned it, and sat in it, and did not say anything at all for a minute and ten seconds.
+N: And the other one, quietly, from the back of the skull.
 ADOLF: (soft) Who are they?
 N: And for once — the only time, in the entire record — he answered honestly and immediately.
 WESKER: They are dead. They died in a city I destroyed, in a world that is not this one, thirty years ago and eighteen years from now.
@@ -151,6 +152,7 @@ SYSTEM: Absolute personnel are part of the estate. You are not.
 N: He stood on the terrace at dusk with the valley below him full of fog and eleven thousand acres of pine going black at the edges.
 N: Behind him, through a window, William Birkin was arguing with a screen about a chiller riser. Below him, a hundred and forty metres down, four hundred and eleven cradles were cold, and nine of them were occupied, and one was waiting for something that had not been named.
 N: Eight months ago he had woken in a chair with ten thousand Points, eleven people and a basement door that did not go anywhere.
+N: The passenger had been listening. It spoke now.
 ADOLF: This is the part where a man says something sentimental.
 WESKER: (cold) Yes.
 ADOLF: (soft) Then say it. I will not use it against you today.

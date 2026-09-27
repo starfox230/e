@@ -124,6 +124,7 @@ SYSTEM: Four years.
 WESKER: The Belgian operation was fifteen months ago. Basel was sixteen. He started before any of it.
 SYSTEM: He started the week you filed your first patent.
 N: Albert Wesker sat back in the chair and, for the first time since a boardroom in Trenton, felt something that he would have refused to call excitement.
+N: The voice in his skull chose that moment to arrive.
 ADOLF: (soft) A hunter.
 WESKER: (cold) A *professional*. Everyone else who has come at this company has come with a mandate and a form to fill in. This one has spent four years reading, has told no one, and has left nothing in writing that could be taken away from him by a committee.
 ADOLF: He is dangerous.

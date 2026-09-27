@@ -214,6 +214,7 @@ WESKER: (cold) Eleven people do not need to. That was always your error. You bui
 ADOLF: And what will yours buy?
 WESKER: Signatures.
 N: There was a silence then, and the narrator will tell you plainly that it was not a friendly one.
+N: The other voice stirred.
 ADOLF: You will need a crowd eventually. When that day comes you will not know how to stand in front of it. I watched you this morning with those eleven. You are magnificent at close range, and at fifty metres you are ice.
 WESKER: (soft) Sixteen.
 ADOLF: What?

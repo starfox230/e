@@ -121,6 +121,7 @@ Points: +180,000
 [loc] Division Seven, monitoring station — 2 December, 3:30 a.m.
 N: Wesker had watched the whole thing from Wilmington on the Surveillance Suite he had pulled out of a lottery eighteen months earlier, and he had said four words in twenty-five minutes.
 N: The four words were: *"Not the second door."*
+N: In the silence, the passenger.
 ADOLF: (soft) You enjoyed that.
 WESKER: I did.
 ADOLF: It was a burglary.

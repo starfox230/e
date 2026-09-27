@@ -72,6 +72,7 @@ Witnesses: 4 · Credible accounts produced: 0
 Points: +6,000
 [say] Acting with intelligence. Intrusion resolved without injury, arrest or record. Four witnesses. Zero credible accounts produced. Six thousand Points.
 [/system]
+N: From somewhere behind his eyes, the passenger spoke.
 ADOLF: You let them go.
 WESKER: I let them *carry* it. Four men who cannot repeat what they saw, working in an industry of three hundred people who all drink together. By June every private intelligence firm on this coast will have heard a story they do not believe about a building in Wilmington, and every one of them will quote a price for it that no client will pay.
 ADOLF: (soft) You have made yourself a rumour.
@@ -120,6 +121,7 @@ N: The sign came down the same night. Wesker had specified it: not in the mornin
 N: In the morning there was simply a crimson iris on a building in Trenton, and eleven hundred people arriving at work for a company whose name had changed while they slept, which — by the standards of what had happened to the three hundred and thirteen in Newark — was an unusually gentle thing to do to a person.
 [img] {WESKER} standing alone in an empty corporate car park at night looking up at a building with a crimson emblem, long black coat
 N: He stood in the car park for a while afterwards.
+N: The voice in his skull chose that moment to arrive.
 ADOLF: Eleven hundred more.
 WESKER: Eleven hundred who can quit, complain, sue, or talk to a journalist. It is the largest liability I have ever voluntarily acquired.
 ADOLF: (soft) And yet you are pleased.

@@ -93,6 +93,7 @@ SYSTEM: None of them works for you. Each of them works for a version of their ow
 WESKER: (very cold) That is the most frightening item you have ever sold me.
 SYSTEM: It is the fourth most frightening item in that tab.
 N: He never bought the other three. He looked at them, once a year, for thirty years, and did not buy them, and the narrator has chosen not to say what they were.
+N: The voice inside him, unasked.
 ADOLF: (soft) You are squeamish.
 WESKER: (cold) I am *disciplined*. There is a difference, and it is the reason I am here in 2034 with a trillion dollars and a Senate that likes me, and you were in a bunker at fifty-six.
 [pause 0.5]

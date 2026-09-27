@@ -140,6 +140,7 @@ N: He looked up at the thing in the frame and, without speaking, without moving,
 [pause 1.0]
 [sfx] sfx_tyrant_footstep +0.4
 N: Three hundred and forty kilograms of engineered soldier went down on one knee on a hangar floor at three in the morning, silently, in front of a man in a black coat, and stayed there.
+N: The other voice stirred.
 ADOLF: (very soft) There it is.
 WESKER: (cold) Don't.
 ADOLF: (soft) I have waited nine years to see you do something that was purely for yourself.

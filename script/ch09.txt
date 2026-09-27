@@ -120,6 +120,7 @@ Note: at Intelligence 42 you will begin to find other people slow.
 [say] Status update. Intelligence, thirty-four to forty-two. Will, thirty-two to thirty-eight. At Intelligence forty-two you will begin to find other people slow.
 [/system]
 N: The note was not a warning. It was an advertisement, and he knew it, and he bought it anyway.
+N: Something behind his eyes turned over, and spoke.
 ADOLF: (soft) You have made them love you.
 WESKER: I have made them *want* something. Love is what they will call it later, when they cannot have it.
 ADOLF: And when they cannot have it?

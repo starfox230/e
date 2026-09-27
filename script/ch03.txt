@@ -117,6 +117,7 @@ Points: +14,000
 Balance: 17,600 · Level 4
 [say] Subjugation of a rival. Verdant Axis Therapeutics: licensed, constrained, retained. Fourteen thousand Points. Balance, seventeen thousand six hundred. Level four.
 [/system]
+N: And the other one, quietly, from the back of the skull.
 ADOLF: You should have taken the company.
 WESKER: I have taken the company. I have merely left him in it to run it for me, at his own expense, while he tells everyone it was his idea.
 ADOLF: (soft) That is not a victory anyone can see.
