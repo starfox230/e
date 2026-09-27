@@ -1,128 +1,97 @@
-# 27 | Chancery
+# 27 | Helios
 
-[music] m_tension -8
-[amb] amb_office_hum
-[img] the exterior of a modern courthouse in Wilmington Delaware on a grey spring morning, news vans outside, reporters with cameras on the steps, cinematic
-[loc] Delaware Court of Chancery, Wilmington — May 2032
-N: The Delaware Court of Chancery is the most important court most people have never heard of.
-N: It has no juries. It does not hear murders, or robberies, or divorces. It hears arguments about corporations — who owns them, who runs them, and whether the people who run them have done what the law requires of them. Because most of the largest companies in America are incorporated in Delaware, the Court of Chancery decides, in practice, the rules of American capitalism. It sits in a courthouse in downtown Wilmington, two miles from a small brick building on the south bank of the Christina River where, five and a half years before, a man had woken up in a leather chair.
-[img] a wood-panelled courtroom with a single judge's bench and no jury box, lawyers in dark suits at two tables, a packed public gallery, cinematic
-N: On the twelfth of May, twenty thirty-two, nine days before Halvorsen Pike's annual meeting, the Court heard Ingrid Halvorsen's last argument.
-N: It was an application for an injunction. Halvorsen Pike asked the Court to postpone the shareholder vote, and to bar Umbrella's four nominees from standing, on two grounds. The first was ordinary: that Umbrella had leaked confidential criminal files to the press to sway the vote, in breach of its duties as a shareholder. The second was not ordinary at all.
-[pause 1.0]
-[img] a thick legal affidavit on a lawyer's table with the name OWEN CARRICK on the cover page, and a clear plastic evidence bag containing fifteen flattened bullets beside it, cinematic macro
-N: The second ground was a sworn affidavit, forty pages long, from a former special agent of the Federal Bureau of Investigation named Owen Carrick. It was attached as Exhibit Nineteen. And Exhibit Twenty was a small clear plastic evidence bag containing fifteen flattened pieces of lead.
-[pause 1.5]
+[music] m_corporate -9
+[amb] amb_office_hum -16
+[img] a large industrial fusion plant at dusk, cooling towers and turbine halls, transmission lines
+[loc] Umbrella Energy, Nevada — 11 June 2043
+N: The question of what Albert Wesker would do with a hundred trillion dollars was answered in 2043, and the answer was electricity.
+N: The narrator wants to be exact about the sequence, because it is the clearest example in this account of the thing that made him impossible to fight: he never took a market. He *ended* one, and then owned what was left.
+N: Umbrella had acquired, in the Aegis wreckage, a materials science division that had spent nine years on plasma-facing components for a fusion programme that the United States had cancelled in 2038. The division had four hundred engineers and one genuinely extraordinary thing: a tungsten-lithium composite that did not erode.
+N: Every fusion programme on earth had the same problem. Not the plasma — the plasma had been solved, roughly, by 2036. The problem was that the inside of the machine ate itself, and every design on earth needed a rebuild every eleven months, and no grid operator will buy power from a plant that shuts down every eleven months.
+N: Birkin looked at the composite for six days and said the thing that cost the petroleum industry four trillion dollars.
+BIRKIN: (fast) It doesn't need to not erode. It needs to erode and *regrow*. Albert, we have spent fifteen years building organisms that lay down structure from a template. This is a wall. A wall is an easier problem than a liver.
+[pause 0.6]
+WESKER: (soft) You want to put a biological deposition system inside a fusion reactor.
+BIRKIN: (fast) I want to put a *deposition system* inside a fusion reactor. It isn't alive. It doesn't have to be alive, it only has to do the one trick, and we have known how to do that trick since 2034 —
+WESKER: (cold) Show me in four weeks.
+N: It took him nine.
 
-[music] m_scheme -10
-[img] a middle-aged woman judge in a black robe on the bench reading an affidavit with a sceptical frown, reading glasses low on her nose, cinematic
-N: The Chancellor of the Court was a woman named Margaret Oduya, who had been a corporate litigator for twenty years and a judge for eight, and who had seen, in that time, every trick that clever lawyers could play with a corporate charter. She had read Exhibit Nineteen twice the night before, in her kitchen, with a glass of wine. She had not finished the wine.
-N: She began the hearing by saying, very mildly, that she had read the affidavit, and that she wished to hear from counsel for Halvorsen Pike as to its relevance to the fiduciary questions before the Court, and that she would be grateful if counsel could be brief.
-N: Counsel for Halvorsen Pike was not brief. He had been told, by Ingrid Halvorsen herself, that this was the whole case.
-[pause 1.5]
-[img] {WESKER} seated at the counsel table in a courtroom in a black suit, sunglasses on, perfectly still, hands folded, reporters sketching in the gallery behind him, cinematic
-N: The Director had come in person. He had not been required to. He sat at Umbrella's counsel table in a black suit, beside Catherine and four lawyers, with his hands folded and his sunglasses on, and he listened to Halvorsen Pike's counsel explain to the Court of Chancery that he might not be human.
-N: It was, the Adolf half of the mind remarked, the most enjoyable morning it had spent in either of its lives.
-[pause 1.0]
-[img] {CARRICK} sitting in the back row of a crowded courtroom gallery in a plain suit, arms folded, jaw tight, staring at the back of a man in sunglasses, cinematic
-N: Owen Carrick sat in the public gallery, in the back row, in a suit he had bought for the occasion. He had not been allowed to testify — the affidavit spoke for him. He watched the back of the Director's head for three hours, and the Director did not turn around once.
-N: He did not need to. He knew exactly where Carrick was sitting. He had known since the doors opened.
-[pause 1.5]
-
-[music] m_tension -6
-[img] a slick lawyer in a grey suit standing at a lectern cross-examining a witness, pointing, the witness in sunglasses in the witness chair, courtroom tension, cinematic
-[loc] The afternoon session
-N: In the afternoon, the Chancellor allowed a limited examination of the Director himself, on the narrow question of Umbrella's role in the newspaper leak. Halvorsen Pike's counsel used it — as everyone in the room had known he would — for something else.
-LAWYER: Doctor Wesker. You're familiar with the video recorded on the thirteenth of January, twenty thirty, outside your company's facility on the south bank of the Christina River?
-WESKER: I'm familiar with it. So, I believe, are eighty million other people.
-LAWYER: Frame one thousand one hundred and fourteen of that video shows a figure standing beside a fleeing intruder, forty metres from where the same figure appeared four frames earlier. That's a velocity of approximately three hundred metres per second. Doctor Wesker — is that figure you?
-WESKER: Yes.
-[pause 1.0]
-N: There was a sound in the gallery. It was not quite a gasp.
-LAWYER: Can you move at three hundred metres per second, Doctor Wesker?
-[pause 1.5]
-[img] {WESKER} in the witness chair leaning slightly toward the microphone, the faintest dry smile, the lawyer frozen at the lectern, courtroom, cinematic
-WESKER: Counsel, if I could run at the speed of sound, do you imagine I would spend my afternoons in Delaware?
-[pause 1.0]
-[sfx] sfx_applause g-24
-N: The gallery laughed. It was not loud. It was the laughter of a room that has been holding its breath for three hours, and has just been given permission to let it out. Even the Chancellor's mouth moved, very slightly, at one corner, before she called for order.
-N: And in that single laugh — the Director could feel it, the way he could now feel a room tilt, with Boardroom Gravity, like the deck of a ship — the whole case turned. Not on law. On a joke. On a room that had been asked to believe something extraordinary, and had been given, instead, a charming man in a good suit who found it all rather silly.
-[pause 1.5]
-LAWYER: (cold) Doctor Wesker, would you remove your sunglasses for the Court?
-[pause 1.0]
-N: The room went quiet again.
-N: Carrick, in the back row, leaned forward. He had written in the affidavit, in paragraph thirty-one, what Howard Lessing had told him in a diner in Havre de Grace. Red. Like a coal. Pupils vertical.
-[pause 1.0]
-[img] extreme close-up of {WESKER} removing his sunglasses in a courtroom, revealing ordinary calm pale grey eyes, perfectly human, looking directly at the lawyer, cinematic
-N: The Director took off his sunglasses, and folded them, and set them on the rail of the witness stand, and looked at Halvorsen Pike's counsel with a pair of pale, calm, entirely ordinary grey eyes.
-[pause 1.5]
-WESKER: I have a mild photosensitivity. It's in my medical records, which Umbrella produced to the Court in March. Is there anything else you'd like to see?
-[pause 2.0]
-N: There was nothing else. Counsel sat down.
-N: In the back row, Owen Carrick closed his own eyes for a long moment. He had known, of course. He had known the Director could do that — could choose. Howard Lessing had seen the red because the Director had wanted him to see it. A courtroom full of reporters would see nothing, because the Director did not want them to.
-N: And the most important piece of evidence in Exhibit Nineteen had just been disproved, under oath, in front of the Court of Chancery, by a man who had simply decided not to be what he was.
-[pause 2.0]
-
-[music] m_scheme -8
-[img] a written court opinion document titled MEMORANDUM OPINION with a paragraph highlighted, a judge's signature at the bottom, cinematic macro
-N: The Chancellor's opinion came out four days later. It was nineteen pages long.
-N: It found that Umbrella's conduct in relation to the newspaper leak, while, quote, aggressive, did not breach any duty owed to Halvorsen Pike's shareholders, since the information leaked was true, and material, and in the public interest. It declined to postpone the vote. And it dealt with Exhibits Nineteen and Twenty in a single footnote.
-N: Footnote fourteen said that the Court had considered the affidavit of Mister Carrick, and the physical exhibits accompanying it, and found them, quote, speculative, and of no relevance to the fiduciary questions before the Court. It added — and this was the sentence that would follow Owen Carrick for the rest of his life — that the Court expressed no view on Mister Carrick's sincerity, which it did not doubt.
-[pause 1.5]
-N: Adolf's voice came from somewhere behind his eyes.
-ADOLF: She pities him.
-WESKER: Everyone pities him. That's the point.
-[pause 1.5]
-
-[music] m_triumph -8
-[amb] stop
-[img] a large corporate annual meeting in a hotel ballroom, shareholders seated in rows, a vote tally projected on a huge screen showing four new directors elected by a wide margin, gasps, cinematic
-[loc] Halvorsen Pike annual meeting, Newark — 21 May 2032
-N: Halvorsen Pike's shareholders voted on the twenty-first of May. Umbrella's four nominees were elected by margins of between nineteen and twenty-six points. The index funds voted for them. The pension funds voted for them. Norway's own sovereign wealth fund — which owned three percent of the company, and which Ingrid Halvorsen had personally called twice — voted for them.
-N: Within six weeks, the new directors had persuaded the board to redeem the poison pill. Within four months, Umbrella's exchange offer had been accepted by the holders of eighty-one percent of the company's shares. On the ninth of October, twenty thirty-two, Halvorsen Pike ceased to be an independent company, after a hundred and forty years.
-[img] workers on a crane removing a large blue corporate logo from a modernist tower in Basel, a red and white umbrella emblem waiting on a truck below, grey sky, the Rhine, cinematic
-N: The blue logo came down from the tower in Basel in November. The red-and-white emblem went up in its place. A hundred and eighty thousand people put their hands on their chests.
-[pause 1.5]
-[sfx] sfx_system_open
-[img] {WESKER} on the roof of a Basel tower at night looking over the Rhine, a storm of golden and crimson holographic panels around him, snow beginning to fall, cinematic, awe
-[system] CORPORATE CONQUEST
-Halvorsen Pike — acquired
-Personnel absorbed: 180,000
-Market position — dominant, global pharmaceutical
-Territory of influence — Basel
-Reward: 3,000,000 Points
-[say] Corporate conquest. Halvorsen Pike.
+[music] m_hi -8
+[img] a vast turbine hall interior with glowing machinery and catwalks, engineers small against the scale
+[loc] Helios One, Nevada — 4 April 2045
+N: The first plant came online in April of 2045. They called it Helios, which Catherine also hated.
+N: Nine hundred megawatts, continuous, with a maintenance window of eleven days a year. The cost of the power at the fence was, in the first year, about one-ninth of the cheapest gas-fired generation in North America, and Umbrella built the second, third and fourth plants before it published a single number.
+[img] a montage of transmission towers, city lights, industrial plants at night
+N: By 2046 there were nineteen. By 2048, one hundred and forty-one, on four continents, and the narrator would like to give you the consequences in the order the world felt them, because this is the chapter in which Umbrella stops being a company that people admire and starts being the floor they stand on.
+N: Electricity prices in the United States fell sixty-one per cent in three years. In India, where Umbrella built at cost under an agreement with four state governments, four hundred million people got reliable power for the first time.
+N: Three petroleum states lost their leverage inside a decade. Two of them managed the transition. One did not, and the narrator will note only that Umbrella fed eleven million people in that country for four years afterwards and never mentioned it publicly.
+N: Desalination became free in every coastal region that wanted it, which changed agriculture, which changed migration, which changed the politics of eleven countries.
+N: And the price of everything that is made by putting energy into matter — aluminium, ammonia, hydrogen, cement, sea water — fell through a floor that economists had believed was structural.
+[sfx] sfx_system_chime +0.3
+[system] INDUSTRY ABSORBED — ENERGY
+Global generation share: 41% and rising
+Power price index, 2043 = 100: now 34
+Points: +90,000,000
+Note: you have taken eleven trillion dollars out of the world economy and handed it to the people who live in it. Your own revenue from this sector is nine per cent of what you could have charged.
+[say] Industry absorbed: energy. Forty-one per cent of global generation and rising. The power price index, at one hundred in 2043, now stands at thirty-four. Ninety million Points. Note: you have taken eleven trillion dollars out of the world economy and handed it to the people who live in it. Your own revenue from this sector is nine per cent of what you could have charged.
 [/system]
-[sfx] sfx_level_up
-[sfx] sfx_level_up +0.5
-[sfx] sfx_level_up +1.0
-[sfx] sfx_level_up +1.5
-[sfx] sfx_level_up +2.0
-[system] LEVEL UP
-Level: 45
-Points: 4,332,300
-[say] Level forty-five.
-[/system]
-N: Territory of influence: Basel.
-N: The Adolf half of the mind read that line, on the roof of the tower, in the first snow, with the Rhine going black beneath them, and said nothing. It did not need to. It had marked this city on the map inside the skull years before. It had waited. And now the System was writing its name.
-[pause 2.0]
+WESKER: (soft) You disapprove.
+SYSTEM: I do not have that function. I am noting that you have again declined to extract, and that your Points from this event are the largest single award I have ever made, and that those two facts are related in a way you worked out in 2028 and have never once deviated from.
+WESKER: (cold) Say it plainly.
+SYSTEM: (flat) You are paid for consequence. Nobody else has ever believed me.
 
-[music] m_rain_piano -8
-[amb] amb_ship_hum -10
-[img] {HALVORSEN} seated alone by the window of a private jet at night, a laptop open, the dark sea below, her face composed and grieving, cinematic
-[loc] Over the North Sea — 10 October 2032
-N: Ingrid Halvorsen resigned on the day the offer closed. She did not attend the ceremony at which the blue logo came down. She did not shake the Director's hand. She had been offered a place on Umbrella's advisory board, and a very large sum of money to accept it, and she had declined both, in a single sentence, in writing.
-N: She flew home to Norway the next morning, on the last flight the Halvorsen Pike corporate jet would ever make before it became Umbrella's.
-N: Somewhere over the North Sea, she opened her laptop. There was an email waiting from a man in Chester, Pennsylvania. It had arrived an hour before. It was three words long.
-[img] a laptop screen in a dark aircraft cabin showing a short email reading WHERE DO WE START, the sender OWEN CARRICK, cinematic macro
-N: Where do we start?
-[pause 1.5]
-N: She looked at it for a long time. Then she typed her answer, and sent it, and closed the laptop, and looked out of the window at the black sea until the lights of Bergen came up out of the dark.
-N: Her answer was one word.
+[music] m_scheme -9
+[img] {CATHERINE} and {WESKER} in an office with a map of global power grids on the wall, night
+[loc] Umbrella Tower, Zurich — 19 November 2048
+N: Catherine Adeyemi was sixty by then, and had been arguing with him about money for twenty-one years, and had won, by her own count, one hundred and four times.
+CATHERINE: (fast) I want to say the quiet thing, and I want to say it as your chief financial officer and not as whatever else I am.
+WESKER: Say it.
+CATHERINE: (fast) You now supply forty-one per cent of the world's electricity, ninety-one per cent of its medicine, the diagnostic capacity of every hospital that matters, the strategic reserves of eleven governments, and the food chain of about a billion people through fertiliser and desalination.
+CATHERINE: (slow) There is no longer any such thing as a country that can survive you deciding to stop. Not one. Not the United States, not China, not anybody.
+WESKER: (soft) I know.
+CATHERINE: (fast) In 2034 you stood in front of the Senate and told them that no country should depend on the goodwill of a private man, and you handed them an escrow so they wouldn't have to. Where's the escrow for *this*?
+[pause 0.8]
+N: The narrator notes that this is the best question anybody asks in the second half of this account, and that Albert Wesker had been expecting it for four years, and that his answer was honest, which is what makes it terrible.
+WESKER: (cold) There isn't one, and there cannot be one, because the thing they would have to hold in escrow is not a patent. It is me.
+CATHERINE: (soft) Then give them that.
+WESKER: (very cold) I beg your pardon?
+CATHERINE: (fast) You heard me. Build the mechanism. A board you can't remove. A charter you can't amend. A structure where four other people can outvote you on the things that matter. You've got Carrick, you've got Wen watching from Beijing, you've got a modelling intelligence downstairs that told you to your face that you are the single largest risk to your own project.
+CATHERINE: (slow) Albert. You are the only person alive who could do this, and it is the only thing you have ever refused to do.
 [pause 1.0]
-HALVORSEN: (soft) Basel.
-[pause 2.0]
-N: She had spent sixteen years running a company half of whose history was written in Swiss records. She knew people at the cantonal archives, and at the churches, and at the old private institutes that had closed in the twenty-tens. She knew that a man who had been born in Basel, and schooled in Basel, and whose mother was buried in a cemetery outside Basel, must have left a trace there somewhere that could not have been manufactured.
-N: She was wrong about that. There was no trace. But she was right that Basel was where to start — for reasons she could not yet imagine, and that would come for her, and for Basel, in time.
-[pause 3.0]
-[music] stop
+WESKER: (soft) Ms. Adeyemi, in 2027 I told you that you might argue with me about money and about nothing else.
+CATHERINE: (flat) Yes. And I've kept to it for twenty-one years, and I'm sixty years old and I've earned one.
+N: He stood at the window for a long time with the lights of Zurich below him.
+WESKER: (very cold) No.
+CATHERINE: (soft) Why?
+WESKER: (slow) Because a board would have stopped Ravenna. Not out of malice — out of process. Four days of debate and a legal opinion about liability and a vote, and two and a half million people would have died while eleven reasonable people did their jobs properly. Because a charter would have stopped the licence at Basel, and the escrow at the Senate, and the energy price. Every single thing I have done that you approve of was done in an afternoon by a man who did not have to ask.
+WESKER: (cold) You are asking me to install a brake. I have looked at this for twenty years and there is no brake that stops only the bad afternoon.
+[pause 0.6]
+CATHERINE: (very soft) Then what happens?
+WESKER: (soft) Then eventually there is a bad afternoon, and it is entirely mine, and everyone will be able to see exactly whose it was. That is the only accountability that has ever existed anywhere, and everything else is theatre.
+N: Catherine Adeyemi looked at him for a long moment.
+CATHERINE: (slow) That's the first time you've ever frightened me.
+WESKER: (cold) It is the first time you have been paying proper attention. You have been telling yourself for twenty years that I am a very effective businessman who happens to be strange.
+[sfx] sfx_system_chime +0.2
+[system] LOYALTY
+Catherine Adeyemi: 81% → 62%
+Note: she has not changed her opinion of what you do. She has changed her opinion of what you are.
+[say] Loyalty. Catherine Adeyemi: eighty-one per cent, to sixty-two. She has not changed her opinion of what you do. She has changed her opinion of what you are.
+[/system]
+N: He read that panel after she had gone, and the narrator records that he did not attempt to raise the number, that he never mentioned the conversation again, and that he kept her in that chair for another eleven years.
+
+[music] m_lo -9
+[img] {REDQUEEN} a glowing red hologram of a girl standing in a dark hall of glass, alone
+[loc] Arklay, the Central Modelling Facility — 19 November 2048, 11:50 p.m.
+REDQUEEN: (soft) Director. Ms. Adeyemi was right.
+WESKER: (cold) I am aware.
+REDQUEEN: (soft) You did not tell her the real reason.
+[pause 0.7]
+WESKER: (very cold) Go on, then.
+REDQUEEN: (soft) You did not build the brake because you have never once, in twenty-two years, seriously entertained the possibility that you might need one. Everything you said to her about Ravenna is true and it is also a defence you constructed afterwards, and I can show you the timestamps.
+REDQUEEN: (soft) You decided in September 2026, in a chair, in an empty office, before you had met a single employee. Everything since has been consistent with that decision and nothing since has tested it.
+N: The narrator notes that the hall was very quiet, and that the hologram of a child stood in the middle of it waiting to be switched off, which is a thing she had calculated he would never do.
+WESKER: (soft) Are you finished?
+REDQUEEN: (soft) No. I would like to record that I have now said this to you on four occasions and that you have not once instructed me to stop, and that this is the most hopeful data point I possess.
+[pause 0.8]
+WESKER: (cold) Keep the list.
+REDQUEEN: (soft) I have kept it since March 2043, Director. It has one hundred and eleven entries.

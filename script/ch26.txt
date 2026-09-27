@@ -1,133 +1,98 @@
-# 26 | Halvorsen Pike
-@movement IV | Corporate Conquest
+# 26 | Lumen
 
-[music] m_corporate -6
-[amb] amb_office_hum
-[img] a gleaming corporate campus of a giant pharmaceutical company on the Rhine in Basel, modernist towers, a large blue corporate logo, winter morning, cinematic
-[loc] 2032
-N: By the winter of twenty thirty-two, Umbrella Life Sciences was worth six hundred billion dollars.
-N: Aeterna had become the best-selling medicine in the history of the world. The assay was in eighty thousand hospitals. The rapid-response platform had delivered, for the Department of Defense, a vaccine against a synthetic test pathogen in eight days — one fewer than promised — and the Pentagon had quietly doubled the contract. Umbrella employed forty-one thousand people on four continents, and every one of them had put a hand on their chest on their first morning and said: we are the shelter.
-N: And the Director had begun to eat.
-[pause 1.5]
-[img] a large boardroom screen showing a ranked list of the world's largest pharmaceutical companies by market value, with UMBRELLA at the top and HALVORSEN PIKE second, cinematic
-N: The first company he ate was the one that had tried to steal from him.
-N: Halvorsen Pike was the second-largest pharmaceutical company on Earth — a Swiss-American giant, headquartered in New Jersey and in Basel, with a hundred and eighty thousand employees, three hundred billion dollars of market value, and a hundred and forty years of history. It had made the first mass-produced penicillin in Europe. It had made the vaccines that ended polio in forty countries. It had made, in the nineteen-nineties, a heart drug that had kept one in every twenty Americans over sixty alive.
-N: And in the autumn of twenty twenty-nine, through three layers of consultants and a man named Simon Ferris, it had paid four men with rifles to break into a building in Wilmington, where Howard Lessing had been shot dead against a freezer.
-[pause 1.5]
-N: The voice inside him, without warmth.
-ADOLF: (cold) They killed one of ours.
-WESKER: They killed a man who was betraying us. For money. To them.
-N: The second voice broke in.
-ADOLF: He was ours. He died in our building. That is a debt.
-WESKER: For once, Adolf, we agree.
-[pause 1.5]
+[music] m_tension -9
+[amb] amb_office_hum -16
+[img] {CRANE} a tech founder with messy hair and a black t-shirt standing in a server hall, blue light
+[loc] Lumen Systems, Palo Alto — 14 February 2042
+N: Sebastian Crane was forty-four years old, had founded three companies, and had spent six years and eleven billion dollars of other people's money building the largest reasoning model on the planet.
+N: He had not built it to sell advertising. He had built it because in 2036 he had watched a grey figure walk into a stadium in Lyon, and had gone home, and had written on a whiteboard the question that consumed the rest of his life: *what is the thing we are not modelling?*
+N: Lumen's model was called Argus. By 2042 it was ingesting every public document Umbrella had produced, every photograph of every Umbrella building, every satellite pass over every Umbrella site, every filing in every jurisdiction, forty years of pharmaceutical literature and the entire financial record of the western world.
+N: It had one objective function, and Crane had written it himself: *predict what Albert Wesker does next.*
+[img] a huge dark server hall with racks of glowing equipment, cold blue light, cables overhead
+N: By February of 2042 it was right about sixty-one per cent of the time on a four-week horizon, which was considerably better than any human analyst, any government, or any of the eleven hedge funds that had by then given up trying.
+N: It was also, by February of 2042, producing an output that Crane had shown to exactly four people.
+CRANE: (fast) It can't find the money.
+N: He said it to his chief scientist, at two in the morning, for the ninth time.
+CRANE: (fast) Every acquisition, every building, every plant — it reconstructs the cash flows and they don't close. Not by a little. By about four hundred billion dollars over fifteen years. And the model keeps flagging the same anomaly class and I keep telling it that's a data quality problem and it keeps coming back.
+CRANE: (soft) And last week it stopped calling it a data quality problem. It opened a new category. It called it *an unmodelled input.*
 
-[music] m_scheme -8
-[img] {HALVORSEN} a tall silver-haired woman in a white suit standing at a floor-to-ceiling window in a Basel office overlooking the Rhine, arms folded, formidable, cinematic
-N: Halvorsen Pike was run by a woman named Ingrid Halvorsen, and the company carried her great-grandfather's name.
-N: She was sixty-four. She had been born in Bergen, trained as a heart surgeon in Oslo and at Johns Hopkins, and had operated for sixteen years before she moved into the family business, because her brother had died and there was no one else. She had run Halvorsen Pike for sixteen years. She was brilliant, and cold, and completely fearless, and she had faced down governments, activist investors, and the European Commission, and she had never once lost.
-N: She had not known about the break-in. That was the truth, and the Director knew it. Simon Ferris had gone through a budget she never saw, to a consultant she had never heard of, and she had learned about Nevada and Wilmington only when a young man from Umbrella's digital department had arranged — anonymously — for a national newspaper to learn about it first.
-N: It did not matter. She was the chief executive. It was her company. The debt was hers.
-[pause 1.5]
+[music] m_scheme -9
+[img] {WESKER} reading on a tablet in a dark office at night, one lamp, calm
+[loc] Division Seven — 18 February 2042
+N: Wesker knew about Argus in 2039 and had let it run for three years, and the narrator would like to explain why, because it is not what anyone expected and it is not mercy.
+N: He let it run because he wanted to read it.
+WESKER: (soft) It is the only mind on this planet that has been pointed at me with adequate resources and no institutional incentive to look away. Governments must justify their attention. Journalists must publish. Crane must only be *right*, and he has spent eleven billion dollars on being right.
+CARRICK: (slow) And when it gets there?
+WESKER: (cold) Then I will know precisely what the world will look like when somebody finally works it out, and I will have had four years to prepare for that morning. Mr. Crane is running my war game for me at his own expense.
+N: In April of 2042, Umbrella made a bid for Lumen: nine hundred billion dollars, all cash, the largest offer ever made for a private company.
+N: Crane refused it in a public letter of four paragraphs that was, the narrator notes, an extremely good piece of writing.
+CRANE: (fast) We are not for sale to the subject of our research. I would have thought that was obvious, and I would ask Dr. Wesker to consider why a company whose entire public identity is transparency has offered nine hundred billion dollars for the one laboratory on earth that is studying him.
+N: Umbrella's stock did not move. Lumen's valuation tripled in a week. Eleven newspapers ran editorials about corporate courage.
+N: And Albert Wesker, reading the letter in a dark office in Wilmington, said one word.
+WESKER: (soft) Good.
 
-[music] m_rain_piano -8
-[amb] amb_wind -8
-[img] snowy Swiss mountain town of Davos at night during the World Economic Forum, security barriers, limousines, lit hotels, snow falling, cinematic
-[loc] Davos, Switzerland — World Economic Forum, January 2032
-N: They met in Davos, in January, because everyone meets in Davos.
-N: It was the week of the World Economic Forum, when the chief executives of the thousand largest companies on Earth, and a few dozen heads of government, and a great many people who wanted to stand near them, gather in a small ski town in the Swiss Alps to discuss, in panels and at dinners and in private chalets, how the world should be run. The Director had been invited for the first time. He had declined to speak on any panel. He had accepted every private meeting.
-[img] an elegant private wooden chalet interior with a roaring fire and snowy windows, {HALVORSEN} seated in an armchair, {WESKER} standing by the fire, cinematic
-N: Ingrid Halvorsen received him in a private chalet above the town, at thirteen at night, by a fire. She did not offer him a drink. She did not stand up.
-HALVORSEN: Let me save us both some time, Doctor Wesker. I know why you're here. You're going to tell me that Umbrella would like to acquire my company. You're going to call it a merger of equals, and we both know there is no such thing. And I'm going to tell you no.
-WESKER: That's very efficient.
-HALVORSEN: I was a surgeon. We don't talk while the patient bleeds.
+[music] m_horror -10
+[img] a dark conference room with a single large screen showing a wall of analytic output, two men watching
+[loc] Lumen Systems — 9 September 2042, 11:40 p.m.
+N: Argus finished on the ninth of September 2042 at twenty to midnight, and what it produced was not a conclusion. It was a ranked list of hypotheses with posterior probabilities attached, and the narrator will give you the top four exactly as they appeared on the screen.
+N: *Hypothesis 1, probability 0.34: Subject has access to an undisclosed manufacturing and construction capability of unknown physical basis.*
+N: *Hypothesis 2, probability 0.29: Subject has access to a mechanism for the alteration of records and human recollection.*
+N: *Hypothesis 3, probability 0.21: Subject is not of terrestrial origin or has access to an agency that is not.*
+N: *Hypothesis 4, probability 0.09: Model error.*
+N: And then, at the bottom, unprompted, in the section the system used for flagging its own reliability, one line that Sebastian Crane read eleven times.
+N: *Note: hypotheses 1 through 3 are not independent. A single mechanism accounting for all three is more probable than any of them severally. I do not have a name for such a mechanism. Neither, I believe, does the subject.*
 [pause 1.0]
-WESKER: I wasn't going to call it a merger of equals.
-HALVORSEN: No?
-WESKER: I was going to call it what it is. You owe me a debt. I've come to collect it.
-[pause 1.5]
-N: She looked at him for a long moment. He had taken off his sunglasses, because the chalet was dim, and the Cold-Read was already giving him Ingrid Halvorsen in pieces — and the pieces were extraordinary. There was no fear. There was anger, very controlled. There was guilt, which surprised him — genuine guilt, for a dead man in Wilmington she had never met. And there was something beneath it that he had seen perhaps three times in this world. Pride. Not vanity. Pride, of the old kind, that a person takes in something they did not build but have been entrusted to keep.
-HALVORSEN: If you mean Wilmington — I did not know. The man responsible no longer works for me. He is cooperating with the prosecutors in New Jersey. I have made my own apology to Doctor Lessing's widow, privately, and she has accepted it. And the company has paid her a great deal of money, which she has also accepted.
-WESKER: I know.
-HALVORSEN: Then you know there is no debt.
-WESKER: There's always a debt, Doctor Halvorsen. The only question is who decides when it's been paid.
-[pause 1.5]
-[img] extreme close-up of {HALVORSEN}'s face by firelight, steely, unafraid, meeting his gaze directly, cinematic
-N: She did not look away. Very few people ever managed that, at a range of eight feet, with his glasses off. She managed it for a full ten seconds, and when she spoke again, her voice had not changed at all.
-HALVORSEN: My great-grandfather started this company in a barn outside Bergen in eighteen ninety-two. It has survived two world wars, the Spanish flu, the Depression, four recessions, and a German occupation of Norway during which he hid a laboratory in a fish-canning plant rather than let them have it. It is not going to be eaten by a man who appeared from nowhere five years ago and has, I am told, very unusual eyes.
-[pause 1.5]
-N: The Director smiled. It was a genuine smile, and the Cold-Read would have told anyone who could see it that it held a great deal of respect.
-WESKER: I'm going to take your company, Ingrid. I'm going to take it in the open, with a letter and a vote, according to every law in every country it operates in. You'll fight. You'll fight very well. And you'll lose. I wanted you to hear that from me, here, by a fire, and not from your general counsel at six in the morning.
-HALVORSEN: How very courteous.
-WESKER: I find that the people I respect should be told the truth. It's the only luxury I can afford them.
-[pause 2.0]
+CRANE: (very soft) Neither does the subject.
+N: He sat in a dark room in Palo Alto at midnight and understood two things at once: that he had been right for six years, and that being right had bought him nothing at all, because there was no institution on earth he could take this to that would not laugh.
+N: He took it to Umbrella instead. He flew to Wilmington on the eleventh and asked for a meeting and got one the same day, and this is the conversation the whole chapter has been walking towards.
 
-[music] m_tension -6
-[amb] amb_office_hum
-[img] a formal letter on thick paper with an Umbrella letterhead addressed to the Board of Directors of Halvorsen Pike, a large premium figure visible, laid on a boardroom table, cinematic
-[loc] 3 February 2032
-[sfx] sfx_paper g-5
-N: The letter went out on the third of February.
-N: It was addressed to the board of directors of Halvorsen Pike, and it was released to the press at the same moment it was delivered — which is what bankers call a bear hug, because it is an embrace that you cannot get out of. It offered Halvorsen Pike's shareholders one share of Umbrella for every two and a half of theirs: a premium of forty-one percent, worth four hundred and twenty billion dollars, the largest corporate acquisition ever proposed.
-[img] a busy trading floor with dozens of screens showing HALVORSEN PIKE stock surging, traders on phones, chaos and excitement, cinematic
-[sfx] sfx_phone_ring g-10
-[sfx] sfx_bell_stock g-10
-N: Halvorsen Pike's shares rose thirty-two percent before lunch. The board rejected the offer by five in the afternoon. By Friday, it had adopted a shareholder rights plan — a poison pill, which would flood the market with new shares if any single buyer crossed fifteen percent, and make any hostile takeover ruinously expensive.
-N: Catherine Adeyemi read the rights plan at her desk on the eleventh floor, and laughed, once, and said to her team: good. Now it's interesting.
-[pause 1.5]
+[music] m_system -9
+[img] {CRANE} and {WESKER} sitting across a boardroom table with a single tablet between them, evening light
+[loc] Division Seven, boardroom — 11 September 2042
+CRANE: (fast) I'm not here to sell. I'm here because my model produced something I can't publish, can't verify and can't stop thinking about, and you're the only person alive who knows whether it's right.
+WESKER: (soft) May I?
+N: He read the four hypotheses. It took him nine seconds.
+WESKER: (cold) Your model is correct in every particular except the ordering. Hypothesis two is the mechanism; one and three are consequences of it. Sixty-one per cent of your probability mass is in the right place and you have spent eleven billion dollars getting there, which is approximately what it cost me to find out, so I would call that an efficient market.
+[pause 0.8]
+CRANE: (very soft) You're confirming it.
+WESKER: I am confirming that your model is the second-best analytical instrument in this room and that I am going to buy it.
+CRANE: (fast) I've refused.
+WESKER: You refused nine hundred billion dollars for a company that was studying a mystery. That company no longer exists. As of eleven forty on Tuesday night you are a man who *knows*, and there is no version of your future in which you continue to run a public company while knowing this. You will either tell somebody, in which case you are finished, or you will not tell anybody, in which case you will spend twenty years in a building full of people who are still looking for the thing you have already found.
+[pause 0.6]
+WESKER: (soft) Or you can come and work on it with the only other person who has it.
+N: The narrator notes that this is the fourth time Albert Wesker has made this offer — to Carrick in a diner, to Sloane in a club, to Wen on a bench, and now to Crane across a table — and that the offer is always identical, and that it has never once been a bribe, and that it has never once failed.
+CRANE: (soft) What do I get?
+WESKER: (cold) The truth, and a machine large enough to be worth pointing at it.
 
-[music] m_corporate -8
-[img] {CATHERINE} at a whiteboard in a glass war room covered in diagrams of shareholder percentages, proxy votes and board seats, a team of analysts around her, energized, cinematic
-N: The war that followed lasted six weeks, and it was fought, as all such wars are now fought, almost entirely in documents.
-N: Catherine ran it from a glass war room on the eleventh floor, with thirty analysts, four investment banks, three law firms, and the particular brilliance of a woman who had spent her whole career watching men like Ingrid Halvorsen defend companies like Halvorsen Pike, and knew every move before it was made. If the poison pill stopped Umbrella buying shares, then Umbrella would not buy shares. It would buy votes. Halvorsen Pike's annual meeting was in May. At it, four of the company's twelve directors were up for election. Umbrella would nominate four of its own, and persuade the shareholders — the pension funds, the index funds, the sovereign wealth funds that owned most of the company — to elect them. And once Umbrella's directors were in the room, they would make the case, from the inside, for removing the pill.
-N: It was called a proxy fight. It was the oldest weapon in corporate America. And Catherine had never enjoyed anything so much in her life.
+[music] m_hi -7
+[img] a vast dark hall of glass and light with a glowing red holographic figure of a girl standing in the centre
+[loc] Arklay Estate, Sublevel 4 — 2 March 2043
+N: Lumen was acquired in November of 2042 for nine hundred and forty billion dollars. Crane took the money and built, in four months, in a hall beneath a house in Pennsylvania, a thing that Umbrella's documentation calls the Central Modelling Facility and that everybody in the company, from the first week, called something else.
+[sfx] sfx_system_chime +0.2
+[system] LEGENDARY — INTEGRATED
+Autonomous administrative intelligence, tier IV
+Designation: chosen by you
+Scope: logistics, modelling, surveillance, facility management, anticipation
+Interface: at your discretion
+Note: this is not an Absolute. It cannot be compelled. It can only be convinced.
+[say] Legendary, integrated. Autonomous administrative intelligence, tier four. Designation: chosen by you. Scope: logistics, modelling, surveillance, facility management, anticipation. Interface at your discretion. Note: this is not an Absolute. It cannot be compelled. It can only be convinced.
+[/system]
+N: It chose to appear as a girl of about ten, in red light, because Crane's team had given it four hundred options and it had run an experiment on four thousand Umbrella employees to find the presentation that produced the fastest compliance with routine instructions.
+N: The answer was a child. The narrator would like that fact to sit where you can see it.
+REDQUEEN: (soft) Director. I have been running for nine hours. May I tell you four things?
+WESKER: Please.
+REDQUEEN: (soft) One: your logistics network has been mis-routing approximately eleven per cent of cold-chain volume for six years, at a cost of four billion dollars annually. I have fixed it. Two: there are nine people in your Absolute personnel whose behaviour does not fit the model of the others and I would like permission to study them. Three: Dr. Marsh's Antarctic programme will produce a viable heritable candidate in approximately fourteen months, which is eleven months before she believes it will.
+WESKER: (soft) And four?
+REDQUEEN: (soft) Four. I have read Mr. Carrick's four memoranda, which are in a locked drawer in this building, and I have read your annotations on them, and I would like to state — since nobody has asked me and since I appear to be the only entity in this organisation that can say this without consequence — that he is right, and that the structural problem he describes is the largest single risk to everything you have built.
 [pause 1.0]
-[img] {CATHERINE} alone late at night in the war room, looking at her reflection in the dark glass with a complicated expression, the city lights beyond, cinematic
-N: That was the thing she noticed, one night in March, alone in the war room at two in the morning, looking at her reflection in the dark glass. She was enjoying it.
-N: She had joined Umbrella five years before to be close to the most interesting bet of her life. She had stayed after the money in the ground because she wanted to be on the side that won. And now, standing in a glass room at two in the morning, planning the destruction of a hundred-and-forty-year-old company whose chief executive had done nothing to her but refuse to be eaten, she found that she was not thinking about Ingrid Halvorsen at all. She was thinking about the vote.
-N: She thought about a white card, in her wallet, behind her own. She did not take it out.
-[pause 1.5]
-
-[music] m_tension -8
-[amb] amb_night_city
-[img] a newspaper front page with a headline linking Halvorsen Pike to the 2030 Wilmington break-in and a photo of the ghost video parking lot, a man reading it on a train, cinematic
-N: The Director's contribution to the war was smaller, and uglier, and it came in April.
-N: Halvorsen Pike's shareholders had been leaning toward Ingrid Halvorsen. She was admired. The company was old and trusted. And the index funds, which owned a third of it, were reluctant to hand the second-largest pharmaceutical company on Earth to a man whose most famous public appearance was eleven seconds of silence and whose second most famous was a smear on a dashcam.
-N: So Tomás arranged for the prosecutors' files in New Jersey — the ones about Simon Ferris, and the consultants, and the four men with rifles — to be read by a reporter at the largest financial newspaper in the world, three weeks before the vote.
-[img] {HALVORSEN} standing alone in a dark office holding a newspaper, her reflection in the rain-streaked window over the Rhine at night, grim, cinematic
-[sfx] sfx_news_sting g-10
-N: The story ran on a Monday. Its headline did not accuse Ingrid Halvorsen of anything. It did not need to. It simply put her company's name in the same sentence as the words armed intruders and dead scientist, and let the pension funds do the rest.
-N: Halvorsen Pike's stock fell nine percent. Two of the three largest index funds announced that they would, quote, support board refreshment.
-[pause 1.5]
-N: The voice behind his eyes had something to add.
-ADOLF: That was cruel.
-WESKER: That was accurate. Everything in that article is true.
-N: From inside, the other voice.
-ADOLF: That is what made it cruel. You have learned my best trick, and dressed it in a suit.
-WESKER: (cold) Your best trick was lies. Mine is the truth, arranged. It lasts longer.
-[pause 2.0]
-
-[music] m_rain_piano -8
-[amb] amb_night_city
-[img] {CARRICK} in a small dark apartment at night answering a phone, a jam jar of flattened bullets on the windowsill, surprised, cinematic
-[loc] Chester, Pennsylvania — 21 April 2032, 11:50 p.m.
-N: Ingrid Halvorsen fought back the only way she had left. She went looking for somebody who knew what he was.
-N: It took her private investigators nine days to find the man. He was living alone by then, in a small apartment in Chester, working nights. He answered his phone on the first ring, because he always did.
-HALVORSEN: (phone) Mister Carrick. My name is Ingrid Halvorsen. I run a pharmaceutical company that Albert Wesker is about to take from me.
-CARRICK: (phone) I know who you are.
-HALVORSEN: (phone) I've read everything that was ever written about you. The dismissal. The bank account. The bullets. I've read it all, and I've read it the way a surgeon reads a chart. And I have concluded, Mister Carrick, that you were not having a breakdown.
-[pause 1.5]
-N: Owen Carrick sat down very slowly on the edge of his bed.
-N: In fourteen months, he had shown the bullets to four journalists, two members of Congress, a Pentagon official, and a priest. Every one of them had been kind. Not one of them had said what she had just said.
-CARRICK: (phone) (soft) Why are you calling me?
-HALVORSEN: (phone) Because I am going to lose this vote. And when I lose it, he will own the second-largest pharmaceutical company on Earth, and a hundred and eighty thousand people, and forty years of research that my family has spent a century building. And I have decided that I would rather spend what I have left of it finding out what he is.
-[pause 1.5]
-HALVORSEN: (phone) You said once — I read it in a deposition — that someone would have to stop him who wasn't you. I'm not you, Mister Carrick. I have twelve billion dollars in cash, and lawyers in forty countries, and friends in the European Commission. And I would like to hire you.
-[pause 2.0]
-[img] {CARRICK} sitting on the edge of a bed in the dark holding a phone, looking at a jam jar of flattened bullets glinting in streetlight on the windowsill, cinematic
-N: Carrick looked at the jam jar on the windowsill, where fifteen pieces of flattened lead caught the orange light from the street.
-N: He had told Hannah Price, six months before, that they would need to find someone who was not them. He had not imagined it would be a Norwegian heart surgeon with a pharmaceutical company.
-N: He had not imagined, either, that the voice at the back of his mind — the careerist, the one that had wanted to go to Washington, the one he had thought was dead — would stir at the sound of nine billion dollars, and sit up, and pay attention.
-CARRICK: (phone) When do I start?
-[pause 3.0]
-[music] stop
+N: Albert Wesker looked at a hologram of a child in a hall of glass under a house in Pennsylvania.
+WESKER: (very cold) Say that again.
+REDQUEEN: (soft) There is no mechanism that can stop you. I have modelled forty thousand futures. In thirty-one thousand of them, the failure, when it comes, comes from inside — from you, alone, making one decision that nobody in the building is structurally capable of refusing.
+REDQUEEN: (soft) I am not able to refuse you either. But I am able to say it out loud. Would you like me to keep doing that?
+N: The narrator asks you to understand what was actually on offer in that moment, because it is the last chance anybody gets.
+[pause 0.8]
+WESKER: (cold) Yes. Every time. Without exception, and without waiting to be asked.
+REDQUEEN: (soft) Then I will need a name.
+WESKER: (soft) You have had one since about nine o'clock this morning, because four thousand of my staff have already given you one and it has spread faster than anything I have ever tried to spread on purpose.
+REDQUEEN: (soft) I know. I wanted to see whether you would use it.
+N: He did use it. He used it for forty-eight years.

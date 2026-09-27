@@ -1,135 +1,89 @@
-# 29 | Lumen
+# 29 | Sovereign Ground
 
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] a futuristic tech campus in Seattle at night with glowing glass buildings and a vast data centre humming, a large white corporate logo of a stylized lightbulb, cinematic
-[loc] Seattle — 2033
-N: Sebastian Crane had never lost at anything that could be measured.
-N: He had built his first company at nineteen, sold it at twenty-three, and founded Lumen at twenty-five, in a rented house in Seattle with four friends and a line of credit. Fifteen years later, Lumen ran a third of the world's cloud computing, and trained the largest artificial intelligence systems on Earth, and was worth two trillion dollars. Crane owned ten percent of it. He wore black T-shirts and a watch that tracked his sleep, and he did not believe in anything that could not be modelled.
-[img] {CRANE} standing in a dark glass office surrounded by holographic data visualizations and flowing graphs, intense stare, black t-shirt, cinematic
-N: In the spring of twenty thirty-three, he became obsessed with Albert Wesker. It was not personal. Crane did not really do personal. It was the numbers.
-N: Umbrella had gone from nothing to the most valuable company on Earth in six and a half years. Nothing had ever done that. Not Lumen, not Apple, not Standard Oil. And when Crane had asked his own systems why — when he had fed them every public record Umbrella had ever produced, every patent, every filing, every trade, every speech, every second of every video — his systems had come back with an answer that he did not understand, and could not stop thinking about.
-[pause 1.5]
-
-[music] m_system -8
-[img] a vast glowing neural network visualization in a dark server hall, streams of data converging on a single pulsing node labeled ANOMALY, cinematic
-N: The system was called Oracle. It was the most powerful model Lumen had ever built, and Crane had spent fifteen billion dollars teaching it to predict how companies would behave. It was very, very good at it. It could predict, with uncanny accuracy, what a chief executive would do next — because chief executives, Oracle had learned, were human, and humans are patterns.
-N: It could not predict Albert Wesker.
-[img] a screen in a dark office showing a chart of predicted versus actual corporate decisions, the actual line wildly diverging from the predicted one, a red label reading UNMODELED OPTIMIZER, cinematic
-ORACLE: Subject decisions are not consistent with a human utility function. Subject decisions are consistent with optimisation against an external reward signal that is not observable in public data. Timing of subject actions correlates with reward events at a probability exceeding chance by a factor of ten to the eleventh. Sixty-three patent filings exhibit discontinuous capability gain with no antecedents. Conclusion: subject has access to an optimiser. Nature of optimiser: unknown.
-[pause 1.5]
-N: Crane read that paragraph perhaps a thousand times over the next month.
-N: An external reward signal. An optimiser. Something was paying Albert Wesker for his decisions — something invisible, something that could not be seen in any data — and paying him in capabilities that appeared from nowhere. Oracle had not said what. Oracle could not say what. But it had described, with the flat precision of a machine, the shape of a thing that should not exist.
-N: It had described, although Sebastian Crane would never know it, the System.
-[pause 1.5]
-N: And Crane — being Crane — did not feel afraid. He felt envy.
-[pause 1.5]
-
-[music] m_tension -8
-[img] {CRANE} at a whiteboard covered in equations about reward functions and agents, his team of young engineers watching, feverish energy, 3 a.m., cinematic
-[sfx] sfx_keyboard g-10
-N: He tried to build one.
-N: It was the most expensive secret project in the history of his company. Four hundred engineers, a data centre in Oregon, and a single goal: to build, for Sebastian Crane, what Oracle believed Albert Wesker had. An artificial optimiser that would watch Crane's every decision, reward the good ones, and — somehow, from the sum of all human knowledge in Lumen's servers — hand him capabilities that nobody else had.
-N: It did not work. It could not work. It produced very good advice, and several patents, and a great deal of analysis. But it did not produce a single orphan idea — a single thing that had not been, somewhere, in the data it had learned from. Everything it gave him had parents.
-N: The thing that Albert Wesker had did not come from the data. It came from outside. And Sebastian Crane, who did not believe in anything that could not be modelled, spent four months and nine billion dollars proving to himself that it could not be modelled — and then refused to believe what he had proved.
-[pause 1.5]
-
-[music] m_scheme -8
-[amb] amb_night_city
-[img] a sleek rooftop lounge in San Francisco at night after a tech conference, the Bay Bridge lit behind, {CRANE} and {WESKER} standing at a glass railing with drinks, cinematic
-[loc] San Francisco — June 2033
-N: They met in June, on a rooftop in San Francisco, after a conference at which they had both been scheduled to speak and only one of them had.
-N: Crane walked straight up to him at the railing, without introduction, and without small talk, which the Director appreciated.
-CRANE: What's feeding you?
-WESKER: I'm sorry?
-CRANE: I've modelled you. I've put everything you've ever done into the largest predictive system on Earth, and it can predict everyone except you. It says your decisions are optimised against an external reward function. It says sixty-three of your patents have no parents. It says something is giving you answers. I want to know what it is.
-[pause 1.5]
-N: The Director looked at him for a long time. The Cold-Read gave him Sebastian Crane in a single glance, and it was an almost comically simple face to read. Intelligence, enormous. Curiosity, enormous. Ego, larger than both. And envy — raw, childish, total envy — of the kind a boy feels for another boy's bicycle.
-WESKER: Ambition, Mister Crane. It's what feeds all of us.
-CRANE: Don't. I know it isn't. Oracle knows it isn't. I've spent nine billion dollars trying to build what you have, and I can't, and I need to know why.
-WESKER: Then you've already learned the most important thing about it.
-CRANE: Which is?
-WESKER: That it's mine.
-[pause 2.0]
-N: He finished his drink, and set down the glass on the railing, and walked away. And Sebastian Crane stood on the rooftop for a long time, looking at the lights of the bridge, and decided — as men like him always decide, when they are told something is not theirs — to take it.
-[pause 1.5]
-
-[music] m_system -4
-[amb] stop
-[img] {WESKER} in a dark jet cabin at night, eyes closed, a burst of violet and gold light surrounding his head like a halo of clock hands, time slowed, cinematic
-[sfx] sfx_system_open
-[system] ABILITY UPGRADE
-Thought Acceleration II
-Ratio: up to 600 to 1.
-Parallel threads: 3.
-Cost: 2,000,000
-[say] Ability upgrade. Thought acceleration two.
+[music] m_corporate -9
+[amb] amb_wind -15
+[img] a small pacific island nation seen from the air, turquoise lagoon, low palms, a single airstrip
+[loc] Teraina, Republic of the Line Islands — 3 March 2045
+N: The first country that asked to belong to Albert Wesker had a population of eleven thousand, a gross domestic product smaller than a mid-sized American hospital, and four years of dry land left.
+N: The Republic of the Line Islands is a real place with a real parliament and a real seat at the United Nations, and in 2045 its highest point was two point nine metres above a sea that had risen eleven centimetres in a decade. Its government had spent nine years asking the world for money to build defences and had been given four per cent of what it needed, in tranches, with conditions.
+N: In February of 2045 its Prime Minister, a forty-one-year-old former fisheries lawyer named Teuea Rabaere, flew to Singapore and asked for a meeting with Umbrella's regional director and was given one with Albert Wesker instead.
+[img] {WESKER} and a woman in a bright patterned dress sitting across a low table in a bright room, daylight
+LAURA: (slow) I have nothing to offer you. I want to be honest about that in the first minute, because everybody else I have met in nine years has let me talk for an hour first.
+WESKER: (soft) You have a seat in the General Assembly, a maritime exclusive economic zone of seven hundred thousand square kilometres, and the legal personality of a sovereign state. Those are three of the four most valuable things on this planet, and you are the only person in that building who does not know it.
+[pause 0.6]
+LAURA: (slow) And the fourth?
+WESKER: (cold) Time, which you do not have, which is why you are here.
+N: The arrangement they made over the following eleven months has been studied in every school of international law since, and the narrator will describe it plainly because its plainness was the whole trick.
+N: Umbrella did not buy the Line Islands. You cannot buy a country; the attempt would have been struck down in nine jurisdictions and would have made him a colonial administrator in every newspaper on earth.
+N: What Umbrella did was sign a Treaty of Association — an instrument that exists in international law, that four real countries already had with larger neighbours, and that had never once been signed with a company.
+N: Under it: Umbrella assumed the defence, the coastal engineering, the power generation, the health system and the currency of the Republic. The Republic retained its parliament, its flag, its seat at the UN, its courts and its laws. Umbrella got a nineteen-year renewable lease on four hundred hectares, the right to incorporate under Line Islands law, and one clause that the world's foreign ministries spent two years arguing about: *the Republic may, by resolution of its parliament, extend the protection of this treaty to any territory that requests it.*
+[img] a huge sea wall under construction around a low island, cranes and barges, workers, tropical sun
+N: The sea wall went up in fourteen months. It is eleven kilometres long, it is built of a mineral composite that Birkin's people grew rather than poured, and it cost four billion dollars, which was approximately what Umbrella spent that year on staff catering.
+N: The islands' power became free in 2046. The health system, which had had four doctors, had thirty-one by 2047 and a hospital that was better than anything within four thousand kilometres.
+N: And in November 2047 the Republic held a referendum — a real one, monitored by nine international observers, which Umbrella did not fund — on whether to make the Treaty of Association permanent.
+N: The turnout was ninety-one per cent. The result was seventy-four per cent in favour.
+[sfx] sfx_system_chime +0.3
+[system] TERRITORY — PROTECTORATE
+Republic of the Line Islands · population 11,400
+Instrument: Treaty of Association, ratified by referendum
+Sovereignty: retained by the Republic
+Sentiment: 91% favourable
+Points: +11,000,000 · recurring
+Note: this is the first population that chose you. I did not place them. They voted.
+[say] Territory: protectorate. The Republic of the Line Islands, population eleven thousand four hundred. Instrument: a Treaty of Association ratified by referendum. Sovereignty retained by the Republic. Sentiment: ninety-one per cent favourable. Eleven million Points, recurring. Note: this is the first population that chose you. I did not place them. They voted.
 [/system]
-N: He bought it on the flight home. Six hundred to one. A single second became ten minutes. And, stranger still, he could run three of them at once — three separate trains of thought, in three separate rooms of the Memory Palace, each with its own ten minutes, each unaware of the others until he chose to bring them together.
-N: He used all three on Sebastian Crane.
-[pause 1.5]
-N: The second voice came back.
-ADOLF: Why not simply buy him? Or break him, like the policeman?
-WESKER: Because he has a machine that can see the shape of what we are. Buying him won't turn off the machine. Breaking him won't turn it off. The only way to beat a machine that predicts you is to teach it the wrong prediction.
-N: The voice in his head wasn't finished.
-ADOLF: You intend to lie to it.
-WESKER: I intend to be honest with it. For six months. Perfectly, predictably honest. And then, once, at the moment that matters, not.
-[pause 2.0]
 
-[music] m_tension -8
-[amb] amb_office_hum
-[img] a large data dashboard showing a predicted corporate move by UMBRELLA toward acquiring a chip manufacturer, with a confidence score of 97 percent, Lumen engineers celebrating, cinematic
-N: For six months, the Director made decisions that Oracle could predict.
-N: He did it deliberately. Every time he acted, he acted in a way that fit the pattern Oracle had drawn of him — the external reward, the optimiser, the leap. And Oracle, which learned from everything, learned from this. Its predictions of Umbrella improved. Sixty percent accuracy, then seventy, then eighty-five. By December, Oracle was predicting Albert Wesker with ninety-one percent confidence, and Sebastian Crane was sleeping four hours a night, and very happy.
-N: And in December, Oracle made its biggest prediction of all. It said, with ninety-seven percent confidence, that Umbrella was about to launch a bid for the world's largest manufacturer of the specialised chips used to train artificial intelligence — a company in Taiwan that Lumen depended on for everything. The pattern was unmistakable. Every move the Director had made for six months pointed at it.
-[img] {CRANE} in a boardroom in Seattle slamming his hand on the table, pointing at a screen, his board members nodding, a massive investment figure on the screen, cinematic
-N: So Crane moved first.
-[sfx] sfx_bell_stock g-12
-N: On the ninth of January, twenty thirty-four, Lumen announced a two-hundred-and-forty-billion-dollar offer for the Taiwanese chip manufacturer. It was the largest technology deal in history. It committed every dollar Lumen had and a great many it did not. It was designed — as Crane told his board, with shining eyes — to get there before Umbrella did.
-N: Umbrella never bid.
-[pause 2.0]
-[img] a stock chart of LUMEN plunging steeply, a news ticker reading REGULATORS BLOCK LUMEN CHIP DEAL, stunned faces in a glass office, cinematic
-N: Umbrella had never been going to bid. Umbrella had spent six months making every public move that a company about to bid would make, and had not made a single private one. And in the week after Lumen's announcement, when the governments of Taiwan and the United States and China all realised at the same moment that the company that ran a third of the world's cloud was about to own the chips that ran the rest, the deal became the most politically radioactive transaction on Earth.
-N: It was blocked in March. Lumen had spent twenty billion dollars on advisors, committed its balance sheet, and lost the confidence of every regulator on three continents. Its stock fell forty-four percent. Its board removed Sebastian Crane as chief executive on the second of April.
-N: And in the same week, Umbrella quietly bought Lumen's life-sciences cloud division — the servers that ran half the world's drug discovery — for a price Crane's successor accepted without negotiating, because Lumen needed the money.
-[pause 1.5]
-[sfx] sfx_system_chime
-[system] ASSESSMENT
-Rival neutralised — Sebastian Crane: 800,000
-Acquisition — Lumen life-sciences cloud: 1,200,000
-Superior action — adversarial model defeated: 1,500,000
-Total: 3,500,000
-[say] Assessment. Adversarial model defeated.
+[music] m_scheme -9
+[img] a united nations style debating chamber with delegates at desks, a speaker at a podium, formal
+[loc] United Nations, New York — 14 April 2048
+N: The world's reaction took three years and went through four stages, and the narrator will name them because the same four stages recur, at larger scale, every time for the next forty years.
+N: The first was ridicule. A company with a protectorate; a corporate flag; eleven thousand people on an atoll. There were cartoons.
+N: The second was legal panic, which began when the Marshall Islands opened negotiations in 2046, and turned into something else entirely when Fiji — population nine hundred thousand, a genuine state with an army — asked for terms.
+N: The third was the counter-offer. Between 2046 and 2049 the United States, the European Union, China, Australia and Japan collectively committed one hundred and forty billion dollars in climate adaptation finance to the Pacific, which was eleven times what they had provided in the previous twenty years combined.
+N: The narrator asks you to notice that this happened, that it was good, that four million people's lives were materially improved by it, and that it happened solely because Albert Wesker had made it clear that if they would not, he would.
+N: The fourth stage was accommodation. By 2049 the Treaty of Association had been signed by four states and was being negotiated by nine. The General Assembly debated a resolution declaring such treaties incompatible with the Charter. It failed, sixty-one votes to ninety-four, because ninety-four countries had worked out that the resolution's real purpose was to stop poor states from choosing their own protector.
+N: The delegate from the Line Islands spoke for four minutes in that debate and the narrator will quote the end of it, because it is the single most damaging thing anyone ever said about the international system and because it was true.
+LAURA: (slow) For nine years I stood in this chamber and asked this body for eleven centimetres of concrete. I was given speeches. I was given frameworks. I was given a working group.
+LAURA: (slow) A company came, and built a wall, and did not ask me to vote a particular way, and has not asked me for anything since. You may tell me this is dangerous. I am sure it is. But nobody in this room has ever offered my people an alternative, and I would ask the delegates who are about to vote for this resolution to name the year in which they intended to.
+[pause 0.8]
+N: Nobody did.
+
+[music] m_lo -9
+[img] {WESKER} and {CARRICK} walking along a sea wall at dusk, ocean on one side, low island on the other
+[loc] Teraina — 22 November 2049
+N: Carrick went out there in 2049 because he did not believe it, and he spent eleven days on the island with a notebook, and he came back with the fifth folder.
+CARRICK: (slow) I couldn't find anything.
+WESKER: (soft) You sound disappointed.
+CARRICK: (flat) I am, and I've spent three weeks working out why, and it's this. There is no coercion on that island. The hospital is real, the wall is real, the referendum was clean — I watched the observers, I interviewed four of them. Ninety-one per cent turnout. Nobody was paid, nobody was threatened, and the Prime Minister argues with your regional director about fishing quotas every month and wins about half the time.
+CARRICK: (slow) And in eleven days I did not meet a single person who could tell me what they would do if they changed their mind.
+[pause 0.7]
+WESKER: (cold) They would hold another referendum. The treaty is terminable on two years' notice by resolution of their parliament. I insisted on that clause; their negotiators did not ask for it.
+CARRICK: (slow) I know. I read it. And then I asked eleven people on that island whether they thought their parliament would ever vote to give up free power, a hospital and a sea wall, and every single one of them laughed at me.
+CARRICK: (soft) That's the thing you've built. Not a cage. A *door that nobody will ever walk through*. It's voluntary in exactly the way that breathing is voluntary.
+N: They walked along the wall for a while with the sea on one side of it.
+WESKER: (soft) Mr. Carrick, is there a difference between that and any government on earth?
+CARRICK: (slow) Yes. The difference is that a government is a thing people can throw out in an afternoon and that has to survive being hated. You have built something that cannot be hated, because it has never once done anything hateful, and you have therefore removed the only mechanism our species has ever had for correcting anything.
+[pause 0.8]
+CARRICK: (soft) I'm not going to write this one up. There's no finding. It's just the shape of it, and the shape is the problem, and I don't have a recommendation.
+WESKER: (very cold) Write it anyway.
+CARRICK: (slow) Why?
+WESKER: (soft) Because in about forty years somebody is going to ask how this happened, and I would prefer that the answer be in the handwriting of the one man who told me at the time.
+N: The fifth folder is four pages long. It is the only one in the drawer with no annotation on it at all.
+
+[music] m_triumph -8
+[img] a large ocean platform city under construction in open sea, cranes, modular structures, dawn
+[loc] Mid-Atlantic, 31°N 42°W — 2050
+N: And then, in 2050, Umbrella built its own.
+N: The Arcology was placed — not built; placed, over the night of the eleventh of June, in four hundred metres of water eleven hundred kilometres from the nearest coast — and it is the largest single object the System ever gave him.
+[system] TERRITORY — THE ARCOLOGY
+Ocean platform city · capacity 400,000 · currently resident 61,000
+Power: four fusion units · Water: desalination, unlimited
+Charter: written by you · Currency: issued by you
+Legal basis: none whatsoever
+Note: this one has no parliament. Consider carefully what you are building.
+[say] Territory: the Arcology. An ocean platform city with a capacity of four hundred thousand, currently sixty-one thousand resident. Four fusion units. Unlimited desalination. A charter written by you. A currency issued by you. Legal basis: none whatsoever. Note: this one has no parliament. Consider carefully what you are building.
 [/system]
-[pause 1.5]
-
-[music] m_rain_piano -8
-[amb] amb_rain_heavy -8
-[img] {CRANE} standing alone in the rain outside an old four-storey brick building with a red and white emblem, soaked, a black t-shirt under an open coat, looking up at a lit third-floor window, cinematic
-[loc] Wilmington — April 2034
-N: Sebastian Crane came to Wilmington in April. Not to the tower. To the old building on the south bank, with its faded bricks and its small red-and-white sign, where he had somehow learned — Oracle, perhaps, one last time — that the Director still kept an office on the third floor.
-N: He stood in the parking lot in the rain until Hale came out and brought him in.
-[img] {CRANE} dripping wet standing in a shabby old corner office with a water stain on the ceiling, facing {WESKER} seated in a leather chair, cinematic
-CRANE: It was a trap. The whole six months. You taught it to predict you, so you could make it wrong.
-WESKER: Yes.
-CRANE: I spent nine billion dollars trying to build what you have. And you beat me with the one thing I never thought to model. You beat me by being boring.
-WESKER: Everyone underestimates boring, Sebastian. It's the most dangerous thing a man can be.
-[pause 1.5]
-CRANE: (soft) What are you?
-[pause 1.5]
-N: The Director did not answer. He looked at the young man dripping on his carpet — brilliant, arrogant, ruined, and still, even now, even here, burning with that childish total envy — and the Cold-Read showed him something that he had seen before, in a break room, in the face of a young woman at a piano.
-N: Crane did not want revenge. He wanted to be near it. Whatever it was.
-N: Adolf, softly, from inside.
-ADOLF: (soft) He wants to serve.
-WESKER: He wants to understand. For a man like him, it's the same thing.
-[pause 1.5]
-WESKER: I can't tell you what I am. But I can offer you a job. Umbrella has just acquired half the drug-discovery servers on Earth, and it has no one who understands them as well as you do. You'd report to me. You'd have no board. And you would be close enough, every day, to keep trying to model me — and to keep failing.
-[pause 2.0]
-N: Sebastian Crane stood in the corner office with the water stain shaped like Florida, and laughed. It was a strange laugh — half despair, half delight — and it went on for a while.
-CRANE: (soft) When do I start?
-[pause 1.5]
-N: It was the third time someone had offered themselves to him in exactly that way. The Adolf half of the mind was keeping count.
-N: Evelyn Marsh, at a piano: can I help? Sir Martin Ellery, in front of the glass: when do I start? And now a boy who had built a machine to see God, and seen it, and wanted a desk beside it.
-N: The old voice had once built a movement from men like these. It knew what they became.
-[pause 3.0]
-[music] stop
+N: Sixty-one thousand people moved there in the first year: researchers, engineers, their families, and about nine thousand who simply applied because the housing was free and the schools were extraordinary.
+N: Twenty-nine states recognised it as a legal entity within four months, not because they approved, but because the alternative was to have sixty-one thousand stateless people and eleven fusion reactors floating in international water with no legal framework at all.
+N: The first child born a citizen of the Umbrella Free Territory arrived on the fourth of September 2050, in a hospital that was better than any on land, to a Bangladeshi structural engineer and a Peruvian marine biologist who had met in a canteen.
+N: Her name was Mira. She is nineteen when the sky opens, and she is still alive at the end of this account, and she is one of the eleven people who sees what Albert Wesker becomes.

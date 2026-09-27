@@ -1,179 +1,113 @@
-# 32 | Sixty Thousand
+# 32 | Origin
 
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] {TOMAS} in a vast production office surrounded by storyboards, screens and stage models of a stadium, a team of designers around him, feverish energy, cinematic
-[loc] 2035
-N: The Umbrella Congress was Tomás's idea. Everything big that year was Tomás's idea, or looked like it.
-N: He was thirty-three now, and his title was no longer head of digital. It was chief narrative officer — a title he had invented, and that three other companies had copied within a year. He ran a department of fourteen hundred people across four continents whose job was to decide what the world felt about Umbrella, and then to make the world feel it. He had a corner office on the tenth floor and a house on the Brandywine and his student loans had been paid off for eight years.
-N: He had also not slept properly since the ghost video. He did not tell anyone that.
-[pause 1.5]
-[img] an architectural render of a football stadium transformed into a vast stage with a giant red and white umbrella emblem, LED walls, and a swarm of drones in the sky, cinematic
-N: The idea was simple. Once a year, Umbrella would bring its people together — not the executives, not the board, not the investors, but the people. The chemists and the drivers and the nurses from the foundation clinics and the security officers and the families. From every country Umbrella worked in. In one place, on one night, to hear the Director.
-N: Tomás booked the football stadium in South Philadelphia for the eleventh of September, twenty thirty-five. Sixty-eight thousand seats. Umbrella flew in twelve thousand employees from abroad, and chartered buses for thirty thousand from the eastern seaboard, and gave free tickets to every family member who wanted one.
-N: They filled it.
-[pause 1.5]
-
-[music] m_march -10
-[amb] amb_crowd_murmur
-[img] an enormous football stadium at dusk packed with sixty thousand people, many in white coats and red and white scarves, a giant stage at one end with a towering umbrella emblem, cinematic wide shot
-[loc] South Philadelphia — 11 September 2035, 7:40 p.m.
-N: They came in the late afternoon, in their tens of thousands, under a clear September sky. They came in white coats, some of them, because it was a joke that had become a tradition. They came with their children on their shoulders. They came in red-and-white scarves that Tomás's department had sold at cost, and they waved them, and filmed each other waving them, and posted the films, and the films were watched, that night, by two hundred million people.
-[img] families in red and white scarves in stadium stands taking selfies, children with painted umbrella emblems on their cheeks, joyful, cinematic
-N: They were happy. That is important. They were not soldiers or zealots or a mob. They were forty-one thousand people who worked for the best employer in the world, and nineteen thousand people who loved them, and they had been given free tickets to a concert and a speech and a light show, and it was a beautiful evening, and they were happy.
-N: That is always how it starts.
-[pause 1.5]
-[img] an old woman in a VIP box at a stadium looking down at the crowd with a pale drawn face, a glass of wine untouched, {CATHERINE}, cinematic
-N: In a glass box above the fifty-yard line, Catherine Adeyemi sat with a glass of wine she did not drink, and looked down at the crowd, and thought about a phone in her handbag that she had bought with cash.
-[img] {HANNAH} in a stadium press box with a laptop and a worn small spiral notebook open beside it, watching the crowd with a grim expression, cinematic
-N: In the press box, among forty journalists who had been given lanyards and free food, Hannah Price sat with her laptop closed and a small, worn spiral notebook open on the desk in front of her, to a page near the end.
-[img] {CARRICK} standing alone in a vast stadium parking lot at dusk among thousands of parked buses and cars, looking up at the glowing stadium, collar up, cinematic
-N: And in the parking lot outside, among the chartered buses, a man in a plain jacket stood by himself, with two private investigators from Oslo, and listened to the stadium breathe.
-[pause 2.0]
-
-[music] m_sermon -8
-[amb] amb_crowd_murmur -4
-[img] a swarm of thousands of glowing drones in the night sky above a stadium forming the shape of a giant red and white umbrella emblem, the crowd below looking up in awe, cinematic
-[sfx] sfx_crowd_cheer g-6
-N: At eight o'clock the lights went down, and the drones went up.
-N: Three thousand of them, built by the factory in Arlington that had once belonged to Aegis Dynamics, rising out of the dark behind the stadium in a single silent cloud, and assembling, a thousand feet above sixty thousand upturned faces, into an umbrella. Red and white. Eight segments. Turning slowly, like a thing seen from far above.
-N: The stadium roared. It was the first time. It was only the beginning.
-[pause 1.5]
-[img] sixty thousand people in a darkened stadium standing with right hands over their hearts, lit by phone lights and the glow of the drone emblem overhead, cinematic
-[music] m_sermon -12
-N: And then, without anyone telling them to — without an announcement, without a cue — they began to say it.
-N: It started in the section where the Singapore families were sitting, and spread, the way a wave spreads in a stadium, from section to section, until sixty thousand people were standing in the dark with their right hands on their chests.
-[sfx] sfx_creed_crowd
-N: We are the shelter. We do not wait for the storm. We make the world safe for those who cannot make it safe for themselves. What we learn, we keep. What we begin, we finish. Where we stand, the rain does not fall. We are not many. We are enough.
+[music] m_system -8
+[amb] amb_office_hum -17
+[img] a glowing crimson and white holographic panel in a dark stone room, a figure in a black coat before it
+[loc] Arklay Estate, the library — 1 December 2062
+N: Viral Affinity forty came on the first of December 2062, thirty-six years after a man opened his eyes in a leather chair with a Viral Affinity of twelve.
+N: He had never bought a point of it. Every one of the twenty-eight had been paid for in stat points, three per level, the slow way, over thirty-six years, while a panel offered him the shortcut annually and he declined it annually.
+[sfx] sfx_system_chime +0.2
+[system] STATUS
+Level 340 · Viral Affinity 40
+Strength 61 · Agility 74 · Vitality 66
+Intelligence 151 · Presence 90 · Will 74
+Requirement met: ORIGIN
+[say] Status. Level three hundred and forty. Viral Affinity forty. Strength sixty-one. Agility seventy-four. Vitality sixty-six. Intelligence one hundred and fifty-one. Presence ninety. Will seventy-four. Requirement met: Origin.
+[/system]
+WESKER: (soft) Thirty-one years in a vault.
+SYSTEM: Thirty-one.
+WESKER: Tell me what it does. Not what it is. What it *does*, to me, on the fourth of December, at eleven o'clock at night, in a room under a house in Pennsylvania.
+[pause 1.0]
+SYSTEM: (flat) I do not know.
+N: The narrator notes that in thirty-six years and something over four thousand panels, this is the first time the System ever says those four words.
+SYSTEM: I know what it is. It is the strain that everything in your blood, in that cryogenic hall, in Dr. Marsh's lineage and in four hundred years of this planet's future is a copy of. It is not a weapon and it is not a therapy. It is the original, and the original does not have a specification, because everything that has one was derived from it.
+SYSTEM: I know what it has done in other cases. In three hundred and eighty-one of four hundred and eleven worlds the host never reached Affinity forty. Of the thirty who did, twenty-two opened it. Of the twenty-two, eleven died in the first minute. Nine became something that I stopped being able to interface with, and I do not have records of what happened to their worlds because I was no longer present in them.
 [pause 0.8]
-N: We are Umbrella.
-[pause 2.5]
+WESKER: (very cold) And the remaining two?
+SYSTEM: (flat) Two are still running.
+WESKER: (soft) Running.
+SYSTEM: (flat) The panel is accurate.
+
+[music] m_horror -9
+[img] {WESKER} and {EVELYN} standing in a vast underground cryogenic hall, blue light, rows of cradles
+[loc] Arklay, Level 9 — 3 December 2062
+N: He told four people.
+N: Birkin argued for six hours and produced eleven reasons, all of them good, all of them ignored. Carrick wrote the sixth folder in ninety minutes and hand-delivered it, and it said, in its entirety: *Don't. There is nobody after you. — O.C.*
+N: The Red Queen ran it four hundred thousand times and gave him a number.
+REDQUEEN: (soft) Survival, forty-one per cent. Survival with continuity of personality, nineteen per cent. I would like to note that my model of you is the best model of anything I possess, and that it produces a nineteen, and that I have never asked you for anything.
+REDQUEEN: (very soft) I am asking now.
+WESKER: (cold) Noted.
+REDQUEEN: (soft) That is not an answer, Director.
+WESKER: (very cold) No. It is the same answer I have given Mr. Carrick six times and it has the same value, which is that I have heard you, and that you are almost certainly right, and that I am going to do it anyway.
+N: And the fourth person was Evelyn Marsh, who had taken her own thing fifteen years earlier without telling anybody, and who was the only one who did not argue.
+EVELYN: (soft) You'll want somebody in the room.
+WESKER: (cold) No.
+EVELYN: (soft) You will. Not for the medicine — there isn't any medicine, there's nothing anybody can do for you once that's in. For afterwards. Somebody has to be the first person you see, and it should be somebody who has already been on the other side of it, and there is precisely one of those.
+[pause 0.7]
+WESKER: (very soft) And if it is not me that wakes up?
+EVELYN: (soft) Then I am the only thing on this planet that can stand in a room with it.
+N: The narrator notes that she was correct about that, that both of them knew it, and that this is the moment the balance of the whole account quietly tips.
 
 [music] stop
-[amb] amb_crowd_murmur -10
-[img] {WESKER} walking alone onto a vast dark stage toward a single spotlight, tiny against a gigantic umbrella emblem, sixty thousand silhouettes watching, cinematic
-N: He walked out into the silence afterwards.
-N: Alone. No music. No introduction. A single spotlight on a single microphone in the centre of a stage the size of a city block, and a man in a black suit and sunglasses walking toward it, without hurrying, while sixty thousand people held their breath.
-N: He had planned to speak for five minutes. It was in Tomás's schedule. Five minutes, then the orchestra, then the fireworks, then the buses.
-[pause 1.5]
-[img] {WESKER} at a microphone on a vast stage in a spotlight, his face projected enormous on LED screens behind him, sunglasses reflecting the stadium lights, cinematic
-WESKER: Good evening.
-[pause 1.5]
-[sfx] sfx_crowd_cheer g-4
-N: The roar went on for forty seconds. He let it. He stood perfectly still at the microphone with his hands at his sides, and let it wash over him and break and die away, and he waited, until the silence came back, and then he waited a little longer.
-N: Eleven seconds. Somebody in the crowd counted it out loud. Then others did. By the ninth second, the whole stadium was counting, laughing, and at nine they cheered again, because they had all seen the video, and they were all in on the joke.
-N: He smiled. He did not usually. The screens showed it, forty feet high.
-[pause 1.5]
-
-[music] m_sermon -10
-[img] faces in the stadium crowd lit by the stage, rapt, a nurse, a truck driver, a child on a father's shoulders, cinematic
-WESKER: Nine years ago, in a building two hours down the road from here, there were six people. Six. In a building nobody visited, in a company that was dying, doing work nobody read.
-WESKER: I told them something, in a break room, on a Friday afternoon. I told them that every great thing that has ever happened in this world began in a room exactly like that one. A room nobody was watching.
 [pause 1.2]
-WESKER: Look around you.
-[pause 2.5]
-[sfx] sfx_crowd_cheer g-8
-N: They looked around. Sixty thousand people, in the dark, looked at each other. And the Director felt it — the new sense, the one he had not yet bought, the one that the System would sell him that night — like the deck of a great ship tilting under his feet.
-[pause 1.5]
-WESKER: Nobody is watching this room. Not the governments. Not the newspapers. Not the men in glass towers who think they run the world. They are watching the drones, and the numbers, and the share price. They are not watching you.
-WESKER: They should be.
-[pause 2.0]
-N: That was where it changed.
-N: Tomás, in the production booth at the top of the north stand, would try for years to find the exact second on the recording, and would never be sure. But somewhere in that sentence, the rhythm changed. The voice did not get louder. It got — the only word Tomás ever found for it was — older.
+[amb] amb_basement -16
+[img] a small windowless stone room with a single chair, a black case open on a table, cold light
+[loc] Arklay, Level 9, the sealed vault — 4 December 2062, 11:00 p.m.
+N: It was a glass ampoule the length of a thumb, in a black case, on a steel table, in a room nine levels under a house in a forest in Pennsylvania.
+N: There was a chair. There was Evelyn Marsh, sitting on the floor against the far wall with her arms around her knees, which is not how a Director of a Progenitor Initiative sits, and which is how she sat.
+N: And there was Albert Wesker, thirty-six years and eighty-one days after he had opened his eyes in a leather chair in an empty office in Wilmington with ten thousand Points and eleven people who could not disobey him.
+ADOLF: (soft) I would like to say something.
+WESKER: (cold) No.
+ADOLF: (soft) Thirty-six years. I have asked you for four things in thirty-six years and you have given me one of them, and it was a pause in Basel.
+[pause 0.6]
+ADOLF: (soft) If you die in this room, I die in it. I would like that noted somewhere, by somebody, since there is no record anywhere in this world that I was ever here at all.
+N: The narrator notes it. It is the only thing the passenger ever asks for on his own account, and it is not a small thing: thirty-six years riding in a skull that was not his, in a world that never knew his name, having contributed — by any honest accounting — four public speeches and a great deal of advice about timing.
+WESKER: (very soft) Noted.
+[sfx] sfx_glass_break +0.3
+[pause 1.4]
+
+[music] m_horror -4
+[img] a dark room with a figure convulsing in a chair, cold light, another figure crouched against the wall
+N: The narrator is not going to describe the next nine hours.
+N: What is on the record is this. At eleven o'clock and four seconds his heart stopped and did not restart for nineteen minutes. At eleven twenty his body temperature reached forty-two point nine degrees and stayed there for four hours. At one in the morning every monitor in the room failed simultaneously and permanently, in a way that Crane's people were never able to explain, and from that point the only record is Dr. Evelyn Marsh's own account, written eleven days later, four pages, which ends:
+EVELYN: (slow) At approximately 04:10 he stopped being a shape I recognised. I will not describe it. I stayed because I said I would, and because there was no longer any question of leaving, and because for about forty minutes the thing in that chair was looking at me and I do not believe it knew what I was.
+EVELYN: (slow) At 07:55 he said my name. He got it right.
 [pause 1.0]
-[music] m_sermon -4
-[img] the shadow of a man at a microphone cast gigantic across the entire LED wall of a stadium, the silhouette of the speaker merging with the umbrella emblem behind him, ominous, cinematic
-WESKER: Outside these walls, the world is a storm. You know it. You feel it every morning when you read the news. Governments that cannot build a bridge in ten years. Parliaments that argue while the water rises. Leaders who promise and forget and promise again. Every year the storm is worse, and every year the men who are supposed to hold the umbrella hold it a little lower, and a little lower, until the rain falls on everyone.
+[music] m_dawn -8
+[img] {WESKER} standing calmly in a small stone room, unchanged in appearance, morning light from a doorway
+N: He walked out of the vault at eight o'clock in the morning on the fifth of December 2062 under his own power.
+N: He looked exactly the same. That is the part that everybody finds hardest. No wings, no claws, no light under the skin. A tall man in a black coat with slicked-back blond hair and a pair of black glasses, who was, by every instrument in that building, thirty-eight years old.
+[sfx] sfx_system_open +0.1
+[system] HOST — RECLASSIFIED
+Viral Affinity: 40 → not measured on this scale
+Strength 61 → 190 · Agility 74 → 240 · Vitality 66 → not measured
+Intelligence 151 → 151
+Note: your intelligence is unchanged. It was the only stat you had already taken past what this could give you.
+Tier V — SOVEREIGN
+Orbital tab unlocked.
+[say] Host reclassified. Viral Affinity: no longer measured on this scale. Strength, sixty-one to one hundred and ninety. Agility, seventy-four to two hundred and forty. Vitality, not measured. Intelligence, one hundred and fifty-one, unchanged. Note: your intelligence is unchanged. It was the only stat you had already taken past what this could give you. Tier five. Sovereign. Orbital tab unlocked.
+[/system]
+WESKER: (very soft) Adolf.
 [pause 1.0]
-WESKER: Not on you.
-[pause 1.0]
-WESKER: Where we stand — the rain does not fall.
-[pause 2.0]
-[sfx] sfx_crowd_cheer g-2
-N: The roar was different this time. Deeper. The Director could feel it in the stage, in the soles of his feet, in his chest, where the Prototype lived.
-N: And inside him — in a room on the fourth floor of an imaginary brick building, behind a door with no name — something had stood up, and walked to the window, and put both hands on the glass.
-[pause 1.5]
-WESKER: They will tell you that what we are building is too big. They will tell you that no company should be this strong. They will tell you to be afraid of us. And I want you to remember, when they say it, that they said the same thing about every good thing that was ever strong enough to protect anyone.
-WESKER: We are not many.
+WESKER: (soft) Adolf.
+[pause 1.2]
+N: There was no answer.
+N: The narrator would like to be precise, because there are four wrong versions of this in the popular accounts. The passenger was not destroyed, and was not silenced, and did not die in the chair.
+N: What happened is in the System's ledger, in one line, timed at 04:10 on the fifth of December 2062: *Merge complete.*
+N: For thirty-six years there had been two wills in one skull, one of them dominant and one of them advisory, and they had argued about crowds and pauses and banners. At ten past four in the morning the ampoule finished what the System had started in a room that was not a room, and what came out of that chair at eight o'clock was not a man with a passenger.
+N: It was one person. It had Albert Wesker's intellect, Albert Wesker's discipline, Albert Wesker's thirty-six-year record of never having killed anybody in this world — and it had, folded into it now and indistinguishable, an absolute and entirely untroubled understanding of crowds.
+[img] {WESKER} standing alone at a stone terrace above a forest valley at dawn, mist, still figure
+[loc] The terrace — 5 December 2062, 8:40 a.m.
+N: He stood on the terrace above the fog, in the same place he had stood in May of 2027 when a house full of ghosts had been handed to him out of a lottery.
+EVELYN: (soft) Are you still in there?
+WESKER: (soft) Yes.
+EVELYN: (soft) Prove it.
+N: And Albert Wesker turned around and looked at the only other creature on earth that could have asked him that, and said:
+WESKER: (cold) In 2029 you asked me for this and I said no, and you asked why, and I said it would kill you. In 2038 you asked again and I said no and gave you a condition. In 2047 you took it anyway and I stood at a window for eleven hours and said one word, and the word was *no*, and there was nobody in the room to hear it.
 [pause 0.8]
-N: And sixty thousand people answered him.
-[sfx] sfx_crowd_we_are_enough g-2
-N: We are enough.
-[pause 2.5]
-
-[music] m_march -2
-[amb] amb_crowd_murmur
-[img] sixty thousand people in a stadium chanting with raised fists and scarves, mouths open, a sea of red and white, drones glowing overhead, overwhelming, cinematic wide shot
-[sfx] sfx_chant_umbrella_long
-N: It began in the lower bowl, behind the stage. Three syllables. Somebody shouted them, and somebody else shouted them back, and then a whole section, stamping on the beat.
-N: Um. Brel. La.
-N: It spread. It went round the stadium like fire around the rim of a bowl. Um. Brel. La. Sixty thousand voices, and a hundred and twenty thousand feet on concrete, so loud that people in the neighbourhoods of South Philadelphia a mile away came out onto their porches to listen. Um. Brel. La. Um. Brel. La.
-[pause 3.0]
-[img] {WESKER} standing motionless at the microphone with his head slightly bowed as a stadium thunders around him, spotlight, his face unreadable, a faint red glow behind his sunglasses, cinematic
-N: He did not stop them. He stood at the microphone, perfectly still, and let it go on.
-N: This was the third threshold.
-N: The first had been a parking lot, and four men, and a dashcam. The second had been a desert, and twelve men, and a thing that walked through gunfire. This one had no bodies in it at all. It was only sixty thousand happy people, on a beautiful September night, chanting the name of a company.
-N: It was the most dangerous of the three.
-[pause 2.0]
-N: The voice inside him, barely a murmur.
-[music] m_sermon -6
-ADOLF: (whisper) Listen.
-[pause 1.0]
-ADOLF: (whisper) Listen to them.
-[pause 2.0]
-N: The old voice was weeping. There is no other word. Not with sorrow. With a joy so total and so old that it had been waiting a hundred years to be felt again — since beer halls, and torchlit stadiums, and a crowd that had once followed it over the edge of the world.
-N: And the Wesker half of the mind, standing at the microphone with the stadium thundering around it, felt something else. Something it had not expected, and would think about, alone, for a very long time.
-N: It was cold.
-[pause 1.5]
-WESKER: (whisper) It was too easy.
-N: The old voice, slowly.
-ADOLF: (whisper) It is always easy. That is what no one ever understands. It is always, always easy.
-WESKER: (whisper) That's what frightens me.
-[pause 3.0]
-
-[music] m_system -4
-[amb] amb_crowd_murmur -12
-[sfx] sfx_system_open
-[img] a torrent of golden and crimson holographic panels exploding upward from a stage into the night sky above a chanting stadium, cinematic, overwhelming
-[system] ASSESSMENT
-Crowd — fanaticism: 60,000
-Belief — ignited
-Reward: 20,000,000 Points
-[say] Assessment. Crowd, fanaticism. Belief, ignited.
-[/system]
-[sfx] sfx_level_up
-[sfx] sfx_level_up +0.5
-[sfx] sfx_level_up +1.0
-[sfx] sfx_gacha_gold +1.5
-[system] LEVEL UP
-Level: 60
-[say] Level sixty.
-[/system]
-[system] NEW ABILITY
-Banner-Sense
-You will perceive the fanaticism of those who follow you.
-You will know which will break, and which will bloom.
-[say] New ability. Banner sense.
-[/system]
-N: He bought it standing at the microphone, while they chanted, and felt it arrive.
-N: The stadium was no longer sixty thousand people. It was one thing. A single great organism, breathing, with sixty thousand hearts, and he could feel every one of them — which were burning, which were flickering, which were afraid of the thing they were feeling and chanting anyway. He could feel a nurse from Lagos in section two-fourteen who would die for him. He could feel a chemist from Cambridge in section one-ten who was chanting because everyone else was, and would remember it with shame for the rest of her life. He could feel the woman in the glass box above the fifty-yard line, not chanting at all, holding a glass of wine, and he could feel — like a cold draught under a door — exactly how close she was to breaking.
-[pause 2.0]
-
-[music] m_rain_piano -8
-[amb] amb_night_city
-[img] a wall of newspaper front pages and news websites from around the world showing a photo of a chanting stadium under a drone umbrella, headlines asking CULT OR COMPANY, cinematic
-N: The world woke up to the photographs the next morning.
-N: Every front page on Earth carried the same image: a stadium in the dark, sixty thousand fists in the air, and three thousand drones in the shape of an umbrella. The headlines were different in every language. In most of them, they asked the same question.
-N: Cult, or company?
-[pause 1.5]
-[img] {HANNAH} alone in a stadium press box after the event, empty seats below, writing in a worn spiral notebook under a desk lamp, cinematic
-N: In the press box, long after the other journalists had gone, Hannah Price sat alone with Walter Pruitt's notebook open in front of her. She had read it a hundred times since the padded envelope had arrived with no return address.
-N: She turned to the last page he had written on. There was room at the bottom, below his blocky capitals. She took out her own pen, and wrote beneath them, in her own small hand, the date, and the place, and four words.
-N: They're saying it like soldiers.
-[pause 1.5]
-N: Then she underlined it. Twice.
-[pause 2.0]
-N: So ended the conquest of the companies. It had taken four years. It had cost a great deal of money, and one man's mind, and a great many people's peace. And it had made Albert Wesker the master of the most powerful private institution in the history of the human race.
-N: He did not intend to stay private for very much longer.
-[pause 3.0]
-[music] stop
+WESKER: (very soft) I am still in here, Dr. Marsh. I would like you to keep checking.
+N: She checked for twenty-nine years. She never once found anything, and she said so, every year, in a one-line note that Wesker kept.
+N: The narrator will point out what the panel said, though, because nobody in that house read it carefully enough at the time.
+N: *Intelligence: unchanged.* Everything else about Albert Wesker was rebuilt from the original in nine hours. The one thing the Progenitor could not improve was the thing he had spent thirty-six years buying three points at a time.
+N: He had made himself, by hand, into the only part of himself that could not be given to him.
+N: End of Part Four.

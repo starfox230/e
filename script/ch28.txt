@@ -1,147 +1,81 @@
-# 28 | Aegis
+# 28 | Pale Horse
 
-[music] m_corporate -8
-[amb] amb_office_hum
-[img] a vast aerospace factory floor with rows of sleek military drones under construction, workers in coveralls, an American flag hanging from the rafters, cinematic
-[loc] Arlington, Virginia — 2032
-N: The second company he ate was the one he needed.
-N: Aegis Dynamics built things that flew. Drones, mostly — reconnaissance drones for the Army, strike drones for the Air Force, long-endurance maritime drones for the Navy, and, since the war in Ukraine had taught every general on Earth what small cheap machines could do, swarms of tiny ones that could be carried in a backpack and launched by the hundred. It employed sixty thousand people, it earned most of its money from the Pentagon, and it was worth eighty billion dollars.
-N: It was also the only company in America with a delivery system good enough for what the Department of Defense had quietly asked Umbrella to build.
+[music] m_horror -9
+[amb] amb_lab -15
+[img] a sealed containment laboratory seen through thick glass, empty, red status lights, cold white walls
+[loc] The Antarctic Facility, Level 14 — 2 February 2044
+N: The narrator is going to describe the worst thing in this account, and is going to do it without describing it, and asks you to accept that this is deliberate.
+N: In the winter of 2043 Dr. Evelyn Marsh's group, working on the heritable lineage, produced a construct that did not do what she wanted. It did something else. She spent four days characterising it and then she did a thing that she had not done in fourteen years, which was to seal a programme, lock the data, and request the Director in person rather than send a report.
+N: He came in on the second of February. She met him on the ice.
+[img] {EVELYN} and {WESKER} standing outside in heavy coats on a white antarctic plain, brutal light, wind
+EVELYN: (soft) I'm going to tell you what it does and I'm not going to tell you how it works, and then I'm going to ask you to destroy it, and I want that sequence on the record.
+WESKER: (cold) Go on.
+EVELYN: (soft) It is airborne. It is quiet for nineteen days. It has no treatment, because the thing it breaks is the thing every treatment works through. And it does not kill everybody, which is the part that I have not slept about — it kills approximately one in nine, and the other eight are fine, and they carry it for the rest of their lives.
 [pause 1.0]
-[img] a classified briefing slide on a screen showing a drone releasing a fine mist over a map of a city, labeled RAPID COUNTERMEASURE DEPLOYMENT, a dim Pentagon conference room, cinematic
-[sfx] sfx_paper g-8
-N: Martin Sloane's second contract had arrived in the spring. It was an extension of the first. A vaccine that could be made in eight days was useful, the Pentagon's planners had noted, only if it could be delivered in eight hours — to a city, to a base, to a fleet, before a pathogen had time to spread. They wanted a way to vaccinate a million people at once, from the air, without needles.
-N: Umbrella could make the vaccine. Aegis could build the drones. The Pentagon wanted them to work together. So they did.
-[pause 1.5]
+EVELYN: (fast) A weapon that kills everyone is a suicide note. A weapon that kills one in nine is a *policy instrument*. Somebody would use this. Somebody would genuinely use this, because they'd tell themselves eight out of nine is survivable, and they'd be right, and that's why it's the worst thing anyone has ever made.
+N: The narrator notes that Dr. Evelyn Marsh, who had by then done things in fourteen levels of ice that no ethics board in the world would have permitted, and who had never once flinched, was crying while she said this, and that it is the only recorded occasion.
+WESKER: (soft) How many people know?
+EVELYN: (soft) Four. Me, two of my seconds, both Absolute, and now you.
+WESKER: And the material?
+EVELYN: (soft) Eleven vials, in the vault under my feet, and one complete description that exists on one air-gapped array that has never been connected to anything.
+[pause 0.8]
+WESKER: (very cold) Dr. Marsh, I am not going to destroy it.
+N: She had known that for four days. She had rehearsed nine arguments on the ice. She used none of them.
+EVELYN: (very soft) Say why. Properly. Not the clever version.
+WESKER: (slow) Because I can now do something that no one has been able to do since 1945, which is to make the use of the worst thing in the world *unprofitable*. Not impossible — unprofitable. There are eleven state programmes on this planet working towards something in this class, and four of them are closer than anyone believes. In nine years, somebody will have it who does not have your conscience or my patience.
+WESKER: (cold) And on that day, the only thing that will stop them is the certainty that somebody else already has something worse and has never used it.
+EVELYN: (soft) That's the argument every one of them makes.
+WESKER: (very cold) Yes. And it has worked for ninety-nine years, and I have read every alternative, and there is nothing else in the literature that has ever worked at all.
 
-[music] m_scheme -8
-[img] {WYATT} a retired general in his sixties with a silver crew cut in a dark suit, standing in front of a drone on a factory floor, arms folded, stern and proud, cinematic
-N: Aegis Dynamics was run by General Thomas Wyatt, United States Army, retired.
-N: He had commanded a division in Iraq and a corps in Afghanistan, and had retired with four stars, and gone into industry because the Army's pension did not pay for three children's college and a house in McLean. He was sixty-six. He was a patriot of the old, uncomplicated kind — the kind that stands up for the anthem at ball games and means it — and he disliked Albert Wesker from the moment they met.
-N: He could not have said why. He had shaken the man's hand at the Pentagon, in a conference room full of colonels, and felt — he told his wife that night — as though he had shaken hands with a very good salesman who was selling something he did not want to buy.
-[img] {WYATT} and {WESKER} across a table in a Pentagon conference room full of uniformed officers, polite but cold, a flag in the corner, cinematic
-WYATT: I'll be straight with you, Doctor. I don't like working with people I can't read. I've spent forty years reading men across tables. I can't read you.
-WESKER: That's a compliment, General. Most people find me very easy to read. They just read the wrong things.
-WYATT: (cold) That's what worries me.
-[pause 1.5]
-N: They worked together anyway, for nine months, because the Pentagon told them to. And in those nine months, Umbrella's engineers learned everything about Aegis Dynamics that there was to learn: its factories, its supply chains, its contracts, its people, its debts, and its one great weakness.
-N: Its one great weakness was Thomas Wyatt. Because Thomas Wyatt was dying.
-[pause 1.5]
-
-[music] m_horror -12
-[amb] amb_office_hum
-[img] a medical scan on a lightbox showing a pancreas with a dark mass, a private oncologist's office, a man's hand resting on the edge of the desk, cinematic
-N: He had told no one except his wife and his oncologist. Pancreatic cancer, stage four, discovered in the spring of twenty thirty-two during a routine check-up. Six months, the oncologist had said. Perhaps nine, with treatment. He had not started treatment, because it would have meant telling his board, and telling his board would have meant telling the market, and telling the market would have meant watching the company he had spent eight years rebuilding sold off in pieces while he was still alive to see it.
-N: The Director knew by the second meeting. The Cold-Read did not need a scan. It had seen the faint yellow at the edge of the general's eyes, and the way he held his coffee cup with his right hand pressed flat against his stomach, and the flicker of pain he hid a dozen times in an hour.
-[pause 1.5]
-[img] {EVELYN} in a white underground lab presenting to {WESKER} with a tablet showing cellular regeneration data and a small vial of glowing amber liquid on the bench, intense and eager, cinematic
-N: It was Evelyn Marsh who proposed it.
-N: She had been waiting for two years. The Progenitor Initiative had learned a great deal from the five enhanced macaques, and from the grey sleeper in the cold room, and from the blood of the man who had built it all. It had learned how to make a derivative of the Prototype that a human body might tolerate — not the full virus, not what was in the Director's blood, but a gentler strain, a shadow of it, that would rewrite damaged cells and leave most healthy ones alone.
-N: Most.
-EVELYN: It will cure him. I'm almost certain it will cure him. The tumour is exactly the kind of damaged tissue the strain targets first.
-WESKER: Almost certain.
-EVELYN: Eighty percent. Perhaps eighty-five. And he's dying anyway, Albert. He has five months. What does he have to lose?
-WESKER: And what else will it do?
+[music] m_tension -9
+[img] a long conference table with military officers and officials seated, a single figure standing at the end, cold room
+[loc] Brussels — 14 September 2044
+N: The second half of this chapter is a room.
+N: In September of 2044, at the request of four governments who had been asking for eleven months, Albert Wesker attended a closed session of a NATO planning committee, in a building without windows, with nineteen people in it: four chiefs of defence, three intelligence directors, two foreign ministers, and a Deputy Secretary General who spent the entire ninety minutes taking no notes.
+N: They had come to ask him about the Security Service, about the Tyrants, and about a rumour.
+N: He answered all three questions in eleven minutes, and the narrator will give you the third.
+GENERAL: (slow) There is a persistent report, from four separate services, that Umbrella has developed a biological agent of strategic class. I am going to ask you directly, in this room, and I would ask you not to insult us.
 [pause 1.0]
-EVELYN: (soft) We don't know. That's why we need him.
-[pause 1.5]
-N: The Director looked at her for a long time. She was thirty-three now. She had not left the Arklay sublevel for more than a day at a time in four years. Her skin had the pallor of someone who lived under artificial light, and her eyes had the brightness of someone who did not need to see the sun, because she had seen something brighter.
-N: The Cold-Read showed him her face, and he read it, and what he read there was not ambition, or even curiosity. It was love. A pure, total, terrible love — not for him, anymore, or not only for him. For the work. For what the work could make.
-N: The voice inside him, barely a murmur.
-ADOLF: (soft) She is magnificent.
-WESKER: She's becoming something I didn't plan.
-N: Adolf's voice rose in his head.
-ADOLF: The best ones always do.
-[pause 1.5]
-WESKER: Ask him yourself, Evelyn. If he says yes, it's yes.
-[pause 2.0]
-
-[music] m_rain_piano -8
-[amb] amb_night_city
-[img] {WYATT} sitting alone at night on a bench by the Potomac River, city lights across the water, a slim folder in his lap, {EVELYN} standing beside him in a dark coat, cinematic
-[loc] The Potomac — September 2032
-[sfx] sfx_car_pass g-14
-N: She met him on a bench by the Potomac, at night, because he would not come to Delaware.
-N: She did not lie to him. That was her gift, and her horror: she never lied to anyone about the work. She told him what the strain was, and what it had done to twenty-four macaques, and what it might do to him. She told him eighty percent. She told him that nobody had ever received it. She told him that he would have to come to a facility that did not officially exist, and stay for twelve weeks, and that when he came out he would be alive, and well, and that he might be — she chose the word carefully — different.
-WYATT: Different how?
-EVELYN: We don't know. The animals that survived were calmer. More focused. Stronger. More — cooperative.
-WYATT: Cooperative with who?
-[pause 1.5]
-EVELYN: With the people who treated them.
-[pause 2.0]
-N: Thomas Wyatt sat on the bench by the river for a long time, looking at the lights of the Pentagon on the far bank, where he had spent the best years of his life.
-N: He thought about his wife, Eleanor, whom he had married in nineteen ninety. He thought about his three children, and the grandchild due in March. He thought about five months, and what the last three of them would look like.
-N: He was a brave man. He had been brave in Fallujah and in Kandahar. But courage is a thing you use against an enemy, and there was no enemy on the bench by the river — only a quiet young woman with a folder, offering him his grandchild.
-[img] close-up of an old soldier's weathered hand taking a slim folder from a young woman's hand on a riverside bench at night, cinematic macro
-WYATT: (soft) All right.
-[pause 2.0]
-
-[music] m_horror -8
-[amb] amb_lab
-[img] a white underground medical room in a secret lab, a man in a hospital gown lying on a bed connected to IV lines with amber liquid, {EVELYN} in a surgical mask watching monitors, cold light, cinematic
-[loc] Arklay — October to December 2032
-N: General Thomas Wyatt took medical leave from Aegis Dynamics on the first of October, twenty thirty-two. The company's announcement said he was recovering from a minor procedure and would return early in the new year. His wife was told he was at a private clinic in Switzerland. He was not in Switzerland. He was a hundred feet beneath a brick building on the south bank of the Christina River, in a white room at the end of a white corridor, next door to a cold room where something enormous slept.
-[img] a medical monitor showing a tumour shrinking across a sequence of scans over weeks, dates in the corner, green improvement lines, cinematic macro
-[sfx] sfx_heart_monitor g-8
-N: The tumour was gone in nineteen days. Evelyn cried when she saw the scan.
-N: The other changes took longer. His hair, which had been silver for fifteen years, began at the roots to grow back dark. His skin tightened. The arthritis in his hands, from forty years of cold mornings, disappeared. His heart rate fell to forty beats a minute at rest, and stayed there. By the eighth week he could lift twice what he had lifted at thirty. By the tenth, he had stopped sleeping more than two hours a night, and did not seem to need to.
-[img] {WYATT} younger-looking with darker hair standing perfectly straight in a white room, staring ahead, unblinking, a faint amber glint in his eyes, uncanny, cinematic
-N: And by the twelfth week, when the Director came down to see him, he stood up when the Director entered the room.
-N: Not the way a man stands for a guest. The way a soldier stands for a commanding officer — instantly, completely, without deciding to. His back straight, his hands at his sides, his eyes forward.
-WYATT: Director.
-[pause 1.5]
-N: The Director looked at him for a long time. Viral Dominion, the new sense, the sound at the edge of hearing — it was humming. It could feel the strain in the general's blood, the way it could feel the sleeper in the cold room. A thread. A thin, bright thread, running from the old soldier to himself.
-WESKER: How do you feel, General?
-WYATT: Very well, Director. Thank you. I'm ready to go back to work.
-WESKER: And what will you do when you get there?
-WYATT: (slow) Whatever you think is best.
-[pause 2.0]
-N: Adolf, softly, from inside.
-ADOLF: (whisper) A general who obeys. Do you understand what she has given you?
-WESKER: (whisper) Yes.
-N: The inner voice interrupted.
-ADOLF: In my whole life I never had one. Not one. They all thought they knew better. They all waited for me to fail. They tried to kill me in my own headquarters with a bomb in a briefcase. And she has made one, in twelve weeks, in a white room, out of a dying man.
-[pause 1.5]
-N: Wesker did not answer. He was looking at the general's eyes. They were a little too bright. They caught the light the way the macaques' eyes had caught it, in the glass enclosure, when Owen Carrick walked past.
-N: And they did not blink.
-[pause 2.0]
-
-[music] m_tension -8
-[amb] amb_office_hum
-[img] a large corporate shareholder meeting in a hotel ballroom, a younger-looking general with dark hair at a podium smiling broadly, the audience of investors murmuring in surprise, cinematic
-[loc] Aegis Dynamics special meeting — February 2033
-[sfx] sfx_applause g-14
-N: General Thomas Wyatt returned to Aegis Dynamics in the second week of January. His board, which had been preparing quietly to replace him, found him in the boardroom at seven in the morning, twenty pounds lighter, with dark hair, and a grip that made the chairman wince.
-N: In February, Umbrella Life Sciences made an offer to acquire Aegis Dynamics for ninety-four billion dollars in cash. The board — expecting their chief executive to fight it the way he had fought everything in his career — called a special meeting of the shareholders.
-N: General Wyatt stood at the podium, and smiled, and recommended that they accept.
-[img] extreme close-up of {WYATT} smiling at a podium, the smile held a few seconds too long, eyes bright and unblinking, uncanny, cinematic
-N: He smiled a great deal that day. That was what people remembered afterwards. He had never been a man who smiled much. Now he smiled at everyone — at the board, at the analysts, at the shareholders who asked hostile questions — and he held each smile a little too long, until the person he was smiling at looked away.
-N: The shareholders accepted. The Pentagon, advised by a very small office that Martin Sloane had spoken to, raised no objection. The Committee on Foreign Investment had nothing to review, because Umbrella was an American company. The deal closed in April.
-[pause 1.5]
-[sfx] sfx_system_open
-[system] CORPORATE CONQUEST
-Aegis Dynamics — acquired
-Defence manufacturing — acquired
-Personnel conversion — Progenitor (human): 1
-Reward: 1,900,000 Points
-[say] Corporate conquest. Aegis Dynamics. Personnel conversion, Progenitor, human, one.
+WESKER: (cold) Yes.
+N: There is a recording. The Deputy Secretary General can be heard putting down a glass.
+GENERAL: (slow) You're confirming it.
+WESKER: (soft) I am confirming that it exists, that it is held at a facility I will not name, that four people know its nature, that it has never been weaponised in any deliverable sense, and that I will never use it.
+MINISTER: (slow) Then why have it?
+WESKER: (cold) Because you are going to build one.
+[pause 0.7]
+WESKER: (slow) Not you personally, Minister. Not this alliance, this decade. But there are eleven programmes in this class on this planet right now, and I can name nine of them, and two of them are in states represented at this table. In about nine years one of them will succeed, and the people who succeed will be a committee, and a committee has never in the history of this species declined to use a thing it has paid for once it has stopped being frightened of it.
+WESKER: (very cold) So I have made mine first, and I have told you I have it, and I have told you I will not use it. And from this afternoon, every one of those eleven programmes has a new problem, which is that the most capable organisation on earth is already ahead of them and has publicly forsworn the use of the result.
+N: A silence of some length.
+GENERAL: (slow) And what stops you changing your mind?
+WESKER: (soft) Nothing whatsoever.
+N: The narrator notes that he said it without any emphasis at all, as a man states the weather, and that four of the nineteen people in that room later described it as the most frightening moment of their careers.
+WESKER: (cold) Gentlemen, I want you to understand precisely what I am offering, because it is not reassurance. I am proposing a standing arrangement. Umbrella will publish, annually, a full inventory of every strategic-class biological programme on this planet, including its own, with locations, staffing and progress, to every government represented at this table and to the World Health Organization.
+MINISTER: (slow) You cannot possibly know —
+WESKER: (soft) Minister, I know about yours.
+[pause 0.8]
+WESKER: (cold) I have known for four years. It is at a site nine kilometres from a town that I will not name in front of this many people, it employs forty-one scientists, and its second programme was suspended in March for reasons that your own health ministry recorded as an equipment fault. I will send you the file tonight and you will find it is correct, and then you will decide whether you would rather have me publishing everybody's inventory or only your rivals'.
+N: The arrangement was signed by nine countries in 2045 and by thirty-one by 2049, and it is still in force. It is called the Brussels Register, and Albert Wesker's name is not on it anywhere, and it did more to slow biological proliferation than every treaty of the previous century.
+N: It was also, the narrator notes, the greatest intelligence-collection instrument ever constructed, and every one of its signatories knew that when they signed.
+[sfx] sfx_system_chime +0.3
+[system] DETERRENCE ESTABLISHED
+Strategic biological programmes: 11 identified, 9 suspended within four years
+Military action against Umbrella by any state: assessed as inconceivable
+Points: +40,000,000
+Note: you have not built a delivery system. I have checked. You have built a sentence.
+[say] Deterrence established. Eleven strategic biological programmes identified, nine suspended within four years. Military action against Umbrella by any state: assessed as inconceivable. Forty million Points. Note: you have not built a delivery system. I have checked. You have built a sentence.
 [/system]
-N: Personnel conversion. Progenitor. Human. One.
-N: The Director read that line three times. It was a very small number. He knew, reading it, that it would not stay small.
-[pause 2.0]
 
-[music] m_sad -8
-[amb] amb_night_city
-[img] an older woman with grey hair sitting alone in a dim living room in McLean at night, a framed wedding photo on her lap, looking toward a doorway where a tall figure stands in shadow, cinematic
-[loc] McLean, Virginia
-N: Eleanor Wyatt had been married to Thomas for forty-two years.
-N: She had nursed him through two wars and a divorce that almost happened and a heart scare in twenty-nineteen. She had sat with him in the oncologist's office in the spring, and held his hand, and watched him decide not to tell anyone. And in January she had opened her front door to a man with her husband's face and her husband's voice and dark hair and a grip that did not hurt her only because he was careful, and he had kissed her, and smiled, and held the smile too long.
-N: He was kind to her. He was attentive. He remembered every anniversary and every grandchild's birthday. He no longer drank, or swore, or shouted at the Commanders on television. He did not sleep. At three in the morning she would find him standing at the window of the dark living room, perfectly still, looking north.
-ELEANOR: (soft) Tom? What are you looking at?
-WYATT: Nothing, Ellie. Go back to bed.
-[pause 2.0]
-N: She did not go back to bed. She sat in the dark and watched him, and understood — the way wives of forty-two years understand things, without evidence, completely — that the cancer had been cured, and her husband had not come home.
-N: In April, she found a business card on a nightstand in a hotel in Washington, where she had gone for a fundraiser. It was not hers. Someone had left it for her. It had an Oslo telephone number on it, and a name.
-N: Ingrid Halvorsen.
-[pause 3.0]
-[music] stop
+[music] m_lo -10
+[img] {WESKER} sitting alone in the back of a car at night, rain on the window, city lights blurred
+[loc] The road from Brussels — 14 September 2044, 9:40 p.m.
+ADOLF: (soft) You told a room of generals that nothing whatsoever stops you.
+WESKER: Yes.
+ADOLF: (soft) That was not calculation. I have watched you calculate for eighteen years and that was not it.
+WESKER: (very cold) It was entirely calculation. A reassurance would have been tested. A man who says *I would never* is a man who has thought about it and made a promise, and promises are inspected. A man who says *nothing stops me* has told them there is no point inspecting, and that the only variable is his character, and that they had better hope it holds.
+[pause 0.6]
+ADOLF: (soft) And does it?
+N: The car went west through the rain.
+WESKER: (soft) In eighteen years I have not killed a human being in this world. Not one. Not Tolliver, not Carrick, not Crane, not the four men who came over the wall in 2027. Every single person who has ever stood in front of me is alive, and most of them are on my payroll.
+ADOLF: (soft) That is not an answer either.
+WESKER: (very cold) No. It is a *record*, and a record is the only thing anyone can be judged by, and mine is eighteen years long and has nothing in it.
+N: The narrator will simply note the date on which that ceases to be true, because it is coming and because Albert Wesker does not see it coming: the ninth of June, 2047. Two years and nine months from that car.
