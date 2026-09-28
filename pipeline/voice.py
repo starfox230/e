@@ -12,13 +12,13 @@ from pedalboard import (Pedalboard, PitchShift, HighpassFilter, LowpassFilter, C
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, 'work', 'tts')
 SR = 48000
-VERSION = 'v4'   # asterisk stripping, new pronunciation table, Piper support
+VERSION = 'v5'   # no pitch shifting on human voices; principals moved to Kokoro
 
 # speaker -> (kokoro voice, speed, fx preset, level offset dB)
 VOICES = {
     'N':         ('am_michael', 0.94, 'narrator', 0.0),
-    'WESKER':    ('piper:lessac', 0.64, 'wesker', 0.0),
-    'ADOLF':     ('piper:alan', 0.72, 'adolf', -1.5),
+    'WESKER':    ('am_onyx', 0.92, 'wesker', 0.0),
+    'ADOLF':     ('am_santa', 0.90, 'adolf', -1.5),
     'SYSTEM':    ('af_nicole', 0.98, 'system', -1.0),
     'COUNCILLOR': ('am_liam*0.5+am_adam*0.5', 0.97, 'dialog', 0.0),
     'REISS':     ('am_puck*0.5+am_adam*0.5', 0.95, 'dialog', 0.0),
@@ -250,23 +250,29 @@ def _board(preset):
                            HighShelfFilter(cutoff_frequency_hz=7000, gain_db=1.0),
                            Reverb(room_size=0.18, wet_level=0.05, dry_level=1.0, damping=0.7)])
     if preset == 'wesker':
-        # a closed door: down two and a half semitones, weight under it, and the top rolled
-        # off so nothing in the voice is ever bright
-        return Pedalboard([PitchShift(semitones=-2.5), HighpassFilter(cutoff_frequency_hz=80),
-                           LowShelfFilter(cutoff_frequency_hz=150, gain_db=3.0),
-                           Compressor(threshold_db=-22, ratio=3.0, attack_ms=4, release_ms=110),
-                           HighShelfFilter(cutoff_frequency_hz=6500, gain_db=-2.5),
-                           Reverb(room_size=0.24, wet_level=0.06, dry_level=1.0, damping=0.75)])
+        # No pitch shift. Shifting pitch drags the formants with it, which is what turns a
+        # voice into a growling machine instead of a person -- the register has to come from
+        # the voice itself. What is left is control: weight under it, tight dynamics so the
+        # delivery never wavers, and the presence kept so the diction stays exact.
+        return Pedalboard([HighpassFilter(cutoff_frequency_hz=80),
+                           LowShelfFilter(cutoff_frequency_hz=140, gain_db=2.0),
+                           Compressor(threshold_db=-24, ratio=3.5, attack_ms=4, release_ms=120),
+                           HighShelfFilter(cutoff_frequency_hz=6500, gain_db=1.0),
+                           Reverb(room_size=0.22, wet_level=0.05, dry_level=1.0, damping=0.7)])
     if preset == 'adolf':
-        return Pedalboard([PitchShift(semitones=-2.5), LowpassFilter(cutoff_frequency_hz=5200), *base,
-                           Delay(delay_seconds=0.028, feedback=0.1, mix=0.18),
-                           Reverb(room_size=0.78, wet_level=0.26, dry_level=0.85, damping=0.55, width=1.0)])
+        # Also unshifted. This one is a voice inside a skull rather than in a room, so it is
+        # placed with space and a short pre-delay, not by mangling the speaker.
+        return Pedalboard([HighpassFilter(cutoff_frequency_hz=90),
+                           LowpassFilter(cutoff_frequency_hz=8000), *base,
+                           Delay(delay_seconds=0.028, feedback=0.1, mix=0.16),
+                           Reverb(room_size=0.78, wet_level=0.24, dry_level=0.88, damping=0.5, width=1.0)])
     if preset == 'system':
         return Pedalboard([HighpassFilter(cutoff_frequency_hz=280), LowpassFilter(cutoff_frequency_hz=7500), *base,
                            Chorus(rate_hz=0.7, depth=0.18, mix=0.25),
                            Reverb(room_size=0.35, wet_level=0.14, dry_level=0.95, damping=0.3)])
     if preset == 'carrick':
-        return Pedalboard([PitchShift(semitones=0.8), *base, Reverb(room_size=0.2, wet_level=0.06, dry_level=1.0)])
+        return Pedalboard([*base, HighShelfFilter(cutoff_frequency_hz=5000, gain_db=1.5),
+                           Reverb(room_size=0.2, wet_level=0.06, dry_level=1.0)])
     if preset == 'flat':
         return Pedalboard([*base, LowpassFilter(cutoff_frequency_hz=9000),
                            Reverb(room_size=0.2, wet_level=0.05, dry_level=1.0)])
