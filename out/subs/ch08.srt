@@ -67,787 +67,787 @@ pool at this tier: packages. A place,
 and everything in it.
 
 15
-00:01:26,460 --> 00:01:28,831
+00:01:26,460 --> 00:01:28,551
 A place, and everything in it.
 
 16
-00:01:29,230 --> 00:01:30,040
+00:01:28,950 --> 00:01:29,760
 Yes.
 
 17
-00:01:30,441 --> 00:01:31,671
+00:01:30,161 --> 00:01:31,451
 Twenty thousand.
 
 18
-00:01:32,070 --> 00:01:33,552
+00:01:31,850 --> 00:01:33,332
 You have sixty-two.
 
 19
-00:01:33,953 --> 00:01:39,749
+00:01:33,733 --> 00:01:39,529
 And Albert Wesker, who had emptied his pockets in
 September and emptied them again in
 
 20
-00:01:39,769 --> 00:01:45,703
+00:01:39,549 --> 00:01:45,483
 March, looked at a balance of sixty-two thousand
 Points and did the arithmetic of a man
 
 21
-00:01:45,723 --> 00:01:49,192
+00:01:45,503 --> 00:01:48,972
 who has finally worked out what
 game he is playing.
 
 22
-00:01:49,712 --> 00:01:56,738
+00:01:49,492 --> 00:01:54,690
 Sixty. Three pulls of ten, then a fourth. If the
 fourth is junk I will still be the only
 
 23
-00:01:56,758 --> 00:02:02,022
+00:01:54,710 --> 00:01:58,603
 man on this planet who can afford to be
 disappointed by a miracle.
 
 24
-00:02:02,423 --> 00:02:04,273
+00:01:59,003 --> 00:02:00,853
 The first ten took four minutes.
 
 25
-00:02:04,673 --> 00:02:10,834
+00:02:01,253 --> 00:02:07,414
 Commons: two research associates, a fleet of
 vehicles, a cold-chain shipping contract,
 
 26
-00:02:10,854 --> 00:02:17,016
+00:02:07,434 --> 00:02:13,596
 an industrial autoclave. Uncommons: a *Rapid Assay
 production licence for the European
 
 27
-00:02:17,036 --> 00:02:23,125
+00:02:13,616 --> 00:02:19,705
 Union*, which Pell would later describe as the
 single most valuable piece of paper in
 
 28
-00:02:23,145 --> 00:02:29,522
+00:02:19,725 --> 00:02:26,103
 the building; a cohort of six security officers; a
 patent portfolio in protein chemistry.
 
 29
-00:02:29,923 --> 00:02:36,540
+00:02:26,502 --> 00:02:33,120
 Rare, in blue: a second Tyrant, T-103, cradled. It
 went into B4 beside the first, and
 
 30
-00:02:36,560 --> 00:02:40,133
+00:02:33,140 --> 00:02:36,712
 Gus filed the service tag
 without being asked.
 
 31
-00:02:40,532 --> 00:02:46,882
+00:02:37,112 --> 00:02:43,462
 Rare again: **Ocular Control.** A small thing, and
 the only item in three hundred pulls
 
 32
-00:02:46,902 --> 00:02:53,251
+00:02:43,482 --> 00:02:49,831
 that made him genuinely grateful — the ability to
 keep his eyes ordinary when the virus
 
 33
-00:02:53,271 --> 00:02:58,522
+00:02:49,851 --> 00:02:55,103
 wanted otherwise. He had worn the glasses for
 eight months for a reason.
 
 34
-00:02:58,923 --> 00:03:04,331
+00:02:55,502 --> 00:03:00,911
 The second ten: junk, mostly. The third ten
 produced the guaranteed Epic.
 
 35
-00:03:05,481 --> 00:03:13,682
+00:03:02,062 --> 00:03:10,262
 Epic. Anti-Serum Blueprint Line. A universal
 countermeasure platform for engineered pathogens.
 
 36
-00:03:13,702 --> 00:03:17,879
+00:03:10,282 --> 00:03:14,460
 Note: this item exists because
 you will need it.
 
 37
-00:03:18,469 --> 00:03:20,099
+00:03:15,050 --> 00:03:16,697
 Explain that note.
 
 38
-00:03:20,500 --> 00:03:21,250
+00:03:17,097 --> 00:03:17,847
 No.
 
 39
-00:03:21,650 --> 00:03:27,180
+00:03:18,247 --> 00:03:23,777
 He asked four more times over the following six
 years. The answer did not change.
 
 40
-00:03:27,580 --> 00:03:29,819
+00:03:24,176 --> 00:03:26,416
 And then he spent the last
 twenty thousand.
 
 41
-00:03:30,219 --> 00:03:36,645
+00:03:26,817 --> 00:03:33,242
 Nine commons. Grey, grey, grey — a reagent lot, a
 service contract, three technicians,
 
 42
-00:03:36,665 --> 00:03:43,241
+00:03:33,262 --> 00:03:39,838
 an office lease in Dover he did not need — and Wesker
 was already reaching for the panel
 
 43
-00:03:43,261 --> 00:03:46,090
+00:03:39,858 --> 00:03:42,687
 to close it when the room turned gold.
 
 44
-00:03:47,680 --> 00:03:50,900
+00:03:44,276 --> 00:03:47,496
 Legendary. The Arklay Estate.
 
 45
-00:03:51,490 --> 00:03:57,664
+00:03:48,086 --> 00:03:54,261
 The panel did not scroll. It unfolded, line by line,
 and the System took its time, because
 
 46
-00:03:57,684 --> 00:04:02,000
+00:03:54,281 --> 00:03:58,596
 the System had a sense of theatre that
 it would never admit to.
 
 47
-00:04:03,150 --> 00:04:12,826
+00:03:59,747 --> 00:04:09,423
 The Arklay Estate. A residence of sixty-one rooms in the
 Allegheny forest of western Pennsylvania.
 
 48
-00:04:12,846 --> 00:04:21,434
+00:04:09,443 --> 00:04:18,031
 A subsurface complex of nine levels, B S L four
 throughout, with a containment hall and
 
 49
-00:04:21,454 --> 00:04:30,141
+00:04:18,051 --> 00:04:26,738
 a cryogenic hall. Dedicated power. Dedicated water. A
 private road, a helipad and a rail
 
 50
-00:04:30,161 --> 00:04:39,244
+00:04:26,758 --> 00:04:35,841
 spur. A security detachment of twenty-four, Absolute.
 Research staff of forty-one, Absolute.
 
 51
-00:04:39,264 --> 00:04:48,050
+00:04:35,861 --> 00:04:44,647
 Senior personnel: Doctor William Birkin. Doctor
 Annette Birkin. Sealed vault, level nine:
 
 52
-00:04:48,070 --> 00:04:50,028
+00:04:44,667 --> 00:04:46,626
 Progenitor. Not yet.
 
 53
-00:04:51,278 --> 00:04:58,423
+00:04:47,877 --> 00:04:55,021
 The narrator will now describe the only time in
 sixty-five years that Albert Wesker sat
 
 54
-00:04:58,443 --> 00:04:59,329
+00:04:55,041 --> 00:04:55,927
 down twice.
 
 55
-00:04:59,728 --> 00:05:05,162
+00:04:56,326 --> 00:05:01,760
 He read the last four lines of that panel standing
 up. Then he read the two names again.
 
 56
-00:05:05,182 --> 00:05:10,616
+00:05:01,780 --> 00:05:07,214
 Then he put one hand on the back of the leather
 chair, and turned it, and sat in it, and
 
 57
-00:05:10,636 --> 00:05:14,148
+00:05:07,234 --> 00:05:10,746
 did not say anything at all for a
 minute and ten seconds.
 
 58
-00:05:14,548 --> 00:05:17,408
+00:05:11,146 --> 00:05:14,007
 And the other one, quietly, from the
 back of the skull.
 
 59
-00:05:17,928 --> 00:05:18,935
+00:05:14,526 --> 00:05:15,612
 Who are they?
 
 60
-00:05:19,336 --> 00:05:25,496
+00:05:16,011 --> 00:05:22,171
 And for once — the only time, in the entire record —
 he answered honestly and immediately.
 
 61
-00:05:26,016 --> 00:05:32,350
+00:05:22,690 --> 00:05:27,355
 They are dead. They died in a city I destroyed, in a
 world that is not this one, thirty
 
 62
-00:05:32,370 --> 00:05:35,126
+00:05:27,375 --> 00:05:29,401
 years ago and eighteen years from now.
 
 63
-00:05:35,526 --> 00:05:36,528
+00:05:29,800 --> 00:05:30,675
 Friends?
 
 64
-00:05:36,927 --> 00:05:44,062
+00:05:31,076 --> 00:05:35,882
 No. Nothing so useful. Will was the only mind I
 have ever met that I could not simply
 
 65
-00:05:44,082 --> 00:05:51,302
+00:05:35,902 --> 00:05:40,765
 out-work. He was a genius, he was a child, and he
 betrayed me, and I betrayed him, and
 
 66
-00:05:51,322 --> 00:05:58,037
+00:05:40,785 --> 00:05:45,307
 both of us thought we had planned it. Annette
 hated me accurately for six years.
 
 67
-00:05:58,437 --> 00:06:02,177
+00:05:45,706 --> 00:05:48,624
 And the machine has simply given
 them back to you.
 
 68
-00:06:02,576 --> 00:06:10,020
+00:05:49,023 --> 00:05:54,033
 No. It has *issued* them to me. That is not the same
 thing, and I intend to keep the difference
 
 69
-00:06:10,040 --> 00:06:12,927
+00:05:54,053 --> 00:05:55,993
 in front of me for as long as I live.
 
 70
-00:06:13,326 --> 00:06:14,977
+00:05:56,392 --> 00:05:58,043
 He flew out at first light.
 
 71
-00:06:15,377 --> 00:06:21,980
+00:05:58,442 --> 00:06:05,046
 The helicopter came in over eleven thousand acres of
 Pennsylvania pine, over a private
 
 72
-00:06:22,000 --> 00:06:29,142
+00:06:05,066 --> 00:06:12,208
 road that the state highway department's map showed as
 an unimproved service track maintained
 
 73
-00:06:29,162 --> 00:06:34,687
+00:06:12,228 --> 00:06:17,752
 by a timber trust since 1969, and over a gate
 with a crimson iris on it.
 
 74
-00:06:35,086 --> 00:06:36,206
+00:06:18,153 --> 00:06:19,273
 And then the house.
 
 75
-00:06:36,607 --> 00:06:42,313
+00:06:19,673 --> 00:06:25,379
 Grey stone, three wings, sixty-one rooms, a slate
 roof steep enough to shed a winter,
 
 76
-00:06:42,333 --> 00:06:48,511
+00:06:25,399 --> 00:06:31,577
 and a carriage sweep in front of it with the gravel
 raked. Ivy on the west face, established
 
 77
-00:06:48,531 --> 00:06:54,709
+00:06:31,597 --> 00:06:37,775
 — twenty years of ivy. A garage with four cars in it.
 Smoke from a chimney, because somebody
 
 78
-00:06:54,729 --> 00:06:58,617
+00:06:37,795 --> 00:06:41,683
 had lit a fire that morning, because
 somebody lived there.
 
 79
-00:06:59,016 --> 00:07:04,718
+00:06:42,083 --> 00:06:47,784
 It was not his house from the other world. It was
 not the Spencer mansion; it did not
 
 80
-00:07:04,738 --> 00:07:10,977
+00:06:47,804 --> 00:06:54,043
 have the staircase, or the water treatment plant hidden
 in the hillside, or the thousand-yard
 
 81
-00:07:10,997 --> 00:07:16,766
+00:06:54,063 --> 00:06:59,832
 gallery of a dead man's vanity. It was a plain,
 enormous, unpretentious stone house in
 
 82
-00:07:16,786 --> 00:07:19,256
+00:06:59,852 --> 00:07:02,322
 the wrong forest in the right decade.
 
 83
-00:07:19,656 --> 00:07:25,145
+00:07:02,723 --> 00:07:08,211
 And the way he looked at it, from the air, for ninety
 seconds, is the only thing in this
 
 84
-00:07:25,165 --> 00:07:30,465
+00:07:08,231 --> 00:07:13,531
 account the narrator cannot tell you with
 certainty, because his face was turned away
 
 85
-00:07:30,485 --> 00:07:33,157
+00:07:13,551 --> 00:07:16,223
 from the only other person in
 the aircraft.
 
 86
-00:07:33,557 --> 00:07:39,641
+00:07:16,622 --> 00:07:22,707
 William Birkin came down the steps before the rotors
 had stopped, in a lab coat he had
 
 87
-00:07:39,661 --> 00:07:42,197
+00:07:22,727 --> 00:07:25,262
 slept in, holding a tablet, talking.
 
 88
-00:07:42,716 --> 00:07:46,057
+00:07:25,783 --> 00:07:29,123
 Albert. Albert — good, you're here, I need seventeen
 minutes and then you can do whatever
 
 89
-00:07:46,077 --> 00:07:49,304
+00:07:29,143 --> 00:07:32,370
 it is you came to do. The cryogenic hall's drawing
 four per cent over spec and Annette
 
 90
-00:07:49,324 --> 00:07:52,588
+00:07:32,390 --> 00:07:35,654
 says it's the chillers but it isn't the chillers,
 it's that somebody plumbed the return
 
 91
-00:07:52,608 --> 00:07:55,873
+00:07:35,674 --> 00:07:38,939
 on level six through the same riser as the
 containment scrubbers, which works, which is
 
 92
-00:07:55,893 --> 00:07:59,158
+00:07:38,959 --> 00:07:42,224
 the problem, because it works until it doesn't and
 then we lose forty years of stock in
 
 93
-00:07:59,178 --> 00:07:59,687
+00:07:42,244 --> 00:07:42,753
 an afternoon —
 
 94
-00:08:00,086 --> 00:08:02,656
+00:07:43,153 --> 00:07:45,723
 He stopped, because he had
 finally looked up.
 
 95
-00:08:03,177 --> 00:08:05,187
+00:07:46,242 --> 00:07:48,252
 You look strange. Are you ill?
 You're never ill.
 
 96
-00:08:05,586 --> 00:08:11,266
+00:07:48,653 --> 00:07:54,332
 Wesker stood on the gravel in front of a man who had
 been dead for eighteen years in a
 
 97
-00:08:11,286 --> 00:08:16,237
+00:07:54,352 --> 00:07:59,303
 world that no longer existed, who was talking
 to him about a chiller riser.
 
 98
-00:08:16,757 --> 00:08:19,607
+00:07:59,822 --> 00:08:02,052
 How long have you worked for me, Will?
 
 99
-00:08:20,007 --> 00:08:24,736
+00:08:02,452 --> 00:08:07,182
 Six years. Seven in August. Why? Is this an audit
 thing? Annette said there'd be an audit
 
 100
-00:08:24,756 --> 00:08:25,057
+00:08:07,202 --> 00:08:07,502
 thing.
 
 101
-00:08:25,456 --> 00:08:26,187
+00:08:07,903 --> 00:08:08,534
 No.
 
 102
-00:08:26,586 --> 00:08:31,180
+00:08:08,934 --> 00:08:13,527
 Good, because I have seven hundred and forty samples
 in level nine that I would rather
 
 103
-00:08:31,200 --> 00:08:34,076
+00:08:13,547 --> 00:08:16,424
 not explain to an auditor. Can I
 show you the chiller?
 
 104
-00:08:34,476 --> 00:08:40,801
+00:08:16,824 --> 00:08:23,148
 And Albert Wesker — who had tested Marguerite's
 obedience with a threat to break her finger,
 
 105
-00:08:40,821 --> 00:08:46,732
+00:08:23,168 --> 00:08:29,079
 who had priced a man's destruction in a boardroom
 eleven days earlier and enjoyed it —
 
 106
-00:08:46,752 --> 00:08:47,076
+00:08:29,099 --> 00:08:29,424
 said:
 
 107
-00:08:47,596 --> 00:08:49,886
+00:08:29,944 --> 00:08:31,874
 Yes. Show me the chiller.
 
 108
-00:08:50,287 --> 00:08:54,076
+00:08:32,274 --> 00:08:36,063
 He spent four hours down there. Not one
 of them on the chiller.
 
 109
-00:08:54,476 --> 00:09:01,438
+00:08:36,464 --> 00:08:43,425
 Annette Birkin met him at the level-three airlock with
 her arms folded and a look he remembered
 
 110
-00:09:01,458 --> 00:09:06,656
+00:08:43,445 --> 00:08:48,643
 so precisely that he had to take a
 half-second to arrange his own face.
 
 111
-00:09:07,176 --> 00:09:09,466
+00:08:49,163 --> 00:08:51,453
 You've never come here unannounced before.
 
 112
-00:09:09,865 --> 00:09:10,735
+00:08:51,854 --> 00:08:52,884
 I own it.
 
 113
-00:09:11,135 --> 00:09:15,854
+00:08:53,283 --> 00:08:58,002
 You own a great many things you don't visit.
 Whatever you've come to take, take it, and
 
 114
-00:09:15,874 --> 00:09:17,705
+00:08:58,022 --> 00:08:59,853
 don't let him give you level nine.
 
 115
-00:09:18,105 --> 00:09:18,956
+00:09:00,254 --> 00:09:01,084
 Why not?
 
 116
-00:09:19,355 --> 00:09:24,711
+00:09:01,484 --> 00:09:06,839
 Because he'll give you anything you ask for, Dr.
 Wesker. He always has. Someone in this
 
 117
-00:09:24,731 --> 00:09:30,148
+00:09:06,859 --> 00:09:12,276
 house has to say no to you, and it is not going to be
 him, and it is certainly not going
 
 118
-00:09:30,168 --> 00:09:34,906
+00:09:12,296 --> 00:09:17,034
 to be the forty-one people downstairs who agree
 with everything anybody says.
 
 119
-00:09:35,306 --> 00:09:42,589
+00:09:17,433 --> 00:09:24,717
 The narrator notes that Annette Birkin was, per the
 System's own roster, Absolute — incapable
 
 120
-00:09:42,609 --> 00:09:45,416
+00:09:24,737 --> 00:09:27,543
 of disobedience, incapable of doubt.
 
 121
-00:09:45,816 --> 00:09:49,975
+00:09:27,943 --> 00:09:32,103
 And she was standing in a doorway telling him
 to be careful with her husband.
 
 122
-00:09:50,375 --> 00:09:56,534
+00:09:32,504 --> 00:09:38,662
 Wesker filed that. He filed it very carefully
 indeed, and it is the first crack in the
 
 123
-00:09:56,554 --> 00:10:02,425
+00:09:38,682 --> 00:09:44,553
 story of what the Absolute actually are, and it
 does not open again for six years.
 
 124
-00:10:02,826 --> 00:10:03,896
+00:09:44,953 --> 00:09:46,024
 Nine levels.
 
 125
-00:10:04,296 --> 00:10:10,345
+00:09:46,423 --> 00:09:52,473
 Containment wings on three and four. A biologics
 suite on five that made Division Seven's
 
 126
-00:10:10,365 --> 00:10:16,346
+00:09:52,493 --> 00:09:58,474
 B4 look like a school laboratory. On six, an animal
 facility with things in it that Voss
 
 127
-00:10:16,366 --> 00:10:20,166
+00:09:58,494 --> 00:10:02,293
 would have needed a year of ethics
 paperwork to look at.
 
 128
-00:10:20,566 --> 00:10:22,986
+00:10:02,693 --> 00:10:05,114
 And on seven, the cryogenic hall.
 
 129
-00:10:23,385 --> 00:10:29,457
+00:10:05,514 --> 00:10:11,585
 It was the size of a cathedral nave and it was mostly
 empty, which was somehow worse than
 
 130
-00:10:29,477 --> 00:10:35,617
+00:10:11,605 --> 00:10:17,745
 full. Four hundred and eleven cradles in ranks, of
 which nine were occupied: six by tissue
 
 131
-00:10:35,637 --> 00:10:41,435
+00:10:17,765 --> 00:10:23,563
 banks, two by the T-103s he had shipped up that
 morning from Wilmington, and one — at
 
 132
-00:10:41,455 --> 00:10:47,526
+00:10:23,583 --> 00:10:29,654
 the far end, alone, under a light that was slightly
 brighter than the others — by nothing
 
 133
-00:10:47,546 --> 00:10:48,006
+00:10:29,674 --> 00:10:30,134
 at all.
 
 134
-00:10:48,525 --> 00:10:50,655
+00:10:30,653 --> 00:10:32,668
 What is that cradle for?
 
 135
-00:10:51,056 --> 00:10:55,764
+00:10:33,068 --> 00:10:37,777
 I don't know. It was in the drawings. It's plumbed and
 powered and it's rated for something
 
 136
-00:10:55,784 --> 00:10:58,206
+00:10:37,797 --> 00:10:40,218
 a great deal heavier than a
 Tyrant. I've asked.
 
 137
-00:10:58,605 --> 00:10:59,975
+00:10:40,619 --> 00:10:41,889
 Who did you ask?
 
 138
-00:11:00,375 --> 00:11:01,546
+00:10:42,288 --> 00:10:43,459
 The System. Obviously.
 
 139
-00:11:02,495 --> 00:11:08,281
+00:10:44,408 --> 00:10:50,194
 The narrator would like you to understand that in
 that moment, in a cold hall a hundred
 
 140
-00:11:08,301 --> 00:11:14,020
+00:10:50,214 --> 00:10:55,933
 and forty metres under a Pennsylvania forest, Albert
 Wesker experienced something that
 
 141
-00:11:14,040 --> 00:11:19,625
+00:10:55,953 --> 00:11:01,538
 he had not experienced since he had opened his eyes
 in a leather chair in September.
 
 142
-00:11:20,025 --> 00:11:21,615
+00:11:01,938 --> 00:11:03,528
 He experienced surprise.
 
 143
-00:11:22,135 --> 00:11:24,326
+00:11:04,048 --> 00:11:06,485
 (very cold) Say that again.
 
 144
-00:11:24,725 --> 00:11:29,347
+00:11:06,884 --> 00:11:11,506
 I asked the System. The interface. The — Albert,
 why are you looking at me like that?
 
 145
-00:11:29,367 --> 00:11:34,044
+00:11:11,526 --> 00:11:16,203
 It's been answering my requisitions since 2021. How
 else do you think I've been buying
 
 146
-00:11:34,064 --> 00:11:34,535
+00:11:16,223 --> 00:11:16,694
 anything?
 
 147
-00:11:34,936 --> 00:11:40,702
+00:11:17,095 --> 00:11:22,861
 He could see it. He could not perceive the Shop or
 the Gacha or the roster or the Points
 
 148
-00:11:40,722 --> 00:11:46,620
+00:11:22,881 --> 00:11:28,779
 — Wesker established that within about ninety seconds,
 with four questions in a flat voice
 
 149
-00:11:46,640 --> 00:11:52,341
+00:11:28,799 --> 00:11:34,500
 — but Dr. William Birkin could open a panel, request
 equipment, and receive it, and had
 
 150
-00:11:52,361 --> 00:11:57,996
+00:11:34,520 --> 00:11:40,155
 been doing so for six years, and had never once
 thought it was strange, because nobody
 
 151
-00:11:58,016 --> 00:12:01,416
+00:11:40,175 --> 00:11:43,575
 in that house had ever thought
 anything was strange.
 
 152
-00:12:01,936 --> 00:12:03,126
+00:11:44,095 --> 00:11:45,763
 You are a *terminal*.
 
 153
-00:12:03,525 --> 00:12:04,252
+00:11:46,163 --> 00:11:46,889
 That's rude.
 
 154
-00:12:04,653 --> 00:12:06,383
+00:11:47,288 --> 00:11:49,174
 It was not an insult.
 
 155
-00:12:06,783 --> 00:12:12,580
+00:11:49,575 --> 00:11:55,372
 Later, on the surface, alone, he put the question to
 the System directly, and the System
 
 156
-00:12:12,600 --> 00:12:17,473
+00:11:55,392 --> 00:12:00,265
 answered it in sixteen words that he turned
 over for the next forty years.
 
 157
-00:12:17,993 --> 00:12:22,678
+00:12:00,784 --> 00:12:05,470
 Absolute personnel are part of the
 estate. You are not.
 
 158
-00:12:23,077 --> 00:12:29,322
+00:12:05,870 --> 00:12:12,114
 He stood on the terrace at dusk with the valley below
 him full of fog and eleven thousand
 
 159
-00:12:29,342 --> 00:12:32,067
+00:12:12,134 --> 00:12:14,860
 acres of pine going black at the edges.
 
 160
-00:12:32,467 --> 00:12:38,445
+00:12:15,259 --> 00:12:21,237
 Behind him, through a window, William Birkin was
 arguing with a screen about a chiller
 
 161
-00:12:38,465 --> 00:12:44,512
+00:12:21,257 --> 00:12:27,304
 riser. Below him, a hundred and forty metres down,
 four hundred and eleven cradles were
 
 162
-00:12:44,532 --> 00:12:50,719
+00:12:27,324 --> 00:12:33,511
 cold, and nine of them were occupied, and one was
 waiting for something that had not been
 
 163
-00:12:50,739 --> 00:12:51,138
+00:12:33,531 --> 00:12:33,930
 named.
 
 164
-00:12:51,538 --> 00:12:57,173
+00:12:34,330 --> 00:12:39,965
 Eight months ago he had woken in a chair with ten
 thousand Points, eleven people and a
 
 165
-00:12:57,193 --> 00:12:59,738
+00:12:39,985 --> 00:12:42,530
 basement door that did not go anywhere.
 
 166
-00:13:00,138 --> 00:13:03,188
+00:12:42,929 --> 00:12:45,980
 The passenger had been
 listening. It spoke now.
 
 167
-00:13:03,707 --> 00:13:08,192
+00:12:46,500 --> 00:12:50,483
 This is the part where a man says
 something sentimental.
 
 168
-00:13:08,592 --> 00:13:09,462
+00:12:50,883 --> 00:12:51,530
 Yes.
 
 169
-00:13:09,863 --> 00:13:15,021
+00:12:51,929 --> 00:12:55,549
 Then say it. I will not use it
 against you today.
 
 170
-00:13:15,421 --> 00:13:22,841
+00:12:55,950 --> 00:13:03,370
 And Albert Wesker, Director of Umbrella Life
 Sciences, Tier II, looked out over the fog.
 
 171
-00:13:23,360 --> 00:13:29,921
+00:13:03,889 --> 00:13:08,305
 Last time, there was a board of directors. There was
 an old man in a chateau who thought
 
 172
-00:13:29,941 --> 00:13:36,352
+00:13:08,325 --> 00:13:12,639
 he had made me. There were eleven committees, two
 governments, a chain of command, and
 
 173
-00:13:36,372 --> 00:13:42,111
+00:13:12,659 --> 00:13:16,519
 thirty years of asking permission from men I
 could have killed with one hand.
 
 174
-00:13:42,390 --> 00:13:48,680
+00:13:16,799 --> 00:13:21,361
 This time there is no Spencer. There is no
 board. There is no one above me.
 
 175
-00:13:50,150 --> 00:13:59,114
+00:13:22,831 --> 00:13:31,795
 Umbrella. Tier two. Director: Albert Wesker. One
 thousand six hundred and five personnel,
 
 176
-00:13:59,134 --> 00:14:07,290
+00:13:31,815 --> 00:13:39,971
 eighty-seven of them Absolute. Seven facilities.
 No territory. Next tier: Agency.
 
 177
-00:14:07,880 --> 00:14:09,211
+00:13:40,562 --> 00:13:41,892
 *Territory: none.*
 
 178
-00:14:09,610 --> 00:14:14,908
+00:13:42,292 --> 00:13:47,589
 He read that line, on a terrace above a valley he
 owned, in front of a house that had
 
 179
-00:14:14,928 --> 00:14:17,661
+00:13:47,609 --> 00:13:50,342
 been given to him with two
 ghosts inside it.
 
 180
-00:14:18,181 --> 00:14:19,331
+00:13:50,861 --> 00:13:52,052
 Not for long.
 
 181
-00:14:19,730 --> 00:14:20,971
+00:13:52,451 --> 00:13:53,692
 End of Part One.
