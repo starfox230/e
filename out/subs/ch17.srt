@@ -154,656 +154,656 @@ executives had never seen him do.
 He let other people run it.
 
 33
-00:02:57,419 --> 00:03:05,236
+00:02:57,419 --> 00:03:03,256
 Dr. Voss has operational command. Nobody asks me for
 a decision unless the decision is
 
 34
-00:03:05,256 --> 00:03:09,429
+00:03:03,276 --> 00:03:06,388
 about money, and Ms. Adeyemi may
 answer those.
 
 35
-00:03:09,829 --> 00:03:12,176
+00:03:06,788 --> 00:03:09,136
 You are the most capable person
 in this building.
 
 36
-00:03:12,576 --> 00:03:19,100
+00:03:09,537 --> 00:03:14,318
 I am the most capable person in this building at
 eleven things, and this is not one of
 
 37
-00:03:19,120 --> 00:03:24,426
+00:03:14,338 --> 00:03:18,227
 them. I have never in my life run a
 containment. I have *broken* four.
 
 38
-00:03:25,102 --> 00:03:31,159
+00:03:18,901 --> 00:03:24,959
 The narrator notes that this is the only occasion
 in sixty-five years on which Albert
 
 39
-00:03:31,179 --> 00:03:37,236
+00:03:24,979 --> 00:03:31,036
 Wesker declined to take charge of something, and
 that it is also, not coincidentally,
 
 40
-00:03:37,256 --> 00:03:41,811
+00:03:31,056 --> 00:03:35,611
 the single greatest source of public
 goodwill he ever generated.
 
 41
-00:03:42,211 --> 00:03:46,661
+00:03:36,012 --> 00:03:40,461
 The tents went up in the Piazza del Popolo
 on the morning of the ninth.
 
 42
-00:03:47,062 --> 00:03:52,935
+00:03:40,861 --> 00:03:46,735
 White, with a crimson iris on the roof panels —
 placed there, deliberately, so that every
 
 43
-00:03:52,955 --> 00:03:58,629
+00:03:46,755 --> 00:03:52,429
 aerial shot would carry it — and staffed by four
 hundred and eleven Umbrella personnel
 
 44
-00:03:58,649 --> 00:04:03,132
+00:03:52,449 --> 00:03:56,932
 who had been in the air within nine hours
 of the anomalous negative.
 
 45
-00:04:03,532 --> 00:04:09,793
+00:03:57,331 --> 00:04:03,593
 By the twelfth there were tents in six Italian cities,
 in Ljubljana, in Zagreb, in Munich.
 
 46
-00:04:09,813 --> 00:04:15,934
+00:04:03,613 --> 00:04:09,734
 By the nineteenth there were six hundred sites in
 thirty-one countries, and Umbrella had
 
 47
-00:04:15,954 --> 00:04:21,936
+00:04:09,754 --> 00:04:15,736
 run nine million tests, free, without asking any
 government for permission and without
 
 48
-00:04:21,956 --> 00:04:23,402
+00:04:15,756 --> 00:04:17,201
 being refused by any.
 
 49
-00:04:23,802 --> 00:04:30,105
+00:04:17,601 --> 00:04:23,905
 The antiviral came out of the Epic blueprint line he
 had pulled in 2027 — the one whose
 
 50
-00:04:30,125 --> 00:04:36,647
+00:04:23,925 --> 00:04:30,447
 panel had said *this item exists because you will need
 it* — and Birkin's people at Arklay
 
 51
-00:04:36,667 --> 00:04:39,409
+00:04:30,467 --> 00:04:33,209
 matched it to the genome in four days.
 
 52
-00:04:39,810 --> 00:04:45,843
+00:04:33,610 --> 00:04:39,644
 The narrator will say this plainly: it was a real
 medicine, it worked, it was manufactured
 
 53
-00:04:45,863 --> 00:04:49,879
+00:04:39,663 --> 00:04:43,680
 at sixteen plants on four continents,
 and it was given away.
 
 54
-00:04:50,279 --> 00:04:53,730
+00:04:44,079 --> 00:04:47,530
 Total deaths, worldwide: four
 thousand one hundred.
 
 55
-00:04:54,129 --> 00:05:00,723
+00:04:47,930 --> 00:04:54,523
 The modelling groups' central estimate for an outbreak of
 that genome and that transmissibility,
 
 56
-00:05:00,743 --> 00:05:05,960
+00:04:54,543 --> 00:04:59,760
 under the 2019 international system, was
 between two and twenty-one million.
 
 57
-00:05:06,360 --> 00:05:09,560
+00:05:00,160 --> 00:05:03,360
 It ended on the fourth of May.
 Sixty-one days.
 
 58
-00:05:10,079 --> 00:05:14,562
+00:05:03,879 --> 00:05:08,362
 (broadcast) Sixty-one days. I want to say that
 again, because eleven years ago we lived
 
 59
-00:05:14,582 --> 00:05:19,375
+00:05:08,382 --> 00:05:13,175
 through the other version of this. Sixty-one days from
 first cluster to declared containment,
 
 60
-00:05:19,395 --> 00:05:22,169
+00:05:13,195 --> 00:05:15,969
 and the organisation that did it was
 not a government.
 
 61
-00:05:22,569 --> 00:05:27,304
+00:05:16,370 --> 00:05:21,104
 (broadcast) The WHO's regional director this morning
 called Umbrella's response "the finest
 
 62
-00:05:27,324 --> 00:05:32,007
+00:05:21,124 --> 00:05:25,807
 piece of public health logistics in the history of the
 field," and then spent nine minutes
 
 63
-00:05:32,027 --> 00:05:34,620
+00:05:25,827 --> 00:05:28,420
 being asked why his own
 organisation didn't do it.
 
 64
-00:05:35,019 --> 00:05:36,930
+00:05:28,819 --> 00:05:30,730
 (broadcast) Did he have an answer?
 
 65
-00:05:37,329 --> 00:05:38,906
+00:05:31,129 --> 00:05:32,706
 (broadcast) He had a budget.
 
 66
-00:05:39,305 --> 00:05:45,763
+00:05:33,105 --> 00:05:39,563
 In Ravenna, the tents came down on the eighth of May,
 and the city council voted unanimously
 
 67
-00:05:45,783 --> 00:05:51,817
+00:05:39,583 --> 00:05:45,617
 to name the square's eastern colonnade after the
 company. Wesker declined, in a letter
 
 68
-00:05:51,837 --> 00:05:57,802
+00:05:45,637 --> 00:05:51,602
 that was read aloud at the meeting, and asked that
 it be named for Dr. Chiara Bonetti
 
 69
-00:05:57,822 --> 00:06:00,196
+00:05:51,622 --> 00:05:53,996
 instead, who had pressed a button.
 
 70
-00:06:00,596 --> 00:06:06,597
+00:05:54,396 --> 00:06:00,397
 There is a plaque there now. It has her name on it,
 and under her name, in smaller letters,
 
 71
-00:06:06,617 --> 00:06:12,485
+00:06:00,417 --> 00:06:06,286
 the name of the company that suggested it. The
 narrator notes that this cost him nothing,
 
 72
-00:06:12,505 --> 00:06:18,176
+00:06:06,305 --> 00:06:11,976
 that he thought of it in about four seconds, and
 that it is quoted in every profile of
 
 73
-00:06:18,196 --> 00:06:20,425
+00:06:11,996 --> 00:06:14,225
 him written between 2033 and 2050.
 
 74
-00:06:21,576 --> 00:06:29,032
+00:06:15,375 --> 00:06:22,832
 Mission: Indispensable. Outbreak contained in
 sixty-one days. Lives saved, modelled central
 
 75
-00:06:29,052 --> 00:06:36,099
+00:06:22,852 --> 00:06:29,899
 estimate: three million nine hundred thousand.
 Global sentiment: eighty-eight per cent
 
 76
-00:06:36,119 --> 00:06:43,082
+00:06:29,919 --> 00:06:36,882
 favourable, the highest ever recorded for a private
 entity. Two million Points. Note:
 
 77
-00:06:43,102 --> 00:06:48,095
+00:06:36,902 --> 00:06:41,894
 you have not lied, coerced or killed to
 obtain this position.
 
 78
-00:06:48,685 --> 00:06:50,555
+00:06:42,485 --> 00:06:44,213
 Was that admiration?
 
 79
-00:06:50,954 --> 00:06:57,712
+00:06:44,612 --> 00:06:51,370
 It was an observation. You have been offered four
 hundred opportunities to do this the
 
 80
-00:06:57,732 --> 00:07:04,569
+00:06:51,390 --> 00:06:58,227
 other way since 2026. You have declined all of them,
 and you are further ahead than any
 
 81
-00:07:04,589 --> 00:07:06,223
+00:06:58,247 --> 00:06:59,882
 host I have measured.
 
 82
-00:07:06,624 --> 00:07:07,654
+00:07:00,281 --> 00:07:01,331
 Any *host*.
 
 83
-00:07:08,439 --> 00:07:10,082
+00:07:02,117 --> 00:07:03,760
 The panel is accurate.
 
 84
-00:07:10,482 --> 00:07:13,412
+00:07:04,160 --> 00:07:07,090
 He asked about that one for the next
 thirty years too.
 
 85
-00:07:13,812 --> 00:07:19,462
+00:07:07,490 --> 00:07:13,140
 The narrator would like to put you inside one of the
 tents, because the rest of this chapter
 
 86
-00:07:19,482 --> 00:07:21,682
+00:07:13,160 --> 00:07:15,360
 is logistics and the tents were not.
 
 87
-00:07:22,081 --> 00:07:27,658
+00:07:15,759 --> 00:07:21,336
 Umbrella's field teams were a mixture: about a third
 Absolute, about a third integrated
 
 88
-00:07:27,678 --> 00:07:33,641
+00:07:21,356 --> 00:07:27,319
 staff from the plants, and about a third ordinary
 recruits who had answered an advertisement.
 
 89
-00:07:33,661 --> 00:07:39,174
+00:07:27,339 --> 00:07:32,852
 They did not wear rank. They worked seven-hour
 shifts and were rotated out at fourteen
 
 90
-00:07:39,194 --> 00:07:45,093
+00:07:32,872 --> 00:07:38,771
 days without exception, which was a rule Wesker had
 written personally in 2029 after reading
 
 91
-00:07:45,113 --> 00:07:50,690
+00:07:38,791 --> 00:07:44,368
 the occupational literature on aid work, and which
 the medical directors had fought and
 
 92
-00:07:50,710 --> 00:07:51,012
+00:07:44,388 --> 00:07:44,689
 lost.
 
 93
-00:07:51,411 --> 00:07:58,092
+00:07:45,089 --> 00:07:51,770
 A nurse from Bologna named Paola Rinaldi worked four
 rotations in that outbreak and gave
 
 94
-00:07:58,112 --> 00:08:04,868
+00:07:51,790 --> 00:07:58,546
 an interview in 2041 that is the most-quoted
 first-hand account of the Umbrella response.
 
 95
-00:08:05,389 --> 00:08:09,787
+00:07:59,065 --> 00:08:03,464
 They were not kind, exactly. That is the thing
 people get wrong. They were *competent*,
 
 96
-00:08:09,807 --> 00:08:14,205
+00:08:03,484 --> 00:08:07,882
 at a level I had never seen, and competence at that
 level looks like coldness until you
 
 97
-00:08:14,225 --> 00:08:15,577
+00:08:07,902 --> 00:08:09,254
 have been in it for a week.
 
 98
-00:08:15,857 --> 00:08:20,593
+00:08:09,535 --> 00:08:14,271
 The supplies arrived before we asked. The rota was
 correct. Nobody ever told me something
 
 99
-00:08:20,613 --> 00:08:25,135
+00:08:14,291 --> 00:08:18,813
 would be fixed and then it was not fixed. In
 nineteen years of hospital work that had
 
 100
-00:08:25,155 --> 00:08:26,525
+00:08:18,833 --> 00:08:20,203
 never once happened to me.
 
 101
-00:08:27,134 --> 00:08:31,363
+00:08:20,812 --> 00:08:25,041
 (very slow) And there was a man in my tent on the
 fourth night, in a black coat, at about
 
 102
-00:08:31,383 --> 00:08:35,851
+00:08:25,061 --> 00:08:29,529
 three in the morning, who spent two hours moving oxygen
 cylinders because we were short-handed
 
 103
-00:08:35,871 --> 00:08:37,952
+00:08:29,549 --> 00:08:31,629
 and a delivery had gone to the
 wrong square.
 
 104
-00:08:38,231 --> 00:08:42,667
+00:08:31,910 --> 00:08:36,345
 I did not know who he was. He did not say anything
 except to ask where they went. I found
 
 105
-00:08:42,687 --> 00:08:46,922
+00:08:36,365 --> 00:08:40,600
 out four days later, from a photograph, and I have
 thought about it ever since, and I
 
 106
-00:08:46,942 --> 00:08:51,277
+00:08:40,620 --> 00:08:44,955
 still cannot tell you whether that was a man helping
 or a man making sure the cylinders
 
 107
-00:08:51,297 --> 00:08:52,379
+00:08:44,975 --> 00:08:46,057
 got to the right tent.
 
 108
-00:08:52,778 --> 00:08:58,442
+00:08:46,456 --> 00:08:52,120
 The narrator has checked the logistics record. The
 delivery did go to the wrong square.
 
 109
-00:08:58,462 --> 00:09:04,125
+00:08:52,140 --> 00:08:57,803
 Wesker's movements that night are in the
 Surveillance Suite log and are consistent with
 
 110
-00:09:04,145 --> 00:09:04,908
+00:08:57,823 --> 00:08:58,586
 her account.
 
 111
-00:09:05,308 --> 00:09:11,454
+00:08:58,986 --> 00:09:05,132
 He never mentioned it to anybody, it appears in no
 Umbrella publication, and the narrator
 
 112
-00:09:11,474 --> 00:09:17,689
+00:09:05,152 --> 00:09:11,367
 has been unable to determine whether that is modesty
 or the most efficient piece of public
 
 113
-00:09:17,709 --> 00:09:23,716
+00:09:11,387 --> 00:09:17,394
 relations in the company's history, and suspects
 that Albert Wesker could not have told
 
 114
-00:09:23,736 --> 00:09:24,479
+00:09:17,414 --> 00:09:18,157
 you either.
 
 115
-00:09:24,879 --> 00:09:31,267
+00:09:18,557 --> 00:09:24,945
 Catherine Adeyemi had watched the whole thing from a
 chair beside a telephone, authorising
 
 116
-00:09:31,287 --> 00:09:37,319
+00:09:24,965 --> 00:09:30,997
 nineteen billion dollars of expenditure that no
 contract would ever reimburse, and on
 
 117
-00:09:37,339 --> 00:09:42,659
+00:09:31,017 --> 00:09:36,337
 the last night she asked him the question she
 had been holding since March.
 
 118
-00:09:43,179 --> 00:09:48,034
+00:09:36,857 --> 00:09:41,712
 Nineteen billion. Free antiviral, free testing, four
 hundred and eleven aircraft movements,
 
 119
-00:09:48,054 --> 00:09:52,641
+00:09:41,732 --> 00:09:46,319
 nine thousand staff in the field for two months. We
 have taken the largest single-year
 
 120
-00:09:52,661 --> 00:09:56,872
+00:09:46,339 --> 00:09:50,550
 loss in the history of commerce and the share
 price has gone up sixty per cent.
 
 121
-00:09:57,273 --> 00:09:58,163
+00:09:50,951 --> 00:09:51,573
 Yes.
 
 122
-00:09:58,562 --> 00:09:59,759
+00:09:51,971 --> 00:09:53,168
 You planned that.
 
 123
-00:10:00,158 --> 00:10:07,967
+00:09:53,567 --> 00:09:58,616
 I planned the instruments in 2027 and the button in
 2028 and the stockpile clause in 2030
 
 124
-00:10:07,987 --> 00:10:15,531
+00:09:58,636 --> 00:10:03,514
 and the blueprint line came out of a lottery I did
 not control. I did not plan a virus
 
 125
-00:10:15,551 --> 00:10:23,711
+00:10:03,534 --> 00:10:08,811
 in Ravenna. I *prepared* for one, for six years, at
 enormous expense, while every institution
 
 126
-00:10:23,731 --> 00:10:29,869
+00:10:08,831 --> 00:10:12,798
 that was supposed to be preparing was
 writing reports about preparing.
 
 127
-00:10:30,269 --> 00:10:32,239
+00:10:13,197 --> 00:10:15,168
 They walked in silence for a while.
 
 128
-00:10:32,759 --> 00:10:36,038
+00:10:15,687 --> 00:10:18,966
 I've been trying for four years to decide
 whether you are a monster.
 
 129
-00:10:36,437 --> 00:10:37,072
+00:10:19,368 --> 00:10:19,942
 And?
 
 130
-00:10:37,471 --> 00:10:42,175
+00:10:20,341 --> 00:10:25,045
 I think you might be the most useful person who has
 ever lived, and I think that is not
 
 131
-00:10:42,195 --> 00:10:46,518
+00:10:25,065 --> 00:10:29,388
 the same question, and I think the second
 question is the one that frightens me.
 
 132
-00:10:46,918 --> 00:10:49,207
+00:10:29,787 --> 00:10:32,076
 Wesker stopped at the window.
 
 133
-00:10:49,727 --> 00:10:51,257
+00:10:32,596 --> 00:10:34,311
 Ask it properly.
 
 134
-00:10:51,658 --> 00:10:56,070
+00:10:34,711 --> 00:10:39,123
 Three million nine hundred thousand people are alive
 because of what you built. That is
 
 135
-00:10:56,090 --> 00:11:00,502
+00:10:39,143 --> 00:10:43,555
 not rhetoric, it's in the modelling, I have read it
 four times. And every single one of
 
 136
-00:11:00,522 --> 00:11:04,884
+00:10:43,575 --> 00:10:47,937
 them now lives in a world where one man can do that,
 and therefore one man can decline
 
 137
-00:11:04,904 --> 00:11:05,037
+00:10:47,957 --> 00:10:48,090
 to.
 
 138
-00:11:05,755 --> 00:11:10,174
+00:10:48,809 --> 00:10:53,228
 You didn't save them from a virus. You saved them
 from a *system*, and then you replaced
 
 139
-00:11:10,194 --> 00:11:11,032
+00:10:53,248 --> 00:10:54,086
 it with yourself.
 
 140
-00:11:11,432 --> 00:11:17,289
+00:10:54,485 --> 00:11:00,342
 The narrator asks you to notice that Albert Wesker
 did not deny it, did not smile, and
 
 141
-00:11:17,309 --> 00:11:23,644
+00:11:00,362 --> 00:11:06,697
 did not threaten her. He looked out over twenty-one
 million lights and answered her honestly,
 
 142
-00:11:23,664 --> 00:11:27,882
+00:11:06,717 --> 00:11:10,935
 which he did perhaps four times in his
 life and always to her.
 
 143
-00:11:28,402 --> 00:11:29,372
+00:11:11,455 --> 00:11:12,102
 Yes.
 
 144
-00:11:29,772 --> 00:11:33,891
+00:11:12,501 --> 00:11:16,620
 And if you're wrong about something? If you make
 one bad decision at that scale?
 
 145
-00:11:34,291 --> 00:11:40,998
+00:11:17,020 --> 00:11:21,783
 Then it will be a bad decision made by someone
 competent, arriving in nineteen hours,
 
 146
-00:11:41,018 --> 00:11:47,962
+00:11:21,803 --> 00:11:26,735
 instead of a good decision made by a committee,
 arriving in eleven days. I have run both
 
 147
-00:11:47,982 --> 00:11:54,690
+00:11:26,755 --> 00:11:31,517
 experiments now. So has everyone else on this
 planet. They watched the first one from
 
 148
-00:11:54,710 --> 00:11:57,381
+00:11:31,537 --> 00:11:33,430
 inside their houses for two years.
 
 149
-00:11:57,780 --> 00:12:03,630
+00:11:33,831 --> 00:11:39,680
 She did not have an answer. Nobody in the world had
 an answer, and that is precisely why
 
 150
-00:12:03,650 --> 00:12:06,030
+00:11:39,700 --> 00:11:42,081
 the next decade went the way it did.
 
 151
-00:12:07,181 --> 00:12:15,019
+00:11:43,230 --> 00:11:51,069
 Loyalty. Catherine Adeyemi: fifty-four per cent, to
 seventy. She is not persuaded. She
 
 152
-00:12:15,039 --> 00:12:23,060
+00:11:51,089 --> 00:11:59,110
 has simply run out of alternatives. Those two things
 look identical from the outside and
 
 153
-00:12:23,080 --> 00:12:23,792
+00:11:59,130 --> 00:11:59,842
 are not.
 
 154
-00:12:24,381 --> 00:12:30,337
+00:12:00,432 --> 00:12:06,387
 Four hundred miles away and nine time zones back, a
 man stood in a spare room in front
 
 155
-00:12:30,357 --> 00:12:31,031
+00:12:06,407 --> 00:12:07,081
 of a wall.
 
 156
-00:12:31,432 --> 00:12:38,180
+00:12:07,481 --> 00:12:14,230
 SSA Owen Carrick had been told to close the file in
 2029, in 2030 and in 2032. He had
 
 157
-00:12:38,200 --> 00:12:45,108
+00:12:14,250 --> 00:12:21,158
 not closed it. He had also not opened a formal
 investigation, because he was not a fool
 
 158
-00:12:45,128 --> 00:12:49,408
+00:12:21,178 --> 00:12:25,458
 and he knew what the request would
 look like on paper.
 
 159
-00:12:49,808 --> 00:12:55,956
+00:12:25,859 --> 00:12:32,006
 On the wall: forty-one photographs. Eleven of them
 were buildings. One was a page from
 
 160
-00:12:55,976 --> 00:13:02,195
+00:12:32,026 --> 00:12:38,245
 a Wilmington planning file with a signature on it.
 One was a frame from a Swiss loading
 
 161
-00:13:02,215 --> 00:13:08,291
+00:12:38,265 --> 00:12:44,341
 bay, printed at home, the
 two-hundred-and-forty-frames-a-second one, the one with the
 
 162
-00:13:08,311 --> 00:13:09,008
+00:12:44,361 --> 00:12:45,058
 man in it.
 
 163
-00:13:09,408 --> 00:13:15,941
+00:12:45,458 --> 00:12:51,991
 And in the middle, a photograph he had taken himself,
 from a public road, of a white six-storey
 
 164
-00:13:15,961 --> 00:13:18,149
+00:12:52,011 --> 00:12:54,198
 building on the Christina River.
 
 165
-00:13:18,548 --> 00:13:24,306
+00:12:54,599 --> 00:13:00,356
 On the day the world decided Albert Wesker was the
 finest thing in it, Owen Carrick stood
 
 166
-00:13:24,326 --> 00:13:30,278
+00:13:00,376 --> 00:13:06,328
 in front of that wall and wrote four words on an index
 card and pinned it under the picture.
 
 167
-00:13:30,797 --> 00:13:32,007
+00:13:06,846 --> 00:13:08,076
 *He is not hiding.*
 
 168
-00:13:32,407 --> 00:13:38,111
+00:13:08,476 --> 00:13:14,181
 Underneath, later that night, he added one more
 line, and it is the line that ends his
 
 169
-00:13:38,131 --> 00:13:40,706
+00:13:14,201 --> 00:13:16,776
 career and begins the rest of his life.
 
 170
-00:13:41,226 --> 00:13:42,376
+00:13:17,297 --> 00:13:18,477
 He is *recruiting*.
