@@ -76,779 +76,779 @@ and twenty-two people who guard four
 buildings in Delaware.
 
 17
-00:01:23,135 --> 00:01:26,005
+00:01:23,135 --> 00:01:25,965
 You are both discussing the
 wrong incident.
 
 18
-00:01:26,405 --> 00:01:28,025
+00:01:26,364 --> 00:01:27,984
 He put the tablet down.
 
 19
-00:01:28,545 --> 00:01:35,036
+00:01:28,504 --> 00:01:33,147
 They knew the route, the schedule and the temperature
 spec. They knew which of two lorries
 
 20
-00:01:35,056 --> 00:01:41,981
+00:01:33,167 --> 00:01:38,120
 was worth taking. That is not opportunism; that is
 procurement. Somebody bought that information
 
 21
-00:01:42,001 --> 00:01:48,275
+00:01:38,140 --> 00:01:42,627
 from inside this company, and everything we have
 said since page one of that report has
 
 22
-00:01:48,295 --> 00:01:49,795
+00:01:42,647 --> 00:01:43,715
 been about the lorry.
 
 23
-00:01:50,469 --> 00:01:52,838
+00:01:44,390 --> 00:01:46,759
 You want an internal investigation.
 
 24
-00:01:53,239 --> 00:01:59,979
+00:01:47,159 --> 00:01:52,061
 I want an *instrument*. I have been running a global
 pharmaceutical concern with a night
 
 25
-00:01:59,999 --> 00:02:03,590
+00:01:52,081 --> 00:01:54,689
 watchman and a locksmith. That
 ends this month.
 
 26
-00:02:03,989 --> 00:02:09,802
+00:01:55,090 --> 00:02:00,902
 He put eighty thousand Points into the Company
 banner and pulled forty times, and the
 
 27
-00:02:09,822 --> 00:02:16,045
+00:02:00,922 --> 00:02:07,145
 first thirty-nine produced exactly what the odds said
 they would: commons, a vehicle fleet,
 
 28
-00:02:16,065 --> 00:02:22,083
+00:02:07,165 --> 00:02:13,183
 two cohorts of security officers, an Uncommon that
 turned out to be a logistics planning
 
 29
-00:02:22,103 --> 00:02:28,327
+00:02:13,203 --> 00:02:19,427
 suite, and a Rare that was a third Tyrant, which he
 sent to Arklay's cryogenic hall without
 
 30
-00:02:28,347 --> 00:02:29,699
+00:02:19,447 --> 00:02:20,799
 particular interest.
 
 31
-00:02:30,099 --> 00:02:32,149
+00:02:21,199 --> 00:02:23,249
 The fortieth pull came up violet.
 
 32
-00:02:33,300 --> 00:02:40,906
+00:02:24,400 --> 00:02:32,006
 Epic. Operator and doctrine. Designation: Hunk.
 Grade: sole survivor, special operations
 
 33
-00:02:40,926 --> 00:02:48,705
+00:02:32,026 --> 00:02:39,805
 command. The package includes a training pipeline, a
 selection standard, a tactics library
 
 34
-00:02:48,725 --> 00:02:56,677
+00:02:39,825 --> 00:02:47,777
 and an equipment specification. Any security cohort you
 own may be brought to this standard.
 
 35
-00:02:57,268 --> 00:03:03,192
+00:02:48,367 --> 00:02:54,292
 He arrived at Arklay the following morning in a
 black transport with no markings, and
 
 36
-00:03:03,212 --> 00:03:07,597
+00:02:54,312 --> 00:02:58,697
 he came up the steps in a gas mask, and
 he did not take it off.
 
 37
-00:03:08,117 --> 00:03:09,807
+00:02:59,217 --> 00:03:00,907
 (radio) Director.
 
 38
-00:03:10,207 --> 00:03:12,137
+00:03:01,307 --> 00:03:03,113
 Is there a face under that?
 
 39
-00:03:12,538 --> 00:03:14,228
+00:03:03,513 --> 00:03:05,203
 (radio) Yes, sir.
 
 40
-00:03:14,627 --> 00:03:17,070
+00:03:05,603 --> 00:03:08,120
 Do you intend to show it to anyone?
 
 41
-00:03:17,469 --> 00:03:19,119
+00:03:08,520 --> 00:03:10,170
 (radio) No, sir.
 
 42
-00:03:19,520 --> 00:03:22,050
+00:03:10,570 --> 00:03:12,737
 Excellent. Neither do I.
 
 43
-00:03:22,449 --> 00:03:28,636
+00:03:13,138 --> 00:03:19,324
 The narrator will note that in nineteen years of
 service, in four continents and one ocean
 
 44
-00:03:28,656 --> 00:03:34,706
+00:03:19,344 --> 00:03:25,394
 and eventually in vacuum, no photograph of HUNK's
 face was ever taken, and that this was
 
 45
-00:03:34,726 --> 00:03:40,913
+00:03:25,414 --> 00:03:31,601
 not a System effect. It was a preference, and Wesker
 respected it the way one professional
 
 46
-00:03:40,933 --> 00:03:43,119
+00:03:31,621 --> 00:03:33,807
 respects another's superstition.
 
 47
-00:03:43,520 --> 00:03:49,679
+00:03:34,207 --> 00:03:40,367
 The Umbrella Security Service was founded on the
 eleventh of November 2028 with two hundred
 
 48
-00:03:49,699 --> 00:03:55,519
+00:03:40,387 --> 00:03:46,207
 and eighty personnel, of whom two hundred and
 forty-one were Absolute, and its command
 
 49
-00:03:55,539 --> 00:03:59,117
+00:03:46,227 --> 00:03:49,805
 structure was drawn on a whiteboard
 in forty minutes.
 
 50
-00:03:59,518 --> 00:04:06,478
+00:03:50,205 --> 00:03:57,166
 Hale commanded it. Hale was Absolute, incapable of
 doubt, incapable of ambition, and therefore
 
 51
-00:04:06,498 --> 00:04:12,865
+00:03:57,186 --> 00:04:03,553
 the only man alive whom Wesker was willing to give
 two hundred and eighty armed people
 
 52
-00:04:12,885 --> 00:04:13,087
+00:04:03,573 --> 00:04:03,775
 to.
 
 53
-00:04:13,487 --> 00:04:19,633
+00:04:04,175 --> 00:04:10,321
 HUNK ran operations, which is a different job, and
 the difference is the entire reason
 
 54
-00:04:19,653 --> 00:04:21,498
+00:04:10,341 --> 00:04:12,185
 Umbrella never had a coup.
 
 55
-00:04:22,017 --> 00:04:24,447
+00:04:12,705 --> 00:04:14,904
 Mr. Hale. Your doctrine.
 
 56
-00:04:24,848 --> 00:04:30,460
+00:04:15,305 --> 00:04:20,917
 (flat) Deterrence by presence. Visible protection at
 every site. Response within eleven
 
 57
-00:04:30,480 --> 00:04:30,978
+00:04:20,937 --> 00:04:21,435
 minutes.
 
 58
-00:04:31,377 --> 00:04:35,708
+00:04:21,834 --> 00:04:24,745
 Wrong. Try again, using Mr.
 HUNK's material.
 
 59
-00:04:36,108 --> 00:04:41,358
+00:04:25,144 --> 00:04:30,394
 (radio) No presence. No response. Interdiction
 before the event, by knowing the event
 
 60
-00:04:41,377 --> 00:04:41,978
+00:04:30,414 --> 00:04:31,014
 is coming.
 
 61
-00:04:42,377 --> 00:04:49,761
+00:04:31,415 --> 00:04:36,125
 Yes. I do not want guards, Mr. Hale. Guards are a
 tax I pay for ever, and a guard tells
 
 62
-00:04:49,781 --> 00:04:57,249
+00:04:36,145 --> 00:04:40,911
 the world where the valuable thing is. I want a
 company that appears to have no security
 
 63
-00:04:57,269 --> 00:05:04,908
+00:04:40,931 --> 00:04:45,805
 at all, and a very small number of people who arrive
 fifteen hours before a thing happens.
 
 64
-00:05:05,307 --> 00:05:11,124
+00:04:46,204 --> 00:04:52,021
 That was the doctrine. It never changed. Thirty
 years later, when the Umbrella Security
 
 65
-00:05:11,144 --> 00:05:17,161
+00:04:52,041 --> 00:04:58,058
 Service was a hundred and ninety thousand strong and
 had regiments in orbit, that sentence
 
 66
-00:05:17,181 --> 00:05:19,778
+00:04:58,078 --> 00:05:00,675
 was still the first line of the manual.
 
 67
-00:05:20,177 --> 00:05:25,718
+00:05:01,074 --> 00:05:06,615
 The narrator would like one scene with Hale, who has
 been in this story since the lobby
 
 68
-00:05:25,738 --> 00:05:28,851
+00:05:06,635 --> 00:05:09,748
 in Chapter One and has said
 perhaps twenty words.
 
 69
-00:05:29,250 --> 00:05:35,370
+00:05:10,148 --> 00:05:16,267
 Wesker found him at two in the morning standing in a
 corridor outside the armoury, doing
 
 70
-00:05:35,390 --> 00:05:41,440
+00:05:16,287 --> 00:05:22,338
 nothing, which is what the Absolute did when they
 had no instruction and nowhere to be.
 
 71
-00:05:41,961 --> 00:05:45,871
+00:05:22,858 --> 00:05:25,535
 How long have you been standing
 here, Mr. Hale?
 
 72
-00:05:46,271 --> 00:05:48,421
+00:05:25,935 --> 00:05:28,085
 (flat) Four hours, Director.
 
 73
-00:05:48,821 --> 00:05:49,791
+00:05:28,485 --> 00:05:29,515
 Doing what?
 
 74
-00:05:50,190 --> 00:05:51,901
+00:05:29,915 --> 00:05:31,625
 (flat) Waiting, sir.
 
 75
-00:05:52,300 --> 00:05:54,091
+00:05:32,024 --> 00:05:33,980
 (very cold) For what?
 
 76
-00:05:54,930 --> 00:05:57,261
+00:05:34,821 --> 00:05:37,151
 (flat) I hadn't got that far, sir.
 
 77
-00:05:57,661 --> 00:06:03,260
+00:05:37,550 --> 00:05:43,150
 The narrator asks you to sit with that, because it
 is the clearest description anybody
 
 78
-00:06:03,280 --> 00:06:08,880
+00:05:43,170 --> 00:05:48,770
 ever gives of what the Absolute were, and it is
 given by one of them, cheerfully, in a
 
 79
-00:06:08,900 --> 00:06:10,971
+00:05:48,790 --> 00:05:50,860
 corridor, at two in the morning.
 
 80
-00:06:11,490 --> 00:06:18,925
+00:05:51,380 --> 00:05:55,958
 Mr. Hale, I am going to give you a standing
 instruction and it will be the only one of
 
 81
-00:06:18,945 --> 00:06:26,293
+00:05:55,978 --> 00:06:00,503
 its kind in this organisation. When you have
 nothing to do, you will do something you
 
 82
-00:06:26,313 --> 00:06:33,660
+00:06:00,523 --> 00:06:05,047
 have chosen. Anything at all. Read, walk, sleep,
 take the car out. I do not care what
 
 83
-00:06:33,680 --> 00:06:36,000
+00:06:05,067 --> 00:06:06,490
 it is and I will never ask.
 
 84
-00:06:36,951 --> 00:06:38,501
+00:06:07,440 --> 00:06:08,990
 (flat) Yes, sir.
 
 85
-00:06:39,110 --> 00:06:42,120
+00:06:09,600 --> 00:06:12,610
 (flat) Director — may I ask what
 I should choose?
 
 86
-00:06:42,521 --> 00:06:49,310
+00:06:13,011 --> 00:06:18,006
 (very cold) No. That is the entire point of the
 instruction and it is why it will not
 
 87
-00:06:49,330 --> 00:06:49,711
+00:06:18,026 --> 00:06:18,301
 work.
 
 88
-00:06:50,110 --> 00:06:55,838
+00:06:18,701 --> 00:06:24,428
 It did not work. Hale complied, as he complied with
 everything: for nineteen years he
 
 89
-00:06:55,858 --> 00:07:01,992
+00:06:24,448 --> 00:06:30,582
 went for a walk at the same time every night, four
 kilometres, the same route, and reported
 
 90
-00:07:02,012 --> 00:07:07,875
+00:06:30,602 --> 00:06:36,465
 nothing, and enjoyed nothing, and when he was
 released in the seventh cohort in 2085 at
 
 91
-00:07:07,895 --> 00:07:12,541
+00:06:36,485 --> 00:06:41,131
 the age of eighty-one the first thing he
 did was walk the same route.
 
 92
-00:07:12,940 --> 00:07:18,518
+00:06:41,531 --> 00:06:47,108
 He walked it for another nine years. Then, in 2094,
 at eighty-nine, he stopped, and went
 
 93
-00:07:18,538 --> 00:07:24,624
+00:06:47,128 --> 00:06:53,214
 a different way, and got lost, and the Directorate's duty
 officer received a call at twenty-nine
 
 94
-00:07:24,644 --> 00:07:30,411
+00:06:53,234 --> 00:06:59,001
 at night from a man who had been the head of its
 security service for forty years, standing
 
 95
-00:07:30,431 --> 00:07:35,818
+00:06:59,021 --> 00:07:04,408
 at a road junction four kilometres from his house,
 saying — and it is in the log, and
 
 96
-00:07:35,838 --> 00:07:40,015
+00:07:04,428 --> 00:07:08,605
 Wesker read it, and the log records that
 he read it eleven times —
 
 97
-00:07:40,536 --> 00:07:46,124
+00:07:09,125 --> 00:07:14,713
 I don't know where I am. It's all right. I did it
 on purpose. Could somebody come and
 
 98
-00:07:46,144 --> 00:07:46,586
+00:07:14,733 --> 00:07:15,175
 get me?
 
 99
-00:07:46,985 --> 00:07:52,675
+00:07:15,574 --> 00:07:21,264
 The internal leak took Pell nine days and an audit of
 who had opened which routing file.
 
 100
-00:07:53,076 --> 00:07:59,102
+00:07:21,665 --> 00:07:27,691
 It was not a traitor. That is worth saying, because
 Wesker had expected one and had already
 
 101
-00:07:59,122 --> 00:08:05,215
+00:07:27,711 --> 00:07:33,804
 decided what to do about it. It was a
 twenty-six-year-old logistics coordinator in Rotterdam
 
 102
-00:08:05,235 --> 00:08:10,863
+00:07:33,824 --> 00:07:39,452
 named Bram de Vos who had been socially engineered
 over four months by a very patient
 
 103
-00:08:10,883 --> 00:08:16,511
+00:07:39,472 --> 00:07:45,100
 woman at a conference, and who was, when Hale's
 people finally sat down opposite him,
 
 104
-00:08:16,531 --> 00:08:19,037
+00:07:45,120 --> 00:07:47,626
 so relieved to be caught that he wept.
 
 105
-00:08:19,437 --> 00:08:25,179
+00:07:48,026 --> 00:07:53,768
 The woman worked for a private laboratory near Leuven
 that had been buying stolen biologics
 
 106
-00:08:25,199 --> 00:08:29,485
+00:07:53,788 --> 00:07:58,074
 for nineteen years and reselling them to
 clinics in three countries.
 
 107
-00:08:29,884 --> 00:08:34,935
+00:07:58,473 --> 00:08:03,524
 The Belgian authorities would have taken nineteen
 months and would probably have won.
 
 108
-00:08:35,455 --> 00:08:38,525
+00:08:04,043 --> 00:08:06,560
 Mr. HUNK. How long would you need?
 
 109
-00:08:38,924 --> 00:08:42,875
+00:08:06,961 --> 00:08:10,911
 (radio) Twenty-two minutes on the ground.
 Four days of preparation.
 
 110
-00:08:43,274 --> 00:08:44,884
+00:08:11,310 --> 00:08:12,940
 Nobody is harmed.
 
 111
-00:08:45,284 --> 00:08:46,934
+00:08:13,341 --> 00:08:14,991
 (radio) Understood.
 
 112
-00:08:47,335 --> 00:08:54,821
+00:08:15,391 --> 00:08:20,582
 I mean it precisely, Mr. HUNK. Not one person. Not a
 broken wrist, not a frightened night
 
 113
-00:08:54,841 --> 00:09:02,749
+00:08:20,602 --> 00:08:26,086
 porter with a story. If a single human being in that
 building requires a doctor, the operation
 
 114
-00:09:02,769 --> 00:09:06,545
+00:08:26,106 --> 00:08:28,721
 has failed regardless of what
 you bring back.
 
 115
-00:09:06,945 --> 00:09:08,835
+00:08:29,120 --> 00:08:31,011
 (radio) Understood, sir.
 
 116
-00:09:09,235 --> 00:09:14,756
+00:08:31,411 --> 00:08:36,932
 The narrator will tell you how it went, beat by
 beat, because it is the first time in
 
 117
-00:09:14,776 --> 00:09:20,755
+00:08:36,952 --> 00:08:42,931
 this story that Umbrella's hand touches the world
 directly and because everything it becomes
 
 118
-00:09:20,775 --> 00:09:22,384
+00:08:42,951 --> 00:08:44,561
 is already visible in it.
 
 119
-00:09:22,784 --> 00:09:28,659
+00:08:44,961 --> 00:08:50,835
 At one thirty-eight the site's alarm contract
 lapsed. Not was disabled — *lapsed*, in
 
 120
-00:09:28,679 --> 00:09:34,554
+00:08:50,855 --> 00:08:56,730
 the monitoring company's records, due to an unpaid
 invoice, four days earlier, with a
 
 121
-00:09:34,574 --> 00:09:35,595
+00:08:56,750 --> 00:08:57,771
 letter on file.
 
 122
-00:09:35,995 --> 00:09:41,773
+00:08:58,171 --> 00:09:03,949
 At one forty the night porter, a sixty-year-old man
 named Luc, received a call from his
 
 123
-00:09:41,793 --> 00:09:47,771
+00:09:03,969 --> 00:09:09,947
 supervisor telling him a gas leak had been reported on
 the estate and that he should stand
 
 124
-00:09:47,791 --> 00:09:53,569
+00:09:09,967 --> 00:09:15,745
 at the main gate until the utility arrived. He stood
 at the main gate. He was there for
 
 125
-00:09:53,589 --> 00:09:56,034
+00:09:15,765 --> 00:09:18,211
 the entire operation and saw nothing.
 
 126
-00:09:56,434 --> 00:10:02,358
+00:09:18,610 --> 00:09:24,534
 At one forty-one, six people in black entered through
 a service door that had been fitted
 
 127
-00:10:02,378 --> 00:10:08,034
+00:09:24,554 --> 00:09:30,210
 with a new lock in October by a contractor nobody
 at the laboratory could later name.
 
 128
-00:10:08,434 --> 00:10:15,136
+00:09:30,610 --> 00:09:37,312
 At one fifty-two they were in the cold store. At two
 hundred and one, four hundred litres
 
 129
-00:10:15,156 --> 00:10:21,554
+00:09:37,332 --> 00:09:43,730
 of Aeterna intermediate, still in Umbrella's own
 drums, went into a refrigerated van.
 
 130
-00:10:21,955 --> 00:10:27,543
+00:09:44,130 --> 00:09:49,719
 At two hundred and four, HUNK stopped in the
 laboratory's server room for ninety seconds
 
 131
-00:10:27,563 --> 00:10:30,475
+00:09:49,739 --> 00:09:52,650
 and copied nineteen years of
 purchase records.
 
 132
-00:10:30,875 --> 00:10:37,006
+00:09:53,051 --> 00:09:59,182
 At two hundred and six they were gone. Total time
 on the ground: twenty-five minutes.
 
 133
-00:10:37,026 --> 00:10:40,914
+00:09:59,202 --> 00:10:03,091
 Injuries: none. Shots fired: none.
 Doors broken: none.
 
 134
-00:10:41,315 --> 00:10:47,779
+00:10:03,490 --> 00:10:09,955
 At nine o'clock that morning the laboratory's director
 arrived to find an empty cold store,
 
 135
-00:10:47,799 --> 00:10:54,335
+00:10:09,975 --> 00:10:16,511
 a functioning alarm system that had been off for four
 days, and no sign of entry whatsoever.
 
 136
-00:10:54,735 --> 00:11:00,151
+00:10:16,910 --> 00:10:22,327
 He did not call the police. He could not call the
 police, because the nineteen years of
 
 137
-00:11:00,171 --> 00:11:05,525
+00:10:22,347 --> 00:10:27,701
 purchase records in his server room explained
 exactly where the product had come from.
 
 138
-00:11:05,924 --> 00:11:12,070
+00:10:28,100 --> 00:10:34,246
 Two months later, an anonymous package of those records
 reached the Belgian federal prosecutor,
 
 139
-00:11:12,090 --> 00:11:17,976
+00:10:34,266 --> 00:10:40,152
 and the laboratory's directors were arrested in April,
 and Umbrella's name appeared nowhere
 
 140
-00:11:17,996 --> 00:11:18,754
+00:10:40,172 --> 00:10:40,931
 in the file.
 
 141
-00:11:19,904 --> 00:11:28,167
+00:10:42,081 --> 00:10:50,343
 Acting with intelligence. Forty-one million dollars
 recovered. Adversary removed by lawful
 
 142
-00:11:28,187 --> 00:11:36,173
+00:10:50,363 --> 00:10:58,350
 process, unattributed. No injuries. No records. One
 hundred and eighty thousand Points.
 
 143
-00:11:36,764 --> 00:11:42,979
+00:10:58,940 --> 00:11:05,155
 Wesker had watched the whole thing from Wilmington on
 the Surveillance Suite he had pulled
 
 144
-00:11:42,999 --> 00:11:49,353
+00:11:05,175 --> 00:11:11,529
 out of a lottery eighteen months earlier, and he had
 said four words in twenty-five minutes.
 
 145
-00:11:49,753 --> 00:11:52,383
+00:11:11,928 --> 00:11:14,558
 The four words were: *"Not the
 second door."*
 
 146
-00:11:52,783 --> 00:11:54,513
+00:11:14,958 --> 00:11:16,688
 In the silence, the passenger.
 
 147
-00:11:55,033 --> 00:11:57,033
+00:11:17,208 --> 00:11:18,438
 You enjoyed that.
 
 148
-00:11:57,433 --> 00:11:58,384
+00:11:18,839 --> 00:11:19,689
 I did.
 
 149
-00:11:58,783 --> 00:12:00,523
+00:11:20,089 --> 00:11:21,577
 It was a burglary.
 
 150
-00:12:00,923 --> 00:12:08,315
+00:11:21,976 --> 00:11:26,673
 It was a *demonstration*. Twenty-five minutes, no blood,
 no record, and a competitor destroyed
 
 151
-00:12:08,335 --> 00:12:15,097
+00:11:26,693 --> 00:11:30,988
 by his own paperwork four months later in a court he
 chose to be in. Do you understand
 
 152
-00:12:15,117 --> 00:12:22,510
+00:11:31,008 --> 00:11:35,705
 what that is worth? Every intelligence service in Europe
 will read the Belgian file eventually
 
 153
-00:12:22,530 --> 00:12:29,370
+00:11:35,725 --> 00:11:40,071
 and find nothing in it. Nothing at all. And the
 nothing will be so clean that a certain
 
 154
-00:12:29,390 --> 00:12:31,972
+00:11:40,091 --> 00:11:41,726
 kind of professional will sit up.
 
 155
-00:12:32,373 --> 00:12:34,587
+00:11:42,126 --> 00:11:43,827
 You want them to sit up.
 
 156
-00:12:34,986 --> 00:12:42,105
+00:11:44,229 --> 00:11:48,919
 I want exactly nine people in the world to sit up,
 and I want all nine of them to work
 
 157
-00:12:42,125 --> 00:12:49,409
+00:11:48,939 --> 00:11:53,739
 for governments, and I want every one of them to
 conclude, privately, that whatever this
 
 158
-00:12:49,429 --> 00:12:55,136
+00:11:53,759 --> 00:11:57,519
 is, it is not worth the career of the man
 who says it out loud first.
 
 159
-00:12:55,537 --> 00:12:58,947
+00:11:57,918 --> 00:12:01,328
 The narrator notes that seven of the
 nine did exactly that.
 
 160
-00:12:59,346 --> 00:13:04,927
+00:12:01,729 --> 00:12:07,310
 The eighth was a woman in Beijing, and she waited
 three years and then asked him to lunch.
 
 161
-00:13:05,327 --> 00:13:10,988
+00:12:07,708 --> 00:12:13,369
 The ninth was an FBI supervisory special agent in
 Philadelphia named Owen Carrick, who
 
 162
-00:13:11,008 --> 00:13:16,603
+00:12:13,389 --> 00:12:18,984
 at that moment was in the fourth month of a case
 about a company with no construction
 
 163
-00:13:16,623 --> 00:13:22,283
+00:12:19,004 --> 00:12:24,664
 records, and who did not know yet that he had
 already made the decision that would end
 
 164
-00:13:22,303 --> 00:13:25,058
+00:12:24,684 --> 00:12:27,439
 his career and begin the rest of his life.
 
 165
-00:13:25,457 --> 00:13:31,261
+00:12:27,839 --> 00:12:33,642
 By Christmas the Umbrella Security Service was four
 hundred strong and had begun to look
 
 166
-00:13:31,281 --> 00:13:33,048
+00:12:33,662 --> 00:12:35,429
 like the thing it would be.
 
 167
-00:13:33,447 --> 00:13:39,359
+00:12:35,828 --> 00:12:41,740
 They trained at Arklay, in the forest, in weather.
 They wore black without insignia. The
 
 168
-00:13:39,379 --> 00:13:45,290
+00:12:41,760 --> 00:12:47,671
 Absolute among them — and by December that was nine
 in ten — did not speak in formation,
 
 169
-00:13:45,310 --> 00:13:50,817
+00:12:47,691 --> 00:12:53,198
 did not shift their weight, and did not blink at
 the rate that human beings blink.
 
 170
-00:13:51,217 --> 00:13:57,273
+00:12:53,599 --> 00:12:59,654
 And on the twentieth of December a Tyrant walked
 through the hangar on its way from the
 
 171
-00:13:57,293 --> 00:14:03,628
+00:12:59,674 --> 00:13:06,009
 transport to the cryogenic lift: two point nine
 metres, grey, silent, entirely indifferent.
 
 172
-00:14:04,028 --> 00:14:08,858
+00:13:06,408 --> 00:13:11,239
 Four hundred trained soldiers watched it go
 past. Not one of them moved.
 
 173
-00:14:09,258 --> 00:14:15,218
+00:13:11,639 --> 00:13:17,599
 HUNK — who had, according to a System panel nobody
 but Wesker could read, been through
 
 174
-00:14:15,238 --> 00:14:21,198
+00:13:17,619 --> 00:13:23,579
 twenty-seven things that would break a man, and who
 feared nothing in any useful sense
 
 175
-00:14:21,218 --> 00:14:25,092
+00:13:23,599 --> 00:13:27,473
 of the word — stepped one pace to his
 left as it passed.
 
 176
-00:14:25,491 --> 00:14:31,353
+00:13:27,874 --> 00:13:33,735
 Wesker saw it from the gallery. He did not mention
 it for nineteen years, and then he
 
 177
-00:14:31,373 --> 00:14:37,512
+00:13:33,755 --> 00:13:39,894
 mentioned it once, in a conversation in orbit with a
 woman who had been afraid of nothing
 
 178
-00:14:37,532 --> 00:14:40,142
+00:13:39,914 --> 00:13:42,524
 for even longer, and what he said was:
 
 179
-00:14:40,662 --> 00:14:47,797
+00:13:43,043 --> 00:13:48,047
 Everything alive gets out of its way. That is not
 obedience and it is not fear. It is
 
 180
-00:14:47,817 --> 00:14:54,952
+00:13:48,067 --> 00:13:53,071
 arithmetic. And the day I stop being the thing that
 decides where it walks, I will be
 
 181
-00:14:54,972 --> 00:14:56,552
+00:13:53,091 --> 00:13:54,193
 the arithmetic too.
