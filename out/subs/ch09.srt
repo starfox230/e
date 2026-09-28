@@ -137,694 +137,694 @@ had been waiting to see whether the two of
 them would get there together.
 
 30
-00:02:22,376 --> 00:02:23,280
+00:02:22,376 --> 00:02:23,265
 I heard.
 
 31
-00:02:23,680 --> 00:02:25,109
+00:02:23,665 --> 00:02:25,095
 He crossed to the screen.
 
 32
-00:02:25,629 --> 00:02:32,162
+00:02:25,616 --> 00:02:30,007
 Dr. Marsh, you are describing a factor that
 suppresses the senescence programme without
 
 33
-00:02:32,182 --> 00:02:38,715
+00:02:30,027 --> 00:02:34,419
 disabling the tumour suppressors that make
 senescence necessary. If that is true, it is
 
 34
-00:02:38,735 --> 00:02:45,116
+00:02:34,439 --> 00:02:38,729
 the most valuable molecule on this planet, and if
 it is *not* true, you have found an
 
 35
-00:02:45,136 --> 00:02:51,518
+00:02:38,749 --> 00:02:43,039
 elaborate way to grow tumours slowly. So we will
 find out which, and we will do it in
 
 36
-00:02:51,538 --> 00:02:55,359
+00:02:43,059 --> 00:02:45,626
 the order that makes a product
 rather than a paper.
 
 37
-00:02:55,759 --> 00:02:57,369
+00:02:46,026 --> 00:02:47,635
 The order that makes a product.
 
 38
-00:02:57,770 --> 00:03:04,304
+00:02:48,036 --> 00:02:53,044
 Fractionate the conditioned medium. Find the active
 fraction before you find the mechanism.
 
 39
-00:03:04,324 --> 00:03:10,426
+00:02:53,064 --> 00:02:57,740
 The mechanism is a decade of somebody's career; the
 fraction is eleven weeks, and the
 
 40
-00:03:10,446 --> 00:03:13,380
+00:02:57,760 --> 00:03:00,006
 fraction is what you dose an animal with.
 
 41
-00:03:13,780 --> 00:03:14,629
+00:03:00,406 --> 00:03:01,256
 That's backwards.
 
 42
-00:03:15,030 --> 00:03:21,829
+00:03:01,656 --> 00:03:06,533
 That is *commerce*, Will. You may have the
 mechanism afterwards, as a gift, with your
 
 43
-00:03:21,849 --> 00:03:25,439
+00:03:06,553 --> 00:03:09,126
 name on it. I want the fraction
 by September.
 
 44
-00:03:25,840 --> 00:03:28,129
+00:03:09,526 --> 00:03:11,816
 He had it by the second week of August.
 
 45
-00:03:28,530 --> 00:03:34,259
+00:03:12,216 --> 00:03:17,945
 The narrator would like to move through eight months
 quickly, because Albert Wesker did.
 
 46
-00:03:34,659 --> 00:03:40,346
+00:03:18,346 --> 00:03:24,032
 The active fraction was a protein complex of four
 subunits. Birkin's people rebuilt it
 
 47
-00:03:40,366 --> 00:03:45,986
+00:03:24,052 --> 00:03:29,672
 as a single engineered molecule that could be made
 in a vat; Voss's vector platform —
 
 48
-00:03:46,006 --> 00:03:51,692
+00:03:29,692 --> 00:03:35,378
 the one Wesker had fixed in one evening in September
 — delivered it; Pell's regulatory
 
 49
-00:03:51,712 --> 00:03:57,464
+00:03:35,398 --> 00:03:41,150
 group took it into a first-in-human trial in a
 hundred and forty volunteers, aged sixty
 
 50
-00:03:57,484 --> 00:04:03,503
+00:03:41,170 --> 00:03:47,189
 to eighty-one, under a protocol so conservative that
 the reviewers complained it was timid.
 
 51
-00:04:03,902 --> 00:04:09,952
+00:03:47,587 --> 00:03:53,637
 They called it Aeterna, which Catherine hated and
 which tested extraordinarily well.
 
 52
-00:04:10,353 --> 00:04:17,413
+00:03:54,038 --> 00:04:01,098
 And in March of 2028 the first readout came back,
 and a contract research organisation
 
 53
-00:04:17,433 --> 00:04:20,213
+00:04:01,118 --> 00:04:03,897
 in Delaware quietly lost its mind.
 
 54
-00:04:20,612 --> 00:04:27,364
+00:04:04,298 --> 00:04:11,049
 Thirty-one weeks of dosing. Two hundred and nine
 measured markers of biological ageing:
 
 55
-00:04:27,384 --> 00:04:34,057
+00:04:11,069 --> 00:04:17,742
 immune repertoire, inflammatory load, methylation
 clocks, grip strength, VO2 max, skin
 
 56
-00:04:34,077 --> 00:04:35,302
+00:04:17,762 --> 00:04:18,987
 recoil, the lot.
 
 57
-00:04:35,701 --> 00:04:38,567
+00:04:19,387 --> 00:04:22,252
 The placebo arm had aged thirty-one weeks.
 
 58
-00:04:38,968 --> 00:04:45,009
+00:04:22,653 --> 00:04:28,695
 The treatment arm had gone backwards. Not dramatically
 — not a woman of seventy-two walking
 
 59
-00:04:45,029 --> 00:04:50,938
+00:04:28,715 --> 00:04:34,624
 out with the face of a girl. On the clocks, an
 average of nine years. In the immune data,
 
 60
-00:04:50,958 --> 00:04:56,866
+00:04:34,644 --> 00:04:40,552
 more than that: the volunteers' T-cell repertoires
 had begun refilling from a compartment
 
 61
-00:04:56,886 --> 00:04:59,931
+00:04:40,572 --> 00:04:43,617
 that should have been closed for
 four decades.
 
 62
-00:05:00,331 --> 00:05:06,322
+00:04:44,016 --> 00:04:50,008
 A sixty-eight-year-old retired school administrator
 named Doris Halloran, who had joined
 
 63
-00:05:06,342 --> 00:05:12,198
+00:04:50,028 --> 00:04:55,884
 the trial because it paid four hundred dollars and
 she liked the nurse, had the immune
 
 64
-00:05:12,218 --> 00:05:14,111
+00:04:55,904 --> 00:04:57,797
 profile of a woman of forty.
 
 65
-00:05:14,511 --> 00:05:21,312
+00:04:58,197 --> 00:05:04,998
 The data release was the first genuinely public thing
 Umbrella ever did, and Wesker planned
 
 66
-00:05:21,332 --> 00:05:22,587
+00:05:05,018 --> 00:05:06,273
 it for six weeks.
 
 67
-00:05:22,987 --> 00:05:29,106
+00:05:06,673 --> 00:05:12,791
 He did not announce a miracle. He released the entire
 dataset — every patient, every marker,
 
 68
-00:05:29,126 --> 00:05:34,778
+00:05:12,811 --> 00:05:18,463
 the protocol, the failed assays, the two serious
 adverse events, the statistical plan
 
 69
-00:05:34,798 --> 00:05:40,450
+00:05:18,483 --> 00:05:24,135
 they had pre-registered twenty-seven months earlier
 — and then he put Evelyn Marsh on
 
 70
-00:05:40,470 --> 00:05:46,255
+00:05:24,155 --> 00:05:29,940
 a stage in front of nine hundred journalists and
 four hundred scientists and let her be
 
 71
-00:05:46,275 --> 00:05:48,124
+00:05:29,960 --> 00:05:31,809
 brilliant for forty minutes.
 
 72
-00:05:48,524 --> 00:05:50,033
+00:05:32,209 --> 00:05:33,718
 Then he took the questions.
 
 73
-00:05:50,434 --> 00:05:56,197
+00:05:34,119 --> 00:05:39,882
 There was a panel of hostile immunologists in the
 third row. One of them, a man from a
 
 74
-00:05:56,217 --> 00:06:01,981
+00:05:39,902 --> 00:05:45,666
 Boston institute who had spent a career on
 senescence and had four competing molecules
 
 75
-00:06:02,001 --> 00:06:06,824
+00:05:45,686 --> 00:05:50,509
 in trials, stood up with a question he had
 sharpened on the flight down.
 
 76
-00:06:07,343 --> 00:06:12,163
+00:05:51,028 --> 00:05:55,848
 Dr. Wesker, you've reported a nine-year reversal on
 methylation clocks. Methylation clocks
 
 77
-00:06:12,183 --> 00:06:16,734
+00:05:55,868 --> 00:06:00,419
 are correlational. They predict mortality in
 populations; they don't measure anything
 
 78
-00:06:16,754 --> 00:06:21,736
+00:06:00,439 --> 00:06:05,421
 in a person. You've moved a number on a graph. What
 have you actually done to these patients?
 
 79
-00:06:22,134 --> 00:06:26,215
+00:06:05,821 --> 00:06:09,901
 A murmur. It was a good question and
 everybody in the room knew it.
 
 80
-00:06:26,735 --> 00:06:28,005
+00:06:10,420 --> 00:06:11,850
 I agree with you.
 
 81
-00:06:28,404 --> 00:06:29,615
+00:06:12,250 --> 00:06:13,461
 The murmur stopped.
 
 82
-00:06:30,134 --> 00:06:36,739
+00:06:13,980 --> 00:06:18,177
 The clocks are the least interesting data in that
 release, and if they were all we had
 
 83
-00:06:36,759 --> 00:06:43,596
+00:06:18,197 --> 00:06:22,540
 I would not have taken this stage. Turn to the immune
 panel, table eleven. Thymic output.
 
 84
-00:06:43,616 --> 00:06:50,144
+00:06:22,560 --> 00:06:26,707
 You know as well as I do that the thymus involutes
 in adolescence and is functionally
 
 85
-00:06:50,164 --> 00:06:57,000
+00:06:26,727 --> 00:06:31,071
 gone by sixty, and that everything that makes an old
 person's infection dangerous follows
 
 86
-00:06:57,020 --> 00:07:03,779
+00:06:31,091 --> 00:06:35,385
 from that: no new T-cell receptors, so no new answers
 to new pathogens, only the answers
 
 87
-00:07:03,799 --> 00:07:05,704
+00:06:35,405 --> 00:06:36,610
 you had in your thirties.
 
 88
-00:07:05,985 --> 00:07:13,201
+00:06:36,891 --> 00:06:41,768
 Table thirteen reports naive CD4 counts and receptor
 excision circles at thirty-one weeks.
 
 89
-00:07:13,221 --> 00:07:20,277
+00:06:41,788 --> 00:06:46,556
 Forty-one of our sixty-nine treated patients have
 output that should not exist in a body
 
 90
-00:07:20,297 --> 00:07:27,112
+00:06:46,576 --> 00:06:51,181
 of that age. That is not a correlation. That is a
 tissue which had closed, reopening,
 
 91
-00:07:27,132 --> 00:07:34,670
+00:06:51,201 --> 00:06:56,296
 in a living human being, and you may verify it in your
 own laboratory because I have published
 
 92
-00:07:34,690 --> 00:07:35,475
+00:06:56,316 --> 00:06:56,841
 the assay.
 
 93
-00:07:35,875 --> 00:07:37,145
+00:06:57,240 --> 00:06:58,511
 And the mechanism?
 
 94
-00:07:37,545 --> 00:07:43,960
+00:06:58,911 --> 00:07:03,398
 I do not know the mechanism, and I have declined to
 guess in public, and I notice that
 
 95
-00:07:43,980 --> 00:07:50,321
+00:07:03,418 --> 00:07:07,854
 this is the first time in eight years anyone at
 this podium has said that sentence to
 
 96
-00:07:50,341 --> 00:07:56,981
+00:07:07,874 --> 00:07:12,519
 you. Dr. Marsh will publish the fractionation in the
 autumn. She will be wrong about part
 
 97
-00:07:57,001 --> 00:08:02,295
+00:07:12,539 --> 00:07:16,241
 of it and you will correct her, and that is
 how it is supposed to work.
 
 98
-00:08:02,694 --> 00:08:08,339
+00:07:16,641 --> 00:07:22,285
 The narrator wishes to record that the applause at
 the end of that session was started,
 
 99
-00:08:08,359 --> 00:08:11,725
+00:07:22,305 --> 00:07:25,671
 involuntarily, by the man from the
 Boston institute.
 
 100
-00:08:12,125 --> 00:08:19,301
+00:07:26,071 --> 00:07:33,247
 Umbrella Life Sciences had listed on the NASDAQ in
 January at a valuation of two billion
 
 101
-00:08:19,321 --> 00:08:26,744
+00:07:33,267 --> 00:07:40,690
 dollars, which Catherine Adeyemi had fought for and
 which Wesker had considered insultingly
 
 102
-00:08:26,764 --> 00:08:27,235
+00:07:40,710 --> 00:07:41,181
 small.
 
 103
-00:08:27,634 --> 00:08:33,445
+00:07:41,581 --> 00:07:47,391
 Nine trading days after the Aeterna release, it
 was worth sixty-one billion.
 
 104
-00:08:33,845 --> 00:08:40,144
+00:07:47,790 --> 00:07:54,090
 Six competitors lost a combined forty per cent. Two
 longevity startups in California folded
 
 105
-00:08:40,164 --> 00:08:46,394
+00:07:54,110 --> 00:08:00,340
 inside a month, not because their science was bad but
 because no fund on earth would write
 
 106
-00:08:46,414 --> 00:08:52,505
+00:08:00,360 --> 00:08:06,451
 another cheque in that space when the answer was
 already on a stage in Philadelphia with
 
 107
-00:08:52,525 --> 00:08:53,755
+00:08:06,471 --> 00:08:07,701
 a published assay.
 
 108
-00:08:54,154 --> 00:09:00,164
+00:08:08,100 --> 00:08:14,110
 A Swiss pharmaceutical house made an approach about
 licensing. A sovereign wealth fund
 
 109
-00:09:00,184 --> 00:09:06,263
+00:08:14,130 --> 00:08:20,209
 offered eleven billion for nineteen per cent and was
 refused. A senator's office called
 
 110
-00:09:06,283 --> 00:09:07,034
+00:08:20,229 --> 00:08:20,980
 Pell twice.
 
 111
-00:09:07,554 --> 00:09:11,956
+00:08:21,500 --> 00:08:25,902
 You understand that you are now personally the
 fourth-richest human being alive, on paper,
 
 112
-00:09:11,976 --> 00:09:13,971
+00:08:25,922 --> 00:08:27,917
 and that by Friday you will be the first.
 
 113
-00:09:14,370 --> 00:09:15,461
+00:08:28,317 --> 00:08:29,387
 On paper.
 
 114
-00:09:15,860 --> 00:09:20,123
+00:08:29,786 --> 00:08:34,049
 Don't do that. Don't do the thing where the number is
 beneath you. That number is a weapon
 
 115
-00:09:20,143 --> 00:09:21,646
+00:08:34,069 --> 00:08:35,572
 and you should hold it properly.
 
 116
-00:09:22,046 --> 00:09:27,053
+00:08:35,971 --> 00:08:40,979
 Wesker turned from the window and looked at her, and
 the narrator notes that she was one
 
 117
-00:09:27,073 --> 00:09:30,995
+00:08:40,999 --> 00:08:44,921
 of perhaps three people in the world who
 would have said that to him.
 
 118
-00:09:31,515 --> 00:09:33,905
+00:08:45,442 --> 00:08:47,418
 Then tell me what it buys.
 
 119
-00:09:34,306 --> 00:09:38,665
+00:08:47,817 --> 00:08:52,177
 It buys the end of anyone's ability to say no to
 you commercially. Every regulator on
 
 120
-00:09:38,685 --> 00:09:43,044
+00:08:52,197 --> 00:08:56,556
 earth now has a queue of citizens outside demanding
 the thing you have. Every finance
 
 121
-00:09:43,064 --> 00:09:47,423
+00:08:56,576 --> 00:09:00,935
 ministry has costed what a nine-year immune
 reversal does to their pension liability,
 
 122
-00:09:47,443 --> 00:09:51,957
+00:09:00,955 --> 00:09:05,469
 and half of them have realised it makes them
 *solvent*. You are no longer a company that
 
 123
-00:09:51,977 --> 00:09:56,388
+00:09:05,489 --> 00:09:09,900
 sells a test. You are a strategic asset of about
 nine countries, and none of them know
 
 124
-00:09:56,408 --> 00:10:00,716
+00:09:09,920 --> 00:09:14,228
 what to do about it, and while they work it out you
 can do almost anything you like.
 
 125
-00:10:01,115 --> 00:10:02,566
+00:09:14,628 --> 00:09:16,288
 How long is "while"?
 
 126
-00:10:02,966 --> 00:10:04,495
+00:09:16,687 --> 00:09:18,217
 Two years. Maybe three.
 
 127
-00:10:04,895 --> 00:10:06,525
+00:09:18,618 --> 00:09:20,248
 He was quiet for a moment.
 
 128
-00:10:07,046 --> 00:10:10,256
+00:09:20,768 --> 00:09:23,619
 Then I will need territory by 2030.
 
 129
-00:10:10,655 --> 00:10:11,975
+00:09:24,019 --> 00:09:25,339
 Territory.
 
 130
-00:10:12,375 --> 00:10:15,625
+00:09:25,739 --> 00:09:28,206
 Goodnight, Ms. Adeyemi.
 
 131
-00:10:16,025 --> 00:10:21,656
+00:09:28,605 --> 00:09:34,235
 The narrator will give you the world in five
 pictures, because this is the year the world
 
 132
-00:10:21,676 --> 00:10:22,735
+00:09:34,255 --> 00:09:35,315
 starts to matter.
 
 133
-00:10:23,135 --> 00:10:29,085
+00:09:35,715 --> 00:09:41,664
 In Singapore, a private clinic took deposits for a
 therapy that was two years from approval,
 
 134
-00:10:29,105 --> 00:10:32,005
+00:09:41,684 --> 00:09:44,585
 and took eighteen thousand of
 them in a week.
 
 135
-00:10:32,405 --> 00:10:38,851
+00:09:44,985 --> 00:09:51,430
 In Ohio, a pharmacist put a printed notice on an
 empty shelf explaining, for the ninth
 
 136
-00:10:38,871 --> 00:10:45,392
+00:09:51,450 --> 00:09:57,971
 time that day, that Aeterna was not a pill, was not
 for sale, and would not be for sale
 
 137
-00:10:45,412 --> 00:10:51,105
+00:09:57,991 --> 00:10:03,684
 until at least 2030, and that no, she did not
 know anybody who could get it.
 
 138
-00:10:51,505 --> 00:10:56,919
+00:10:04,085 --> 00:10:09,498
 In Rome, a cardinal preached a careful sermon about
 the difference between healing and
 
 139
-00:10:56,939 --> 00:11:02,480
+00:10:09,518 --> 00:10:15,059
 refusing to die, and was quoted approvingly by people
 who had not listened to the second
 
 140
-00:11:02,500 --> 00:11:02,796
+00:10:15,079 --> 00:10:15,375
 half.
 
 141
-00:11:03,196 --> 00:11:08,957
+00:10:15,774 --> 00:10:21,536
 In a committee room in Washington, a health economist
 testified that if the trial result
 
 142
-00:11:08,977 --> 00:11:14,804
+00:10:21,556 --> 00:10:27,383
 held at scale, the United States' long-term care
 liability fell by something between four
 
 143
-00:11:14,824 --> 00:11:20,586
+00:10:27,403 --> 00:10:33,165
 and twenty-four trillion dollars, and watched every
 member of the committee stop looking
 
 144
-00:11:20,606 --> 00:11:22,886
+00:10:33,185 --> 00:10:35,465
 at their phones at the same moment.
 
 145
-00:11:23,285 --> 00:11:29,309
+00:10:35,865 --> 00:10:41,888
 And in a dormitory in Manila, a nineteen-year-old
 biology student changed the wallpaper
 
 146
-00:11:29,329 --> 00:11:35,214
+00:10:41,908 --> 00:10:47,793
 on her phone to a photograph of Evelyn Marsh on a
 stage in Philadelphia, and told her
 
 147
-00:11:35,234 --> 00:11:38,965
+00:10:47,813 --> 00:10:51,544
 mother she was going to work for
 those people one day.
 
 148
-00:11:39,365 --> 00:11:45,390
+00:10:51,945 --> 00:10:57,969
 Nobody was frightened. That is the thing to hold on
 to. In the spring of 2028, not one
 
 149
-00:11:45,410 --> 00:11:51,787
+00:10:57,989 --> 00:11:04,366
 human being on this planet was frightened of Umbrella,
 and the reason is simple: everything
 
 150
-00:11:51,807 --> 00:11:53,895
+00:11:04,386 --> 00:11:06,475
 it had done so far was *good*.
 
 151
-00:11:55,046 --> 00:12:03,528
+00:11:07,625 --> 00:11:16,107
 Corporate growth. Valuation event. Sixty-one point
 four billion dollars. Product of global
 
 152
-00:12:03,548 --> 00:12:11,841
+00:11:16,127 --> 00:11:24,420
 consequence: registered. One million four hundred and
 ten thousand Points. Level twenty.
 
 153
-00:12:11,861 --> 00:12:14,581
+00:11:24,440 --> 00:11:27,159
 Thirty stat points available.
 
 154
-00:12:15,169 --> 00:12:18,090
+00:11:27,750 --> 00:11:30,670
 One million four hundred and ten thousand.
 
 155
-00:12:18,490 --> 00:12:24,321
+00:11:31,070 --> 00:11:36,901
 He had built the entire first tier on nine thousand. He
 had bought a campus for thirty-four.
 
 156
-00:12:24,341 --> 00:12:29,919
+00:11:36,921 --> 00:11:42,499
 He looked at a number with six zeros in it, awarded
 for a single quarter, and understood
 
 157
-00:12:29,939 --> 00:12:35,389
+00:11:42,519 --> 00:11:47,969
 that the System had just told him something about
 its own priorities that it had never
 
 158
-00:12:35,409 --> 00:12:36,280
+00:11:47,989 --> 00:11:48,860
 said out loud.
 
 159
-00:12:36,799 --> 00:12:39,250
+00:11:49,379 --> 00:11:51,512
 You do not pay for products.
 
 160
-00:12:39,649 --> 00:12:40,399
+00:11:51,912 --> 00:11:52,662
 No.
 
 161
-00:12:40,799 --> 00:12:47,291
+00:11:53,062 --> 00:11:58,219
 You pay for *consequence*. The assay saves more lives
 than Aeterna will and it was worth
 
 162
-00:12:47,311 --> 00:12:53,950
+00:11:58,239 --> 00:12:03,515
 fourteen thousand. This is worth a hundred times that
 because it moved a pension liability
 
 163
-00:12:53,970 --> 00:12:55,429
+00:12:03,535 --> 00:12:04,692
 in a committee room.
 
 164
-00:12:55,830 --> 00:12:57,508
+00:12:05,091 --> 00:12:06,769
 You are learning to read me.
 
 165
-00:12:57,908 --> 00:13:05,158
+00:12:07,168 --> 00:12:12,119
 I have been reading you since September. Twenty-two
 into Intelligence. Eight into Will.
 
 166
-00:13:06,187 --> 00:13:13,608
+00:12:13,149 --> 00:12:20,569
 Status update. Intelligence, thirty-four to
 forty-two. Will, thirty-two to thirty-eight.
 
 167
-00:13:13,628 --> 00:13:19,273
+00:12:20,589 --> 00:12:26,234
 At Intelligence forty-two you will begin
 to find other people slow.
 
 168
-00:13:19,863 --> 00:13:25,155
+00:12:26,825 --> 00:12:32,117
 The note was not a warning. It was an
 advertisement, and he knew it, and he bought it
 
 169
-00:13:25,175 --> 00:13:25,593
+00:12:32,137 --> 00:12:32,555
 anyway.
 
 170
-00:13:25,993 --> 00:13:28,963
+00:12:32,955 --> 00:12:35,925
 Something behind his eyes turned
 over, and spoke.
 
 171
-00:13:29,482 --> 00:13:31,557
+00:12:36,445 --> 00:12:38,025
 You have made them love you.
 
 172
-00:13:31,956 --> 00:13:37,726
+00:12:38,424 --> 00:12:42,873
 I have made them *want* something. Love is what they
 will call it later, when they cannot
 
 173
-00:13:37,746 --> 00:13:38,247
+00:12:42,893 --> 00:12:43,274
 have it.
 
 174
-00:13:38,647 --> 00:13:40,796
+00:12:43,674 --> 00:12:45,271
 And when they cannot have it?
 
 175
-00:13:41,197 --> 00:13:46,992
+00:12:45,672 --> 00:12:51,467
 Wesker looked down at the river, and at five
 buildings that had appeared over a weekend,
 
 176
-00:13:47,012 --> 00:13:50,626
+00:12:51,487 --> 00:12:55,101
 and at a city that had never once
 asked him a question.
 
 177
-00:13:51,147 --> 00:13:53,037
+00:12:55,621 --> 00:12:57,741
 Then I will own the queue.
