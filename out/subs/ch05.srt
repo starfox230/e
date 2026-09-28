@@ -100,801 +100,801 @@ We're closed — I mean, the building's closed,
 you need a card, how did you —
 
 22
-00:01:49,484 --> 00:01:51,935
+00:01:49,484 --> 00:01:51,695
 Your negative controls are wrong.
 
 23
-00:01:52,334 --> 00:01:53,364
+00:01:52,094 --> 00:01:53,125
 That stopped her.
 
 24
-00:01:53,885 --> 00:01:54,575
+00:01:53,644 --> 00:01:54,334
 I'm sorry?
 
 25
-00:01:54,974 --> 00:02:02,599
+00:01:54,734 --> 00:02:00,047
 Figure four. You ran your uninfected controls in the
 same incubator as your infected plates,
 
 26
-00:02:02,619 --> 00:02:09,911
+00:02:00,067 --> 00:02:05,147
 on the same day, on a shared gas line. Your control
 wells are not clean. They are simply
 
 27
-00:02:09,931 --> 00:02:10,824
+00:02:05,167 --> 00:02:05,785
 less dirty.
 
 28
-00:02:11,224 --> 00:02:13,935
+00:02:06,185 --> 00:02:08,895
 That's — the lab's protocol,
 everyone runs —
 
 29
-00:02:14,336 --> 00:02:20,819
+00:02:09,295 --> 00:02:13,875
 Everyone is wrong, which is why your figure four
 looks like noise, which is why three
 
 30
-00:02:20,839 --> 00:02:27,857
+00:02:13,895 --> 00:02:18,854
 reviewers told you that your effect was not real. It is
 real. You have simply been measuring
 
 31
-00:02:27,877 --> 00:02:30,306
+00:02:18,874 --> 00:02:20,585
 it against a contaminated floor.
 
 32
-00:02:30,705 --> 00:02:36,046
+00:02:20,985 --> 00:02:26,326
 She stood there with a pipette in her hand, in a lab
 coat that had somebody else's name
 
 33
-00:02:36,066 --> 00:02:41,407
+00:02:26,346 --> 00:02:31,687
 stitched on it because hers had never come, looking
 at a man in black sunglasses at ten
 
 34
-00:02:41,427 --> 00:02:43,256
+00:02:31,707 --> 00:02:33,536
 at night in a locked building.
 
 35
-00:02:43,776 --> 00:02:44,556
+00:02:34,056 --> 00:02:34,836
 Who are you?
 
 36
-00:02:44,955 --> 00:02:46,685
+00:02:35,235 --> 00:02:37,045
 Look at figure six.
 
 37
-00:02:47,086 --> 00:02:48,536
+00:02:37,445 --> 00:02:38,895
 She looked at figure six.
 
 38
-00:02:49,056 --> 00:02:55,312
+00:02:39,415 --> 00:02:43,930
 Your vectors cleared at twenty-eight days in four
 animals and persisted past ninety in
 
 39
-00:02:55,332 --> 00:03:01,734
+00:02:43,950 --> 00:02:48,569
 two. You reported a mean. You buried the most
 interesting result in your own paper under
 
 40
-00:03:01,754 --> 00:03:06,186
+00:02:48,589 --> 00:02:51,786
 an average, because a mean is what your
 supervisor asked for.
 
 41
-00:03:06,586 --> 00:03:08,028
+00:02:52,186 --> 00:02:53,628
 The two that persisted were —
 
 42
-00:03:08,429 --> 00:03:15,651
+00:02:54,028 --> 00:02:59,050
 Both female. Both from the second cohort. Both, if I
 have read your supplementary table
 
 43
-00:03:15,671 --> 00:03:20,978
+00:02:59,070 --> 00:03:02,758
 correctly, housed separately after a
 ventilation fault in March.
 
 44
-00:03:21,653 --> 00:03:22,443
+00:03:03,433 --> 00:03:04,223
 Oh my God.
 
 45
-00:03:22,843 --> 00:03:30,650
+00:03:04,623 --> 00:03:10,142
 Yes. You did not discover a failure, Dr. Marsh. You
 discovered that persistence is conditional,
 
 46
-00:03:30,670 --> 00:03:34,933
+00:03:10,162 --> 00:03:13,173
 and then you apologised for it for
 thirty-one pages.
 
 47
-00:03:35,334 --> 00:03:41,712
+00:03:13,574 --> 00:03:19,952
 The narrator would like to record that this
 conversation lasted ninety seconds, that Albert
 
 48
-00:03:41,732 --> 00:03:47,830
+00:03:19,972 --> 00:03:26,070
 Wesker had prepared for it for six hours, and that
 he had not said one single word that
 
 49
-00:03:47,850 --> 00:03:48,603
+00:03:26,090 --> 00:03:26,843
 was untrue.
 
 50
-00:03:49,003 --> 00:03:54,258
+00:03:27,243 --> 00:03:32,498
 That is the whole trick. He never needed to lie to
 a clever person. He needed only to
 
 51
-00:03:54,278 --> 00:03:58,353
+00:03:32,518 --> 00:03:36,593
 be the first human being in their life who
 had read them properly.
 
 52
-00:03:58,873 --> 00:03:59,803
+00:03:37,114 --> 00:03:38,043
 What do you want?
 
 53
-00:04:00,204 --> 00:04:07,957
+00:03:38,443 --> 00:03:43,535
 I have a facility in Wilmington with a BSL-4 sublevel, a
 freezer archive nobody has catalogued,
 
 54
-00:04:07,977 --> 00:04:15,158
+00:03:43,555 --> 00:03:48,269
 and no one in it who can think. Your contract expires
 on the thirty-first of March. Come
 
 55
-00:04:15,178 --> 00:04:22,358
+00:03:48,289 --> 00:03:53,004
 on the first of February. You will report to me. You
 will not write grants. You will not
 
 56
-00:04:22,378 --> 00:04:27,514
+00:03:53,024 --> 00:03:56,393
 teach. You will not explain yourself to
 a committee ever again.
 
 57
-00:04:27,913 --> 00:04:28,764
+00:03:56,794 --> 00:03:57,644
 What's the salary?
 
 58
-00:04:29,163 --> 00:04:35,384
+00:03:58,044 --> 00:04:02,296
 Whatever you ask for. It is the least interesting
 question you could have asked and I
 
 59
-00:04:35,404 --> 00:04:37,514
+00:04:02,316 --> 00:04:03,753
 will forgive you for it once.
 
 60
-00:04:37,913 --> 00:04:43,372
+00:04:04,153 --> 00:04:09,612
 She came on the first of February. She gave four
 weeks' notice the next morning and spent
 
 61
-00:04:43,392 --> 00:04:45,404
+00:04:09,632 --> 00:04:11,643
 the last of them barely sleeping.
 
 62
-00:04:46,553 --> 00:04:54,691
+00:04:12,794 --> 00:04:20,931
 Roster. New. Doctor Evelyn Marsh. Human. Loyalty,
 sixty-one per cent. Human loyalty is
 
 63
-00:04:54,711 --> 00:05:02,754
+00:04:20,951 --> 00:04:28,994
 earned, and is visible to you at all times.
 Consider what you are willing to spend to
 
 64
-00:05:02,774 --> 00:05:03,608
+00:04:29,014 --> 00:04:29,848
 raise it.
 
 65
-00:05:04,197 --> 00:05:07,067
+00:04:30,437 --> 00:04:32,848
 I am willing to spend nothing at all.
 
 66
-00:05:07,468 --> 00:05:08,338
+00:04:33,247 --> 00:04:34,117
 Noted.
 
 67
-00:05:08,737 --> 00:05:15,410
+00:04:34,517 --> 00:04:39,138
 You misunderstand. I do not intend to *buy* her.
 Money buys a floor, not a ceiling. She
 
 68
-00:05:15,430 --> 00:05:22,103
+00:04:39,158 --> 00:04:43,779
 has spent four years being the cleverest person in
 every room she has entered and being
 
 69
-00:05:22,123 --> 00:05:28,641
+00:04:43,799 --> 00:04:48,314
 told to wait her turn. I am going to give her work
 that frightens her and an audience
 
 70
-00:05:28,661 --> 00:05:31,488
+00:04:48,334 --> 00:04:50,288
 of one that is impossible to impress.
 
 71
-00:05:31,887 --> 00:05:33,360
+00:04:50,687 --> 00:04:52,161
 And that will be enough?
 
 72
-00:05:33,761 --> 00:05:40,228
+00:04:52,560 --> 00:04:57,196
 That will be *everything*. You have the wrong model
 of people, System. They do not follow
 
 73
-00:05:40,248 --> 00:05:46,642
+00:04:57,216 --> 00:05:01,798
 what pays them. They follow whatever makes them feel
 like the version of themselves they
 
 74
-00:05:46,662 --> 00:05:48,611
+00:05:01,818 --> 00:05:03,211
 always suspected they were.
 
 75
-00:05:49,011 --> 00:05:51,021
+00:05:03,610 --> 00:05:05,620
 The second one came to destroy him.
 
 76
-00:05:51,420 --> 00:05:57,488
+00:05:06,021 --> 00:05:12,088
 Catherine Adeyemi was thirty-eight, British,
 twenty-seven years in London private equity
 
 77
-00:05:57,508 --> 00:06:03,506
+00:05:12,108 --> 00:05:18,106
 and two in a fund that had recently taken an
 interest in American diagnostics. She flew
 
 78
-00:06:03,526 --> 00:06:09,593
+00:05:18,126 --> 00:05:24,193
 into Philadelphia on the third of February with a
 folder of numbers and a firm intention
 
 79
-00:06:09,613 --> 00:06:13,950
+00:05:24,213 --> 00:05:28,550
 to build a short position, because the
 numbers were impossible.
 
 80
-00:06:14,350 --> 00:06:20,358
+00:05:28,951 --> 00:05:34,958
 They were, in fact, impossible. That was the trouble
 with everything the System did. The
 
 81
-00:06:20,378 --> 00:06:26,660
+00:05:34,978 --> 00:05:41,260
 paperwork was perfect, the history was perfect, the
 witnesses were perfect — and the *rates*
 
 82
-00:06:26,680 --> 00:06:32,756
+00:05:41,280 --> 00:05:47,356
 were wrong. A company does not go from nothing to
 four hundred and six placed instruments
 
 83
-00:06:32,776 --> 00:06:38,715
+00:05:47,376 --> 00:05:53,315
 in ninety days. A plant does not appear in a filing
 with fourteen years of depreciation
 
 84
-00:06:38,735 --> 00:06:44,606
+00:05:53,335 --> 00:05:59,206
 and no capital expenditure to match. Every
 individual document was flawless. The shape
 
 85
-00:06:44,626 --> 00:06:49,881
+00:05:59,226 --> 00:06:04,481
 they made together was a lie, and Catherine
 Adeyemi read shapes for a living.
 
 86
-00:06:50,281 --> 00:06:56,066
+00:06:04,880 --> 00:06:10,666
 She came to the building expecting to be stonewalled
 by a general counsel. She was shown
 
 87
-00:06:56,086 --> 00:07:01,739
+00:06:10,686 --> 00:06:16,339
 into the boardroom and given coffee, and twelve
 minutes later Wesker came in alone and
 
 88
-00:07:01,759 --> 00:07:03,191
+00:06:16,359 --> 00:06:17,790
 sat down opposite her.
 
 89
-00:07:03,711 --> 00:07:09,386
+00:06:18,310 --> 00:06:23,986
 Dr. Wesker. I'll be direct. I think your accounts
 are fraudulent and I intend to say so
 
 90
-00:07:09,406 --> 00:07:10,041
+00:06:24,006 --> 00:06:24,641
 in public.
 
 91
-00:07:10,440 --> 00:07:11,531
+00:06:25,040 --> 00:06:26,110
 Which line?
 
 92
-00:07:11,930 --> 00:07:16,372
+00:06:26,511 --> 00:06:30,952
 The Newark plant. Two hundred and eighty thousand
 square feet, booked at a carrying value
 
 93
-00:07:16,392 --> 00:07:21,236
+00:06:30,972 --> 00:06:35,816
 of thirty-one million with accumulated depreciation from
 2011, and I cannot find the acquisition.
 
 94
-00:07:21,256 --> 00:07:25,597
+00:06:35,836 --> 00:06:40,177
 I have the county recorder. I have fourteen years of
 filings. I have your predecessor's
 
 95
-00:07:25,617 --> 00:07:30,009
+00:06:40,197 --> 00:06:44,589
 accounts, which I obtained legally, and there is no
 plant in them, and then in the third
 
 96
-00:07:30,029 --> 00:07:32,766
+00:06:44,609 --> 00:06:47,347
 quarter there is a plant, and it has
 always been there.
 
 97
-00:07:33,166 --> 00:07:39,217
+00:06:47,747 --> 00:06:53,797
 Wesker did not blink. He had known this question
 would arrive; he had merely expected
 
 98
-00:07:39,237 --> 00:07:40,716
+00:06:53,817 --> 00:06:55,297
 it from a government.
 
 99
-00:07:41,237 --> 00:07:42,447
+00:06:55,817 --> 00:06:57,027
 You are correct.
 
 100
-00:07:42,846 --> 00:07:43,916
+00:06:57,427 --> 00:06:58,497
 I'm sorry?
 
 101
-00:07:44,317 --> 00:07:51,720
+00:06:58,896 --> 00:07:03,697
 You are correct that it cannot be accounted for. You
 are wrong about the conclusion. Fraud
 
 102
-00:07:51,740 --> 00:07:58,896
+00:07:03,716 --> 00:07:08,356
 is a claim about value, Ms. Adeyemi. Go to Route 72.
 Stand in the truck yard. Count the
 
 103
-00:07:58,916 --> 00:08:06,073
+00:07:08,376 --> 00:07:13,015
 vehicles. Watch a cartridge come off the line and
 put it in your handbag and take it to
 
 104
-00:08:06,093 --> 00:08:13,166
+00:07:13,035 --> 00:07:17,621
 any laboratory you like. The plant is *there*. It
 works. It made nine hundred thousand
 
 105
-00:08:13,186 --> 00:08:20,507
+00:07:17,641 --> 00:07:22,387
 cartridges last month. Whatever you believe about
 where it came from, there is no version
 
 106
-00:08:20,527 --> 00:08:25,127
+00:07:22,407 --> 00:07:25,387
 of the story in which shorting my
 stock makes you money.
 
 107
-00:08:25,526 --> 00:08:27,396
+00:07:25,786 --> 00:07:27,656
 She sat very still for a moment.
 
 108
-00:08:27,916 --> 00:08:29,187
+00:07:28,177 --> 00:07:29,447
 Where did it come from?
 
 109
-00:08:29,586 --> 00:08:37,157
+00:07:29,846 --> 00:07:35,076
 That is the one question I will not answer today.
 Ask me again in five years and I may.
 
 110
-00:08:37,557 --> 00:08:43,402
+00:07:35,476 --> 00:07:41,322
 And then he did the thing that neither the lawyers
 nor the System nor Adolf would have
 
 111
-00:08:43,422 --> 00:08:49,268
+00:07:41,342 --> 00:07:47,188
 advised, and that is the reason Catherine Adeyemi
 worked for him for the next fourteen
 
 112
-00:08:49,288 --> 00:08:49,678
+00:07:47,208 --> 00:07:47,597
 years.
 
 113
-00:08:50,198 --> 00:08:56,597
+00:07:48,119 --> 00:07:52,427
 You are going to publish. You have four hundred
 hours of work and a thesis and you are
 
 114
-00:08:56,617 --> 00:09:03,537
+00:07:52,447 --> 00:07:57,108
 not a coward, so you will publish, and it will be
 wrong, and it will cost you your reputation
 
 115
-00:09:03,557 --> 00:09:10,105
+00:07:57,128 --> 00:08:01,538
 — because in six weeks I will report a quarter that
 makes your note look like a tantrum.
 
 116
-00:09:10,125 --> 00:09:10,328
+00:08:01,557 --> 00:08:01,689
 Or.
 
 117
-00:09:10,729 --> 00:09:11,188
+00:08:02,088 --> 00:08:02,548
 Or.
 
 118
-00:09:11,586 --> 00:09:18,509
+00:08:02,947 --> 00:08:07,345
 Or you take the chair at the end of this table.
 Chief Financial Officer. You build the
 
 119
-00:09:18,529 --> 00:09:25,854
+00:08:07,365 --> 00:08:12,021
 public company: the listing, the controls, the
 auditors, all of it, properly, to a standard
 
 120
-00:09:25,874 --> 00:09:33,038
+00:08:12,041 --> 00:08:16,593
 nobody can attack. And you argue with me about money
 whenever you like — loudly, in front
 
 121
-00:09:33,058 --> 00:09:37,317
+00:08:16,613 --> 00:08:19,317
 of others, and you will win perhaps
 one time in four.
 
 122
-00:09:37,716 --> 00:09:40,278
+00:08:19,716 --> 00:08:22,278
 And the other things I might want
 to argue about?
 
 123
-00:09:40,677 --> 00:09:43,587
+00:08:22,677 --> 00:08:25,268
 You will not argue with me about those.
 
 124
-00:09:43,988 --> 00:09:50,722
+00:08:25,668 --> 00:08:32,402
 The pause that followed was eleven seconds long. The
 narrator has counted it on the recording
 
 125
-00:09:50,742 --> 00:09:56,678
+00:08:32,422 --> 00:08:38,358
 that Hale made, which Wesker knew was being made,
 which is a detail worth keeping.
 
 126
-00:09:57,197 --> 00:09:59,754
+00:08:38,878 --> 00:08:41,434
 That's the most honest offer I've
 ever been made.
 
 127
-00:10:00,153 --> 00:10:06,573
+00:08:41,833 --> 00:08:46,677
 It is the only honest offer you have ever been made.
 Everyone else told you that you would
 
 128
-00:10:06,593 --> 00:10:07,504
+00:08:46,697 --> 00:08:47,379
 be a partner.
 
 129
-00:10:08,533 --> 00:10:17,354
+00:08:48,409 --> 00:08:57,230
 Roster. New. Catherine Adeyemi. Human. Loyalty,
 twenty-two per cent. Note: this one will
 
 130
-00:10:17,374 --> 00:10:20,669
+00:08:57,250 --> 00:09:00,545
 never reach one hundred per cent.
 
 131
-00:10:21,259 --> 00:10:28,547
+00:09:01,135 --> 00:09:06,269
 I should hope not. I have twenty-two people who
 cannot say no. I have precisely one who
 
 132
-00:10:28,567 --> 00:10:28,882
+00:09:06,289 --> 00:09:06,505
 can.
 
 133
-00:10:29,283 --> 00:10:34,812
+00:09:06,905 --> 00:09:12,435
 Evelyn Marsh was cleared to the fourth floor. She
 was not cleared to the fourth button.
 
 134
-00:10:35,212 --> 00:10:40,737
+00:09:12,836 --> 00:09:18,360
 She found out about it in the way that everybody in
 that building eventually found out
 
 135
-00:10:40,757 --> 00:10:46,216
+00:09:18,380 --> 00:09:23,839
 about everything, which is to say she noticed
 something and was told nothing and drew
 
 136
-00:10:46,236 --> 00:10:52,082
+00:09:23,859 --> 00:09:29,706
 her own conclusions, and her own conclusions were more
 flattering to Wesker than the truth.
 
 137
-00:10:52,482 --> 00:10:59,075
+00:09:30,105 --> 00:09:36,698
 What she was given instead was the archive: forty-one
 vials marked *ODD — DO NOT DISCARD*,
 
 138
-00:10:59,095 --> 00:11:03,262
+00:09:36,718 --> 00:09:40,885
 thirty years of collected accidents,
 and one instruction.
 
 139
-00:11:03,783 --> 00:11:10,395
+00:09:41,405 --> 00:09:46,181
 Find out what is in them. You will have no deadline,
 no oversight and no obligation to
 
 140
-00:11:10,415 --> 00:11:17,027
+00:09:46,201 --> 00:09:50,976
 publish. If anything in that freezer is interesting,
 I want to know before anyone else
 
 141
-00:11:17,047 --> 00:11:18,493
+00:09:50,996 --> 00:09:52,035
 on the planet does.
 
 142
-00:11:18,893 --> 00:11:21,129
+00:09:52,436 --> 00:09:54,673
 That's not a project. That's a dream.
 
 143
-00:11:21,529 --> 00:11:28,447
+00:09:55,072 --> 00:09:59,624
 It is a test. I do not know what is in those vials
 either. When you tell me, I will learn
 
 144
-00:11:28,467 --> 00:11:34,060
+00:09:59,644 --> 00:10:03,323
 two things — what is in them, and whether you
 are worth the floor space.
 
 145
-00:11:34,460 --> 00:11:39,856
+00:10:03,722 --> 00:10:09,119
 She worked ninety hours that week. She did not tell
 anyone that she had gone back at two
 
 146
-00:11:39,876 --> 00:11:45,335
+00:10:09,139 --> 00:10:14,597
 in the morning on the Saturday, or that when she
 found the first thing — a cell line from
 
 147
-00:11:45,355 --> 00:11:50,751
+00:10:14,617 --> 00:10:20,014
 2004 that should have senesced in forty passages and
 had reached three hundred — she sat
 
 148
-00:11:50,771 --> 00:11:56,230
+00:10:20,034 --> 00:10:25,492
 in the cold room and cried for a minute and a half,
 and then went and found a whiteboard.
 
 149
-00:11:57,379 --> 00:12:06,336
+00:10:26,643 --> 00:10:35,600
 Loyalty. Doctor Evelyn Marsh: sixty-one per cent, to
 seventy-eight. Cost to you: nothing.
 
 150
-00:12:06,927 --> 00:12:08,658
+00:10:36,190 --> 00:10:37,920
 In the silence, the passenger.
 
 151
-00:12:09,177 --> 00:12:11,238
+00:10:38,440 --> 00:10:39,756
 You are good at this.
 
 152
-00:12:11,638 --> 00:12:16,668
+00:10:40,157 --> 00:10:44,047
 I am adequate at this. You would have given
 her a banner and a title.
 
 153
-00:12:17,067 --> 00:12:20,332
+00:10:44,447 --> 00:10:46,509
 And she would have wept for that too.
 
 154
-00:12:20,732 --> 00:12:26,628
+00:10:46,909 --> 00:10:51,062
 For a year. Then she would have wanted a bigger
 title, and you would have had to give
 
 155
-00:12:26,648 --> 00:12:32,683
+00:10:51,082 --> 00:10:55,334
 it to her, and in five years you would have had a
 woman with a title and no results and
 
 156
-00:12:32,703 --> 00:12:38,807
+00:10:55,354 --> 00:10:59,654
 no way to remove her without insulting the banner.
 This way she has nothing but the work
 
 157
-00:12:38,827 --> 00:12:42,982
+00:10:59,674 --> 00:11:02,599
 and my attention, and I can withdraw
 either one at any time.
 
 158
-00:12:43,383 --> 00:12:49,208
+00:11:03,000 --> 00:11:08,825
 The narrator notes that this is the cruellest thing
 said aloud in this chapter, and that
 
 159
-00:12:49,228 --> 00:12:53,593
+00:11:08,845 --> 00:11:13,210
 it was said calmly, in a lift, by a man
 who genuinely admired her.
 
 160
-00:12:54,743 --> 00:13:03,110
+00:11:14,360 --> 00:11:22,727
 Abilities. Command Presence, level one: five
 thousand. In any room you address, attention
 
 161
-00:13:03,130 --> 00:13:08,671
+00:11:22,747 --> 00:11:28,288
 settles and does not wander. Doubt is
 delayed, not removed.
 
 162
-00:13:09,260 --> 00:13:14,315
+00:11:28,878 --> 00:11:33,932
 He bought it on the twenty-eighth, out of a balance
 that had climbed back to fourteen
 
 163
-00:13:14,335 --> 00:13:19,688
+00:11:33,952 --> 00:11:39,305
 thousand eight hundred on the strength of two
 recruitments, a quarter, and what the System
 
 164
-00:13:19,708 --> 00:13:23,270
+00:11:39,325 --> 00:11:42,888
 called *the acquisition of instruments
 that can refuse you.*
 
 165
-00:13:23,671 --> 00:13:29,128
+00:11:43,288 --> 00:11:48,745
 It was, he noted, the first thing he had ever
 purchased that improved him rather than
 
 166
-00:13:29,148 --> 00:13:34,864
+00:11:48,765 --> 00:11:54,481
 his company, and it was also an admission — the first
 of very few — that there was a part
 
 167
-00:13:34,884 --> 00:13:37,636
+00:11:54,501 --> 00:11:57,253
 of this that he could not
 simply out-think.
 
 168
-00:13:38,787 --> 00:13:46,331
+00:11:58,403 --> 00:12:05,947
 Purchase. Command Presence, level one. Balance, nine
 thousand eight hundred. Presence:
 
 169
-00:13:46,351 --> 00:13:53,017
+00:12:05,967 --> 00:12:12,633
 sixteen to twenty-one. This raises the floor.
 It does not raise the ceiling.
 
 170
-00:13:53,606 --> 00:13:55,736
+00:12:13,224 --> 00:12:15,354
 The voice inside him, unasked.
 
 171
-00:13:56,256 --> 00:13:58,975
+00:12:15,874 --> 00:12:17,917
 You bought what I could have taught you.
 
 172
-00:13:59,375 --> 00:14:06,521
+00:12:18,317 --> 00:12:22,878
 I bought five points. You will have to supply the
 rest, and you will do it when I ask
 
 173
-00:14:06,541 --> 00:14:07,785
+00:12:22,898 --> 00:12:23,687
 and not before.
 
 174
-00:14:08,186 --> 00:14:09,999
+00:12:24,086 --> 00:12:25,639
 And if I refuse?
 
 175
-00:14:10,399 --> 00:14:16,740
+00:12:26,038 --> 00:12:30,498
 Then you will spend the next sixty years watching
 me do it badly, which I believe you
 
 176
-00:14:16,760 --> 00:14:19,509
+00:12:30,518 --> 00:12:32,449
 would find more painful than I would.
 
 177
-00:14:19,908 --> 00:14:23,599
+00:12:32,849 --> 00:12:36,539
 There was no answer to that. There was
 rarely an answer to that.
 
 178
-00:14:23,999 --> 00:14:29,419
+00:12:36,938 --> 00:12:42,359
 At the end of the first week of March, the two of
 them ended up at the same lift at the
 
 179
-00:14:29,439 --> 00:14:34,859
+00:12:42,379 --> 00:12:47,799
 same time: the postdoc who had been rescued and the
 banker who had come to destroy him.
 
 180
-00:14:35,379 --> 00:14:37,599
+00:12:48,318 --> 00:12:50,538
 You've been here a month. What do
 you make of him?
 
 181
-00:14:37,999 --> 00:14:42,086
+00:12:50,938 --> 00:12:55,025
 He's the only person I've ever met who
 isn't wasting my time.
 
 182
-00:14:42,485 --> 00:14:44,036
+00:12:55,426 --> 00:12:56,976
 That isn't what I asked.
 
 183
-00:14:44,436 --> 00:14:45,426
+00:12:57,375 --> 00:12:58,365
 No. I know.
 
 184
-00:14:45,826 --> 00:14:47,556
+00:12:58,765 --> 00:13:00,495
 The lift came. They got in.
 
 185
-00:14:48,076 --> 00:14:53,021
+00:13:01,015 --> 00:13:05,961
 He is the most dangerous person who has ever paid me,
 and I have been paid by some genuinely
 
 186
-00:14:53,041 --> 00:14:53,777
+00:13:05,981 --> 00:13:06,716
 appalling men.
 
 187
-00:14:54,177 --> 00:14:54,727
+00:13:07,116 --> 00:13:07,667
 Yes.
 
 188
-00:14:55,126 --> 00:15:00,400
+00:13:08,067 --> 00:13:13,340
 And the way she said it — the narrator would like
 this noted, because it is the first
 
 189
-00:15:00,420 --> 00:15:05,819
+00:13:13,360 --> 00:13:18,759
 time it appears in the record, and it will appear
 again and again for sixty-five years,
 
 190
-00:15:05,839 --> 00:15:08,932
+00:13:18,779 --> 00:13:21,873
 in a hundred languages, from
 millions of throats —
 
 191
-00:15:09,332 --> 00:15:11,622
+00:13:22,273 --> 00:13:24,562
 the way she said it was not agreement.
 
 192
-00:15:12,023 --> 00:15:13,302
+00:13:24,962 --> 00:13:26,242
 It was gratitude.

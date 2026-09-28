@@ -7,7 +7,10 @@ Produces, in out/:
   ffmetadata.txt         embedded chapter marks for players that read them
   manifest.json          per-chapter durations, offsets and QA numbers
 
-Usage: python3 pipeline/assemble.py [--parts N]   (--parts splits into N upload-sized files)
+Usage: python3 pipeline/assemble.py [--parts N] [--metadata-only]
+       --parts splits into N upload-sized files; --metadata-only writes the subtitles, chapter
+       markers and manifest but skips the concatenation, which costs the size of the whole film
+       in disk for a file that cannot be sent through the conversation anyway.
 """
 import os
 import sys
@@ -69,7 +72,7 @@ def shift_srt(src, offset, start_index):
     return lines, idx
 
 
-def main(parts=1):
+def main(parts=1, metadata_only=False):
     chs = chapters_present()
     if not chs:
         print('no rendered chapters')
@@ -107,6 +110,10 @@ def main(parts=1):
         json.dump({'total_s': round(offset, 2), 'total_hms': hhmmss(offset),
                    'chapters': manifest}, f, indent=1)
 
+    if metadata_only:
+        print(f'metadata for {len(chs)} chapters, total runtime {hhmmss(offset)}; concat skipped')
+        return 0
+
     groups = [chs] if parts <= 1 else [chs[i::parts] for i in range(parts)]
     if parts > 1:
         # contiguous split rather than interleaved
@@ -133,4 +140,5 @@ def main(parts=1):
 
 if __name__ == '__main__':
     p = int(sys.argv[sys.argv.index('--parts') + 1]) if '--parts' in sys.argv else 1
-    sys.exit(main(p))
+    meta_only = '--metadata-only' in sys.argv
+    sys.exit(main(p, meta_only))
